@@ -1,4 +1,4 @@
-# rrl / Recreational Reading Log: Open Source Texts  
+# rrl / Recreational Reading Log: Out-of-Copywrite - Open-Access eBooks  
 (*started 2022 July 25*)  
 
 ## Completed:  
