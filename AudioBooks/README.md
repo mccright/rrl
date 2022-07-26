@@ -10,6 +10,11 @@ By Ronan Farrow, 2018
 https://en.wikipedia.org/wiki/Ronan_Farrow  
 
 
+### The Wordy Shipmates (01:21)  
+https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
+By Sarah Vowell (1969- ), published 2008  
+https://en.wikipedia.org/wiki/Sarah_Vowell  
+
 
 ## Pending or Currently Underway:  
 
@@ -27,7 +32,7 @@ Frederick von Kammacher is a young doctor in Germany whose wife has gone insane,
 https://librivox.org/captains-courageous-by-rudyard-kipling/  
 https://en.wikipedia.org/wiki/Captains_Courageous  
 https://www.gutenberg.org/etext/2186  
-By **Rudyard Kipling** (1868 - 1936)  
+By **Rudyard Kipling** (1868 - 1936), published 1897  
 https://en.wikipedia.org/wiki/Rudyard_Kipling  
 Summary from Librivox:  
 Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  
@@ -38,7 +43,7 @@ And when Harvey at last is reunited with his parents, who have thought him dead 
 https://librivox.org/the-ambassadors-by-henry-james/  
 https://en.wikipedia.org/wiki/The_Ambassadors  
 https://www.gutenberg.org/etext/432  
-By **Henry James** (1843 - 1916)  
+By **Henry James** (1843 - 1916), published 1903  
 https://en.wikipedia.org/wiki/Henry_James  
 Summary from Librivox:  
 Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers. Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick. That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser. The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn. Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them. Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
