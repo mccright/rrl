@@ -10,7 +10,7 @@ By Ronan Farrow, 2018
 https://en.wikipedia.org/wiki/Ronan_Farrow  
 
 
-### The Wordy Shipmates (01:21)  
+### The Wordy Shipmates (07:15)  
 https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
 By Sarah Vowell (1969- ), published 2008  
 https://en.wikipedia.org/wiki/Sarah_Vowell  
