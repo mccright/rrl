@@ -12,4 +12,7 @@ Summary:
 
 
 ## Pending or Currently Underway:  
+###NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
+This is a largely uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
+By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
 
