@@ -12,7 +12,13 @@ Summary:
 
 
 ## Pending or Currently Underway:  
-###NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
-This is a largely uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
+### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
+This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
 By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
 
+### The Making of a Pandemic -- Social, Political, and Psychological Perspectives on Covid-19  
+https://link.springer.com/book/10.1007/978-3-031-04964-4  and for Amazon users: [https://www.amazon.com/gp/product/B0B2QY28XC/](https://www.amazon.com/gp/product/B0B2QY28XC/)  
+By John Ehrenreich  
+https://en.wikipedia.org/wiki/John_Ehrenreich and  
+Published 2022-05-30  
+[About this book.](https://link.springer.com/book/10.1007/978-3-031-04964-4?noAccess=true#about-this-book)  
