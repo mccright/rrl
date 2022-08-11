@@ -9,9 +9,23 @@ https://en.wikipedia.org/wiki/The_Call_of_the_Wild
 By Jack London (1876-1916), published 1903  
 https://en.wikipedia.org/wiki/Jack_London  
 
+### Invasion  
+https://www.gutenberg.org/ebooks/29455  
+By Murray Leinster (1896-1975), published 1933  
+https://en.wikipedia.org/wiki/Murray_Leinster  
+
+### Critical difference  
+https://www.gutenberg.org/ebooks/68686  
+By Murray Leinster (1896-1975), published 1956  
+https://en.wikipedia.org/wiki/Murray_Leinster  
 
 
 ## Pending or Currently Underway:  
+
+### Roger the Ranger: A Story of Border Life Among the Indians  
+https://www.gutenberg.org/ebooks/68694  
+By Eliza Fanny Pollard (1840–1911), published 1893  
+https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard  
 
 ### The Outline of History: Being a Plain History of Life and Mankind  
 https://www.gutenberg.org/ebooks/45368  
