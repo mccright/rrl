@@ -3,12 +3,21 @@
 
 ## Completed:  
 
+### Captains Courageous  (5:57)  
+https://librivox.org/captains-courageous-by-rudyard-kipling/  
+https://en.wikipedia.org/wiki/Captains_Courageous  
+https://www.gutenberg.org/etext/2186  
+By **Rudyard Kipling** (1868 - 1936), published 1897  
+https://en.wikipedia.org/wiki/Rudyard_Kipling  
+Summary from Librivox:  
+Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  
+And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
+
 ### War on Peace  (10:54)  
 https://en.wikipedia.org/wiki/War_on_Peace  
 https://wwnorton.com/books/war-on-peace/  
 By Ronan Farrow, 2018  
 https://en.wikipedia.org/wiki/Ronan_Farrow  
-
 
 ### The Wordy Shipmates (07:15)  
 https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
@@ -45,17 +54,6 @@ By **Frederick Thomas Jane** (1865 - 1916)
 https://en.wikipedia.org/wiki/Fred_T._Jane  
 Summary from Librivox:  
 Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
-
-
-### Captains Courageous  (5:57)  
-https://librivox.org/captains-courageous-by-rudyard-kipling/  
-https://en.wikipedia.org/wiki/Captains_Courageous  
-https://www.gutenberg.org/etext/2186  
-By **Rudyard Kipling** (1868 - 1936), published 1897  
-https://en.wikipedia.org/wiki/Rudyard_Kipling  
-Summary from Librivox:  
-Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  
-And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
 
 
 ### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
