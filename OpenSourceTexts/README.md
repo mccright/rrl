@@ -26,6 +26,7 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 https://www.gutenberg.org/ebooks/68694  
 By Eliza Fanny Pollard (1840–1911), published 1893  
 https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard  
+Summary: Historical fiction targeted at what we now call middle-schoolers...  [Charles Langlade](https://en.wikipedia.org/wiki/Charles_Michel_de_Langlade) and (*fictional*) Roger Boscowen, friends since childhood, part ways when they choose opposite sides in the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (*1750s*).  Famous French General [Louis de Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) joined Canada and is helped by Langlade -- but less by Canadian Governor [Marquis de Vaudreuil-Cavagnial](https://en.wikipedia.org/wiki/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial).  Some in the government of French Canada use De Montcalm's daughter to increase the complexity of the General's job...  
 
 ### The Outline of History: Being a Plain History of Life and Mankind  
 https://www.gutenberg.org/ebooks/45368  
