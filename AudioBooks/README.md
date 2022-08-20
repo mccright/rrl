@@ -34,7 +34,12 @@ https://www.gutenberg.org/etext/432
 By **Henry James** (1843 - 1916), published 1903  
 https://en.wikipedia.org/wiki/Henry_James  
 Summary from Librivox:  
-Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers. Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick. That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser. The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn. Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them. Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
+Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers. 
+ Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick. 
+That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser. 
+The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn. 
+Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them. 
+Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
 
 
 ### Atlantis  (13:59)  
