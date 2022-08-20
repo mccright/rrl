@@ -28,6 +28,12 @@ https://en.wikipedia.org/wiki/Jack_London
 
 ## Pending or Currently Underway:  
 
+### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
+https://www.gutenberg.org/ebooks/6711  
+https://en.wikipedia.org/wiki/Philip_Dru:_Administrator
+By Edward Mandell House (1858–1938), published 1912  
+https://en.wikipedia.org/wiki/Edward_M._House  
+
 ### The Outline of History: Being a Plain History of Life and Mankind  
 https://www.gutenberg.org/ebooks/45368  
 https://en.wikipedia.org/wiki/The_Outline_of_History  
