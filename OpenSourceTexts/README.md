@@ -33,7 +33,21 @@ https://www.gutenberg.org/ebooks/6711
 https://en.wikipedia.org/wiki/Philip_Dru:_Administrator
 By Edward Mandell House (1858–1938), published 1912  
 https://en.wikipedia.org/wiki/Edward_M._House  
-utopian reformer
+Utopian reformer..."we are entering a new era. The past is no longer to be a guide to the future…"  
+Main characters: Phillip Dru, Gloria Strawn, Senator Selwyn  
+Also: Governor James R. Rockland (earmarks of a demagogue)…  
+The story outlines how society is corrupted by Dark money, Control of the press, Corrupt high-finance personalitie, Anti-democracy Senators, and a Corrupt anti-democracy President (Rockland)  
+    …who was ignorant of history  
+    …who picks three compliant Supreme Court justices  
+There are recordings that capture corrupt acts by the President, and a Whistleblower.  
+Corrupt leaders are defiant & claim others were doing what they were charged with, and that they were trying to protect America…  They:  
+    …Moved troops to cities and the navy to U.S. coasts  
+    …dehumanized political opponents  
+    …chose quick violence against protest  
+Civil War follows — unrealistic assertions about the nature and practice of war.  More than 50,000 die in the one and only battle -- and the war is won…  
+General Dru remakes the U.S. as a more fair society with a smaller and more responsive government (*too often just by saying so*...)  
+At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240]. https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up)  
+One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
 
 ### The Outline of History: Being a Plain History of Life and Mankind  
 https://www.gutenberg.org/ebooks/45368  
