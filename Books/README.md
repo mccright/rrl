@@ -31,6 +31,16 @@ This is a close-up on Nashville and the people working there in the summer of 19
   
     
 ## Pending or Currently Underway:  
+### Anathem.
+https://en.wikipedia.org/wiki/Anathem
+By Neal Stephenson  
+https://en.wikipedia.org/wiki/Neal_Stephenson  
+Published 2008, 937 pages.  
+See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
+Some Quotes:  
+>"They knew many things but had no idea why.  And strangely this made them more, rather than less, certain that they were right."  
+>"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, our else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
+
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
 By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
