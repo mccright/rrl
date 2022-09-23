@@ -43,6 +43,15 @@ https://en.wikipedia.org/wiki/Sarah_Vowell
 
 ## Pending or Currently Underway:  
 
+### The Awakening (5:14) 
+https://librivox.org/the-awakening-by-kate-chopin/ 
+https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
+By Kate Chopin (1850 - 1904)  
+https://en.wikipedia.org/wiki/Kate_Chopin  
+Publication date: 22 April 1900 (first edition was 1899)  
+
+This text of The Awakening is based on a 
+
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
 https://www.gutenberg.org/ebooks/17241  
