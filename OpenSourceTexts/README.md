@@ -49,6 +49,36 @@ https://en.wikipedia.org/wiki/Jack_London
 
 ## Pending or Currently Underway:  
 
+### Prince Zaleski  
+[Contents: "The Race of Orven," "The Stone of the Edmundsbury Monks," and "The S.S."]  
+https://www.gutenberg.org/ebooks/10709  
+By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
+https://en.wikipedia.org/wiki/M._P._Shiel  
+
+### The Purple Cloud  
+https://www.gutenberg.org/ebooks/11229  
+By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
+https://en.wikipedia.org/wiki/M._P._Shiel  
+Summary: Adam Jeffson finds himself the last man alive on Earth.  
+
+### The Lord of the Sea  
+https://www.gutenberg.org/ebooks/6993  
+By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
+https://en.wikipedia.org/wiki/M._P._Shiel  
+
+### The Last Miracle  
+https://www.gutenberg.org/ebooks/41794
+By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
+https://en.wikipedia.org/wiki/M._P._Shiel  
+
+### Children of the Wind  
+https://gutenberg.ca/ebooks/shiel-childrenofthewind/  
+By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947), Published 1923  
+https://en.wikipedia.org/wiki/M._P._Shiel  
+
+### *Something by [Nevil Shute](http://en.wikipedia.org/wiki/Nevil_Shute)* (1899-1960) Australian novelist  
+See his availible titles at: http://gutenberg.ca/index.html#catalogueS  
+
 ### The Outline of History: Being a Plain History of Life and Mankind  
 https://www.gutenberg.org/ebooks/45368  
 https://en.wikipedia.org/wiki/The_Outline_of_History  
