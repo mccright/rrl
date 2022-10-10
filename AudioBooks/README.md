@@ -1,5 +1,5 @@
 # rrl / Recreational Reading Log: Audio Books  
-(*started 2022 July 25*)  
+(*started 2022 July 25*  &#259e;)  
 
 ## Completed:  
 
@@ -18,6 +18,12 @@ The novel, however, is perhaps really about Strether's education in this new lan
 Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  
 Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
 
+### The Awakening (5:14) 
+https://librivox.org/the-awakening-by-kate-chopin/ 
+https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
+By Kate Chopin (1850 - 1904)  
+https://en.wikipedia.org/wiki/Kate_Chopin  
+Publication date: 22 April 1900 (first edition was 1899)  
 
 ### Captains Courageous  (5:57)  
 https://librivox.org/captains-courageous-by-rudyard-kipling/  
@@ -42,15 +48,6 @@ https://en.wikipedia.org/wiki/Sarah_Vowell
 
 
 ## Pending or Currently Underway:  
-
-### The Awakening (5:14) 
-https://librivox.org/the-awakening-by-kate-chopin/ 
-https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
-By Kate Chopin (1850 - 1904)  
-https://en.wikipedia.org/wiki/Kate_Chopin  
-Publication date: 22 April 1900 (first edition was 1899)  
-
-This text of The Awakening is based on a 
 
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
