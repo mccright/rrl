@@ -1,5 +1,5 @@
 # rrl / Recreational Reading Log: Audio Books  
-(*started 2022 July 25*  &#259e;)  
+(*started 2022 July 25*  &#x259e;)  
 
 ## Completed:  
 
