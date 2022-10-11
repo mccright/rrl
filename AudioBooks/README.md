@@ -18,6 +18,15 @@ The novel, however, is perhaps really about Strether's education in this new lan
 Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  
 Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
 
+### Atlantis  (13:59)  
+https://librivox.org/atlantis-by-gerhart-hauptmann/  
+https://www.gutenberg.org/ebooks/17241  
+By **Gerhart Hauptmann** (1862 - 1946)  
+https://en.wikipedia.org/wiki/Gerhart_Hauptmann  
+Translated by **Adele Szold Seltzer** (1876 - 1940)  
+Summary from Librivox:  
+Frederick von Kammacher is a young doctor in Germany whose wife has gone insane, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
+
 ### The Awakening (5:14) 
 https://librivox.org/the-awakening-by-kate-chopin/ 
 https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
@@ -48,16 +57,6 @@ https://en.wikipedia.org/wiki/Sarah_Vowell
 
 
 ## Pending or Currently Underway:  
-
-### Atlantis  (13:59)  
-https://librivox.org/atlantis-by-gerhart-hauptmann/  
-https://www.gutenberg.org/ebooks/17241  
-By **Gerhart Hauptmann** (1862 - 1946)  
-https://en.wikipedia.org/wiki/Gerhart_Hauptmann  
-Translated by **Adele Szold Seltzer** (1876 - 1940)  
-Summary from Librivox:  
-Frederick von Kammacher is a young doctor in Germany whose wife has gone insane, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
-
 
 ### Blake of the "Rattlesnake"  (5:21)  
 https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
