@@ -3,9 +3,9 @@
 
 ## Completed:  
 
-### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
+### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935
 https://www.gutenberg.org/ebooks/6711  
-https://en.wikipedia.org/wiki/Philip_Dru:_Administrator
+https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
 By Edward Mandell House (1858–1938), published 1912  
 https://en.wikipedia.org/wiki/Edward_M._House  
 Utopian reformer..."we are entering a new era. The past is no longer to be a guide to the future…"  
@@ -21,7 +21,7 @@ Corrupt leaders are defiant & claim others were doing what they were charged wit
     …chose quick violence against protest  
 Civil War follows — unrealistic assertions about the nature and practice of war.  More than 50,000 die in the one and only battle -- and the war is won…  
 General Dru remakes the U.S. as a more fair society with a smaller and more responsive government (*too often just by saying so*...)  
-At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240]. https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up)  
+At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
 One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
 
 ### Roger the Ranger: A Story of Border Life Among the Indians  
@@ -60,7 +60,7 @@ By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?
 Note: This book includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
 
 ### Twenty-Five Years in the Secret Service: The Recollections of a Spy  
-https://www.gutenberg.org/ebooks/68765
+https://www.gutenberg.org/ebooks/68765  
 By [Henri Le Caron](https://en.wikipedia.org/wiki/Thomas_Miller_Beach) (1841-1894) published 1892  
 
 ### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, During a Voyage, Made in 1787, and 1788, in Company with Doctor A. Sparrman and Captain Arrehenius.  
