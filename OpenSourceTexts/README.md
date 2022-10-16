@@ -117,6 +117,10 @@ https://en.wikipedia.org/wiki/The_Outline_of_History
 By H. G. Wells (1866-1946), published 1920  
 https://en.wikipedia.org/wiki/H._G._Wells  
 
+### Southern Horrors: Lynch Law in All Its Phases
+https://www.gutenberg.org/ebooks/14975  
+By Ida B. Wells-Barnett (1862-1931) published in 1892, 1893, 1894  
+
 ### The Underground Railroad  
 https://www.gutenberg.org/ebooks/15263  
 By William Still (1821-1902), published 1871  
