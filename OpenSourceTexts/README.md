@@ -65,9 +65,9 @@ By [Henri Le Caron](https://en.wikipedia.org/wiki/Thomas_Miller_Beach) (1841-189
 
 ### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, During a Voyage, Made in 1787, and 1788, in Company with Doctor A. Sparrman and Captain Arrehenius.  
 https://www.gutenberg.org/ebooks/69156  
-By [Carl Bernhard Wadström](https://brycchancarey.com/abolition/wadstrom.htm) and [Enlightenment, Scientific Exploration and Abolitionism...](https://www.tandfonline.com/doi/abs/10.1080/0144039X.2012.734113), (1746-1799) published 1789  
+By [Carl Bernhard Wadström](https://brycchancarey.com/abolition/wadstrom.htm) and see an article on Wadström at [Enlightenment, Scientific Exploration and Abolitionism...](https://www.tandfonline.com/doi/abs/10.1080/0144039X.2012.734113), (1746-1799) published 1789  
 
-### One or more books by [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel)  
+### (*One or more books by [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel)*)  
 ### Prince Zaleski  
 [Contents: "The Race of Orven," "The Stone of the Edmundsbury Monks," and "The S.S."]  
 https://www.gutenberg.org/ebooks/10709  
@@ -85,8 +85,8 @@ https://www.gutenberg.org/ebooks/6993
 By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
 https://en.wikipedia.org/wiki/M._P._Shiel  
 
-### The Last Miracle  
-https://www.gutenberg.org/ebooks/41794
+### The Last Miracle
+https://www.gutenberg.org/ebooks/41794  
 By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
 https://en.wikipedia.org/wiki/M._P._Shiel  
 
@@ -107,7 +107,7 @@ By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton
 https://www.gutenberg.org/ebooks/5199  
 By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) (1874-1922) published 1919  
 
-### *Something by [Nevil Shute](http://en.wikipedia.org/wiki/Nevil_Shute)* 
+### (*Something by [Nevil Shute](http://en.wikipedia.org/wiki/Nevil_Shute)* )
 Nevil Shute (1899-1960) Australian novelist  
 See his availible titles at: http://gutenberg.ca/index.html#catalogueS  
 
