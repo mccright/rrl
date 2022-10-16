@@ -49,6 +49,25 @@ https://en.wikipedia.org/wiki/Jack_London
 
 ## Pending or Currently Underway:  
 
+### The Clipper Ship Era -- An Epitome of Famous American and British Clipper Ships, Their Owners, Builders, Commanders, and Crews 1843-1869.  
+https://www.gutenberg.org/ebooks/69154  
+By Arthur Hamilton Clark (1841-1922), published 1911  
+[Late Commander of Ship “Verena,” Barque “Agnes,” Steamships “Manchu,” “Suwo Nada,” “Venus,” and “Indiana.” (1863-1877)]  
+
+### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
+https://www.gutenberg.org/ebooks/68780  
+By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
+Note: This book includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
+
+### Twenty-Five Years in the Secret Service: The Recollections of a Spy  
+https://www.gutenberg.org/ebooks/68765
+By [Henri Le Caron](https://en.wikipedia.org/wiki/Thomas_Miller_Beach) (1841-1894) published 1892  
+
+### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, During a Voyage, Made in 1787, and 1788, in Company with Doctor A. Sparrman and Captain Arrehenius.  
+https://www.gutenberg.org/ebooks/69156  
+By [Carl Bernhard Wadström](https://brycchancarey.com/abolition/wadstrom.htm) and [Enlightenment, Scientific Exploration and Abolitionism...](https://www.tandfonline.com/doi/abs/10.1080/0144039X.2012.734113), (1746-1799) published 1789  
+
+### One or more books by [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel)  
 ### Prince Zaleski  
 [Contents: "The Race of Orven," "The Stone of the Edmundsbury Monks," and "The S.S."]  
 https://www.gutenberg.org/ebooks/10709  
@@ -76,7 +95,20 @@ https://gutenberg.ca/ebooks/shiel-childrenofthewind/
 By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947), Published 1923  
 https://en.wikipedia.org/wiki/M._P._Shiel  
 
-### *Something by [Nevil Shute](http://en.wikipedia.org/wiki/Nevil_Shute)* (1899-1960) Australian novelist  
+### The Woman of Mystery  
+https://www.gutenberg.org/ebooks/69149  
+by [Georges Ohnet](https://en.wikipedia.org/wiki/Georges_Ohnet) (1848-1918) published 1904  
+
+### Shackleton in the Antarctic: Being the story of the British Antarctic  
+https://www.gutenberg.org/ebooks/69138  
+By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) (1874-1922) published 1911  
+#### or
+### South: The Story of Shackleton's Last Expedition, 1914-1917  
+https://www.gutenberg.org/ebooks/5199  
+By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) (1874-1922) published 1919  
+
+### *Something by [Nevil Shute](http://en.wikipedia.org/wiki/Nevil_Shute)* 
+Nevil Shute (1899-1960) Australian novelist  
 See his availible titles at: http://gutenberg.ca/index.html#catalogueS  
 
 ### The Outline of History: Being a Plain History of Life and Mankind  
