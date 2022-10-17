@@ -119,7 +119,13 @@ https://en.wikipedia.org/wiki/H._G._Wells
 
 ### Southern Horrors: Lynch Law in All Its Phases
 https://www.gutenberg.org/ebooks/14975  
-By Ida B. Wells-Barnett (1862-1931) published in 1892, 1893, 1894  
+By [Ida B. Wells-Barnett](https://en.wikipedia.org/wiki/Ida_B._Wells) (1862-1931) published in 1892, 1893, 1894  
+
+### Lynch Law in Georgia.
+https://www.gutenberg.org/ebooks/64426  
+By [Ida B. Wells-Barnett](https://en.wikipedia.org/wiki/Ida_B._Wells) (1862-1931), published 1899  
+>"During six weeks of the months of March and April 1899, twelve colored men were lynched in Georgia, the reign of outlawry culminating in the torture and hanging of the colored preacher, Elijah Strickland, and the burning alive of Samuel Wilkes, alias Hose, Sunday, April 23, 1899."  
+
 
 ### The Underground Railroad  
 https://www.gutenberg.org/ebooks/15263  
