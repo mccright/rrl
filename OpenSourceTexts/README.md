@@ -99,6 +99,20 @@ https://en.wikipedia.org/wiki/M._P._Shiel
 https://www.gutenberg.org/ebooks/69149  
 by [Georges Ohnet](https://en.wikipedia.org/wiki/Georges_Ohnet) (1848-1918) published 1904  
 
+### The Souls of Black Folk  
+https://www.gutenberg.org/ebooks/408
+https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk
+By W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)   published 1903  
+https://en.wikipedia.org/wiki/W._E._B._Du_Bois
+
+
+### John Brown  
+https://www.gutenberg.org/ebooks/62799
+https://en.wikipedia.org/wiki/John_Brown_(abolitionist)
+By W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)   published 1909  
+https://en.wikipedia.org/wiki/W._E._B._Du_Bois
+
+
 ### Shackleton in the Antarctic: Being the story of the British Antarctic  
 https://www.gutenberg.org/ebooks/69138  
 By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) (1874-1922) published 1911  
@@ -144,6 +158,9 @@ https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford
 
 
 ## Look Here for *New* Books to Read  
+#### Review: Books by W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), 1868-1963  
+https://www.gutenberg.org/ebooks/author/226
+
 #### Review: Books about Underground Railroad  
 https://www.gutenberg.org/ebooks/subject/10245  
 
