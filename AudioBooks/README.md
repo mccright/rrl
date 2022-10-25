@@ -61,7 +61,7 @@ https://en.wikipedia.org/wiki/Sarah_Vowell
 ### Blake of the "Rattlesnake"  (5:21)  
 https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
 https://archive.org/details/blakerattlesnak00janegoog  
-By **Frederick Thomas Jane** (1865 - 1916)  
+By **Frederick Thomas Jane** (1865 - 1916)  Published 1895  
 https://en.wikipedia.org/wiki/Fred_T._Jane  
 Summary from Librivox:  
 Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
@@ -70,10 +70,23 @@ Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doub
 ### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
 https://librivox.org/kings-queens-and-pawns-by-mary-roberts-rinehart/  
 https://www.gutenberg.org/ebooks/14457  
-By **Mary Roberts Rinehart** (1876 - 1958)  
+By **Mary Roberts Rinehart** (1876 - 1958)  Published 1915  
 https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart  
 Summary from Librivox:  
 A personal account of the American author's visit to Europe in January 1915 while a war correspondent in Belgium for The Saturday Evening Post. She writes: "War is not two great armies meeting in a clash and frenzy of battle. It is much more than that. War is a boy carried on a stretcher, looking up at God's blue sky with bewildered eyes that are soon to close; war is a woman carrying a child that has been wounded by a shell; war is spirited horses tied in burning buildings and waiting for death; war is the flower of a race, torn, battered, hungry, bleeding, up to its knees in icy water; war is an old woman burning a candle before the Mater Dolorosa for the son she has given.  
+
+
+### Search the Sky (06:47)  
+https://librivox.org/search-the-sky-by-frederik-pohl/  
+https://en.wikipedia.org/wiki/Search_the_Sky  
+Text: https://www.gutenberg.org/ebooks/52228  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
+
+
+### Preferred Risk (06:26)  
+https://librivox.org/preferred-risk-by-frederik-pohl/  
+Text: https://www.gutenberg.org/ebooks/51814  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
 
 
 ### His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice  
