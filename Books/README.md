@@ -41,6 +41,10 @@ Some Quotes:
 >"They knew many things but had no idea why.  And strangely this made them more, rather than less, certain that they were right."  
 >"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, our else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
 >Thousands of years ago, the work that people did had been broken down into jobs that were the same every day, in organizations where people were interchangeable parts.  All of the story had been bled out of their lives.  That was how it had to be; it was how you got a productive economy.  But it would be easy to see a will at work behind this: not exactly an evil will, but a selfish will.  The people who made this system thus were jealous, not of money and not of power but of story.  If their employees came home at day's end with interesting stories to tell, it meant something had gone wrong...  
+>There is no longer superposition.  No wavefunction collapse.  Just a lot of copies of me -- of my brain -- each really existing in a different parallel cosmos.  The cosmos model residing in each of those parallel brains is really, definitely in one state or another.  And they interfere with one another.  
+>Quantum interference -- the crosstalk among similar quantum states -- knits the different versions of your brain together.  
+>Hearing was worse than useless; I was sorry I'd been born with ears.  
+>And it happened all the time that the compromise between two perfectly rational altrnatives was something that made no sense at all.  
 
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
