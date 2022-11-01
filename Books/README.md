@@ -45,6 +45,7 @@ Some Quotes:
 >Quantum interference -- the crosstalk among similar quantum states -- knits the different versions of your brain together.  
 >Hearing was worse than useless; I was sorry I'd been born with ears.  
 >And it happened all the time that the compromise between two perfectly rational altrnatives was something that made no sense at all.  
+>There is one universe, by the definition of *universe*. It is not the cosmos we see through our eyes and our telescopes -- *that* is but a single Narrative, a thread winding through a Hemm space shared by many other Narratives besides ours.  Each Narrative looks like a cosmos alone, to any consciousness that partakes of it.  
 
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
