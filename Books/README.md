@@ -31,12 +31,14 @@ This is a close-up on Nashville and the people working there in the summer of 19
   
     
 ## Pending or Currently Underway:  
-### Anathem.
-https://en.wikipedia.org/wiki/Anathem
+### Anathem.  
+https://en.wikipedia.org/wiki/Anathem  
 By Neal Stephenson  
 https://en.wikipedia.org/wiki/Neal_Stephenson  
 Published 2008, 937 pages.  
 See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
+This story has enormous scope, incorporating a broad spectrum of [science fiction](https://en.wikipedia.org/wiki/List_of_science_fiction_themes) and [religious](https://en.wikipedia.org/wiki/List_of_religious_ideas_in_science_fiction) themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
+In this story *theors* do **not** work like [this](https://www.explainxkcd.com/wiki/index.php/435:_Purity)  
 Some Quotes:  
 >"They knew many things but had no idea why.  And strangely this made them more, rather than less, certain that they were right."  
 >"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, our else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
@@ -46,6 +48,10 @@ Some Quotes:
 >Hearing was worse than useless; I was sorry I'd been born with ears.  
 >And it happened all the time that the compromise between two perfectly rational altrnatives was something that made no sense at all.  
 >There is one universe, by the definition of *universe*. It is not the cosmos we see through our eyes and our telescopes -- *that* is but a single Narrative, a thread winding through a Hemm space shared by many other Narratives besides ours.  Each Narrative looks like a cosmos alone, to any consciousness that partakes of it.  
+>...the only way to determine the direction of time's arrow was to measure the amount of disorder in a system. The cosmos seems oblivious to time.  It only matters to us.  Consciousness is time-constituting.  We build time up out of instantaneous impressions that flow in through our sensory organs at each moment.  
+>We don't give our consciousness sufficient credit for its ability to take in noisy, ambiguous, contradictory givens from the senses, and sort it out... to confer *thisness* on what we perceive.  ...absolutely necessary from an evolutionary standpoint...  
+>The full cosmos consists of the physical stuff and consciousness.  Take away the consciouness and it's only dust; add consciousness and you get things, ideas, and time.  
+
 
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
