@@ -51,6 +51,13 @@ Some Quotes:
 >...the only way to determine the direction of time's arrow was to measure the amount of disorder in a system. The cosmos seems oblivious to time.  It only matters to us.  Consciousness is time-constituting.  We build time up out of instantaneous impressions that flow in through our sensory organs at each moment.  
 >We don't give our consciousness sufficient credit for its ability to take in noisy, ambiguous, contradictory givens from the senses, and sort it out... to confer *thisness* on what we perceive.  ...absolutely necessary from an evolutionary standpoint...  
 >The full cosmos consists of the physical stuff and consciousness.  Take away the consciouness and it's only dust; add consciousness and you get things, ideas, and time.  
+>"All right, already!  I get it! The Hylaean Flow brings about convergent development of consciousness-bearing systems across worldtracks!  But where is the payoff?  There's got to be more to it than this big ship roaming from cosmos to cosmos collecting sample populations and embalming them in spheres."  
+>I thought that I was like a man lame in one leg, who learned to move about well enough that all awareness of his disability had passed out of his mind.  And yet, when he tried to go on a journey, he kept finding himself back where he had started, since his weak leg made him go in circles.  But if he found a partner who was weak in the other leg, and the two of them set out as companions...  
+>Then I happened to glance down at the coffin beside my knee, and wondered... Who had given the order...  
+>There are certain worldtracks -- certain states of affairs -- that are only compatible with certain persons' being...absent.  
+>Upsight: A sudden, usually unlooked-for moment of clear understanding.  
+>The mystic nails a symbol to one meaning that was true for a moment but soon becomes false.  The poet, on the other hand, sees that truth *while it's true* but understands that symbols are always in flux and that their meanings are fleeting.... Anyway, my point is that guys like Flec have a weakness, almost a kind of addiction, for the mystical, as opposed to poetic, way of using their minds.  
+>...the evolution of our minds from bits of inanimate matter was more beautiful and more extraordinary than any of the miracles cataloged down through the ages by the religions of our world. And so he had an instinctive skepticism of any system of thought, religious or theorical, that pretended to encompass that miracle, and in so doing sought to draw limits around it.  
 
 
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
