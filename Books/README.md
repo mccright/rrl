@@ -2,6 +2,39 @@
 (*started 2022 July 25*)  
 
 ## Completed:  
+### Anathem.  
+https://en.wikipedia.org/wiki/Anathem  
+https://www.nealstephenson.com/anathem.html  
+By Neal Stephenson  
+https://en.wikipedia.org/wiki/Neal_Stephenson  
+Published 2008, 937 pages.  
+See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
+When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
+This story has enormous scope, incorporating a broad spectrum of [science fiction](https://en.wikipedia.org/wiki/List_of_science_fiction_themes) and [religious](https://en.wikipedia.org/wiki/List_of_religious_ideas_in_science_fiction) themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
+Some Quotes:  
+>Its general import is that one should never believe a thing only because one wishes that it were true.  
+>They knew many things but had no idea why.  And strangely this made them more, rather than less, certain that they were right.  
+>"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, our else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
+>Thousands of years ago, the work that people did had been broken down into jobs that were the same every day, in organizations where people were interchangeable parts.  All of the story had been bled out of their lives.  That was how it had to be; it was how you got a productive economy.  But it would be easy to see a will at work behind this: not exactly an evil will, but a selfish will.  The people who made this system thus were jealous, not of money and not of power but of story.  If their employees came home at day's end with interesting stories to tell, it meant something had gone wrong...  
+>There is no longer superposition.  No wavefunction collapse.  Just a lot of copies of me -- of my brain -- each really existing in a different parallel cosmos.  The cosmos model residing in each of those parallel brains is really, definitely in one state or another.  And they interfere with one another.  
+>Quantum interference -- the crosstalk among similar quantum states -- knits the different versions of your brain together.  
+>Hearing was worse than useless; I was sorry I'd been born with ears.  
+>And it happened all the time that the compromise between two perfectly rational altrnatives was something that made no sense at all.  
+>There is one universe, by the definition of *universe*. It is not the cosmos we see through our eyes and our telescopes -- *that* is but a single Narrative, a thread winding through a Hemm space shared by many other Narratives besides ours.  Each Narrative looks like a cosmos alone, to any consciousness that partakes of it.  
+>...the only way to determine the direction of time's arrow was to measure the amount of disorder in a system. The cosmos seems oblivious to time.  It only matters to us.  Consciousness is time-constituting.  We build time up out of instantaneous impressions that flow in through our sensory organs at each moment.  
+>We don't give our consciousness sufficient credit for its ability to take in noisy, ambiguous, contradictory givens from the senses, and sort it out... to confer *thisness* on what we perceive.  ...absolutely necessary from an evolutionary standpoint...  
+>The full cosmos consists of the physical stuff and consciousness.  Take away the consciouness and it's only dust; add consciousness and you get things, ideas, and time.  
+>"All right, already!  I get it! The Hylaean Flow brings about convergent development of consciousness-bearing systems across worldtracks!  But where is the payoff?  There's got to be more to it than this big ship roaming from cosmos to cosmos collecting sample populations and embalming them in spheres."  
+>I thought that I was like a man lame in one leg, who learned to move about well enough that all awareness of his disability had passed out of his mind.  And yet, when he tried to go on a journey, he kept finding himself back where he had started, since his weak leg made him go in circles.  But if he found a partner who was weak in the other leg, and the two of them set out as companions...  
+>Then I happened to glance down at the coffin beside my knee, and wondered... Who had given the order...  
+>There are certain worldtracks -- certain states of affairs -- that are only compatible with certain persons' being...absent.  
+>Upsight: A sudden, usually unlooked-for moment of clear understanding.  
+>The mystic nails a symbol to one meaning that was true for a moment but soon becomes false.  The poet, on the other hand, sees that truth *while it's true* but understands that symbols are always in flux and that their meanings are fleeting.... Anyway, my point is that guys like Flec have a weakness, almost a kind of addiction, for the mystical, as opposed to poetic, way of using their minds.  
+>...the evolution of our minds from bits of inanimate matter was more beautiful and more extraordinary than any of the miracles cataloged down through the ages by the religions of our world. And so he had an instinctive skepticism of any system of thought, religious or theorical, that pretended to encompass that miracle, and in so doing sought to draw limits around it.  
+>I was an adjunct professor, which means that I was given the most unpleasant and unrewarding teaching assignments with no opportunity for university-supported research, no job security, and no benefits.  Also the pay was terrible...  
+>Well, that would challenge certain assumptions about the nature of reality that I did not even know I had.  
+
+
 ### The Diamond Age or, A Young Lady's Illustrated Primer  
 https://en.wikipedia.org/wiki/The_Diamond_Age  
 By Neal Stephenson  
@@ -31,34 +64,6 @@ This is a close-up on Nashville and the people working there in the summer of 19
   
     
 ## Pending or Currently Underway:  
-### Anathem.  
-https://en.wikipedia.org/wiki/Anathem  
-By Neal Stephenson  
-https://en.wikipedia.org/wiki/Neal_Stephenson  
-Published 2008, 937 pages.  
-See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
-This story has enormous scope, incorporating a broad spectrum of [science fiction](https://en.wikipedia.org/wiki/List_of_science_fiction_themes) and [religious](https://en.wikipedia.org/wiki/List_of_religious_ideas_in_science_fiction) themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
-In this story *theors* do **not** work like [this](https://www.explainxkcd.com/wiki/index.php/435:_Purity)  
-Some Quotes:  
->"They knew many things but had no idea why.  And strangely this made them more, rather than less, certain that they were right."  
->"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, our else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
->Thousands of years ago, the work that people did had been broken down into jobs that were the same every day, in organizations where people were interchangeable parts.  All of the story had been bled out of their lives.  That was how it had to be; it was how you got a productive economy.  But it would be easy to see a will at work behind this: not exactly an evil will, but a selfish will.  The people who made this system thus were jealous, not of money and not of power but of story.  If their employees came home at day's end with interesting stories to tell, it meant something had gone wrong...  
->There is no longer superposition.  No wavefunction collapse.  Just a lot of copies of me -- of my brain -- each really existing in a different parallel cosmos.  The cosmos model residing in each of those parallel brains is really, definitely in one state or another.  And they interfere with one another.  
->Quantum interference -- the crosstalk among similar quantum states -- knits the different versions of your brain together.  
->Hearing was worse than useless; I was sorry I'd been born with ears.  
->And it happened all the time that the compromise between two perfectly rational altrnatives was something that made no sense at all.  
->There is one universe, by the definition of *universe*. It is not the cosmos we see through our eyes and our telescopes -- *that* is but a single Narrative, a thread winding through a Hemm space shared by many other Narratives besides ours.  Each Narrative looks like a cosmos alone, to any consciousness that partakes of it.  
->...the only way to determine the direction of time's arrow was to measure the amount of disorder in a system. The cosmos seems oblivious to time.  It only matters to us.  Consciousness is time-constituting.  We build time up out of instantaneous impressions that flow in through our sensory organs at each moment.  
->We don't give our consciousness sufficient credit for its ability to take in noisy, ambiguous, contradictory givens from the senses, and sort it out... to confer *thisness* on what we perceive.  ...absolutely necessary from an evolutionary standpoint...  
->The full cosmos consists of the physical stuff and consciousness.  Take away the consciouness and it's only dust; add consciousness and you get things, ideas, and time.  
->"All right, already!  I get it! The Hylaean Flow brings about convergent development of consciousness-bearing systems across worldtracks!  But where is the payoff?  There's got to be more to it than this big ship roaming from cosmos to cosmos collecting sample populations and embalming them in spheres."  
->I thought that I was like a man lame in one leg, who learned to move about well enough that all awareness of his disability had passed out of his mind.  And yet, when he tried to go on a journey, he kept finding himself back where he had started, since his weak leg made him go in circles.  But if he found a partner who was weak in the other leg, and the two of them set out as companions...  
->Then I happened to glance down at the coffin beside my knee, and wondered... Who had given the order...  
->There are certain worldtracks -- certain states of affairs -- that are only compatible with certain persons' being...absent.  
->Upsight: A sudden, usually unlooked-for moment of clear understanding.  
->The mystic nails a symbol to one meaning that was true for a moment but soon becomes false.  The poet, on the other hand, sees that truth *while it's true* but understands that symbols are always in flux and that their meanings are fleeting.... Anyway, my point is that guys like Flec have a weakness, almost a kind of addiction, for the mystical, as opposed to poetic, way of using their minds.  
->...the evolution of our minds from bits of inanimate matter was more beautiful and more extraordinary than any of the miracles cataloged down through the ages by the religions of our world. And so he had an instinctive skepticism of any system of thought, religious or theorical, that pretended to encompass that miracle, and in so doing sought to draw limits around it.  
-
 
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
