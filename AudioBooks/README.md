@@ -105,7 +105,42 @@ https://librivox.org/the-harvester-by-gene-stratton-porter-2/
 Text: https://www.gutenberg.org/ebooks/349  
 Gene Stratton-Porter (1863 - 1924)  published 1911  
 https://en.wikipedia.org/wiki/Gene_Stratton-Porter  
-David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog “advises” him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. (Summary by Warren Kati)  
+David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. (Summary by Warren Kati)  
+
+
+### The Heart of the Ancient Wood  (4:54)  
+https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
+Text: https://www.gutenberg.org/ebooks/47671  
+Sir Charles G. D. Roberts (1860 - 1943)  published 1902  
+https://en.wikipedia.org/wiki/Charles_G._D._Roberts  
+A woman and her daughter take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
+
+
+### I Spy  (6:39)  
+https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
+Text: https://www.gutenberg.org/ebooks/9812  
+Natalie Sumner Lincoln (1881 - 1935)  published 1916  
+https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln  
+Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  [Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/).  
+
+
+### The Four Horsemen of the Apocalypse  (16:27)  
+https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/  
+https://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(novel)  
+Text: https://www.gutenberg.org/ebooks/1484  
+Vicente Blasco Ibáñez (1867 - 1928)  published 1916, and 1918 English translation by Charlotte Brewster Jordan  
+https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez  
+Translated by Charlotte Jordan Brewster (1862 - 1945)  
+https://en.wikipedia.org/wiki/Charlotte_Brewster_Jordan  
+http://es.wikipedia.org/wiki/Charlotte_Brewster_Jordan  
+The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
+
+
+### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
+https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
+Edward Carpenter (1844 - 1929)  published 1921  
+https://en.wikipedia.org/wiki/Edward_Carpenter  
+In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
 
 
 ### Search the Sky (06:47)  
