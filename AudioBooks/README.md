@@ -146,6 +146,14 @@ Based on the events of the last days of Marcus Porcius Cato Uticensis (better kn
 This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
 
 
+### The Color of a Great City  (8:36)  
+https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
+Text: https://www.gutenberg.org/ebooks/61043  
+Theodore Dreiser (1871 - 1945)  published 1923  
+http://en.wikipedia.org/wiki/Theodore_Dreiser  
+This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/)  
+
+
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
 https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
 Edward Carpenter (1844 - 1929)  published 1921  
