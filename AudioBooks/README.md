@@ -136,6 +136,16 @@ http://es.wikipedia.org/wiki/Charlotte_Brewster_Jordan
 The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
 
 
+### Cato, a Tragedy in Five Acts  (1:47)  
+https://librivox.org/cato-by-joseph-addison/  
+Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
+Text: https://www.gutenberg.org/ebooks/31592  
+Joseph Addison (1672 - 1719)  published 1712  
+https://en.wikipedia.org/wiki/Joseph_Addison  
+Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death [Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy). 
+This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
+
+
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
 https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
 Edward Carpenter (1844 - 1929)  published 1921  
