@@ -82,6 +82,24 @@ William Parsons Warburton (1826 - 1913)
 https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html  
 Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
 
+
+### Saint Joan: Preface  (2:12)  
+https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
+https://en.wikipedia.org/wiki/Saint_Joan_(play)  
+Text: https://archive.org/details/SaintJoan/page/n1  
+George Bernard Shaw (1856 - 1950)  
+https://en.wikipedia.org/wiki/George_Bernard_Shaw  
+Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
+
+
+### A Political Pilgrim in Europe  (9:34)  
+https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
+Text: https://www.gutenberg.org/ebooks/68238/  
+Ethel Snowden, Viscountess Snowden (1881 - 1951)  published 1921  
+https://en.wikipedia.org/wiki/Ethel_Snowden  
+Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
+
+
 ### Triplanetary, First in the Lensman Series (10:31)  
 https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
 https://en.wikipedia.org/wiki/Triplanetary_(novel)  
@@ -152,6 +170,14 @@ Text: https://www.gutenberg.org/ebooks/61043
 Theodore Dreiser (1871 - 1945)  published 1923  
 http://en.wikipedia.org/wiki/Theodore_Dreiser  
 This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/)  
+
+
+### Life of Henry David Thoreau (7:44)  
+https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
+Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
+Henry Salt (1851 - 1939)  published 1890  
+https://en.wikipedia.org/wiki/Henry_Stephens_Salt  
+Henry David Thoreau was a fascinating man, contributing vast amounts of information on nature history, leading the way for environmentalism. He also was a philosopher, abolitionist, anarchist, writer, poet, and a bit of a mystery. He is best known for his book 'Walden', and his essay on 'Civil Disobedience'. This early biography by Henry Salt is highly regarded by Thoreau scholars. [Summary by Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/)  
 
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
