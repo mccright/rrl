@@ -67,6 +67,35 @@ By [Henri Le Caron](https://en.wikipedia.org/wiki/Thomas_Miller_Beach) (1841-189
 https://www.gutenberg.org/ebooks/69156  
 By [Carl Bernhard Wadström](https://brycchancarey.com/abolition/wadstrom.htm) and see an article on Wadström at [Enlightenment, Scientific Exploration and Abolitionism...](https://www.tandfonline.com/doi/abs/10.1080/0144039X.2012.734113), (1746-1799) published 1789  
 
+### Three Soldiers  
+https://www.gutenberg.org/ebooks/6362  
+John Dos Passos (1896-1970, John Roderigo Dos Passos)  published 1921  
+https://en.wikipedia.org/wiki/John_Dos_Passos  
+
+### One Man's Initiation—1917  
+https://www.gutenberg.org/ebooks/24202  
+John Dos Passos (1896-1970, John Roderigo Dos Passos)  published 1922  
+https://en.wikipedia.org/wiki/John_Dos_Passos  
+
+### Manhattan Transfer  
+https://en.wikisource.org/wiki/Manhattan_Transfer  
+https://en.wikipedia.org/wiki/Manhattan_Transfer_(novel)  
+https://en.wikisource.org/wiki/Index:Manhattan_Transfer_(John_Dos_Passos,_1925).djvu  
+John Dos Passos (1896-1970, John Roderigo Dos Passos)  published 1925  
+https://en.wikipedia.org/wiki/John_Dos_Passos  
+
+### The Camp-Life of the Third Regiment  
+https://www.gutenberg.org/ebooks/46430  
+Robert Thomas Kerlin (1866-1950)  published 1898  
+https://en.wikipedia.org/wiki/Robert_T._Kerlin  
+Spanish-American War  
+
+### Negro Poets and Their Poems  
+https://www.gutenberg.org/ebooks/60003  
+https://en.wikipedia.org/wiki/Negro_Poets_and_Their_Poems  
+Robert Thomas Kerlin (1866-1950)  published 1923  
+https://en.wikipedia.org/wiki/Robert_T._Kerlin  
+
 ### (*One or more books by [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel)*)  
 ### Prince Zaleski  
 [Contents: "The Race of Orven," "The Stone of the Edmundsbury Monks," and "The S.S."]  
