@@ -61,7 +61,7 @@ Note: This book includes an early usage of the term "[greasy spoon](https://en.w
 
 ### Twenty-Five Years in the Secret Service: The Recollections of a Spy  
 https://www.gutenberg.org/ebooks/68765  
-By [Henri Le Caron](https://en.wikipedia.org/wiki/Thomas_Miller_Beach) (1841-1894) published 1892  
+By Henri Le Caron (1841-1894) [[real name: Thomas Miller Beach](https://en.wikipedia.org/wiki/Thomas_Miller_Beach)] published 1892  
 
 ### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, During a Voyage, Made in 1787, and 1788, in Company with Doctor A. Sparrman and Captain Arrehenius.  
 https://www.gutenberg.org/ebooks/69156  
@@ -69,6 +69,7 @@ By [Carl Bernhard Wadström](https://brycchancarey.com/abolition/wadstrom.htm) a
 
 ### Three Soldiers  
 https://www.gutenberg.org/ebooks/6362  
+https://en.wikipedia.org/wiki/Three_Soldiers  
 John Dos Passos (1896-1970, John Roderigo Dos Passos)  published 1921  
 https://en.wikipedia.org/wiki/John_Dos_Passos  
 
