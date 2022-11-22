@@ -113,24 +113,21 @@ The novel covers several episodes in an eons-long eugenics project of the super-
 https://librivox.org/first-lensman-by-e-e-smith/  
 https://en.wikipedia.org/wiki/First_Lensman  
 Text: https://www.gutenberg.org/ebooks/49525  
-E. E. Smith (1890 - 1965)  published 1950  
-https://en.wikipedia.org/wiki/E._E._Smith  
+By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith ) (1890 - 1965)  published 1950  
 The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went--and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 
 ### The Harvester (16:48)  
 https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
 Text: https://www.gutenberg.org/ebooks/349  
-Gene Stratton-Porter (1863 - 1924)  published 1911  
-https://en.wikipedia.org/wiki/Gene_Stratton-Porter  
+By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
 David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. (Summary by Warren Kati)  
 
 
 ### The Heart of the Ancient Wood  (4:54)  
 https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
 Text: https://www.gutenberg.org/ebooks/47671  
-Sir Charles G. D. Roberts (1860 - 1943)  published 1902  
-https://en.wikipedia.org/wiki/Charles_G._D._Roberts  
+By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
 A woman and her daughter take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
 
 
