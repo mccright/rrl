@@ -21,8 +21,7 @@ Had Strether his life to live over again, knowing what he has now learned, how d
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
 https://www.gutenberg.org/ebooks/17241  
-By **Gerhart Hauptmann** (1862 - 1946)  
-https://en.wikipedia.org/wiki/Gerhart_Hauptmann  
+By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  
 Translated by **Adele Szold Seltzer** (1876 - 1940)  
 Summary from Librivox:  
 Frederick von Kammacher is a young doctor in Germany whose wife has gone insane, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
@@ -30,24 +29,27 @@ Frederick von Kammacher is a young doctor in Germany whose wife has gone insane,
 ### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
 https://librivox.org/kings-queens-and-pawns-by-mary-roberts-rinehart/  
 https://www.gutenberg.org/ebooks/14457  
-By **Mary Roberts Rinehart** (1876 - 1958)  Published 1915  
-https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart  
+By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  Published 1915  
 Summary from Librivox:  
 A personal account of the American author's visit to Europe in January 1915 while a war correspondent in Belgium for The Saturday Evening Post. She writes: "War is not two great armies meeting in a clash and frenzy of battle. It is much more than that. War is a boy carried on a stretcher, looking up at God's blue sky with bewildered eyes that are soon to close; war is a woman carrying a child that has been wounded by a shell; war is spirited horses tied in burning buildings and waiting for death; war is the flower of a race, torn, battered, hungry, bleeding, up to its knees in icy water; war is an old woman burning a candle before the Mater Dolorosa for the son she has given.  
+
+### Edward III (9:40)  
+https://librivox.org/edward-iii-by-william-warburton/  
+https://archive.org/details/in.ernet.dli.2015.86381  
+By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  
+Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
 
 ### The Awakening (5:14) 
 https://librivox.org/the-awakening-by-kate-chopin/ 
 https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
-By Kate Chopin (1850 - 1904)  
-https://en.wikipedia.org/wiki/Kate_Chopin  
+By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
 Publication date: 22 April 1900 (first edition was 1899)  
 
 ### Captains Courageous  (5:57)  
 https://librivox.org/captains-courageous-by-rudyard-kipling/  
 https://en.wikipedia.org/wiki/Captains_Courageous  
 https://www.gutenberg.org/etext/2186  
-By **Rudyard Kipling** (1868 - 1936), published 1897  
-https://en.wikipedia.org/wiki/Rudyard_Kipling  
+By [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) (1868 - 1936), published 1897  
 Summary from Librivox:  
 Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  
 And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
@@ -55,13 +57,12 @@ And when Harvey at last is reunited with his parents, who have thought him dead 
 ### War on Peace  (10:54)  
 https://en.wikipedia.org/wiki/War_on_Peace  
 https://wwnorton.com/books/war-on-peace/  
-By Ronan Farrow, 2018  
-https://en.wikipedia.org/wiki/Ronan_Farrow  
+By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  
 
 ### The Wordy Shipmates (07:15)  
 https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
-By Sarah Vowell (1969- ), published 2008  
-https://en.wikipedia.org/wiki/Sarah_Vowell  
+By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), published 2008  
+
 
 
 ## Pending or Currently Underway:  
@@ -73,14 +74,6 @@ By **Frederick Thomas Jane** (1865 - 1916)  Published 1895
 https://en.wikipedia.org/wiki/Fred_T._Jane  
 Summary from Librivox:  
 Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
-
-
-### Edward III (9:40)  
-https://librivox.org/edward-iii-by-william-warburton/  
-https://archive.org/details/in.ernet.dli.2015.86381  
-William Parsons Warburton (1826 - 1913)  
-https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html  
-Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
 
 
 ### Saint Joan: Preface  (2:12)  
