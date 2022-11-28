@@ -6,8 +6,7 @@
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935
 https://www.gutenberg.org/ebooks/6711  
 https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
-By Edward Mandell House (1858–1938), published 1912  
-https://en.wikipedia.org/wiki/Edward_M._House  
+By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938), published 1912  
 Utopian reformer..."we are entering a new era. The past is no longer to be a guide to the future…"  
 Main characters: Phillip Dru, Gloria Strawn, Senator Selwyn  
 Also: Governor James R. Rockland (earmarks of a demagogue)…  
@@ -26,25 +25,22 @@ One more thing.  Edward M. House wrote this story about the 1920s sometime befor
 
 ### Roger the Ranger: A Story of Border Life Among the Indians  
 https://www.gutenberg.org/ebooks/68694  
-By Eliza Fanny Pollard (1840–1911), published 1893  
-https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard  
+By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911), published 1893  
 Summary: Historical fiction targeted at what we now call middle-schoolers...  [Charles Langlade](https://en.wikipedia.org/wiki/Charles_Michel_de_Langlade) and (*fictional*) Roger Boscowen, friends since childhood, part ways when they choose opposite sides in the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (*1750s*).  Famous French General [Louis de Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) joined Canada and is helped by Langlade -- but less by Canadian Governor [Marquis de Vaudreuil-Cavagnial](https://en.wikipedia.org/wiki/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial).  Some in the government of French Canada use De Montcalm's daughter to increase the complexity of the General's job...  This is not a history of the French and Indian War and veers far from some of the facts as they are known today.  Rather, it is a morality tale, a family drama, and a coming-of-age story that occurs mid-18th century New England.  
 
 ### Invasion  
 https://www.gutenberg.org/ebooks/29455  
-By Murray Leinster (1896-1975), published 1933  
-https://en.wikipedia.org/wiki/Murray_Leinster  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
 
 ### Critical difference  
 https://www.gutenberg.org/ebooks/68686  
-By Murray Leinster (1896-1975), published 1956  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1956  
 https://en.wikipedia.org/wiki/Murray_Leinster  
 
 ### The Call of the Wild  
 https://www.gutenberg.org/ebooks/215  
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
-By Jack London (1876-1916), published 1903  
-https://en.wikipedia.org/wiki/Jack_London  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
 
 
 ## Pending or Currently Underway:  
@@ -70,78 +66,66 @@ By [Carl Bernhard Wadström](https://brycchancarey.com/abolition/wadstrom.htm) a
 ### Three Soldiers  
 https://www.gutenberg.org/ebooks/6362  
 https://en.wikipedia.org/wiki/Three_Soldiers  
-John Dos Passos (1896-1970, John Roderigo Dos Passos)  published 1921  
-https://en.wikipedia.org/wiki/John_Dos_Passos  
+By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, John Roderigo Dos Passos)  published 1921  
 
 ### One Man's Initiation—1917  
 https://www.gutenberg.org/ebooks/24202  
-John Dos Passos (1896-1970, John Roderigo Dos Passos)  published 1922  
+By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, John Roderigo Dos Passos)  published 1922  
 https://en.wikipedia.org/wiki/John_Dos_Passos  
 
 ### Manhattan Transfer  
 https://en.wikisource.org/wiki/Manhattan_Transfer  
 https://en.wikipedia.org/wiki/Manhattan_Transfer_(novel)  
 https://en.wikisource.org/wiki/Index:Manhattan_Transfer_(John_Dos_Passos,_1925).djvu  
-John Dos Passos (1896-1970, John Roderigo Dos Passos)  published 1925  
+By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, John Roderigo Dos Passos)  published 1925  
 https://en.wikipedia.org/wiki/John_Dos_Passos  
 
 ### The Camp-Life of the Third Regiment  
 https://www.gutenberg.org/ebooks/46430  
-Robert Thomas Kerlin (1866-1950)  published 1898  
-https://en.wikipedia.org/wiki/Robert_T._Kerlin  
+By [Robert Thomas Kerlin](https://en.wikipedia.org/wiki/Robert_T._Kerlin) (1866-1950)  published 1898  
 Spanish-American War  
 
 ### Negro Poets and Their Poems  
 https://www.gutenberg.org/ebooks/60003  
 https://en.wikipedia.org/wiki/Negro_Poets_and_Their_Poems  
-Robert Thomas Kerlin (1866-1950)  published 1923  
-https://en.wikipedia.org/wiki/Robert_T._Kerlin  
+By [Robert Thomas Kerlin](https://en.wikipedia.org/wiki/Robert_T._Kerlin) (1866-1950)  published 1923  
 
 ### (*One or more books by [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel)*)  
 ### Prince Zaleski  
 [Contents: "The Race of Orven," "The Stone of the Edmundsbury Monks," and "The S.S."]  
 https://www.gutenberg.org/ebooks/10709  
-By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
-https://en.wikipedia.org/wiki/M._P._Shiel  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 
 ### The Purple Cloud  
 https://www.gutenberg.org/ebooks/11229  
-By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
-https://en.wikipedia.org/wiki/M._P._Shiel  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 Summary: Adam Jeffson finds himself the last man alive on Earth.  
 
 ### The Lord of the Sea  
 https://www.gutenberg.org/ebooks/6993  
-By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
-https://en.wikipedia.org/wiki/M._P._Shiel  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 
 ### The Last Miracle
 https://www.gutenberg.org/ebooks/41794  
-By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947)  
-https://en.wikipedia.org/wiki/M._P._Shiel  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 
 ### Children of the Wind  
 https://gutenberg.ca/ebooks/shiel-childrenofthewind/  
-By M. P. Shiel (*Matthew Phipps Shiel,* 1865-1947), Published 1923  
-https://en.wikipedia.org/wiki/M._P._Shiel  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947), Published 1923  
 
 ### The Woman of Mystery  
 https://www.gutenberg.org/ebooks/69149  
-by [Georges Ohnet](https://en.wikipedia.org/wiki/Georges_Ohnet) (1848-1918) published 1904  
+By [Georges Ohnet](https://en.wikipedia.org/wiki/Georges_Ohnet) (1848-1918) published 1904  
 
 ### The Souls of Black Folk  
 https://www.gutenberg.org/ebooks/408
 https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk
-By W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)   published 1903  
-https://en.wikipedia.org/wiki/W._E._B._Du_Bois
-
+By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)   published 1903  
 
 ### John Brown  
 https://www.gutenberg.org/ebooks/62799
 https://en.wikipedia.org/wiki/John_Brown_(abolitionist)
-By W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)   published 1909  
-https://en.wikipedia.org/wiki/W._E._B._Du_Bois
-
+By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)   published 1909  
 
 ### Shackleton in the Antarctic: Being the story of the British Antarctic  
 https://www.gutenberg.org/ebooks/69138  
@@ -158,8 +142,7 @@ See his availible titles at: http://gutenberg.ca/index.html#catalogueS
 ### The Outline of History: Being a Plain History of Life and Mankind  
 https://www.gutenberg.org/ebooks/45368  
 https://en.wikipedia.org/wiki/The_Outline_of_History  
-By H. G. Wells (1866-1946), published 1920  
-https://en.wikipedia.org/wiki/H._G._Wells  
+By [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells) (1866-1946), published 1920  
 
 ### Southern Horrors: Lynch Law in All Its Phases
 https://www.gutenberg.org/ebooks/14975  
@@ -170,22 +153,17 @@ https://www.gutenberg.org/ebooks/64426
 By [Ida B. Wells-Barnett](https://en.wikipedia.org/wiki/Ida_B._Wells) (1862-1931), published 1899  
 >"During six weeks of the months of March and April 1899, twelve colored men were lynched in Georgia, the reign of outlawry culminating in the torture and hanging of the colored preacher, Elijah Strickland, and the burning alive of Samuel Wilkes, alias Hose, Sunday, April 23, 1899."  
 
-
 ### The Underground Railroad  
 https://www.gutenberg.org/ebooks/15263  
-By William Still (1821-1902), published 1871  
-https://en.wikipedia.org/wiki/William_Still  
+By [William Still](https://en.wikipedia.org/wiki/William_Still) (1821-1902), published 1871  
 
 ### Harriet, the Moses of Her People (Second Edition)  
 https://www.gutenberg.org/ebooks/9999  
-By Sarah H. Bradford (1818-1912), published 1886  
-https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford  
+By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1886  
 
   ### Scenes in the Life of Harriet Tubman (First Edition)  
   https://www.gutenberg.org/ebooks/57821  
-  By Sarah H. Bradford (1818-1912), published 1869  
-  https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford  
-
+  By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1869  
 
 ## Look Here for *New* Books to Read  
 #### Review: Books by W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), 1868-1963  
