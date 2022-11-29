@@ -14,7 +14,7 @@ This story has enormous scope, incorporating a broad spectrum of [science fictio
 Some Quotes:  
 >Its general import is that one should never believe a thing only because one wishes that it were true.  
 >They knew many things but had no idea why.  And strangely this made them more, rather than less, certain that they were right.  
->"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, our else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
+>"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, or else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
 >Thousands of years ago, the work that people did had been broken down into jobs that were the same every day, in organizations where people were interchangeable parts.  All of the story had been bled out of their lives.  That was how it had to be; it was how you got a productive economy.  But it would be easy to see a will at work behind this: not exactly an evil will, but a selfish will.  The people who made this system thus were jealous, not of money and not of power but of story.  If their employees came home at day's end with interesting stories to tell, it meant something had gone wrong...  
 >There is no longer superposition.  No wavefunction collapse.  Just a lot of copies of me -- of my brain -- each really existing in a different parallel cosmos.  The cosmos model residing in each of those parallel brains is really, definitely in one state or another.  And they interfere with one another.  
 >Quantum interference -- the crosstalk among similar quantum states -- knits the different versions of your brain together.  
@@ -37,29 +37,25 @@ Some Quotes:
 
 ### The Diamond Age or, A Young Lady's Illustrated Primer  
 https://en.wikipedia.org/wiki/The_Diamond_Age  
-By Neal Stephenson  
-https://en.wikipedia.org/wiki/Neal_Stephenson  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  
 Published 1995  
 Summary:  
 ..."nanotechnology made nearly anything possible, and so the cultural role in deciding what *should* be done with it had become far more important than imagining what *could* be done with it." (page 37)  This book [covers a lot of territory](https://en.wikipedia.org/wiki/The_Diamond_Age).  Stephenson created a world in the 3rd or 4th decade of the 21st century where nanotechnology had changed *everything* and humanity was characterized by extreme tribalism.  
 
 ### Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  
 https://www.simonandschuster.com/books/Suffrage/Ellen-Carol-DuBois/9781501165184  
-By Ellen Carol Dubois, 2020, Simon & Schuster.  
-https://ellencaroldubois.com/about/  
+By [Ellen Carol Dubois](https://ellencaroldubois.com/about/), 2020, Simon & Schuster.  
 Summary:  
 ...explores 75 years of suffrage struggle, Organized into four episodes:  first, "universal suffrage" -- the vote for all U.S. citizens; second, Gilded Age expansion of suffrage support and intersections with other organizations, especially the WTCU; third, highlighting the states that were able to enfranchise four million women by 1914; and finally, the final push for the Nineteenth Amendment in 1920.  
   
 ### The Myth of Seneca Falls -- Memory and the Women's Suffrage Movement, 1848-1898.  
 https://uncpress.org/book/9781469633503/the-myth-of-seneca-falls/  
-By Lisa Tetrault, 2014, The University of North Carolina Press  
-https://www.cmu.edu/dietrich/history/people/faculty/tetrault.html  
+By [Lisa Tetrault](https://www.cmu.edu/dietrich/history/people/faculty/tetrault.html), 2014, The University of North Carolina Press  
 Explores some of the core myth-making establishing the widely-accepted narrative of the women's suffrage movement in the U.S.  
   
 ### The Woman's Hour -- The great Fight to Win the Vote.  
 https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/  
-By Elaine Weiss, 2019, Penguin Random House  
-https://elaineweiss.com/bio/  
+By [Elaine Weiss](https://elaineweiss.com/bio/), 2019, Penguin Random House  
 This is a close-up on Nashville and the people working there in the summer of 1920 as Tennessee becomes the final ratification of the 19th Amendment.  
   
     
@@ -75,9 +71,7 @@ by [Tibbets, Paul W.](https://en.wikipedia.org/wiki/Paul_Tibbets) and (Paul Warf
 
 ### The Making of a Pandemic -- Social, Political, and Psychological Perspectives on Covid-19  
 https://link.springer.com/book/10.1007/978-3-031-04964-4  and for Amazon users: [https://www.amazon.com/gp/product/B0B2QY28XC/](https://www.amazon.com/gp/product/B0B2QY28XC/)  
-By John Ehrenreich  
-https://en.wikipedia.org/wiki/John_Ehrenreich and  
-Published 2022-05-30  
+By [John Ehrenreich](https://en.wikipedia.org/wiki/John_Ehrenreich), Published 2022-05-30  
 [About this book.](https://link.springer.com/book/10.1007/978-3-031-04964-4?noAccess=true#about-this-book)  
 
 
