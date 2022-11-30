@@ -37,6 +37,11 @@ https://www.gutenberg.org/ebooks/68686
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1956  
 https://en.wikipedia.org/wiki/Murray_Leinster  
 
+### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
+https://www.gutenberg.org/ebooks/68780  
+By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
+Note: This mid-19th century travel narrative (novel?) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
+
 ### The Call of the Wild  
 https://www.gutenberg.org/ebooks/215  
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
@@ -49,11 +54,6 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 https://www.gutenberg.org/ebooks/69154  
 By Arthur Hamilton Clark (1841-1922), published 1911  
 [Late Commander of Ship “Verena,” Barque “Agnes,” Steamships “Manchu,” “Suwo Nada,” “Venus,” and “Indiana.” (1863-1877)]  
-
-### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
-https://www.gutenberg.org/ebooks/68780  
-By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
-Note: This book includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
 
 ### Twenty-Five Years in the Secret Service: The Recollections of a Spy  
 https://www.gutenberg.org/ebooks/68765  
