@@ -54,6 +54,13 @@ Summary from Librivox:
 Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  
 And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
 
+### Blake of the "Rattlesnake"  (5:21)  
+https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
+https://archive.org/details/blakerattlesnak00janegoog  
+By [Frederick Thomas Jane](https://en.wikipedia.org/wiki/Fred_T._Jane) (1865 - 1916)  Published 1895    
+Summary from Librivox:  
+Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
+
 ### War on Peace  (10:54)  
 https://en.wikipedia.org/wiki/War_on_Peace  
 https://wwnorton.com/books/war-on-peace/  
@@ -66,15 +73,6 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 
 
 ## Pending or Currently Underway:  
-
-### Blake of the "Rattlesnake"  (5:21)  
-https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
-https://archive.org/details/blakerattlesnak00janegoog  
-By **Frederick Thomas Jane** (1865 - 1916)  Published 1895  
-https://en.wikipedia.org/wiki/Fred_T._Jane  
-Summary from Librivox:  
-Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
-
 
 ### Saint Joan: Preface  (2:12)  
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
@@ -97,8 +95,7 @@ Written in the aftermath of Word War I, Viscountess Snowden recounts her travels
 https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
 https://en.wikipedia.org/wiki/Triplanetary_(novel)  
 Text: https://www.gutenberg.org/ebooks/32706  
-E. E. Smith (1890 - 1965)  published 1948  
-https://en.wikipedia.org/wiki/E._E._Smith  
+By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1948  
 Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
 The novel covers several episodes in an eons-long eugenics project of the super-intelligences of the Arisia. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch enemy, the Eddore. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's (Gharlane of Eddore) reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two and Three. The final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster than light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, two very important members of the eugenics project, are introduced. They will play the leading roles in the next story, First Lensman. (Summary by [Wikipedia](https://en.wikipedia.org/wiki/Triplanetary_(novel)) and [Phil Chenevert](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
@@ -106,7 +103,7 @@ The novel covers several episodes in an eons-long eugenics project of the super-
 https://librivox.org/first-lensman-by-e-e-smith/  
 https://en.wikipedia.org/wiki/First_Lensman  
 Text: https://www.gutenberg.org/ebooks/49525  
-By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith ) (1890 - 1965)  published 1950  
+By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
 The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went--and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 
