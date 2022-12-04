@@ -5,7 +5,8 @@
   * Project Gutenberg  https://www.gutenberg.org/  
   * Internet Archive https://archive.org/  
   * World Digital Library (WDL) projec https://www.loc.gov/books/collections/ or the broader https://www.loc.gov/collections/ from the U.S. Library of Congress  
-
+  * Baen Free Library (science fiction) [https://www.baen.com/](https://www.baen.com/)  
+  * Smashwords [https://www.smashwords.com/shelves/home/1/free/any](https://www.smashwords.com/shelves/home/1/free/any)  
 
 ### *Reading* [Audio Books](https://github.com/mccright/rrl/tree/main/AudioBooks)  
   * All free at https://librivox.org/  This is an all-volunteer effort.  The quality of the recordings varies, but a large percentage are excellent.  
