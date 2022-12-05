@@ -18,6 +18,19 @@ The novel, however, is perhaps really about Strether's education in this new lan
 Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  
 Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
 
+### Triplanetary, First in the Lensman Series (10:31)  
+https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
+https://en.wikipedia.org/wiki/Triplanetary_(novel)  
+Text: https://www.gutenberg.org/ebooks/32706  
+By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1948  
+Published in 1948 and 1950, the Triplanetary and First Lensman express a fantastic post-WWII U.S.A. optimism about technology, "the Atom," and the supremacy of North American military power. 
+The characters that drive the story forward are white male North Americans.  
+The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity." 
+The most evil characters were in the leaders and followers in North American politics.  
+Minor characters from other planets and galacies.  
+>Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
+>The novel covers several episodes in an eons-long eugenics project of the super-intelligences of the Arisia. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch enemy, the Eddore. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's (Gharlane of Eddore) reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two and Three. The final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster than light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, two very important members of the eugenics project, are introduced. They will play the leading roles in the next story, First Lensman. (Summary by [Wikipedia](https://en.wikipedia.org/wiki/Triplanetary_(novel)) and [Phil Chenevert](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
+
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
 https://www.gutenberg.org/ebooks/17241  
@@ -90,19 +103,6 @@ Ethel Snowden, Viscountess Snowden (1881 - 1951)  published 1921
 https://en.wikipedia.org/wiki/Ethel_Snowden  
 Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
 
-
-### Triplanetary, First in the Lensman Series (10:31)  
-https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
-https://en.wikipedia.org/wiki/Triplanetary_(novel)  
-Text: https://www.gutenberg.org/ebooks/32706  
-By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1948  
-Published in 1948 and 1950, the Triplanetary and First Lensman express a fantastic post-WWII U.S.A. optimism about technology, "the Atom," and the supremacy of North American military power. 
-The characters that drive the story forward are white male North Americans.  
-The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity." 
-The most evil characters were in the leaders and followers in North American politics.  
-Minor characters from other planets and galacies.  
->Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
->The novel covers several episodes in an eons-long eugenics project of the super-intelligences of the Arisia. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch enemy, the Eddore. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's (Gharlane of Eddore) reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two and Three. The final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster than light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, two very important members of the eugenics project, are introduced. They will play the leading roles in the next story, First Lensman. (Summary by [Wikipedia](https://en.wikipedia.org/wiki/Triplanetary_(novel)) and [Phil Chenevert](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 ### First Lensman (11:12)  
 https://librivox.org/first-lensman-by-e-e-smith/  
