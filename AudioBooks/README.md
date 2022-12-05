@@ -7,8 +7,7 @@
 https://librivox.org/the-ambassadors-by-henry-james/  
 https://en.wikipedia.org/wiki/The_Ambassadors  
 https://www.gutenberg.org/etext/432  
-By **Henry James** (1843 - 1916), published 1903  
-https://en.wikipedia.org/wiki/Henry_James  
+By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
 I recommend this excellent 19th century novel to anyone who had the time to think about their place and role in the world... 
 Summary from Librivox:  
 Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  
@@ -23,11 +22,11 @@ https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/
 https://en.wikipedia.org/wiki/Triplanetary_(novel)  
 Text: https://www.gutenberg.org/ebooks/32706  
 By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1948  
-Published in 1948 and 1950, the Triplanetary and First Lensman express a fantastic post-WWII U.S.A. optimism about technology, "the Atom," and the supremacy of North American military power. 
-The characters that drive the story forward are white male North Americans.  
-The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity." 
-The most evil characters were in the leaders and followers in North American politics.  
-Minor characters from other planets and galacies.  
+Published in 1948 and 1950, the Triplanetary and First Lensman express a fantastic post-WWII U.S.A. optimism about technology, all things "the Atom," and the supremacy of North American military power. 
+The characters that drive the story forward are white male North Americans. 
+The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity" (*a seeming contradiction they don't acknowlege*). 
+The most evil characters were leaders and their followers in North American politics -- in league with organized crime. 
+There are minor characters from other planets and galacies.  
 >Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
 >The novel covers several episodes in an eons-long eugenics project of the super-intelligences of the Arisia. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch enemy, the Eddore. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's (Gharlane of Eddore) reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two and Three. The final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster than light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, two very important members of the eugenics project, are introduced. They will play the leading roles in the next story, First Lensman. (Summary by [Wikipedia](https://en.wikipedia.org/wiki/Triplanetary_(novel)) and [Phil Chenevert](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
