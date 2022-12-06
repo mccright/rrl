@@ -46,6 +46,9 @@ Note: This mid-19th century travel narrative (novel?) includes an early usage of
 https://www.gutenberg.org/ebooks/215  
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
+  
+
+-----
 
 
 ## Pending or Currently Underway:  
