@@ -58,6 +58,8 @@ https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/
 By [Elaine Weiss](https://elaineweiss.com/bio/), 2019, Penguin Random House  
 This is a close-up on Nashville and the people working there in the summer of 1920 as Tennessee becomes the final ratification of the 19th Amendment.  
   
+
+-----
     
 ## Pending or Currently Underway:  
 
