@@ -22,13 +22,22 @@ https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/
 https://en.wikipedia.org/wiki/Triplanetary_(novel)  
 Text: https://www.gutenberg.org/ebooks/32706  
 By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1948  
-Published in 1948 and 1950, the Triplanetary and First Lensman books express a fantastic post-WWII U.S.A. optimism about technology, all things "the Atom," and the supremacy of North American military power. 
+Reading Notes: Published in 1948 and 1950, the Triplanetary and First Lensman books express a fantastic post-WWII U.S.A. optimism about technology, all things "the Atom," and the supremacy of North American military power. 
 The characters that drive the story forward are white male North Americans. 
 The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity" (*a seeming contradiction they don't acknowlege*). 
-The most evil characters are leaders and their followers in North American politics -- in league with organized crime.  When these politicians & other criminals are caught, they use features of the existing legal system as weapons and delay, delay, delay (*sound like a 'real life' former Present and his lackies?*). A core theme seems to be a battle between the "uncorruptable" and the "corrupt" -- with "civilization" owing everything to the "uncorruptable." 
-There are minor characters from other planets and galacies.  
+The most evil characters are leaders and their followers in North American Nationalist politics -- in league with organized crime.  When these politicians & other criminals are caught, they use features of the existing legal system as weapons and delay, delay, delay (*sound like a 'real life' former Present and his lackies?*). A core theme seems to be a battle between the "uncorruptable" (*democrats*) and the "corrupt" (*athoritarians*) -- with "civilization" owing everything to the "uncorruptable." 
+There are minor characters from other many planets and galacies.  
+Summary:  
 >Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
 >The novel covers several episodes in an eons-long eugenics project of the super-intelligences of the Arisia. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch enemy, the Eddore. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's (Gharlane of Eddore) reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two and Three. The final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster than light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, two very important members of the eugenics project, are introduced. They will play the leading roles in the next story, First Lensman. (Summary by [Wikipedia](https://en.wikipedia.org/wiki/Triplanetary_(novel)) and [Phil Chenevert](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
+
+### First Lensman (11:12)  
+https://librivox.org/first-lensman-by-e-e-smith/  
+https://en.wikipedia.org/wiki/First_Lensman  
+Text: https://www.gutenberg.org/ebooks/49525  
+By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
+Reading Notes: (*see 'Triplanetary' above*)  
+>The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went--and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
@@ -91,25 +100,15 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
 https://en.wikipedia.org/wiki/Saint_Joan_(play)  
 Text: https://archive.org/details/SaintJoan/page/n1  
-George Bernard Shaw (1856 - 1950)  
-https://en.wikipedia.org/wiki/George_Bernard_Shaw  
+By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
 Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
 
 
 ### A Political Pilgrim in Europe  (9:34)  
 https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
 Text: https://www.gutenberg.org/ebooks/68238/  
-Ethel Snowden, Viscountess Snowden (1881 - 1951)  published 1921  
-https://en.wikipedia.org/wiki/Ethel_Snowden  
+By [Ethel Snowden, Viscountess Snowden](https://en.wikipedia.org/wiki/Ethel_Snowden) (1881 - 1951)  published 1921  
 Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
-
-
-### First Lensman (11:12)  
-https://librivox.org/first-lensman-by-e-e-smith/  
-https://en.wikipedia.org/wiki/First_Lensman  
-Text: https://www.gutenberg.org/ebooks/49525  
-By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
-The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went--and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 
 ### The Harvester (16:48)  
@@ -138,11 +137,9 @@ Here is a novel whose pregnant caption suits these parlous times. . . . It's all
 https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/  
 https://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(novel)  
 Text: https://www.gutenberg.org/ebooks/1484  
-Vicente Blasco Ibáñez (1867 - 1928)  published 1916, and 1918 English translation by Charlotte Brewster Jordan  
-https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez  
-Translated by Charlotte Jordan Brewster (1862 - 1945)  
+By [Vicente Blasco Ibáñez](https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez) (1867 - 1928)  published 1916, and 1918 English translation by Charlotte Brewster Jordan  
+Translated by [Charlotte Jordan Brewster](http://es.wikipedia.org/wiki/Charlotte_Brewster_Jordan) (1862 - 1945)  
 https://en.wikipedia.org/wiki/Charlotte_Brewster_Jordan  
-http://es.wikipedia.org/wiki/Charlotte_Brewster_Jordan  
 The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
 
 
@@ -150,8 +147,7 @@ The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated in
 https://librivox.org/cato-by-joseph-addison/  
 Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
 Text: https://www.gutenberg.org/ebooks/31592  
-Joseph Addison (1672 - 1719)  published 1712  
-https://en.wikipedia.org/wiki/Joseph_Addison  
+By [Joseph Addison](https://en.wikipedia.org/wiki/Joseph_Addison) (1672 - 1719)  published 1712  
 Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death [Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy). 
 This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
 
