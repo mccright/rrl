@@ -87,7 +87,7 @@ https://librivox.org/cato-by-joseph-addison/
 Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
 Text: https://www.gutenberg.org/ebooks/31592  
 By [Joseph Addison](https://en.wikipedia.org/wiki/Joseph_Addison) (1672 - 1719)  published 1712  
-Listening Notes: This recording is **not** an example of the excellence that can be found across much of librivox.org.  If you want to understand this story, it may pay to [read it](https://www.gutenberg.org/ebooks/31592). I found the performance distracting from the content of the play, rather than enhancing.  
+Listening Notes: This recording is **not** an example of the excellence that can be found across much of librivox.org.  If you want to understand this story, it may pay to [read it](https://www.gutenberg.org/ebooks/31592). I found the performance distracting from the content of the play, rather than enhancing it.  
 >Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death [Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy). 
 This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
 
@@ -105,6 +105,13 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 -----
 
 ## Pending or Currently Underway:  
+
+### Life of Henry David Thoreau (7:44)  
+https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
+Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
+By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
+Henry David Thoreau was a fascinating man, contributing vast amounts of information on nature history, leading the way for environmentalism. He also was a philosopher, abolitionist, anarchist, writer, poet, and a bit of a mystery. He is best known for his book 'Walden', and his essay on 'Civil Disobedience'. This early biography by Henry Salt is highly regarded by Thoreau scholars. [Summary by Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/)  
+
 
 ### Saint Joan: Preface  (2:12)  
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
@@ -138,8 +145,7 @@ A woman and her daughter take refuge in a cabin deep in the Canadian forest. Thi
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
 Text: https://www.gutenberg.org/ebooks/9812  
-Natalie Sumner Lincoln (1881 - 1935)  published 1916  
-https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln  
+By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
 Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  [Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/).  
 
 
@@ -156,17 +162,8 @@ The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated in
 ### The Color of a Great City  (8:36)  
 https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
 Text: https://www.gutenberg.org/ebooks/61043  
-Theodore Dreiser (1871 - 1945)  published 1923  
-http://en.wikipedia.org/wiki/Theodore_Dreiser  
+By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
 This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/)  
-
-
-### Life of Henry David Thoreau (7:44)  
-https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
-Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
-Henry Salt (1851 - 1939)  published 1890  
-https://en.wikipedia.org/wiki/Henry_Stephens_Salt  
-Henry David Thoreau was a fascinating man, contributing vast amounts of information on nature history, leading the way for environmentalism. He also was a philosopher, abolitionist, anarchist, writer, poet, and a bit of a mystery. He is best known for his book 'Walden', and his essay on 'Civil Disobedience'. This early biography by Henry Salt is highly regarded by Thoreau scholars. [Summary by Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/)  
 
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
