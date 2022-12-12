@@ -60,6 +60,12 @@ https://archive.org/details/in.ernet.dli.2015.86381
 By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  
 Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
 
+### Life of Henry David Thoreau (7:44)  
+https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
+Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
+By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
+Henry David Thoreau was a laborer, philosopher, abolitionist, anarchist, environmentalist(?), writer, poet, and more. In popular culture he is best known for his book 'Walden', and his essay on 'Civil Disobedience.' [Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/) reports that this early biography by Henry Salt is highly regarded by Thoreau scholars. Be aware that this is a late 19th century biography -- little wandering and uneven.  If you can forgive that, I believe it is a useful introduction to Thoreau well read by "[PhyllisV](https://librivox.org/reader/13055?primary_key=13055&search_category=reader&search_page=1&search_form=get_results)."  
+
 ### The Awakening (5:14) 
 https://librivox.org/the-awakening-by-kate-chopin/ 
 https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
@@ -106,11 +112,12 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 
 ## Pending or Currently Underway:  
 
-### Life of Henry David Thoreau (7:44)  
-https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
-Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
-By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
-Henry David Thoreau was a fascinating man, contributing vast amounts of information on nature history, leading the way for environmentalism. He also was a philosopher, abolitionist, anarchist, writer, poet, and a bit of a mystery. He is best known for his book 'Walden', and his essay on 'Civil Disobedience'. This early biography by Henry Salt is highly regarded by Thoreau scholars. [Summary by Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/)  
+### The Heart of the Ancient Wood  (4:54)  
+https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
+Text: https://www.gutenberg.org/ebooks/47671  
+By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
+Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.  
+>A woman and her daughter take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
 
 
 ### Saint Joan: Preface  (2:12)  
@@ -133,13 +140,6 @@ https://librivox.org/the-harvester-by-gene-stratton-porter-2/
 Text: https://www.gutenberg.org/ebooks/349  
 By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
 David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. (Summary by Warren Kati)  
-
-
-### The Heart of the Ancient Wood  (4:54)  
-https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
-Text: https://www.gutenberg.org/ebooks/47671  
-By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
-A woman and her daughter take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
 
 
 ### I Spy  (6:39)  
