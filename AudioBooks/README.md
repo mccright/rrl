@@ -66,6 +66,13 @@ Text: https://archive.org/details/lifeofhenrydavid00saltuoft
 By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
 Henry David Thoreau was a laborer, philosopher, abolitionist, anarchist, environmentalist(?), writer, poet, and more. In popular culture he is best known for his book 'Walden', and his essay on 'Civil Disobedience.' [Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/) reports that this early biography by Henry Salt is highly regarded by Thoreau scholars. Be aware that this is a late 19th century biography -- little wandering and uneven.  If you can forgive that, I believe it is a useful introduction to Thoreau well read by "[PhyllisV](https://librivox.org/reader/13055?primary_key=13055&search_category=reader&search_page=1&search_form=get_results)."  
 
+### The Heart of the Ancient Wood  (4:54)  
+https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
+Text: https://www.gutenberg.org/ebooks/47671  
+By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
+Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.    
+>A woman, Kirstie Craig and her daughter Miranda take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
+
 ### The Awakening (5:14) 
 https://librivox.org/the-awakening-by-kate-chopin/ 
 https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
@@ -111,14 +118,6 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 -----
 
 ## Pending or Currently Underway:  
-
-### The Heart of the Ancient Wood  (4:54)  
-https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
-Text: https://www.gutenberg.org/ebooks/47671  
-By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
-Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.  
->A woman and her daughter take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
-
 
 ### Saint Joan: Preface  (2:12)  
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
