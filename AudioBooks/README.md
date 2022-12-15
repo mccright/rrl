@@ -119,6 +119,17 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 
 ## Pending or Currently Underway:  
 
+### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
+https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
+Text: https://www.gutenberg.org/ebooks/1561  
+By [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter) (1844 - 1929)  published 1921  
+Reading Notes:  This book is a bit of a slog and includes quite a bit of repetition.  Carpenter identifies common "religious" language and practices across time and across cultures.  He argues that Christianity is a recent iteration of an "ancient world-religion."  "In the case of Christianity the historical period has lasted nearly 2,000 years, and, as I say, we can hardly expect or wish that it should last much longer."  He sees a deterministic evolution of humanity -- whose psychological development necessitates the emergence of a new phase where "religion" will re-incorporate the natural world, including all communities of human beings (*as opposed to the current 'individualistic' phase*).  His arguements seemed to suggest that the insane waste represented WWI signaled the end of the current phase and announced the coming of the next.  
+QUOTE:  
+>The whole futile and idiotic structure of commerce and industry in which we are now imprisoned springs from that falsehood of individualistic self-seeking which marks the second stage of human evolution. That stage is already tottering to its fall, destroyed by the very flood of egotistic passions and interests, of vanities, greeds, and cruelties, all warring with each other, which are the sure outcome and culmination of its operation. With the restoration of the sentiment of the Common Life, and the gradual growth of a mental attitude corresponding, there will emerge from the flood something like a solid earth--something on which it will be possible to build with good hope for the future. Schemes of reconstruction are well enough in their way, but if there is no ground of REAL HUMAN SOLIDARITY beneath, of what avail are they?  
+SUMMARY:  
+In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
+
+
 ### Saint Joan: Preface  (2:12)  
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
 https://en.wikipedia.org/wiki/Saint_Joan_(play)  
@@ -163,13 +174,6 @@ https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/
 Text: https://www.gutenberg.org/ebooks/61043  
 By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
 This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/)  
-
-
-### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
-https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
-Edward Carpenter (1844 - 1929)  published 1921  
-https://en.wikipedia.org/wiki/Edward_Carpenter  
-In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
 
 
 ### Search the Sky (06:47)  
