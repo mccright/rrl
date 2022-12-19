@@ -53,6 +53,10 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 
 ## Pending or Currently Underway:  
 
+### Myths That Every Child Should Know  
+https://www.gutenberg.org/ebooks/16537  
+By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
+
 ### The Clipper Ship Era -- An Epitome of Famous American and British Clipper Ships, Their Owners, Builders, Commanders, and Crews 1843-1869.  
 https://www.gutenberg.org/ebooks/69154  
 By Arthur Hamilton Clark (1841-1922), published 1911  
