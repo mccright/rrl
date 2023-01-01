@@ -47,6 +47,13 @@ Translated by **Adele Szold Seltzer** (1876 - 1940)
 Summary from Librivox:  
 Frederick von Kammacher is a young doctor in Germany whose wife has gone insane, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
 
+### The Color of a Great City  (8:36)  
+https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
+Text: https://www.gutenberg.org/ebooks/61043  
+By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
+Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
+Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/)  
+
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
 https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
 Text: https://www.gutenberg.org/ebooks/1561  
@@ -166,14 +173,6 @@ By [Vicente Blasco Ibáñez](https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%
 Translated by [Charlotte Jordan Brewster](http://es.wikipedia.org/wiki/Charlotte_Brewster_Jordan) (1862 - 1945)  
 https://en.wikipedia.org/wiki/Charlotte_Brewster_Jordan  
 The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
-
-
-### The Color of a Great City  (8:36)  
-https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
-Text: https://www.gutenberg.org/ebooks/61043  
-By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
-Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
-Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/)  
 
 
 ### Search the Sky (06:47)  
