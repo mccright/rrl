@@ -142,6 +142,14 @@ By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton
 https://www.gutenberg.org/ebooks/5199  
 By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton) (1874-1922) published 1919  
 
+### Mark Twain A Biography - Complete (1835-1910) - The Personal and Literary Life of Samuel Langhorne Clemens.  
+https://www.gutenberg.org/ebooks/2988  
+By [Albert Bigelow Paine](https://en.wikipedia.org/wiki/Albert_Paine)  
+
+### That Eurasian (1895)  
+By Aleph Bey  
+https://www.gutenberg.org/ebooks/69717  
+
 ### (*Something by [Nevil Shute](http://en.wikipedia.org/wiki/Nevil_Shute)* )
 Nevil Shute (1899-1960) Australian novelist  
 See his availible titles at: http://gutenberg.ca/index.html#catalogueS  
