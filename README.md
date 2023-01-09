@@ -10,6 +10,10 @@
 
 ### *Reading* [Audio Books](https://github.com/mccright/rrl/tree/main/AudioBooks)  
   * All free at https://librivox.org/  This is an all-volunteer effort.  The quality of the recordings varies, but a large percentage are excellent.  
+  * Project Gutenberg Audio Books, 
+    * Human-read  https://www.gutenberg.org/browse/categories/1
+    * Computer-generated audio  https://www.gutenberg.org/browse/categories/2
+
 
 ### Reading [Commercial and "Open Access" Books](https://github.com/mccright/rrl/tree/main/Books)  
   * Directory of Open Access Books https://www.doabooks.org](https://directory.doabooks.org) and [https://directory.doabooks.org/discover](https://directory.doabooks.org/discover).  DOAB is a community-driven discovery service that indexes and provides access to scholarly, peer-reviewed open access books and helps users to find trusted open access book publishers. All DOAB services are free of charge and all data is freely available.  
