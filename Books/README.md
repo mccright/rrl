@@ -67,6 +67,13 @@ This is a close-up on Nashville and the people working there in the summer of 19
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
 By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
 
+### Rammed Earth Walls for Buildings (USDA)  
+https://handle.nal.usda.gov/10113/ORC00000481  
+(1937 version at: https://play.google.com/books/reader?id=6KIFAAAAMAAJ&pg=GBS.PP4&hl=en)  
+By M. C. (Morris Cotgrave) Betts (1875-1936) and T. A. H. (Thomas Arrington Huntington) Miller (1885-1949)  
+Publisher: U.S. Dept. of Agriculture, 1926  
+26 pages  
+
 ### Return of the Enola Gay  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=63468  
 by [Tibbets, Paul W.](https://en.wikipedia.org/wiki/Paul_Tibbets) and (Paul Warfield), 1915-2007  
@@ -84,3 +91,54 @@ Part graphic novel, part memoir, Wake describes women-led slave revolts, and Dr.
 https://interminablerambling.com/2021/07/09/wake/  
 https://interminablerambling.com/2021/07/13/layouts-in-rebecca-hall-and-hugo-martinezs-wake/  
 https://interminablerambling.com/2021/07/15/retrieving-history-in-rebecca-hall-and-hugo-martinezs-wake/  
+
+# Early American soil conservationists (USDA)  
+https://handle.nal.usda.gov/10113/CAT87206254  
+https://handle.nal.usda.gov/10113/ORC00000556
+By McDonald, Angus Henry  
+Publisher: U.S. Dept. of Agriculture. 1941, 63 pages  
+
+### Thomas Jefferson, soil conservationist (USDA)  
+https://handle.nal.usda.gov/10113/CAT88900165  
+By Bennett, Hugh H. (Hugh Hammond)  
+Publisher: U.S. Dept. of Agriculture. 1944, 15 pages  
+
+### Food plants of the North American Indians (USDA)  
+https://handle.nal.usda.gov/10113/ORC00000550  
+By Elias Yanovsky (1886-____)  
+Publisher: U.S. Dept. of Agriculture. 1936, 84 pages  
+
+### More food through conservation farming  
+https://handle.nal.usda.gov/10113/ORC00000390  
+By Arthur T. (Arthur Truman) Semple 1895-  
+Publisher: U.S. Dept. of Agriculture. 1942, 54 pages  
+
+### Apple varieties and important producing sections of the United States (USDA)  
+https://handle.nal.usda.gov/10113/ORC00000306  
+By J. R. (John Robert) Magness 1894-  
+Publisher: U.S. Dept. of Agriculture. 1941, 32 pages  
+
+### Our American land:the story of its abuse and its conservation (USDA)  
+https://handle.nal.usda.gov/10113/CAT87209318  
+By Bennett, Hugh H. (Hugh Hammond)  
+Publisher: U.S. Dept. of Agriculture. 1950, 32 pages  
+
+### Classifying land for conservation farming  
+https://handle.nal.usda.gov/10113/ORC00000318  
+By R. D. (Roy Douglas) Hockensmith 1905- and J. G. (John Gordon) Steele 1905-  
+Publisher: U.S. Dept. of Agriculture. 1943, 45 pages  
+
+### A bibliography on the agriculture of the American Indians (USDA)  
+https://handle.nal.usda.gov/10113/ORC00000555  
+By Everett Eugene Edwards (1900-___) and Wayne D. (Wayne David) Rasmussen (1915-2004)  
+Publisher: U.S. Dept. of Agriculture. 1942, 107 pages  
+
+### Country hides and skins (USDA)  
+https://handle.nal.usda.gov/10113/5420602  
+By C. V. (Charles Vivion) Whalin  
+Publisher: U.S. Dept. of Agriculture. 1919, 64 pages  
+
+### Farm fences (USDA)  
+https://handle.nal.usda.gov/10113/5420532  
+By Kelley, M. A. R. (Manly Alexander Raymond)  
+Publisher: U.S. Dept. of Agriculture. 1940, 58 pages  
