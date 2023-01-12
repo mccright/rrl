@@ -163,7 +163,9 @@ Saint Joan is a play by George Bernard Shaw about 15th-century French military f
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
 Text: https://www.gutenberg.org/ebooks/9812  
 By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
-Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  [Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/).  
+Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
+[Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
+>Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  
 
 
 ### The Four Horsemen of the Apocalypse  (16:27)  
