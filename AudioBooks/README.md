@@ -127,6 +127,14 @@ By [Frederick Thomas Jane](https://en.wikipedia.org/wiki/Fred_T._Jane) (1865 - 1
 Summary from Librivox:  
 Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
 
+### I Spy  (6:39)  
+https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
+Text: https://www.gutenberg.org/ebooks/9812  
+By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
+Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
+[Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
+>Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  
+
 ### Cato, a Tragedy in Five Acts  (1:47)  
 https://librivox.org/cato-by-joseph-addison/  
 Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
@@ -157,15 +165,6 @@ https://en.wikipedia.org/wiki/Saint_Joan_(play)
 Text: https://archive.org/details/SaintJoan/page/n1  
 By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
 Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
-
-
-### I Spy  (6:39)  
-https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
-Text: https://www.gutenberg.org/ebooks/9812  
-By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
-Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
-[Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
->Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  
 
 
 ### The Four Horsemen of the Apocalypse  (16:27)  
