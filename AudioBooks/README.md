@@ -52,7 +52,7 @@ https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/
 Text: https://www.gutenberg.org/ebooks/61043  
 By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
 Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
-Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/)  
+Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/) NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "The Color of a Great City." It is LibriVox's policy to record texts as written.  
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
 https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
@@ -112,6 +112,14 @@ Summary from Librivox:
 Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  
 And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
 
+### The Harvester (16:48)  
+https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
+Text: https://www.gutenberg.org/ebooks/349  
+By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
+Reading Notes: This *simple* story also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.
+Librivox Summary:
+David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. (Summary by Warren Kati)  
+
 ### Blake of the "Rattlesnake"  (5:21)  
 https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
 https://archive.org/details/blakerattlesnak00janegoog  
@@ -151,13 +159,6 @@ By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (185
 Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
 
 
-### The Harvester (16:48)  
-https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
-Text: https://www.gutenberg.org/ebooks/349  
-By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
-David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. (Summary by Warren Kati)  
-
-
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
 Text: https://www.gutenberg.org/ebooks/9812  
@@ -180,13 +181,106 @@ https://librivox.org/search-the-sky-by-frederik-pohl/
 https://en.wikipedia.org/wiki/Search_the_Sky  
 Text: https://www.gutenberg.org/ebooks/52228  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
+Librivox Summary:  
+>Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
 
 
 ### Preferred Risk (06:26)  
 https://librivox.org/preferred-risk-by-frederik-pohl/  
 Text: https://www.gutenberg.org/ebooks/51814  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
+Librivox Summary:  
+>The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
 
+
+### Sentimental Education (17:11)  
+https://librivox.org/sentimental-education-by-gustave-flaubert/  
+https://en.wikipedia.org/wiki/Sentimental_Education  
+Text: [Vol 1](https://www.gutenberg.org/ebooks/34828) and [Vol 2](https://www.gutenberg.org/ebooks/27537)  
+By [Gustave Flaubert](http://en.wikipedia.org/wiki/Gustave_Flaubert) (1821 - 1880)  
+Librivox Summary:  
+>Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
+
+
+### Imperium in Imperio: A Study of the Negro Race Problem (5:23)  
+https://librivox.org/imperium-in-imperio-by-sutton-griggs/  
+https://en.wikipedia.org/wiki/Imperium_in_Imperio  
+Text: https://gutenberg.org/ebooks/15454  
+[Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
+See the [summary on Wikipedia](https://en.wikipedia.org/wiki/Imperium_in_Imperio)  
+Librivox Summary:  
+>Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, an educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
+
+
+### Big Sur (6:23)  
+https://librivox.org/big-sur-by-jack-kerouac/  
+https://en.wikipedia.org/wiki/Big_Sur_(novel)  
+Text: https://babel.hathitrust.org/cgi/pt?id=uc1.31822033766825&view=1up&seq=1  
+By [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac) (1922 - 1969). Published 1962  
+See [Wikipedia Summary](https://en.wikipedia.org/wiki/Big_Sur_(novel))  
+Librivox Summary:  
+>This classic of the beatnik era from famous bohemian traveller Jack Kerouac focuses on Jack Dulouz, a thinly veiled Kerouac surrogate, and his attempts to reconcile his new found success as an author with his battle with alcoholism amid trips to a cabin in Big Sur in California. [Summary by Ben Tucker](https://librivox.org/big-sur-by-jack-kerouac/)  
+
+### Soldiers' Pay (9:33)  
+https://librivox.org/soldiers-pay-by-william-faulkner/  
+[https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
+Text: https://archive.org/details/in.ernet.dli.2015.186670/  
+By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)
+See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
+Librivox Summary:  
+>Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)
+
+
+### Opening the West with Lewis and Clark (7:06)  
+https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
+Text: https://www.gutenberg.org/ebooks/64903  
+[Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  
+Librivox Summary:  
+>One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
+
+
+### Four Months in a Sneak-Box (8:32)  
+https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
+Text: https://www.gutenberg.org/ebooks/5686  
+[Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902). Published 1878(?)  
+Librivox Summary:  
+>The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." [Summary by Nathaniel H. Bishop]()  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
+
+
+### The Demi-Gods (4:37)  
+https://librivox.org/the-demi-gods-by-james-stephens/  
+Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
+By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.  
+Librivox Summary:  
+>In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The Mac Cans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin. (Summary by Michele Fry)
+
+### On Life (6:24)  
+https://librivox.org/on-life-by-leo-tolstoy/  
+Text: https://archive.org/details/onlife188800tolsrich/  
+[Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) (1828 - 1910)  
+Translated by Mabel Cook and Agnes Cook (published in 1902)  
+Librivox Summary:  
+>What is the "good life" for us mortal beings? Two months spent recovering from a severe injury allowed Tolstoy to develop and organise his thoughts on the subject. On Life is his philosophical answer where love, religion, and morality come together to ground us in reality. - [Summary by Cao Yuqing]()  
+
+
+### The Chouans (15:55)  
+https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
+https://en.wikipedia.org/wiki/Les_Chouans  
+Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up
+[Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)
+Translated by [Ellen Marriage]() (1865 - 1946)
+Summary on Librivox:  
+>“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
+
+
+### Historical Romance of the American Negro (10:35)  
+https://librivox.org/historical-romance-american-negro-charles-fowler/  
+Text: https://archive.org/details/historicalromanc00fowl/page/n5/mode/2up 
+By [Charles H. Fowler]() (1837 - 1908)  
+Summary on Librivox:  
+It was not long before the fame of the colored soldiers of America was wafted over the whole world and everywhere received by all lovers of freedom with most hearty applause. (Summary by narrator, p 66)
+Summary from the Preface:  
+For a number of years it has been on my mind to write a book regarding the principal events that have occurred to the colored race since the beginning of the agitation against slavery, going on from thence to the great Rebellion, passing through that war, and also dealing with all subjects of great importance that have arrested our attention under our glorious freedom. At the same time it has occurred to me . . . that my book would be far more interesting to the general reader, if I were to select a representative woman of our own race, and make her the mouthpiece of all I wished to say. . . . I hope those members of the general public who favor me by a perusal of my book will be pleased with my plan.  
 
 ### His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=19&cn=468652  
