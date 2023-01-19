@@ -57,6 +57,10 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 https://www.gutenberg.org/ebooks/16537  
 By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
 
+### A Soldier’s Diary  
+https://www.gutenberg.org/ebooks/66363  
+By [Ralph Scott]() () Published 1923  
+
 ### The Clipper Ship Era -- An Epitome of Famous American and British Clipper Ships, Their Owners, Builders, Commanders, and Crews 1843-1869.  
 https://www.gutenberg.org/ebooks/69154  
 By Arthur Hamilton Clark (1841-1922), published 1911  
@@ -169,6 +173,13 @@ https://www.gutenberg.org/ebooks/69121
 By [Cécile Tormay](https://en.wikipedia.org/wiki/C%C3%A9cile_Tormay)  (1876-1937)  Published 1923
 Summary from Wikipedia:  
 > Originally "Bujdosó könyv" (1923) -- which is translated literally as "The Proscribed Book," but an English translation was published as "An Outlaw's Diary" (1923). It provides a hostile account of the 1918–1919 (Hungarian) revolution and the subsequent Hungarian Soviet Republic led by Béla Kun. She also bemoaned the division of the Kingdom of Hungary which led to territorial concessions to the Kingdom of Roumania, This book is cited as evidence of Tomay's anti-semitism as she claims that "The demon of the revolution is not an individual, not a party, but a race among the races. The Jews are the last people of the Ancient East who survived among the newer peoples of shorter history."  
+
+### Capital Engineers -- The U.S. Army Corps of Engineers in the Development of Washington, D.C. 1790 – 2004  
+https://apps.dtic.mil/sti/pdfs/ADA581171.pdf  
+By [Pamela Scott]()  (1944- ) Published 2011  
+Summary from the book's Foreward:  
+>Although not forgotten, but perhaps imperfectly remembered, the U.S. Army Corps of Engineers’ critical role in the development of Washington, D.C., is a fascinating and important chapter in U.S. Army Engineer history.  
+
 
 ### That Eurasian (1895)  
 By Aleph Bey  
