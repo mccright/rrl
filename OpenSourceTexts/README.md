@@ -160,6 +160,16 @@ By [Sir Ernest Henry Shackleton](https://en.wikipedia.org/wiki/Ernest_Shackleton
 https://www.gutenberg.org/ebooks/2988  
 By [Albert Bigelow Paine](https://en.wikipedia.org/wiki/Albert_Paine)  
 
+### A Manual on the origin and development of Washington  
+https://www.gutenberg.org/ebooks/69827  
+By [H. Paul Caemmerer]() (Hans Paul, 1884-1962)  Published 1939  
+
+### An Outlaw's Diary: Revolution  
+https://www.gutenberg.org/ebooks/69121  
+By [Cécile Tormay](https://en.wikipedia.org/wiki/C%C3%A9cile_Tormay)  (1876-1937)  Published 1923
+Summary from Wikipedia:  
+> Originally "Bujdosó könyv" (1923) -- which is translated literally as "The Proscribed Book," but an English translation was published as "An Outlaw's Diary" (1923). It provides a hostile account of the 1918–1919 (Hungarian) revolution and the subsequent Hungarian Soviet Republic led by Béla Kun. She also bemoaned the division of the Kingdom of Hungary which led to territorial concessions to the Kingdom of Roumania, This book is cited as evidence of Tomay's anti-semitism as she claims that "The demon of the revolution is not an individual, not a party, but a race among the races. The Jews are the last people of the Ancient East who survived among the newer peoples of shorter history."  
+
 ### That Eurasian (1895)  
 By Aleph Bey  
 https://www.gutenberg.org/ebooks/69717  
