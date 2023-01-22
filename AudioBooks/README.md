@@ -156,7 +156,6 @@ Listening Notes: This recording is **not** an example of the excellence that can
 >Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death [Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy). 
 This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
 
-
 ### War on Peace  (10:54)  
 https://en.wikipedia.org/wiki/War_on_Peace  
 https://wwnorton.com/books/war-on-peace/  
@@ -165,6 +164,13 @@ By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018
 ### The Wordy Shipmates (07:15)  
 https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
 By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), published 2008  
+
+### Four Months in a Sneak-Box (8:32)  
+https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
+Text: https://www.gutenberg.org/ebooks/5686  
+[Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902). Published 1878(?)  
+Librivox Summary:  
+>The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." [Summary by Nathaniel H. Bishop]()  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
   
 
 -----
@@ -244,14 +250,6 @@ Text: https://www.gutenberg.org/ebooks/64903
 [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
-
-
-### Four Months in a Sneak-Box (8:32)  
-https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
-Text: https://www.gutenberg.org/ebooks/5686  
-[Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902). Published 1878(?)  
-Librivox Summary:  
->The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." [Summary by Nathaniel H. Bishop]()  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
 
 
 ### The Demi-Gods (4:37)  
