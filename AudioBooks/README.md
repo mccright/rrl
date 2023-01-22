@@ -124,6 +124,14 @@ Reading Notes: This *simple* story also incorporates a lot of text describing a 
 Summary from Librivox:  
 >David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
 
+### Preferred Risk (06:26)  
+https://librivox.org/preferred-risk-by-frederik-pohl/  
+Text: https://www.gutenberg.org/ebooks/51814  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
+Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  
+Librivox Summary:  
+>The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
+
 ### Blake of the "Rattlesnake"  (5:21)  
 https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
 https://archive.org/details/blakerattlesnak00janegoog  
@@ -190,14 +198,6 @@ Text: https://www.gutenberg.org/ebooks/52228
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
 Summary from Librivox:  
 >Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
-
-
-### Preferred Risk (06:26)  
-https://librivox.org/preferred-risk-by-frederik-pohl/  
-Text: https://www.gutenberg.org/ebooks/51814  
-By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
-Librivox Summary:  
->The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
 
 
 ### Sentimental Education (17:11)  
