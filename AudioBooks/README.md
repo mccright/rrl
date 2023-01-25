@@ -221,6 +221,7 @@ https://en.wikipedia.org/wiki/Imperium_in_Imperio
 Text: https://gutenberg.org/ebooks/15454  
 [Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
 See the [summary on Wikipedia](https://en.wikipedia.org/wiki/Imperium_in_Imperio)  
+Reading Notes:  Published in 1899, this seems like an important contribution to African American utopian literature.  This novel also incorporates a realistic spectrum of violence and racism experienced across the U.S. South.  If you can make it to the last hour of the recording, it also includes passionate arguments about the pursuit of political and economic justice.  Unfortunately, the audio book's reader has done this text few favors.  If you are able, it may be more enjoyable for many to just read the [text available on gutenburg.org](https://gutenberg.org/ebooks/15454).  
 Librivox Summary:  
 >Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, an educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
 
