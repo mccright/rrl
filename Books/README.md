@@ -66,6 +66,10 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
     
 ## Pending or Currently Underway:  
 
+### How the World Really Works: The Science Behind How We Got Here and Where We’re Going.  
+By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022  
+This is a useful book, one that should be required reading for anyone.  Read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
+>"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don’t know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity." (*From: [Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review*)  
 
 ### Rammed Earth Walls for Buildings (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000481  
