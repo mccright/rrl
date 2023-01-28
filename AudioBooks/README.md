@@ -132,6 +132,16 @@ Reading Notes: This is another story expressing a thread of post-WWII "*atomic b
 Librivox Summary:  
 >The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
 
+### Imperium in Imperio: A Study of the Negro Race Problem (5:23)  
+https://librivox.org/imperium-in-imperio-by-sutton-griggs/  
+https://en.wikipedia.org/wiki/Imperium_in_Imperio  
+Text: https://gutenberg.org/ebooks/15454  
+[Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
+See the [summary on Wikipedia](https://en.wikipedia.org/wiki/Imperium_in_Imperio)  
+Reading Notes:  Published in 1899, this seems like an important contribution to African American utopian literature.  This novel also incorporates a realistic spectrum of violence and racism experienced across the U.S. South.  If you can make it to the last hour of the recording, it also includes passionate arguments about the pursuit of political and economic justice.  Unfortunately, the audio book's reader has a flat, monotone presentation that is not a good match for the content of the text.  If you are able, it may be more enjoyable for many to just read the [text available on gutenburg.org](https://gutenberg.org/ebooks/15454).  
+Librivox Summary:  
+>Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, a highly educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
+
 ### Blake of the "Rattlesnake"  (5:21)  
 https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
 https://archive.org/details/blakerattlesnak00janegoog  
@@ -213,17 +223,6 @@ Text: [Vol 1](https://www.gutenberg.org/ebooks/34828) and [Vol 2](https://www.gu
 By [Gustave Flaubert](http://en.wikipedia.org/wiki/Gustave_Flaubert) (1821 - 1880)  
 Librivox Summary:  
 >Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
-
-
-### Imperium in Imperio: A Study of the Negro Race Problem (5:23)  
-https://librivox.org/imperium-in-imperio-by-sutton-griggs/  
-https://en.wikipedia.org/wiki/Imperium_in_Imperio  
-Text: https://gutenberg.org/ebooks/15454  
-[Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
-See the [summary on Wikipedia](https://en.wikipedia.org/wiki/Imperium_in_Imperio)  
-Reading Notes:  Published in 1899, this seems like an important contribution to African American utopian literature.  This novel also incorporates a realistic spectrum of violence and racism experienced across the U.S. South.  If you can make it to the last hour of the recording, it also includes passionate arguments about the pursuit of political and economic justice.  Unfortunately, the audio book's reader has done this text few favors.  If you are able, it may be more enjoyable for many to just read the [text available on gutenburg.org](https://gutenberg.org/ebooks/15454).  
-Librivox Summary:  
->Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, an educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
 
 
 ### Big Sur (6:23)  
