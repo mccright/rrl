@@ -71,6 +71,23 @@ By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022
 This is a useful book, one that should be required reading for anyone.  Read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
 >"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don’t know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity." (*From: [Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review*)  
 
+### The Ministry for the Future  
+https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  
+[Review placeholder](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
+
+### The Power.  
+https://en.wikipedia.org/wiki/The_Power_(Alderman_novel)
+By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  Published 2016  
+[Review placeholder]()  
+>"What would the world be like, Alderman asks, if all the women on Earth suddenly developed the ability to discharge massive electric shocks from their bodies? She takes this single idea and explores how it changes the dynamic between men and women, and among women. In doing so, she reveals a lot about how power and gender work today. (The word “power” in the title has multiple meanings.)"  From [Bill Gates](https://www.gatesnotes.com/Books/The-Power)  
+
+### The Inner Game of Tennis.  
+https://archive.org/details/innergameoftenni00gall  
+By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1974  
+[Review placeholder]()  
+>"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
+
 ### Rammed Earth Walls for Buildings (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000481  
 (1937 version at: https://play.google.com/books/reader?id=6KIFAAAAMAAJ&pg=GBS.PP4&hl=en)  
