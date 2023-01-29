@@ -57,6 +57,11 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 https://www.gutenberg.org/ebooks/16537  
 By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
 
+### On the Nature of Things  
+https://www.gutenberg.org/ebooks/785  
+and https://books.google.com/books?id=iKdij3ErDnMC  
+By [Titus Lucretius Carus](https://en.wikipedia.org/wiki/Lucretius) (*Lucretius*) (c. 99 – c. 55 BC)  
+
 ### A Soldier’s Diary  
 https://www.gutenberg.org/ebooks/66363  
 By [Ralph Scott]() () Published 1923  
