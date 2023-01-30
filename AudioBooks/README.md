@@ -3,6 +3,9 @@
 
 ## Completed:  
 
+<details>
+<summary>The Ambassadors. By Henry James, 1903</summary>
+
 ### The Ambassadors (16:46)  
 https://librivox.org/the-ambassadors-by-henry-james/  
 https://en.wikipedia.org/wiki/The_Ambassadors  
@@ -16,6 +19,8 @@ That young man appears to be enjoying his time in Paris rather more than seems g
 The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  
 Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  
 Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
+
+</details>
 
 ### Triplanetary, First in the Lensman Series (10:31)  
 https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
@@ -129,7 +134,7 @@ https://librivox.org/soldiers-pay-by-william-faulkner/
 [https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
 Text: https://archive.org/details/in.ernet.dli.2015.186670/  
 By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
-**See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay)**  
+See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
 also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
 >Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)
