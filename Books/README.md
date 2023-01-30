@@ -88,6 +88,10 @@ By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1
 [Review placeholder]()  
 >"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
 
+### Why Information Grows  
+By [César Hidalgo](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo)  published 1917  
+[Review placeholder]()  
+
 ### Rammed Earth Walls for Buildings (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000481  
 (1937 version at: https://play.google.com/books/reader?id=6KIFAAAAMAAJ&pg=GBS.PP4&hl=en)  
