@@ -124,6 +124,15 @@ Reading Notes: This *simple* story also incorporates a lot of text describing a 
 Summary from Librivox:  
 >David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
 
+### Soldiers' Pay (9:33)  
+https://librivox.org/soldiers-pay-by-william-faulkner/  
+[https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
+Text: https://archive.org/details/in.ernet.dli.2015.186670/  
+By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)
+**See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay)**  
+Librivox Summary:  
+>Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)
+
 ### Preferred Risk (06:26)  
 https://librivox.org/preferred-risk-by-frederik-pohl/  
 Text: https://www.gutenberg.org/ebooks/51814  
@@ -233,16 +242,6 @@ By [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac) (1922 - 1969). Pub
 See [Wikipedia Summary](https://en.wikipedia.org/wiki/Big_Sur_(novel))  
 Librivox Summary:  
 >This classic of the beatnik era from famous bohemian traveller Jack Kerouac focuses on Jack Dulouz, a thinly veiled Kerouac surrogate, and his attempts to reconcile his new found success as an author with his battle with alcoholism amid trips to a cabin in Big Sur in California. [Summary by Ben Tucker](https://librivox.org/big-sur-by-jack-kerouac/)  
-
-### Soldiers' Pay (9:33)  
-https://librivox.org/soldiers-pay-by-william-faulkner/  
-[https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
-Text: https://archive.org/details/in.ernet.dli.2015.186670/  
-By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)
-See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
-Librivox Summary:  
->Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)
-
 
 ### Opening the West with Lewis and Clark (7:06)  
 https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
