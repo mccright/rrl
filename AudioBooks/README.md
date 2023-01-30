@@ -24,6 +24,7 @@ Had Strether his life to live over again, knowing what he has now learned, how d
 
 <details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
+
 ### Triplanetary, First in the Lensman Series (10:31)  
 https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
 https://en.wikipedia.org/wiki/Triplanetary_(novel)  
