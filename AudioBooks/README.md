@@ -128,8 +128,9 @@ Summary from Librivox:
 https://librivox.org/soldiers-pay-by-william-faulkner/  
 [https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
 Text: https://archive.org/details/in.ernet.dli.2015.186670/  
-By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)
+By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
 **See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay)**  
+also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
 >Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)
 
