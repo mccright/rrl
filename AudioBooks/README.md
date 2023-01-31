@@ -11,7 +11,7 @@ https://librivox.org/the-ambassadors-by-henry-james/
 https://en.wikipedia.org/wiki/The_Ambassadors  
 Text at: https://www.gutenberg.org/etext/432  
 By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
-Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world... 
+Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world...  
 Summary from Librivox:  
 Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  
 Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick. 
@@ -41,6 +41,8 @@ Summary:
 
 </details>
 
+<details>
+<summary>First Lensman. By E. E. Smith, 1950</summary>
 
 ### First Lensman (11:12)  
 https://librivox.org/first-lensman-by-e-e-smith/  
@@ -50,13 +52,23 @@ By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  publi
 Reading Notes: (*see 'Triplanetary' above*)  
 >The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went--and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
+</details>
+
+<details>
+<summary>Atlantis. By Gerhart Hauptmann, 1912</summary>
+
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
 https://www.gutenberg.org/ebooks/17241  
-By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  
+By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  Published 1912
 Translated by **Adele Szold Seltzer** (1876 - 1940)  
 Summary from Librivox:  
 Frederick von Kammacher is a young doctor in Germany whose wife has gone insane, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
+
+</details>
+
+<details>
+<summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
 https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
@@ -64,6 +76,11 @@ Text: https://www.gutenberg.org/ebooks/61043
 By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
 Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
 Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/) NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "The Color of a Great City." It is LibriVox's policy to record texts as written.  
+
+</details>
+
+<details>
+<summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
 https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
@@ -76,6 +93,11 @@ QUOTE:
 Summary from Librivox:  
 >In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
 
+</details>
+
+<details>
+<summary>A Political Pilgrim in Europe. By Ethel Snowden, Viscountess Snowden, 1921</summary>
+
 ### A Political Pilgrim in Europe  (9:34)  
 https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
 Text: https://www.gutenberg.org/ebooks/68238/  
@@ -84,6 +106,11 @@ Reading Notes:  Snowden invests quite a bit of time in describing or just mentio
 Summary from Librivox:  
 >Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
 
+</details>
+
+<details>
+<summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
+
 ### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
 https://librivox.org/kings-queens-and-pawns-by-mary-roberts-rinehart/  
 https://www.gutenberg.org/ebooks/14457  
@@ -91,12 +118,22 @@ By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) 
 Summary from Librivox:  
 >A personal account of the American author's visit to Europe in January 1915 while a war correspondent in Belgium for The Saturday Evening Post. She writes: "War is not two great armies meeting in a clash and frenzy of battle. It is much more than that. War is a boy carried on a stretcher, looking up at God's blue sky with bewildered eyes that are soon to close; war is a woman carrying a child that has been wounded by a shell; war is spirited horses tied in burning buildings and waiting for death; war is the flower of a race, torn, battered, hungry, bleeding, up to its knees in icy water; war is an old woman burning a candle before the Mater Dolorosa for the son she has given.  
 
+</details>
+
+<details>
+<summary>Edward III. By William Parsons Warburton, 1908</summary>
+
 ### Edward III (9:40)  
 https://librivox.org/edward-iii-by-william-warburton/  
 https://archive.org/details/in.ernet.dli.2015.86381  
-By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  
+By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  Published 1908  
 Summary from Librivox:  
 >Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
+
+</details>
+
+<details>
+<summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
 
 ### Life of Henry David Thoreau (7:44)  
 https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
@@ -104,6 +141,11 @@ Text: https://archive.org/details/lifeofhenrydavid00saltuoft
 By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
 Summary from Librivox:  
 >Henry David Thoreau was a laborer, philosopher, abolitionist, anarchist, environmentalist(?), writer, poet, and more. In popular culture he is best known for his book 'Walden', and his essay on 'Civil Disobedience.' [Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/) reports that this early biography by Henry Salt is highly regarded by Thoreau scholars. Be aware that this is a late 19th century biography -- little wandering and uneven.  If you can forgive that, I believe it is a useful introduction to Thoreau well read by "[PhyllisV](https://librivox.org/reader/13055?primary_key=13055&search_category=reader&search_page=1&search_form=get_results)."  
+
+</details>
+
+<details>
+<summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
 
 ### The Heart of the Ancient Wood  (4:54)  
 https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
@@ -113,11 +155,21 @@ Reading Notes: The 21 minute opening chapter narrates a walk through the woods f
 Summary from Librivox:  
 >A woman, Kirstie Craig and her daughter Miranda take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
 
+</details>
+
+<details>
+<summary>The Awakening. By Kate Chopin, 1900</summary>
+
 ### The Awakening (5:14) 
 https://librivox.org/the-awakening-by-kate-chopin/ 
 https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
 By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
 Publication date: 22 April 1900 (first edition was 1899)  
+
+</details>
+
+<details>
+<summary>Captains Courageous. By Rudyard Kipling, 1897</summary>
 
 ### Captains Courageous  (5:57)  
 https://librivox.org/captains-courageous-by-rudyard-kipling/  
@@ -127,6 +179,11 @@ By [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) (1868 - 1936
 Summary from Librivox:  
 >Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
 
+</details>
+
+<details>
+<summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
+
 ### The Harvester (16:48)  
 https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
 Text: https://www.gutenberg.org/ebooks/349  
@@ -134,6 +191,11 @@ By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1
 Reading Notes: This *simple* story also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.
 Summary from Librivox:  
 >David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
+
+</details>
+
+<details>
+<summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
 
 ### Soldiers' Pay (9:33)  
 https://librivox.org/soldiers-pay-by-william-faulkner/  
@@ -145,6 +207,11 @@ also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://s
 Librivox Summary:  
 >Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)
 
+</details>
+
+<details>
+<summary>Preferred Risk. By Frederik Pohl, 1955</summary>
+
 ### Preferred Risk (06:26)  
 https://librivox.org/preferred-risk-by-frederik-pohl/  
 Text: https://www.gutenberg.org/ebooks/51814  
@@ -153,15 +220,25 @@ Reading Notes: This is another story expressing a thread of post-WWII "*atomic b
 Librivox Summary:  
 >The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
 
+</details>
+
+<details>
+<summary>Imperium in Imperio: A Study of the Negro Race Problem. By Sutton Griggs, 1899</summary>
+
 ### Imperium in Imperio: A Study of the Negro Race Problem (5:23)  
 https://librivox.org/imperium-in-imperio-by-sutton-griggs/  
 https://en.wikipedia.org/wiki/Imperium_in_Imperio  
 Text: https://gutenberg.org/ebooks/15454  
-[Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
+By [Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
 See the [summary on Wikipedia](https://en.wikipedia.org/wiki/Imperium_in_Imperio)  
 Reading Notes:  Published in 1899, this seems like an important contribution to African American utopian literature.  This novel also incorporates a realistic spectrum of violence and racism experienced across the U.S. South.  If you can make it to the last hour of the recording, it also includes passionate arguments about the pursuit of political and economic justice.  Unfortunately, the audio book's reader has a flat, monotone presentation that is not a good match for the content of the text.  If you are able, it may be more enjoyable for many to just read the [text available on gutenburg.org](https://gutenberg.org/ebooks/15454).  
 Librivox Summary:  
 >Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, a highly educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
+
+</details>
+
+<details>
+<summary>Blake of the "Rattlesnake." By Frederick Thomas Jane, 1895</summary>
 
 ### Blake of the "Rattlesnake"  (5:21)  
 https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
@@ -170,6 +247,11 @@ By [Frederick Thomas Jane](https://en.wikipedia.org/wiki/Fred_T._Jane) (1865 - 1
 Summary from Librivox:  
 >Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
 
+</details>
+
+<details>
+<summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
+
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
 Text: https://www.gutenberg.org/ebooks/9812  
@@ -177,6 +259,11 @@ By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln
 Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
 [Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
 >Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  
+
+</details>
+
+<details>
+<summary>Search the Sky. By Frederik Pohl, 1956</summary>
 
 ### Search the Sky (06:47)  
 https://librivox.org/search-the-sky-by-frederik-pohl/  
@@ -187,6 +274,11 @@ Reading Notes: This mid-20th century book's main story-line is about colonizatio
 Summary from Librivox:  
 >Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
 
+</details>
+
+<details>
+<summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
+
 ### Cato, a Tragedy in Five Acts  (1:47)  
 https://librivox.org/cato-by-joseph-addison/  
 Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
@@ -196,22 +288,39 @@ Listening Notes: This recording is **not** an example of the excellence that can
 >Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death [Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy). 
 This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
 
+</details>
+
+<details>
+<summary>War on Peace. By Ronan Farrow, 2018</summary>
+
 ### War on Peace  (10:54)  
 https://en.wikipedia.org/wiki/War_on_Peace  
 https://wwnorton.com/books/war-on-peace/  
 By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  
 
+</details>
+
+<details>
+<summary>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
+
 ### The Wordy Shipmates (07:15)  
 https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
 By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), published 2008  
 
+</details>
+
+<details>
+<summary>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
+
 ### Four Months in a Sneak-Box (8:32)  
 https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
 Text: https://www.gutenberg.org/ebooks/5686  
-[Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902). Published 1878(?)  
+By [Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902). Published 1878(?)  
 Librivox Summary:  
 >The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." [Summary by Nathaniel H. Bishop]()  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
-  
+
+</details>  
+
 
 -----
 
