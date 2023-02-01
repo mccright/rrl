@@ -375,7 +375,7 @@ Librivox Summary:
 ### The Demi-Gods (4:37)  
 https://librivox.org/the-demi-gods-by-james-stephens/  
 Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
-By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.  
+By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.   Reader's Notes:  This book is a lot of fun and the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
 Librivox Summary:  
 >In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The Mac Cans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin. (Summary by Michele Fry)
 
