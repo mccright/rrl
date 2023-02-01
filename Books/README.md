@@ -68,8 +68,15 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
 
 ### How the World Really Works: The Science Behind How We Got Here and Where We’re Going.  
 By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022  
-This is a useful book, one that should be required reading for anyone.  Read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
->"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don’t know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity." (*From: [Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review*)  
+This is a useful book, one that should be required reading for anyone.  
+Summary at: https://www.kirkusreviews.com/book-reviews/vaclav-smil/how-the-world-really-works/ and read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
+Reading Notes:  
+>By 1800... plant fuels still supply more than 98 percent of all heat and light used by [humans (*as opposed to coal or animal oils*)], and human and animal muscles still provide more than 90% of all mechanical energy needed in farming, construction, and manufacturing. ...Even by 1850, rising coal extraction in Europe and North America supplies no more than 7% of all fuel energy, nearly half of all useful kenetic energy comes from draft animals, about 40% from human muscles, and just 15% from the three inanimate prime movers: waterwheels, windmills, and the slowly spreading steam engines. (page 17)  
+https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false  
+
+
+[Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review:  
+>"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don’t know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
 
 ### The Ministry for the Future  
 https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
