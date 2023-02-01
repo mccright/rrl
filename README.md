@@ -3,6 +3,7 @@
 
 ### Reading [Out-of-Copywrite - Open-Access eBooks](https://github.com/mccright/rrl/tree/main/OpenSourceTexts)  
   * Project Gutenberg  https://www.gutenberg.org/  
+  * Standard Ebooks  https://standardebooks.org/
   * Internet Archive https://archive.org/  
   * World Digital Library (WDL) projec https://www.loc.gov/books/collections/ or the broader https://www.loc.gov/collections/ from the U.S. Library of Congress  
   * Baen Free Library (science fiction) [https://www.baen.com/](https://www.baen.com/)  
