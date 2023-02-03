@@ -66,6 +66,12 @@ By [Titus Lucretius Carus](https://en.wikipedia.org/wiki/Lucretius) (*Lucretius*
 https://www.gutenberg.org/ebooks/66363  
 By [Ralph Scott]() () Published 1923  
 
+### The Enormous Room.  
+https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room  
+https://www.gutenberg.org/ebooks/8446   
+By [E. E. Cummings](https://en.wikipedia.org/wiki/E._E._Cummings) (1894-1962)  Published 1922  
+Summary: [Wikipedia](https://en.wikipedia.org/wiki/The_Enormous_Room)  
+
 ### The Clipper Ship Era -- An Epitome of Famous American and British Clipper Ships, Their Owners, Builders, Commanders, and Crews 1843-1869.  
 https://www.gutenberg.org/ebooks/69154  
 By Arthur Hamilton Clark (1841-1922), published 1911  
