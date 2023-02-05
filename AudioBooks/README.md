@@ -23,6 +23,18 @@ Had Strether his life to live over again, knowing what he has now learned, how d
 </details>
 
 <details>
+<summary>The Demi-Gods, By James Stephens. 1914</summary>
+
+### The Demi-Gods (4:37)  
+https://librivox.org/the-demi-gods-by-james-stephens/  
+Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
+By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.   Reader's Notes:  This book is a lot of fun and the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
+Librivox Summary:  
+>In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The Mac Cans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin. (Summary by Michele Fry)
+
+</details>
+
+<details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -371,13 +383,6 @@ Text: https://www.gutenberg.org/ebooks/64903
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
 
-
-### The Demi-Gods (4:37)  
-https://librivox.org/the-demi-gods-by-james-stephens/  
-Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
-By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.   Reader's Notes:  This book is a lot of fun and the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
-Librivox Summary:  
->In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The Mac Cans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin. (Summary by Michele Fry)
 
 ### On Life (6:24)  
 https://librivox.org/on-life-by-leo-tolstoy/  
