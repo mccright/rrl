@@ -332,11 +332,29 @@ Librivox Summary:
 >The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." [Summary by Nathaniel H. Bishop]()  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
 
 </details>  
-
+  
 
 -----
 
 ## Pending or Currently Underway:  
+
+<details>
+<summary>The Chouans. By Honoré de Balzac.  1829</summary>
+
+### The Chouans (15:55)  
+https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
+https://en.wikipedia.org/wiki/Les_Chouans  
+Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up
+By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)
+Translated by [Ellen Marriage]() (1865 - 1946)  
+Reading Notes: This story seems like a good way to enhance any study of revolution in France, and more generally of French history.  
+Summary on Librivox:  
+>“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
+
+</details>  
+
+<details>
+<summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
@@ -346,6 +364,10 @@ By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (185
 Summary from Librivox:  
 >Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
 
+</details>  
+
+<details>
+<summary>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
 
 ### The Four Horsemen of the Apocalypse  (16:27)  
 https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/  
@@ -357,6 +379,10 @@ https://en.wikipedia.org/wiki/Charlotte_Brewster_Jordan
 Summary from Librivox:  
 >The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
 
+</details>  
+
+<details>
+<summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
 https://librivox.org/sentimental-education-by-gustave-flaubert/  
@@ -366,6 +392,10 @@ By [Gustave Flaubert](http://en.wikipedia.org/wiki/Gustave_Flaubert) (1821 - 188
 Librivox Summary:  
 >Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
 
+</details>  
+
+<details>
+<summary>Big Sur.  By Jack Kerouac.  1962</summary>
 
 ### Big Sur (6:23)  
 https://librivox.org/big-sur-by-jack-kerouac/  
@@ -376,44 +406,55 @@ See [Wikipedia Summary](https://en.wikipedia.org/wiki/Big_Sur_(novel))
 Librivox Summary:  
 >This classic of the beatnik era from famous bohemian traveller Jack Kerouac focuses on Jack Dulouz, a thinly veiled Kerouac surrogate, and his attempts to reconcile his new found success as an author with his battle with alcoholism amid trips to a cabin in Big Sur in California. [Summary by Ben Tucker](https://librivox.org/big-sur-by-jack-kerouac/)  
 
+
+</details>  
+
+<details>
+<summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
+
 ### Opening the West with Lewis and Clark (7:06)  
 https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
 Text: https://www.gutenberg.org/ebooks/64903  
-[Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  
+By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
 
+</details>  
+
+<details>
+<summary>On Life. By Leo Tolstoy.  1902</summary>
 
 ### On Life (6:24)  
 https://librivox.org/on-life-by-leo-tolstoy/  
 Text: https://archive.org/details/onlife188800tolsrich/  
-[Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) (1828 - 1910)  
+By [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) (1828 - 1910)  First published 1888 
 Translated by Mabel Cook and Agnes Cook (published in 1902)  
 Librivox Summary:  
->What is the "good life" for us mortal beings? Two months spent recovering from a severe injury allowed Tolstoy to develop and organise his thoughts on the subject. On Life is his philosophical answer where love, religion, and morality come together to ground us in reality. - [Summary by Cao Yuqing]()  
+>What is the "good life" for us mortal beings? Two months spent recovering from a severe injury allowed Tolstoy to develop and organise his thoughts on the subject. On Life is his philosophical answer where love, religion, and morality come together to ground us in reality. - [Summary by Cao Yuqing](https://librivox.org/on-life-by-leo-tolstoy/)  
 
+</details>  
 
-### The Chouans (15:55)  
-https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
-https://en.wikipedia.org/wiki/Les_Chouans  
-Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up
-[Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)
-Translated by [Ellen Marriage]() (1865 - 1946)
-Summary on Librivox:  
->“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
-
+<details>
+<summary>Historical Romance of the American Negro. By Charles H. Fowler. 1902</summary>
 
 ### Historical Romance of the American Negro (10:35)  
 https://librivox.org/historical-romance-american-negro-charles-fowler/  
 Text: https://archive.org/details/historicalromanc00fowl/page/n5/mode/2up 
-By [Charles H. Fowler]() (1837 - 1908)  
+By [Charles H. Fowler]() (1837 - 1908)  Published 1902  
 Summary on Librivox:  
 It was not long before the fame of the colored soldiers of America was wafted over the whole world and everywhere received by all lovers of freedom with most hearty applause. (Summary by narrator, p 66)
 Summary from the Preface:  
 For a number of years it has been on my mind to write a book regarding the principal events that have occurred to the colored race since the beginning of the agitation against slavery, going on from thence to the great Rebellion, passing through that war, and also dealing with all subjects of great importance that have arrested our attention under our glorious freedom. At the same time it has occurred to me . . . that my book would be far more interesting to the general reader, if I were to select a representative woman of our own race, and make her the mouthpiece of all I wished to say. . . . I hope those members of the general public who favor me by a perusal of my book will be pleased with my plan.  
 
+</details>  
+
+<details>
+<summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
+
 ### His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=19&cn=468652  
 By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
 OverDrive MP3 Audiobook audiobook-mp3 390001596  
+
+</details>  
 
