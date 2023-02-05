@@ -344,10 +344,10 @@ Librivox Summary:
 ### The Chouans (15:55)  
 https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
 https://en.wikipedia.org/wiki/Les_Chouans  
-Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up
-By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)
+Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
+By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
 Translated by [Ellen Marriage]() (1865 - 1946)  
-Reading Notes: This story seems like a good way to enhance any study of revolution in France, and more generally of French history.  
+Reading Notes: This story seems like a good way to enhance any study of revolution in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  
 Summary on Librivox:  
 >“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
 
