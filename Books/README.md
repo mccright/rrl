@@ -15,7 +15,7 @@ See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
 
 <details>
-<summary>*Reading Notes:* </summary>
+<summary>Reading Notes: </summary>
 
 This story has enormous scope, incorporating a broad spectrum of [science fiction](https://en.wikipedia.org/wiki/List_of_science_fiction_themes) and [religious](https://en.wikipedia.org/wiki/List_of_religious_ideas_in_science_fiction) themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
 Some Quotes:  
@@ -79,7 +79,7 @@ Explores some of the core myth-making establishing the widely-accepted narrative
 </details>
 
 <details>
-<summary> </summary>
+<summary>The Woman's Hour -- The great Fight to Win the Vote.  By Elaine Weiss  2019</summary>
 
 ### The Woman's Hour -- The great Fight to Win the Vote.  
 https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/  
@@ -89,7 +89,7 @@ This is a close-up on Nashville and the people working there in the summer of 19
 </details>
 
 <details>
-<summary> </summary>
+<summary>NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg.  By Irin Carmon  2015</summary>
 
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
@@ -100,10 +100,8 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
     
 ## Pending or Currently Underway:  
 
-</details>
-
 <details>
-<summary> </summary>
+<summary>How the World Really Works: The Science Behind How We Got Here and Where We’re Going.  By Vaclav Smil 2022  </summary>
 
 ### How the World Really Works: The Science Behind How We Got Here and Where We’re Going.  
 By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022  
@@ -111,9 +109,8 @@ This is a useful book, one that should be required reading for anyone.
 Summary at: https://www.kirkusreviews.com/book-reviews/vaclav-smil/how-the-world-really-works/ and read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
 
 <details>
-<summary> </summary>
+<summary>Reading Notes:</summary>
 
-Reading Notes:  
 >By 1800... plant fuels still supply more than 98 percent of all heat and light used by [humans (*as opposed to coal or animal oils*)], and human and animal muscles still provide more than 90% of all mechanical energy needed in farming, construction, and manufacturing. ...Even by 1850, rising coal extraction in Europe and North America supplies no more than 7% of all fuel energy, nearly half of all useful kenetic energy comes from draft animals, about 40% from human muscles, and just 15% from the three inanimate prime movers: waterwheels, windmills, and the slowly spreading steam engines. ...by 1900...modern energy sources (coal and some crude oil) provide half of all primary energy, and traditional fuels (wood, charcoal, straw) the other half.  ...By 1900, inanimate prime movers supply about half of all mechanical energy... By 1950, fossil fuels supply nearly 3/4 of primary energy (still dominated by coal) and inanimate prime movers...provide more than 80% of all mechanical energy... (page 17)  
 >...by the year 2000...only (about 12%) depend on biomass fuels for primary energy. ... Animate prime movers hold only a 5% share of mechanical energy... 1,500-fold increase (*in the use of fossil fuels*) over the past 220 years. (page 18)  
 >since 1800 the gain (*in overall energy efficiency*) was about 3,500-fold. ... An average inhabitant of the Earth nowadays has at their disposal nearly 700 times more useful energy than their ancestors had at the beginning of the 19th century. ...(*by 2020*)it is as if 60 adults would be working non-stop, day and night, for each average person; and for the inhabitants of affluent countries this equivalent of steadily laboring adults would be...between 200 and 240. (page 19)  
@@ -132,17 +129,17 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 </details>
 
 <details>
-<summary> </summary>
+<summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
 
 ### The Ministry for the Future  
 https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  published 2020  
 [Review placeholder](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
 
 </details>
 
 <details>
-<summary> </summary>
+<summary>The Power.  By Naomi Alderman  2016</summary>
 
 ### The Power.  
 https://en.wikipedia.org/wiki/The_Power_(Alderman_novel)
@@ -153,7 +150,7 @@ By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  Published 201
 </details>
 
 <details>
-<summary> </summary>
+<summary>The Inner Game of Tennis.  By Timothy Gallwey  1974</summary>
 
 ### The Inner Game of Tennis.  
 https://archive.org/details/innergameoftenni00gall  
@@ -164,16 +161,16 @@ By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1
 </details>
 
 <details>
-<summary> </summary>
+<summary>Why Information Grows.  By César Hidalgo  2015</summary>
 
 ### Why Information Grows  
-By [César Hidalgo](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo)  published 1917  
+By [César Hidalgo](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo)  published 2015  
 [Review placeholder]()  
 
 </details>
 
 <details>
-<summary> </summary>
+<summary>Rammed Earth Walls for Buildings (USDA).  By M. C. (Morris Cotgrave) Betts.  1926</summary>
 
 ### Rammed Earth Walls for Buildings (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000481  
@@ -185,7 +182,7 @@ Publisher: U.S. Dept. of Agriculture, 1926
 </details>
 
 <details>
-<summary> </summary>
+<summary>Return of the Enola Gay.  by Paul W. Tibbets. </summary>
 
 ### Return of the Enola Gay  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=63468  
@@ -194,7 +191,7 @@ by [Tibbets, Paul W.](https://en.wikipedia.org/wiki/Paul_Tibbets) and (Paul Warf
 </details>
 
 <details>
-<summary> </summary>
+<summary>The Making of a Pandemic.  By John Ehrenreich.  2022</summary>
 
 ### The Making of a Pandemic -- Social, Political, and Psychological Perspectives on Covid-19  
 https://link.springer.com/book/10.1007/978-3-031-04964-4  and for Amazon users: [https://www.amazon.com/gp/product/B0B2QY28XC/](https://www.amazon.com/gp/product/B0B2QY28XC/)  
@@ -204,7 +201,7 @@ By [John Ehrenreich](https://en.wikipedia.org/wiki/John_Ehrenreich), Published 2
 </details>
 
 <details>
-<summary> </summary>
+<summary>Wake: The Hidden History of Women-Led Slave Revolts.  By Rebecca Hall.  2021</summary>
 
 ### Wake: The Hidden History of Women-Led Slave Revolts  
 https://rebhallphd.org/ and https://rebhallphd.org/wake-praise/   
@@ -217,7 +214,7 @@ https://interminablerambling.com/2021/07/15/retrieving-history-in-rebecca-hall-a
 </details>
 
 <details>
-<summary> </summary>
+<summary>Early American soil conservationists (USDA).  By Angus Henry McDonald  1941</summary>
 
 # Early American soil conservationists (USDA)  
 https://handle.nal.usda.gov/10113/CAT87206254  
@@ -228,7 +225,7 @@ Publisher: U.S. Dept. of Agriculture. 1941, 63 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>Thomas Jefferson, soil conservationist (USDA).  By Hugh H. Bennett  1944</summary>
 
 ### Thomas Jefferson, soil conservationist (USDA)  
 https://handle.nal.usda.gov/10113/CAT88900165  
@@ -238,7 +235,7 @@ Publisher: U.S. Dept. of Agriculture. 1944, 15 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>Food plants of the North American Indians (USDA).  By Elias Yanovsky.  1936</summary>
 
 ### Food plants of the North American Indians (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000550  
@@ -248,7 +245,7 @@ Publisher: U.S. Dept. of Agriculture. 1936, 84 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>More food through conservation farming.  By Arthur T. (Arthur Truman) Semple.  1942</summary>
 
 ### More food through conservation farming  
 https://handle.nal.usda.gov/10113/ORC00000390  
@@ -258,7 +255,7 @@ Publisher: U.S. Dept. of Agriculture. 1942, 54 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>Apple varieties and important producing sections of the United States (USDA).  By J. R. (John Robert) Magness.  1941</summary>
 
 ### Apple varieties and important producing sections of the United States (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000306  
@@ -268,7 +265,7 @@ Publisher: U.S. Dept. of Agriculture. 1941, 32 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>Our American land:the story of its abuse and its conservation (USDA). By Hugh H. (Hugh Hammond) Bennett  1950</summary>
 
 ### Our American land:the story of its abuse and its conservation (USDA)  
 https://handle.nal.usda.gov/10113/CAT87209318  
@@ -278,7 +275,7 @@ Publisher: U.S. Dept. of Agriculture. 1950, 32 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>Classifying land for conservation farming. By R. D. (Roy Douglas) Hockensmith.  1942</summary>
 
 ### Classifying land for conservation farming  
 https://handle.nal.usda.gov/10113/ORC00000318  
@@ -288,7 +285,7 @@ Publisher: U.S. Dept. of Agriculture. 1943, 45 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>A bibliography on the agriculture of the American Indians (USDA).  By Everett Eugene Edwards.  1942</summary>
 
 ### A bibliography on the agriculture of the American Indians (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000555  
@@ -298,7 +295,7 @@ Publisher: U.S. Dept. of Agriculture. 1942, 107 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>Country hides and skins (USDA). By C. V. (Charles Vivion) Whalin.  1919</summary>
 
 ### Country hides and skins (USDA)  
 https://handle.nal.usda.gov/10113/5420602  
@@ -308,7 +305,7 @@ Publisher: U.S. Dept. of Agriculture. 1919, 64 pages
 </details>
 
 <details>
-<summary> </summary>
+<summary>Farm fences (USDA).  By M. A. R. (Manly Alexander Raymond) Kelley.  1940</summary>
 
 ### Farm fences (USDA)  
 https://handle.nal.usda.gov/10113/5420532  
