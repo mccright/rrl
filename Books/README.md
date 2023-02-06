@@ -13,8 +13,8 @@ Published 2008, 937 pages.
 See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
 
-<details>
-<summary>Reading Notes: </summary>
+    <details>
+    <summary>Reading Notes: </summary>
 
 This story has enormous scope, incorporating a broad spectrum of [science fiction](https://en.wikipedia.org/wiki/List_of_science_fiction_themes) and [religious](https://en.wikipedia.org/wiki/List_of_religious_ideas_in_science_fiction) themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
 Some Quotes:  
@@ -40,7 +40,7 @@ Some Quotes:
 >I was an adjunct professor, which means that I was given the most unpleasant and unrewarding teaching assignments with no opportunity for university-supported research, no job security, and no benefits.  Also the pay was terrible...  
 >Well, that would challenge certain assumptions about the nature of reality that I did not even know I had.  
 
-</details>
+    </details>
 
 </details>
 
