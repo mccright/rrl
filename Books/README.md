@@ -2,14 +2,20 @@
 (*started 2022 July 25*)  
 
 ## Completed:  
+
+<details>
+<summary>Anathem. By Neal Stephenson  2008</summary>
 ### Anathem.  
 https://en.wikipedia.org/wiki/Anathem  
 https://www.nealstephenson.com/anathem.html  
-By Neal Stephenson  
-https://en.wikipedia.org/wiki/Neal_Stephenson  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  
 Published 2008, 937 pages.  
 See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
+
+<details>
+<summary>Reading Notes: </summary>
+
 This story has enormous scope, incorporating a broad spectrum of [science fiction](https://en.wikipedia.org/wiki/List_of_science_fiction_themes) and [religious](https://en.wikipedia.org/wiki/List_of_religious_ideas_in_science_fiction) themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
 Some Quotes:  
 >Its general import is that one should never believe a thing only because one wishes that it were true.  
@@ -34,6 +40,13 @@ Some Quotes:
 >I was an adjunct professor, which means that I was given the most unpleasant and unrewarding teaching assignments with no opportunity for university-supported research, no job security, and no benefits.  Also the pay was terrible...  
 >Well, that would challenge certain assumptions about the nature of reality that I did not even know I had.  
 
+</details>
+
+</details>
+
+<details>
+<summary>The Diamond Age or, A Young Lady's Illustrated Primer.  By Neal Stephenson  1995</summary>
+
 ### The Diamond Age or, A Young Lady's Illustrated Primer  
 https://en.wikipedia.org/wiki/The_Diamond_Age  
 By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  
@@ -41,22 +54,42 @@ Published 1995
 Summary:  
 ..."nanotechnology made nearly anything possible, and so the cultural role in deciding what *should* be done with it had become far more important than imagining what *could* be done with it." (page 37)  This book [covers a lot of territory](https://en.wikipedia.org/wiki/The_Diamond_Age).  Written in the early 1990s, Stephenson created a world in the 3rd or 4th decade of the 21st century where nanotechnology had changed *everything* and humanity was characterized by extreme tribalism.  
 
+</details>
+
+<details>
+<summary>Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  By Ellen Carol Dubois  2020</summary>
+
 ### Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  
 https://www.simonandschuster.com/books/Suffrage/Ellen-Carol-DuBois/9781501165184  
 By [Ellen Carol Dubois](https://ellencaroldubois.com/about/), 2020, Simon & Schuster.  
 Summary:  
 ...explores 75 years of suffrage struggle, Organized into four episodes:  first, "universal suffrage" -- the vote for all U.S. citizens; second, Gilded Age expansion of suffrage support and intersections with other organizations, especially the WTCU; third, highlighting the states that were able to enfranchise four million women by 1914; and finally, the final push for the Nineteenth Amendment in 1920.  
   
+</details>
+
+<details>
+<summary>The Myth of Seneca Falls.  By Lisa Tetrault  2014</summary>
+
 ### The Myth of Seneca Falls -- Memory and the Women's Suffrage Movement, 1848-1898.  
 https://uncpress.org/book/9781469633503/the-myth-of-seneca-falls/  
 By [Lisa Tetrault](https://www.cmu.edu/dietrich/history/people/faculty/tetrault.html), 2014, The University of North Carolina Press  
 Explores some of the core myth-making establishing the widely-accepted narrative of the women's suffrage movement in the U.S.  
   
+</details>
+
+<details>
+<summary> </summary>
+
 ### The Woman's Hour -- The great Fight to Win the Vote.  
 https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/  
 By [Elaine Weiss](https://elaineweiss.com/bio/), 2019, Penguin Random House  
 This is a close-up on Nashville and the people working there in the summer of 1920 as Tennessee becomes the final ratification of the 19th Amendment.  
   
+</details>
+
+<details>
+<summary> </summary>
+
 ### NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
 By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
@@ -66,10 +99,19 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
     
 ## Pending or Currently Underway:  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### How the World Really Works: The Science Behind How We Got Here and Where We’re Going.  
 By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022  
 This is a useful book, one that should be required reading for anyone.  
 Summary at: https://www.kirkusreviews.com/book-reviews/vaclav-smil/how-the-world-really-works/ and read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
+
+<details>
+<summary> </summary>
+
 Reading Notes:  
 >By 1800... plant fuels still supply more than 98 percent of all heat and light used by [humans (*as opposed to coal or animal oils*)], and human and animal muscles still provide more than 90% of all mechanical energy needed in farming, construction, and manufacturing. ...Even by 1850, rising coal extraction in Europe and North America supplies no more than 7% of all fuel energy, nearly half of all useful kenetic energy comes from draft animals, about 40% from human muscles, and just 15% from the three inanimate prime movers: waterwheels, windmills, and the slowly spreading steam engines. ...by 1900...modern energy sources (coal and some crude oil) provide half of all primary energy, and traditional fuels (wood, charcoal, straw) the other half.  ...By 1900, inanimate prime movers supply about half of all mechanical energy... By 1950, fossil fuels supply nearly 3/4 of primary energy (still dominated by coal) and inanimate prime movers...provide more than 80% of all mechanical energy... (page 17)  
 >...by the year 2000...only (about 12%) depend on biomass fuels for primary energy. ... Animate prime movers hold only a 5% share of mechanical energy... 1,500-fold increase (*in the use of fossil fuels*) over the past 220 years. (page 18)  
@@ -81,14 +123,25 @@ Energy: The common definition == "The capacity for doing work" or (*Richard Feyn
 Mechanical energy: Isaac Newton's approach == a joule is the force of one newton, or '*the mass of 1 kilogram accelerated by 1 m/s² acting over a distance of 1 meter*.  
 https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false  
 
-
 [Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review:  
 >"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don’t know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
+
+</details>
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### The Ministry for the Future  
 https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  
 [Review placeholder](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### The Power.  
 https://en.wikipedia.org/wiki/The_Power_(Alderman_novel)
@@ -96,15 +149,30 @@ By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  Published 201
 [Review placeholder]()  
 >"What would the world be like, Alderman asks, if all the women on Earth suddenly developed the ability to discharge massive electric shocks from their bodies? She takes this single idea and explores how it changes the dynamic between men and women, and among women. In doing so, she reveals a lot about how power and gender work today. (The word “power” in the title has multiple meanings.)"  From [Bill Gates](https://www.gatesnotes.com/Books/The-Power)  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### The Inner Game of Tennis.  
 https://archive.org/details/innergameoftenni00gall  
 By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1974  
 [Review placeholder]()  
 >"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### Why Information Grows  
 By [César Hidalgo](https://en.wikipedia.org/wiki/C%C3%A9sar_Hidalgo)  published 1917  
 [Review placeholder]()  
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### Rammed Earth Walls for Buildings (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000481  
@@ -113,15 +181,29 @@ By M. C. (Morris Cotgrave) Betts (1875-1936) and T. A. H. (Thomas Arrington Hunt
 Publisher: U.S. Dept. of Agriculture, 1926  
 26 pages  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### Return of the Enola Gay  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=63468  
 by [Tibbets, Paul W.](https://en.wikipedia.org/wiki/Paul_Tibbets) and (Paul Warfield), 1915-2007  
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### The Making of a Pandemic -- Social, Political, and Psychological Perspectives on Covid-19  
 https://link.springer.com/book/10.1007/978-3-031-04964-4  and for Amazon users: [https://www.amazon.com/gp/product/B0B2QY28XC/](https://www.amazon.com/gp/product/B0B2QY28XC/)  
 By [John Ehrenreich](https://en.wikipedia.org/wiki/John_Ehrenreich), Published 2022-05-30  
 [About this book.](https://link.springer.com/book/10.1007/978-3-031-04964-4?noAccess=true#about-this-book)  
 
+</details>
+
+<details>
+<summary> </summary>
 
 ### Wake: The Hidden History of Women-Led Slave Revolts  
 https://rebhallphd.org/ and https://rebhallphd.org/wake-praise/   
@@ -131,53 +213,105 @@ https://interminablerambling.com/2021/07/09/wake/
 https://interminablerambling.com/2021/07/13/layouts-in-rebecca-hall-and-hugo-martinezs-wake/  
 https://interminablerambling.com/2021/07/15/retrieving-history-in-rebecca-hall-and-hugo-martinezs-wake/  
 
+</details>
+
+<details>
+<summary> </summary>
+
 # Early American soil conservationists (USDA)  
 https://handle.nal.usda.gov/10113/CAT87206254  
 https://handle.nal.usda.gov/10113/ORC00000556
 By McDonald, Angus Henry  
 Publisher: U.S. Dept. of Agriculture. 1941, 63 pages  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### Thomas Jefferson, soil conservationist (USDA)  
 https://handle.nal.usda.gov/10113/CAT88900165  
 By Bennett, Hugh H. (Hugh Hammond)  
 Publisher: U.S. Dept. of Agriculture. 1944, 15 pages  
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### Food plants of the North American Indians (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000550  
 By Elias Yanovsky (1886-____)  
 Publisher: U.S. Dept. of Agriculture. 1936, 84 pages  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### More food through conservation farming  
 https://handle.nal.usda.gov/10113/ORC00000390  
 By Arthur T. (Arthur Truman) Semple 1895-  
 Publisher: U.S. Dept. of Agriculture. 1942, 54 pages  
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### Apple varieties and important producing sections of the United States (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000306  
 By J. R. (John Robert) Magness 1894-  
 Publisher: U.S. Dept. of Agriculture. 1941, 32 pages  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### Our American land:the story of its abuse and its conservation (USDA)  
 https://handle.nal.usda.gov/10113/CAT87209318  
 By Bennett, Hugh H. (Hugh Hammond)  
 Publisher: U.S. Dept. of Agriculture. 1950, 32 pages  
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### Classifying land for conservation farming  
 https://handle.nal.usda.gov/10113/ORC00000318  
 By R. D. (Roy Douglas) Hockensmith 1905- and J. G. (John Gordon) Steele 1905-  
 Publisher: U.S. Dept. of Agriculture. 1943, 45 pages  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### A bibliography on the agriculture of the American Indians (USDA)  
 https://handle.nal.usda.gov/10113/ORC00000555  
 By Everett Eugene Edwards (1900-___) and Wayne D. (Wayne David) Rasmussen (1915-2004)  
 Publisher: U.S. Dept. of Agriculture. 1942, 107 pages  
+
+</details>
+
+<details>
+<summary> </summary>
 
 ### Country hides and skins (USDA)  
 https://handle.nal.usda.gov/10113/5420602  
 By C. V. (Charles Vivion) Whalin  
 Publisher: U.S. Dept. of Agriculture. 1919, 64 pages  
 
+</details>
+
+<details>
+<summary> </summary>
+
 ### Farm fences (USDA)  
 https://handle.nal.usda.gov/10113/5420532  
 By Kelley, M. A. R. (Manly Alexander Raymond)  
 Publisher: U.S. Dept. of Agriculture. 1940, 58 pages  
+
+</details>
