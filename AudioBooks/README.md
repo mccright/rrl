@@ -35,6 +35,21 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>The Chouans. By Honoré de Balzac.  1829</summary>
+
+### The Chouans (15:55)  
+https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
+https://en.wikipedia.org/wiki/Les_Chouans  
+Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
+By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
+Translated by [Ellen Marriage]() (1865 - 1946)  
+Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues of 18th/19th century female stereotypes and related derogatory terms.  
+Summary on Librivox:  
+>“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
+
+</details>  
+
+<details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -338,20 +353,49 @@ Librivox Summary:
 
 ## Pending or Currently Underway:  
 
+
 <details>
-<summary>The Chouans. By Honoré de Balzac.  1829</summary>
+<summary>The Man in the Panther's Skin.  12th or 13th Century</summary>  
 
-### The Chouans (15:55)  
-https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
-https://en.wikipedia.org/wiki/Les_Chouans  
-Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
-By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
-Translated by [Ellen Marriage]() (1865 - 1946)  
-Reading Notes: This story seems like a good way to enhance any study of revolution in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  
-Summary on Librivox:  
->“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
+### The Man in the Panther's Skin (8:17)  
+https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/  
+Text: https://archive.org/details/WardropMps/page/n3/mode/2up  
+https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin  
+By [Shota Rustaveli](https://en.wikipedia.org/wiki/Shota_Rustaveli) (1172 - 1216)  
+Translated by Marjory Wardrop (1869 - 1909)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by Beeswaxcandle](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
 
-</details>  
+</details>
+</details>
+
+
+<details>
+<summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
+
+### The Story of Geographical Discovery: How the World Became Known. (4:51)  
+https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/  
+Text: https://www.gutenberg.org/files/14291/14291-h/14291-h.htm  
+or https://archive.org/details/storyofgeographi00jacorich  
+By [Joseph Jacobs](http://en.wikipedia.org/wiki/Joseph_Jacobs) (1854 - 1916)  
+<details>
+<summary> Librivox Summary:</summary>  
+>This book was first published in 1897. It's a short work, but it encompasses a vast subject—nothing less than determining the detailed geographical plan of our entire world! In the process, Jacobs feeds us dates and names and events and places and maps in a dense stream. It's a bit like drinking from a fire hose, but see it through, and the reader (or listener) will acquire a surprisingly complete overview of world history as well as geography. It's well worth absorbing, even by those not so geographically inclined, if only as a source for winning endless bar bets. Beginning in ancient times, the author identifies three main forces that have contributed to our present understanding: wars of conquest, competition for trade, and (eventually) pure scientific curiosity. The Egyptians, Phoenicians, early Greeks, Babylonians, and many other Mediterranean peoples contributed, often unwillingly, the streams of knowledge that Ptolemy of Alexandria summed up in the great Ptolemaei Orbis (ca.150 AD), the first “real” map of the whole known world. The evolution of world maps to incorporate (and sometime conceal) new discoveries is a key theme of this fascinating work. ([Summary by Steven Seitel](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/))
+
+</details>
+</details>
+
+<details>
+<summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
+
+### Scientific American Supplement, No. 492, June 6, 1885  (4:29)  
+https://librivox.org/scientific-american-suppl492-june-6-1885/  
+Text: https://www.gutenberg.org/ebooks/12490  
+Librivox Summary:  
+>The Scientific American may be the oldest continuously published periodical in the United States, havinge launched its first publication in 1845. It has been a mainstay of popular science with in depth articles across a broad spectrum of scientific fields. In this supplement are short articles ranging through such topics as Pumping Machinery, The Distillation of Sea Water, Winter and the Insects, Silk Worm Eggs, and The Casino at Monte Carlo. - [Summary by Larry Wilson](https://librivox.org/scientific-american-suppl492-june-6-1885/)  
+
+</details>
 
 <details>
 <summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
