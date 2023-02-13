@@ -460,6 +460,7 @@ Librivox Summary:
 https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
 Text: https://www.gutenberg.org/ebooks/64903  
 By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
+Reading Summary: Like a number of E.L.Sabin's works, this is historical-fiction-for-young-readers, and is a sweeping overview, without a lot of important detail...  It is also an assemply of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
 
