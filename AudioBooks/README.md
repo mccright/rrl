@@ -397,6 +397,19 @@ Translated by Marjory Wardrop (1869 - 1909)
 </details>
 </details>
 
+<details>
+<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
+
+### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
+https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
+By [various]()  
+<details>
+<summary> Librivox Summary:</summary>  
+>These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
+
+</details>
+</details>
+
 
 <details>
 <summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
