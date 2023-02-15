@@ -432,8 +432,8 @@ By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%
 ### The Best Church Hymns. (1:38)  
 https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
 Text: https://archive.org/details/bestch00bens  
-Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930
-By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)   
+Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
+By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
 <details>
 <summary> Librivox Summary:</summary>  
 >This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
