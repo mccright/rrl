@@ -50,6 +50,20 @@ Summary on Librivox:
 </details>  
 
 <details>
+<summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
+
+### Saint Joan: Preface  (2:12)  
+https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
+https://en.wikipedia.org/wiki/Saint_Joan_(play)  
+Text: https://archive.org/details/SaintJoan/page/n1  
+By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
+Reading Notes:  If you have even a microscopic interest in 'Saint Joan' or Middle Ages France, this seems like an excellent little book (*maybe just an essay*).  It assumes that the reader understands some about mid-20th century Brittan and New York, but is still a pleasure in relative ignorance of both.  The reading by David Wales is a perfect match.  
+Summary from Librivox:  
+>Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
+
+</details>  
+
+<details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -409,19 +423,6 @@ Librivox Summary:
 >The Scientific American may be the oldest continuously published periodical in the United States, havinge launched its first publication in 1845. It has been a mainstay of popular science with in depth articles across a broad spectrum of scientific fields. In this supplement are short articles ranging through such topics as Pumping Machinery, The Distillation of Sea Water, Winter and the Insects, Silk Worm Eggs, and The Casino at Monte Carlo. - [Summary by Larry Wilson](https://librivox.org/scientific-american-suppl492-june-6-1885/)  
 
 </details>
-
-<details>
-<summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
-
-### Saint Joan: Preface  (2:12)  
-https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
-https://en.wikipedia.org/wiki/Saint_Joan_(play)  
-Text: https://archive.org/details/SaintJoan/page/n1  
-By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
-Summary from Librivox:  
->Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
-
-</details>  
 
 <details>
 <summary>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
