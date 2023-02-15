@@ -277,6 +277,19 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
+
+### Opening the West with Lewis and Clark (7:06)  
+https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
+Text: https://www.gutenberg.org/ebooks/64903  
+By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
+Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  
+Librivox Summary:  
+>One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
+
+</details>  
+
+<details>
 <summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
@@ -353,19 +366,6 @@ Librivox Summary:
 
 ## Pending or Currently Underway:  
 
-
-<details>
-<summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
-
-### Opening the West with Lewis and Clark (7:06)  
-https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
-Text: https://www.gutenberg.org/ebooks/64903  
-By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
-Reading Summary: Like a number of E.L.Sabin's works, this is historical-fiction-for-young-readers, and is a sweeping overview, without a lot of important detail...  It is also an assemply of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  
-Librivox Summary:  
->One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
-
-</details>  
 
 <details>
 <summary>The Man in the Panther's Skin.  12th or 13th Century</summary>  
