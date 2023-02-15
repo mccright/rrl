@@ -412,6 +412,37 @@ By [various]()
 
 
 <details>
+<summary>Biographical Notice Of Nicolo Paganini... ~1984, 1995</summary>  
+
+### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
+https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
+Text: https://www.gutenberg.org/ebooks/58184  
+By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%C3%A9tis) (1784 - 1871)   
+<details>
+<summary> Librivox Summary:</summary>  
+>Niccolò (or Nicolò) Paganini (1782 – 1840) was an Italian violinist, violist, guitarist, and composer. He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique. François-Joseph Fétis (1784 – 1871) was a Belgian musicologist, composer, teacher, and one of the most influential music critics of the 19th century. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Best Church Hymns. 1898</summary>  
+
+### The Best Church Hymns. (1:38)  
+https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
+Text: https://archive.org/details/bestch00bens  
+Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930
+By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)   
+<details>
+<summary> Librivox Summary:</summary>  
+>This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+</details>
+
+
+<details>
 <summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
 
 ### The Story of Geographical Discovery: How the World Became Known. (4:51)  
