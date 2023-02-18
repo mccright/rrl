@@ -11,6 +11,8 @@ https://librivox.org/the-ambassadors-by-henry-james/
 https://en.wikipedia.org/wiki/The_Ambassadors  
 Text at: https://www.gutenberg.org/etext/432  
 By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world...  
 Summary from Librivox:  
 Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  
@@ -21,6 +23,7 @@ Chad Newsome, of course is there too, and so are a scattering of other Americans
 Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
 
 </details>
+</details>
 
 <details>
 <summary>The Demi-Gods, By James Stephens. 1914</summary>
@@ -30,7 +33,7 @@ https://librivox.org/the-demi-gods-by-james-stephens/
 Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
 By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.   Reader's Notes:  This book is a lot of fun and the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
 Librivox Summary:  
->In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The Mac Cans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin. (Summary by Michele Fry)
+>In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The MacCans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin. ([Summary by Michele Fry](https://librivox.org/the-demi-gods-by-james-stephens/))
 
 </details>
 
@@ -43,10 +46,13 @@ https://en.wikipedia.org/wiki/Les_Chouans
 Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
 By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
 Translated by [Ellen Marriage]() (1865 - 1946)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues of 18th/19th century female stereotypes and related derogatory terms.  
 Summary on Librivox:  
 >“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
 
+</details>
 </details>  
 
 <details>
@@ -57,10 +63,13 @@ https://librivox.org/saint-joan-preface-by-george-bernard-shaw/
 https://en.wikipedia.org/wiki/Saint_Joan_(play)  
 Text: https://archive.org/details/SaintJoan/page/n1  
 By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes:  If you have even a microscopic interest in 'Saint Joan' or Middle Ages France, this seems like an excellent little book (*maybe just an essay*).  It assumes that the reader understands some about mid-20th century Brittan and New York, but is still a pleasure in relative ignorance of both.  The reading by David Wales is a perfect match.  
 Summary from Librivox:  
 >Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
 
+</details>
 </details>  
 
 <details>
@@ -71,6 +80,8 @@ https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/
 https://en.wikipedia.org/wiki/Triplanetary_(novel)  
 Text: https://www.gutenberg.org/ebooks/32706  
 By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1948  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes: Published in 1948 and 1950, the Triplanetary and First Lensman books express a fantastic post-WWII U.S.A. optimism about technology, all things "the Atom," and the supremacy of North American military power. 
 The characters that drive the story forward are white male North Americans. 
 The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity" (*a seeming contradiction they don't acknowlege*). 
@@ -80,6 +91,7 @@ Summary:
 >Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
 >The novel covers several episodes in an eons-long eugenics project of the super-intelligences of the Arisia. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch enemy, the Eddore. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's (Gharlane of Eddore) reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two and Three. The final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster than light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, two very important members of the eugenics project, are introduced. They will play the leading roles in the next story, First Lensman. (Summary by [Wikipedia](https://en.wikipedia.org/wiki/Triplanetary_(novel)) and [Phil Chenevert](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
+</details>
 </details>
 
 <details>
@@ -115,9 +127,12 @@ Frederick von Kammacher is a young doctor in Germany whose wife has gone insane,
 https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
 Text: https://www.gutenberg.org/ebooks/61043  
 By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
 Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/) NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "The Color of a Great City." It is LibriVox's policy to record texts as written.  
 
+</details>
 </details>
 
 <details>
@@ -127,6 +142,8 @@ Librivox Summary:  This non-fiction work takes place in many areas of New York C
 https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
 Text: https://www.gutenberg.org/ebooks/1561  
 By [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter) (1844 - 1929)  published 1921  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes:  This book is a bit of a slog and includes quite a bit of repetition.  Carpenter identifies common "religious" language and practices across time and across cultures.  He argues that Christianity is a recent iteration of an "ancient world-religion."  "In the case of Christianity the historical period has lasted nearly 2,000 years, and, as I say, we can hardly expect or wish that it should last much longer."  He sees a deterministic evolution of humanity -- whose psychological development necessitates the emergence of a new phase where "religion" will re-incorporate the natural world, including all communities of human beings (*as opposed to the current 'individualistic' phase*).  His arguements seemed to suggest that the insane waste represented WWI signaled the end of the current phase and announced the coming of the next.  
 QUOTE:  
 >The whole futile and idiotic structure of commerce and industry in which we are now imprisoned springs from that falsehood of individualistic self-seeking which marks the second stage of human evolution. That stage is already tottering to its fall, destroyed by the very flood of egotistic passions and interests, of vanities, greeds, and cruelties, all warring with each other, which are the sure outcome and culmination of its operation. With the restoration of the sentiment of the Common Life, and the gradual growth of a mental attitude corresponding, there will emerge from the flood something like a solid earth--something on which it will be possible to build with good hope for the future. Schemes of reconstruction are well enough in their way, but if there is no ground of REAL HUMAN SOLIDARITY beneath, of what avail are they?  
@@ -134,6 +151,7 @@ QUOTE:
 Summary from Librivox:  
 >In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
 
+</details>
 </details>
 
 <details>
@@ -143,10 +161,13 @@ Summary from Librivox:
 https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
 Text: https://www.gutenberg.org/ebooks/68238/  
 By [Ethel Snowden, Viscountess Snowden](https://en.wikipedia.org/wiki/Ethel_Snowden) (1881 - 1951)  published 1921  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes:  Snowden invests quite a bit of time in describing or just mentioning by name individuals she met or just saw in her travels.  Not being sufficiently well read on this period, I assume that I was unable to draw some of the context that these mentions may have for others (*my being unwilling to research each one of these personalities*).  That said, her descriptions of what she saw and heard of conditions around Europe in the years following WWI provide some depth and color missing from many formal WWI *Histories*.  Snowden also appears to incorporate a heavy load of 19th century wealthy-ruling-class culture -- which, I think, should be considered when reading or listening to her observations and analysis.  It is difficult to understand her noted *pacifism* with her acceptance of (*almost justification of*) the socialist/communist terrorism engulfing Russia at the time.  Snowden's analysis of and hopes for Communist Russia during these murderous years support Galeazzi's summary below  -- that "Snowden was a controversial and polarizing figure."  
 Summary from Librivox:  
 >Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
 
+</details>
 </details>
 
 <details>
@@ -229,10 +250,13 @@ Summary from Librivox:
 https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
 Text: https://www.gutenberg.org/ebooks/349  
 By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes: This *simple* story also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.
 Summary from Librivox:  
 >David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
 
+</details>
 </details>
 
 <details>
@@ -251,16 +275,34 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>Biographical Notice Of Nicolo Paganini... ~1884, 1895</summary>  
+
+### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
+https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
+Text: https://www.gutenberg.org/ebooks/58184  
+By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%C3%A9tis) (1784 - 1871)   
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes: If you are interested in the history of violin, viola or guitar, or of Nicolo Paganini, this may be a useful and enjoyable book.  
+>Niccolò (or Nicolò) Paganini (1782 – 1840) was an Italian violinist, violist, guitarist, and composer. He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique. François-Joseph Fétis (1784 – 1871) was a Belgian musicologist, composer, teacher, and one of the most influential music critics of the 19th century. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+</details>
+
+<details>
 <summary>Preferred Risk. By Frederik Pohl, 1955</summary>
 
 ### Preferred Risk (06:26)  
 https://librivox.org/preferred-risk-by-frederik-pohl/  
 Text: https://www.gutenberg.org/ebooks/51814  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
-Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  NOTE: There are issues of race/ethnicity in "Preferred Risk", particularly Italian stereotypes and derogatory terms.  
 Librivox Summary:  
 >The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
 
+</details>
 </details>
 
 <details>
@@ -297,7 +339,7 @@ Summary from Librivox:
 https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
 Text: https://www.gutenberg.org/ebooks/64903  
 By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
-Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  
+Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: There are issues of race in this story-telling, particularly Native American and Black stereotypes and derogatory terms.  
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
 
@@ -406,21 +448,6 @@ By [various]()
 <details>
 <summary> Librivox Summary:</summary>  
 >These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Biographical Notice Of Nicolo Paganini... ~1984, 1995</summary>  
-
-### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
-https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
-Text: https://www.gutenberg.org/ebooks/58184  
-By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%C3%A9tis) (1784 - 1871)   
-<details>
-<summary> Librivox Summary:</summary>  
->Niccolò (or Nicolò) Paganini (1782 – 1840) was an Italian violinist, violist, guitarist, and composer. He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique. François-Joseph Fétis (1784 – 1871) was a Belgian musicologist, composer, teacher, and one of the most influential music critics of the 19th century. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
 
 </details>
 </details>
