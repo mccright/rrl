@@ -57,6 +57,13 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 https://www.gutenberg.org/ebooks/16537  
 By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
 
+### The Russian Story Book -- Containing tales from the song-cycles of Kiev and Novgorod and other early sources  
+https://www.gutenberg.org/ebooks/48605  
+By [Richard Wilson](https://www.geni.com/people/Richard-Wilson-III/6000000190300770890) (1878-1921) Published 1916  
+Illustrator [Frank Cheyne Papé](https://en.wikipedia.org/wiki/Frank_C._Pap%C3%A9) (1878-1972)
+
+
+
 ### On the Nature of Things  
 https://www.gutenberg.org/ebooks/785  
 and https://books.google.com/books?id=iKdij3ErDnMC  
