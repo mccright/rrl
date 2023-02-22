@@ -62,7 +62,11 @@ https://www.gutenberg.org/ebooks/48605
 By [Richard Wilson](https://www.geni.com/people/Richard-Wilson-III/6000000190300770890) (1878-1921) Published 1916  
 Illustrator [Frank Cheyne Papé](https://en.wikipedia.org/wiki/Frank_C._Pap%C3%A9) (1878-1972)
 
-
+### The Small Bachelor  
+https://www.gutenberg.org/ebooks/70041  
+https://en.wikipedia.org/wiki/The_Small_Bachelor  
+By [P. G. Wodehouse, (Sir Pelham Grenville)](https://en.wikipedia.org/wiki/P._G._Wodehouse) (1881-1975) Published 1927  
+  
 
 ### On the Nature of Things  
 https://www.gutenberg.org/ebooks/785  
