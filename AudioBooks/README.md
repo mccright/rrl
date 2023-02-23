@@ -290,6 +290,24 @@ Reading Notes: If you are interested in the history of violin, viola or guitar, 
 </details>
 
 <details>
+<summary>The Man in the Panther's Skin.  12th or 13th Century</summary>  
+
+### The Man in the Panther's Skin (8:17)  
+https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/  
+Text: https://archive.org/details/WardropMps/page/n3/mode/2up  
+https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin  
+By [Shota Rustaveli](https://en.wikipedia.org/wiki/Shota_Rustaveli) (1172 - 1216)  
+Translated by Marjory Wardrop (1869 - 1909)  
+<details>
+<summary>Reading and Librivox Summary:</summary>  
+Reading Summary: I recommend reading the [Wikipedia background and overview](https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin) to provide some background.  This *epic poem* written in the middle ages Georgian empire is not represented in any category of my normal recreational reading or formal education and I was completely without context.  
+Librivox Summary:  
+>Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by *Beeswaxcandle*](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
+
+</details>
+</details>
+
+<details>
 <summary>Preferred Risk. By Frederik Pohl, 1955</summary>
 
 ### Preferred Risk (06:26)  
@@ -422,24 +440,6 @@ Librivox Summary:
 
 ## Pending or Currently Underway:  
 
-
-<details>
-<summary>The Man in the Panther's Skin.  12th or 13th Century</summary>  
-
-### The Man in the Panther's Skin (8:17)  
-https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/  
-Text: https://archive.org/details/WardropMps/page/n3/mode/2up  
-https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin  
-By [Shota Rustaveli](https://en.wikipedia.org/wiki/Shota_Rustaveli) (1172 - 1216)  
-Translated by Marjory Wardrop (1869 - 1909)  
-<details>
-<summary>Reading and Librivox Summary:</summary>  
-Reading Summary: I recommend reading the [Wikipedia background and overview](https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin) to provide some background.  This *epic poem* is not represented in any category of my normal recreational reading or formal education and I was completely without context.  
-Librivox Summary:  
->Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by Beeswaxcandle](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
-
-</details>
-</details>
 
 <details>
 <summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
