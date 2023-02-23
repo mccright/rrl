@@ -134,6 +134,16 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 </details>
 
 <details>
+<summary>How Music Dies (or Lives).  By Ian Brennan  2016</summary>
+
+### How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts  
+https://books.google.com/books/about/How_Music_Dies_or_Lives.html?id=YjmCDwAAQBAJ  
+by [Ian Brennan](https://en.wikipedia.org/wiki/Ian_Brennan_(music_producer)) published 2016-02-23  
+Foreword by [Corin Tucker](https://en.wikipedia.org/wiki/Corin_Tucker)  
+
+</details>
+
+<details>
 <summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
 
 ### The Ministry for the Future  
