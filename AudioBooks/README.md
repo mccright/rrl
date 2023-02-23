@@ -433,7 +433,9 @@ https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin
 By [Shota Rustaveli](https://en.wikipedia.org/wiki/Shota_Rustaveli) (1172 - 1216)  
 Translated by Marjory Wardrop (1869 - 1909)  
 <details>
-<summary> Librivox Summary:</summary>  
+<summary>Reading and Librivox Summary:</summary>  
+Reading Summary: I recommend reading the [Wikipedia background and overview](https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin) to provide some background.  This *epic poem* is not represented in any category of my normal recreational reading or formal education and I was completely without context.  
+Librivox Summary:  
 >Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by Beeswaxcandle](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
 
 </details>
