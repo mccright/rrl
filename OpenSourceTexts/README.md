@@ -57,6 +57,17 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 https://kinginstitute.stanford.edu/where-do-we-go-here  
 By [Rev. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)  (1929 – 1968)  Delivered 16 August 1967, in Atlanta, Georgia.
 
+### The shipwreck.  1762  
+https://www.gutenberg.org/ebooks/69336  
+https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
+*supported by*  
+#### An Universal Dictionary of the Marine.  1769  
+https://www.gutenberg.org/ebooks/57705  
+By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+
 ### Myths That Every Child Should Know  
 https://www.gutenberg.org/ebooks/16537  
 By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
