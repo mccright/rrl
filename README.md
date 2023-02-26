@@ -5,6 +5,9 @@
   * Project Gutenberg  https://www.gutenberg.org/  
   * Standard Ebooks  https://standardebooks.org/
   * Internet Archive https://archive.org/  
+  * Tufts Univ. Perseus Digital Library https://www.perseus.tufts.edu/hopper/collections  
+  * Tufts Digital Library https://dl.tufts.edu/catalog  
+  * Evans Early American Imprint Collection https://quod.lib.umich.edu/e/evans?cginame=text-idx;id=navbarbrowselink;key=subject;page=browse  
   * World Digital Library (WDL) projec https://www.loc.gov/books/collections/ or the broader https://www.loc.gov/collections/ from the U.S. Library of Congress  
   * Baen Free Library (science fiction) [https://www.baen.com/](https://www.baen.com/)  
   * Smashwords [https://www.smashwords.com/shelves/home/1/free/any](https://www.smashwords.com/shelves/home/1/free/any)  
