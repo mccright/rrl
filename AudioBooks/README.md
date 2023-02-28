@@ -73,6 +73,25 @@ Summary from Librivox:
 </details>  
 
 <details>
+<summary>Audubon's Western Journal: 1849-1850.  Published 1906</summary>  
+
+### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
+https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
+Text: https://www.gutenberg.org/ebooks/58575  
+By [John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812 - 1862)  
+With biographical memoir by his daughter [Maria Rebecca Audubon](http://www.audubonparkny.com/audubonfamily.html) (1843-1925)  
+Introduction, notes, and index by [Frank Heywood Hodder](https://en.wikipedia.org/wiki/Frank_Heywood_Hodder) (1860-1935)  
+<details>
+<summary>Reader's Notes and Librivox Summary:</summary>  
+Readin Notes:  This travel journal provides a little access into the brutality of cross-country travel in 1849 in what is now the Southern and Western United States.  
+Librivox Summary:  
+>[John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812-1862), son of the famous painter [John James Audubon](https://en.wikipedia.org/wiki/John_James_Audubon) and an artist in his own right, joined Col. Henry Webb's California Company expedition in 1849. From New Orleans the expedition sailed to the Rio Grande; it headed west overland through northern Mexico and through Arizona to San Diego, California. Cholera and outlaws decimated the group. Many of them turned back, including the leader. Audubon assumed command of those remaining and they pushed on to California, although he was forced to abandon his paints and canvases in the desert…. Throughout the whole of this long journey Mr. Audubon took notes of scenes and occurrences by the way. In his descriptions he exhibits the keen observation of the naturalist and the trained eye of the artist. The result is a remarkable picture of social conditions in Mexico, of birds and trees, of sky and mountains and the changing face of nature, of the barrenness of the desert and the difficulties of the journey, of the ruined missions of California, of methods of mining, and of the chaos of races and babel of tongues in the gold fields. It was manifestly impossible to keep a daily journal, and the entries were made from time to time as opportunity occurred. Considering the circumstances under which they were taken, the notes are remarkable for their accuracy. Because it was not edited by Audubon, the text (and this recording) ends abruptly. - ([Summary by [Book Introduction](https://www.gutenberg.org/cache/epub/58575/pg58575-images.html#Page_11) and [David Wales](https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/))  
+
+</details>
+</details>
+
+
+<details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -134,6 +153,22 @@ Librivox Summary:  This non-fiction work takes place in many areas of New York C
 
 </details>
 </details>
+
+<details>
+<summary>Bashan And I. 1898</summary>  
+
+### Bashan And I. (4:13)  
+https://librivox.org/bashan-and-i-by-thomas-mann/  
+Text: https://www.gutenberg.org/ebooks/61284  
+By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)  
+Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Simple and unpretentious as a statement by Francis d’Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
+
+</details>
+</details>
+
 
 <details>
 <summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
@@ -260,22 +295,6 @@ Summary from Librivox:
 </details>
 
 <details>
-<summary>Bashan And I. 1898</summary>  
-
-### Bashan And I. (4:13)  
-https://librivox.org/bashan-and-i-by-thomas-mann/  
-Text: https://www.gutenberg.org/ebooks/61284  
-By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)  
-Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
-<details>
-<summary> Librivox Summary:</summary>  
->Simple and unpretentious as a statement by Francis d’Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
-
-</details>
-</details>
-
-
-<details>
 <summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
 
 ### Soldiers' Pay (9:33)  
@@ -301,6 +320,28 @@ By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%
 <summary>Reading Notes and Librivox Summary:</summary>  
 Reading Notes: If you are interested in the history of violin, viola or guitar, or of Nicolo Paganini, this may be a useful and enjoyable book.  
 >Niccolò (or Nicolò) Paganini (1782 – 1840) was an Italian violinist, violist, guitarist, and composer. He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique. François-Joseph Fétis (1784 – 1871) was a Belgian musicologist, composer, teacher, and one of the most influential music critics of the 19th century. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+</details>
+
+<details>
+<summary>Auguste Rodin. 1919</summary>  
+
+### Auguste Rodin. (1:53)  
+https://librivox.org/auguste-rodin-by-rainer-maria-rilke/  
+Text: https://www.gutenberg.org/ebooks/45605  
+Reference: https://en.wikipedia.org/wiki/Auguste_Rodin
+By [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) (1875 - 1926)  
+Translated by [Jessie Lemont](https://en.wikisource.org/wiki/Author:Jessie_Lemont) (1862 - 1947)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes:  This is not a traditional biography.  It is worth a couple hours while pulling weeds, gardening, dusting, etc. but I cannot recommend it to anyone wanting a 'traditional' biography of Rodin or a review of his artistic work.   
+Librivox Summary:  
+>Rodin has pronounced Rilke's essay the supreme interpretation of his work. (From the translators’ Preface)  
+
+Auguste Rodin, 1840-1917, was a French sculptor. Although Rodin is generally considered the progenitor of modern sculpture, he did not set out to rebel against the past. He was schooled traditionally, took a craftsman-like approach to his work, and desired academic recognition, although he was never accepted into Paris's foremost school of art. Sculpturally, Rodin possessed a unique ability to model a complex, turbulent, deeply pocketed surface in clay. … Rodin… modeled the human body with realism, and celebrated individual character and physicality. From the unexpected realism of his first major figure… to the unconventional memorials whose commissions he later sought, Rodin's reputation grew, such that he became the preeminent French sculptor of his time. By 1900, he was a world-renowned artist.  
+
+Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke’s] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
 
 </details>
 </details>
@@ -497,44 +538,6 @@ By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) 
 <details>
 <summary> Librivox Summary:</summary>  
 >A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There’s a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It’s all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Audubon's Western Journal: 1849-1850.  Published 1906</summary>  
-
-### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
-https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
-Text: https://www.gutenberg.org/ebooks/58575  
-By [John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812 - 1862)  
-With biographical memoir by his daughter [Maria Rebecca Audubon](http://www.audubonparkny.com/audubonfamily.html) (1843-1925)  
-Introduction, notes, and index by [Frank Heywood Hodder](https://en.wikipedia.org/wiki/Frank_Heywood_Hodder) (1860-1935)  
-<details>
-<summary> Librivox Summary:</summary>  
->[John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812-1862), son of the famous painter [John James Audubon](https://en.wikipedia.org/wiki/John_James_Audubon) and an artist in his own right, joined Col. Henry Webb's California Company expedition in 1849. From New Orleans the expedition sailed to the Rio Grande; it headed west overland through northern Mexico and through Arizona to San Diego, California. Cholera and outlaws decimated the group. Many of them turned back, including the leader. Audubon assumed command of those remaining and they pushed on to California, although he was forced to abandon his paints and canvases in the desert…. Throughout the whole of this long journey Mr. Audubon took notes of scenes and occurrences by the way. In his descriptions he exhibits the keen observation of the naturalist and the trained eye of the artist. The result is a remarkable picture of social conditions in Mexico, of birds and trees, of sky and mountains and the changing face of nature, of the barrenness of the desert and the difficulties of the journey, of the ruined missions of California, of methods of mining, and of the chaos of races and babel of tongues in the gold fields. It was manifestly impossible to keep a daily journal, and the entries were made from time to time as opportunity occurred. Considering the circumstances under which they were taken, the notes are remarkable for their accuracy. Because it was not edited by Audubon, the text (and this recording) ends abruptly. - ([Summary by [Book Introduction](https://www.gutenberg.org/cache/epub/58575/pg58575-images.html#Page_11) and [David Wales](https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Auguste Rodin. 1919</summary>  
-
-### Auguste Rodin. (1:53)  
-https://librivox.org/auguste-rodin-by-rainer-maria-rilke/  
-Text: https://www.gutenberg.org/ebooks/45605  
-Reference: https://en.wikipedia.org/wiki/Auguste_Rodin
-By [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) (1875 - 1926)  
-Translated by [Jessie Lemont](https://en.wikisource.org/wiki/Author:Jessie_Lemont) (1862 - 1947)  
-<details>
-<summary> Librivox Summary:</summary>  
->Rodin has pronounced Rilke's essay the supreme interpretation of his work. (From the translators’ Preface)  
-
-Auguste Rodin, 1840-1917, was a French sculptor. Although Rodin is generally considered the progenitor of modern sculpture, he did not set out to rebel against the past. He was schooled traditionally, took a craftsman-like approach to his work, and desired academic recognition, although he was never accepted into Paris's foremost school of art. Sculpturally, Rodin possessed a unique ability to model a complex, turbulent, deeply pocketed surface in clay. … Rodin… modeled the human body with realism, and celebrated individual character and physicality. From the unexpected realism of his first major figure… to the unconventional memorials whose commissions he later sought, Rodin's reputation grew, such that he became the preeminent French sculptor of his time. By 1900, he was a world-renowned artist.  
-
-Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke’s] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
 
 </details>
 </details>
