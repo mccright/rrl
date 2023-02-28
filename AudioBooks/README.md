@@ -260,6 +260,22 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>Bashan And I. 1898</summary>  
+
+### Bashan And I. (4:13)  
+https://librivox.org/bashan-and-i-by-thomas-mann/  
+Text: https://www.gutenberg.org/ebooks/61284  
+By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)  
+Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Simple and unpretentious as a statement by Francis d’Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
+
+</details>
+</details>
+
+
+<details>
 <summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
 
 ### Soldiers' Pay (9:33)  
@@ -466,22 +482,6 @@ By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.h
 <details>
 <summary> Librivox Summary:</summary>  
 >This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Bashan And I. 1898</summary>  
-
-### Bashan And I. (4:13)  
-https://librivox.org/bashan-and-i-by-thomas-mann/  
-Text: https://www.gutenberg.org/ebooks/61284  
-By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)  
-Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
-<details>
-<summary> Librivox Summary:</summary>  
->Simple and unpretentious as a statement by Francis d’Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
 
 </details>
 </details>
