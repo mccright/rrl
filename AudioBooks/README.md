@@ -73,7 +73,7 @@ Summary from Librivox:
 </details>  
 
 <details>
-<summary>Audubon's Western Journal: 1849-1850.  Published 1906</summary>  
+<summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>  
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
 https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
@@ -155,7 +155,7 @@ Librivox Summary:  This non-fiction work takes place in many areas of New York C
 </details>
 
 <details>
-<summary>Bashan And I. 1898</summary>  
+<summary>Bashan And I.  By Thomas Mann.  1923</summary>  
 
 ### Bashan And I. (4:13)  
 https://librivox.org/bashan-and-i-by-thomas-mann/  
@@ -305,12 +305,12 @@ By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 196
 See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
 also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
->Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)
+>Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
 
 </details>
 
 <details>
-<summary>Biographical Notice Of Nicolo Paganini... ~1884, 1895</summary>  
+<summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
 
 ### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
 https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
@@ -325,7 +325,7 @@ Reading Notes: If you are interested in the history of violin, viola or guitar, 
 </details>
 
 <details>
-<summary>Auguste Rodin. 1919</summary>  
+<summary>Auguste Rodin.  By Rainer Maria Rilke.  1919</summary>  
 
 ### Auguste Rodin. (1:53)  
 https://librivox.org/auguste-rodin-by-rainer-maria-rilke/  
@@ -347,7 +347,7 @@ Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widel
 </details>
 
 <details>
-<summary>The Man in the Panther's Skin.  12th or 13th Century</summary>  
+<summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>  
 
 ### The Man in the Panther's Skin (8:17)  
 https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/  
@@ -625,19 +625,6 @@ Librivox Summary:
 
 </details>  
 
-<details>
-<summary>Historical Romance of the American Negro. By Charles H. Fowler. 1902</summary>
-
-### Historical Romance of the American Negro (10:35)  
-https://librivox.org/historical-romance-american-negro-charles-fowler/  
-Text: https://archive.org/details/historicalromanc00fowl/page/n5/mode/2up 
-By [Charles H. Fowler]() (1837 - 1908)  Published 1902  
-Summary on Librivox:  
-It was not long before the fame of the colored soldiers of America was wafted over the whole world and everywhere received by all lovers of freedom with most hearty applause. (Summary by narrator, p 66)
-Summary from the Preface:  
-For a number of years it has been on my mind to write a book regarding the principal events that have occurred to the colored race since the beginning of the agitation against slavery, going on from thence to the great Rebellion, passing through that war, and also dealing with all subjects of great importance that have arrested our attention under our glorious freedom. At the same time it has occurred to me . . . that my book would be far more interesting to the general reader, if I were to select a representative woman of our own race, and make her the mouthpiece of all I wished to say. . . . I hope those members of the general public who favor me by a perusal of my book will be pleased with my plan.  
-
-</details>  
 
 <details>
 <summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
