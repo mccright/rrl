@@ -144,6 +144,30 @@ Foreword by [Corin Tucker](https://en.wikipedia.org/wiki/Corin_Tucker)
 </details>
 
 <details>
+<summary>The Long Weekend. By Gilly Macmillan  2022</summary>
+
+### The Long Weekend: A Novel -- Three Couples, Two Bodies, One Secret.  
+https://www.harpercollins.com/products/the-long-weekend-gilly-macmillan  
+[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=463648)  
+By [Gilly Macmillan](https://www.harpercollins.com/blogs/authors/gilly-macmillan-201511204348807).  
+ISBN: 9780063074323  
+
+</details>
+
+<details>
+<summary>The Rose Code. By Kate Quinn  2021</summary>
+
+### The Rose Code.  
+https://www.katequinnauthor.com/books/the-rose-code/  
+[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/searchresults.aspx?ctx=3.1033.0.0.3&type=Keyword&term=the%20rose%20code&by=TI&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=3)  
+Overdrive audio: [https://catalog.urbandalelibrary.org/polaris/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=404190)
+By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
+World War, 1939-1945 -- Fiction  
+ISBN: 9780063059412  
+
+</details>
+
+<details>
 <summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
 
 ### The Ministry for the Future  
