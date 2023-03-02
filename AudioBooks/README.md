@@ -499,6 +499,114 @@ Librivox Summary:
 
 
 <details>
+<summary>Democracy - An American Novel. By Thomas W. Hanshew. 1880</summary>  
+
+### Democracy - An American Novel. (07:16)  
+hhttps://librivox.org/democracy-an-american-novel-by-henry-adams/  
+Text: https://www.gutenberg.org/ebooks/2815  
+https://en.wikipedia.org/wiki/Democracy:_An_American_Novel  
+By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today. - ([Summary by Nicholas Clifford](hhttps://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>  
+
+### Cleek: The Man of the Forty Faces. (13:25)  
+https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
+Text: https://www.gutenberg.org/ebooks/14332    
+By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books. - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>  
+
+### Cleek of Scotland Yard. (12:46)  
+https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
+Text: https://www.gutenberg.org/ebooks/32198    
+By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads. - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Iron Heel. By Milo Hasting. 1908</summary>  
+
+### The Iron Heel. (08:17)  
+https://librivox.org/the-iron-heel-by-jack-london/  
+Text: https://www.gutenberg.org/etext/1164  
+https://en.wikipedia.org/wiki/The_Iron_Heel  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
+<details>
+<summary> Librivox Summary:</summary>  
+>A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>City of Endless Night. By Milo Hastings. 1920</summary>  
+
+### City of Endless Night. (09:40)  
+https://librivox.org/city-of-endless-night-by-milo-hastings/  
+Text: https://www.gutenberg.org/ebooks/9862  
+https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
+By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
+<details>
+<summary> Librivox Summary:</summary>  
+>An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
+
+### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
+https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
+Text: https://www.gutenberg.org/ebooks/42459   
+By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) (1873 - 1942)  
+<details>
+<summary> Librivox Summary:</summary>  
+>What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Stars, My Brothers. By Thomas W. Hanshew. 1912</summary>  
+
+### The Stars, My Brothers. (01:23)  
+https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/etext/24870  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 1977)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
+
+</details>
+</details>
+
+
+<details>
 <summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
 
 ### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
