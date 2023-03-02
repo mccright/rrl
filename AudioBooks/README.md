@@ -499,16 +499,31 @@ Librivox Summary:
 
 
 <details>
-<summary>Democracy - An American Novel. By Thomas W. Hanshew. 1880</summary>  
+<summary>The Age of Elizabeth. By Mandell Creighton. 1876</summary>  
+
+### The Age of Elizabeth. (07:35)  
+https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/  
+Text: https://archive.org/details/ageelizabeth07creigoog    
+By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 - 1901)  
+<details>
+<summary> Librivox Summary:</summary>  
+>This short history by the eminent British historian, Mandell Creighton, places Elizabeth and her reign within the context of 16th century European political, religious, and military events. Elizabeth overcomes her two great rivals, King Philip of Spain and Mary, Queen of Scots. England gradually unites behind her Queen, who survives multiple assassination plots. After the defeat of the Spanish Armada, the English, lightly taxed by their frugal sovereign, launch flourishing commerce enterprises. The author writes of the Protestant Reformation that "a change of belief meant a revolt from authority." In this age of individualism, personal daring, and a consciousness of national greatness, the golden age of Elizabethan literature breaks new ground in historiography, literary theory, poetry, and above all, drama. - ([Summary by Pamela Nagami, M.D.](https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>  
 
 ### Democracy - An American Novel. (07:16)  
-hhttps://librivox.org/democracy-an-american-novel-by-henry-adams/  
+https://librivox.org/democracy-an-american-novel-by-henry-adams/  
 Text: https://www.gutenberg.org/ebooks/2815  
 https://en.wikipedia.org/wiki/Democracy:_An_American_Novel  
 By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918)  
 <details>
 <summary> Librivox Summary:</summary>  
->Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today. - ([Summary by Nicholas Clifford](hhttps://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+>Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today. - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
 
 </details>
 </details>
@@ -577,6 +592,37 @@ By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)
 
 
 <details>
+<summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
+
+### Shakespeare at the Globe, 1599-1609. (04:03)  
+https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
+Text: https://www.gutenberg.org/ebooks/66536   
+By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
+<details>
+<summary> Librivox Summary:</summary>  
+>One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>  
+
+### A Brief Account of the Destruction of the Indies. (04:03)  
+https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
+https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
+Text: https://www.gutenberg.org/ebooks/20321   
+By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
+<details>
+<summary> Librivox Summary:</summary>  
+>A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands. - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
+
+</details>
+</details>
+
+
+<details>
 <summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
 
 ### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
@@ -592,7 +638,23 @@ By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscou
 
 
 <details>
-<summary>The Stars, My Brothers. By Thomas W. Hanshew. 1912</summary>  
+<summary>Greenmantle. By John Buchan. 1916</summary>  
+
+### Greenmantle. (09:45)  
+https://librivox.org/greenmantle-ver3-by-john-buchan/  
+https://en.wikipedia.org/wiki/Greenmantle  
+Text: https://gutenberg.org/ebooks/559  
+By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum.  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>  
 
 ### The Stars, My Brothers. (01:23)  
 https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
