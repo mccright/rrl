@@ -108,6 +108,22 @@ Librivox Summary:
 </details>
 </details>
 
+<details>
+<summary>The Best Church Hymns. 1898</summary>  
+
+### The Best Church Hymns. (1:38)  
+https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
+Text: https://archive.org/details/bestch00bens  
+Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
+By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
+Librivox Summary:  
+>This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+</details>
 
 <details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
@@ -679,22 +695,6 @@ By [various]()
 <details>
 <summary> Librivox Summary:</summary>  
 >These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Best Church Hymns. 1898</summary>  
-
-### The Best Church Hymns. (1:38)  
-https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
-Text: https://archive.org/details/bestch00bens  
-Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
-By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
-<details>
-<summary> Librivox Summary:</summary>  
->This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
 
 </details>
 </details>
