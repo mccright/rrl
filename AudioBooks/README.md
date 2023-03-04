@@ -224,6 +224,19 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
+
+### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
+https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
+By [various]()  
+<details>
+<summary> Librivox Summary:</summary>  
+>These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
+
+</details>
+</details>
+
+<details>
 <summary>A Political Pilgrim in Europe. By Ethel Snowden, Viscountess Snowden, 1921</summary>
 
 ### A Political Pilgrim in Europe  (9:34)  
@@ -681,20 +694,6 @@ By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 197
 <details>
 <summary> Librivox Summary:</summary>  
 >Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
-
-### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
-https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
-By [various]()  
-<details>
-<summary> Librivox Summary:</summary>  
->These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
 
 </details>
 </details>
