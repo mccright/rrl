@@ -777,22 +777,9 @@ https://en.wikipedia.org/wiki/Big_Sur_(novel)
 Text: https://babel.hathitrust.org/cgi/pt?id=uc1.31822033766825&view=1up&seq=1  
 By [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac) (1922 - 1969). Published 1962  
 See [Wikipedia Summary](https://en.wikipedia.org/wiki/Big_Sur_(novel))  
+Reading Notes:  I am roughly half done with this book and have *paused*.  The only food that I find repulsive is canned beets...  For me, the attitude and repetition of this book has a little of that canned beet flavor, and I may not finish it.  
 Librivox Summary:  
 >This classic of the beatnik era from famous bohemian traveller Jack Kerouac focuses on Jack Dulouz, a thinly veiled Kerouac surrogate, and his attempts to reconcile his new found success as an author with his battle with alcoholism amid trips to a cabin in Big Sur in California. [Summary by Ben Tucker](https://librivox.org/big-sur-by-jack-kerouac/)  
-
-
-</details>  
-
-<details>
-<summary>On Life. By Leo Tolstoy.  1902</summary>
-
-### On Life (6:24)  
-https://librivox.org/on-life-by-leo-tolstoy/  
-Text: https://archive.org/details/onlife188800tolsrich/  
-By [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy) (1828 - 1910)  First published 1888 
-Translated by Mabel Cook and Agnes Cook (published in 1902)  
-Librivox Summary:  
->What is the "good life" for us mortal beings? Two months spent recovering from a severe injury allowed Tolstoy to develop and organise his thoughts on the subject. On Life is his philosophical answer where love, religion, and morality come together to ground us in reality. - [Summary by Cao Yuqing](https://librivox.org/on-life-by-leo-tolstoy/)  
 
 </details>  
 
