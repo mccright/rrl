@@ -53,9 +53,16 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 
 ## Pending or Currently Underway:  
 
-### Where do we go from here?  
+### Where do we go from here?  1967  
 https://kinginstitute.stanford.edu/where-do-we-go-here  
 By [Rev. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)  (1929 – 1968)  Delivered 16 August 1967, in Atlanta, Georgia.
+
+### Anchorite.  1962  
+https://www.gutenberg.org/ebooks/23561  
+Audio at: https://librivox.org/anchorite-by-randall-garrett/  
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)  
+Librivox Summary:  
+>Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
 
 ### The shipwreck.  1762  
 https://www.gutenberg.org/ebooks/69336  
