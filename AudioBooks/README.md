@@ -625,6 +625,24 @@ Librivox Summary:
 
 
 <details>
+<summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915</summary>  
+
+### A Far Country. (19:48)  
+https://librivox.org/a-far-country-by-winston-churchill/  
+Text: https://www.gutenberg.org/ebooks/3739  
+https://en.wikipedia.org/wiki/A_Far_Country_(novel)  
+By [Winston Churchill](http://en.wikipedia.org/wiki/Winston_Churchill_(novelist))  (1871 - 1947)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes:   </br.
+Librivox Summary:  
+>The book follows the career of Hugh Paret from youth to manhood, and how his profession as a corporation lawyer gradually changes his values. The book received positive reviews, and was the second best-selling novel in the United States in 1915. - ([Summary by Wikipedia](https://en.wikipedia.org/wiki/A_Far_Country_(novel)))  
+
+</details>
+</details>
+
+
+<details>
 <summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
