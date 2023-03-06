@@ -615,7 +615,9 @@ Text: https://www.gutenberg.org/ebooks/9862
 https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
 By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
 <details>
-<summary> Librivox Summary:</summary>  
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes: The characters are unevenly developed.  The technology is clearly linked to what was 'normal' in the early 20th century.  But the story keeps moving and it is a pleasure listening to the reader, [Kate Follis](https://librivox.org/reader/11007?primary_key=11007&search_category=reader&search_page=1&search_form=get_results)  </br.
+Librivox Summary:  
 >An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
 
 </details>
