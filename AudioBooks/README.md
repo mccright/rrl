@@ -455,6 +455,23 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>City of Endless Night. By Milo Hastings. 1920</summary>  
+
+### City of Endless Night. (09:40)  
+https://librivox.org/city-of-endless-night-by-milo-hastings/  
+Text: https://www.gutenberg.org/ebooks/9862  
+https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
+By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes: The characters are unevenly developed.  The technology is clearly linked to what was 'normal' in the early 20th century though 230 years have passed.  But the story keeps moving and it is a pleasure listening to the reader, [Kate Follis](https://librivox.org/reader/11007?primary_key=11007&search_category=reader&search_page=1&search_form=get_results).  Finally, this story ends relatively abruptly -- almost ...'and then they lived happily ever after.'  Too bad.  </br>.  
+Librivox Summary:  
+>An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
+
+</details>
+</details>
+
+<details>
 <summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
 
 ### Opening the West with Lewis and Clark (7:06)  
@@ -601,24 +618,6 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)
 <details>
 <summary> Librivox Summary:</summary>  
 >A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>City of Endless Night. By Milo Hastings. 1920</summary>  
-
-### City of Endless Night. (09:40)  
-https://librivox.org/city-of-endless-night-by-milo-hastings/  
-Text: https://www.gutenberg.org/ebooks/9862  
-https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
-By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-Reading Notes: The characters are unevenly developed.  The technology is clearly linked to what was 'normal' in the early 20th century.  But the story keeps moving and it is a pleasure listening to the reader, [Kate Follis](https://librivox.org/reader/11007?primary_key=11007&search_category=reader&search_page=1&search_form=get_results)  </br>.
-Librivox Summary:  
->An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
 
 </details>
 </details>
