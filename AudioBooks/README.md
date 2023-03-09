@@ -581,6 +581,22 @@ Librivox Summary:
 
 
 <details>
+<summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>  
+
+### Collected Works of Saint Patrick. (01:01)  
+https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
+Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick    
+By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
+<details>
+<summary> Librivox Summary:</summary>  
+
+>(1.) St. Patrick's Breastplate - This prayer is attributed to St. Patrick and his disciples. It is written with some Celtic pagan elements, but is definitely a Christian prayer asking God for protection through daily life. (2.) A Letter to the Soldiers of Coroticus - Patrick writes this letter to excommunicate the soldiers of Coroticus' army who pillaged villages in Ireland and forced many Christian converts into slavery. (3.) Confession - A short autobiography by St. Patrick who tells of being abducted into slavery and taken to Ireland, the growth of his faith, his ministry as a bishop in ordaining many priests and baptising thousands of people, and a trial where he had to defend himself against his accusers. - ([Summary by Librivox](https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/))  
+
+</details>
+</details>
+
+
+<details>
 <summary>The Age of Elizabeth. By Mandell Creighton. 1876</summary>  
 
 ### The Age of Elizabeth. (07:35)  
