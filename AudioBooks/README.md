@@ -505,10 +505,28 @@ https://librivox.org/search-the-sky-by-frederik-pohl/
 https://en.wikipedia.org/wiki/Search_the_Sky  
 Text: https://www.gutenberg.org/ebooks/52228  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
-Reading Notes: This mid-20th century book's main story-line is about colonization and genetics after faster-than-light travel was available to humankind.  While the author's intent was satire, the characters remain predictable, shallow and all *surface* (*could that be the point?*).  I believe that this book may only be entertaining to those who like U.S. 1950's "*mass market*" science fiction.  
+Reading Notes: This mid-20th century book's main story-line is about colonization and genetics after faster-than-light travel was available to humankind.  While the author's intent was satire, the characters remain *one-dimensional*, predictable, shallow and all *surface* (*could that be the point?*).  I believe that this book may only be entertaining to those who like U.S. 1950's "*mass market*" science fiction.  
 Summary from Librivox:  
 >Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
 
+</details>
+
+<details>
+<summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>  
+
+### A Brief Account of the Destruction of the Indies. (04:03)  
+https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
+https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
+Text: https://www.gutenberg.org/ebooks/20321   
+By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
+<details>
+<summary>Reading Notes and  Librivox Summary:</summary>  
+
+Reading Notes: This report covers an ugly period of Western colonization and genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
+Summary from Librivox:  
+>A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands. - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
+
+</details>
 </details>
 
 <details>
@@ -652,22 +670,6 @@ By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 
 <details>
 <summary> Librivox Summary:</summary>  
 >One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>  
-
-### A Brief Account of the Destruction of the Indies. (04:03)  
-https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
-https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
-Text: https://www.gutenberg.org/ebooks/20321   
-By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
-<details>
-<summary> Librivox Summary:</summary>  
->A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands. - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
 
 </details>
 </details>
