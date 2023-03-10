@@ -289,6 +289,21 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>  
+
+### The Stars, My Brothers. (01:23)  
+https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/etext/24870  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 1977)  
+<details>
+<summary> Librivox Summary:</summary>  
+
+>Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
+
+</details>
+</details>
+
+<details>
 <summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
 
 ### The Heart of the Ancient Wood  (4:54)  
@@ -298,17 +313,6 @@ By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Rober
 Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.    
 Summary from Librivox:  
 >A woman, Kirstie Craig and her daughter Miranda take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
-
-</details>
-
-<details>
-<summary>The Awakening. By Kate Chopin, 1900</summary>
-
-### The Awakening (5:14) 
-https://librivox.org/the-awakening-by-kate-chopin/ 
-https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
-By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
-Publication date: 22 April 1900 (first edition was 1899)  
 
 </details>
 
@@ -530,6 +534,17 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>The Awakening. By Kate Chopin, 1900</summary>
+
+### The Awakening (5:14) 
+https://librivox.org/the-awakening-by-kate-chopin/ 
+https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
+By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
+Publication date: 22 April 1900 (first edition was 1899)  
+
+</details>
+
+<details>
 <summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
 
 ### Cato, a Tragedy in Five Acts  (1:47)  
@@ -717,21 +732,6 @@ By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)
 <details>
 <summary> Librivox Summary:</summary>  
 >Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum.  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>  
-
-### The Stars, My Brothers. (01:23)  
-https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
-Text: https://www.gutenberg.org/etext/24870  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 1977)  
-<details>
-<summary> Librivox Summary:</summary>  
->Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
 
 </details>
 </details>
