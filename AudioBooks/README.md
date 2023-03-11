@@ -596,6 +596,25 @@ Librivox Summary:
 
 
 <details>
+<summary>The shipwreck. By William Falconer.  1762 </summary>  
+
+### The shipwreck.  1762  
+Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/  
+or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext  
+https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+<details>
+<summary> Librivox and Other Summaries:</summary> 
+
+>"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+>[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
+>Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
+
+</details>
+</details>
+
+
+<details>
 <summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>  
 
 ### Collected Works of Saint Patrick. (01:01)  
