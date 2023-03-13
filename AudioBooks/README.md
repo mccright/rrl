@@ -198,83 +198,12 @@ By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)
 Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
 <details>
 <summary> Librivox Summary:</summary>  
+
 >Simple and unpretentious as a statement by Francis d’Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
 
 </details>
 </details>
 
-
-<details>
-<summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
-
-### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
-https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
-Text: https://www.gutenberg.org/ebooks/1561  
-By [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter) (1844 - 1929)  published 1921  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-Reading Notes:  This book is a bit of a slog and includes quite a bit of repetition.  Carpenter identifies common "religious" language and practices across time and across cultures.  He argues that Christianity is a recent iteration of an "ancient world-religion."  "In the case of Christianity the historical period has lasted nearly 2,000 years, and, as I say, we can hardly expect or wish that it should last much longer."  He sees a deterministic evolution of humanity -- whose psychological development necessitates the emergence of a new phase where "religion" will re-incorporate the natural world, including all communities of human beings (*as opposed to the current 'individualistic' phase*).  His arguements seemed to suggest that the insane waste represented WWI signaled the end of the current phase and announced the coming of the next.  
-QUOTE:  
->The whole futile and idiotic structure of commerce and industry in which we are now imprisoned springs from that falsehood of individualistic self-seeking which marks the second stage of human evolution. That stage is already tottering to its fall, destroyed by the very flood of egotistic passions and interests, of vanities, greeds, and cruelties, all warring with each other, which are the sure outcome and culmination of its operation. With the restoration of the sentiment of the Common Life, and the gradual growth of a mental attitude corresponding, there will emerge from the flood something like a solid earth--something on which it will be possible to build with good hope for the future. Schemes of reconstruction are well enough in their way, but if there is no ground of REAL HUMAN SOLIDARITY beneath, of what avail are they?  
-
-Summary from Librivox:  
->In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
-
-</details>
-</details>
-
-<details>
-<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
-
-### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
-https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
-By [various]()  
-<details>
-<summary> Librivox Summary:</summary>  
->These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
-
-</details>
-</details>
-
-<details>
-<summary>A Political Pilgrim in Europe. By Ethel Snowden, Viscountess Snowden, 1921</summary>
-
-### A Political Pilgrim in Europe  (9:34)  
-https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
-Text: https://www.gutenberg.org/ebooks/68238/  
-By [Ethel Snowden, Viscountess Snowden](https://en.wikipedia.org/wiki/Ethel_Snowden) (1881 - 1951)  published 1921  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-Reading Notes:  Snowden invests quite a bit of time in describing or just mentioning by name individuals she met or just saw in her travels.  Not being sufficiently well read on this period, I assume that I was unable to draw some of the context that these mentions may have for others (*my being unwilling to research each one of these personalities*).  That said, her descriptions of what she saw and heard of conditions around Europe in the years following WWI provide some depth and color missing from many formal WWI *Histories*.  Snowden also appears to incorporate a heavy load of 19th century wealthy-ruling-class culture -- which, I think, should be considered when reading or listening to her observations and analysis.  It is difficult to understand her noted *pacifism* with her acceptance of (*almost justification of*) the socialist/communist terrorism engulfing Russia at the time.  Snowden's analysis of and hopes for Communist Russia during these murderous years support Galeazzi's summary below  -- that "Snowden was a controversial and polarizing figure."  
-Summary from Librivox:  
->Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
-
-</details>
-</details>
-
-<details>
-<summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
-
-### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
-https://librivox.org/kings-queens-and-pawns-by-mary-roberts-rinehart/  
-https://www.gutenberg.org/ebooks/14457  
-By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  Published 1915  
-Summary from Librivox:  
->A personal account of the American author's visit to Europe in January 1915 while a war correspondent in Belgium for The Saturday Evening Post. She writes: "War is not two great armies meeting in a clash and frenzy of battle. It is much more than that. War is a boy carried on a stretcher, looking up at God's blue sky with bewildered eyes that are soon to close; war is a woman carrying a child that has been wounded by a shell; war is spirited horses tied in burning buildings and waiting for death; war is the flower of a race, torn, battered, hungry, bleeding, up to its knees in icy water; war is an old woman burning a candle before the Mater Dolorosa for the son she has given.  
-
-</details>
-
-<details>
-<summary>Edward III. By William Parsons Warburton, 1908</summary>
-
-### Edward III (9:40)  
-https://librivox.org/edward-iii-by-william-warburton/  
-https://archive.org/details/in.ernet.dli.2015.86381  
-By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  Published 1908  
-Summary from Librivox:  
->Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
-
-</details>
 
 <details>
 <summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
@@ -338,7 +267,9 @@ Text: https://www.gutenberg.org/ebooks/349
 By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
-Reading Notes: This *simple* story also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.
+
+Reading Notes: This 1912-version of a *feelgood romance* also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.  
+LibraryThing Reviews:  [https://www.librarything.com/work/449936/reviews](https://www.librarything.com/work/449936/reviews)  
 Summary from Librivox:  
 >David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
 
@@ -357,6 +288,82 @@ See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B
 also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
 >Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
+
+</details>
+
+
+<details>
+<summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
+
+### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
+https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
+Text: https://www.gutenberg.org/ebooks/1561  
+By [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter) (1844 - 1929)  published 1921  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
+Reading Notes:  This book is a bit of a slog and includes quite a bit of repetition.  Carpenter identifies common "religious" language and practices across time and across cultures.  He argues that Christianity is a recent iteration of an "ancient world-religion."  "In the case of Christianity the historical period has lasted nearly 2,000 years, and, as I say, we can hardly expect or wish that it should last much longer."  He sees a deterministic evolution of humanity -- whose psychological development necessitates the emergence of a new phase where "religion" will re-incorporate the natural world, including all communities of human beings (*as opposed to the current 'individualistic' phase*).  His arguements seemed to suggest that the insane waste represented WWI signaled the end of the current phase and announced the coming of the next.  
+QUOTE:  
+>The whole futile and idiotic structure of commerce and industry in which we are now imprisoned springs from that falsehood of individualistic self-seeking which marks the second stage of human evolution. That stage is already tottering to its fall, destroyed by the very flood of egotistic passions and interests, of vanities, greeds, and cruelties, all warring with each other, which are the sure outcome and culmination of its operation. With the restoration of the sentiment of the Common Life, and the gradual growth of a mental attitude corresponding, there will emerge from the flood something like a solid earth--something on which it will be possible to build with good hope for the future. Schemes of reconstruction are well enough in their way, but if there is no ground of REAL HUMAN SOLIDARITY beneath, of what avail are they?  
+
+Summary from Librivox:  
+>In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
+
+</details>
+</details>
+
+<details>
+<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
+
+### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
+https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
+By [various]()  
+<details>
+<summary> Librivox Summary:</summary>  
+
+>These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
+
+</details>
+</details>
+
+<details>
+<summary>A Political Pilgrim in Europe. By Ethel Snowden, Viscountess Snowden, 1921</summary>
+
+### A Political Pilgrim in Europe  (9:34)  
+https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
+Text: https://www.gutenberg.org/ebooks/68238/  
+By [Ethel Snowden, Viscountess Snowden](https://en.wikipedia.org/wiki/Ethel_Snowden) (1881 - 1951)  published 1921  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
+Reading Notes:  Snowden invests quite a bit of time in describing or just mentioning by name individuals she met or just saw in her travels.  Not being sufficiently well read on this period, I assume that I was unable to draw some of the context that these mentions may have for others (*my being unwilling to research each one of these personalities*).  That said, her descriptions of what she saw and heard of conditions around Europe in the years following WWI provide some depth and color missing from many formal WWI *Histories*.  Snowden also appears to incorporate a heavy load of 19th century wealthy-ruling-class culture -- which, I think, should be considered when reading or listening to her observations and analysis.  It is difficult to understand her noted *pacifism* with her acceptance of (*almost justification of*) the socialist/communist terrorism engulfing Russia at the time.  Snowden's analysis of and hopes for Communist Russia during these murderous years support Galeazzi's summary below  -- that "Snowden was a controversial and polarizing figure."  
+Summary from Librivox:  
+>Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
+
+</details>
+</details>
+
+<details>
+<summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
+
+### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
+https://librivox.org/kings-queens-and-pawns-by-mary-roberts-rinehart/  
+https://www.gutenberg.org/ebooks/14457  
+By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  Published 1915  
+Summary from Librivox:  
+>A personal account of the American author's visit to Europe in January 1915 while a war correspondent in Belgium for The Saturday Evening Post. She writes: "War is not two great armies meeting in a clash and frenzy of battle. It is much more than that. War is a boy carried on a stretcher, looking up at God's blue sky with bewildered eyes that are soon to close; war is a woman carrying a child that has been wounded by a shell; war is spirited horses tied in burning buildings and waiting for death; war is the flower of a race, torn, battered, hungry, bleeding, up to its knees in icy water; war is an old woman burning a candle before the Mater Dolorosa for the son she has given.  
+
+</details>
+
+<details>
+<summary>Edward III. By William Parsons Warburton, 1908</summary>
+
+### Edward III (9:40)  
+https://librivox.org/edward-iii-by-william-warburton/  
+https://archive.org/details/in.ernet.dli.2015.86381  
+By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  Published 1908  
+Summary from Librivox:  
+>Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
 
 </details>
 
@@ -594,6 +601,23 @@ Librivox Summary:
 
 ## Pending or Currently Underway:  
 
+<details>
+<summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
+
+### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
+https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
+Text: https://www.gutenberg.org/ebooks/42459   
+By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) and [1911 census info](https://www.findmypast.co.uk/1911-census/laurence-ayscough-clarke-rg14/00597/0099/1-546d1f6b-9fd1-45be-8c7b-c0d7e4bf353c) and [family tree](https://www.ancestry.com/genealogy/records/laurence-ayscough-clarke-24-21rqnpz)  (1873 - 1942)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
+Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
+Librivox Summary:  
+>What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
+
+</details>
+</details>
+
 
 <details>
 <summary>The shipwreck. By William Falconer.  1762 </summary>  
@@ -720,21 +744,6 @@ By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 
 <details>
 <summary> Librivox Summary:</summary>  
 >One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
-
-### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
-https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
-Text: https://www.gutenberg.org/ebooks/42459   
-By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) (1873 - 1942)  
-<details>
-<summary> Librivox Summary:</summary>  
->What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
 
 </details>
 </details>
