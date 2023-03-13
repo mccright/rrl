@@ -3,20 +3,21 @@
 
 ### Reading [Out-of-Copywrite - Open-Access eBooks](https://github.com/mccright/rrl/tree/main/OpenSourceTexts)  
   * Project Gutenberg  https://www.gutenberg.org/  
-  * Standard Ebooks  https://standardebooks.org/
+  * The Univ. Penn. Online Books Page at  https://onlinebooks.library.upenn.edu/ (An index of over three million online books freely readable on the Internet)  
+  * Standard Ebooks  https://standardebooks.org/  
   * Internet Archive https://archive.org/  
   * Tufts Univ. Perseus Digital Library https://www.perseus.tufts.edu/hopper/collections  
   * Tufts Digital Library https://dl.tufts.edu/catalog  
-  * Evans Early American Imprint Collection https://quod.lib.umich.edu/e/evans?cginame=text-idx;id=navbarbrowselink;key=subject;page=browse  
+  * Evans Early American Imprint Collection  https://quod.lib.umich.edu/e/evans?cginame=text-idx;id=navbarbrowselink;key=subject;page=browse  
   * World Digital Library (WDL) projec https://www.loc.gov/books/collections/ or the broader https://www.loc.gov/collections/ from the U.S. Library of Congress  
   * Baen Free Library (science fiction) [https://www.baen.com/](https://www.baen.com/)  
   * Smashwords [https://www.smashwords.com/shelves/home/1/free/any](https://www.smashwords.com/shelves/home/1/free/any)  
 
 ### *Reading* [Audio Books](https://github.com/mccright/rrl/tree/main/AudioBooks)  
   * All free at https://librivox.org/  This is an all-volunteer effort.  The quality of the recordings varies, but a large percentage are excellent.  
-  * Project Gutenberg Audio Books, 
-    * Human-read  https://www.gutenberg.org/browse/categories/1
-    * Computer-generated audio  https://www.gutenberg.org/browse/categories/2
+  * Project Gutenberg Audio Books,  
+    * Human-read  https://www.gutenberg.org/browse/categories/1  
+    * Computer-generated audio  https://www.gutenberg.org/browse/categories/2  
 
 
 ### Reading [Commercial and "Open Access" Books](https://github.com/mccright/rrl/tree/main/Books)  
