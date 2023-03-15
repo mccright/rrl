@@ -611,7 +611,7 @@ By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscou
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
 
-Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
+Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife and his father could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
 Librivox Summary:  
 >What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
 
