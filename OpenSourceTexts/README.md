@@ -55,7 +55,23 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 
 ### Where do we go from here?  1967  
 https://kinginstitute.stanford.edu/where-do-we-go-here  
-By [Rev. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)  (1929 – 1968)  Delivered 16 August 1967, in Atlanta, Georgia.
+By [Rev. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)  (1929 – 1968)  Delivered 16 August 1967, in Atlanta, Georgia.  
+
+<details>
+<summary>The Expendables. by A. E. Van Vogt  1963</summary>  
+
+### The Expendables.  
+https://www.gutenberg.org/ebooks/70235  
+By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
+...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
+<details>
+<summary>Reading Notes</summary>  
+
+Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  
+
+</details>
+</details>
+
 
 ### Anchorite.  1962  
 https://www.gutenberg.org/ebooks/23561  
