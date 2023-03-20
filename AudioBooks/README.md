@@ -621,6 +621,21 @@ Librivox Summary:
 
 
 <details>
+<summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>  
+
+### Cleek: The Man of the Forty Faces. (13:25)  
+https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
+Text: https://www.gutenberg.org/ebooks/14332    
+By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
+<details>
+<summary> Librivox Summary:</summary>  
+>Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books. - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
+
+</details>
+</details>
+
+
+<details>
 <summary>The shipwreck. By William Falconer.  1762 </summary>  
 
 ### The shipwreck.  1762  
@@ -665,21 +680,6 @@ By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 -
 <details>
 <summary> Librivox Summary:</summary>  
 >This short history by the eminent British historian, Mandell Creighton, places Elizabeth and her reign within the context of 16th century European political, religious, and military events. Elizabeth overcomes her two great rivals, King Philip of Spain and Mary, Queen of Scots. England gradually unites behind her Queen, who survives multiple assassination plots. After the defeat of the Spanish Armada, the English, lightly taxed by their frugal sovereign, launch flourishing commerce enterprises. The author writes of the Protestant Reformation that "a change of belief meant a revolt from authority." In this age of individualism, personal daring, and a consciousness of national greatness, the golden age of Elizabethan literature breaks new ground in historiography, literary theory, poetry, and above all, drama. - ([Summary by Pamela Nagami, M.D.](https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>  
-
-### Cleek: The Man of the Forty Faces. (13:25)  
-https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
-Text: https://www.gutenberg.org/ebooks/14332    
-By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
-<details>
-<summary> Librivox Summary:</summary>  
->Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books. - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
 
 </details>
 </details>
