@@ -291,6 +291,24 @@ Librivox Summary:
 
 </details>
 
+<details>
+<summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
+
+### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
+https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
+Text: https://www.gutenberg.org/ebooks/42459   
+By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) and [1911 census info](https://www.findmypast.co.uk/1911-census/laurence-ayscough-clarke-rg14/00597/0099/1-546d1f6b-9fd1-45be-8c7b-c0d7e4bf353c) and [family tree](https://www.ancestry.com/genealogy/records/laurence-ayscough-clarke-24-21rqnpz)  (1873 - 1942)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
+Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife and his father could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
+Librivox Summary:  
+>What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
+
+</details>
+</details>
+
+
 
 <details>
 <summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
@@ -600,23 +618,6 @@ Librivox Summary:
 -----
 
 ## Pending or Currently Underway:  
-
-<details>
-<summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
-
-### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
-https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
-Text: https://www.gutenberg.org/ebooks/42459   
-By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) and [1911 census info](https://www.findmypast.co.uk/1911-census/laurence-ayscough-clarke-rg14/00597/0099/1-546d1f6b-9fd1-45be-8c7b-c0d7e4bf353c) and [family tree](https://www.ancestry.com/genealogy/records/laurence-ayscough-clarke-24-21rqnpz)  (1873 - 1942)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife and his father could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
-Librivox Summary:  
->What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
-
-</details>
-</details>
 
 
 <details>
