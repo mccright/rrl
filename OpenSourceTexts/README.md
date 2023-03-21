@@ -98,6 +98,30 @@ By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (17
 https://www.gutenberg.org/ebooks/16537  
 By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
 
+### The Myths of Mexico & Peru   1913  
+https://www.gutenberg.org/ebooks/53080  
+By [Lewis Spence]()  (1874-1955)  
+Illustrators: [Gilbert James]() and [William Sewell]()  
+
+### Islâm  1909  
+https://www.gutenberg.org/ebooks/70136  
+By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)  
+~ 100 pages  
+or  
+### Spirit Of Islam A History Of The Evolution And Ideals Of Islam With A Life Of The Prophet.  1922  
+https://archive.org/details/dli.ernet.238014/mode/2up  
+By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)  
+~590 pages  
+
+### Students Handbook Of Mohammedan Law Sixth Edition  1912  
+https://archive.org/details/in.ernet.dli.2015.86023  
+By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)  
+~215 pages  
+
+### The Legal Position of Women in Islam  1912  
+https://archive.org/details/dli.granth.87988  
+By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)  
+
 ### The Russian Story Book -- Containing tales from the song-cycles of Kiev and Novgorod and other early sources  
 https://www.gutenberg.org/ebooks/48605  
 By [Richard Wilson](https://www.geni.com/people/Richard-Wilson-III/6000000190300770890) (1878-1921) Published 1916  
