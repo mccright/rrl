@@ -146,6 +146,20 @@ Foreword by [Corin Tucker](https://en.wikipedia.org/wiki/Corin_Tucker)
 
 </details>
 
+
+<details>
+<summary>By Hands Now Known - . By Margaret Burnham  2022</summary>
+
+### : Jim Crow's Legal Executioners  
+https://www.google.com/books/edition/By_Hands_Now_Known_Jim_Crow_s_Legal_Exec/9N9hEAAAQBAJ    
+Illustrated | 328 pp. | W.W. Norton & Company  
+By [Margaret A. Burnham](https://en.wikipedia.org/wiki/Margaret_Burnham) and [https://law.northeastern.edu/faculty/burnham/](https://law.northeastern.edu/faculty/burnham/)  
+Reviews:  
+https://www.nytimes.com/2022/09/21/books/review/by-hands-now-known-margaret-burnham.html  
+https://www.nybooks.com/articles/2023/04/06/a-regional-reign-of-terror-jim-crow-by-hands-now-known/  
+
+</details>
+
 <details>
 <summary>The Long Weekend. By Gilly Macmillan  2022</summary>
 
