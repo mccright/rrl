@@ -80,6 +80,13 @@ By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)
 [Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
 >Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
 
+### The Wade Prisoner of War Papers - WWII."  1995  
+By Dr. Wade Walter Nyquist (1919-2000). Written August 1995.  
+https://www.ekn.io/wadenyquist_compressed_pdf/  
+(*Thank you [Erik Nyquist](https://github.com/eriknyquist)*) and [https://www.ekn.io/wadenyquist/](https://www.ekn.io/wadenyquist/)  
+Summary by Eric Nyquist:  
+>Wade Nyquist, was captured by the German army in Tunisia in 1943, and remained a POW until 1945. He was eventually persuaded by my Grandmother to recount the whole story so she could write it down.  At some point, my Grandmother typed up several copies of the original papers and passed them out to her kids. I found one of these copies at my Aunt's house, and scanned each page to have a digital copy for myself.  It's a fascinating piece of history, which [you can download here](https://www.ekn.io/wadenyquist/).  
+
 ### The shipwreck.  1762  
 https://www.gutenberg.org/ebooks/69336  
 or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext  
