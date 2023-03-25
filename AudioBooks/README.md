@@ -630,7 +630,7 @@ By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 -
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
 
-Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As parody this is light, fun entertainment.  
+Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  
 Librivox Summary:  
 >Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books. - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
 
