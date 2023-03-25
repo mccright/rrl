@@ -109,23 +109,6 @@ Librivox Summary:
 </details>
 
 <details>
-<summary>The Best Church Hymns. 1898</summary>  
-
-### The Best Church Hymns. (1:38)  
-https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
-Text: https://archive.org/details/bestch00bens  
-Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
-By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
-Librivox Summary:  
->This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
-
-</details>
-</details>
-
-<details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -170,7 +153,7 @@ By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 -
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
 
-Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  
+Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As (an often comedic) parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  
 Librivox Summary:  
 >Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books. - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
 
@@ -293,6 +276,24 @@ Summary from Librivox:
 
 </details>
 </details>
+
+<details>
+<summary>The Best Church Hymns. 1898</summary>  
+
+### The Best Church Hymns. (1:38)  
+https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
+Text: https://archive.org/details/bestch00bens  
+Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
+By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
+Librivox Summary:  
+>This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+</details>
+
 
 <details>
 <summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
