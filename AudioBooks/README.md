@@ -697,7 +697,11 @@ https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/
 Text: https://www.gutenberg.org/ebooks/32198    
 By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
 <details>
-<summary> Librivox Summary:</summary>  
+<summary>Reading Notes and Librivox Summary:</summary>  
+
+Reading Notes:  
+Some might be turned off by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but I believe they are only expressions of the author's understanding of the world and that of his readers at the time.  
+Librivox Summary:  
 >Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads. - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
 
 </details>
