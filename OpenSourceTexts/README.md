@@ -23,6 +23,14 @@ General Dru remakes the U.S. as a more fair society with a smaller and more resp
 At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
 One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
 
+### Anchorite.  1962  
+https://www.gutenberg.org/ebooks/23561  
+Audio at: https://librivox.org/anchorite-by-randall-garrett/  
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)  
+Reading Notes:  This story (*and the Librivox summary below*) while entertaining and a worthwhile read, seem loosely like a science fiction expression of [Ayn Rand'ian romantic realism](https://en.wikipedia.org/wiki/Ayn_Rand#Literary_approach_and_influences) -- with the central characters as heroic individualists or ignorant villains who emphasize duty to your team and collectivist moral ideals.  
+[Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
+>Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
+
 ### Roger the Ranger: A Story of Border Life Among the Indians  
 https://www.gutenberg.org/ebooks/68694  
 By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911), published 1893  
@@ -72,20 +80,21 @@ Reading Notes:  This short book begins with "One hundred and nine years after le
 </details>
 </details>
 
-
-### Anchorite.  1962  
-https://www.gutenberg.org/ebooks/23561  
-Audio at: https://librivox.org/anchorite-by-randall-garrett/  
-By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)  
-[Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
->Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
-
 ### The Wade Prisoner of War Papers - WWII."  1995  
 By Dr. Wade Walter Nyquist (1919-2000). Written August 1995.  
 https://www.ekn.io/wadenyquist_compressed_pdf/  
 (*Thank you [Erik Nyquist](https://github.com/eriknyquist)*) and [https://www.ekn.io/wadenyquist/](https://www.ekn.io/wadenyquist/)  
 Summary by Eric Nyquist:  
 >Wade Nyquist, was captured by the German army in Tunisia in 1943, and remained a POW until 1945. He was eventually persuaded by my Grandmother to recount the whole story so she could write it down.  At some point, my Grandmother typed up several copies of the original papers and passed them out to her kids. I found one of these copies at my Aunt's house, and scanned each page to have a digital copy for myself.  It's a fascinating piece of history, which [you can download here](https://www.ekn.io/wadenyquist/).  
+
+### Man of Many Minds.  1959  
+https://www.gutenberg.org/ebooks/19660  
+Audio version: https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
+https://en.wikipedia.org/wiki/Man_of_Many_Minds  
+By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
+Pyramid Books edition: November, 1959  
+Librivox Summary:  
+>GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))
 
 ### The shipwreck.  1762  
 https://www.gutenberg.org/ebooks/69336  
