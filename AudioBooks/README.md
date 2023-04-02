@@ -153,9 +153,27 @@ By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 -
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
 
-Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As (an often comedic) parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  
+Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As (an often comedic) parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  Some might be turned off by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but I believe they are expressions of the author's understanding of the world and that of his readers at the time.  
 Librivox Summary:  
 >Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books. - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
+
+</details>
+</details>
+
+<details>
+<summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>  
+
+### Cleek of Scotland Yard. (12:46)  
+https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
+Text: https://www.gutenberg.org/ebooks/32198    
+By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
+Reading Notes:  
+Some might be turned off by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but I believe they are expressions of the author's understanding of the world and that of his readers at the time.  
+Librivox Summary:  
+>Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads. - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
 
 </details>
 </details>
@@ -559,6 +577,26 @@ Summary from Librivox:
 
 </details>
 
+
+<details>
+<summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
+
+### The Story of Geographical Discovery: How the World Became Known. (4:51)  
+https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/  
+Text: https://www.gutenberg.org/files/14291/14291-h/14291-h.htm  
+or https://archive.org/details/storyofgeographi00jacorich  
+By [Joseph Jacobs](http://en.wikipedia.org/wiki/Joseph_Jacobs) (1854 - 1916)  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
+Reader Notes:  
+Some might be turned off by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the author's descriptions of how Europeans claimed lands across the globe.  I believe they are expressions of the author's understanding of the world and that of the readers he targeted at the time.  He makes no attempt to deal with negative outcomes of colonization. Not only were land and resources stolen in the colonization process but colonization was both a cultural and literal genocide -- ignoring the value of indigenous peoples.  This book may be hurtful to some.  
+Librivox Summary:  
+>This book was first published in 1897. It's a short work, but it encompasses a vast subject—nothing less than determining the detailed geographical plan of our entire world! In the process, Jacobs feeds us dates and names and events and places and maps in a dense stream. It's a bit like drinking from a fire hose, but see it through, and the reader (or listener) will acquire a surprisingly complete overview of world history as well as geography. It's well worth absorbing, even by those not so geographically inclined, if only as a source for winning endless bar bets. Beginning in ancient times, the author identifies three main forces that have contributed to our present understanding: wars of conquest, competition for trade, and (eventually) pure scientific curiosity. The Egyptians, Phoenicians, early Greeks, Babylonians, and many other Mediterranean peoples contributed, often unwillingly, the streams of knowledge that Ptolemy of Alexandria summed up in the great Ptolemaei Orbis (ca.150 AD), the first “real” map of the whole known world. The evolution of world maps to incorporate (and sometime conceal) new discoveries is a key theme of this fascinating work. ([Summary by Steven Seitel](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/))
+
+</details>
+</details>
+
 <details>
 <summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>  
 
@@ -690,25 +728,6 @@ By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 -
 
 
 <details>
-<summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>  
-
-### Cleek of Scotland Yard. (12:46)  
-https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
-Text: https://www.gutenberg.org/ebooks/32198    
-By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes:  
-Some might be turned off by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but I believe they are only expressions of the author's understanding of the world and that of his readers at the time.  
-Librivox Summary:  
->Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads. - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
-
-</details>
-</details>
-
-
-<details>
 <summary>The Iron Heel. By Milo Hasting. 1908</summary>  
 
 ### The Iron Heel. (08:17)  
@@ -784,22 +803,6 @@ By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) 
 <details>
 <summary> Librivox Summary:</summary>  
 >A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There’s a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It’s all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
-
-### The Story of Geographical Discovery: How the World Became Known. (4:51)  
-https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/  
-Text: https://www.gutenberg.org/files/14291/14291-h/14291-h.htm  
-or https://archive.org/details/storyofgeographi00jacorich  
-By [Joseph Jacobs](http://en.wikipedia.org/wiki/Joseph_Jacobs) (1854 - 1916)  
-<details>
-<summary> Librivox Summary:</summary>  
->This book was first published in 1897. It's a short work, but it encompasses a vast subject—nothing less than determining the detailed geographical plan of our entire world! In the process, Jacobs feeds us dates and names and events and places and maps in a dense stream. It's a bit like drinking from a fire hose, but see it through, and the reader (or listener) will acquire a surprisingly complete overview of world history as well as geography. It's well worth absorbing, even by those not so geographically inclined, if only as a source for winning endless bar bets. Beginning in ancient times, the author identifies three main forces that have contributed to our present understanding: wars of conquest, competition for trade, and (eventually) pure scientific curiosity. The Egyptians, Phoenicians, early Greeks, Babylonians, and many other Mediterranean peoples contributed, often unwillingly, the streams of knowledge that Ptolemy of Alexandria summed up in the great Ptolemaei Orbis (ca.150 AD), the first “real” map of the whole known world. The evolution of world maps to incorporate (and sometime conceal) new discoveries is a key theme of this fascinating work. ([Summary by Steven Seitel](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/))
 
 </details>
 </details>
