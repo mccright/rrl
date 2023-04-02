@@ -598,6 +598,21 @@ Librivox Summary:
 </details>
 </details>
 
+
+<details>
+<summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
+
+### Shakespeare at the Globe, 1599-1609. (04:03)  
+https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
+Text: https://www.gutenberg.org/ebooks/66536   
+By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
+<details>
+<summary> Librivox Summary:</summary>  
+>One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
+
+</details>
+</details>
+
 <details>
 <summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>  
 
@@ -758,21 +773,6 @@ By [Winston Churchill](http://en.wikipedia.org/wiki/Winston_Churchill_(novelist)
 Reading Notes:   </br>.
 Librivox Summary:  
 >The book follows the career of Hugh Paret from youth to manhood, and how his profession as a corporation lawyer gradually changes his values. The book received positive reviews, and was the second best-selling novel in the United States in 1915. - ([Summary by Wikipedia](https://en.wikipedia.org/wiki/A_Far_Country_(novel)))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
-
-### Shakespeare at the Globe, 1599-1609. (04:03)  
-https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
-Text: https://www.gutenberg.org/ebooks/66536   
-By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
-<details>
-<summary> Librivox Summary:</summary>  
->One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
 
 </details>
 </details>
