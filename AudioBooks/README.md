@@ -607,7 +607,9 @@ https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/
 Text: https://www.gutenberg.org/ebooks/66536   
 By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
 <details>
-<summary> Librivox Summary:</summary>  
+<summary>Reading Notes and Librivox Summary:</summary>  
+Reading Notes: As described below, this book is primarily about the theater, the business of the theater and of a performing group and a few characteristics of the writers (*and their writing*) supporting both.  
+Librivox Summary:  
 >One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
 
 </details>
