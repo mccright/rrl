@@ -101,10 +101,79 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
     
 ## Pending or Currently Underway:  
 
-<details>
-<summary>How the World Really Works: The Science Behind How We Got Here and Where We’re Going.  By Vaclav Smil 2022  </summary>
 
-### How the World Really Works: The Science Behind How We Got Here and Where We’re Going.  
+
+<details>
+<summary>Still Life.  By Sarah Winman 2021  </summary>
+
+### Still Life.  
+https://www.penguinrandomhouse.com/books/670069/still-life-by-sarah-winman/  
+By [Sarah Winman](https://en.wikipedia.org/wiki/Sarah_Winman) and [and interview here](https://www.abc.net.au/news/2022-08-06/sarah-winman-still-life-book-interview/101300474) (1964 - ),  G.P. Putnam's Sons, Publication date: November 2, 2021; 464 pages  
+
+<details>
+<summary>Reading Notes and 3rd Party Reviews:</summary>
+
+Reading Notes:  
+
+[NYT Review By Lauren Fox](https://www.nytimes.com/2021/11/02/books/review/still-life-sarah-winman.html), and [Washington Post Review By Ron Charles](https://www.washingtonpost.com/entertainment/books/still-life-sarah-winman-book-review/2021/11/22/2eb81bca-4bcc-11ec-b0b0-766bbbe79347_story.html)  
+
+</details>
+
+</details>
+
+
+<details>
+<summary>How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts. By Ian Brennan.  2016</summary>
+
+### How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts.  
+https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/  
+By [Ian Brennan](https://en.wikipedia.org/wiki/Ian_Brennan_(music_producer)) and [and interview here](https://infiniteculture.wordpress.com/2016/01/06/breaking-down-barriers-an-interview-with-ian-brennan/) (1966 - ),  Allworth, Publication date: February 23, 2016; 426 pages  
+
+<details>
+<summary>Reading Notes and Publisher's Summary</summary>
+
+Reading Notes:  
+
+[Publisher's Summary](https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/):  
+All recordings document life, arising from a specific time and place, and if that place is artificial, the results will be as well.  Culled from a lifetime of learning through failure and designed to provoke thought and inspiration for artists in every medium, How Music Dies (or Lives) is a virtual how-to manual for those on a quest for authenticity in an age of airbrushed and Auto-Tuned so-called "artists."  Author and Grammy-winning producer Ian Brennan chronicles his own journeys to find new and ancient sounds, textured voices, and nonmalleable songs, and he presents readers with an intricate look at our technological society.  His concise prose covers topics such as:  
+
+* The damages of colonization in generalizing distinctive variations  
+* The need for imperfection  
+* The gaps between manufacturing and invention  
+* The saturation of music in everyday life  
+
+This guide serves those who ask themselves, "What's wrong with our culture?" Along with possible answers are lessons in using the microphone as a telescope, hearing the earth as an echo, and appreciating the value of democratizing voices.  
+</details>
+
+</details>
+
+
+<details>
+<summary>Stamped from the Beginning: The Definitive History of Racist Ideas in America. By Ibram X. Kendi.  2016 </summary>
+
+### Stamped from the Beginning: The Definitive History of Racist Ideas in America.  
+https://www.ibramxkendi.com/stampedbook  
+https://www.boldtypebooks.com/titles/ibram-x-kendi/stamped-from-the-beginning/9781568585987/  
+https://en.wikipedia.org/wiki/Stamped_from_the_Beginning  
+By [Ibram X. Kendi](https://www.ibramxkendi.com/bio) and [and here]((https://en.wikipedia.org/wiki/Ibram_X._Kendi)) (1982 - ),  Bold Type Books, Publication date: April 12, 2016; 608 pages  
+
+<details>
+<summary>Reading Notes and 3rd Party Summary:</summary>
+
+Reading Notes:  
+
+[Author's Summary](https://www.ibramxkendi.com/stamped).  
+[The Guardian Review By Mark Anthony Neal](https://www.theguardian.com/books/2017/aug/24/stamped-from-beginning-ibram-x-kendi-review), and [Wash.Post Review By Carlos Lozada](https://www.washingtonpost.com/news/book-party/wp/2016/04/15/the-racism-of-good-intentions/)  
+
+</details>
+
+</details>
+
+
+<details>
+<summary>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
+
+### How the World Really Works: The Science Behind How We Got Here and Where We're Going.  
 By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022, 336 pages  
 This is a useful book, one that should be required reading for anyone.  
 Summary at: https://www.kirkusreviews.com/book-reviews/vaclav-smil/how-the-world-really-works/ and read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
@@ -130,7 +199,7 @@ Mechanical energy: Isaac Newton's approach == a joule is the force of one newton
 https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false  
 
 [Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review:  
->"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don’t know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
+>"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don't know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
 
 </details>
 
@@ -200,7 +269,7 @@ By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  p
 https://en.wikipedia.org/wiki/The_Power_(Alderman_novel)
 By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  Published 2016  
 [Review placeholder]()  
->"What would the world be like, Alderman asks, if all the women on Earth suddenly developed the ability to discharge massive electric shocks from their bodies? She takes this single idea and explores how it changes the dynamic between men and women, and among women. In doing so, she reveals a lot about how power and gender work today. (The word “power” in the title has multiple meanings.)"  From [Bill Gates](https://www.gatesnotes.com/Books/The-Power)  
+>"What would the world be like, Alderman asks, if all the women on Earth suddenly developed the ability to discharge massive electric shocks from their bodies? She takes this single idea and explores how it changes the dynamic between men and women, and among women. In doing so, she reveals a lot about how power and gender work today. (The word “power" in the title has multiple meanings.)"  From [Bill Gates](https://www.gatesnotes.com/Books/The-Power)  
 
 </details>
 
