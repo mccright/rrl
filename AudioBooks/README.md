@@ -746,15 +746,23 @@ By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 -
 
 
 <details>
-<summary>The Iron Heel. By Milo Hasting. 1908</summary>  
+<summary>The Iron Heel. By Jack London. 1908</summary>  
 
 ### The Iron Heel. (08:17)  
 https://librivox.org/the-iron-heel-by-jack-london/  
 Text: https://www.gutenberg.org/etext/1164  
 https://en.wikipedia.org/wiki/The_Iron_Heel  
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
+
 <details>
-<summary> Librivox Summary:</summary>  
+<summary>Reader's Notes and 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+This is a seriously-dystopian novel...  
+
+3rd Party Summaries:  
+[Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
+Librivox Summary:  
 >A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
 
 </details>
@@ -772,7 +780,8 @@ By [Winston Churchill](http://en.wikipedia.org/wiki/Winston_Churchill_(novelist)
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
 
-Reading Notes:   </br>.
+Reading Notes:  
+
 Librivox Summary:  
 >The book follows the career of Hugh Paret from youth to manhood, and how his profession as a corporation lawyer gradually changes his values. The book received positive reviews, and was the second best-selling novel in the United States in 1915. - ([Summary by Wikipedia](https://en.wikipedia.org/wiki/A_Far_Country_(novel)))  
 
