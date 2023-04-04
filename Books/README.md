@@ -115,6 +115,7 @@ By [Sarah Winman](https://en.wikipedia.org/wiki/Sarah_Winman) and [and interview
 
 Reading Notes:  
 
+3rd Party Summaries:  
 [NYT Review By Lauren Fox](https://www.nytimes.com/2021/11/02/books/review/still-life-sarah-winman.html), and [Washington Post Review By Ron Charles](https://www.washingtonpost.com/entertainment/books/still-life-sarah-winman-book-review/2021/11/22/2eb81bca-4bcc-11ec-b0b0-766bbbe79347_story.html)  
 
 </details>
@@ -162,6 +163,7 @@ By [Ibram X. Kendi](https://www.ibramxkendi.com/bio) and [and here]((https://en.
 
 Reading Notes:  
 
+3rd Party Summaries:  
 [Author's Summary](https://www.ibramxkendi.com/stamped).  
 [The Guardian Review By Mark Anthony Neal](https://www.theguardian.com/books/2017/aug/24/stamped-from-beginning-ibram-x-kendi-review), and [Wash.Post Review By Carlos Lozada](https://www.washingtonpost.com/news/book-party/wp/2016/04/15/the-racism-of-good-intentions/)  
 
