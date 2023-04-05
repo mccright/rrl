@@ -61,9 +61,18 @@ By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), publish
 
 ## Pending or Currently Underway:  
 
+<details>
+<summary>Where do we go from here? By Rev. Martin Luther King Jr.  1967</summary>  
 ### Where do we go from here?  1967  
 https://kinginstitute.stanford.edu/where-do-we-go-here  
 By [Rev. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)  (1929 – 1968)  Delivered 16 August 1967, in Atlanta, Georgia.  
+<details>
+<summary>Reading Notes</summary>  
+
+Reading Notes:  
+</details>
+</details>
+
 
 <details>
 <summary>The Expendables. by A. E. Van Vogt  1963</summary>  
@@ -80,12 +89,23 @@ Reading Notes:  This short book begins with "One hundred and nine years after le
 </details>
 </details>
 
-### The Wade Prisoner of War Papers - WWII."  1995  
+<details>
+<summary>The Wade Prisoner of War Papers - WWII.  By Dr. Wade Walter Nyquist 1995  </summary>  
+
+### The Wade Prisoner of War Papers - WWII.  1995  
 By Dr. Wade Walter Nyquist (1919-2000). Written August 1995.  
 https://www.ekn.io/wadenyquist_compressed_pdf/  
 (*Thank you [Erik Nyquist](https://github.com/eriknyquist)*) and [https://www.ekn.io/wadenyquist/](https://www.ekn.io/wadenyquist/)  
+
+<details>
+<summary>Reading Notes and 3rd Party Summary</summary>  
+Reading Notes:  
+
 Summary by Eric Nyquist:  
 >Wade Nyquist, was captured by the German army in Tunisia in 1943, and remained a POW until 1945. He was eventually persuaded by my Grandmother to recount the whole story so she could write it down.  At some point, my Grandmother typed up several copies of the original papers and passed them out to her kids. I found one of these copies at my Aunt's house, and scanned each page to have a digital copy for myself.  It's a fascinating piece of history, which [you can download here](https://www.ekn.io/wadenyquist/).  
+
+</details>
+</details>
 
 ### Man of Many Minds.  1959  
 https://www.gutenberg.org/ebooks/19660  
