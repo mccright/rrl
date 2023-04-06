@@ -74,6 +74,7 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
+</details>
 
 <details>
 <summary>Where do we go from here? By Rev. Martin Luther King Jr.  1967</summary>  
@@ -168,9 +169,23 @@ By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (17
 </details>
 </details>
 
+<details>
+<summary>Myths That Every Child Should Know.  By Hamilton Wright Mabie.  1906 </summary>  
+
 ### Myths That Every Child Should Know  
 https://www.gutenberg.org/ebooks/16537  
 By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
+
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  
+
+3rd Party Summaries:  
+
+</details>
+</details>
+
 
 ### The Myths of Mexico & Peru   1913  
 https://www.gutenberg.org/ebooks/53080  
