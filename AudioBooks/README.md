@@ -657,6 +657,27 @@ Summary from Librivox:
 </details>
 </details>
 
+
+<details>
+<summary>Greenmantle. By John Buchan. 1916</summary>  
+
+### Greenmantle. (09:45)  
+https://librivox.org/greenmantle-ver3-by-john-buchan/  
+https://en.wikipedia.org/wiki/Greenmantle  
+Text: https://gutenberg.org/ebooks/559  
+By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)  
+<details>
+<summary>Reading Notes and  Librivox Summary:</summary>  
+
+Reading Notes:
+This is just another relatively fast moving WWI spy novel.  It incorporates some of the worst cultural issues of the time (*written in the 2nd decade of the 20th century by a 19th century writer*)...  I believe they are expressions of the author's understanding of the world and that of the readers he targeted.  He makes no attempt to deal with negative outcomes of institutionalized descrimination, colonization and war, or of cultural and literal genocide -- ignoring the value numerous peoples.  The impacts of these events continue through today.  This book may be hurtful to some.  
+Summary from Librivox:  
+>Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum.  
+
+</details>
+</details>
+
+
 <details>
 <summary>The Awakening. By Kate Chopin, 1900</summary>
 
@@ -806,23 +827,6 @@ Librivox Summary:
 
 </details>
 </details>
-
-
-<details>
-<summary>Greenmantle. By John Buchan. 1916</summary>  
-
-### Greenmantle. (09:45)  
-https://librivox.org/greenmantle-ver3-by-john-buchan/  
-https://en.wikipedia.org/wiki/Greenmantle  
-Text: https://gutenberg.org/ebooks/559  
-By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)  
-<details>
-<summary> Librivox Summary:</summary>  
->Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum.  
-
-</details>
-</details>
-
 
 
 <details>
