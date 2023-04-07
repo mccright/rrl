@@ -833,8 +833,7 @@ Librivox Summary:
 
 ### The Torrents of Spring.  (2:10)
 https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
-Text: https://www.fadedpage.com/showbook.php?pid=20210135  
-https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
+Text: https://www.fadedpage.com/showbook.php?pid=20210135   
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
@@ -844,7 +843,9 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. (Summary by KevinS)  
-  
+Wikipedia Summary:  
+https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
+
 </details>
 </details>
 
@@ -855,7 +856,6 @@ Librivox Summary:
 ### Men Without Women.  (4:26)  
 https://librivox.org/men-without-women-by-ernest-hemingway/  
 Text: https://gutenberg.org/ebooks/69683  
-https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)  
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
@@ -864,8 +864,9 @@ Reader's Notes:
 
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
->Hemingway's second collection of short fiction, first published in 1927, including many of his best-known stories, including "Hills Like White Elephants" and "The Killers" - Summary by James Hutchisson
-
+>Hemingway's second collection of short fiction, first published in 1927, including many of his best-known stories, including "Hills Like White Elephants" and "The Killers" - Summary by James Hutchisson  
+Wikipedia Summary:  
+https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)  
 </details>
 </details>
 
