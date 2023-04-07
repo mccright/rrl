@@ -810,6 +810,88 @@ By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 -
 </details>
 
 <details>
+<summary> </summary>  
+
+###   
+  
+By []() ()  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
+
+### The Torrents of Spring.  (2:10)
+https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
+Text: https://www.fadedpage.com/showbook.php?pid=20210135  
+https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
+By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. (Summary by KevinS)  
+  
+</details>
+</details>
+
+
+<details>
+<summary>Men Without Women. By Ernest Hemingway. 1927</summary>  
+
+### Men Without Women.  (4:26)  
+https://librivox.org/men-without-women-by-ernest-hemingway/  
+Text: https://gutenberg.org/ebooks/69683  
+https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)  
+By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Hemingway's second collection of short fiction, first published in 1927, including many of his best-known stories, including "Hills Like White Elephants" and "The Killers" - Summary by James Hutchisson
+
+</details>
+</details>
+
+
+<details>
+<summary>The Freelands. By John Galsworthy. 1914 </summary>  
+
+### The Freelands  (9:51)  
+https://librivox.org/freelands-by-john-galsworthy/  
+Text: https://www.gutenberg.org/ebooks/2309  
+By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
+
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the ‘land question’ which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. (Summary by Simon Evers)  
+
+</details>
+</details>
+
+
+<details>
 <summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915</summary>  
 
 ### A Far Country. (19:48)  
