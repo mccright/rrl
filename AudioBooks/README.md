@@ -688,6 +688,26 @@ Librivox Summary:
 >The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." [Summary by Nathaniel H. Bishop]()  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
 
 </details>  
+
+
+<details>
+<summary>Bransford Of Rainbow Range.  1913,1920</summary>  
+
+### Bransford Of Rainbow Range. (5:34)  
+https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/  
+Text: https://www.gutenberg.org/ebooks/33498  
+By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) (1869 - 1934)  
+<details>
+<summary>Reader's Notes and Librivox Summary:</summary>  
+
+Reading Notes:  I invested an hour into this book and could not justify continuing.  It is just not a "*type*" that I enjoy or that I believe has enough positive content that I might learn from.  
+Librivox Summary:  
+>A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There’s a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It’s all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
+
+</details>
+</details>
+
+
   
 
 -----
@@ -805,19 +825,6 @@ By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)
 </details>
 
 
-<details>
-<summary>Bransford Of Rainbow Range.  1913,1920</summary>  
-
-### Bransford Of Rainbow Range. (5:34)  
-https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/  
-Text: https://www.gutenberg.org/ebooks/33498  
-By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) (1869 - 1934)  
-<details>
-<summary> Librivox Summary:</summary>  
->A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There’s a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It’s all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
-
-</details>
-</details>
 
 <details>
 <summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
