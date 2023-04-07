@@ -600,6 +600,30 @@ Librivox Summary:
 
 
 <details>
+<summary>The Iron Heel. By Jack London. 1908</summary>  
+
+### The Iron Heel. (08:17)  
+https://librivox.org/the-iron-heel-by-jack-london/  
+Text: https://www.gutenberg.org/etext/1164  
+https://en.wikipedia.org/wiki/The_Iron_Heel  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
+
+<details>
+<summary>Reader's Notes and 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+This is a seriously-dystopian novel...  For some, it might be a useful reminder of their high school or college studies of late 19th and early 20th century social, economic and cultural struggles in the United States.  Its thumping Socialism (*and the fact that Jack London invested so much time in this story*) is a reminder of how it was, for a time, a real force in the U.S.  Written and published before 1909, it is also interesting to compare some of The Iron Heal content against the facts of American history through the 1930s.  London's overwrought prose about organized labor, mega-capitalists, and corruption throughout government institutions may make this novel radioactive for some.  
+
+3rd Party Summaries:  
+[Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
+Librivox Summary:  
+>A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
+
+</details>
+</details>
+
+
+<details>
 <summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
@@ -763,31 +787,6 @@ By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 -
 
 </details>
 </details>
-
-
-<details>
-<summary>The Iron Heel. By Jack London. 1908</summary>  
-
-### The Iron Heel. (08:17)  
-https://librivox.org/the-iron-heel-by-jack-london/  
-Text: https://www.gutenberg.org/etext/1164  
-https://en.wikipedia.org/wiki/The_Iron_Heel  
-By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
-
-<details>
-<summary>Reader's Notes and 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-This is a seriously-dystopian novel...  
-
-3rd Party Summaries:  
-[Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
-Librivox Summary:  
->A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
-
-</details>
-</details>
-
 
 <details>
 <summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915</summary>  
