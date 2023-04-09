@@ -114,6 +114,7 @@ By [Sarah Winman](https://en.wikipedia.org/wiki/Sarah_Winman) and [and interview
 <summary>Reading Notes and 3rd Party Reviews:</summary>
 
 Reading Notes:  
+>A meager stain in the corridors of history, that's all we are. A little mark of scuff.  
 
 
 3rd Party Summaries:  
