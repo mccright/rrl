@@ -804,7 +804,11 @@ https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/
 Text: https://archive.org/details/ageelizabeth07creigoog    
 By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 - 1901)  
 <details>
-<summary> Librivox Summary:</summary>  
+<summary>Reader Notes and Librivox Summary:</summary>  
+
+Reader Notes:  
+
+Librivox Summary:  
 >This short history by the eminent British historian, Mandell Creighton, places Elizabeth and her reign within the context of 16th century European political, religious, and military events. Elizabeth overcomes her two great rivals, King Philip of Spain and Mary, Queen of Scots. England gradually unites behind her Queen, who survives multiple assassination plots. After the defeat of the Spanish Armada, the English, lightly taxed by their frugal sovereign, launch flourishing commerce enterprises. The author writes of the Protestant Reformation that "a change of belief meant a revolt from authority." In this age of individualism, personal daring, and a consciousness of national greatness, the golden age of Elizabethan literature breaks new ground in historiography, literary theory, poetry, and above all, drama. - ([Summary by Pamela Nagami, M.D.](https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/))  
 
 </details>
