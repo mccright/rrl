@@ -13,14 +13,10 @@ Text at: https://www.gutenberg.org/etext/432
 By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world...  
 Summary from Librivox:  
-Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  
-Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick. 
-That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser. 
-The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  
-Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  
-Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  
+>Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick.  That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser.  The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  -  Summary from: https://librivox.org/the-ambassadors-by-henry-james/
 
 </details>
 </details>
@@ -47,6 +43,7 @@ https://en.wikipedia.org/wiki/Democracy:_An_American_Novel
 By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918)  
 <details>
 <summary> Librivox Summary:</summary>  
+
 Reading Notes: A novel about timeless characters that still seem populate the elected ranks of Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
 >Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today. - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
@@ -66,6 +63,7 @@ By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (179
 Translated by [Ellen Marriage]() (1865 - 1946)  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues of 18th/19th century female stereotypes and related derogatory terms.  
 Summary on Librivox:  
 >“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
@@ -417,13 +415,13 @@ Summary from Librivox:
 
 ### The Age of Elizabeth. (07:35)  
 https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/  
-Text: https://archive.org/details/ageelizabeth07creigoog    
+Text: https://archive.org/details/ageelizabeth07creigoog  
 By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 - 1901)  
 <details>
 <summary>Reader Notes and Librivox Summary:</summary>  
-•
+
 Reader Notes:  
-This book invests a lot of effort in establishing some of the context surrounding the reign of Queen Elizabeth.  The evolution of religion in Germany, England, France, Spain, the Netherlands and the rise of Protestantism.  Catholic reaction to these changes.  France, England, and Scotland.  Key personalities involved.  The Jesuits, and more.  It was an enjoyable listen and I *learned* a lot.  The author builds a confident narrative throughout.  But it is important to keep in mind that this book was published in 1875, and more current examinations of this period may build varying narratives...  
+This book invests a lot of effort in establishing some of the context surrounding the reign of Queen Elizabeth.  These include, but are not limited to: The evolution of religion in Germany, England, France, Spain, the Netherlands and the rise of Protestantism.  Catholic reaction to these changes.  France, England, and Scotland.  Key personalities involved.  The Jesuits, and more.  It was an enjoyable listen and I *learned* a lot.  The author builds a confident narrative throughout.  But it is important to keep in mind that this book was published in 1875, and more current examinations of this period may build varying narratives...  
 Librivox Summary:  
 >This short history by the eminent British historian, Mandell Creighton, places Elizabeth and her reign within the context of 16th century European political, religious, and military events. Elizabeth overcomes her two great rivals, King Philip of Spain and Mary, Queen of Scots. England gradually unites behind her Queen, who survives multiple assassination plots. After the defeat of the Spanish Armada, the English, lightly taxed by their frugal sovereign, launch flourishing commerce enterprises. The author writes of the Protestant Reformation that "a change of belief meant a revolt from authority." In this age of individualism, personal daring, and a consciousness of national greatness, the golden age of Elizabethan literature breaks new ground in historiography, literary theory, poetry, and above all, drama. - ([Summary by Pamela Nagami, M.D.](https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/))  
 
@@ -451,7 +449,9 @@ Text: https://www.gutenberg.org/ebooks/58184
 By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%C3%A9tis) (1784 - 1871)   
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: If you are interested in the history of violin, viola or guitar, or of Nicolo Paganini, this may be a useful and enjoyable book.  
+Librivox Summary:  
 >Niccolò (or Nicolò) Paganini (1782 – 1840) was an Italian violinist, violist, guitarist, and composer. He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique. François-Joseph Fétis (1784 – 1871) was a Belgian musicologist, composer, teacher, and one of the most influential music critics of the 19th century. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
 
 </details>
@@ -468,13 +468,14 @@ By [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) (1875 
 Translated by [Jessie Lemont](https://en.wikisource.org/wiki/Author:Jessie_Lemont) (1862 - 1947)  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes:  This is not a traditional biography.  It is worth a couple hours while pulling weeds, gardening, dusting, etc. but I cannot recommend it to anyone wanting a 'traditional' biography of Rodin or a review of his artistic work.   
 Librivox Summary:  
 >Rodin has pronounced Rilke's essay the supreme interpretation of his work. (From the translators’ Preface)  
 
-Auguste Rodin, 1840-1917, was a French sculptor. Although Rodin is generally considered the progenitor of modern sculpture, he did not set out to rebel against the past. He was schooled traditionally, took a craftsman-like approach to his work, and desired academic recognition, although he was never accepted into Paris's foremost school of art. Sculpturally, Rodin possessed a unique ability to model a complex, turbulent, deeply pocketed surface in clay. … Rodin… modeled the human body with realism, and celebrated individual character and physicality. From the unexpected realism of his first major figure… to the unconventional memorials whose commissions he later sought, Rodin's reputation grew, such that he became the preeminent French sculptor of his time. By 1900, he was a world-renowned artist.  
+>Auguste Rodin, 1840-1917, was a French sculptor. Although Rodin is generally considered the progenitor of modern sculpture, he did not set out to rebel against the past. He was schooled traditionally, took a craftsman-like approach to his work, and desired academic recognition, although he was never accepted into Paris's foremost school of art. Sculpturally, Rodin possessed a unique ability to model a complex, turbulent, deeply pocketed surface in clay. … Rodin… modeled the human body with realism, and celebrated individual character and physicality. From the unexpected realism of his first major figure… to the unconventional memorials whose commissions he later sought, Rodin's reputation grew, such that he became the preeminent French sculptor of his time. By 1900, he was a world-renowned artist.  
 
-Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke’s] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
+>Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke’s] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
 
 </details>
 </details>
@@ -490,6 +491,7 @@ By [Shota Rustaveli](https://en.wikipedia.org/wiki/Shota_Rustaveli) (1172 - 1216
 Translated by Marjory Wardrop (1869 - 1909)  
 <details>
 <summary>Reading and Librivox Summary:</summary>  
+
 Reading Summary: I recommend reading the [Wikipedia background and overview](https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin) to provide some background.  This *epic poem* written in the middle ages Georgian empire is not represented in any category of my normal recreational reading or formal education and I was completely without context.  
 Librivox Summary:  
 >Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by *Beeswaxcandle*](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
@@ -506,6 +508,7 @@ Text: https://www.gutenberg.org/ebooks/51814
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  NOTE: There are issues of race/ethnicity in "Preferred Risk", particularly Italian stereotypes and derogatory terms.  
 Librivox Summary:  
 >The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
@@ -550,6 +553,7 @@ https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night
 By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: The characters are unevenly developed.  The technology is clearly linked to what was 'normal' in the early 20th century though 230 years have passed.  But the story keeps moving and it is a pleasure listening to the reader, [Kate Follis](https://librivox.org/reader/11007?primary_key=11007&search_category=reader&search_page=1&search_form=get_results).  Finally, this story ends relatively abruptly -- almost ...'and then they lived happily ever after.'  Too bad.  </br>.  
 Librivox Summary:  
 >An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
