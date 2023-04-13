@@ -833,7 +833,7 @@ Librivox Summary:
 </details>
 
 
-details>
+<details>
 <summary>Advance Agent. By Christopher Anvil.  1957</summary>  
 
 ### Advance Agent.  (1:20)  
