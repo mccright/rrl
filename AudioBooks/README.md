@@ -568,10 +568,14 @@ Librivox Summary:
 https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
 Text: https://www.gutenberg.org/ebooks/64903  
 By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: There are issues of race in this story-telling, particularly Native American and Black stereotypes and derogatory terms.  
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
 
+</details>  
 </details>  
 
 <details>
@@ -595,10 +599,14 @@ https://librivox.org/search-the-sky-by-frederik-pohl/
 https://en.wikipedia.org/wiki/Search_the_Sky  
 Text: https://www.gutenberg.org/ebooks/52228  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: This mid-20th century book's main story-line is about colonization and genetics after faster-than-light travel was available to humankind.  While the author's intent was satire, the characters remain *one-dimensional*, predictable, shallow and all *surface* (*could that be the point?*).  I believe that this book may only be entertaining to those who like U.S. 1950's "*mass market*" science fiction.  
 Summary from Librivox:  
 >Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
 
+</details>
 </details>
 
 
@@ -656,6 +664,7 @@ Text: https://www.gutenberg.org/ebooks/66536
 By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: As described below, this book is primarily about the theater, the business of the theater and of a performing group and a few characteristics of the writers (*and their writing*) supporting both.  
 Librivox Summary:  
 >One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
@@ -711,7 +720,8 @@ or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext
 https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
 By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
 <details>
-<summary> Librivox and Other Summaries:</summary> 
+<summary> Librivox and Other Summaries:</summary>  
+
 Reading Notes:  
 The interesting biography of William Falconer was more enjoyable than the extensive poem.  The style and some content of the poetry may turn some off, but it includes some excellent rhymes (*think song lyrics*).  
 >"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
@@ -741,7 +751,11 @@ https://librivox.org/cato-by-joseph-addison/
 Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
 Text: https://www.gutenberg.org/ebooks/31592  
 By [Joseph Addison](https://en.wikipedia.org/wiki/Joseph_Addison) (1672 - 1719)  published 1712  
+<details>
+<summary>Reading Notes and Librivox Summary:</summary>  
+
 Listening Notes: This recording is **not** an example of the excellence that can be found across much of librivox.org.  If you want to understand this story, it may pay to [read it](https://www.gutenberg.org/ebooks/31592). I found the performance distracting from the content of the play, rather than enhancing it.  
+Other 3rd party summaries:  
 >Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death [Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy). 
 This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
 
@@ -854,7 +868,7 @@ Reader's Notes:
 
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
->Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - Summary by Paul Hampton.  
+>Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
 
 </details>
 </details>
