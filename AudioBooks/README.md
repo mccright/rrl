@@ -907,10 +907,10 @@ By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 19
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-
+This is an excellent tale read by an excellent performer.  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
->The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. (Summary by KevinS)  
+>The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. ([Summary by KevinS](https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/))  
 Wikipedia Summary:  
 https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
 
