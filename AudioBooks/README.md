@@ -884,10 +884,10 @@ By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 19
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-
+NOTE: There are issues of race in the telling of "The Sun Also Rises", particularly in a scene where the author uses derogatory and dehumanizing language in the description of a Black boxer. It is LibriVox's policy to record texts as written.  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
->The Sun Also Rises (1926) was Hemingway's first novel to be published, though there is his novella The Torrents of Spring which was published earlier in the same year. The novel describes, expressed through the voice of Jake Barnes, a short period of social life that ranges from Paris to locations in Spain. One might say that the action occurs in Pamplona, Spain with the annual festival of San Fermin and its running of bulls and subsequent days of bullfights, but one can easily argue that the real interest of the novel is in its portrayal of the group to which Barnes is a part and how he details their anxieties, frailties, hopes, and frustrations. (Summary by KevinS)  
+>The Sun Also Rises (1926) was Hemingway's first novel to be published, though there is his novella The Torrents of Spring which was published earlier in the same year. The novel describes, expressed through the voice of Jake Barnes, a short period of social life that ranges from Paris to locations in Spain. One might say that the action occurs in Pamplona, Spain with the annual festival of San Fermin and its running of bulls and subsequent days of bullfights, but one can easily argue that the real interest of the novel is in its portrayal of the group to which Barnes is a part and how he details their anxieties, frailties, hopes, and frustrations. ([Summary by KevinS](https://librivox.org/the-sun-also-rises-by-ernest-hemingway/))  
 Wikipedia Summary:  
 https://en.wikipedia.org/wiki/The_Sun_Also_Rises  
 
