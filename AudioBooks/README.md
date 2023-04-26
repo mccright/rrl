@@ -760,6 +760,7 @@ Other 3rd party summaries:
 This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
 
 </details>
+</details>
 
 <details>
 <summary>War on Peace. By Ronan Farrow, 2018</summary>
@@ -848,6 +849,66 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >  
+
+</details>
+</details>
+
+
+<details>
+<summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>  
+
+### The City at World's End.  (7:06)  
+https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
+Text: https://manybooks.net/titles/hamiltoneother05cityworldsend.html  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>  
+
+### The Legion of Lazarus (2:38)  
+https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/ebooks/32486  (from '*Imagination*' April 1956)  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)    
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Brain.  By Edmond Hamilton.  1948 </summary>  
+
+### The Brain. (5:57)  
+https://librivox.org/the-brain-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
 
 </details>
 </details>
