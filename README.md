@@ -35,3 +35,7 @@
   * Open Access Scholarly Publishers Association (OASPA) https://oaspa.org/  
   * Bloomsbury Collections: https://www.bloomsburycollections.com/search?newSearchRecord&browse&product=bloomsburyOpenAccess  
 
+### Learn More  
+* https://bookmarks.reviews/  
+* https://lithub.com/  
+* https://crimereads.com/  
