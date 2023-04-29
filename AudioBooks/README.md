@@ -90,6 +90,27 @@ Summary from Librivox:
 </details>  
 
 <details>
+<summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>  
+
+### The Sun Also Rises.  (6:43)  
+https://librivox.org/the-sun-also-rises-by-ernest-hemingway/  
+Text: https://www.fadedpage.com/showbook.php?pid=20150622  
+By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Sun_Also_Rises). 
+NOTE: There are issues of race and religion in the telling of "The Sun Also Rises", particularly where the author uses derogatory and dehumanizing language in the description of a Black boxer and a character of the Jewish faith. It is LibriVox's policy to record texts as written.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The Sun Also Rises (1926) was Hemingway's first novel to be published, though there is his novella The Torrents of Spring which was published earlier in the same year. The novel describes, expressed through the voice of Jake Barnes, a short period of social life that ranges from Paris to locations in Spain. One might say that the action occurs in Pamplona, Spain with the annual festival of San Fermin and its running of bulls and subsequent days of bullfights, but one can easily argue that the real interest of the novel is in its portrayal of the group to which Barnes is a part and how he details their anxieties, frailties, hopes, and frustrations. ([Summary by KevinS](https://librivox.org/the-sun-also-rises-by-ernest-hemingway/))  
+Wikipedia Summary:  
+https://en.wikipedia.org/wiki/The_Sun_Also_Rises  
+
+</details>
+</details>
+
+<details>
 <summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>  
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -933,28 +954,6 @@ Librivox Summary:
 
 </details>
 </details>
-
-<details>
-<summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>  
-
-### The Sun Also Rises.  (6:43)  
-https://librivox.org/the-sun-also-rises-by-ernest-hemingway/  
-Text: https://www.fadedpage.com/showbook.php?pid=20150622  
-By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Sun_Also_Rises). 
-NOTE: There are issues of race and religion in the telling of "The Sun Also Rises", particularly where the author uses derogatory and dehumanizing language in the description of a Black boxer and a character of the Jewish faith. It is LibriVox's policy to record texts as written.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->The Sun Also Rises (1926) was Hemingway's first novel to be published, though there is his novella The Torrents of Spring which was published earlier in the same year. The novel describes, expressed through the voice of Jake Barnes, a short period of social life that ranges from Paris to locations in Spain. One might say that the action occurs in Pamplona, Spain with the annual festival of San Fermin and its running of bulls and subsequent days of bullfights, but one can easily argue that the real interest of the novel is in its portrayal of the group to which Barnes is a part and how he details their anxieties, frailties, hopes, and frustrations. ([Summary by KevinS](https://librivox.org/the-sun-also-rises-by-ernest-hemingway/))  
-Wikipedia Summary:  
-https://en.wikipedia.org/wiki/The_Sun_Also_Rises  
-
-</details>
-</details>
-
 
 
 <details>
