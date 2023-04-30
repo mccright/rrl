@@ -926,7 +926,7 @@ By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-
+In the context of the current AI mania, this story may resonate for some...  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
