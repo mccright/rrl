@@ -317,6 +317,45 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>The Brain.  By Edmond Hamilton.  1948 </summary>  
+
+### The Brain. (5:57)  
+https://librivox.org/the-brain-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+In the context of the current AI mania, this story may resonate for some...  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
+
+</details>
+</details>
+
+<details>
+<summary>Advance Agent. By Christopher Anvil.  1957</summary>  
+
+### Advance Agent.  (1:20)  
+https://librivox.org/advance-agent-by-christopher-anvil/  
+Text: https://gutenberg.org/ebooks/51273  
+By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
+(published in "Galaxy Science Fiction." February 1957)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
+
+</details>
+</details>
+
+<details>
 <summary>The Best Church Hymns. 1898</summary>  
 
 ### The Best Church Hymns. (1:38)  
@@ -910,47 +949,6 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Brain.  By Edmond Hamilton.  1948 </summary>  
-
-### The Brain. (5:57)  
-https://librivox.org/the-brain-by-edmond-hamilton/  
-Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-In the context of the current AI mania, this story may resonate for some...  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Advance Agent. By Christopher Anvil.  1957</summary>  
-
-### Advance Agent.  (1:20)  
-https://librivox.org/advance-agent-by-christopher-anvil/  
-Text: https://gutenberg.org/ebooks/51273  
-By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
-(published in "Galaxy Science Fiction." February 1957)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
 
 </details>
 </details>
