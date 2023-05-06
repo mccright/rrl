@@ -186,6 +186,10 @@ Reading Notes:
 </details>
 </details>
 
+### A Modest Proposal -- For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick.  1729  
+https://www.gutenberg.org/ebooks/1080  
+By Dr. [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift)  (1667-1745)  
+https://en.wikipedia.org/wiki/A_Modest_Proposal  
 
 ### The Myths of Mexico & Peru   1913  
 https://www.gutenberg.org/ebooks/53080  
