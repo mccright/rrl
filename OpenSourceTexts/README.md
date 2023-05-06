@@ -186,10 +186,41 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>A Modest Proposal.  By Dr. Jonathan Swift  1729 </summary>  
 ### A Modest Proposal -- For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick.  1729  
 https://www.gutenberg.org/ebooks/1080  
 By Dr. [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift)  (1667-1745)  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  
+
+3rd Party Summaries:  
 https://en.wikipedia.org/wiki/A_Modest_Proposal  
+Librivox Summary:  
+>Jonathan Swift almost defines satire in this biting and brutal pamphlet in which he suggests that poor (Catholic) Irish families should fatten up their children and sell them to the rich (Protestant) land owners, thus solving the twin problems of starving children and poverty in one blow. When the “Proposal” was published in 1729, Swift was quickly attacked, and even accused of barbarity – the exact state the “Proposal” was written to expose. [Summary by Hugh](https://librivox.org/a-modest-proposal-by-jonathan-swift/)  
+
+</details>
+</details>
+
+
+<details>
+<summary> </summary>  
+###   
+  
+By []()  ( – )  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  
+
+3rd Party Summaries:  
+
+</details>
+</details>
+
+   
 
 ### The Myths of Mexico & Peru   1913  
 https://www.gutenberg.org/ebooks/53080  
