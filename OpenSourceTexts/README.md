@@ -206,26 +206,21 @@ Librivox Summary:
 
 
 <details>
-<summary> </summary>  
-###   
-  
-By []()  ( – )  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
-
-Reading Notes:  
-
-3rd Party Summaries:  
-
-</details>
-</details>
-
-   
+<summary>The Myths of Mexico & Peru.  By Lewis Spence.   1913</summary>  
 
 ### The Myths of Mexico & Peru   1913  
 https://www.gutenberg.org/ebooks/53080  
 By [Lewis Spence]()  (1874-1955)  
 Illustrators: [Gilbert James]() and [William Sewell]()  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+</details>
+</details>
+
+
+<details>
+<summary>One of the books on Islam by Syed Ameer Ali from the early 20th century </summary>  
 
 ### Islâm  1909  
 https://www.gutenberg.org/ebooks/70136  
@@ -245,6 +240,24 @@ By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)
 ### The Legal Position of Women in Islam  1912  
 https://archive.org/details/dli.granth.87988  
 By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)  
+
+</details>
+
+<details>
+<summary> </summary>  
+###   
+  
+By []()  ( – )  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  
+
+3rd Party Summaries:  
+
+</details>
+</details>
+
 
 ### The Russian Story Book -- Containing tales from the song-cycles of Kiev and Novgorod and other early sources  
 https://www.gutenberg.org/ebooks/48605  
