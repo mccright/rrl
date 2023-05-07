@@ -111,6 +111,27 @@ https://en.wikipedia.org/wiki/The_Sun_Also_Rises
 </details>
 
 <details>
+<summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
+
+### The Torrents of Spring.  (2:10)
+https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
+Text: https://www.fadedpage.com/showbook.php?pid=20210135   
+By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+Although this book incorporates humor throughout, it was not a *happy* read for me.  It is about a tough time in a tough (*Northwest Michigan*) place and the author expresses his (*or the character's*) energetic prejudices in story-lines that include a Black man and Native Americans.  
+Reader's Notes:  
+This is an excellent tale read by an excellent performer.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. ([Summary by KevinS](https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/))  
+Wikipedia Summary:  
+https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
+
+</details>
+</details>
+
+<details>
 <summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>  
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -837,7 +858,7 @@ The interesting biography of William Falconer was more enjoyable than the extens
 https://librivox.org/the-awakening-by-kate-chopin/ 
 https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
 By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
-Publication date: 22 April 1900 (first edition was 1899)  
+Publication date: 22 April 1900 (first edition was 1899 or earlier)  
 
 </details>
 
@@ -947,28 +968,6 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
-
-### The Torrents of Spring.  (2:10)
-https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
-Text: https://www.fadedpage.com/showbook.php?pid=20210135   
-By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This is an excellent tale read by an excellent performer.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. ([Summary by KevinS](https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/))  
-Wikipedia Summary:  
-https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
 
 </details>
 </details>
