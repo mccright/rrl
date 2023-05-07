@@ -279,7 +279,7 @@ By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 197
 https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
 Text: https://www.gutenberg.org/ebooks/47671  
 By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
-Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.    
+Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.  
 Summary from Librivox:  
 >A woman, Kirstie Craig and her daughter Miranda take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
 
@@ -296,6 +296,25 @@ By [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) (1868 - 1936
 Summary from Librivox:  
 >Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
 
+</details>
+
+<details>
+<summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>  
+
+### The City at World's End.  (7:06)  
+https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
+Text: https://manybooks.net/titles/hamiltoneother05cityworldsend.html  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+This is an interesting application of space-time science current in the mid-20th century via *popular* science fiction of the time.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
+
+</details>
 </details>
 
 <details>
@@ -909,26 +928,6 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >  
-
-</details>
-</details>
-
-
-<details>
-<summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>  
-
-### The City at World's End.  (7:06)  
-https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
-Text: https://manybooks.net/titles/hamiltoneother05cityworldsend.html  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This is an interesting application of space-time science current in the mid-20th century via *popular* science fiction of the time.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
 
 </details>
 </details>
