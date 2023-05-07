@@ -944,7 +944,7 @@ By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-
+This is a *quick* story that depends on [*extrasensory perception* (ESP)](https://en.wikipedia.org/wiki/Extrasensory_perception) powers that are gained when convicted criminals are resuscitated after a 50-year '*death sentence*' (*served in space without any type of life support*) is completed.  If that is too much for you, this is not your short story.  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
