@@ -447,6 +447,25 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>  
+
+### The Legion of Lazarus (2:38)  
+https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/ebooks/32486  (from '*Imagination*' April 1956)  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)    
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+This is a *quick* story about the search for a very rare mineral in the asteroid belt in order to help finish the first *star-ship*.  [*Extrasensory perception* (ESP)](https://en.wikipedia.org/wiki/Extrasensory_perception) powers that are gained when convicted criminals are resuscitated after a 50-year '*death sentence*' (*served in space without any type of life support*) is completed are a foundational device used to drive this story forward.  If that is too much for you, this is not your short story.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
+
+</details>
+</details>
+
+<details>
 <summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
 
 ### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
@@ -928,26 +947,6 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>  
-
-### The Legion of Lazarus (2:38)  
-https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/  
-Text: https://www.gutenberg.org/ebooks/32486  (from '*Imagination*' April 1956)  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)    
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This is a *quick* story that depends on [*extrasensory perception* (ESP)](https://en.wikipedia.org/wiki/Extrasensory_perception) powers that are gained when convicted criminals are resuscitated after a 50-year '*death sentence*' (*served in space without any type of life support*) is completed.  If that is too much for you, this is not your short story.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
 
 </details>
 </details>
