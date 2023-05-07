@@ -925,7 +925,7 @@ By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-
+This is an interesting application of space-time science current in the mid-20th century via *popular* science fiction of the time.  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
