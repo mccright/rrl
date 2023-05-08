@@ -23,6 +23,33 @@ General Dru remakes the U.S. as a more fair society with a smaller and more resp
 At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
 One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
 
+<details>
+<summary>The shipwreck. By William Falconer.  1762 </summary>  
+
+### The shipwreck.  1762  
+https://www.gutenberg.org/ebooks/69336  
+or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext  
+https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/
+By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  
+The interesting biography of William Falconer was more enjoyable than the extensive poem.  The style and some content of the poetry may turn some off, but it includes some excellent rhymes (*think song lyrics*).  
+3rd Party Summaries:  
+"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
+Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
+*supported by*  
+#### An Universal Dictionary of the Marine.  1769  
+https://www.gutenberg.org/ebooks/57705  
+By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+
+</details>
+</details>
+
+
 ### Anchorite.  1962  
 https://www.gutenberg.org/ebooks/23561  
 Audio at: https://librivox.org/anchorite-by-randall-garrett/  
@@ -139,32 +166,6 @@ Reading Notes:
 
 Librivox Summary:  
 >GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
-
-</details>
-</details>
-
-<details>
-<summary>The shipwreck. By William Falconer.  1762 </summary>  
-
-### The shipwreck.  1762  
-https://www.gutenberg.org/ebooks/69336  
-or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext  
-https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
-Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/
-By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
-
-Reading Notes:  
-
-3rd Party Summaries:  
-"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
-[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
-Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
-*supported by*  
-#### An Universal Dictionary of the Marine.  1769  
-https://www.gutenberg.org/ebooks/57705  
-By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
 
 </details>
 </details>
