@@ -955,6 +955,28 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 
 
 <details>
+<summary>Man of Many Minds. By E. Everett Evans  1959 </summary>  
+
+### Man of Many Minds.  1959  (7:13)  
+https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
+Text: https://www.gutenberg.org/ebooks/19660  
+https://en.wikipedia.org/wiki/Man_of_Many_Minds  
+By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
+Pyramid Books edition: November, 1959  
+
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  
+
+Librivox Summary:  
+>GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
+
+</details>
+</details>
+
+
+<details>
 <summary> </summary>  
 
 ###   
