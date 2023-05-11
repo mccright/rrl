@@ -994,6 +994,27 @@ Librivox Summary:
 </details>
 </details>
 
+
+<details>
+<summary>No. 17 (Number Seventeen).  By J. Jefferson Farjeon. 1926 </summary>  
+
+### No. 17 (Number Seventeen)  (5:37)  
+https://librivox.org/no-17-by-joseph-jefferson-farjeon/  
+Text: https://catalog.hathitrust.org/Record/000781052  
+By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+</details>
+
 <details>
 <summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>  
 
