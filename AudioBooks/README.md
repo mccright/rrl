@@ -994,6 +994,26 @@ Librivox Summary:
 </details>
 </details>
 
+<details>
+<summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>  
+
+### The Small Bachelor  (6:36)  
+https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
+Text: https://archive.org/details/smallbachelor0000unse/  
+By [P. G. Wodehouse](https://en.wikipedia.org/wiki/P._G._Wodehouse) (1881 - 1975)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest. ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor  
+
+</details>
+</details>
+
 
 <details>
 <summary>Men Without Women. By Ernest Hemingway. 1927</summary>  
