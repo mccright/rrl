@@ -996,6 +996,47 @@ Librivox Summary:
 
 
 <details>
+<summary>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>  
+
+### The Basis Of Morality.  (7:19)  
+https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/  
+Text: https://www.gutenberg.org/ebooks/44929  
+By [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788 - 1860)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>In 1837, the Danish Royal Society of Sciences offered a prize to any essayist who could satisfactorily answer the question, "Is the fountain and basis of Morals to be sought for in an idea of morality which lies directly in the consciousness (or conscience), and in the analysis of the other leading ethical conceptions which arise from it? Or is it to be found in some other source of knowledge?" The Basis of Morality is the essay submitted in 1840 by German philosopher Arthur Schopenhauer. In it, he first mercilessly deconstructs the prevailing Western theory of morality as championed by Immanuel Kant, among others, before establishing a series of maxims and thought experiments which lead him to a conclusion which points squarely at compassion as the cardinal virtue upon which all morality rests. In the appendix to this essay, he links his own conclusion with the conclusions reached millennia earlier by the authors of the Vedas and Upanishads. The essay was ultimately rejected for the prize despite being the only entry, a minor scandal with some speculation that the result was due in no small part to Schopenhauer's onslaught against Hegel—the judge of the contest being the author of a Hegelian theory of morals. ([Summary by Jeffrey Allen Stumpf](https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/On_the_Basis_of_Morality  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>  
+
+### The Book of Tea.  (2:09)  
+https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
+Text: https://www.gutenberg.org/ebooks/769  
+By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author’s first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
+</details>
+</details>
+
+
+<details>
 <summary>No. 17 (Number Seventeen).  By J. Jefferson Farjeon. 1926 </summary>  
 
 ### No. 17 (Number Seventeen)  (5:37)  
@@ -1031,6 +1072,27 @@ Librivox and Other 3rd Party Summaries:
 Librivox Summary:  
 >Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest. ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Nature and Authority of Conscience. </summary>  
+
+### The Nature and Authority of Conscience. (1:48)  
+https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/  
+Text: https://archive.org/details/thenatureandauth00joneuoft/page/n5/mode/2up  
+Text#2: https://babel.hathitrust.org/cgi/pt?id=yale.39002088440970&view=1up&seq=5  
+By [Rufus Jones](https://en.wikipedia.org/wiki/Rufus_Jones_(writer))  (1863 - 1948)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:   
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Rufus Matthew Jones (January 25, 1863 – June 16, 1948) was an American religious leader, writer, magazine editor, philosopher, and college professor. He was instrumental in the establishment of the Haverford Emergency Unit (a precursor to the American Friends Service Committee). One of the most influential Quakers of the 20th century, he was a Quaker historian and theologian as well as a philosopher. In 1917 he helped found the American Friends Service Committee. This work was delivered as a Swarthmore Lecture in August 1920 and was printed by the Swarthmore Press Ltd. ([Summary by Wikipedia & John Greenman](https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/))  
 
 </details>
 </details>
