@@ -967,8 +967,8 @@ Pyramid Books edition: November, 1959
 <details>
 <summary>Reading Notes and 3rd Party Summaries</summary>  
 
-Reading Notes:  
-
+Reading Notes:   
+I agree that "old-school space opera" is a good description -- in the context of juvenile/young adult fiction.  But this book's mostly *wooden* characters remind me of "I Spy" in their shallow lack of development.  The author builds a future where Earth's colonization of many worlds seems to have emphasized transplanting some of humankind's worst tendencies...  The story maintains just enough forward motion to keep me engaged (*while doing yard work and house work*).  It may not be worth your time, as there are so many other good books...  
 Librivox Summary:  
 >GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
 
