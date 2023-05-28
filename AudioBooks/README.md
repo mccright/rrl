@@ -376,6 +376,26 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>No. 17 (Number Seventeen).  By J. Jefferson Farjeon. 1926 </summary>  
+
+### No. 17 (Number Seventeen)  (5:37)  
+https://librivox.org/no-17-by-joseph-jefferson-farjeon/  
+Text: https://catalog.hathitrust.org/Record/000781052  
+By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+See the Wikipedia summary.  It was worth its runtime to me.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+</details>
+
+<details>
 <summary>Advance Agent. By Christopher Anvil.  1957</summary>  
 
 ### Advance Agent.  (1:20)  
@@ -387,11 +407,31 @@ By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  
+This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
 
+</details>
+</details>
+
+<details>
+<summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>  
+
+### The Book of Tea.  (2:09)  
+https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
+Text: https://www.gutenberg.org/ebooks/769  
+By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+This is an interesting book.  See the Wikipedia and Teixeria reviews below...
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author’s first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
+Review by Leo Teixeira: https://teixeiras.medium.com/live-in-the-present-with-the-ancient-tradition-of-teaism-ef5016b429cc  
 </details>
 </details>
 
@@ -773,6 +813,26 @@ Librivox Summary:
 </details>
 </details>
 
+<details>
+<summary>Man of Many Minds. By E. Everett Evans  1959 </summary>  
+
+### Man of Many Minds.  1959  (7:13)  
+https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
+Text: https://www.gutenberg.org/ebooks/19660  
+https://en.wikipedia.org/wiki/Man_of_Many_Minds  
+By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
+Pyramid Books edition: November, 1959  
+
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:   
+I agree that "old-school space opera" is a good description -- in the context of juvenile/young adult fiction.  But this book's mostly *wooden* characters remind me of "I Spy" in their shallow lack of development.  The author builds a future where Earth's colonization of many worlds seems to have emphasized transplanting some of humankind's worst tendencies...  The story maintains just enough forward motion to keep me engaged (*while doing yard work and house work*).  It may not be worth your time, as there are so many other good books...  
+Librivox Summary:  
+>GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
+
+</details>
+</details>
 
 <details>
 <summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
@@ -930,6 +990,26 @@ Librivox Summary:
 </details>
 </details>
 
+<details>
+<summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>  
+
+### The Small Bachelor  (6:36)  
+https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
+Text: https://archive.org/details/smallbachelor0000unse/  
+By [P. G. Wodehouse](https://en.wikipedia.org/wiki/P._G._Wodehouse) (1881 - 1975)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+Unfortunately, the reader's performance in this recording was unique in a way that was almost *repulsive* to me (*it may not be so to you*)...  I listened to more than 10% of the book before giving up.  I may read the text.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest. ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor  
+
+</details>
+</details>
+
 
   
 
@@ -953,27 +1033,6 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 </details>
 </details>
 
-
-<details>
-<summary>Man of Many Minds. By E. Everett Evans  1959 </summary>  
-
-### Man of Many Minds.  1959  (7:13)  
-https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
-Text: https://www.gutenberg.org/ebooks/19660  
-https://en.wikipedia.org/wiki/Man_of_Many_Minds  
-By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
-Pyramid Books edition: November, 1959  
-
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
-
-Reading Notes:   
-I agree that "old-school space opera" is a good description -- in the context of juvenile/young adult fiction.  But this book's mostly *wooden* characters remind me of "I Spy" in their shallow lack of development.  The author builds a future where Earth's colonization of many worlds seems to have emphasized transplanting some of humankind's worst tendencies...  The story maintains just enough forward motion to keep me engaged (*while doing yard work and house work*).  It may not be worth your time, as there are so many other good books...  
-Librivox Summary:  
->GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
-
-</details>
-</details>
 
 
 <details>
@@ -1011,67 +1070,6 @@ Librivox and Other 3rd Party Summaries:
 Librivox Summary:  
 >In 1837, the Danish Royal Society of Sciences offered a prize to any essayist who could satisfactorily answer the question, "Is the fountain and basis of Morals to be sought for in an idea of morality which lies directly in the consciousness (or conscience), and in the analysis of the other leading ethical conceptions which arise from it? Or is it to be found in some other source of knowledge?" The Basis of Morality is the essay submitted in 1840 by German philosopher Arthur Schopenhauer. In it, he first mercilessly deconstructs the prevailing Western theory of morality as championed by Immanuel Kant, among others, before establishing a series of maxims and thought experiments which lead him to a conclusion which points squarely at compassion as the cardinal virtue upon which all morality rests. In the appendix to this essay, he links his own conclusion with the conclusions reached millennia earlier by the authors of the Vedas and Upanishads. The essay was ultimately rejected for the prize despite being the only entry, a minor scandal with some speculation that the result was due in no small part to Schopenhauer's onslaught against Hegel—the judge of the contest being the author of a Hegelian theory of morals. ([Summary by Jeffrey Allen Stumpf](https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/))  
 Wikipedia Summary: https://en.wikipedia.org/wiki/On_the_Basis_of_Morality  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>  
-
-### The Book of Tea.  (2:09)  
-https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
-Text: https://www.gutenberg.org/ebooks/769  
-By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author’s first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
-</details>
-</details>
-
-
-<details>
-<summary>No. 17 (Number Seventeen).  By J. Jefferson Farjeon. 1926 </summary>  
-
-### No. 17 (Number Seventeen)  (5:37)  
-https://librivox.org/no-17-by-joseph-jefferson-farjeon/  
-Text: https://catalog.hathitrust.org/Record/000781052  
-By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
-Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
-
-</details>
-</details>
-
-<details>
-<summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>  
-
-### The Small Bachelor  (6:36)  
-https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
-Text: https://archive.org/details/smallbachelor0000unse/  
-By [P. G. Wodehouse](https://en.wikipedia.org/wiki/P._G._Wodehouse) (1881 - 1975)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest. ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor  
 
 </details>
 </details>
