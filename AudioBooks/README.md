@@ -66,7 +66,7 @@ Translated by [Ellen Marriage]() (1865 - 1946)
 
 Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues of 18th/19th century female stereotypes and related derogatory terms.  
 Summary on Librivox:  
->“The Chouans” (1829) was the first novel published under Balzac’s own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac’s novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today’s novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
+>“The Chouans” (1829) was the first novel published under Balzac's own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac's novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today's novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
 
 </details>
 </details>  
@@ -260,7 +260,7 @@ Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_Ge
 <details>
 <summary> Librivox Summary:</summary>  
 
->Simple and unpretentious as a statement by Francis d’Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
+>Simple and unpretentious as a statement by Francis d'Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
 
 </details>
 </details>
@@ -351,7 +351,27 @@ By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1
 Reading Notes: This 1912-version of a *feelgood romance* also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.  
 LibraryThing Reviews:  [https://www.librarything.com/work/449936/reviews](https://www.librarything.com/work/449936/reviews)  
 Summary from Librivox:  
->David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester’s perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester’s love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
+>David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester's perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester's love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
+
+</details>
+</details>
+
+<details>
+<summary>The Freelands. By John Galsworthy. 1914 </summary>  
+
+### The Freelands  (9:51)  
+https://librivox.org/freelands-by-john-galsworthy/  
+Text: https://www.gutenberg.org/ebooks/2309  
+By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
+
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. (Summary by Simon Evers)  
 
 </details>
 </details>
@@ -429,7 +449,7 @@ Reader's Notes:
 This is an interesting book.  See the Wikipedia and Teixeria reviews below...
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
->The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author’s first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
+>The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author's first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
 Review by Leo Teixeira: https://teixeiras.medium.com/live-in-the-present-with-the-ancient-tradition-of-teaism-ef5016b429cc  
 </details>
@@ -630,11 +650,11 @@ Translated by [Jessie Lemont](https://en.wikisource.org/wiki/Author:Jessie_Lemon
 
 Reading Notes:  This is not a traditional biography.  It is worth a couple hours while pulling weeds, gardening, dusting, etc. but I cannot recommend it to anyone wanting a 'traditional' biography of Rodin or a review of his artistic work.   
 Librivox Summary:  
->Rodin has pronounced Rilke's essay the supreme interpretation of his work. (From the translators’ Preface)  
+>Rodin has pronounced Rilke's essay the supreme interpretation of his work. (From the translators' Preface)  
 
 >Auguste Rodin, 1840-1917, was a French sculptor. Although Rodin is generally considered the progenitor of modern sculpture, he did not set out to rebel against the past. He was schooled traditionally, took a craftsman-like approach to his work, and desired academic recognition, although he was never accepted into Paris's foremost school of art. Sculpturally, Rodin possessed a unique ability to model a complex, turbulent, deeply pocketed surface in clay. … Rodin… modeled the human body with realism, and celebrated individual character and physicality. From the unexpected realism of his first major figure… to the unconventional memorials whose commissions he later sought, Rodin's reputation grew, such that he became the preeminent French sculptor of his time. By 1900, he was a world-renowned artist.  
 
->Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke’s] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
+>Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke's] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
 
 </details>
 </details>
@@ -985,7 +1005,7 @@ By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) 
 
 Reading Notes:  I invested an hour into this book and could not justify continuing.  It is just not a "*type*" that I enjoy or that I believe has enough positive content that I might learn from.  
 Librivox Summary:  
->A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There’s a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It’s all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
+>A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There's a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It's all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
 
 </details>
 </details>
@@ -1118,27 +1138,6 @@ https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)
 
 
 <details>
-<summary>The Freelands. By John Galsworthy. 1914 </summary>  
-
-### The Freelands  (9:51)  
-https://librivox.org/freelands-by-john-galsworthy/  
-Text: https://www.gutenberg.org/ebooks/2309  
-By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
-
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the ‘land question’ which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. (Summary by Simon Evers)  
-
-</details>
-</details>
-
-
-<details>
 <summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915</summary>  
 
 ### A Far Country. (19:48)  
@@ -1216,7 +1215,7 @@ Librivox Summary:
 <details>
 <summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
-### His Name Is George Floyd: One Man’s Life and the Struggle for Racial Justice  
+### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=19&cn=468652  
 By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
 OverDrive MP3 Audiobook audiobook-mp3 390001596  
