@@ -618,6 +618,19 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
+
+### Sentimental Education (17:11)  
+https://librivox.org/sentimental-education-by-gustave-flaubert/  
+https://en.wikipedia.org/wiki/Sentimental_Education  
+Text: [Vol 1](https://www.gutenberg.org/ebooks/34828) and [Vol 2](https://www.gutenberg.org/ebooks/27537)  
+By [Gustave Flaubert](http://en.wikipedia.org/wiki/Gustave_Flaubert) (1821 - 1880)  
+Librivox Summary:  
+>Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
+
+</details>  
+
+<details>
 <summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
 
 ### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
@@ -1180,19 +1193,6 @@ Translated by [Charlotte Jordan Brewster](http://es.wikipedia.org/wiki/Charlotte
 https://en.wikipedia.org/wiki/Charlotte_Brewster_Jordan  
 Summary from Librivox:  
 >The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
-
-</details>  
-
-<details>
-<summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
-
-### Sentimental Education (17:11)  
-https://librivox.org/sentimental-education-by-gustave-flaubert/  
-https://en.wikipedia.org/wiki/Sentimental_Education  
-Text: [Vol 1](https://www.gutenberg.org/ebooks/34828) and [Vol 2](https://www.gutenberg.org/ebooks/27537)  
-By [Gustave Flaubert](http://en.wikipedia.org/wiki/Gustave_Flaubert) (1821 - 1880)  
-Librivox Summary:  
->Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
 
 </details>  
 
