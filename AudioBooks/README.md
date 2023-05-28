@@ -505,8 +505,6 @@ Librivox Summary:
 </details>
 </details>
 
-
-
 <details>
 <summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
@@ -693,6 +691,19 @@ Librivox Summary:
 >The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
 
 </details>
+</details>
+
+<details>
+<summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
+
+### Scientific American Supplement, No. 492, June 6, 1885  (4:29)  
+https://librivox.org/scientific-american-suppl492-june-6-1885/  
+Text: https://www.gutenberg.org/ebooks/12490  
+Reading Notes:  
+This is an unusual view into some of what was interesting to a subset of Americans in 1885.  
+Librivox Summary:  
+>The Scientific American may be the oldest continuously published periodical in the United States, havinge launched its first publication in 1845. It has been a mainstay of popular science with in depth articles across a broad spectrum of scientific fields. In this supplement are short articles ranging through such topics as Pumping Machinery, The Distillation of Sea Water, Winter and the Insects, Silk Worm Eggs, and The Casino at Monte Carlo. - [Summary by Larry Wilson](https://librivox.org/scientific-american-suppl492-june-6-1885/)  
+
 </details>
 
 <details>
@@ -1156,17 +1167,6 @@ Librivox Summary:
 </details>
 </details>
 
-
-<details>
-<summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
-
-### Scientific American Supplement, No. 492, June 6, 1885  (4:29)  
-https://librivox.org/scientific-american-suppl492-june-6-1885/  
-Text: https://www.gutenberg.org/ebooks/12490  
-Librivox Summary:  
->The Scientific American may be the oldest continuously published periodical in the United States, havinge launched its first publication in 1845. It has been a mainstay of popular science with in depth articles across a broad spectrum of scientific fields. In this supplement are short articles ranging through such topics as Pumping Machinery, The Distillation of Sea Water, Winter and the Insects, Silk Worm Eggs, and The Casino at Monte Carlo. - [Summary by Larry Wilson](https://librivox.org/scientific-american-suppl492-june-6-1885/)  
-
-</details>
 
 <details>
 <summary>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
