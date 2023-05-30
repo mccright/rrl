@@ -1099,6 +1099,27 @@ Librivox Summary:
 
 
 <details>
+<summary>Life and Writings of Amelia Bloomer. </summary>  
+
+###Life and Writings of Amelia Bloomer (10:22:42)  
+https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
+Text: https://www.gutenberg.org/ebooks/69953  
+Wikipedia Biography: https://en.wikipedia.org/wiki/Amelia_Bloomer  
+By Dexter C. Bloomer (1816 - 1900)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>As Mrs. Bloomer was one of the pioneers in what is sometimes called the “Woman’s Movement,” it seems right that a record of her work should be placed in durable form. Such a record I have endeavored to set forth in the following pages. While giving a brief narrative of her life, I have also included, as being most satisfactory, quite extended extracts from her writings; and one of her lectures is printed in full. - [Summary by D. C. Bloomer (preface to book)](https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/)  
+
+</details>
+</details>
+
+
+<details>
 <summary>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>  
 
 ### The Basis Of Morality.  (7:19)  
