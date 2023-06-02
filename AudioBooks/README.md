@@ -1099,9 +1099,9 @@ Librivox Summary:
 
 
 <details>
-<summary>Life and Writings of Amelia Bloomer. </summary>  
+<summary>Life and Writings of Amelia Bloomer.  1895 </summary>  
 
-###Life and Writings of Amelia Bloomer (10:22:42)  
+### Life and Writings of Amelia Bloomer (10:22:42)  
 https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
 Text: https://www.gutenberg.org/ebooks/69953  
 Wikipedia Biography: https://en.wikipedia.org/wiki/Amelia_Bloomer  
@@ -1161,7 +1161,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/On_the_Basis_of_Morality
 
 
 <details>
-<summary>The Nature and Authority of Conscience. </summary>  
+<summary>The Nature and Authority of Conscience.  1920 </summary>  
 
 ### The Nature and Authority of Conscience. (1:48)  
 https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/  
@@ -1203,7 +1203,7 @@ https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)
 
 
 <details>
-<summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915</summary>  
+<summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915 </summary>  
 
 ### A Far Country. (19:48)  
 https://librivox.org/a-far-country-by-winston-churchill/  
