@@ -1140,6 +1140,26 @@ Throughout the book, the Hubbacks use letters, journals, and other primary sourc
 
 
 <details>
+<summary>The Seven Stairs.  1962 </summary>  
+
+### The Seven Stairs.  (7:13)  
+https://librivox.org/the-seven-stairs-by-stuart-brent/  
+Text: https://www.gutenberg.org/ebooks/69175  
+By [Stuart Brent](https://stuartbrent.com/pages/about-stuart-and-the-brent-family) (1912 - 2010)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>An Autobiography of Stuart Brent, who in 1946 followed his bliss and opened an independent bookstore in Chicago, which became very popular and highly regarded. Filled with stories and anecdotes of rubbing elbows with celebrities, starting a weekly TV show in which he reviewed books, along with the challenges of finding balance with raising a family. A must read for lovers and supporters of those quirky independent bookstores. - ([Summary by Phyllis Vincelli](https://librivox.org/the-seven-stairs-by-stuart-brent/)  
+
+</details>
+</details>
+
+
+<details>
 <summary>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>  
 
 ### The Basis Of Morality.  (7:19)  
