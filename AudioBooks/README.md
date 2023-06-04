@@ -1122,19 +1122,20 @@ Librivox Summary:
 <summary>Jane Austen's Sailor Brothers.  1906 </summary>  
 
 ### Jane Austen's Sailor Brothers -- Being the Adventures of Sir Francis Austen, G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen.  (7:16)  
-https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/
-Text: https://www.gutenberg.org/ebooks/69815
+https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/  
+Text: https://www.gutenberg.org/ebooks/69815  
 By [Edith Hubback Brown](https://en.wikipedia.org/wiki/Edith_Charlotte_Brown) (1876 - 1945) and John Hubback (1844 - 1939)  
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-
+Excellent reading/performance by [Bryn Roberts](https://librivox.org/reader/18007).  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. 
 The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. 
 Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
+
 </details>
 </details>
 
@@ -1154,6 +1155,26 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >An Autobiography of Stuart Brent, who in 1946 followed his bliss and opened an independent bookstore in Chicago, which became very popular and highly regarded. Filled with stories and anecdotes of rubbing elbows with celebrities, starting a weekly TV show in which he reviewed books, along with the challenges of finding balance with raising a family. A must read for lovers and supporters of those quirky independent bookstores. - ([Summary by Phyllis Vincelli](https://librivox.org/the-seven-stairs-by-stuart-brent/)  
+
+</details>
+</details>
+
+
+<details>
+<summary>William the Third.  1888 </summary>  
+
+### William the Third. (6:21)  
+https://librivox.org/william-the-third-by-henry-duff-traill/  
+Text: https://archive.org/details/williamthird00traigoog  
+By [Henry Duff Traill](https://en.wikipedia.org/wiki/Henry_Duff_Traill) (1842 - 1900)    
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>William Henry, Prince of Orange and Nassau, Dutch William to the English, was born in a state threatened by the military ambitions of Louis XIV. “Reared from his very cradle amid the animosities of contending factions,” Traill writes, “the young Prince learned early those four lessons of statecraft,—to conceal his designs, to watch his opportunities, to choose his instruments, and to bide his time.” The Dutch Republic, distrustful of monarchs, reluctantly chose him as stadtholder to lead their armies, and then, after the overthrow of James II in 1688, he became with his consort, Mary, England’s king. ([Summary by Pamela Nagami, M.D.](https://librivox.org/william-the-third-by-henry-duff-traill/))  
 
 </details>
 </details>
