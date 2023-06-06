@@ -1129,7 +1129,9 @@ By [Edith Hubback Brown](https://en.wikipedia.org/wiki/Edith_Charlotte_Brown) (1
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-Excellent reading/performance by [Bryn Roberts](https://librivox.org/reader/18007).  
+I believe that "Jane Austen's Sailor Brothers..." will be enjoyable to [Jane Austin](https://en.wikipedia.org/wiki/Jane_Austen) fans, as well as those who loved [Patric O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)'s [Aubrey-Maturin novels](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series). Edith Hubback Brown and her father John Hubback share what appears to be well researched and carefully edited primary resources (British Naval records and family letters) to outline Francis and Charles Austen's naval education and careers, and how their experiences contributed to Jane Austen's novels.  
+Everyone should know that this is an excellent reading/performance by [Bryn Roberts](https://librivox.org/reader/18007).  His accent, emotions, pacing, and enthusiasm are exemplary and enhance this audio book tremendously.  
+
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. 
