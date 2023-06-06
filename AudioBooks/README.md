@@ -72,6 +72,29 @@ Summary on Librivox:
 </details>  
 
 <details>
+<summary>Jane Austen's Sailor Brothers.  1906 </summary>  
+
+### Jane Austen's Sailor Brothers -- Being the Adventures of Sir Francis Austen, G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen.  (7:16)  
+https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/  
+Text: https://www.gutenberg.org/ebooks/69815  
+By [Edith Hubback Brown](https://en.wikipedia.org/wiki/Edith_Charlotte_Brown) (1876 - 1945) and John Hubback (1844 - 1939)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+I believe that "Jane Austen's Sailor Brothers..." will be enjoyable to [Jane Austin](https://en.wikipedia.org/wiki/Jane_Austen) fans, as well as those who loved [Patric O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)'s [Aubrey-Maturin novels](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series). Edith Hubback Brown and her father John Hubback share what appears to be well researched and carefully edited primary resources (British Naval records and family letters) to outline Francis and Charles Austen's naval education and careers, and how their experiences contributed to Jane Austen's novels.  
+Everyone should know that this is an excellent reading/performance by [Bryn Roberts](https://librivox.org/reader/18007).  His accent, emotions, pacing, and enthusiasm are exemplary and enhance this audio book tremendously.  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. 
+The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. 
+Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
+
+</details>
+</details>
+
+<details>
 <summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
@@ -1114,29 +1137,6 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >As Mrs. Bloomer was one of the pioneers in what is sometimes called the “Woman’s Movement,” it seems right that a record of her work should be placed in durable form. Such a record I have endeavored to set forth in the following pages. While giving a brief narrative of her life, I have also included, as being most satisfactory, quite extended extracts from her writings; and one of her lectures is printed in full. - [Summary by D. C. Bloomer (preface to book)](https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/)  
-
-</details>
-</details>
-
-<details>
-<summary>Jane Austen's Sailor Brothers.  1906 </summary>  
-
-### Jane Austen's Sailor Brothers -- Being the Adventures of Sir Francis Austen, G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen.  (7:16)  
-https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/  
-Text: https://www.gutenberg.org/ebooks/69815  
-By [Edith Hubback Brown](https://en.wikipedia.org/wiki/Edith_Charlotte_Brown) (1876 - 1945) and John Hubback (1844 - 1939)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-I believe that "Jane Austen's Sailor Brothers..." will be enjoyable to [Jane Austin](https://en.wikipedia.org/wiki/Jane_Austen) fans, as well as those who loved [Patric O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)'s [Aubrey-Maturin novels](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series). Edith Hubback Brown and her father John Hubback share what appears to be well researched and carefully edited primary resources (British Naval records and family letters) to outline Francis and Charles Austen's naval education and careers, and how their experiences contributed to Jane Austen's novels.  
-Everyone should know that this is an excellent reading/performance by [Bryn Roberts](https://librivox.org/reader/18007).  His accent, emotions, pacing, and enthusiasm are exemplary and enhance this audio book tremendously.  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. 
-The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. 
-Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
 
 </details>
 </details>
