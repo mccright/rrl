@@ -1084,6 +1084,26 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 ## Pending or Currently Underway:  
 
+<details>
+<summary>Napoleon The First, An Intimate Biography. 1921 </summary>  
+
+### Napoleon The First, An Intimate Biography.  (12:11)  
+https://librivox.org/napoleon-the-first-biography-by-walter-geer/  
+Text: https://archive.org/details/cu31924014676054/mode/2up  
+By [Walter Geer](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Geer%2c%20Walter%2c%201857%2d1937) (1857 - 1937)  
+
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Excerpt: "Now that one hundred years have elapsed since the "long-drawn agony" of Saint Helena we think that the time has come for a more impartial estimate. Facts are clearer, motives are better known, much new evidence is available. Let us then endeavor to depict Napoleon as he was, and "nothing extenuate, nor set down aught in malice." - Walter Geer [librivox](https://librivox.org/napoleon-the-first-biography-by-walter-geer/)  
+
+</details>
+</details>
+
 
 <details>
 <summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>  
