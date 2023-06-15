@@ -1095,7 +1095,7 @@ By [Walter Geer](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?ke
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
-Reader's Notes:  
+Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reader is also a joy and makes listening this tragic story an enjoyable experience...
 
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
