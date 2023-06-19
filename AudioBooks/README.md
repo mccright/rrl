@@ -1124,6 +1124,27 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 
 
 <details>
+<summary>William the Third.  1888 </summary>  
+
+### William the Third. (6:21)  
+https://librivox.org/william-the-third-by-henry-duff-traill/  
+Text: https://archive.org/details/williamthird00traigoog  
+By [Henry Duff Traill](https://en.wikipedia.org/wiki/Henry_Duff_Traill) (1842 - 1900)    
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>William Henry, Prince of Orange and Nassau, Dutch William to the English, was born in a state threatened by the military ambitions of Louis XIV. “Reared from his very cradle amid the animosities of contending factions,” Traill writes, “the young Prince learned early those four lessons of statecraft,—to conceal his designs, to watch his opportunities, to choose his instruments, and to bide his time.” The Dutch Republic, distrustful of monarchs, reluctantly chose him as stadtholder to lead their armies, and then, after the overthrow of James II in 1688, he became with his consort, Mary, England’s king. ([Summary by Pamela Nagami, M.D.](https://librivox.org/william-the-third-by-henry-duff-traill/))  
+
+</details>
+</details>
+
+
+
+<details>
 <summary> </summary>  
 
 ###   
