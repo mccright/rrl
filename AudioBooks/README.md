@@ -1104,6 +1104,24 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 ## Pending or Currently Underway:  
 
+<details>
+<summary>Eleven Years in the Rocky Mountains and Life on the Frontier. 1870 </summary>  
+
+### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
+https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
+Text: https://www.gutenberg.org/ebooks/39465  
+By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor) (1826 - 1902)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>This lively book follows the adventures of mountain man Joe Meek, from his joining the Rocky Mountain Fur Company trapping expedition in the year 1829 at the young age of 18, through his retirement from public life after serving as Marshall of Oregon Territory. Meek had close connections with many famous people of the era, such as Kit Carson, William and Milton Sublette, Jedediah Smith, Marcus and Narcissa Whitman, Dr. John McLaughlin, Oregon’s Governor Lane, and President James Polk. The author’s information came directly from interviews with Joe himself. She adds to his stories by recounting the surrounding events of the times along the way, providing an interesting way to pick up much information about the history of the Rocky Mountain region and the Oregon Territory. Meek was a tremendously colorful personality who traveled all over the wild west, and had numberless adventures. His endurance of hunger, thirst, exhaustion, and danger was legendary. Whether he was encountering bears, Indians, fellow trappers, missionaries, California gold miners, and even the president of the United States, he tells the story with humor and aplomb. Meek was always lively, often drunk, sometimes heroic, and certainly no saint. - ([Summary by Carol Pelster](https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/))  
+
+</details>
+</details>
 
 
 <details>
