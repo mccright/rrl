@@ -288,6 +288,25 @@ Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_Ge
 </details>
 </details>
 
+<details>
+<summary>Pierre Curie.  1923 </summary>  
+
+### Pierre Curie.  (5:11)  
+https://librivox.org/pierre-curie-by-marie-curie/  
+Text: https://www.gutenberg.org/ebooks/69617  
+By [Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie) (1867 - 1934)  
+Translated by [Vernon Kellogg](https://en.wikipedia.org/wiki/Vernon_Lyman_Kellogg) (1867 - 1937) and [Charlotte Kellogg](https://en.wikipedia.org/wiki/Charlotte_Kellogg) (1874 - 1960)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  This is an excellent broad history of Pierre Curie's life.  It is also a useful adjunct to any study of Marie Curie's life and science.  The reading by [Ciufi Galeazzi](https://librivox.org/reader/11528?primary_key=11528&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this interesting history an enjoyable experience...
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>This biography of the noted French physicist Pierre Curie was written by his wife, the renowned physicist Marie Curie. In it, she not only chronicles the scientific accomplishments of her husband, but also provides unique insight into his family life and personality. The book concludes with a four chapter autobiography of the author. - ([Summary by Ciufi Galeazzi](https://librivox.org/pierre-curie-by-marie-curie/))  
+
+</details>
+</details>
 
 <details>
 <summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
@@ -312,7 +331,7 @@ By [Walter Geer](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?ke
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
-Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reader is also a joy and makes listening this tragic story an enjoyable experience...
+Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reading by [Celine Major](https://librivox.org/reader/11697?primary_key=11697&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this tragic story an enjoyable experience...
 
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
