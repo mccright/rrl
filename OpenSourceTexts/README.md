@@ -109,7 +109,7 @@ Reading Notes:
 ### [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi): The Man Who Became One With the Universal Being.  
 https://www.gutenberg.org/ebooks/61575  
 By [Romain Rolland](https://en.wikipedia.org/wiki/Romain_Rolland) (1866-1944)  
-Translated by [Catherine Dase GrothCatherine Daae Groth (AKA: Catherine Daae Sparrow, Mrs. Edward Grant Sparrow)](https://ancestors.familysearch.org/en/K8W3-VZR/catherine-daae-groth-1888-1972) (1888-1972)  
+Translated by [Catherine Daae Groth (AKA: Catherine Daae Sparrow, Mrs. Edward Grant Sparrow)](https://ancestors.familysearch.org/en/K8W3-VZR/catherine-daae-groth-1888-1972) (1888-1972)  
 <details>  
 <summary>Reading Notes and 3rd Party Summaries</summary>  
 
