@@ -686,6 +686,24 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>William the Third.  1888 </summary>  
+
+### William the Third. (6:21)  
+https://librivox.org/william-the-third-by-henry-duff-traill/  
+Text: https://archive.org/details/williamthird00traigoog  
+By [Henry Duff Traill](https://en.wikipedia.org/wiki/Henry_Duff_Traill) (1842 - 1900)    
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes: This seems like a well-researched (*for 1888*) biography of William III (AKA William of Orange, 1650-1702) and (*with excellent reading*) it was an enjoyable experience.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>William Henry, Prince of Orange and Nassau, Dutch William to the English, was born in a state threatened by the military ambitions of Louis XIV. “Reared from his very cradle amid the animosities of contending factions,” Traill writes, “the young Prince learned early those four lessons of statecraft,—to conceal his designs, to watch his opportunities, to choose his instruments, and to bide his time.” The Dutch Republic, distrustful of monarchs, reluctantly chose him as stadtholder to lead their armies, and then, after the overthrow of James II in 1688, he became with his consort, Mary, England’s king. ([Summary by Pamela Nagami, M.D.](https://librivox.org/william-the-third-by-henry-duff-traill/))  
+Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_of_England  
+</details>
+</details>
+
+<details>
 <summary>Edward III. By William Parsons Warburton, 1908</summary>
 
 ### Edward III (9:40)  
@@ -1156,27 +1174,6 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 
 </details>
 </details>
-
-
-
-<details>
-<summary>William the Third.  1888 </summary>  
-
-### William the Third. (6:21)  
-https://librivox.org/william-the-third-by-henry-duff-traill/  
-Text: https://archive.org/details/williamthird00traigoog  
-By [Henry Duff Traill](https://en.wikipedia.org/wiki/Henry_Duff_Traill) (1842 - 1900)    
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes: This seems like a well-researched (for 1888) biography and (*with excellent reading*) it was an enjoyable experience.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->William Henry, Prince of Orange and Nassau, Dutch William to the English, was born in a state threatened by the military ambitions of Louis XIV. “Reared from his very cradle amid the animosities of contending factions,” Traill writes, “the young Prince learned early those four lessons of statecraft,—to conceal his designs, to watch his opportunities, to choose his instruments, and to bide his time.” The Dutch Republic, distrustful of monarchs, reluctantly chose him as stadtholder to lead their armies, and then, after the overthrow of James II in 1688, he became with his consort, Mary, England’s king. ([Summary by Pamela Nagami, M.D.](https://librivox.org/william-the-third-by-henry-duff-traill/))  
-
-</details>
-</details>
-
 
 
 <details>
