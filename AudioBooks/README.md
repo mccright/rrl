@@ -400,6 +400,22 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>Bury Your Dead.  By Louise Penny. 2010 </summary>  
+
+### Bury Your Dead. (13:00)  
+  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+Another Chief Inspector Gamache Novel... the 6th in the series.  Penny incorporates two crime investigations into this installment.  Gamache is recovering from injuries suffered in an investigation gone wrong and stumbles into a murder related to [Samuel de Champlain](https://en.wikipedia.org/wiki/Samuel_de_Champlain) (*French explorer, navigator, cartographer, soldier, geographer and founder of Quebec*).
+ 
+</details>
+</details>
+
+
+<details>
 <summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>  
 
 ### The City at World's End.  (7:06)  
