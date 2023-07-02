@@ -409,7 +409,7 @@ By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-Another Chief Inspector Gamache Novel... the 6th in the series.  Penny incorporates two crime investigations into this installment.  Gamache is recovering from injuries suffered in an investigation gone wrong and stumbles into a murder related to [Samuel de Champlain](https://en.wikipedia.org/wiki/Samuel_de_Champlain) (*French explorer, navigator, cartographer, soldier, geographer and founder of Quebec*).
+Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 6th in the series.  Penny incorporates two crime investigations into this installment.  Gamache is recovering from injuries suffered in an investigation gone wrong and stumbles into a murder related to [Samuel de Champlain](https://en.wikipedia.org/wiki/Samuel_de_Champlain) (*French explorer, navigator, cartographer, soldier, geographer and founder of Quebec*).  Concurrently, the murder in The "[Brutal Telling](https://en.wikipedia.org/wiki/The_Brutal_Telling)" novel is investigated further.
  
 </details>
 </details>
