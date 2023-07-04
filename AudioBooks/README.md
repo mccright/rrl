@@ -1222,7 +1222,7 @@ By Dexter C. Bloomer (1816 - 1900)
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
-Reader's Notes:  
+Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  
 
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
