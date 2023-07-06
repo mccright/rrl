@@ -1222,7 +1222,7 @@ By Dexter C. Bloomer (1816 - 1900)
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
-Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  
+Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  In addition to what you might expect (*temperance, experiments with new clothes, sufferage, and equality for women and men*) this volume includes some interesting first-hand accounts of travel in "the West" in the 1850s as well as life in Western Iowa in the mid 19th century.  
 
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
