@@ -9,7 +9,7 @@
 ### The Ambassadors (16:46)  
 https://librivox.org/the-ambassadors-by-henry-james/  
 https://en.wikipedia.org/wiki/The_Ambassadors  
-Text at: https://www.gutenberg.org/etext/432  
+Text at: https://www.gutenberg.org/etext/432 
 By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
 <details>
 <summary>Reading Notes and Librivox Summary:</summary>  
@@ -357,6 +357,27 @@ Librivox Summary:
 
 </details>
 </details>
+
+<details>
+<summary>Life and Writings of Amelia Bloomer.  1895 </summary>  
+
+### Life and Writings of Amelia Bloomer (10:22:42)  
+https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
+Text: https://www.gutenberg.org/ebooks/69953  
+Wikipedia Biography: https://en.wikipedia.org/wiki/Amelia_Bloomer  
+By Dexter C. Bloomer (1816 - 1900)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  In addition to what you might expect (*temperance, experiments with new clothes, sufferage, and equality for women and men*) this volume includes some interesting first-hand accounts of travel in "the West" in the 1850s as well as life in Western Iowa in the mid 19th century.  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>As Mrs. Bloomer was one of the pioneers in what is sometimes called the “Woman’s Movement,” it seems right that a record of her work should be placed in durable form. Such a record I have endeavored to set forth in the following pages. While giving a brief narrative of her life, I have also included, as being most satisfactory, quite extended extracts from her writings; and one of her lectures is printed in full. - [Summary by D. C. Bloomer (preface to book)](https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/)  
+
+</details>
+</details>
+
 
 <details>
 <summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>  
@@ -1206,27 +1227,6 @@ Reader's Notes:
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >  
-
-</details>
-</details>
-
-
-<details>
-<summary>Life and Writings of Amelia Bloomer.  1895 </summary>  
-
-### Life and Writings of Amelia Bloomer (10:22:42)  
-https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
-Text: https://www.gutenberg.org/ebooks/69953  
-Wikipedia Biography: https://en.wikipedia.org/wiki/Amelia_Bloomer  
-By Dexter C. Bloomer (1816 - 1900)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
-
-Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  In addition to what you might expect (*temperance, experiments with new clothes, sufferage, and equality for women and men*) this volume includes some interesting first-hand accounts of travel in "the West" in the 1850s as well as life in Western Iowa in the mid 19th century.  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->As Mrs. Bloomer was one of the pioneers in what is sometimes called the “Woman’s Movement,” it seems right that a record of her work should be placed in durable form. Such a record I have endeavored to set forth in the following pages. While giving a brief narrative of her life, I have also included, as being most satisfactory, quite extended extracts from her writings; and one of her lectures is printed in full. - [Summary by D. C. Bloomer (preface to book)](https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/)  
 
 </details>
 </details>
