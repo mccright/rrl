@@ -1230,7 +1230,86 @@ Librivox Summary:
 
 </details>
 </details>
+-------------------
 
+NEEDS FORMATTING BELOW:
+
+
+Climate--Incorporated
+https://librivox.org/climate-incorporated-by-george-o-smith/
+Running Time: 01:14:36
+Text: https://gutenberg.org/ebooks/69820
+
+By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)
+Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late. - Summary by quartertone
+Genre(s): Science Fiction
+
+
+Atomic!
+https://librivox.org/atomic-by-henry-kuttner/
+Text: https://www.gutenberg.org/ebooks/68167
+
+Running Time: 01:00:43
+By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)
+"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"
+After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by Elsie Selwyn
+Genre(s): Science Fiction
+
+
+The Disciplinary Circuit
+https://librivox.org/the-disciplinary-circuit-by-murray-leinster/
+Text: https://www.gutenberg.org/ebooks/69448
+
+Running Time: 01:36:31
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)
+The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure. The Council want only what is best for you and society. Trust the council and the Disciplinary Circuit. . Good citizens are happy and obey. You are a good citizen. Aren't you? Of course you are. - Summary by phil chenevert
+Genre(s): Science Fiction
+
+
+At the Mountains of Madness.  1936
+https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/
+Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up
+Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness
+Running Time: 04:13:24
+By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)
+In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by Ben Tucker
+Genre(s): Horror & Supernatural Fiction, Science Fiction
+
+
+
+What The Left Hand Was Doing.  1960
+https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/
+Text: https://www.gutenberg.org/ebooks/25166
+
+Running Time: 01:10:44
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)
+The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - Summary by the author and phil chenevert
+Genre(s): Science Fiction
+
+
+Victory (Version 2)
+https://librivox.org/victory-by-lester-del-rey-2/
+Text: https://www.gutenberg.org/ebooks/24196
+
+Running Time: 01:59:21
+By [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)
+The earth is undefended. A ripe, juicy, rich plum just innocently waiting for one of the many new and warlike civilizations in the nearby universe to reach down and pluck to plunder and rape. Well... undefended can mean many things. In this case, humans have colonized many worlds and found many surprisingly human like races among the stars. But when these human colonies are threatened and even viciously attacked by really alien civilizations, earth does nothing to help them. Earth, fat, rich earth sits back and lets her own colonies be practically wiped out, claiming a neutrality that seems a thin veil for cowardice and deceit. How this happens and the story behind the story is what this exciting story is all about. (Summary by phil chenevert)
+Genre(s): Science Fiction
+
+
+The Last Evolution
+https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/
+Text: https://www.gutenberg.org/ebooks/27462
+
+Running Time: 00:52:39
+By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)
+John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - Summary by the author
+Genre(s): Science Fiction
+
+
+NEEDS FORMATTING ABOVE
+
+-------------------
 
 <details>
 <summary>The Seven Stairs.  1962 </summary>  
