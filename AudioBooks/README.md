@@ -1235,14 +1235,25 @@ Librivox Summary:
 NEEDS FORMATTING BELOW:
 
 
-Climate--Incorporated
+<details>
+<summary>Climate--Incorporated. </summary>  
+
+### Climate--Incorporated (01:15)  
 https://librivox.org/climate-incorporated-by-george-o-smith/
 Running Time: 01:14:36
 Text: https://gutenberg.org/ebooks/69820
-
 By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)
-Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late. - Summary by quartertone
-Genre(s): Science Fiction
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+Genre: Science Fiction
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late. - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
+
+</details>
+</details>
 
 
 Atomic!
