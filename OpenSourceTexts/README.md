@@ -10,7 +10,7 @@ By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858�
 Utopian reformer..."we are entering a new era. The past is no longer to be a guide to the future…"  
 Main characters: Phillip Dru, Gloria Strawn, Senator Selwyn  
 Also: Governor James R. Rockland (earmarks of a demagogue)…  
-The story outlines how society is corrupted by Dark money, Control of the press, Corrupt high-finance personalitie, Anti-democracy Senators, and a Corrupt anti-democracy President (Rockland)  
+The story outlines how society is corrupted by Dark money, Control of the press, Corrupt high-finance personalities, Anti-democracy Senators, and a Corrupt anti-democracy President (Rockland)  
     …who was ignorant of history  
     …who picks three compliant Supreme Court justices  
 There are recordings that capture corrupt acts by the President, and a Whistleblower.  
