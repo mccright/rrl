@@ -57,6 +57,31 @@ Summary:
 
 </details>
 
+
+<details>
+<summary>Still Life.  By Sarah Winman 2021  </summary>
+
+### Still Life.  
+https://www.penguinrandomhouse.com/books/670069/still-life-by-sarah-winman/  
+By [Sarah Winman](https://en.wikipedia.org/wiki/Sarah_Winman) and [and interview here](https://www.abc.net.au/news/2022-08-06/sarah-winman-still-life-book-interview/101300474) (1964 - ),  G.P. Putnam's Sons, Publication date: November 2, 2021; 464 pages  
+
+<details>
+<summary>Reading Notes and 3rd Party Reviews:</summary>
+
+Reading Notes:  
+Quote:  
+>A meager stain in the corridors of history, that's all we are. A little mark of scuff.  
+
+This is an excellent story about a collection of kind people starting with a chance meeting in 1940s wartime Italy, then a neighborhood bar in London after the war, and a neighborhood in Florence in the 1950s, 60s, and into the 70s.  *see the either or both of the reviews below...*  
+
+3rd Party Summaries:  
+[NYT Review By Lauren Fox](https://www.nytimes.com/2021/11/02/books/review/still-life-sarah-winman.html), and [Washington Post Review By Ron Charles](https://www.washingtonpost.com/entertainment/books/still-life-sarah-winman-book-review/2021/11/22/2eb81bca-4bcc-11ec-b0b0-766bbbe79347_story.html)  
+
+</details>
+
+</details>
+
+
 <details>
 <summary>Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  By Ellen Carol Dubois  2020</summary>
 
@@ -101,30 +126,6 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
     
 ## Pending or Currently Underway:  
 
-
-
-<details>
-<summary>Still Life.  By Sarah Winman 2021  </summary>
-
-### Still Life.  
-https://www.penguinrandomhouse.com/books/670069/still-life-by-sarah-winman/  
-By [Sarah Winman](https://en.wikipedia.org/wiki/Sarah_Winman) and [and interview here](https://www.abc.net.au/news/2022-08-06/sarah-winman-still-life-book-interview/101300474) (1964 - ),  G.P. Putnam's Sons, Publication date: November 2, 2021; 464 pages  
-
-<details>
-<summary>Reading Notes and 3rd Party Reviews:</summary>
-
-Reading Notes:  
-Quote:  
->A meager stain in the corridors of history, that's all we are. A little mark of scuff.  
-
-This is an excellent story about a collection of kind people starting with a chance meeting in 1940s wartime Italy, then a neighborhood bar in London after the war, and a neighborhood in Florence in the 1950s, 60s, and into the 70s.  *see the either or both of the reviews below...*  
-
-3rd Party Summaries:  
-[NYT Review By Lauren Fox](https://www.nytimes.com/2021/11/02/books/review/still-life-sarah-winman.html), and [Washington Post Review By Ron Charles](https://www.washingtonpost.com/entertainment/books/still-life-sarah-winman-book-review/2021/11/22/2eb81bca-4bcc-11ec-b0b0-766bbbe79347_story.html)  
-
-</details>
-
-</details>
 
 
 <details>
