@@ -435,6 +435,25 @@ Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Ins
 </details>
 </details>
 
+<details>
+<summary>Trick of the Light.  By Louise Penny. 2011 </summary>  
+
+### A Trick of the Light. (9:00)  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+<details>
+<summary>Reader's Notes, and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 7th in the series.  Gamache and Inspector Jean Guy Beauvoir are still recovering from injuries suffered in an investigation gone wrong... And a dead body is found in Clara Morrow's garden the morning after a party celebrating her first solo show.  [Alcoholics Anonymous](https://en.wikipedia.org/wiki/Alcoholics_Anonymous), its [big Book](https://en.wikipedia.org/wiki/Alcoholics_Anonymous#The_Big_Book,_the_Twelve_Steps,_and_the_Twelve_Traditions) and its [twelve-step program](https://en.wikipedia.org/wiki/Twelve-step_program#Twelve_Steps) factor prominently in the investigation.  
+Wikipedia page:  
+https://en.wikipedia.org/wiki/A_Trick_of_the_Light_(novel)  
+Publisher's Weekly Summary:  
+https://www.publishersweekly.com/978-0-312-65545-7  
+ 
+</details>
+</details>
+
+
 
 <details>
 <summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>  
