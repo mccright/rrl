@@ -454,7 +454,6 @@ https://www.publishersweekly.com/978-0-312-65545-7
 </details>
 
 
-
 <details>
 <summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>  
 
@@ -1082,8 +1081,9 @@ By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)
 Reading Notes:
 This is just another relatively fast moving WWI spy novel.  It incorporates some of the worst cultural issues of the time (*written in the 2nd decade of the 20th century by a 19th century writer*)...  I believe they are expressions of the author's understanding of the world and that of the readers he targeted.  He makes no attempt to deal with negative outcomes of institutionalized descrimination, colonization and war, or of cultural and literal genocide -- ignoring the value numerous peoples.  The impacts of these events continue through today.  This book may be hurtful to some.  
 Summary from Librivox:  
->Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum.  
+>Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum ("Erzerum" in Greenmantle).  
 
+"Battle of Erzurum:" https://en.wikipedia.org/wiki/Erzurum_offensive  
 </details>
 </details>
 
