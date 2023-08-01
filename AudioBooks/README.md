@@ -174,6 +174,26 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>The President is Missing.  2018 </summary>  
+
+### The President is Missing.  (13:00)  
+https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/  
+By [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (1946 - ) and [James Paterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 -)  
+<details>
+<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, (*often*) a lot of predictable action and dialog followed.  That said, it is useful long-distance driving audio.  
+3rd Party Summaries:  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)  
+Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
+James Patterson Summary:  
+>The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come. [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
+
+</details>
+</details>
+
+<details>
 <summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -1341,25 +1361,6 @@ NEEDS FORMATTING ABOVE
 
 -------------------
 
-<details>
-<summary>The President is Missing.  2018 </summary>  
-
-### The President is Missing.  (13:00)  
-https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/  
-By [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (1946 - ) and [James Paterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 -)  
-<details>
-<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, (*often*) a lot of predictable action and dialog followed.  That said, it is useful long-distance driving audio.  
-3rd Party Summaries:  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)  
-Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
-James Patterson Summary:  
->The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come. [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
-
-</details>
-</details>
 
 <details>
 <summary>The Seven Stairs.  1962 </summary>  
