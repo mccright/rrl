@@ -1347,6 +1347,58 @@ Librivox Summary:
 </details>
 </details>
 
+
+<details>
+<summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>  
+
+### The Farmer's Bride.  (1:06)  
+https://librivox.org/the-farmers-bride-by-charlotte-mew/  
+Text: https://www.gutenberg.org/ebooks/71305  
+By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride  
+Librivox Summary:  
+>The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
+
+</details>
+
+
+<details>
+<summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>  
+
+### Behind a Mask, or a Woman's Power.  (4:08)  
+https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
+Text: https://www.gutenberg.org/ebooks/8677  
+By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Behind_a_Mask  
+Librivox Summary:  
+>Fans of Louisa May Alcott's Little Women will remember that her heroine Jo wrote racy novels before turning her hand to more "serious" literature. Alcott, writing under the pseudonym A. M. Barnard, often did the same, and Behind a Mask (1866) is one of her sensation novels. It focuses on Jean Muir, who enters the home of the wealthy Coventry family as governess to their sixteen-year-old daughter. But is the beguiling Miss Muir all that she seems to be? [Summary by Elizabeth Klett](https://librivox.org/behind-a-mask-by-louisa-may-alcott/)  
+
+</details>
+
+
+<details>
+<summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>  
+
+### The Age of Innocence.  By Edith Wharton.  (9:57)  
+https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
+Text: https://www.gutenberg.org/etext/541  
+By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)  
+Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
+Librivox Summary:  
+>Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
+
+</details>
+
+
+
+The Fifth Queen
+
+Ford Madox Ford (1873 - 1939)
+
+The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. (Summary by Wikipedia)
+
 -------------------
 
 NEEDS FORMATTING BELOW:
@@ -1403,9 +1455,10 @@ Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life cond
 
 Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946  
 https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/  
+Text: https://www.gutenberg.org/ebooks/63917  
 By [Leigh Douglass Brackett](http://en.wikipedia.org/wiki/Leigh_Brackett) (1915 - 1978) and [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
 
->Published in Planet Stories in 1946, this story is a great mix of Golden Age Sci Fi and Swords & Sorcery. The first half was written by Brackett and when she was pulled away by other commitments the publisher gave it to a new writer, Ray Bradbury, to finish. It is a sort of prequel to the Stark character developed by Brackett where a weak puny man is transferred into the body of a Conan like superman and then cruses through adventure after adventure, always rescuing damsels who are tough and feisty. The publisher blurb says "He died—and then awakened in a new body. He found himself on a world of bizarre loveliness, a powerful, rich man. He took pleasure in his turn of good luck ... until he discovered that his new body was hated by all on this strange planet, that his soul was owned by Rann, devil-goddess of Falga, who was using him for her own gain." - [Summary by phil c]()  
+>Published in Planet Stories in 1946, this story is a great mix of Golden Age Sci Fi and Swords & Sorcery. The first half was written by Brackett and when she was pulled away by other commitments the publisher gave it to a new writer, Ray Bradbury, to finish. It is a sort of prequel to the Stark character developed by Brackett where a weak puny man is transferred into the body of a Conan like superman and then cruses through adventure after adventure, always rescuing damsels who are tough and feisty. The publisher blurb says "He died—and then awakened in a new body. He found himself on a world of bizarre loveliness, a powerful, rich man. He took pleasure in his turn of good luck ... until he discovered that his new body was hated by all on this strange planet, that his soul was owned by Rann, devil-goddess of Falga, who was using him for her own gain." - [Summary by Phil Chenevert](https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/)  
 
 
 NEEDS FORMATTING ABOVE
