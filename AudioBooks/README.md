@@ -1272,6 +1272,25 @@ Librivox Summary:
 
 
 <details>
+<summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>  
+
+### The Disciplinary Circuit.  (1:36)  
+https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
+Text: https://www.gutenberg.org/ebooks/69448  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)  
+<details>  
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+This juvenile/young adult science fiction explores the idea that *civilization* invented *the perfect* punishment system -- "*the Disciplinary Circuit*" that caused unbarable pain when applied.  The system could be applied to any targeted individual.  The author argues that any society where *the few* have the means of *perfect* control over *the many* results in terrible corruption and decay -- eventualy, self-destruction.  Leinster is optimistic, though, and has banished *criminals* rebuilding a *just* and society.  ...ignore much of the "*science*" and this may be worth its short run-time.  
+Librivox Summary:  
+>The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure.  The Council want only what is best for you and society.  Trust the council and the Disciplinary Circuit.  Good citizens are happy and obey.  You are a good citizen.  Aren't you? Of course you are. - Summary by [Phil Chenevert](https://librivox.org/the-disciplinary-circuit-by-murray-leinster/)  
+
+</details>
+</details>
+
+
+<details>
 <summary>Climate--Incorporated. By George O. Smith.  1948</summary>  
 
 ### Climate--Incorporated (01:15)  
@@ -1288,10 +1307,6 @@ Librivox Summary:
 
 </details>
 </details>
-
--------------------
-
-NEEDS FORMATTING BELOW:
 
 <details>
 <summary>Atomic!  By Henry Kuttner.  1947</summary>  
@@ -1311,26 +1326,29 @@ Librivox Summary:
 </details>
 </details>
 
+-------------------
 
+NEEDS FORMATTING BELOW:
 
-The Disciplinary Circuit
-https://librivox.org/the-disciplinary-circuit-by-murray-leinster/
-Text: https://www.gutenberg.org/ebooks/69448
+<details>
+<summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>  
 
-Running Time: 01:36:31
-By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)
-The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure. The Council want only what is best for you and society. Trust the council and the Disciplinary Circuit. . Good citizens are happy and obey. You are a good citizen. Aren't you? Of course you are. - Summary by phil chenevert
-Genre(s): Science Fiction
+### At the Mountains of Madness. (4:13)  
+https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
+Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
+Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
+By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
+Reader's Notes:  
+Horror, supernatural, scienct fiction expertly read by Ben Tucker.
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
 
-At the Mountains of Madness.  1936
-https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/
-Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up
-Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness
-Running Time: 04:13:24
-By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)
-In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by Ben Tucker
-Genre(s): Horror & Supernatural Fiction, Science Fiction
+</details>
+</details>
 
 
 
@@ -1362,6 +1380,15 @@ Running Time: 00:52:39
 By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)
 John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - Summary by the author
 Genre(s): Science Fiction
+
+
+The Flight of the Shadow.  By Laura M. Dake.  1899  
+https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/  
+Text: https://www.loc.gov/item/99002896/  
+By [Laura M. Dake]()
+
+The original printing of The Flight of the Shadow is a highly sought novel among collectors and tells the tale of an Astral soul who tells a man named John Cecil of a story of the American Revolution, a story of lost love and murder, a story of reincarnation and fate. Enjoy this rare briskly told supernatural book of adventure and weirdness that few before have experienced! - Summary by Ben Tucker
+
 
 
 NEEDS FORMATTING ABOVE
