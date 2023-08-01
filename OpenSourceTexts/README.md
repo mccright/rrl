@@ -104,6 +104,21 @@ Reading Notes:
 </details>
 
 <details>
+<summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>  
+### The Farmer's Bride.  
+Text: https://www.gutenberg.org/ebooks/71305  
+Audio: https://librivox.org/the-farmers-bride-by-charlotte-mew/  
+By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride  
+Librivox Summary:  
+>The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
+
+</details>
+
+
+
+<details>
 <summary>The Lake.  By Ray Bradbury.  1944</summary>  
 
 ### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
@@ -114,7 +129,6 @@ By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)
 <summary>Reading Notes and 3rd Party Summaries</summary>  
 
 Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
- 
 Summary from Wikipedia:  
 https://en.wikipedia.org/wiki/The_Lake_(short_story)  
 Background from Wikipedia:  
