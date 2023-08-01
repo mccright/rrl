@@ -791,6 +791,27 @@ Summary from Librivox:
 </details>
 
 <details>
+<summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>  
+
+### At the Mountains of Madness. (4:13)  
+https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
+Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
+Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
+By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+Horror, supernatural, scienct fiction expertly read by Ben Tucker.
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
+
+</details>
+</details>
+
+
+<details>
 <summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
@@ -1329,26 +1350,6 @@ Librivox Summary:
 -------------------
 
 NEEDS FORMATTING BELOW:
-
-<details>
-<summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>  
-
-### At the Mountains of Madness. (4:13)  
-https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
-Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
-Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
-By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-Horror, supernatural, scienct fiction expertly read by Ben Tucker.
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
-
-</details>
-</details>
 
 
 
