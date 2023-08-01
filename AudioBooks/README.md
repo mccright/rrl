@@ -1269,24 +1269,19 @@ Librivox Summary:
 
 </details>
 </details>
--------------------
-
-NEEDS FORMATTING BELOW:
 
 
 <details>
-<summary>Climate--Incorporated. </summary>  
+<summary>Climate--Incorporated. 1948</summary>  
 
 ### Climate--Incorporated (01:15)  
-https://librivox.org/climate-incorporated-by-george-o-smith/
-Running Time: 01:14:36
-Text: https://gutenberg.org/ebooks/69820
-By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)
+https://librivox.org/climate-incorporated-by-george-o-smith/  
+Text: https://gutenberg.org/ebooks/69820  
+By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)  
 <details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
-Reader's Notes:  
-Genre: Science Fiction
+Reader's Notes:  Ever so slightly interesting juvenile/young adult science fiction in which an inventor *accidently* creates a *time machine*.  The plans are stolen.  Corrupt politicians attempt advantage.  Conflict.  Resolution.  Nothing special...  It **might** be worth an hour and a quarter of your time as you work at some other *mindless* task.  Excellent reading by "quartertone."  
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late. - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
@@ -1294,6 +1289,9 @@ Librivox Summary:
 </details>
 </details>
 
+-------------------
+
+NEEDS FORMATTING BELOW:
 
 Atomic!
 https://librivox.org/atomic-by-henry-kuttner/
