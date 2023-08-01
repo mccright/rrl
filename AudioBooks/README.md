@@ -1272,7 +1272,7 @@ Librivox Summary:
 
 
 <details>
-<summary>Climate--Incorporated. 1948</summary>  
+<summary>Climate--Incorporated. By George O. Smith.  1948</summary>  
 
 ### Climate--Incorporated (01:15)  
 https://librivox.org/climate-incorporated-by-george-o-smith/  
@@ -1293,15 +1293,24 @@ Librivox Summary:
 
 NEEDS FORMATTING BELOW:
 
-Atomic!
-https://librivox.org/atomic-by-henry-kuttner/
-Text: https://www.gutenberg.org/ebooks/68167
+<details>
+<summary>Atomic!  By Henry Kuttner.  1947</summary>  
 
-Running Time: 01:00:43
-By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)
-"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"
-After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by Elsie Selwyn
-Genre(s): Science Fiction
+### Atomic! (1:01)  
+https://librivox.org/atomic-by-henry-kuttner/  
+Text: https://www.gutenberg.org/ebooks/68167  
+By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+More juvenile/young adult science fiction.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
+Librivox Summary:  
+>"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
+
+</details>
+</details>
+
 
 
 The Disciplinary Circuit
