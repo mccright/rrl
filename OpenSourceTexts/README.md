@@ -104,6 +104,26 @@ Reading Notes:
 </details>
 
 <details>
+<summary>The Lake.  By Ray Bradbury.  1944</summary>  
+
+### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
+. . . and the Lake keeps people as they tvere, forever and ever  
+https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
+By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
+ 
+Summary from Wikipedia:  
+https://en.wikipedia.org/wiki/The_Lake_(short_story)  
+Background from Wikipedia:  
+>Bradbury recounted when he came into his own as a writer, the afternoon he wrote a short story about his first encounter with death. When he was a boy, he met a young girl at a lake edge and she went out into the water and never came back. Years later (*at 22 years old*), as he wrote about it, tears flowed from him. He recognized he had taken the leap from emulating the many writers he admired to connecting with his voice as a writer.  When later asked about the lyrical power of his prose, he replied: "From reading so much poetry every day of my life. My favorite writers have been those who've said things well." He said: "If you're reluctant to weep, you won't live a full and complete life." [https://en.wikipedia.org/wiki/Ray_Bradbury#Writing](https://en.wikipedia.org/wiki/Ray_Bradbury#Writing)  
+
+</details>
+</details>
+
+<details>
 <summary>Mahatma Gandhi: The Man Who Became One With the Universal Being. 1924</summary>  
 
 ### [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi): The Man Who Became One With the Universal Being.  
