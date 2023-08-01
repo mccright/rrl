@@ -1400,6 +1400,14 @@ By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)
 Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself! - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946  
 
 
+
+Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946  
+https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/  
+By [Leigh Douglass Brackett](http://en.wikipedia.org/wiki/Leigh_Brackett) (1915 - 1978) and [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+
+>Published in Planet Stories in 1946, this story is a great mix of Golden Age Sci Fi and Swords & Sorcery. The first half was written by Brackett and when she was pulled away by other commitments the publisher gave it to a new writer, Ray Bradbury, to finish. It is a sort of prequel to the Stark character developed by Brackett where a weak puny man is transferred into the body of a Conan like superman and then cruses through adventure after adventure, always rescuing damsels who are tough and feisty. The publisher blurb says "He died—and then awakened in a new body. He found himself on a world of bizarre loveliness, a powerful, rich man. He took pleasure in his turn of good luck ... until he discovered that his new body was hated by all on this strange planet, that his soul was owned by Rann, devil-goddess of Falga, who was using him for her own gain." - [Summary by phil c]()  
+
+
 NEEDS FORMATTING ABOVE
 
 -------------------
