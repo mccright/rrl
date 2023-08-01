@@ -1392,6 +1392,14 @@ The original printing of The Flight of the Shadow is a highly sought novel among
 
 
 
+The Creatures That Time Forgot.  By Ray Bradbury.  1946  
+https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
+Text: https://www.gutenberg.org/ebooks/63874  
+By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+
+Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself! - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946  
+
+
 NEEDS FORMATTING ABOVE
 
 -------------------
