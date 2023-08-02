@@ -825,6 +825,25 @@ Librivox Summary:
 </details>  
 
 <details>
+<summary>Atomic!  By Henry Kuttner.  1947</summary>  
+
+### Atomic! (1:01)  
+https://librivox.org/atomic-by-henry-kuttner/  
+Text: https://www.gutenberg.org/ebooks/68167  
+By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+More juvenile/young adult science fiction -- lots of *unlikely* human behaviors throughout.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
+Librivox Summary:  
+>"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
+
+</details>
+</details>
+
+
+<details>
 <summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
 
 ### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
@@ -1343,25 +1362,6 @@ Librivox Summary:
 
 </details>
 </details>
-
-<details>
-<summary>Atomic!  By Henry Kuttner.  1947</summary>  
-
-### Atomic! (1:01)  
-https://librivox.org/atomic-by-henry-kuttner/  
-Text: https://www.gutenberg.org/ebooks/68167  
-By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-More juvenile/young adult science fiction.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
-Librivox Summary:  
->"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
-
-</details>
-</details>
-
 
 <details>
 <summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
