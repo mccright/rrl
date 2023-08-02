@@ -791,21 +791,38 @@ Summary from Librivox:
 </details>
 
 <details>
-<summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>  
+<summary>The Captives. By Hugh Walpole.  1920 </summary>  
 
-### At the Mountains of Madness. (4:13)  
-https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
-Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
-Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
-By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
+### The Captives.  (17:03)  
+https://librivox.org/captives-by-hugh-walpole/  
+Text: https://www.gutenberg.org/ebooks/3601  
+By [Hugh Walpole](http://en.wikipedia.org/wiki/Hugh_Walpole) (1884 - 1941)  
+Reading Notes:  
+Prepare yourself.  This was a seriously dark book.  It starts and ends with death.  In between we follow Maggie Cardinal from the death of her father, time with Aunt Anne and Aunt Elizabeth and the religious community within which they are *held* also time with Martin Warlock and his family -- having a legacy started with James Warlock "a mystic, a visionary, a prophet" that had a belief in "God's plans" to "turn the world into a blazing coal so soon as he pleased."  The character of Maggie Cardinal drives this story forward throughout and is strong enough to make this long audio book worth the investment.  
+Librivox Summary:  
+>A story of alienation from the society which holds one captive, told from the standpoint of a young woman whose life is suddenly disrupted, leading her into a stumbling progression through constrained social cliques and frustrated romantic attachments, haunted by religious shadows. ([Summary by Peter Tucker](https://librivox.org/captives-by-hugh-walpole/))  
+
+</details>
+
 <details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+<summary>The Iron Heel. By Jack London. 1908</summary>  
+
+### The Iron Heel. (08:17)  
+https://librivox.org/the-iron-heel-by-jack-london/  
+Text: https://www.gutenberg.org/etext/1164  
+https://en.wikipedia.org/wiki/The_Iron_Heel  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
+
+<details>
+<summary>Reader's Notes and 3rd Party Summaries:</summary>  
 
 Reader's Notes:  
-Horror, supernatural, scienct fiction expertly read by Ben Tucker.
-Librivox and Other 3rd Party Summaries:  
+This is a seriously-dystopian novel...  For some, it might be a useful reminder of their high school or college studies of late 19th and early 20th century social, economic and cultural struggles in the United States.  Its thumping Socialism (*and the fact that Jack London invested so much time in this story*) is a reminder of how it was, for a time, a real force in the U.S.  Written and published before 1909, it is also interesting to compare some of The Iron Heal content against the facts of American history through the 1930s.  London's overwrought prose about organized labor, mega-capitalists, and corruption throughout government institutions may make this novel radioactive for some.  
+
+3rd Party Summaries:  
+[Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
 Librivox Summary:  
->In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
+>A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
 
 </details>
 </details>
@@ -823,25 +840,6 @@ Librivox Summary:
 >Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
 
 </details>  
-
-<details>
-<summary>Atomic!  By Henry Kuttner.  1947</summary>  
-
-### Atomic! (1:01)  
-https://librivox.org/atomic-by-henry-kuttner/  
-Text: https://www.gutenberg.org/ebooks/68167  
-By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-More juvenile/young adult science fiction -- lots of *unlikely* human behaviors throughout.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
-Librivox Summary:  
->"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
-
-</details>
-</details>
-
 
 <details>
 <summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
@@ -1048,29 +1046,6 @@ Librivox Summary:
 
 
 <details>
-<summary>The Iron Heel. By Jack London. 1908</summary>  
-
-### The Iron Heel. (08:17)  
-https://librivox.org/the-iron-heel-by-jack-london/  
-Text: https://www.gutenberg.org/etext/1164  
-https://en.wikipedia.org/wiki/The_Iron_Heel  
-By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
-
-<details>
-<summary>Reader's Notes and 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-This is a seriously-dystopian novel...  For some, it might be a useful reminder of their high school or college studies of late 19th and early 20th century social, economic and cultural struggles in the United States.  Its thumping Socialism (*and the fact that Jack London invested so much time in this story*) is a reminder of how it was, for a time, a real force in the U.S.  Written and published before 1909, it is also interesting to compare some of The Iron Heal content against the facts of American history through the 1930s.  London's overwrought prose about organized labor, mega-capitalists, and corruption throughout government institutions may make this novel radioactive for some.  
-
-3rd Party Summaries:  
-[Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
-Librivox Summary:  
->A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
-
-</details>
-</details>
-
-<details>
 <summary>Man of Many Minds. By E. Everett Evans  1959 </summary>  
 
 ### Man of Many Minds.  1959  (7:13)  
@@ -1087,6 +1062,45 @@ Reading Notes:
 I agree that "old-school space opera" is a good description -- in the context of juvenile/young adult fiction.  But this book's mostly *wooden* characters remind me of "I Spy" in their shallow lack of development.  The author builds a future where Earth's colonization of many worlds seems to have emphasized transplanting some of humankind's worst tendencies...  The story maintains just enough forward motion to keep me engaged (*while doing yard work and house work*).  It may not be worth your time, as there are so many other good books...  
 Librivox Summary:  
 >GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
+
+</details>
+</details>
+
+<details>
+<summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>  
+
+### At the Mountains of Madness. (4:13)  
+https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
+Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
+Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
+By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+Horror, supernatural, scienct fiction expertly read by Ben Tucker.
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
+
+</details>
+</details>
+
+
+<details>
+<summary>Atomic!  By Henry Kuttner.  1947</summary>  
+
+### Atomic! (1:01)  
+https://librivox.org/atomic-by-henry-kuttner/  
+Text: https://www.gutenberg.org/ebooks/68167  
+By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+More juvenile/young adult science fiction -- lots of *unlikely* human behaviors throughout.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
+Librivox Summary:  
+>"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
 
 </details>
 </details>
@@ -1291,20 +1305,6 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 </details>
 </details>
 
-
-<details>
-<summary>The Captives. By Hugh Walpole.  1920 </summary>  
-
-### The Captives.  (17:03)  
-https://librivox.org/captives-by-hugh-walpole/  
-Text: https://www.gutenberg.org/ebooks/3601  
-By [Hugh Walpole](http://en.wikipedia.org/wiki/Hugh_Walpole) (1884 - 1941)  
-Reading Notes:  
-Prepare yourself.  This was a seriously dark book.  It starts and ends with death.  In between we follow Maggie Cardinal from the death of her father, time with Aunt Anne and Aunt Elizabeth and the religious community within which they are *held* also time with Martin Warlock and his family -- having a legacy started with James Warlock "a mystic, a visionary, a prophet" that had a belief in "God's plans" to "turn the world into a blazing coal so soon as he pleased."  The character of Maggie Cardinal drives this story forward throughout and is strong enough to make this long audio book worth the investment.  
-Librivox Summary:  
->A story of alienation from the society which holds one captive, told from the standpoint of a young woman whose life is suddenly disrupted, leading her into a stumbling progression through constrained social cliques and frustrated romantic attachments, haunted by religious shadows. ([Summary by Peter Tucker](https://librivox.org/captives-by-hugh-walpole/))  
-
-</details>
 
 
 <details>
