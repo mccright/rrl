@@ -105,6 +105,7 @@ Reading Notes:
 
 <details>
 <summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>  
+
 ### The Farmer's Bride.  
 Text: https://www.gutenberg.org/ebooks/71305  
 Audio: https://librivox.org/the-farmers-bride-by-charlotte-mew/  
