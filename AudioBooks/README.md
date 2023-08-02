@@ -1274,6 +1274,21 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 
 
 <details>
+<summary>The Captives. By Hugh Walpole.  1920 </summary>  
+
+### The Captives.  (17:03)  
+https://librivox.org/captives-by-hugh-walpole/  
+Text: https://www.gutenberg.org/ebooks/3601  
+By [Hugh Walpole](http://en.wikipedia.org/wiki/Hugh_Walpole) (1884 - 1941)  
+Reading Notes:  
+Prepare yourself.  This was a seriously dark book.  It starts and ends with death.  In between we follow Maggie Cardinal from the death of her father, time with Aunt Anne and Aunt Elizabeth and the religious community within which they are *held* also time with Martin Warlock and his family -- having a legacy started with James Warlock "a mystic, a visionary, a prophet" that had a belief in "God's plans" to "turn the world into a blazing coal so soon as he pleased."  The character of Maggie Cardinal drives this story forward throughout and is strong enough to make this long audio book worth the investment.  
+Librivox Summary:  
+>A story of alienation from the society which holds one captive, told from the standpoint of a young woman whose life is suddenly disrupted, leading her into a stumbling progression through constrained social cliques and frustrated romantic attachments, haunted by religious shadows. ([Summary by Peter Tucker](https://librivox.org/captives-by-hugh-walpole/))  
+
+</details>
+
+
+<details>
 <summary> </summary>  
 
 ###   
@@ -1410,46 +1425,50 @@ NEEDS FORMATTING BELOW:
 
 
 
-What The Left Hand Was Doing.  1960
-https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/
-Text: https://www.gutenberg.org/ebooks/25166
+What The Left Hand Was Doing.  By Randall Garrett.  1960  
+What The Left Hand Was Doing.  (1:11)  
+https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/  
+Text: https://www.gutenberg.org/ebooks/25166  
 
-Running Time: 01:10:44
-By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)
-The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - Summary by the author and phil chenevert
+Running Time: 01:10:44  
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
+The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
 Genre(s): Science Fiction
 
 
-Victory (Version 2)
+Victory.  By Lester del Rey.  1955
+Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/
 Text: https://www.gutenberg.org/ebooks/24196
 
 Running Time: 01:59:21
 By [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)
-The earth is undefended. A ripe, juicy, rich plum just innocently waiting for one of the many new and warlike civilizations in the nearby universe to reach down and pluck to plunder and rape. Well... undefended can mean many things. In this case, humans have colonized many worlds and found many surprisingly human like races among the stars. But when these human colonies are threatened and even viciously attacked by really alien civilizations, earth does nothing to help them. Earth, fat, rich earth sits back and lets her own colonies be practically wiped out, claiming a neutrality that seems a thin veil for cowardice and deceit. How this happens and the story behind the story is what this exciting story is all about. (Summary by phil chenevert)
+The earth is undefended. A ripe, juicy, rich plum just innocently waiting for one of the many new and warlike civilizations in the nearby universe to reach down and pluck to plunder and rape. Well... undefended can mean many things. In this case, humans have colonized many worlds and found many surprisingly human like races among the stars. But when these human colonies are threatened and even viciously attacked by really alien civilizations, earth does nothing to help them. Earth, fat, rich earth sits back and lets her own colonies be practically wiped out, claiming a neutrality that seems a thin veil for cowardice and deceit. How this happens and the story behind the story is what this exciting story is all about. ([Summary by phil chenevert](https://librivox.org/victory-by-lester-del-rey-2/))
 Genre(s): Science Fiction
 
 
-The Last Evolution
-https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/
-Text: https://www.gutenberg.org/ebooks/27462
+The Last Evolution.  By John Wood Campbell, Jr.  1932  
+The Last Evolution.  (53:00)  
+https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
+Text: https://www.gutenberg.org/ebooks/27462  
 
-Running Time: 00:52:39
-By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)
-John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - Summary by the author
+By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
+>John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
 Genre(s): Science Fiction
 
 
 The Flight of the Shadow.  By Laura M. Dake.  1899  
+The Flight of the Shadow.  (2:02)  
 https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/  
 Text: https://www.loc.gov/item/99002896/  
-By [Laura M. Dake]()
+By Laura M. Dake  (*I could not find biographical information about this author*)  
 
-The original printing of The Flight of the Shadow is a highly sought novel among collectors and tells the tale of an Astral soul who tells a man named John Cecil of a story of the American Revolution, a story of lost love and murder, a story of reincarnation and fate. Enjoy this rare briskly told supernatural book of adventure and weirdness that few before have experienced! - Summary by Ben Tucker
+The original printing of The Flight of the Shadow is a highly sought novel among collectors and tells the tale of an Astral soul who tells a man named John Cecil of a story of the American Revolution, a story of lost love and murder, a story of reincarnation and fate. Enjoy this rare briskly told supernatural book of adventure and weirdness that few before have experienced! - [Summary by Ben Tucker](https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/)  
 
 
 
 The Creatures That Time Forgot.  By Ray Bradbury.  1946  
+The Creatures That Time Forgot.  (1:51)  
 https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
 Text: https://www.gutenberg.org/ebooks/63874  
 By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
@@ -1459,6 +1478,7 @@ Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life cond
 
 
 Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946  
+Lorelei of the Red Mist.  (2:51)  
 https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/  
 Text: https://www.gutenberg.org/ebooks/63917  
 By [Leigh Douglass Brackett](http://en.wikipedia.org/wiki/Leigh_Brackett) (1915 - 1978) and [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
