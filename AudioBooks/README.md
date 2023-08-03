@@ -1106,6 +1106,25 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>Climate--Incorporated. By George O. Smith.  1948</summary>  
+
+### Climate--Incorporated (01:15)  
+https://librivox.org/climate-incorporated-by-george-o-smith/  
+Text: https://gutenberg.org/ebooks/69820  
+By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  Ever so slightly interesting juvenile/young adult science fiction in which an inventor *accidently* creates a *time machine*.  The plans are stolen.  Corrupt politicians attempt advantage.  Conflict.  Resolution.  Nothing special...  It **might** be worth an hour and a quarter of your time as you work at some other *mindless* task.  Excellent reading by "quartertone."  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late. - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
+
+</details>
+</details>
+
+
+<details>
 <summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
@@ -1340,25 +1359,6 @@ Reader's Notes:
 This juvenile/young adult science fiction explores the idea that *civilization* invented *the perfect* punishment system -- "*the Disciplinary Circuit*" that caused unbarable pain when applied.  The system could be applied to any targeted individual.  The author argues that any society where *the few* have the means of *perfect* control over *the many* results in terrible corruption and decay -- eventualy, self-destruction.  Leinster is optimistic, though, and has banished *criminals* rebuilding a *just* and society.  ...ignore much of the "*science*" and this may be worth its short run-time.  
 Librivox Summary:  
 >The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure.  The Council want only what is best for you and society.  Trust the council and the Disciplinary Circuit.  Good citizens are happy and obey.  You are a good citizen.  Aren't you? Of course you are. - Summary by [Phil Chenevert](https://librivox.org/the-disciplinary-circuit-by-murray-leinster/)  
-
-</details>
-</details>
-
-
-<details>
-<summary>Climate--Incorporated. By George O. Smith.  1948</summary>  
-
-### Climate--Incorporated (01:15)  
-https://librivox.org/climate-incorporated-by-george-o-smith/  
-Text: https://gutenberg.org/ebooks/69820  
-By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
-
-Reader's Notes:  Ever so slightly interesting juvenile/young adult science fiction in which an inventor *accidently* creates a *time machine*.  The plans are stolen.  Corrupt politicians attempt advantage.  Conflict.  Resolution.  Nothing special...  It **might** be worth an hour and a quarter of your time as you work at some other *mindless* task.  Excellent reading by "quartertone."  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late. - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
 
 </details>
 </details>
