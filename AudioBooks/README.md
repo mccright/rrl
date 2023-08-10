@@ -278,6 +278,28 @@ Frederick von Kammacher is a young doctor in Germany whose wife has gone insane,
 </details>
 
 <details>
+<summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
+
+### Climate--Incorporated (0:02:41)  
+Four Librivox versions available:  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln/  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln-version-2/  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln-3/  
+Text: https://www.gutenberg.org/etext/4  
+By [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) (February 12, 1809 – April 15, 1865)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  Everyone residing in the United States of America should listen to this speech once in a while.  If you are not familiar with the context of this speech, the [Wikipedia Summary](https://en.wikipedia.org/wiki/Gettysburg_Address) provides an excellent resource.  
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Gettysburg_Address](https://en.wikipedia.org/wiki/Gettysburg_Address)  
+Librivox Summary:  
+>The Dedication of the National Cemetery at Gettysburg, in November, 1863, followed a few short months after the roiling, acrid clouds of gun smoke dissipated, leaving a little crossroads town in Pennsylvania heir to the human tragedy of over 7,000 corpses and 21,000 men suffering wounds. It was a most unnatural disaster. On November 19, the chief executive made the trip to the still-dazed, shot-torn community to deliver, almost as an afterthought (for he was not the keynote speaker), an address that clarified his belief that the Negro race should be liberated from their slavery, and that despite the loss of so much blood and life, the Union should hold to the goal of completing this emancipation. That he knew the eyes of the nation would rest of him was evident; this address was the first speech since his inauguration that he prepared in advance. But these carefully crafted words - only 269 of them - became a vital part of our nation's identity, and are a signature to the bedrock of our beliefs. - Summary by [Mark F. Smith](https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/)  
+
+</details>
+</details>
+
+<details>
 <summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
