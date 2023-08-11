@@ -849,6 +849,25 @@ Librivox Summary:
 </details>
 </details>
 
+<details>
+<summary>Victory.  By Lester del Rey.  1955 </summary>  
+
+### Victory.  (1:59)  
+https://librivox.org/victory-by-lester-del-rey-2/  
+Text: https://www.gutenberg.org/ebooks/24196  
+
+By [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+This is a supremely cynical story that seems to be as much about the USA in the 1950s as it about a star-hopping mercenary and his bosses.  
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>The earth is undefended. A ripe, juicy, rich plum just innocently waiting for one of the many new and warlike civilizations in the nearby universe to reach down and pluck to plunder and rape. Well... undefended can mean many things. In this case, humans have colonized many worlds and found many surprisingly human like races among the stars. But when these human colonies are threatened and even viciously attacked by really alien civilizations, earth does nothing to help them. Earth, fat, rich earth sits back and lets her own colonies be practically wiped out, claiming a neutrality that seems a thin veil for cowardice and deceit. How this happens and the story behind the story is what this exciting story is all about. ([Summary by phil chenevert](https://librivox.org/victory-by-lester-del-rey-2/))  
+
+</details>
+</details>
 
 <details>
 <summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
@@ -1457,16 +1476,6 @@ By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)
 The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
 Genre(s): Science Fiction
 
-
-Victory.  By Lester del Rey.  1955
-Victory.  (1:59)  
-https://librivox.org/victory-by-lester-del-rey-2/
-Text: https://www.gutenberg.org/ebooks/24196
-
-Running Time: 01:59:21
-By [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)
-The earth is undefended. A ripe, juicy, rich plum just innocently waiting for one of the many new and warlike civilizations in the nearby universe to reach down and pluck to plunder and rape. Well... undefended can mean many things. In this case, humans have colonized many worlds and found many surprisingly human like races among the stars. But when these human colonies are threatened and even viciously attacked by really alien civilizations, earth does nothing to help them. Earth, fat, rich earth sits back and lets her own colonies be practically wiped out, claiming a neutrality that seems a thin veil for cowardice and deceit. How this happens and the story behind the story is what this exciting story is all about. ([Summary by phil chenevert](https://librivox.org/victory-by-lester-del-rey-2/))
-Genre(s): Science Fiction
 
 
 The Last Evolution.  By John Wood Campbell, Jr.  1932  
