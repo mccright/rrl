@@ -1357,6 +1357,8 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 https://librivox.org/the-fifth-queen-by-ford-madox-ford/  
 Text: https://www.gutenberg.org/ebooks/30188  
 By [Ford Madox Ford](https://en.wikipedia.org/wiki/Ford_Madox_Ford) (1873 - 1939)  
+Reading Notes:  
+This is historical **fiction**.  It attempts to help us understand many of the characters that surrounded King Henry VIII.  While there may be facts upon which to base many of these characterizations, considerable effort and story-telling went into building out gaps in those facts.  With those caveats, enjoy the book.  I did.  
 Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen  
 >The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. ([Summary by Wikipedia](https://en.wikipedia.org/wiki/The_Fifth_Queen))  
 
