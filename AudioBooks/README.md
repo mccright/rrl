@@ -942,6 +942,24 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>  
+
+### The Disciplinary Circuit.  (1:36)  
+https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
+Text: https://www.gutenberg.org/ebooks/69448  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)  
+<details>  
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
+
+Reader's Notes:  
+This juvenile/young adult science fiction explores the idea that *civilization* invented *the perfect* punishment system -- "*the Disciplinary Circuit*" that caused unbarable pain when applied.  The system could be applied to any targeted individual.  The author argues that any society where *the few* have the means of *perfect* control over *the many* results in terrible corruption and decay -- eventualy, self-destruction.  Leinster is optimistic, though, and has banished *criminals* rebuilding a *just* and society.  ...ignore much of the "*science*" and this may be worth its short run-time.  
+Librivox Summary:  
+>The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure.  The Council want only what is best for you and society.  Trust the council and the Disciplinary Circuit.  Good citizens are happy and obey.  You are a good citizen.  Aren't you? Of course you are. - Summary by [Phil Chenevert](https://librivox.org/the-disciplinary-circuit-by-murray-leinster/)  
+
+</details>
+</details>
+
+<details>
 <summary>Preferred Risk. By Frederik Pohl, 1955</summary>
 
 ### Preferred Risk (06:26)  
@@ -1400,24 +1418,6 @@ Librivox Summary:
 </details>
 </details>
 
-
-<details>
-<summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>  
-
-### The Disciplinary Circuit.  (1:36)  
-https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
-Text: https://www.gutenberg.org/ebooks/69448  
-By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)  
-<details>  
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-This juvenile/young adult science fiction explores the idea that *civilization* invented *the perfect* punishment system -- "*the Disciplinary Circuit*" that caused unbarable pain when applied.  The system could be applied to any targeted individual.  The author argues that any society where *the few* have the means of *perfect* control over *the many* results in terrible corruption and decay -- eventualy, self-destruction.  Leinster is optimistic, though, and has banished *criminals* rebuilding a *just* and society.  ...ignore much of the "*science*" and this may be worth its short run-time.  
-Librivox Summary:  
->The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure.  The Council want only what is best for you and society.  Trust the council and the Disciplinary Circuit.  Good citizens are happy and obey.  You are a good citizen.  Aren't you? Of course you are. - Summary by [Phil Chenevert](https://librivox.org/the-disciplinary-circuit-by-murray-leinster/)  
-
-</details>
-</details>
 
 <details>
 <summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
