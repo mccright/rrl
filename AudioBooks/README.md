@@ -870,6 +870,20 @@ Librivox Summary:
 </details>
 
 <details>
+<summary>The Fifth Queen.  By Ford Madox Ford.  1906-1908 </summary>
+
+### The Fifth Queen.  By Ford Madox Ford.  (7:36)  
+https://librivox.org/the-fifth-queen-by-ford-madox-ford/  
+Text: https://www.gutenberg.org/ebooks/30188  
+By [Ford Madox Ford](https://en.wikipedia.org/wiki/Ford_Madox_Ford) (1873 - 1939)  
+Reading Notes:  
+This is historical **fiction**.  It attempts to help us understand many of the characters that surrounded King Henry VIII.  While there may be facts upon which to base many of these characterizations, considerable effort and story-telling went into building out gaps in those facts.  With those caveats, enjoy the book.  I did.  
+Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen  
+>The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. ([Summary by Wikipedia](https://en.wikipedia.org/wiki/The_Fifth_Queen))  
+
+</details>
+
+<details>
 <summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
@@ -1145,6 +1159,20 @@ Librivox Summary:
 </details>
 </details>
 
+<details>
+<summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
+
+### Behind a Mask, or a Woman's Power.  (4:08)  
+https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
+Text: https://www.gutenberg.org/ebooks/8677  
+By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Behind_a_Mask  
+Librivox Summary:  
+>Fans of Louisa May Alcott's Little Women will remember that her heroine Jo wrote racy novels before turning her hand to more "serious" literature. Alcott, writing under the pseudonym A. M. Barnard, often did the same, and Behind a Mask (1866) is one of her sensation novels. It focuses on Jean Muir, who enters the home of the wealthy Coventry family as governess to their sixteen-year-old daughter. But is the beguiling Miss Muir all that she seems to be? [Summary by Elizabeth Klett](https://librivox.org/behind-a-mask-by-louisa-may-alcott/)  
+
+</details>
+
 
 <details>
 <summary>Atomic!  By Henry Kuttner.  1947</summary>  
@@ -1368,19 +1396,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 ## Pending or Currently Underway:  
 
 
-<details>
-<summary>The Fifth Queen.  By Ford Madox Ford.  1906-1908 </summary>
-
-### The Fifth Queen.  By Ford Madox Ford.  (7:36)  
-https://librivox.org/the-fifth-queen-by-ford-madox-ford/  
-Text: https://www.gutenberg.org/ebooks/30188  
-By [Ford Madox Ford](https://en.wikipedia.org/wiki/Ford_Madox_Ford) (1873 - 1939)  
-Reading Notes:  
-This is historical **fiction**.  It attempts to help us understand many of the characters that surrounded King Henry VIII.  While there may be facts upon which to base many of these characterizations, considerable effort and story-telling went into building out gaps in those facts.  With those caveats, enjoy the book.  I did.  
-Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen  
->The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. ([Summary by Wikipedia](https://en.wikipedia.org/wiki/The_Fifth_Queen))  
-
-</details>
 
 
 <details>
@@ -1433,20 +1448,6 @@ Librivox Summary:
 
 </details>
 
-
-<details>
-<summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
-
-### Behind a Mask, or a Woman's Power.  (4:08)  
-https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
-Text: https://www.gutenberg.org/ebooks/8677  
-By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
-
-Wikipedia Summary:  https://en.wikipedia.org/wiki/Behind_a_Mask  
-Librivox Summary:  
->Fans of Louisa May Alcott's Little Women will remember that her heroine Jo wrote racy novels before turning her hand to more "serious" literature. Alcott, writing under the pseudonym A. M. Barnard, often did the same, and Behind a Mask (1866) is one of her sensation novels. It focuses on Jean Muir, who enters the home of the wealthy Coventry family as governess to their sixteen-year-old daughter. But is the beguiling Miss Muir all that she seems to be? [Summary by Elizabeth Klett](https://librivox.org/behind-a-mask-by-louisa-may-alcott/)  
-
-</details>
 
 
 <details>
