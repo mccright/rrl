@@ -103,6 +103,22 @@ Reading Notes:
 </details>
 </details>
 
+
+<details>
+<summary>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>  
+
+### The Lord of the Sea  
+https://www.gutenberg.org/ebooks/6993  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
+Reading Notes and 3rd Party Summaries:  
+Reading Notes:  
+3rd Party Summaries:  
+"The Lord of the Sea." January 8, 2021 by Philip Jenkins https://www.patheos.com/blogs/anxiousbench/2021/01/the-lord-of-the-sea-2/  
+"The First Alt-Right Novel? -- M. P. Shiel’s Weird Anti-Semitism." 2016(?), By James J. O'Meara. https://counter-currents.com/2016/08/m-p-shiels-weird-anti-semitism/  
+
+</details>
+
+
 <details>
 <summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>  
 
@@ -296,6 +312,8 @@ By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)
 
 </details>
 
+
+
 <details>
 <summary> </summary>  
 ###   
@@ -406,10 +424,6 @@ By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shi
 https://www.gutenberg.org/ebooks/11229  
 By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 Summary: Adam Jeffson finds himself the last man alive on Earth.  
-
-### The Lord of the Sea  
-https://www.gutenberg.org/ebooks/6993  
-By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
 
 ### The Last Miracle  
 https://www.gutenberg.org/ebooks/41794  
