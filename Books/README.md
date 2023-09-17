@@ -81,6 +81,33 @@ This is an excellent story about a collection of kind people starting with a cha
 
 </details>
 
+<details>
+<summary>The Wright Brothers. By David McCullough. 2015</summary>
+
+### The Wright Brothers.  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (July 7, 1933 – August 7, 2022)  
+Publisher: Simon & Schuster Audio, 2015.  
+[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=178265)  
+Readers Notes:  Author David McCullough describes the unique, courageous brothers, Wilbur and Orville Wright, who did the science, engineering, and construction leading to the first powered, heavier-than-air machine to achieve controlled, sustained flight with a pilot aboard on December 17, 1903 at Kitty Hawk, North Carolina.  McCullough carries the story through the brother's *perfection* of their machine and its marketing to a sometimes flight-crazed world, their efforts to protect their patents -- all the while providing context by weaving in the brother's family life.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)  
+
+</details>
+
+<details>
+<summary>The Rose Code. By Kate Quinn  2021</summary>
+
+### The Rose Code.  
+https://www.katequinnauthor.com/books/the-rose-code/  
+[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/searchresults.aspx?ctx=3.1033.0.0.3&type=Keyword&term=the%20rose%20code&by=TI&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=3)  
+Overdrive audio: [https://catalog.urbandalelibrary.org/polaris/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=404190)
+By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
+World War, 1939-1945 -- Fiction  
+ISBN: 9780063059412  
+Reading Notes:  
+This is a useful and entertaining (*fictional*) history about the WWII cryptographers (*and others*) of Bletchley Park -- the operators and mathematicians that play a material role in the history of computers and code-breaking.  
+
+</details>
+
 
 <details>
 <summary>Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  By Ellen Carol Dubois  2020</summary>
@@ -128,6 +155,7 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
 
 
 
+
 <details>
 <summary>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
 
@@ -137,7 +165,7 @@ By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 - ),
 <details>
 <summary>Reading Notes and 3rd Party Reviews:</summary>
 
-Reading Notes:  
+Reading Notes:  An interesting investigation of the 1893 Chicago World's Fair, and the serial murderer who took advantage of those attracted to the city during its construction and run-time.  
 
 3rd Party Summaries:  
 https://en.wikipedia.org/wiki/The_Devil_in_the_White_City  
@@ -268,18 +296,6 @@ ISBN: 9780063074323
 
 </details>
 
-<details>
-<summary>The Rose Code. By Kate Quinn  2021</summary>
-
-### The Rose Code.  
-https://www.katequinnauthor.com/books/the-rose-code/  
-[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/searchresults.aspx?ctx=3.1033.0.0.3&type=Keyword&term=the%20rose%20code&by=TI&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=3)  
-Overdrive audio: [https://catalog.urbandalelibrary.org/polaris/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=404190)
-By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
-World War, 1939-1945 -- Fiction  
-ISBN: 9780063059412  
-
-</details>
 
 <details>
 <summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
