@@ -1483,6 +1483,20 @@ Librivox Summary:
 NEEDS FORMATTING BELOW:
 
 
+Matrix.
+By Lauren Groff
+Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....
+
+
+
+"Darwin's Ghosts."
+By Stott, Rebecca
+https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154
+A NEW YORK TIMES NOTABLE BOOK "[An] extraordinarily wide-ranging and engaging book [about] the men who shaped the work of Charles Darwin . . . a book that enriches our understanding of how the struggle to think new thoughts is shared across time and space and people."-- The Sunday Telegraph (London) Soon after the publication of On the Origin of Species, Charles Darwin received an unsettling letter that accused him of taking credit for a theory that had already been discovered by others. Realizing his error of omission, Darwin tried to trace all of the natural philosophers who had laid the groundwork for his theory, but he found that history had already forgotten many of them. Rebecca Stott goes in search of these ghosts, telling the epic story of the discovery of evolution and natural selection from Aristotle to the ninth-century Arab writer Al-Jahiz to Leonardo da Vinci to the brilliant naturalists of the Jardin des Plantes to Alfred Wallace and Erasmus Darwin, and finally to Charles Darwin himself. Evolution was not discovered single-handedly. It was an idea that was advanced over centuries by daring individuals across the globe who had the imagination to speculate on nature's extraordinary ways--and the courage to articulate such speculations at a time when to do so was often considered heresy. Praise for Darwin's Ghosts "Absorbing . . . Stott captures the breathless excitement of an investigation on the cusp of the unknown. . . . A lively, original book."-- The New York Times Book Review "Stott's research is broad and unerring; her book is wonderful. . . . An exhilarating romp through 2,000 years of fascinating scientific history."-- Nature "Stott brings Darwin himself to life. . . . [She] writes with a novelist's flair. . . . Darwin and the 'ghosts' so richly described in Ms. Stott's enjoyable book are the descendants of Aristotle and Bacon and the ancestors of today's scientists."-- The Wall Street Journal "Riveting . . . Stott has done a wonderful job in showing just how many extraordinary people had speculated on where we came from before the great theorist dispelled all doubts."-- The Guardian (U.K.) 
+
+
+
+
 "Darwin's Ghosts."
 By Stott, Rebecca
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154
