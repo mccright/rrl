@@ -1550,6 +1550,15 @@ Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life cond
 
 
 
+Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol  
+Running Time: 22:24:13, Read by: Aaron Bennett  
+https://librivox.org/final-report-of-the-select-committee-to-investigate-the-january-sixth-attack-on-the-united-states-capitol-by-united-states-house-of-representatives/  
+Text: https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/index.html  
+Archived Original Report: https://www.webharvest.gov/congress117th/20221231143403/january6report.house.gov/ and https://www.webharvest.gov/congress117th/20221224181921/https://january6th.house.gov/report-executive-summary  
+By the [United States House of Representatives](https://en.wikipedia.org/wiki/United_States_House_of_Representatives) and the [United States House Select Committee on the January 6 Attack](https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_the_January_6_Attack)  
+Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov  
+>This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
+
 
 NEEDS FORMATTING ABOVE
 
