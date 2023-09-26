@@ -1421,11 +1421,10 @@ Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Rob
 <details>
 <summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
 
-Reader's Notes:  
+Reader's Notes: What an excellent book!  We go on a fast-moving journey with a young apprentice shaman, his teacher, a small band of hunter-gatherers, and the others who join the story along the way.  We learn a lot about [stone age](https://en.wikipedia.org/wiki/Stone_Age) / [ice age](https://en.wikipedia.org/wiki/Last_Glacial_Period) [European early modern humans](https://en.wikipedia.org/wiki/European_early_modern_humans).  
 
-Librivox and Other 3rd Party Summaries:  
+3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
->  
 
 </details>
 </details>
