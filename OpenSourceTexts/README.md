@@ -103,6 +103,29 @@ Reading Notes:
 </details>
 </details>
 
+My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891  
+https://www.gutenberg.org/ebooks/71726  
+https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
+https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
+Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what is was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
+This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  
+
+[Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
+>The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
+
+
+
+
+
+
+The Evolution Of Religion: An Anthropological Study. By Lewis Richard Farnell. 1905  
+https://www.gutenberg.org/ebooks/71722  
+By [Lewis Richard Farnell]() (1856-1934)  
+
+
+A Summer Journey In The West. By Eliza R. Steele 1841  
+https://www.gutenberg.org/ebooks/71725  
+By Eliza R. Steele ()  
 
 <details>
 <summary>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>  
