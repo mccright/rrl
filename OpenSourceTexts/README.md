@@ -82,6 +82,44 @@ https://www.gutenberg.org/ebooks/215
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
   
+<details>
+<summary>The Lake.  By Ray Bradbury.  1944</summary>  
+
+### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
+. . . and the Lake keeps people as they tvere, forever and ever  
+https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
+By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
+Summary from Wikipedia:  
+https://en.wikipedia.org/wiki/The_Lake_(short_story)  
+Background from Wikipedia:  
+>Bradbury recounted when he came into his own as a writer, the afternoon he wrote a short story about his first encounter with death. When he was a boy, he met a young girl at a lake edge and she went out into the water and never came back. Years later (*at 22 years old*), as he wrote about it, tears flowed from him. He recognized he had taken the leap from emulating the many writers he admired to connecting with his voice as a writer.  When later asked about the lyrical power of his prose, he replied: "From reading so much poetry every day of my life. My favorite writers have been those who've said things well." He said: "If you're reluctant to weep, you won't live a full and complete life." [https://en.wikipedia.org/wiki/Ray_Bradbury#Writing](https://en.wikipedia.org/wiki/Ray_Bradbury#Writing)  
+
+</details>
+</details>
+
+<details>
+<summary>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>  
+### My Three Years In Manipur: And Escape From The Recent Mutiny.  
+https://www.gutenberg.org/ebooks/71726  
+https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
+https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
+By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>  
+
+Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
+This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
+
+3rd Party Summaries:  
+[Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
+>The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
+
+</details>
+</details>
 
 -----
 
@@ -102,21 +140,6 @@ Reading Notes:
 
 </details>
 </details>
-
-My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891  
-https://www.gutenberg.org/ebooks/71726  
-https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
-https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
-Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
-This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
-
-[Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
->The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
-
-
-
-
-
 
 The Evolution Of Religion: An Anthropological Study. By Lewis Richard Farnell. 1905  
 https://www.gutenberg.org/ebooks/71722  
@@ -158,24 +181,6 @@ Librivox Summary:
 
 
 
-<details>
-<summary>The Lake.  By Ray Bradbury.  1944</summary>  
-
-### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
-. . . and the Lake keeps people as they tvere, forever and ever  
-https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
-By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
-
-Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
-Summary from Wikipedia:  
-https://en.wikipedia.org/wiki/The_Lake_(short_story)  
-Background from Wikipedia:  
->Bradbury recounted when he came into his own as a writer, the afternoon he wrote a short story about his first encounter with death. When he was a boy, he met a young girl at a lake edge and she went out into the water and never came back. Years later (*at 22 years old*), as he wrote about it, tears flowed from him. He recognized he had taken the leap from emulating the many writers he admired to connecting with his voice as a writer.  When later asked about the lyrical power of his prose, he replied: "From reading so much poetry every day of my life. My favorite writers have been those who've said things well." He said: "If you're reluctant to weep, you won't live a full and complete life." [https://en.wikipedia.org/wiki/Ray_Bradbury#Writing](https://en.wikipedia.org/wiki/Ray_Bradbury#Writing)  
-
-</details>
-</details>
 
 <details>
 <summary>Mahatma Gandhi: The Man Who Became One With the Universal Being. 1924</summary>  
