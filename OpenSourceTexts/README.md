@@ -121,6 +121,21 @@ This book includes some sterotyping based on race, ethnicity and other character
 </details>
 </details>
 
+<details>
+<summary>The Expendables. by A. E. Van Vogt  1963</summary>  
+
+### The Expendables.  
+https://www.gutenberg.org/ebooks/70235  
+By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
+...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
+<details>
+<summary>Reading Notes</summary>  
+
+Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  
+
+</details>
+</details>
+
 -----
 
 
@@ -212,20 +227,6 @@ Reading Notes:
 </details>
 
 
-<details>
-<summary>The Expendables. by A. E. Van Vogt  1963</summary>  
-
-### The Expendables.  
-https://www.gutenberg.org/ebooks/70235  
-By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
-...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
-<details>
-<summary>Reading Notes</summary>  
-
-Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  
-
-</details>
-</details>
 
 <details>
 <summary>The Wade Prisoner of War Papers - WWII.  By Dr. Wade Walter Nyquist 1995  </summary>  
