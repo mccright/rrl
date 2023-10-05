@@ -195,6 +195,17 @@ https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/
 
 </details>
 
+<details>
+<summary>Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power. By Noam Chomsky.  2017</summary>
+
+### Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power.  
+By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)  
+[Wikipedia Summary](https://en.wikipedia.org/wiki/Requiem_for_the_American_Dream):  
+>(*This is*) a book by political activist and linguist Noam Chomsky. It was created and edited by Peter Hutchinson, Kelly Nyks, and Jared P. Scott. It lays out Chomsky's analysis of [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism).  It focuses on the concentration of wealth and power in United States over the past forty years, analyzing the [income inequality](https://en.wikipedia.org/wiki/Economic_inequality).  The book was published by Seven Stories Press in 2017.  
+>The book charts Chomsky's analysis of the concentration of wealth from the 1970s to now. Chomsky analyzes the way in which power relations shifted from the late 1940s to today, in the name of "plutocratic interests".[2] This shift in power relations ends up being an assault "on lower- and middle-class people, which has escalated in recent decades during the ascendancy of what is known as 'neoliberalism' – with fiscal austerity for the poor and tax cuts and other subsidies for the wealthy minority."[3] Chomsky is most interested in how the rise of financialization, which "is a process whereby financial markets, financial institutions, and financial elites gain greater influence over economic policy and economic outcomes,"[4] and how it affects and shapes public life in America, leading to a concentration of wealth and power to elite persons and institutions. This has been shown to lead to phenomena like the richest people in the world having as much wealth as the bottom half of the world.  
+
+</details>
+
 
 <details>
 <summary>How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts. By Ian Brennan.  2016</summary>
@@ -386,6 +397,7 @@ By [John Ehrenreich](https://en.wikipedia.org/wiki/John_Ehrenreich), Published 2
 [About this book.](https://link.springer.com/book/10.1007/978-3-031-04964-4?noAccess=true#about-this-book)  
 
 </details>
+
 
 <details>
 <summary>Wake: The Hidden History of Women-Led Slave Revolts.  By Rebecca Hall.  2021</summary>
