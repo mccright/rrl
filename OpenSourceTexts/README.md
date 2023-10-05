@@ -167,6 +167,49 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>The history of our Navy from its origin to the present day 1775-1897, vol. 1 (of 4). By John Randolph Spears. 1897</summary>
+https://www.gutenberg.org/ebooks/71794
+By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
+
+</details>
+
+<details>
+<summary>The history of our Navy from its origin to the present day 1775-1897, vol. 2 (of 4). By John Randolph Spears. 1897</summary>
+https://www.gutenberg.org/ebooks/71795
+By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
+
+</details>
+
+<details>
+<summary>The history of our Navy from its origin to the present day 1775-1897, vol. 3 (of 4). By John Randolph Spears. 1897</summary>
+https://www.gutenberg.org/ebooks/71796
+By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
+
+</details>
+
+<details>
+<summary>The history of our Navy from its origin to the present day 1775-1897, vol. 4 (of 4). By John Randolph Spears. 1897</summary>
+https://www.gutenberg.org/ebooks/71797
+By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
+
+</details>
+
+<details>
+<summary>The Story of the American Merchant Marine.  By John Randolph Spears. 1910</summary>
+https://www.gutenberg.org/ebooks/53122
+By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
+
+</details>
+
+
+<details>
+<summary>Steel: A manual for steel users. By William Metcalf. 1896</summary>  
+https://www.gutenberg.org/ebooks/71782  
+By [William Metcalf](https://en.wikipedia.org/wiki/William_Metcalf_(manufacturer)) (1838 - 1909)  
+
+</details>
+
 New-Englands Plantation with The Sea Journal and Other Writings.  
 https://www.gutenberg.org/ebooks/71799  
 By [Rev. Francis Higginson](https://en.wikipedia.org/wiki/Francis_Higginson)  (First Minister of the Plantation at Salem in the Massachusetts Bay Colony) 1908  
