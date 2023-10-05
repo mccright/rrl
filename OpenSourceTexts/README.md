@@ -63,6 +63,16 @@ https://www.gutenberg.org/ebooks/68694
 By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911), published 1893  
 Summary: Historical fiction likely targeted at middle-schoolers...  [Charles Langlade](https://en.wikipedia.org/wiki/Charles_Michel_de_Langlade) and (*fictional*) Roger Boscowen, friends since childhood, part ways when they choose opposite sides in the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (*1750s*).  Famous French General [Louis de Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) joined Canada and is helped by Langlade -- but less by Canadian Governor [Marquis de Vaudreuil-Cavagnial](https://en.wikipedia.org/wiki/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial).  Some in the government of French Canada use De Montcalm's daughter to increase the complexity of the General's job...  This is not a history of the French and Indian War and veers far from some of the facts as they are known today.  Rather, it is a morality tale, a family drama, and a coming-of-age story that occurs mid-18th century New England.  
 
+<details>
+<summary>The Quantum Jump.  By Robert Wicks.  1958</summary>  
+### The Quantum Jump.  
+https://www.gutenberg.org/ebooks/24418  
+This story was published in Amazing Science Fiction Stories, October 1958.
+By [Robert Wicks]()  ( – ) [*I can't find any bio information for Robert Wicks*]  
+Reading Notes:  
+This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  There are at least three audio versions of this short story.  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+</details>
+
 ### Invasion  
 https://www.gutenberg.org/ebooks/29455  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
@@ -155,6 +165,25 @@ Reading Notes:
 
 </details>
 </details>
+
+
+New-Englands Plantation with The Sea Journal and Other Writings.  
+https://www.gutenberg.org/ebooks/71799  
+By [Rev. Francis Higginson](https://en.wikipedia.org/wiki/Francis_Higginson)  (First Minister of the Plantation at Salem in the Massachusetts Bay Colony) 1908  
+(*"New-Englands Plantation." by Rev. Francis Higginson, London, 1630*)  
+
+
+The Impersonator.  By Robert Hicks.  1960  
+http://galacticjourney.org/oct-2-1960-second-rate-fun-november-1960-if-science-fiction/  
+[The Impersonator](http://galacticjourney.org/stories/6011IF9.pdf), the third story ever published by Robert Wicks.  In the midling future, the Earth is threatened by an impending Ice Age thanks to humanity’s rapacious exploitation of the planet’s resources.  A host of outrageous plans are developed to fix the problem: from salting ice fields with carbon dust, to altering the axial tilt of the planet, to tapping the heat from the Earth’s core.  It’s not a great story, but I liked Wicks’ satirical presentation of “doubling down” in an attempt to thwart catastrophe.  Three stars.  
+
+
+[*Want to find*]  
+"Patient 926" • short story by Robert Wicks  
+Published in "Satellite Science Fiction." v3 #5, April 1959. 35¢, 64pp+  
+http://www.philsp.com/homeville/SFI/k01540.htm#A1  
+>"Robert Wicks’ Patient 926, in which all children are inoculated against imagination."  
+
 
 The Evolution Of Religion: An Anthropological Study. By Lewis Richard Farnell. 1905  
 https://www.gutenberg.org/ebooks/71722  
