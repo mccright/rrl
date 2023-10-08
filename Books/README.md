@@ -195,6 +195,20 @@ https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/
 
 </details>
 
+
+<details>
+<summary>The Alice Network.  By Kate Quinn.  2017</summary>  
+
+### The Alice Network.  
+http://www.katequinnauthor.com/books/the-alice-network  
+By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
+Reading Notes:  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Alice_Network  
+Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-network-is-a-crackling-tale-of-spies-and-suspense)   
+
+</details>
+
+
 <details>
 <summary>Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power. By Noam Chomsky.  2017</summary>
 
