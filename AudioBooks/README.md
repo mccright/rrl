@@ -4,6 +4,22 @@
 ## Completed:  
 
 <details>
+<summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
+
+### Shaman (15:00)  
+  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
+
+Reader's Notes: What an excellent book!  We go on a fast-moving journey with a young apprentice shaman, his teacher, a small band of hunter-gatherers, and the others who join the story along the way.  We learn a lot about [stone age](https://en.wikipedia.org/wiki/Stone_Age) / [ice age](https://en.wikipedia.org/wiki/Last_Glacial_Period) [European early modern humans](https://en.wikipedia.org/wiki/European_early_modern_humans) and their cultures.  
+
+3rd Party Summaries:  
+Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
+
+</details>
+
+
+<details>
 <summary>The Ambassadors. By Henry James, 1903</summary>
 
 ### The Ambassadors (16:46)  
@@ -1423,24 +1439,6 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 </details>
 
 
-<details>
-<summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
-
-### Shaman (15:00)  
-  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
-Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
-<details>
-<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes: What an excellent book!  We go on a fast-moving journey with a young apprentice shaman, his teacher, a small band of hunter-gatherers, and the others who join the story along the way.  We learn a lot about [stone age](https://en.wikipedia.org/wiki/Stone_Age) / [ice age](https://en.wikipedia.org/wiki/Last_Glacial_Period) [European early modern humans](https://en.wikipedia.org/wiki/European_early_modern_humans).  
-
-3rd Party Summaries:  
-Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
-
-</details>
-</details>
-
 
 <details>
 <summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
@@ -1452,11 +1450,9 @@ Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Rob
 <details>
 <summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
 
-Reader's Notes: What an excellent book!  
+Reader's Notes: Another excellent book!  
 A [generation ship](https://en.wikipedia.org/wiki/Generation_ship) is launched from Earth in 2545 at 0.1 c (i.e. traveling at 108,000,000 km/h or 10% the speed of light). It includes twenty-four self-contained biomes and an average population of two thousand people.  Their destination is the Tau Ceti system to begin colonization of a planet's moon, an Earth analog, which has been named Aurora.  
-
-Freya (teen)  
-Devi (the ship's de facto chief engineer and leader)  
+The book follows Devi (the ship's de facto chief engineer and leader) and Freya (Devi's daughter) and the ship's AI quantum computer through a journey of discovery.  
 
 3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)  
