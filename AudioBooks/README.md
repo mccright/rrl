@@ -1410,6 +1410,18 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 ## Pending or Currently Underway:  
 
+<details>
+<summary>Hamnet. By Maggie O'Farrell. 2020 (13:00) </summary>  
+
+### Hamnet.  
+By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  
+https://en.wikipedia.org/wiki/Hamnet_(novel)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Hamnet_(novel)  (1972 - ___)  
+Review by Miranda France in the Literary Review: https://literaryreview.co.uk/love-in-the-time-of-plague-2  
+
+</details>
+
 
 <details>
 <summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
@@ -1467,7 +1479,6 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 
 </details>
 </details>
-
 
 
 <details>
