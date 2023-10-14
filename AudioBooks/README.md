@@ -4,9 +4,9 @@
 ## Completed:  
 
 <details>
-<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 (13:00) </summary>  
+<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
 
-### Hamnet -- Love in the Time of Plague.  
+### Hamnet -- Love in the Time of Plague. (13:00)  
 By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  (1972 - ___)  
 https://en.wikipedia.org/wiki/Hamnet_(novel)  
 
