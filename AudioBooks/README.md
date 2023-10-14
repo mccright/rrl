@@ -1427,13 +1427,15 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 ## Pending or Currently Underway:  
 
 <details>
-<summary>Hamnet. By Maggie O'Farrell. 2020 (13:00) </summary>  
+<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 (13:00) </summary>  
 
-### Hamnet.  
-By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  
+### Hamnet -- Love in the Time of Plague.  
+By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  (1972 - ___)  
 https://en.wikipedia.org/wiki/Hamnet_(novel)  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/Hamnet_(novel)  (1972 - ___)  
+Reader Notes.  Enter one family's world, more than 4 centuries ago.  Maggie O'Farrell delivers the magic (*her expertly-tuned imagination,  skilful editing and extremely hard work*) of helping the reader join the extended family of William Shakespeare.  The primary lens for this exploration is Agnes (*Anne*) Hathaway -- William Shakespeare is only a minor supporting role.  Marriage, motherhood, power, loss & grief, along with the *daily life* in late 16th century England are made so rich, immediate, intense, and so *real* that it is easy to lose yourself in this story.  In addition to exceptional writing, the reading by [Ell Potter](https://www.beeaudio.com/narrator/ell-potter) seemed a perfect fit.  
+Literary Review by : https://literaryreview.co.uk/love-in-the-time-of-plague-2  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Hamnet_(novel)  
 Review by Miranda France in the Literary Review: https://literaryreview.co.uk/love-in-the-time-of-plague-2  
 
 </details>
