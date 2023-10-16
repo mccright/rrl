@@ -172,6 +172,11 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
 ## Pending or Currently Underway:  
 
 
+### The mysterious case of Rudolf Diesel : genius, power, and deception on the eve of World War I. By Douglas Brunt. 2023  
+https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=493593  
+374 pages  
+Summary:  
+September 29, 1913: the steamship Dresden is halfway between Belgium and England. On board is one of the most famous men in the world, Rudolf Diesel, whose new internal combustion engine is on the verge of revolutionizing global industry forever. But Diesel never arrives at his destination. He vanishes during the night and headlines around the world wonder if it was an accident, suicide, or murder. After rising from an impoverished European childhood, Diesel had become a multi-millionaire with his powerful engine that does not require expensive petroleum-based fuel. In doing so, he became not only an international celebrity but also the enemy of two extremely powerful men: Kaiser Wilhelm II of Germany and John D. Rockefeller, the founder of Standard Oil and the richest man in the world. The Kaiser wanted the engine to power a fleet of submarines that would finally allow him to challenge Great Britain's Royal Navy. But Diesel had intended for his engine to be used for the betterment of mankind and refused to keep the technology out of the hands of the British or any other nation. For John D. Rockefeller, the engine was nothing less than an existential threat to his vast and lucrative oil empire. As electric lighting began to replace kerosene lamps, Rockefeller's bottom line depended on the world's growing thirst for gasoline to power its automobiles and industries. At the outset of this new age of electricity and oil, Europe stood on the precipice of war. Rudolf Diesel grew increasingly concerned about Germany's rising nationalism and military spending. The inventor was on his way to London to establish a new company that would help Britain improve its failing submarine program when he disappeared. -- From publisher's website.  
 
 
 <details>
