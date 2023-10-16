@@ -7,6 +7,7 @@
 <summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
+https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=374479  
 By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  (1972 - ___)  
 https://en.wikipedia.org/wiki/Hamnet_(novel)  
 
@@ -1461,6 +1462,25 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 
 </details>
 </details>
+
+
+Saturn Run.  By John Sandford, Ctein.  2015  
+(17:00)  
+
+Burning Paradise. By Robert Charles Wilson. 2013  
+(12:00)  
+
+A Murder in Time. By Julie McElwain.  2016  
+(19:00)  
+
+The Lost Apothecary: A Novel. By Sarah Penner. 2021  
+(10:18)  
+
+The Invisible Life of Addie LaRue. By V. E. Schwab. 2020   
+(17:10)  
+
+The Blood of Flowers. By Anita Amirrezvani. 2007  
+(13:18)  
 
 
 <details>
