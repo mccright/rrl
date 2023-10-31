@@ -65,6 +65,20 @@ Librivox Summary:
 
 </details>
 
+
+<details>
+<summary>Mornings on Horseback. By David McCullough.  1981 </summary>  
+
+### Mornings on Horseback. (9:44)  
+https://en.wikipedia.org/wiki/Mornings_on_Horseback  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+
+Reader's Notes: Biography of the young Theodore Roosevelt.  A heavily researched biography of an important U.S. President. A good story.  A social history of the time.  
+See the Wikipedia summary: https://en.wikipedia.org/wiki/Mornings_on_Horseback  
+
+</details>
+
+
 <details>
 <summary>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>  
 
@@ -1500,12 +1514,6 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140
 </details>
 
 
-Mornings on Horseback. By David McCullough.  
-9:44  
-https://en.wikipedia.org/wiki/Mornings_on_Horseback  
-By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
-Biography of the young Theodore Roosevelt.  A heavily researched biography of an important U.S. President. A good story.  A social history of the time.  
-See the Wikipedia summary: https://en.wikipedia.org/wiki/Mornings_on_Horseback  
 
 Also, look at and pick one of these SiFi novels...  
 
