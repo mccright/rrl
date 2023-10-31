@@ -1500,6 +1500,46 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140
 </details>
 
 
+Mornings on Horseback. By David McCullough.  
+9:44  
+https://en.wikipedia.org/wiki/Mornings_on_Horseback  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+Biography of the young Theodore Roosevelt.  A heavily researched biography of an important U.S. President. A good story.  A social history of the time.  
+See the Wikipedia summary: https://en.wikipedia.org/wiki/Mornings_on_Horseback  
+
+Also, look at and pick one of these SiFi novels...  
+
+The Last Watch.  By J.S. Dewes.  2021  
+https://www.goodreads.com/book/show/53205794-the-last-watch  
+https://www.jsdewes.com/about  
+
+Shards of Earth.  By Adrian Tchaikovsky.  2021
+https://www.goodreads.com/book/show/55278507-shards-of-earth  
+By Adrian Tchaikovsky  
+
+The Blighted Stars. By Megan E. O'Keefe  
+https://www.goodreads.com/book/show/58340705-the-blighted-stars  
+
+Velocity Weapon. By Megan E. O'Keefe.  
+https://www.goodreads.com/book/show/41085049-velocity-weapon  
+
+Catalyst Gate. By Megan E. O'Keefe  
+https://www.goodreads.com/book/show/55836835-catalyst-gate  
+
+Eversion.  By Alastair Reynolds  
+https://www.goodreads.com/book/show/58727132-eversion  
+
+Infinity Gate. By M.R. Carey  
+https://www.goodreads.com/book/show/61237044-infinity-gate  
+
+Translation State. By Ann Leckie  
+https://www.goodreads.com/book/show/62873999-translation-state  
+
+Inhibitor Phase. By Alastair Reynolds  
+https://www.goodreads.com/book/show/56072402-inhibitor-phase  
+
+
+
 Saturn Run.  By John Sandford, Ctein.  2015  
 (17:00)  
 
