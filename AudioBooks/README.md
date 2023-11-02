@@ -36,6 +36,27 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)
 
 
 <details>
+<summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
+
+### Aurora (17:00)  
+  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
+<details>
+<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes: Another excellent book!  
+A [generation ship](https://en.wikipedia.org/wiki/Generation_ship) is launched from Earth in 2545 at 0.1 c (i.e. traveling at 108,000,000 km/h or 10% the speed of light). It includes twenty-four self-contained biomes and an average population of two thousand people.  Their destination is the Tau Ceti system to begin colonization of a planet's moon, an Earth analog, which has been named Aurora.  
+The book follows Devi (the ship's de facto chief engineer and leader) and Freya (Devi's daughter) and the ship's AI quantum computer through a journey of discovery.  
+
+3rd Party Summaries:  
+Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)  
+
+</details>
+</details>
+
+
+<details>
 <summary>The Ambassadors. By Henry James, 1903</summary>
 
 ### The Ambassadors (16:46)  
@@ -1472,26 +1493,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 ## Pending or Currently Underway:  
 
-
-<details>
-<summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
-
-### Aurora (17:00)  
-  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
-Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
-<details>
-<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes: Another excellent book!  
-A [generation ship](https://en.wikipedia.org/wiki/Generation_ship) is launched from Earth in 2545 at 0.1 c (i.e. traveling at 108,000,000 km/h or 10% the speed of light). It includes twenty-four self-contained biomes and an average population of two thousand people.  Their destination is the Tau Ceti system to begin colonization of a planet's moon, an Earth analog, which has been named Aurora.  
-The book follows Devi (the ship's de facto chief engineer and leader) and Freya (Devi's daughter) and the ship's AI quantum computer through a journey of discovery.  
-
-3rd Party Summaries:  
-Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)  
-
-</details>
-</details>
 
 <details>
 <summary>New York 2140, By Kim Stanley Robinson. 2017 </summary>  
