@@ -39,7 +39,7 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)
 <summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
 
 ### Aurora (17:00)  
-  
+
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 <details>
@@ -1518,7 +1518,11 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140
 
 Also, look at and pick one of these SiFi novels...  
 
-The Last Watch.  By J.S. Dewes.  2021  
+The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021  
+
+### The Last Watch.  (17:00)  
+By [J.S. Dewes](https://www.jsdewes.com/about)  
+Reading Notes: Think "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *space opera*.  It is also a ready-for-streaming novel.  Throughout, the scene setup is just enough to create a skeletal environment so that the character development and dialog can keep the pace thumping along.  *Action* is what drives this story forward, not prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can wait and have the author reveal character details throughout the story, this book might be a good fit.  The story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals abilities not expected given his introduction into the Argus.  unexpected changes in the expected behaviors of the known universe, fantastic technology *left behind* by an ancient, violent civilization, 
 https://www.goodreads.com/book/show/53205794-the-last-watch  
 https://www.jsdewes.com/about  
 
