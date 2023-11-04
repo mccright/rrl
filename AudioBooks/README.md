@@ -1515,16 +1515,19 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140
 </details>
 
 
-
-Also, look at and pick one of these SiFi novels...  
-
-The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021  
-
+<details>
+<summary>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary> 
 ### The Last Watch.  (17:00)  
-By [J.S. Dewes](https://www.jsdewes.com/about)  
-Reading Notes: Think "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *space opera*.  It is also a ready-for-streaming novel.  Throughout, the scene setup is just enough to create a skeletal environment so that the character development and dialog can keep the pace thumping along.  *Action* is what drives this story forward, not prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can wait and have the author reveal character details throughout the story, this book might be a good fit.  The story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals abilities not expected given his introduction into the Argus.  unexpected changes in the expected behaviors of the known universe, fantastic technology *left behind* by an ancient, violent civilization, 
+By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
+Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *space opera*.  It is also a ready-for-streaming novel.  Throughout, the scene setup is just enough to create a skeletal environment so that the character development and dialog can keep the pace thumping along.  *Action* is what drives this story forward, not prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can wait and have the author reveal character details throughout the story, this book might be a good fit.  The story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals abilities not expected given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable*" most of the time.  Close-quarter combat, governmental misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
 https://www.goodreads.com/book/show/53205794-the-last-watch  
 https://www.jsdewes.com/about  
+
+</details>
+
+
+
+Also, look at and pick one of these SiFi novels...  
 
 Shards of Earth.  By Adrian Tchaikovsky.  2021
 https://www.goodreads.com/book/show/55278507-shards-of-earth  
