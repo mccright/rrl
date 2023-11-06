@@ -304,7 +304,7 @@ Reading Notes: Published in 1948 and 1950, the Triplanetary and First Lensman bo
 The characters that drive the story forward are white male North Americans. 
 The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity" (*a seeming contradiction they don't acknowlege*). 
 The most evil characters are leaders and their followers in North American Nationalist politics -- in league with organized crime.  When these politicians & other criminals are caught, they use features of the existing legal system as weapons and delay, delay, delay (*sound like a 'real life' former Present and his lackies?*). A core theme seems to be a battle between the "uncorruptable" (*democrats*) and the "corrupt" (*athoritarians*) -- with "civilization" owing everything to the "uncorruptable." 
-There are minor characters from other many planets and galacies.  
+There are minor characters from many other planets and galacies.  
 
 Summary:  
 >Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
