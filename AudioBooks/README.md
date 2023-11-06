@@ -55,6 +55,26 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 </details>
 </details>
 
+<details>
+<summary>New York 2140, By Kim Stanley Robinson. 2017 </summary>  
+
+### New York 2140 (22:35)  
+https://en.wikipedia.org/wiki/New_York_2140  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
+
+Reader's Notes: Another excellent book by Kim Stanley Robinson!  
+First, a little context.  In 1980, I ran across a used pamphlet - ["Worldwatch Paper 21: Soft Technologies, Hard Choices" by Colin Norman](https://files.eric.ed.gov/fulltext/ED156566.pdf), published in June 1978.  I was in college at the time and understood that its content was important, and kept that little booklet -- reading it again from time to time.  It was written in a time still colored by what Norman called "the Arab oil embargo" and its demonstration of how fragil were the industrial world's petroleum-based economies.  Part of his argument was that humanity needed to implement major energy conservation and to invent/implement new energy generation & transmission technologies to avoid a predicted carbon dioxide-induced global warming catastrophy.  On page 31 Mr. Norman began an explanation of the growing concern "that carbon dioxode -- an inevitable by-product of burning fossil fuels -- is building up in the atmosphere and acting rather like a greenhouse, preventing a fraction of the earth's heat from being radiated into space."  He went on, "The concentration of carbon dioxide in the atmosphere is already (*as he wrote those words in 1978!*) believed to have risen by about 13 percent since the Industrial Revolution, and it may double over the next 50 years.  Such a change could increase the average temperatures on the earth's surface by 2-3 degrees C." He then summarized the predicted impacts "In general, global warming would bring increased rainfall and probably cause local weather patterns to become more variable."  And then:  
+>A more worrying possibility is that global warming could have an adverse impact on the stability of the polar ice caps. ...(*and*) over the next 50 years could raise polar temperatures by an amount sufficient to cause the West Antarctic ice sheet to break up.  Such an event would raise the average sea level by about five meters, which would be catastrophic for many low-lying areas.  
+
+Here we are (*I read this book -- "[NY 2140](https://en.wikipedia.org/wiki/New_York_2140)" -- in October 2023, more than 40 years after reading Colin Norman's warning*) and this [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) novel is about how ignoring too much of that global warming / climate change message played out for the world by following a diverse set of New Yorkers in the early years of the 2140s.  Sea level rise had created canals of NY streets, and islands of skyscrapers.  In this novel Robinson argues that capitalism and global finance were key culprits in ignoring/rejecting global warming / climate change for so long that global catastrophy was guaranteed, and for increasing the scope of suffering after catastrophies arive...  Ultimately, he delivers a hopeful conclusion -- with small-d democracy having a foundational role.  
+There have been [some criticism](https://en.wikipedia.org/wiki/New_York_2140#Scientific_accuracy) about Robinson's science and/or politics.  My advice is to remember that this is a novel and telling a relevant story doesn't mean **doing** hard or soft science, nor does it require avoiding any political point of view.  
+
+3rd Party Summaries:  
+Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140  
+
+</details>
+
 
 <details>
 <summary>The Ambassadors. By Henry James, 1903</summary>
@@ -1508,26 +1528,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 ## Pending or Currently Underway:  
 
-
-<details>
-<summary>New York 2140, By Kim Stanley Robinson. 2017 </summary>  
-
-### New York 2140 (22:35)  
-https://en.wikipedia.org/wiki/New_York_2140  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
-Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
-
-Reader's Notes: Another excellent book by Kim Stanley Robinson!  
-First, a little context.  In 1980, I ran across a used pamphlet - ["Worldwatch Paper 21: Soft Technologies, Hard Choices" by Colin Norman](https://files.eric.ed.gov/fulltext/ED156566.pdf), published in June 1978.  I was in college at the time and understood that its content was important, and kept that little booklet -- reading it again from time to time.  It was written in a time still colored by what Norman called "the Arab oil embargo" and its demonstration of how fragil were the industrial world's petroleum-based economies.  Part of his argument was that humanity needed to implement major energy conservation and to invent/implement new energy generation & transmission technologies to avoid a predicted carbon dioxide-induced global warming catastrophy.  On page 31 Mr. Norman began an explanation of the growing concern "that carbon dioxode -- an inevitable by-product of burning fossil fuels -- is building up in the atmosphere and acting rather like a greenhouse, preventing a fraction of the earth's heat from being radiated into space."  He went on, "The concentration of carbon dioxide in the atmosphere is already (*as he wrote those words in 1978!*) believed to have risen by about 13 percent since the Industrial Revolution, and it may double over the next 50 years.  Such a change could increase the average temperatures on the earth's surface by 2-3 degrees C." He then summarized the predicted impacts "In general, global warming would bring increased rainfall and probably cause local weather patterns to become more variable."  And then:  
->A more worrying possibility is that global warming could have an adverse impact on the stability of the polar ice caps. ...(*and*) over the next 50 years could raise polar temperatures by an amount sufficient to cause the West Antarctic ice sheet to break up.  Such an event would raise the average sea level by about five meters, which would be catastrophic for many low-lying areas.  
-
-Here we are (*I read this book -- "[NY 2140](https://en.wikipedia.org/wiki/New_York_2140)" -- in October 2023, more than 40 years after reading Colin Norman's warning*) and this [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) novel is about how ignoring too much of that global warming / climate change message played out for the world by following a diverse set of New Yorkers in the early years of the 2140s.  Sea level rise had created canals of NY streets, and islands of skyscrapers.  In this novel Robinson argues that capitalism and global finance were key culprits in ignoring/rejecting global warming / climate change for so long that global catastrophy was guaranteed, and for increasing the scope of suffering after catastrophies arive...  Ultimately, he delivers a hopeful conclusion -- with small-d democracy having a foundational role.  
-There have been [some criticism](https://en.wikipedia.org/wiki/New_York_2140#Scientific_accuracy) about Robinson's science and/or politics.  My advice is to remember that this is a novel and telling a relevant story doesn't mean **doing** hard or soft science, nor does it require avoiding any political point of view.  
-
-3rd Party Summaries:  
-Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140  
-
-</details>
 
 
 
