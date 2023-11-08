@@ -347,6 +347,18 @@ Reading Notes: (*see 'Triplanetary' above*)
 </details>
 
 <details>
+<summary>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>  
+
+### The Creatures That Time Forgot.  (1:51)  
+https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
+Text: https://www.gutenberg.org/ebooks/63874  
+By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+Reader's Notes: *Stone age* struggle for life.  A singular urge for *escape*.  This is not just another member of the shamelessly optimistic post war U.S. science fiction club, and this early Ray Bradbury story is worth a listen.  
+Librivox Summary:  
+>Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself! - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946    
+</details>
+
+<details>
 <summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>  
 
 ### Cleek: The Man of the Forty Faces. (13:25)  
@@ -1597,7 +1609,7 @@ By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 46
 
 1916 - 2006
 1942 32407
-gith
+gita
 1925 - 2003
 1942 34902 
 Gary Sokolov
@@ -1695,15 +1707,6 @@ By Laura M. Dake  (*I could not find biographical information about this author*
 
 The original printing of The Flight of the Shadow is a highly sought novel among collectors and tells the tale of an Astral soul who tells a man named John Cecil of a story of the American Revolution, a story of lost love and murder, a story of reincarnation and fate. Enjoy this rare briskly told supernatural book of adventure and weirdness that few before have experienced! - [Summary by Ben Tucker](https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/)  
 
-
-
-The Creatures That Time Forgot.  By Ray Bradbury.  1946  
-The Creatures That Time Forgot.  (1:51)  
-https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
-Text: https://www.gutenberg.org/ebooks/63874  
-By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-
-Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself! - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946  
 
 
 
