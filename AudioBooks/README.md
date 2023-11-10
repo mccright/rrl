@@ -142,8 +142,7 @@ Librivox Summary:
 <summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>  
 
 ### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
-https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue  
-
+https://www.overdrive.com/media/5243411/the-invisible-life-of-addie-larue  
 By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ____)  
 
 Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review.  It is worth all 17 hours of listening (or reading its 450 pages).
