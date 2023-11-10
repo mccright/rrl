@@ -23,7 +23,7 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 <summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
 
 ### Shaman (15:00)  
-  
+https://www.overdrive.com/media/1372669/shaman  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
