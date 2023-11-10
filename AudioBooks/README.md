@@ -626,6 +626,7 @@ Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Ins
 <summary>Trick of the Light.  By Louise Penny. 2011 </summary>  
 
 ### A Trick of the Light. (9:00)  
+https://www.overdrive.com/media/628804/a-trick-of-the-light  
 By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
 <details>
 <summary>Reader's Notes, and Other 3rd Party Summaries:</summary>  
