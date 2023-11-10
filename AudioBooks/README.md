@@ -1576,12 +1576,19 @@ By Adrian Tchaikovsky
 The Blighted Stars. By Megan E. O'Keefe  
 https://www.goodreads.com/book/show/58340705-the-blighted-stars  
 
+
 Velocity Weapon. By Megan E. O'Keefe.  2019  
 (part of "The Protectorate" series)  
 https://www.overdrive.com/media/4570292/velocity-weapon  
 https://www.goodreads.com/book/show/41085049-velocity-weapon  
 
-Catalyst Gate. By Megan E. O'Keefe  
+Chaos Vector.  By Megan E. O'Keefe 2020  
+(part of "The Protectorate" series)  
+https://www.overdrive.com/media/5275172/chaos-vector  
+
+Catalyst Gate. By Megan E. O'Keefe  2021  
+(part of "The Protectorate" series)  
+https://www.overdrive.com/media/5826946/catalyst-gate  
 https://www.goodreads.com/book/show/55836835-catalyst-gate  
 
 Eversion.  By Alastair Reynolds  
