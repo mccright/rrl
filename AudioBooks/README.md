@@ -59,7 +59,7 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 <summary>New York 2140, By Kim Stanley Robinson. 2017 </summary>  
 
 ### New York 2140 (22:35)  
-https://en.wikipedia.org/wiki/New_York_2140  
+https://www.overdrive.com/media/3007194/new-york-2140  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
