@@ -1563,14 +1563,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 Also, look at and pick one of these SiFi novels...  
 
 Shards of Earth.  By Adrian Tchaikovsky.  2021  
+(part of "The Final Architecture" series)  
 https://www.overdrive.com/media/5715429/shards-of-earth  
 https://www.goodreads.com/book/show/55278507-shards-of-earth  
+By Adrian Tchaikovsky  
+
+Eyes of the Void.  By Adrian Tchaikovsky.  2022  
+(part of "The Final Architecture" series)  
+https://www.overdrive.com/media/6663885/eyes-of-the-void  
 By Adrian Tchaikovsky  
 
 The Blighted Stars. By Megan E. O'Keefe  
 https://www.goodreads.com/book/show/58340705-the-blighted-stars  
 
-Velocity Weapon. By Megan E. O'Keefe.  
+Velocity Weapon. By Megan E. O'Keefe.  2019  
+(part of "The Protectorate" series)  
+https://www.overdrive.com/media/4570292/velocity-weapon  
 https://www.goodreads.com/book/show/41085049-velocity-weapon  
 
 Catalyst Gate. By Megan E. O'Keefe  
