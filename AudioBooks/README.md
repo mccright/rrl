@@ -1562,7 +1562,8 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 Also, look at and pick one of these SiFi novels...  
 
-Shards of Earth.  By Adrian Tchaikovsky.  2021
+Shards of Earth.  By Adrian Tchaikovsky.  2021  
+https://www.overdrive.com/media/5715429/shards-of-earth  
 https://www.goodreads.com/book/show/55278507-shards-of-earth  
 By Adrian Tchaikovsky  
 
