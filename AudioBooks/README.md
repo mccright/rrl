@@ -1562,6 +1562,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 Also, look at and pick one of these SiFi novels...  
 
+Mars Series by Kim Stanley Robinson  
+Red Mars.  2000  
+(Mars Series, Book 1)  
+https://www.overdrive.com/media/2902090/red-mars  
+
+Green Mars. 2001  
+(Mars Series, Book 1)  
+https://www.overdrive.com/media/3164205/green-mars  
+
+Blue Mars. 2002  
+(Mars Series, Book 3)  
+https://www.overdrive.com/media/2674467/blue-mars  
+
+
 Shards of Earth.  By Adrian Tchaikovsky.  2021  
 (part of "The Final Architecture" series)  
 https://www.overdrive.com/media/5715429/shards-of-earth  
@@ -1575,7 +1589,6 @@ By Adrian Tchaikovsky
 
 The Blighted Stars. By Megan E. O'Keefe  
 https://www.goodreads.com/book/show/58340705-the-blighted-stars  
-
 
 Velocity Weapon. By Megan E. O'Keefe.  2019  
 (part of "The Protectorate" series)  
