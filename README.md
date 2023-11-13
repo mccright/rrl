@@ -18,9 +18,16 @@
   * Project Gutenberg Audio Books,  
     * Human-read  https://www.gutenberg.org/browse/categories/1  
     * Computer-generated audio  https://www.gutenberg.org/browse/categories/2  
+  * Overdrive/Libby from my local public library.  *One of the greatest city services available after water and sewer.*  With [Libby](https://www.overdrive.com/apps/libby), the library reading app, you can borrow ebooks, audiobooks, magazines, and more from your local library for free.  Libby is the newer library reading app by OverDrive. See: https://www.overdrive.com/apps/libby  
+    1. Download and open [Libby](https://www.overdrive.com/apps/libby) on your device.  
+	   * Find where to download the app or watch a short video on getting started on the [Libby help page](https://help.libbyapp.com/en-us/6103.htm?tocpath=Home%7CGetting%20started%7C_____1)  
+    2. Find your library and sign in with your library card.  
+    3. Browse or search to discover your next favorite book or audiobook.  
+    4. Start reading & listening.  
 
 
 ### Reading [Commercial and "Open Access" Books](https://github.com/mccright/rrl/tree/main/Books)  
+  * Overdrive/Libby from my local public library. (*see the OverDrive/Libby bullet above for more information*)  
   * Directory of Open Access Books https://www.doabooks.org](https://directory.doabooks.org) and [https://directory.doabooks.org/discover](https://directory.doabooks.org/discover).  DOAB is a community-driven discovery service that indexes and provides access to scholarly, peer-reviewed open access books and helps users to find trusted open access book publishers. All DOAB services are free of charge and all data is freely available.  
     * [History of engineering & technology on DOAB](https://directory.doabooks.org/discover?query=history&filtertype=classification_text&filter_relational_operator=equals&filter=History+of+engineering+%26+technology)  
   * [unglue.it](https://unglue.it/) and [https://ebookfoundation.org/unglueit.html](https://ebookfoundation.org/unglueit.html)  
