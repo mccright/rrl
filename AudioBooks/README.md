@@ -1587,6 +1587,16 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
+<details>
+<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+
+### The Giver of Stars. (13:52)  
+[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
+By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
+Reader's notes:  
+Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
+
+</details>
 
 Also, look at and pick one of these SiFi novels...  
 
