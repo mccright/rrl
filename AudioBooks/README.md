@@ -1572,25 +1572,19 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 
 ## Pending or Currently Underway:  
 
-(17:10)  
-
 
 <details>
-<summary> </summary>  
+<summary>Remote Control. By Nnedi Okorafor.  2021 </summary>  
 
-###   
-  
-By []() ()  
+### Remote Control (4:07)  
+https://www.overdrive.com/media/5431603/remote-control  
+By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 -- ___)  
 <details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
-Reader's Notes:  
+Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
 
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)  
 
-</details>
 </details>
 
 
