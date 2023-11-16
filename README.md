@@ -2,6 +2,7 @@
 (*started 2022-07-25*)  
 
 ### Reading [Out-of-Copywrite - Open-Access eBooks](https://github.com/mccright/rrl/tree/main/OpenSourceTexts)  
+* Sources:  
   * Project Gutenberg  https://www.gutenberg.org/  
   * The Univ. Penn. Online Books Page at  https://onlinebooks.library.upenn.edu/ (An index of over three million online books freely readable on the Internet)  
   * Standard Ebooks  https://standardebooks.org/  
@@ -14,6 +15,7 @@
   * Smashwords [https://www.smashwords.com/shelves/home/1/free/any](https://www.smashwords.com/shelves/home/1/free/any)  
 
 ### *Reading* [Audio Books](https://github.com/mccright/rrl/tree/main/AudioBooks)  
+* Sources:  
   * All free at https://librivox.org/  This is an all-volunteer effort.  The quality of the recordings varies, but a large percentage are excellent.  
   * Project Gutenberg Audio Books,  
     * Human-read  https://www.gutenberg.org/browse/categories/1  
@@ -27,6 +29,7 @@
 
 
 ### Reading [Commercial and "Open Access" Books](https://github.com/mccright/rrl/tree/main/Books)  
+* Sources:  
   * Overdrive/Libby from my local public library. (*see the OverDrive/Libby bullet above for more information*)  
   * Directory of Open Access Books https://www.doabooks.org](https://directory.doabooks.org) and [https://directory.doabooks.org/discover](https://directory.doabooks.org/discover).  DOAB is a community-driven discovery service that indexes and provides access to scholarly, peer-reviewed open access books and helps users to find trusted open access book publishers. All DOAB services are free of charge and all data is freely available.  
     * [History of engineering & technology on DOAB](https://directory.doabooks.org/discover?query=history&filtertype=classification_text&filter_relational_operator=equals&filter=History+of+engineering+%26+technology)  
