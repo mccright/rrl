@@ -1,0 +1,11 @@
+title: Recreational Reading Log
+description: List of my reading since 2022 July 25
+google_analytics: UA-84393225-1
+show_downloads: true
+theme: jekyll-theme-slate
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-mentions
