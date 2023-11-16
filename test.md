@@ -4,6 +4,7 @@
 ## Completed:  
 
 <details>  
+
 <summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
