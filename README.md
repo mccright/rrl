@@ -1,5 +1,6 @@
 # rrl -- My Recreational Reading Log
 (*started 2022-07-25*)  
+This is where I maintain a list of the books that I am reading or have read since 25 July 2022 (*when I started tracking my reading*).  
 
 ### Reading [Out-of-Copywrite - Open-Access eBooks](OpenSourceTexts/)  
 * Sources:  
