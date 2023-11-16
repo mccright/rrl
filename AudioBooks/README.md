@@ -85,7 +85,7 @@ By [Kazuo Ishiguro](https://en.wikipedia.org/wiki/Kazuo_Ishiguro) (1954 -- ___)
 
 Reader's Notes: One path for artificial intelligence in our not-too-distant future.  
 We experience the story from the perspective of Klara, an AF (a solar-powered Artificial Friend).  Klara has exemplary observational skills but seems limited by what must have been her training data-set emphasizing human characteristics and communications and de-emphasizing the laws of the physical world.  This results in an *uneven* understanding of the world around her and an interesting story of committment and compassion.  
-CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish") the reading experience for some because part of the Ishiguro's magic is in slowly revealing new ideas and new threads of experience as the reader traverses his story.  
+CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish"*) the reading experience for some because part of the Ishiguro's magic is in slowly revealing new ideas and new threads of experience as the reader traverses his story.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun  
 
@@ -1579,7 +1579,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 ### Remote Control (4:07)  
 https://www.overdrive.com/media/5431603/remote-control  
 By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 -- ___)  
-<details>
 
 Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
 
