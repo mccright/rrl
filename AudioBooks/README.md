@@ -77,6 +77,22 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140
 
 
 <details>
+<summary>Klara and the Sun. By Kazuo Ishiguro. 2021</summary>  
+
+### Klara and the Sun (10:16).  
+https://www.overdrive.com/media/5558574/klara-and-the-sun  
+By [Kazuo Ishiguro](https://en.wikipedia.org/wiki/Kazuo_Ishiguro) (1954 -- ___)  
+
+Reader's Notes: One path for artificial intelligence in our not-too-distant future.  
+We experience the story from the perspective of Klara, an AF (a solar-powered Artificial Friend).  Klara has exemplary observational skills but seems limited by what must have been her training data-set emphasizing human characteristics and communications and de-emphasizing the laws of the physical world.  This results in an *uneven* understanding of the world around her and an interesting story of committment and compassion.  
+CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish") the reading experience for some because part of the Ishiguro's magic is in slowly revealing new ideas and new threads of experience as the reader traverses his story.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun  
+
+</details>
+
+
+<details>
 <summary>The Ambassadors. By Henry James, 1903</summary>
 
 ### The Ambassadors (16:46)  
@@ -1557,6 +1573,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 ## Pending or Currently Underway:  
 
 (17:10)  
+
+
+<details>
+<summary> </summary>  
+
+###   
+  
+By []() ()  
+<details>
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+
+Reader's Notes:  
+
+Librivox and Other 3rd Party Summaries:  
+Librivox Summary:  
+>  
+
+</details>
+</details>
 
 
 
