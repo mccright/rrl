@@ -1,6 +1,6 @@
 # rrl -- My Recreational Reading Log
 (*started 2022-07-25*)  
-This is where I maintain a list of the books that I am reading or have read since 25 July 2022 (*when I started tracking my reading*).  
+This is where I maintain a list of the books that I am reading or have read since 25 July 2022 (*when I started tracking my reading*). I did not originally format this resource for Github-pages, which leaves me with a lot of legacy technology debt to deal with before these pages will display properly.  Native Github repos support a number of features that do not transparently port over to Github pages.  Unfortunely, I used some of those features in the [source repo](https://github.com/mccright/rrl).  
 
 ### Reading [Out-of-Copywrite - Open-Access eBooks](OpenSourceTexts/)  
 * Sources:  
