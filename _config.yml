@@ -1,4 +1,7 @@
-title: Recreational Reading Log
-description: List of my reading since 2022 July 25
+title: "Recreational Reading Log"
+description: "List of my reading since 2022 July 25"
 logo: https://mccright.github.io/rrl/m.ico
-markdown: CommonMarkGhPages
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll 
+markdown: GFM  
+# markdown: CommonMarkGhPages
+
