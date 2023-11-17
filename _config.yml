@@ -1,12 +1,5 @@
 title: Recreational Reading Log
 description: List of my reading since 2022 July 25
+logo: https://mccright.github.io/rrl/m.ico
 google_analytics: UA-84393225-1
-remote_theme: pages-themes/midnight@v0.2.0
 markdown: CommonMarkGhPages
-commonmark:
-   options: ["SMART", "FOOTNOTES"]
-   extensions: ["strikethrough", "autolink", "table", "tagfilter"]
-
-gems:
-  - jekyll-mentions
-  - jekyll-remote-theme

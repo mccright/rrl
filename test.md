@@ -3,9 +3,8 @@
 
 ## Completed:  
 
-<details>  
-
-<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
+<details>
+<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
 [https://www.overdrive.com/media/5067417/hamnet](https://www.overdrive.com/media/5067417/hamnet)  
@@ -20,7 +19,7 @@ Review by Miranda France in the Literary Review:   [https://literaryreview.co.uk
 
 
 <details>
-<summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
+<summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
 ### Shaman (15:00)  
 [https://www.overdrive.com/media/1372669/shaman](https://www.overdrive.com/media/1372669/shaman)  
