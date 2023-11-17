@@ -3,9 +3,9 @@
 
 ## Completed:  
 
-<details>  
+<details markdown="span">  
 
-<summary markdown="span">Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
+<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
 [https://www.overdrive.com/media/5067417/hamnet](https://www.overdrive.com/media/5067417/hamnet)  
@@ -35,14 +35,14 @@ Wikipedia Summary/Review: [https://en.wikipedia.org/wiki/Shaman_(novel)](https:/
 </details>
 
 
-<details>
-<summary markdown="span">Aurora, By Kim Stanley Robinson. 2015 </summary>  
+<details markdown="span">
+<summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
 
 ### Aurora (17:00)  
 [https://www.overdrive.com/media/2234713/aurora](https://www.overdrive.com/media/2234713/aurora)  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: [https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography)  
-<details>
+<details markdown="span">
 <summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes: Another excellent book!  
@@ -55,8 +55,9 @@ Wikipedia Summary/Review: [https://en.wikipedia.org/wiki/Aurora_(novel)](https:/
 </details>
 </details>
 
-<details>
-<summary markdown="span">The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+
+<details markdown="span">
+<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
 
 ### The Giver of Stars. (13:52)  
 [https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
