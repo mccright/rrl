@@ -3,7 +3,7 @@
 
 ## Completed:  
 
-<details markdown="span">  
+<details>  
 
 <summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
 
@@ -19,7 +19,7 @@ Review by Miranda France in the Literary Review:   [https://literaryreview.co.uk
 </details>  
 
 
-<details markdown="span">
+<details>
 <summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
 
 ### Shaman (15:00)  
@@ -35,14 +35,14 @@ Wikipedia Summary/Review: [https://en.wikipedia.org/wiki/Shaman_(novel)](https:/
 </details>
 
 
-<details markdown="span">
+<details>
 <summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
 
 ### Aurora (17:00)  
 [https://www.overdrive.com/media/2234713/aurora](https://www.overdrive.com/media/2234713/aurora)  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: [https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography)  
-<details markdown="span">
+<details>
 <summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes: Another excellent book!  
@@ -56,7 +56,7 @@ Wikipedia Summary/Review: [https://en.wikipedia.org/wiki/Aurora_(novel)](https:/
 </details>
 
 
-<details markdown="span">
+<details>
 <summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
 
 ### The Giver of Stars. (13:52)  
