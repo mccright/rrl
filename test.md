@@ -1,6 +1,25 @@
-# rrl / Recreational Reading Log: Audio Books  
+# Testing File for: rrl / Recreational Reading Log: Audio Books  
 
 (*started 2022 July 25*)  
+
+# History:
+* I started tracking by adding a reference and notes for each book that I read or listened to.  
+* Over time the pages grew to an unreasonable length.  I started trying to use Github markdown collapsible sections.  Technically, they worked well, but the native github pages are not for everyone, and did not work well for non-Github users on their mobile devices...  
+* Then I tried using Github pages, which was kind of a trial because of the unclear and sometimes conflicting guidance for doing so for pages that employed collapsible sections and Github markdown.  For this site, the most important *fixes* were:  
+  * Always put an empty line after collapsible section tags.  
+  * Put double quotes around any string that included whitespace in the site config file (_config.yml).  
+  * Use the `markdown: GFM` processor in the site config file (_config.yml).  
+
+My _config.yml file:  
+```yml
+title: "Recreational Reading Log"
+description: "List of my reading since 2022 July 25"
+logo: https://mccright.github.io/rrl/m.svg
+# https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll 
+markdown: GFM
+```
+
+# Now, Testing page content is below  
 
 ## Completed:  
 
