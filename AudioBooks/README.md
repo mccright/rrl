@@ -7,7 +7,7 @@
 <summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
-https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=374479  
+https://www.overdrive.com/media/5067417/hamnet  
 By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  (1972 - ___)  
 https://en.wikipedia.org/wiki/Hamnet_(novel)  
 
@@ -1963,9 +1963,8 @@ Librivox Summary:
 <summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
 ### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
-https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=19&cn=468652  
-By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
-OverDrive MP3 Audiobook audiobook-mp3 390001596  
+https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
+By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022    
 
 </details>  
 
