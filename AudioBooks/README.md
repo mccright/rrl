@@ -161,7 +161,7 @@ Librivox Summary:
 https://www.overdrive.com/media/5243411/the-invisible-life-of-addie-larue  
 By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ____)  
 
-Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review.  It is worth all 17 hours of listening (or reading its 450 pages).
+Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth across time, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review.  It is worth all 17 hours of listening (or reading its 450 pages).
  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot  
 
@@ -1253,22 +1253,29 @@ Reading notes: This is a *thin* story with mostly *wooden* characters, with just
 
 </details>
 
-<details>
-<summary>Search the Sky. By Frederik Pohl, 1956</summary>
+<details><summary>Search the Sky. By Frederik Pohl, 1956</summary>
 
 ### Search the Sky (06:47)  
 https://librivox.org/search-the-sky-by-frederik-pohl/  
 https://en.wikipedia.org/wiki/Search_the_Sky  
 Text: https://www.gutenberg.org/ebooks/52228  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reading Notes: This mid-20th century book's main story-line is about colonization and genetics after faster-than-light travel was available to humankind.  While the author's intent was satire, the characters remain *one-dimensional*, predictable, shallow and all *surface* (*could that be the point?*).  I believe that this book may only be entertaining to those who like U.S. 1950's "*mass market*" science fiction.  
 Summary from Librivox:  
 >Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
 
 </details>
+
+<details>
+<summary>What The Left Hand Was Doing.  By Randall Garrett.  1960</summary>  
+
+### What The Left Hand Was Doing.  (1:11)  
+[https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
+Text: https://www.gutenberg.org/ebooks/25166  
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
+Librivox Summary: The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
+
 </details>
 
 
@@ -1678,12 +1685,10 @@ The Blood of Flowers. By Anita Amirrezvani. 2007
 https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
 Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick    
 By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
-<details>
-<summary> Librivox Summary:</summary>  
 
+Librivox Summary:  
 >(1.) St. Patrick's Breastplate - This prayer is attributed to St. Patrick and his disciples. It is written with some Celtic pagan elements, but is definitely a Christian prayer asking God for protection through daily life. (2.) A Letter to the Soldiers of Coroticus - Patrick writes this letter to excommunicate the soldiers of Coroticus' army who pillaged villages in Ireland and forced many Christian converts into slavery. (3.) Confession - A short autobiography by St. Patrick who tells of being abducted into slavery and taken to Ireland, the growth of his faith, his ministry as a bishop in ordaining many priests and baptising thousands of people, and a trial where he had to defend himself against his accusers. - ([Summary by Librivox](https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/))  
 
-</details>
 </details>
 
 1916 - 2006
@@ -1752,19 +1757,6 @@ Matrix.
 By Lauren Groff
 Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....
 
-
-
-
-
-What The Left Hand Was Doing.  By Randall Garrett.  1960  
-What The Left Hand Was Doing.  (1:11)  
-https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/  
-Text: https://www.gutenberg.org/ebooks/25166  
-
-Running Time: 01:10:44  
-By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
-The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
-Genre(s): Science Fiction
 
 
 
