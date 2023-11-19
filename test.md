@@ -4,8 +4,8 @@
 
 # History:
 * I started tracking by adding a reference and notes for each book that I read or listened to.  
-* Over time the pages grew to an unreasonable length.  I started trying to use Github markdown collapsible sections.  Technically, they worked well, but the native github pages are not for everyone, and did not work well for non-Github users on their mobile devices...  
-* Then I tried using Github pages, which was kind of a trial because of the unclear and sometimes conflicting guidance for doing so for pages that employed collapsible sections and Github markdown.  For this site, the most important *fixes* were:  
+* Over time the pages grew to an unreasonable length.  I started trying to use Github markdown collapsible sections.  Technically, they worked well, but the native github UI for everyone, and did not seem to work well for non-Github users on their mobile devices...  
+* Then I tried using [`Github pages`](https://docs.github.com/en/pages), which was kind of a trial because of the unclear and sometimes conflicting guidance for doing so for pages that employed collapsible sections and Github markdown.  For this site, the most important *fixes* were:  
   * Always put an empty line after collapsible section tags.  
   * Put double quotes around any string that included whitespace in the site config file (_config.yml).  
   * Use the `markdown: GFM` processor in the site config file (_config.yml).  
