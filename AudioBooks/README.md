@@ -271,47 +271,40 @@ Summary from Librivox:
 </details>
 </details>  
 
-<details>
-<summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>  
+<details><summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
 
 ### The Sun Also Rises.  (6:43)  
 https://librivox.org/the-sun-also-rises-by-ernest-hemingway/  
 Text: https://www.fadedpage.com/showbook.php?pid=20150622  
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Sun_Also_Rises). 
 NOTE: There are issues of race and religion in the telling of "The Sun Also Rises", particularly where the author uses derogatory and dehumanizing language in the description of a Black boxer and a character of the Jewish faith. It is LibriVox's policy to record texts as written.  
-Librivox and Other 3rd Party Summaries:  
+
 Librivox Summary:  
 >The Sun Also Rises (1926) was Hemingway's first novel to be published, though there is his novella The Torrents of Spring which was published earlier in the same year. The novel describes, expressed through the voice of Jake Barnes, a short period of social life that ranges from Paris to locations in Spain. One might say that the action occurs in Pamplona, Spain with the annual festival of San Fermin and its running of bulls and subsequent days of bullfights, but one can easily argue that the real interest of the novel is in its portrayal of the group to which Barnes is a part and how he details their anxieties, frailties, hopes, and frustrations. ([Summary by KevinS](https://librivox.org/the-sun-also-rises-by-ernest-hemingway/))  
 Wikipedia Summary:  
 https://en.wikipedia.org/wiki/The_Sun_Also_Rises  
 
 </details>
-</details>
 
-<details>
-<summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
+
+<details><summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
 
 ### The Torrents of Spring.  (2:10)
 https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
 Text: https://www.fadedpage.com/showbook.php?pid=20210135   
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-Although this book incorporates humor throughout, it was not a *happy* read for me.  It is about a tough time in a tough (*Northwest Michigan*) place and the author expresses his (*or the character's*) energetic prejudices in story-lines that include a Black man and Native Americans.  
-Reader's Notes:  
-This is an excellent tale read by an excellent performer.  
-Librivox and Other 3rd Party Summaries:  
+Reader's Notes: This is an excellent tale read by an excellent performer.  
+Although this book incorporates humor throughout, it was not a *happy* read for me.  It is about a tough time in a tough (*Northwest Michigan*) place and the author expresses his (*or the character's*) energetic prejudices in story-lines that include a Black man and Native Americans.  This story may be hurtful to some readers.  
+
 Librivox Summary:  
 >The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. ([Summary by KevinS](https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/))  
 Wikipedia Summary:  
 https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
 
 </details>
-</details>
+
 
 <details>
 <summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>  
@@ -339,18 +332,14 @@ Librivox Summary:
 https://www.overdrive.com/media/3603621/the-president-is-missing  
 https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/  
 By [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (1946 - ) and [James Paterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 -)  
-<details>
-<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, (*often*) a lot of predictable action and dialog followed.  That said, it is useful long-distance driving audio.  
-3rd Party Summaries:  
+This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, a lot of *often* predictable action and dialog followed.  That said, it is useful long-distance driving background audio.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)  
 Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
 James Patterson Summary:  
 >The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come. [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
 
-</details>
 </details>
 
 <details>
@@ -447,7 +436,7 @@ https://www.gutenberg.org/ebooks/17241
 By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  Published 1912
 Translated by **Adele Szold Seltzer** (1876 - 1940)  
 Summary from Librivox:  
-Frederick von Kammacher is a young doctor in Germany whose wife has gone insane, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
+Frederick von Kammacher is a young doctor in Germany whose wife has gone *insane*, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
 
 </details>
 
@@ -480,12 +469,10 @@ Librivox Summary:
 https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
 Text: https://www.gutenberg.org/ebooks/61043  
 By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
+
 Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
 Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/) NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "The Color of a Great City." It is LibriVox's policy to record texts as written.  
 
-</details>
 </details>
 
 <details>
@@ -496,32 +483,25 @@ https://librivox.org/bashan-and-i-by-thomas-mann/
 Text: https://www.gutenberg.org/ebooks/61284  
 By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)  
 Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
-<details>
-<summary> Librivox Summary:</summary>  
 
+Librivox Summary:  
 >Simple and unpretentious as a statement by Francis d'Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
 
 </details>
-</details>
 
 <details>
-<summary>Pierre Curie.  1923 </summary>  
+<summary>Pierre Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
 https://librivox.org/pierre-curie-by-marie-curie/  
 Text: https://www.gutenberg.org/ebooks/69617  
 By [Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie) (1867 - 1934)  
 Translated by [Vernon Kellogg](https://en.wikipedia.org/wiki/Vernon_Lyman_Kellogg) (1867 - 1937) and [Charlotte Kellogg](https://en.wikipedia.org/wiki/Charlotte_Kellogg) (1874 - 1960)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
-Reader's Notes:  This is an excellent broad history of Pierre Curie's life.  It is also a useful adjunct to any study of Marie Curie's life and science.  The reading by [Ciufi Galeazzi](https://librivox.org/reader/11528?primary_key=11528&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this interesting history an enjoyable experience...
-
-Librivox and Other 3rd Party Summaries:  
+Reader's Notes:  This is an excellent broad history of Pierre Curie's life.  It is also a useful adjunct to any study of Marie Curie's life and science.  The reading by [Ciufi Galeazzi](https://librivox.org/reader/11528?primary_key=11528&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this interesting history an enjoyable experience...  
 Librivox Summary:  
 >This biography of the noted French physicist Pierre Curie was written by his wife, the renowned physicist Marie Curie. In it, she not only chronicles the scientific accomplishments of her husband, but also provides unique insight into his family life and personality. The book concludes with a four chapter autobiography of the author. - ([Summary by Ciufi Galeazzi](https://librivox.org/pierre-curie-by-marie-curie/))  
 
-</details>
 </details>
 
 <details>
@@ -537,77 +517,63 @@ Summary from Librivox:
 </details>
 
 <details>
-<summary>Napoleon The First, An Intimate Biography. 1921 </summary>  
+<summary>Napoleon The First, An Intimate Biography. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
 https://librivox.org/napoleon-the-first-biography-by-walter-geer/  
 Text: https://archive.org/details/cu31924014676054/mode/2up  
 By [Walter Geer](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Geer%2c%20Walter%2c%201857%2d1937) (1857 - 1937)  
 
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reading by [Celine Major](https://librivox.org/reader/11697?primary_key=11697&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this tragic story an enjoyable experience...  
 
-Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reading by [Celine Major](https://librivox.org/reader/11697?primary_key=11697&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this tragic story an enjoyable experience...
-
-Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >Excerpt: "Now that one hundred years have elapsed since the "long-drawn agony" of Saint Helena we think that the time has come for a more impartial estimate. Facts are clearer, motives are better known, much new evidence is available. Let us then endeavor to depict Napoleon as he was, and "nothing extenuate, nor set down aught in malice." - Walter Geer [librivox](https://librivox.org/napoleon-the-first-biography-by-walter-geer/)  
 
 </details>
-</details>
 
 <details>
-<summary>Eleven Years in the Rocky Mountains and Life on the Frontier. 1870 </summary>  
+<summary>Eleven Years in the Rocky Mountains and Life on the Frontier. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
 https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
 Text: https://www.gutenberg.org/ebooks/39465  
 By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor) (1826 - 1902)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
 Reader's Notes: This is a biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), born in Virginia in 1810, fur trapper in the Rocky Mountains between 1829 and 1840, as the over hunting of beaver and of other important species led to the end of that profession and put extreme pressures on Native American lives.  He then migrated to [Oregon Country](https://en.wikipedia.org/wiki/Oregon_Country) (*later Oregon Territory*) -- having numerous *adventures* until his death in 1875.  Likely written in the late 1860s (*published in 1870*), this story is an expression of its time -- and as such, may help provide some context for more academic or professional histories of North America in the first half of the 19th century.  NOTE: Some passages in this story describe behavior that is particularly vile in its treatment of Native Americans, along with incorporating Black and Jewish stereotypes and derogatory terms.  
-Librivox and Other 3rd Party Summaries:  
+
 Librivox Summary:  
 >This lively book follows the adventures of mountain man Joe Meek, from his joining the Rocky Mountain Fur Company trapping expedition in the year 1829 at the young age of 18, through his retirement from public life after serving as Marshall of Oregon Territory. Meek had close connections with many famous people of the era, such as Kit Carson, William and Milton Sublette, Jedediah Smith, Marcus and Narcissa Whitman, Dr. John McLaughlin, Oregon’s Governor Lane, and President James Polk. The author’s information came directly from interviews with Joe himself. She adds to his stories by recounting the surrounding events of the times along the way, providing an interesting way to pick up much information about the history of the Rocky Mountain region and the Oregon Territory. Meek was a tremendously colorful personality who traveled all over the wild west, and had numberless adventures. His endurance of hunger, thirst, exhaustion, and danger was legendary. Whether he was encountering bears, Indians, fellow trappers, missionaries, California gold miners, and even the president of the United States, he tells the story with humor and aplomb. Meek was always lively, often drunk, sometimes heroic, and certainly no saint. - ([Summary by Carol Pelster](https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/))  
 
 </details>
-</details>
 
 <details>
-<summary>Life and Writings of Amelia Bloomer.  1895 </summary>  
+<summary>Life and Writings of Amelia Bloomer.  1895 </summary>
 
 ### Life and Writings of Amelia Bloomer (10:22:42)  
 https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
 Text: https://www.gutenberg.org/ebooks/69953  
 Wikipedia Biography: https://en.wikipedia.org/wiki/Amelia_Bloomer  
 By Dexter C. Bloomer (1816 - 1900)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
 Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  In addition to what you might expect (*temperance, experiments with new clothes, sufferage, and equality for women and men*) this volume includes some interesting first-hand accounts of travel in "the West" in the 1850s as well as life in Western Iowa in the mid 19th century.  
 
-Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >As Mrs. Bloomer was one of the pioneers in what is sometimes called the “Woman’s Movement,” it seems right that a record of her work should be placed in durable form. Such a record I have endeavored to set forth in the following pages. While giving a brief narrative of her life, I have also included, as being most satisfactory, quite extended extracts from her writings; and one of her lectures is printed in full. - [Summary by D. C. Bloomer (preface to book)](https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/)  
 
 </details>
-</details>
 
 
 <details>
-<summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>  
+<summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
 
 ### The Stars, My Brothers. (01:23)  
 https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
 Text: https://www.gutenberg.org/etext/24870  
 By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 1977)  
-<details>
-<summary> Librivox Summary:</summary>  
 
+Librivox Summary:  
 >Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
 
-</details>
 </details>
 
 <details>
@@ -1603,6 +1569,50 @@ Reader's notes:
 Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
 
 </details>
+
+
+<details>
+<summary>Is Shakespeare Dead?  By Mark Twain.  1909</summary>
+
+### Is Shakespeare Dead? (2:57)  
+https://librivox.org/is-shakespeare-dead-by-mark-twain/  
+Text: https://www.gutenberg.org/ebooks/2431  
+By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Is_Shakespeare_Dead%3F  
+Librivox Summary:  
+>A short, semi-autobiographical work by American humorist Mark Twain. It explores the controversy over the authorship of the Shakespearean literary canon via satire, anecdote, and extensive quotation of contemporary authors on the subject. In the book, Twain expounds the view that Shakespeare of Stratford was not the author of the canon, and lends tentative support to the Baconian theory. The book opens with a scene from his early adulthood, where he was trained to be a steamboat pilot by an elder who often argued with him over the controversy. Twain's arguments include the following points: That little was known about Shakespeare's life, and the bulk of his biographies were based on conjecture. That a number of eminent British barristers and judges found Shakespeare's plays permeated with precise legal thought, and that the author could only have been a veteran legal professional. That in contrast, Shakespeare of Stratford had never held a legal position or office, and had only been in court over petty lawsuits late in life. That small towns lionize and celebrate their famous authors for generations, but this had not happened in Shakespeare's case. He described his own fame in Hannibal as a case in point. Twain draws parallels and analogies from the pretensions of modern religious figures and commentators on the nature of Satan. He compares the believers in Shakespeare to adherents of Arthur Orton and Mary Baker Eddy. - [Librivox Summary](https://librivox.org/is-shakespeare-dead-by-mark-twain/)  
+
+</details>
+
+<details>
+<summary>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
+
+### A Magician Among the Spirits. (11:03)  
+https://librivox.org/magician-among-the-spirits-by-harry-houdini/  
+Text:  https://www.gutenberg.org/ebooks/66451  
+By [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini) (1874 - 1926) and [Clifford Martin Eddy Jr. (C. M. Eddy, Jr.)](https://en.wikipedia.org/wiki/C._M._Eddy_Jr.) (1896 - 1967)  
+
+Librivox Summary:  
+>Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/)  
+
+</details>
+
+
+<details>
+<summary>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
+
+### The Last of the Vikings. (9:17)  
+https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
+Text: https://www.gutenberg.org/ebooks/36054  
+By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
+Translated by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
+
+In a small village on the coast of Northern Norway lives the Myran family. Father is a fisher man and is, in the eyes of the oldest son, like a god on the sea. Mother spends every winter in fear of losing somebody she loves to the storms and waves. She longs to move inland and turn her back on the coast and all its dangers. The novel explores some of the tension between inland and coast, poor and wealthy, tradition and progress while also depicting the highs and lows of a winter of fishing in Lofoten. - (Summary by [kathrinee](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/))  
+
+</details>
+
+
 
 Also, look at and pick one of these SiFi novels...  
 
