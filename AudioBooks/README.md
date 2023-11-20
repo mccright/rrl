@@ -1614,7 +1614,8 @@ In a small village on the coast of Northern Norway lives the Myran family. Fathe
 
 
 
-Also, look at and pick one of these SiFi novels...  
+<details>
+<summary>Also, look at and pick one of these SiFi novels... </summary> 
 
 Mars Series by Kim Stanley Robinson  
 Red Mars.  2000  
@@ -1687,6 +1688,8 @@ The Lost Apothecary: A Novel. By Sarah Penner. 2021
 The Blood of Flowers. By Anita Amirrezvani. 2007  
 (13:18)  
 
+</details>
+
 
 <details>
 <summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>  
@@ -1700,14 +1703,6 @@ Librivox Summary:
 >(1.) St. Patrick's Breastplate - This prayer is attributed to St. Patrick and his disciples. It is written with some Celtic pagan elements, but is definitely a Christian prayer asking God for protection through daily life. (2.) A Letter to the Soldiers of Coroticus - Patrick writes this letter to excommunicate the soldiers of Coroticus' army who pillaged villages in Ireland and forced many Christian converts into slavery. (3.) Confession - A short autobiography by St. Patrick who tells of being abducted into slavery and taken to Ireland, the growth of his faith, his ministry as a bishop in ordaining many priests and baptising thousands of people, and a trial where he had to defend himself against his accusers. - ([Summary by Librivox](https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/))  
 
 </details>
-
-1916 - 2006
-1942 32407
-gita
-1925 - 2003
-1942 34902 
-Gary Sokolov
-
 
 
 <details>
@@ -1760,7 +1755,8 @@ Librivox Summary:
 
 -------------------
 
-NEEDS FORMATTING BELOW:
+<details>
+<summary>This section still needs formatting:<summary>
 
 
 Matrix.
@@ -1802,6 +1798,7 @@ Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20
 
 
 NEEDS FORMATTING ABOVE
+</details>
 
 -------------------
 
