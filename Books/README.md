@@ -77,6 +77,26 @@ https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&
 
 
 <details>
+<summary>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
+
+### The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America.  
+https://www.penguinrandomhouse.com/books/98115/the-devil-in-the-white-city-by-erik-larson/  
+By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 - ), Published 2004, Vintage, 447 pages.  
+
+Reading Notes:  An interesting investigation of the 1893 Chicago World's Fair, and the serial murderer [Herman Webster Mudgett](https://en.wikipedia.org/wiki/H._H._Holmes) (a.k.a. Dr. Henry Howard Holmes or H. H. Holmes) who took advantage of those attracted to the city during its construction and run-time. See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Devil_in_the_White_City) for a more thorough review.  
+
+3rd Party Summaries:  
+https://en.wikipedia.org/wiki/The_Devil_in_the_White_City  
+https://www.nytimes.com/2003/02/10/books/books-of-the-times-add-a-serial-murderer-to-1893-chicago-s-opulent-overkill.html  
+https://www.readinggroupguides.com/reviews/the-devil-in-the-white-city/guide  
+https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/  
+
+
+</details>
+
+
+
+<details>
 <summary>Still Life.  By Sarah Winman 2021  </summary>
 
 ### Still Life.  
@@ -188,7 +208,7 @@ By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 - ),
 <details>
 <summary>Reading Notes and 3rd Party Reviews:</summary>
 
-Reading Notes:  An interesting investigation of the 1893 Chicago World's Fair, and the serial murderer who took advantage of those attracted to the city during its construction and run-time.  
+Reading Notes:  An interesting investigation of the 1893 Chicago World's Fair, and the serial murderer [Herman Webster Mudgett](https://en.wikipedia.org/wiki/H._H._Holmes) (a.k.a. Dr. Henry Howard Holmes or H. H. Holmes) who took advantage of those attracted to the city during its construction and run-time. See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Devil_in_the_White_City) for a more thorough review.  
 
 3rd Party Summaries:  
 https://en.wikipedia.org/wiki/The_Devil_in_the_White_City  
