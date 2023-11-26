@@ -674,43 +674,47 @@ Summary from Librivox:
 </details>
 </details>
 
+
 <details>
-<summary>The Freelands. By John Galsworthy. 1914 </summary>  
+<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+
+### The Giver of Stars. (13:52)  
+[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
+By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
+Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
+Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
+
+</details>
+
+
+<details><summary>The Freelands. By John Galsworthy. 1914 </summary>
 
 ### The Freelands  (9:51)  
 https://librivox.org/freelands-by-john-galsworthy/  
 Text: https://www.gutenberg.org/ebooks/2309  
 By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
 
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
 Reader's Notes:  
 This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
-Librivox and Other 3rd Party Summaries:  
+
 Librivox Summary:  
->The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. (Summary by Simon Evers)  
+>The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
 
 </details>
-</details>
 
-<details>
-<summary>The Brain.  By Edmond Hamilton.  1948 </summary>  
+<details><summary>The Brain.  By Edmond Hamilton.  1948 </summary>
 
 ### The Brain. (5:57)  
 https://librivox.org/the-brain-by-edmond-hamilton/  
 Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
 By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
 In the context of the current AI mania, this story may resonate for some...  
-Librivox and Other 3rd Party Summaries:  
+
 Librivox Summary:  
 >A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
 
-</details>
 </details>
 
 <details>
@@ -1557,18 +1561,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 -----
 
 ## Pending or Currently Underway:  
-
-
-<details>
-<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
-
-### The Giver of Stars. (13:52)  
-[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
-By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
-Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
-Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
-
-</details>
 
 
 <details>
