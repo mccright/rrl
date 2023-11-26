@@ -95,16 +95,11 @@ https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/
 </details>
 
 
-
-<details>
-<summary>Still Life.  By Sarah Winman 2021  </summary>
+<details><summary>Still Life.  By Sarah Winman 2021  </summary>
 
 ### Still Life.  
 https://www.penguinrandomhouse.com/books/670069/still-life-by-sarah-winman/  
 By [Sarah Winman](https://en.wikipedia.org/wiki/Sarah_Winman) and [and interview here](https://www.abc.net.au/news/2022-08-06/sarah-winman-still-life-book-interview/101300474) (1964 - ),  G.P. Putnam's Sons, Publication date: November 2, 2021; 464 pages  
-
-<details>
-<summary>Reading Notes and 3rd Party Reviews:</summary>
 
 Reading Notes:  
 Quote:  
@@ -117,7 +112,18 @@ This is an excellent story about a collection of kind people starting with a cha
 
 </details>
 
+
+<details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
+
+### The Alice Network.  
+http://www.katequinnauthor.com/books/the-alice-network  
+By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
+Reading Notes:  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Alice_Network)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Alice_Network  
+Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-network-is-a-crackling-tale-of-spies-and-suspense)  
+
 </details>
+
 
 <details>
 <summary>The Wright Brothers. By David McCullough. 2015</summary>
@@ -191,45 +197,14 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
     
 ## Pending or Currently Underway:  
 
+<details>
+<summary>The mysterious case of Rudolf Diesel : genius, power, and deception on the eve of World War I. By Douglas Brunt. 2023</summary>
 
 ### The mysterious case of Rudolf Diesel : genius, power, and deception on the eve of World War I. By Douglas Brunt. 2023  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=493593  
 374 pages  
 Summary:  
 September 29, 1913: the steamship Dresden is halfway between Belgium and England. On board is one of the most famous men in the world, Rudolf Diesel, whose new internal combustion engine is on the verge of revolutionizing global industry forever. But Diesel never arrives at his destination. He vanishes during the night and headlines around the world wonder if it was an accident, suicide, or murder. After rising from an impoverished European childhood, Diesel had become a multi-millionaire with his powerful engine that does not require expensive petroleum-based fuel. In doing so, he became not only an international celebrity but also the enemy of two extremely powerful men: Kaiser Wilhelm II of Germany and John D. Rockefeller, the founder of Standard Oil and the richest man in the world. The Kaiser wanted the engine to power a fleet of submarines that would finally allow him to challenge Great Britain's Royal Navy. But Diesel had intended for his engine to be used for the betterment of mankind and refused to keep the technology out of the hands of the British or any other nation. For John D. Rockefeller, the engine was nothing less than an existential threat to his vast and lucrative oil empire. As electric lighting began to replace kerosene lamps, Rockefeller's bottom line depended on the world's growing thirst for gasoline to power its automobiles and industries. At the outset of this new age of electricity and oil, Europe stood on the precipice of war. Rudolf Diesel grew increasingly concerned about Germany's rising nationalism and military spending. The inventor was on his way to London to establish a new company that would help Britain improve its failing submarine program when he disappeared. -- From publisher's website.  
-
-
-<details>
-<summary>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
-
-### The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America.  
-https://www.penguinrandomhouse.com/books/98115/the-devil-in-the-white-city-by-erik-larson/  
-By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 - ), Published 2004, Vintage, 447 pages.  
-<details>
-<summary>Reading Notes and 3rd Party Reviews:</summary>
-
-Reading Notes:  An interesting investigation of the 1893 Chicago World's Fair, and the serial murderer [Herman Webster Mudgett](https://en.wikipedia.org/wiki/H._H._Holmes) (a.k.a. Dr. Henry Howard Holmes or H. H. Holmes) who took advantage of those attracted to the city during its construction and run-time. See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Devil_in_the_White_City) for a more thorough review.  
-
-3rd Party Summaries:  
-https://en.wikipedia.org/wiki/The_Devil_in_the_White_City  
-https://www.nytimes.com/2003/02/10/books/books-of-the-times-add-a-serial-murderer-to-1893-chicago-s-opulent-overkill.html  
-https://www.readinggroupguides.com/reviews/the-devil-in-the-white-city/guide  
-https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/  
-
-</details>
-
-</details>
-
-
-<details>
-<summary>The Alice Network.  By Kate Quinn.  2017</summary>  
-
-### The Alice Network.  
-http://www.katequinnauthor.com/books/the-alice-network  
-By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
-Reading Notes:  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Alice_Network  
-Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-network-is-a-crackling-tale-of-spies-and-suspense)   
 
 </details>
 
@@ -242,32 +217,6 @@ By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)
 [Wikipedia Summary](https://en.wikipedia.org/wiki/Requiem_for_the_American_Dream):  
 >(*This is*) a book by political activist and linguist Noam Chomsky. It was created and edited by Peter Hutchinson, Kelly Nyks, and Jared P. Scott. It lays out Chomsky's analysis of [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism).  It focuses on the concentration of wealth and power in United States over the past forty years, analyzing the [income inequality](https://en.wikipedia.org/wiki/Economic_inequality).  The book was published by Seven Stories Press in 2017.  
 >The book charts Chomsky's analysis of the concentration of wealth from the 1970s to now. Chomsky analyzes the way in which power relations shifted from the late 1940s to today, in the name of "plutocratic interests".[2] This shift in power relations ends up being an assault "on lower- and middle-class people, which has escalated in recent decades during the ascendancy of what is known as 'neoliberalism' – with fiscal austerity for the poor and tax cuts and other subsidies for the wealthy minority."[3] Chomsky is most interested in how the rise of financialization, which "is a process whereby financial markets, financial institutions, and financial elites gain greater influence over economic policy and economic outcomes,"[4] and how it affects and shapes public life in America, leading to a concentration of wealth and power to elite persons and institutions. This has been shown to lead to phenomena like the richest people in the world having as much wealth as the bottom half of the world.  
-
-</details>
-
-
-<details>
-<summary>How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts. By Ian Brennan.  2016</summary>
-
-### How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts.  
-https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/  
-By [Ian Brennan](https://en.wikipedia.org/wiki/Ian_Brennan_(music_producer)) and [and interview here](https://infiniteculture.wordpress.com/2016/01/06/breaking-down-barriers-an-interview-with-ian-brennan/) (1966 - ),  Allworth, Publication date: February 23, 2016; 426 pages  
-
-<details>
-<summary>Reading Notes and Publisher's Summary</summary>
-
-Reading Notes:  
-
-[Publisher's Summary](https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/):  
-All recordings document life, arising from a specific time and place, and if that place is artificial, the results will be as well.  Culled from a lifetime of learning through failure and designed to provoke thought and inspiration for artists in every medium, How Music Dies (or Lives) is a virtual how-to manual for those on a quest for authenticity in an age of airbrushed and Auto-Tuned so-called "artists."  Author and Grammy-winning producer Ian Brennan chronicles his own journeys to find new and ancient sounds, textured voices, and nonmalleable songs, and he presents readers with an intricate look at our technological society.  His concise prose covers topics such as:  
-
-* The damages of colonization in generalizing distinctive variations  
-* The need for imperfection  
-* The gaps between manufacturing and invention  
-* The saturation of music in everyday life  
-
-This guide serves those who ask themselves, "What's wrong with our culture?" Along with possible answers are lessons in using the microphone as a telescope, hearing the earth as an echo, and appreciating the value of democratizing voices.  
-</details>
 
 </details>
 
@@ -330,15 +279,36 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 
 </details>
 
-<details>
-<summary>How Music Dies (or Lives).  By Ian Brennan  2016</summary>
 
-### How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts  
+<details>
+<summary>How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts. By Ian Brennan.  2016</summary>
+
+### How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts.  
+https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/  
 https://books.google.com/books/about/How_Music_Dies_or_Lives.html?id=YjmCDwAAQBAJ  
-by [Ian Brennan](https://en.wikipedia.org/wiki/Ian_Brennan_(music_producer)) published 2016-02-23  
+By [Ian Brennan](https://en.wikipedia.org/wiki/Ian_Brennan_(music_producer)) and [and interview here](https://infiniteculture.wordpress.com/2016/01/06/breaking-down-barriers-an-interview-with-ian-brennan/) (1966 - ),  
 Foreword by [Corin Tucker](https://en.wikipedia.org/wiki/Corin_Tucker)  
+Allworth, Publication date: February 23, 2016; 426 pages  
+
+<details>
+<summary>Reading Notes and Publisher's Summary</summary>
+
+Reading Notes:  
+
+[Publisher's Summary](https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/):  
+All recordings document life, arising from a specific time and place, and if that place is artificial, the results will be as well.  Culled from a lifetime of learning through failure and designed to provoke thought and inspiration for artists in every medium, How Music Dies (or Lives) is a virtual how-to manual for those on a quest for authenticity in an age of airbrushed and Auto-Tuned so-called "artists."  Author and Grammy-winning producer Ian Brennan chronicles his own journeys to find new and ancient sounds, textured voices, and nonmalleable songs, and he presents readers with an intricate look at our technological society.  His concise prose covers topics such as:  
+
+* The damages of colonization in generalizing distinctive variations  
+* The need for imperfection  
+* The gaps between manufacturing and invention  
+* The saturation of music in everyday life  
+
+This guide serves those who ask themselves, "What's wrong with our culture?" Along with possible answers are lessons in using the microphone as a telescope, hearing the earth as an echo, and appreciating the value of democratizing voices.  
+</details>
 
 </details>
+
+
 
 <details>
 <summary>By Hands Now Known - . By Margaret Burnham  2022</summary>
