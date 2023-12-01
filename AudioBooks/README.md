@@ -408,15 +408,12 @@ Librivox Summary:
 </details>
 </details>
 
-<details>
-<summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>  
+<details><summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
 
 ### Cleek of Scotland Yard. (12:46)  
 https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
 Text: https://www.gutenberg.org/ebooks/32198    
 By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reading Notes:  
 Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, they are facts -- that expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  
@@ -424,26 +421,23 @@ Librivox Summary:
 >Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads. - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
 
 </details>
-</details>
 
 
-<details>
-<summary>Atlantis. By Gerhart Hauptmann, 1912</summary>
+<details><summary>Atlantis. By Gerhart Hauptmann, 1912</summary>
 
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
 https://www.gutenberg.org/ebooks/17241  
 By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  Published 1912
 Translated by **Adele Szold Seltzer** (1876 - 1940)  
-Summary from Librivox:  
+[Summary](https://librivox.org/atlantis-by-gerhart-hauptmann/) from Librivox:  
 Frederick von Kammacher is a young doctor in Germany whose wife has gone *insane*, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
-
+Summary/Review by "[Steve R](https://www.goodreads.com/review/show/3265689713)" on GoodReads.  
 </details>
 
-<details>
-<summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
+<details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
-### Climate--Incorporated (0:02:41)  
+### The Gettysburg Address (0:02:41)  
 Four Librivox versions available:  
 https://librivox.org/the-gettysburg-address-by-abraham-lincoln/  
 https://librivox.org/the-gettysburg-address-by-abraham-lincoln-version-2/  
@@ -451,8 +445,6 @@ https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/
 https://librivox.org/the-gettysburg-address-by-abraham-lincoln-3/  
 Text: https://www.gutenberg.org/etext/4  
 By [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) (February 12, 1809 – April 15, 1865)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
 Reader's Notes:  Everyone residing in the United States of America should listen to this speech once in a while.  If you are not familiar with the context of this speech, the [Wikipedia Summary](https://en.wikipedia.org/wiki/Gettysburg_Address) provides an excellent resource.  
 Wikipedia Summary: [https://en.wikipedia.org/wiki/Gettysburg_Address](https://en.wikipedia.org/wiki/Gettysburg_Address)  
@@ -462,8 +454,7 @@ Librivox Summary:
 </details>
 </details>
 
-<details>
-<summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
+<details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
 https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
@@ -475,8 +466,7 @@ Librivox Summary:  This non-fiction work takes place in many areas of New York C
 
 </details>
 
-<details>
-<summary>Bashan And I.  By Thomas Mann.  1923</summary>  
+<details><summary>Bashan And I.  By Thomas Mann.  1923</summary>
 
 ### Bashan And I. (4:13)  
 https://librivox.org/bashan-and-i-by-thomas-mann/  
@@ -489,8 +479,7 @@ Librivox Summary:
 
 </details>
 
-<details>
-<summary>Pierre Curie.  1923 </summary>
+<details><summary>Pierre Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
 https://librivox.org/pierre-curie-by-marie-curie/  
@@ -504,8 +493,7 @@ Librivox Summary:
 
 </details>
 
-<details>
-<summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
+<details><summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
 
 ### Life of Henry David Thoreau (7:44)  
 https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
@@ -516,8 +504,7 @@ Summary from Librivox:
 
 </details>
 
-<details>
-<summary>Napoleon The First, An Intimate Biography. 1921 </summary>
+<details><summary>Napoleon The First, An Intimate Biography. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
 https://librivox.org/napoleon-the-first-biography-by-walter-geer/  
@@ -531,8 +518,7 @@ Librivox Summary:
 
 </details>
 
-<details>
-<summary>Eleven Years in the Rocky Mountains and Life on the Frontier. 1870 </summary>
+<details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
 https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
@@ -546,8 +532,7 @@ Librivox Summary:
 
 </details>
 
-<details>
-<summary>Life and Writings of Amelia Bloomer.  1895 </summary>
+<details><summary>Life and Writings of Amelia Bloomer.  1895 </summary>
 
 ### Life and Writings of Amelia Bloomer (10:22:42)  
 https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
@@ -563,8 +548,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
+<details><summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
 
 ### The Stars, My Brothers. (01:23)  
 https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
@@ -576,8 +560,7 @@ Librivox Summary:
 
 </details>
 
-<details>
-<summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
+<details><summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
 
 ### The Heart of the Ancient Wood  (4:54)  
 https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
@@ -589,8 +572,7 @@ Summary from Librivox:
 
 </details>
 
-<details>
-<summary>Captains Courageous. By Rudyard Kipling, 1897</summary>
+<details><summary>Captains Courageous. By Rudyard Kipling, 1897</summary>
 
 ### Captains Courageous  (5:57)  
 https://librivox.org/captains-courageous-by-rudyard-kipling/  
@@ -602,29 +584,22 @@ Summary from Librivox:
 
 </details>
 
-<details>
-<summary>Bury Your Dead.  By Louise Penny. 2010 </summary>  
+<details><summary>Bury Your Dead.  By Louise Penny. 2010 </summary>
 
 ### Bury Your Dead. (13:00)  
 https://www.overdrive.com/media/451816/bury-your-dead  
 By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 6th in the series.  Penny incorporates two crime investigations into this installment.  Gamache is recovering from injuries suffered in an investigation gone wrong and stumbles into a murder related to [Samuel de Champlain](https://en.wikipedia.org/wiki/Samuel_de_Champlain) (*French explorer, navigator, cartographer, soldier, geographer and founder of Quebec*).  Concurrently, the murder in The "[Brutal Telling](https://en.wikipedia.org/wiki/The_Brutal_Telling)" novel is investigated further.
- 
-</details>
+Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 6th in the series.  Penny incorporates two crime investigations into this installment.  Gamache is recovering from injuries suffered in an investigation gone wrong and stumbles into a murder related to [Samuel de Champlain](https://en.wikipedia.org/wiki/Samuel_de_Champlain) (*French explorer, navigator, cartographer, soldier, geographer and founder of Quebec*).  Concurrently, the murder in The "[Brutal Telling](https://en.wikipedia.org/wiki/The_Brutal_Telling)" novel is investigated further.  
+
 </details>
 
-<details>
-<summary>Trick of the Light.  By Louise Penny. 2011 </summary>  
+<details><summary>Trick of the Light.  By Louise Penny. 2011 </summary>
 
 ### A Trick of the Light. (9:00)  
 https://www.overdrive.com/media/628804/a-trick-of-the-light  
 By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
-<details>
-<summary>Reader's Notes, and Other 3rd Party Summaries:</summary>  
 
 Reader's Notes:  
 Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 7th in the series.  Gamache and Inspector Jean Guy Beauvoir are still recovering from injuries suffered in an investigation gone wrong... And a dead body is found in Clara Morrow's garden the morning after a party celebrating her first solo show.  [Alcoholics Anonymous](https://en.wikipedia.org/wiki/Alcoholics_Anonymous), its [big Book](https://en.wikipedia.org/wiki/Alcoholics_Anonymous#The_Big_Book,_the_Twelve_Steps,_and_the_Twelve_Traditions) and its [twelve-step program](https://en.wikipedia.org/wiki/Twelve-step_program#Twelve_Steps) factor prominently in the investigation.  
@@ -632,32 +607,25 @@ Wikipedia page:
 https://en.wikipedia.org/wiki/A_Trick_of_the_Light_(novel)  
 Publisher's Weekly Summary:  
 https://www.publishersweekly.com/978-0-312-65545-7  
- 
-</details>
+
 </details>
 
 
-<details>
-<summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>  
+<details><summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>
 
 ### The City at World's End.  (7:06)  
 https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
 Text: https://manybooks.net/titles/hamiltoneother05cityworldsend.html  
 By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
 This is an interesting application of space-time science current in the mid-20th century via *popular* science fiction of the time.  
-Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
 
 </details>
-</details>
 
-<details>
-<summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
+<details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
 
 ### The Harvester (16:48)  
 https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
@@ -1563,6 +1531,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 ## Pending or Currently Underway:  
 
 
+<details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
+
+### Red Winter - A Jack Ryan Novel. (13:00)  
+https://www.overdrive.com/media/8822188/red-winter  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 - _)  
+
+Reader's Notes: The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations at the European East/West border*). This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  A younger Jack Ryan is called in for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An ageless John Clarke shadows them just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert.  
+[Kirkus Reviews Summary](https://www.kirkusreviews.com/book-reviews/marc-cameron/tom-clancy-red-winter/)  
+[OverDrive Summary](https://www.overdrive.com/media/8822188/red-winter):  
+>"In this previously untold adventure, a young Jack Ryan goes behind the Iron Curtain to seek the truth about a potential Soviet defector in the most shocking entry in Tom Clancy's #1 New York Times bestselling series. 1985: A top secret F117 aircraft crashes into the Nevada desert. The Nighthawk is the most advanced fighting machine in the world and the Soviets will do anything to get their hands on its secrets. In East Berlin, a mysterious figure contacts the CIA with an incredible offer—invaluable details of his government’s espionage plans in return for asylum.It’s an offer they can’t pass up...if it’s genuine, but the risks are too great to blindly stumble into a deal. With the East German secret police closing in, someone will have to go to behind the Berlin Wall to investigate the potential defector. It’s a job Deputy Director James Greer can only trust to one man—Jack Ryan.Ryan is a former Marine and a brilliant CIA analyst who’s been the architect of some of the CIA’s biggest coups but this time he’s in enemy territory with a professional assassin on his tail. Can he get the right answers before the Cold War turns into a Red Winter?"  
+
+</details>
+
+
+
 <details>
 <summary>Is Shakespeare Dead?  By Mark Twain.  1909</summary>
 
@@ -1745,15 +1728,14 @@ Librivox Summary:
 
 </details>
 
--------------------
+-------------------  
 
-<details>
-<summary>This section still needs formatting:<summary>
+<details><summary>This section still needs formatting:<summary>
 
 
-Matrix.
-By Lauren Groff
-Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....
+Matrix.  
+By Lauren Groff  
+Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
 
 
 
@@ -1765,7 +1747,7 @@ Text: https://www.gutenberg.org/ebooks/27462
 
 By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
 >John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
-Genre(s): Science Fiction
+Genre(s): Science Fiction  
 
 
 The Flight of the Shadow.  By Laura M. Dake.  1899  
@@ -1789,10 +1771,11 @@ Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20
 >This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
 
 
-NEEDS FORMATTING ABOVE
+NEEDS FORMATTING ABOVE  
+
 </details>
 
--------------------
+-------------------  
 
 
 <details>
