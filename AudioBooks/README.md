@@ -63,12 +63,14 @@ https://www.overdrive.com/media/3007194/new-york-2140
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
-Reader's Notes: Another excellent book by Kim Stanley Robinson!  
+Reader's Notes:  
+TLDR:  Another excellent book by Kim Stanley Robinson! **Everyone** should read it, listen to it, or both because **we all** have to contribute to dealing with [Climate Change](https://en.wikipedia.org/wiki/Climate_change).  
+The Rest of My Notes:  
 First, a little context.  In 1980, I ran across a used pamphlet - ["Worldwatch Paper 21: Soft Technologies, Hard Choices" by Colin Norman](https://files.eric.ed.gov/fulltext/ED156566.pdf), published in June 1978.  I was in college at the time and understood that its content was important, and kept that little booklet -- reading it again from time to time.  It was written in a time still colored by what Norman called "the Arab oil embargo" and its demonstration of how fragil were the industrial world's petroleum-based economies.  Part of his argument was that humanity needed to implement major energy conservation and to invent/implement new energy generation & transmission technologies to avoid a predicted carbon dioxide-induced global warming catastrophy.  On page 31 Mr. Norman began an explanation of the growing concern "that carbon dioxode -- an inevitable by-product of burning fossil fuels -- is building up in the atmosphere and acting rather like a greenhouse, preventing a fraction of the earth's heat from being radiated into space."  He went on, "The concentration of carbon dioxide in the atmosphere is already (*as he wrote those words in 1978!*) believed to have risen by about 13 percent since the Industrial Revolution, and it may double over the next 50 years.  Such a change could increase the average temperatures on the earth's surface by 2-3 degrees C." He then summarized the predicted impacts "In general, global warming would bring increased rainfall and probably cause local weather patterns to become more variable."  And then:  
 >A more worrying possibility is that global warming could have an adverse impact on the stability of the polar ice caps. ...(*and*) over the next 50 years could raise polar temperatures by an amount sufficient to cause the West Antarctic ice sheet to break up.  Such an event would raise the average sea level by about five meters, which would be catastrophic for many low-lying areas.  
 
 Here we are (*I read this book -- "[NY 2140](https://en.wikipedia.org/wiki/New_York_2140)" -- in October 2023, more than 40 years after reading Colin Norman's warning*) and this [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) novel is about how ignoring too much of that global warming / climate change message played out for the world by following a diverse set of New Yorkers in the early years of the 2140s.  Sea level rise had created canals of NY streets, and islands of skyscrapers.  In this novel Robinson argues that capitalism and global finance were key culprits in ignoring/rejecting global warming / climate change for so long that global catastrophy was guaranteed, and for increasing the scope of suffering after catastrophies arive...  Ultimately, he delivers a hopeful conclusion -- with small-d democracy having a foundational role.  
-There have been [some criticism](https://en.wikipedia.org/wiki/New_York_2140#Scientific_accuracy) about Robinson's science and/or politics.  My advice is to remember that this is a novel and telling a relevant story doesn't mean **doing** hard or soft science, nor does it require avoiding any political point of view.  
+There has been [some criticism](https://en.wikipedia.org/wiki/New_York_2140#Scientific_accuracy) about Robinson's science and/or politics.  My advice is to remember that this is a novel and telling a relevant story doesn't mean **doing** hard or soft science, nor does it require avoiding any political point of view.  
 
 3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140  
@@ -85,46 +87,43 @@ By [Kazuo Ishiguro](https://en.wikipedia.org/wiki/Kazuo_Ishiguro) (1954 -- ___)
 
 Reader's Notes: One path for artificial intelligence in our not-too-distant future.  
 We experience the story from the perspective of Klara, an AF (a solar-powered Artificial Friend).  Klara has exemplary observational skills but seems limited by what must have been her training data-set emphasizing human characteristics and communications and de-emphasizing the laws of the physical world.  This results in an *uneven* understanding of the world around her and an interesting story of committment and compassion.  
-CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish"*) the reading experience for some because part of the Ishiguro's magic is in slowly revealing new ideas and new threads of experience as the reader traverses his story.  
+CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish"*) the reading experience for some because part of the Ishiguro's magic is in slowly, expertly, revealing new ideas and new threads of experience as the reader traverses his story.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun  
 
 </details>
 
 
-<details>
-<summary>The Ambassadors. By Henry James, 1903</summary>
+<details><summary>The Ambassadors. By Henry James, 1903</summary>
 
 ### The Ambassadors (16:46)  
 https://librivox.org/the-ambassadors-by-henry-james/  
 https://en.wikipedia.org/wiki/The_Ambassadors  
-Text at: https://www.gutenberg.org/etext/432 
+Text at: https://www.gutenberg.org/etext/432  
 By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world...  
-Summary from Librivox:  
->Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick.  That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser.  The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?  -  Summary from: https://librivox.org/the-ambassadors-by-henry-james/
+[Summary from Librivox](https://librivox.org/the-ambassadors-by-henry-james/):  
+>"Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick.  That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser.  The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?"  -  Summary from: https://librivox.org/the-ambassadors-by-henry-james/  
 
 </details>
-</details>
 
-<details>
-<summary>The Demi-Gods, By James Stephens. 1914</summary>
+<details><summary>The Demi-Gods, By James Stephens. 1914</summary>
 
 ### The Demi-Gods (4:37)  
 https://librivox.org/the-demi-gods-by-james-stephens/  
 Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
-By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.   Reader's Notes:  This book is a lot of fun and the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
-Librivox Summary:  
->In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The MacCans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin. ([Summary by Michele Fry](https://librivox.org/the-demi-gods-by-james-stephens/))
+By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.  
+Reader's Notes:  
+This book is a lot of fun. And the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
+
+[Librivox Summary](https://librivox.org/the-demi-gods-by-james-stephens/):  
+>"In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The MacCans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin." ([Summary by Michele Fry](https://librivox.org/the-demi-gods-by-james-stephens/))  
 
 </details>
 
 
-<details>
-<summary>Mornings on Horseback. By David McCullough.  1981 </summary>  
+<details><summary>Mornings on Horseback. By David McCullough.  1981 </summary>
 
 ### Mornings on Horseback. (9:44)  
 https://www.overdrive.com/media/509238/mornings-on-horseback  
@@ -136,32 +135,27 @@ See the Wikipedia summary: https://en.wikipedia.org/wiki/Mornings_on_Horseback
 </details>
 
 
-<details>
-<summary>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>  
+<details><summary>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>
 
 ### Democracy - An American Novel. (07:16)  
 https://librivox.org/democracy-an-american-novel-by-henry-adams/  
 Text: https://www.gutenberg.org/ebooks/2815  
 https://en.wikipedia.org/wiki/Democracy:_An_American_Novel  
 By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918)  
-<details>
-<summary> Librivox Summary:</summary>  
 
-Reading Notes: A novel about timeless characters that still seem populate the elected ranks of Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
+Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
->Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today. - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+>"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
 
 </details>
-</details>
 
-<details>
-<summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>  
+<details><summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>
 
 ### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
 https://www.overdrive.com/media/5243411/the-invisible-life-of-addie-larue  
 By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ____)  
 
-Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth across time, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review.  It is worth all 17 hours of listening (or reading its 450 pages).
+Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth across time, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review (*with spoilers*).  It is worth all 17 hours of listening (or reading its 450 pages).  
  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot  
 
@@ -180,8 +174,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details>
-<summary>The Chouans. By Honoré de Balzac.  1829</summary>
+<details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
 https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
@@ -189,25 +182,21 @@ https://en.wikipedia.org/wiki/Les_Chouans
 Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
 By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
 Translated by [Ellen Marriage]() (1865 - 1946)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
-Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues of 18th/19th century female stereotypes and related derogatory terms.  
+Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues with 18th/19th century female stereotypes and related derogatory terms.  
 Summary on Librivox:  
 >“The Chouans” (1829) was the first novel published under Balzac's own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac's novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today's novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
 
-</details>
 </details>  
 
-<details>
-<summary>Jane Austen's Sailor Brothers.  1906 </summary>  
+<details><summary>Jane Austen's Sailor Brothers.  1906 </summary>
 
 ### Jane Austen's Sailor Brothers -- Being the Adventures of Sir Francis Austen, G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen.  (7:16)  
 https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/  
 Text: https://www.gutenberg.org/ebooks/69815  
 By [Edith Hubback Brown](https://en.wikipedia.org/wiki/Edith_Charlotte_Brown) (1876 - 1945) and John Hubback (1844 - 1939)  
 <details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
 
 Reader's Notes:  
 I believe that "Jane Austen's Sailor Brothers..." will be enjoyable to [Jane Austin](https://en.wikipedia.org/wiki/Jane_Austen) fans, as well as those who loved [Patric O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)'s [Aubrey-Maturin novels](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series). Edith Hubback Brown and her father John Hubback share what appears to be well researched and carefully edited primary resources (British Naval records and family letters) to outline Francis and Charles Austen's naval education and careers, and how their experiences contributed to Jane Austen's novels.  
@@ -215,15 +204,12 @@ Everyone should know that this is an excellent reading/performance by [Bryn Robe
 
 Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
->"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. 
-The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. 
-Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
+>"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
 
 </details>
 </details>
 
-<details>
-<summary>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary> 
+<details><summary>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary>
 
 ### The Last Watch.  (17:00)  
 https://www.overdrive.com/media/5418299/the-last-watch  
@@ -236,8 +222,7 @@ https://www.jsdewes.com/about
 </details>
 
 
-<details>
-<summary>The Tattooist of Auschwitz. By Heather Morris. 2018 </summary>  
+<details><summary>The Tattooist of Auschwitz. By Heather Morris. 2018 </summary>
 
 ### The Tattooist of Auschwitz. (7:25)  
 https://www.overdrive.com/media/3728660/the-tattooist-of-auschwitz  
@@ -253,22 +238,18 @@ Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/heather-morris/the-ta
 </details>
 
 
-<details>
-<summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
+<details><summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
 https://en.wikipedia.org/wiki/Saint_Joan_(play)  
 Text: https://archive.org/details/SaintJoan/page/n1  
 By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reading Notes:  If you have even a microscopic interest in 'Saint Joan' or Middle Ages France, this seems like an excellent little book (*maybe just an essay*).  It assumes that the reader understands some about mid-20th century Brittan and New York, but is still a pleasure in relative ignorance of both.  The reading by David Wales is a perfect match.  
 Summary from Librivox:  
 >Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
 
-</details>
 </details>  
 
 <details><summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
@@ -316,7 +297,7 @@ By [John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon
 With biographical memoir by his daughter [Maria Rebecca Audubon](http://www.audubonparkny.com/audubonfamily.html) (1843-1925)  
 Introduction, notes, and index by [Frank Heywood Hodder](https://en.wikipedia.org/wiki/Frank_Heywood_Hodder) (1860-1935)  
 <details>
-<summary>Reader's Notes and Librivox Summary:</summary>  
+<summary>Reader's Notes and Librivox Summary:</summary>
 
 Reading Notes:  This travel journal provides a little access into the brutality of cross-country travel in 1849 in what is now the Southern and Western United States.  
 Librivox Summary:  
@@ -325,8 +306,7 @@ Librivox Summary:
 </details>
 </details>
 
-<details>
-<summary>The President is Missing.  2018 </summary>  
+<details><summary>The President is Missing.  2018 </summary>
 
 ### The President is Missing.  (13:00)  
 https://www.overdrive.com/media/3603621/the-president-is-missing  
@@ -334,16 +314,16 @@ https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/
 By [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (1946 - ) and [James Paterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 -)  
 
 Reader's Notes:  
-This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, a lot of *often* predictable action and dialog followed.  That said, it is useful long-distance driving background audio.  
+This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, a lot of *often* predictable action and dialog followed.  That said, I think that it is useful long-distance driving background audio.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)  
 Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
-James Patterson Summary:  
->The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come. [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
+[James Patterson Summary](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/):  
+>"The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come." [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
 
 </details>
 
-<details>
-<summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>  
+
+<details><summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>
 
 ### Triplanetary, First in the Lensman Series (10:31)  
 https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
@@ -366,8 +346,8 @@ Summary:
 </details>
 </details>
 
-<details>
-<summary>First Lensman. By E. E. Smith, 1950</summary>
+
+<details><summary>First Lensman. By E. E. Smith, 1950</summary>
 
 ### First Lensman (11:12)  
 https://librivox.org/first-lensman-by-e-e-smith/  
@@ -375,37 +355,32 @@ https://en.wikipedia.org/wiki/First_Lensman
 Text: https://www.gutenberg.org/ebooks/49525  
 By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
 Reading Notes: (*see 'Triplanetary' above*)  
->The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went--and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
+>The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went -- and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 </details>
 
-<details>
-<summary>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>  
+<details><summary>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
 
 ### The Creatures That Time Forgot.  (1:51)  
 https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
 Text: https://www.gutenberg.org/ebooks/63874  
 By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-Reader's Notes: *Stone age* struggle for life.  A singular urge for *escape*.  This is not just another member of the shamelessly optimistic post war U.S. science fiction club, and this early Ray Bradbury story is worth a listen.  
+Reader's Notes: *Stone age* struggle for life.  A singular urge for *escape*.  This is **not** just another member of the shamelessly optimistic post war U.S. science fiction club, and this early Ray Bradbury story is worth a listen.  
 Librivox Summary:  
->Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself! - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946    
+>"Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself!" - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946    
 </details>
 
-<details>
-<summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>  
+<details><summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
 
 ### Cleek: The Man of the Forty Faces. (13:25)  
 https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
-Text: https://www.gutenberg.org/ebooks/14332    
+Text: https://www.gutenberg.org/ebooks/14332  
 By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As (an often comedic) parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, the written words are facts -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
 Librivox Summary:  
->Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books. - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
+>"Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books." - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
 
-</details>
 </details>
 
 <details><summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
@@ -418,7 +393,7 @@ By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 -
 Reading Notes:  
 Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, they are facts -- that expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  
 Librivox Summary:  
->Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads. - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
+>"Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads." - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
 
 </details>
 
@@ -428,12 +403,14 @@ Librivox Summary:
 ### Atlantis  (13:59)  
 https://librivox.org/atlantis-by-gerhart-hauptmann/  
 https://www.gutenberg.org/ebooks/17241  
-By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  Published 1912
+By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  Published 1912  
 Translated by **Adele Szold Seltzer** (1876 - 1940)  
 [Summary](https://librivox.org/atlantis-by-gerhart-hauptmann/) from Librivox:  
 Frederick von Kammacher is a young doctor in Germany whose wife has gone *insane*, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
 Summary/Review by "[Steve R](https://www.goodreads.com/review/show/3265689713)" on GoodReads.  
+
 </details>
+
 
 <details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
@@ -451,7 +428,6 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Gettysburg_Address](https://en
 Librivox Summary:  
 >The Dedication of the National Cemetery at Gettysburg, in November, 1863, followed a few short months after the roiling, acrid clouds of gun smoke dissipated, leaving a little crossroads town in Pennsylvania heir to the human tragedy of over 7,000 corpses and 21,000 men suffering wounds. It was a most unnatural disaster. On November 19, the chief executive made the trip to the still-dazed, shot-torn community to deliver, almost as an afterthought (for he was not the keynote speaker), an address that clarified his belief that the Negro race should be liberated from their slavery, and that despite the loss of so much blood and life, the Union should hold to the goal of completing this emancipation. That he knew the eyes of the nation would rest of him was evident; this address was the first speech since his inauguration that he prepared in advance. But these carefully crafted words - only 269 of them - became a vital part of our nation's identity, and are a signature to the bedrock of our beliefs. - Summary by [Mark F. Smith](https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/)  
 
-</details>
 </details>
 
 <details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
@@ -1217,29 +1193,24 @@ Librivox Summary: The Society For Mystical and Metaphysical Research, Inc. .....
 </details>
 
 
-<details>
-<summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
+<details><summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
 
 ### The Story of Geographical Discovery: How the World Became Known. (4:51)  
 https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/  
 Text: https://www.gutenberg.org/files/14291/14291-h/14291-h.htm  
 or https://archive.org/details/storyofgeographi00jacorich  
 By [Joseph Jacobs](http://en.wikipedia.org/wiki/Joseph_Jacobs) (1854 - 1916)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reader Notes:  
 I enjoyed this summary of a "*typical*" Western understanding of how the world was "*discovered*" (up to the mid-1890s).  It aligns with much of what I was taught in high school and college, though it is no longer the narrative I would attach to these discoveries and conquests.  
 Some might be turned off by how the author ignores oppression built around the concepts of race, caste, and class throughout his descriptions of how Europeans claimed lands across the globe.  I believe they are expressions of the author's understanding of the world and that of the readers he targeted at the time.  He makes no attempt to deal with negative outcomes of colonization.  Not only were land and resources stolen in the colonization process but colonization was both a cultural and literal genocide -- ignoring the value of indigenous peoples.  The impacts of colonization continue through today.  This book may be hurtful to some.  
-Librivox Summary:  
->This book was first published in 1897. It's a short work, but it encompasses a vast subject—nothing less than determining the detailed geographical plan of our entire world! In the process, Jacobs feeds us dates and names and events and places and maps in a dense stream. It's a bit like drinking from a fire hose, but see it through, and the reader (or listener) will acquire a surprisingly complete overview of world history as well as geography. It's well worth absorbing, even by those not so geographically inclined, if only as a source for winning endless bar bets. Beginning in ancient times, the author identifies three main forces that have contributed to our present understanding: wars of conquest, competition for trade, and (eventually) pure scientific curiosity. The Egyptians, Phoenicians, early Greeks, Babylonians, and many other Mediterranean peoples contributed, often unwillingly, the streams of knowledge that Ptolemy of Alexandria summed up in the great Ptolemaei Orbis (ca.150 AD), the first “real” map of the whole known world. The evolution of world maps to incorporate (and sometime conceal) new discoveries is a key theme of this fascinating work. ([Summary by Steven Seitel](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/))
+[Librivox Summary](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/):  
+>"This book was first published in 1897. It's a short work, but it encompasses a vast subject—nothing less than determining the detailed geographical plan of our entire world! In the process, Jacobs feeds us dates and names and events and places and maps in a dense stream. It's a bit like drinking from a fire hose, but see it through, and the reader (or listener) will acquire a surprisingly complete overview of world history as well as geography. It's well worth absorbing, even by those not so geographically inclined, if only as a source for winning endless bar bets. Beginning in ancient times, the author identifies three main forces that have contributed to our present understanding: wars of conquest, competition for trade, and (eventually) pure scientific curiosity. The Egyptians, Phoenicians, early Greeks, Babylonians, and many other Mediterranean peoples contributed, often unwillingly, the streams of knowledge that Ptolemy of Alexandria summed up in the great Ptolemaei Orbis (ca.150 AD), the first “real” map of the whole known world. The evolution of world maps to incorporate (and sometime conceal) new discoveries is a key theme of this fascinating work." ([Summary by Steven Seitel](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/))  
 
 </details>
-</details>
 
 
-<details>
-<summary>Man of Many Minds. By E. Everett Evans  1959 </summary>  
+<details><summary>Man of Many Minds. By E. Everett Evans  1959 </summary>
 
 ### Man of Many Minds.  1959  (7:13)  
 https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
@@ -1248,39 +1219,33 @@ https://en.wikipedia.org/wiki/Man_of_Many_Minds
 By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
 Pyramid Books edition: November, 1959  
 
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
-
-Reading Notes:   
+Reading Notes:  
 I agree that "old-school space opera" is a good description -- in the context of juvenile/young adult fiction.  But this book's mostly *wooden* characters remind me of "I Spy" in their shallow lack of development.  The author builds a future where Earth's colonization of many worlds seems to have emphasized transplanting some of humankind's worst tendencies...  The story maintains just enough forward motion to keep me engaged (*while doing yard work and house work*).  It may not be worth your time, as there are so many other good books...  
-Librivox Summary:  
->GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
+[Librivox Summary](https://librivox.org/man-of-many-minds-by-edward-everett-evans/):  
+>"GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera!" ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
 
 </details>
-</details>
 
-<details>
-<summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>  
+
+<details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
 https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
 Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
 Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
 By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
-Horror, supernatural, scienct fiction expertly read by Ben Tucker.
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare! - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
+Horror, supernatural, scienct fiction expertly read by Ben Tucker.  
+For context, you might want to see [Cthulhu Mythos](https://en.wikipedia.org/wiki/Cthulhu_Mythos).  
+
+[Librivox Summary](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/:  
+>"In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare!" - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
 
 </details>
-</details>
 
-<details>
-<summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
+
+<details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
 https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
@@ -1289,130 +1254,103 @@ By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 
 Reader Notes:  First, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/Behind_a_Mask).  This may be more than a simple 19th century family drama.  Jean Muir manipulates males who range from their late teens to (*maybe*) their middle sixties -- men who do her bidding in *virtually* total self-interest, the desire to "have her."  As a male reader, this all seemed a little *too easy*, *too convenient*.  Yet, Ms. Alcott may have been more successful at building (*and crushing*) widely assumed male and female archetypes.  In any case, she leaves much of the Coventry family damaged.  And left the reader wondering how these characters went about their roles in mid-19th century British society...  
 Wikipedia Summary:  https://en.wikipedia.org/wiki/Behind_a_Mask  
 Librivox Summary:  
->Fans of Louisa May Alcott's Little Women will remember that her heroine Jo wrote racy novels before turning her hand to more "serious" literature. Alcott, writing under the pseudonym A. M. Barnard, often did the same, and Behind a Mask (1866) is one of her sensation novels. It focuses on Jean Muir, who enters the home of the wealthy Coventry family as governess to their sixteen-year-old daughter. But is the beguiling Miss Muir all that she seems to be? [Summary by Elizabeth Klett](https://librivox.org/behind-a-mask-by-louisa-may-alcott/)  
+>"Fans of Louisa May Alcott's Little Women will remember that her heroine Jo wrote racy novels before turning her hand to more "serious" literature. Alcott, writing under the pseudonym A. M. Barnard, often did the same, and Behind a Mask (1866) is one of her sensation novels. It focuses on Jean Muir, who enters the home of the wealthy Coventry family as governess to their sixteen-year-old daughter. But is the beguiling Miss Muir all that she seems to be?" [Summary by Elizabeth Klett](https://librivox.org/behind-a-mask-by-louisa-may-alcott/)  
 
 </details>
 
 
-<details>
-<summary>Atomic!  By Henry Kuttner.  1947</summary>  
+<details><summary>Atomic!  By Henry Kuttner.  1947</summary>
 
 ### Atomic! (1:01)  
 https://librivox.org/atomic-by-henry-kuttner/  
 Text: https://www.gutenberg.org/ebooks/68167  
 By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
 More juvenile/young adult science fiction -- lots of *unlikely* human behaviors throughout.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
-Librivox Summary:  
+[Librivox Summary](https://librivox.org/atomic-by-henry-kuttner/):  
 >"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
 
 </details>
-</details>
 
-<details>
-<summary>Climate--Incorporated. By George O. Smith.  1948</summary>  
+<details><summary>Climate--Incorporated. By George O. Smith.  1948</summary>
 
 ### Climate--Incorporated (01:15)  
 https://librivox.org/climate-incorporated-by-george-o-smith/  
 Text: https://gutenberg.org/ebooks/69820  
 By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
 Reader's Notes:  Ever so slightly interesting juvenile/young adult science fiction in which an inventor *accidently* creates a *time machine*.  The plans are stolen.  Corrupt politicians attempt advantage.  Conflict.  Resolution.  Nothing special...  It **might** be worth an hour and a quarter of your time as you work at some other *mindless* task.  Excellent reading by "quartertone."  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late. - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
+[Librivox Summary](https://librivox.org/climate-incorporated-by-george-o-smith/):  
+>"Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late." - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
 
 </details>
-</details>
 
 
-<details>
-<summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>  
+<details><summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
 https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
 Text: https://www.gutenberg.org/ebooks/66536   
 By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reading Notes: As described below, this book is primarily about the theater, the business of the theater and of a performing group and a few characteristics of the writers (*and their writing*) supporting both.  
 Librivox Summary:  
->One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe. - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
+>"One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe." - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
 
 </details>
-</details>
 
-<details>
-<summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>  
+<details><summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>
 
 ### A Brief Account of the Destruction of the Indies. (04:03)  
 https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
 https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
 Text: https://www.gutenberg.org/ebooks/20321   
 By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
-<details>
-<summary>Reading Notes and  Librivox Summary:</summary>  
 
-Reading Notes: This report covers an ugly period of Western colonization and genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
+Reading Notes: This report covers an ugly period of Western colonization and widespread genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
 Summary from Librivox:  
->A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands. - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
+>"A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands." - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
 
 </details>
-</details>
 
 
-<details>
-<summary>Greenmantle. By John Buchan. 1916</summary>  
+<details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
 https://librivox.org/greenmantle-ver3-by-john-buchan/  
 https://en.wikipedia.org/wiki/Greenmantle  
 Text: https://gutenberg.org/ebooks/559  
 By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)  
-<details>
-<summary>Reading Notes and  Librivox Summary:</summary>  
 
-Reading Notes:
+Reading Notes:  
 This is just another relatively fast moving WWI spy novel.  It incorporates some of the worst cultural issues of the time (*written in the 2nd decade of the 20th century by a 19th century writer*)...  I believe they are expressions of the author's understanding of the world and that of the readers he targeted.  He makes no attempt to deal with negative outcomes of institutionalized descrimination, colonization and war, or of cultural and literal genocide -- ignoring the value numerous peoples.  The impacts of these events continue through today.  This book may be hurtful to some.  
-Summary from Librivox:  
->Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum ("Erzerum" in Greenmantle).  
+[Summary from Librivox](https://librivox.org/greenmantle-ver3-by-john-buchan/):  
+>"Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum ("Erzerum" in Greenmantle)".  
 
-"Battle of Erzurum:" https://en.wikipedia.org/wiki/Erzurum_offensive  
-</details>
+For context, see "[Battle of Erzurum](https://en.wikipedia.org/wiki/Erzurum_offensive)"  
+
 </details>
 
-<details>
-<summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946   </summary>  
+<details><summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
 
 ### Lorelei of the Red Mist.  (2:51)  
 https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/  
 Text: https://www.gutenberg.org/ebooks/63917  
 By [Leigh Douglass Brackett](http://en.wikipedia.org/wiki/Leigh_Brackett) (1915 - 1978) and [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Librivox Summary:  
->Published in Planet Stories in 1946, this story is a great mix of Golden Age Sci Fi and Swords & Sorcery. The first half was written by Brackett and when she was pulled away by other commitments the publisher gave it to a new writer, Ray Bradbury, to finish. It is a sort of prequel to the Stark character developed by Brackett where a weak puny man is transferred into the body of a Conan like superman and then cruses through adventure after adventure, always rescuing damsels who are tough and feisty. The publisher blurb says "He died—and then awakened in a new body. He found himself on a world of bizarre loveliness, a powerful, rich man. He took pleasure in his turn of good luck ... until he discovered that his new body was hated by all on this strange planet, that his soul was owned by Rann, devil-goddess of Falga, who was using him for her own gain." - [Summary by Phil Chenevert](https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/)  
+>"Published in Planet Stories in 1946, this story is a great mix of Golden Age Sci Fi and Swords & Sorcery. The first half was written by Brackett and when she was pulled away by other commitments the publisher gave it to a new writer, Ray Bradbury, to finish. It is a sort of prequel to the Stark character developed by Brackett where a weak puny man is transferred into the body of a Conan like superman and then cruses through adventure after adventure, always rescuing damsels who are tough and feisty. The publisher blurb says "He died—and then awakened in a new body. He found himself on a world of bizarre loveliness, a powerful, rich man. He took pleasure in his turn of good luck ... until he discovered that his new body was hated by all on this strange planet, that his soul was owned by Rann, devil-goddess of Falga, who was using him for her own gain." - [Summary by Phil Chenevert](https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/)"  
 
 </details>
-</details>
 
-<details>
-<summary>The shipwreck. By William Falconer.  1762 </summary>  
+<details><summary>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/  
 or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext  
 https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
 By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
-<details>
-<summary> Librivox and Other Summaries:</summary>  
 
 Reading Notes:  
 The interesting biography of William Falconer was more enjoyable than the extensive poem.  The style and some content of the poetry may turn some off, but it includes some excellent rhymes (*think song lyrics*).  
@@ -1421,51 +1359,46 @@ The interesting biography of William Falconer was more enjoyable than the extens
 >Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
 
 </details>
-</details>
 
 
-<details>
-<summary>The Awakening. By Kate Chopin, 1900</summary>
+<details><summary>The Awakening. By Kate Chopin, 1900</summary>
 
-### The Awakening (5:14) 
-https://librivox.org/the-awakening-by-kate-chopin/ 
+### The Awakening (5:14)  
+https://librivox.org/the-awakening-by-kate-chopin/  
 https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
 By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
 Publication date: 22 April 1900 (first edition was 1899 or earlier)  
 
 </details>
 
-<details>
-<summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
+<details><summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
 
 ### Cato, a Tragedy in Five Acts  (1:47)  
 https://librivox.org/cato-by-joseph-addison/  
 Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
 Text: https://www.gutenberg.org/ebooks/31592  
 By [Joseph Addison](https://en.wikipedia.org/wiki/Joseph_Addison) (1672 - 1719)  published 1712  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Listening Notes: This recording is **not** an example of the excellence that can be found across much of librivox.org.  If you want to understand this story, it may pay to [read it](https://www.gutenberg.org/ebooks/31592). I found the performance distracting from the content of the play, rather than enhancing it.  
 Other 3rd party summaries:  
->Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death [Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy). 
-This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)  
+[Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy):  
+>"Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death."  
+[Librivox Summary](https://librivox.org/cato-by-joseph-addison/):  
+>"This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)"  
 
 </details>
-</details>
 
-<details>
-<summary>War on Peace. By Ronan Farrow, 2018</summary>
+<details><summary>War on Peace. By Ronan Farrow, 2018</summary>
 
 ### War on Peace  (10:54)  
+https://www.overdrive.com/media/3963265/war-on-peace  
 https://en.wikipedia.org/wiki/War_on_Peace  
 https://wwnorton.com/books/war-on-peace/  
-By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  
+By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 - _)  
 
 </details>
 
-<details>
-<summary>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
+<details><summary>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
 
 ### The Wordy Shipmates (07:15)  
 https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
@@ -1473,54 +1406,43 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 
 </details>
 
-<details>
-<summary>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
+<details><summary>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
 
 ### Four Months in a Sneak-Box (8:32)  
 https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
 Text: https://www.gutenberg.org/ebooks/5686  
-By [Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902). Published 1878(?)  
-Librivox Summary:  
->The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." [Summary by Nathaniel H. Bishop]()  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
+By [Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902).  
+[Librivox Summary](https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/):  
+>The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." Summary by Nathaniel H. Bishop.  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
 
-</details>  
+</details>
 
-
-<details>
-<summary>Bransford Of Rainbow Range.  1913,1920</summary>  
+<details><summary>Bransford Of Rainbow Range.  1913,1920</summary>
 
 ### Bransford Of Rainbow Range. (5:34)  
 https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/  
 Text: https://www.gutenberg.org/ebooks/33498  
 By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) (1869 - 1934)  
-<details>
-<summary>Reader's Notes and Librivox Summary:</summary>  
 
-Reading Notes:  I invested an hour into this book and could not justify continuing.  It is just not a "*type*" that I enjoy or that I believe has enough positive content that I might learn from.  
+Reading Notes:  I invested an hour into this book and could not justify continuing.  It is just not a "*type*" that I enjoy or that I believe has enough positive content to justify the investment of another 4.5 hours.  
 Librivox Summary:  
->A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There's a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It's all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
+>"A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There's a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It's all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse" - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
 
 </details>
-</details>
 
-<details>
-<summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>  
+<details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
 
 ### The Small Bachelor  (6:36)  
 https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
 Text: https://archive.org/details/smallbachelor0000unse/  
 By [P. G. Wodehouse](https://en.wikipedia.org/wiki/P._G._Wodehouse) (1881 - 1975)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
 Unfortunately, the reader's performance in this recording was unique in a way that was almost *repulsive* to me (*it may not be so to you*)...  I listened to more than 10% of the book before giving up.  I may read the text.  
-Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
->Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest. ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
+>"Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest." ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor  
 
-</details>
 </details>
 
 
@@ -1537,7 +1459,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 https://www.overdrive.com/media/8822188/red-winter  
 By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 - _)  
 
-Reader's Notes: The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations at the European East/West border*). This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  A younger Jack Ryan is called in for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An ageless John Clarke shadows them just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert.  
+Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  A younger Jack Ryan is called in for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An *ageless* [John Clarke](https://en.wikipedia.org/wiki/John_Clark_(Ryanverse_character)) shadows them -- just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert. The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, some symptoms of Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations along the European East/West border*).  
 [Kirkus Reviews Summary](https://www.kirkusreviews.com/book-reviews/marc-cameron/tom-clancy-red-winter/)  
 [OverDrive Summary](https://www.overdrive.com/media/8822188/red-winter):  
 >"In this previously untold adventure, a young Jack Ryan goes behind the Iron Curtain to seek the truth about a potential Soviet defector in the most shocking entry in Tom Clancy's #1 New York Times bestselling series. 1985: A top secret F117 aircraft crashes into the Nevada desert. The Nighthawk is the most advanced fighting machine in the world and the Soviets will do anything to get their hands on its secrets. In East Berlin, a mysterious figure contacts the CIA with an incredible offer—invaluable details of his government’s espionage plans in return for asylum.It’s an offer they can’t pass up...if it’s genuine, but the risks are too great to blindly stumble into a deal. With the East German secret police closing in, someone will have to go to behind the Berlin Wall to investigate the potential defector. It’s a job Deputy Director James Greer can only trust to one man—Jack Ryan.Ryan is a former Marine and a brilliant CIA analyst who’s been the architect of some of the CIA’s biggest coups but this time he’s in enemy territory with a professional assassin on his tail. Can he get the right answers before the Cold War turns into a Red Winter?"  
