@@ -3,7 +3,9 @@
 
 ## Completed:  
 
-### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935
+<details><summary>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
+
+### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
 https://www.gutenberg.org/ebooks/6711  
 https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
 By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938), published 1912  
@@ -22,6 +24,9 @@ Civil War follows — unrealistic assertions about the nature and practice of wa
 General Dru remakes the U.S. as a more fair society with a smaller and more responsive government (*too often just by saying so*...)  
 At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
 One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
+
+</details>
+
 
 <details>
 <summary>The shipwreck. By William Falconer.  1762 </summary>  
@@ -42,13 +47,15 @@ The interesting biography of William Falconer was more enjoyable than the extens
 [RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
 Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
 *supported by*  
-#### An Universal Dictionary of the Marine.  1769  
+**An Universal Dictionary of the Marine.**  1769  
 https://www.gutenberg.org/ebooks/57705  
 By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
 
 </details>
 </details>
 
+
+<details><summary>Anchorite. By Randall Garrett.  1962 </summary>
 
 ### Anchorite.  1962  
 https://www.gutenberg.org/ebooks/23561  
@@ -58,49 +65,70 @@ Reading Notes:  This story (*and the Librivox summary below*) while entertaining
 [Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
 >Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
 
+</details>
+
+<details><summary>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
+
 ### Roger the Ranger: A Story of Border Life Among the Indians  
 https://www.gutenberg.org/ebooks/68694  
 By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911), published 1893  
-Summary: Historical fiction likely targeted at middle-schoolers...  [Charles Langlade](https://en.wikipedia.org/wiki/Charles_Michel_de_Langlade) and (*fictional*) Roger Boscowen, friends since childhood, part ways when they choose opposite sides in the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (*1750s*).  Famous French General [Louis de Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) joined Canada and is helped by Langlade -- but less by Canadian Governor [Marquis de Vaudreuil-Cavagnial](https://en.wikipedia.org/wiki/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial).  Some in the government of French Canada use De Montcalm's daughter to increase the complexity of the General's job...  This is not a history of the French and Indian War and veers far from some of the facts as they are known today.  Rather, it is a morality tale, a family drama, and a coming-of-age story that occurs mid-18th century New England.  
 
-<details>
-<summary>The Quantum Jump.  By Robert Wicks.  1958</summary>  
+Reader Summary: Historical fiction likely targeted at middle-schoolers...  [Charles Langlade](https://en.wikipedia.org/wiki/Charles_Michel_de_Langlade) and (*fictional*) Roger Boscowen, friends since childhood, part ways when they choose opposite sides in the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (*1750s*).  Famous French General [Louis de Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) joined Canada and is helped by Langlade -- but less by Canadian Governor [Marquis de Vaudreuil-Cavagnial](https://en.wikipedia.org/wiki/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial).  Some in the government of French Canada use De Montcalm's daughter to increase the complexity of the General's job...  This is not a history of the French and Indian War and veers far from some of the facts as they are known today.  Rather, it is a morality tale, a family drama, and a coming-of-age story that occurs mid-18th century New England.  
+
+</details>
+
+<details><summary>The Quantum Jump.  By Robert Wicks.  1958</summary>
+
 ### The Quantum Jump.  
 https://www.gutenberg.org/ebooks/24418  
-This story was published in Amazing Science Fiction Stories, October 1958.
-By [Robert Wicks]()  ( – ) [*I can't find any bio information for Robert Wicks*]  
+This story was published in Amazing Science Fiction Stories, October 1958.  
+By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
 Reading Notes:  
 This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  There are at least three audio versions of this short story.  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+
 </details>
+
+<details><summary>Invasion.  By Murray Leinster.  1933</summary>
 
 ### Invasion  
 https://www.gutenberg.org/ebooks/29455  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
+
+</details>
+
+<details><summary>Critical difference.  By Murray Leinster.  1956</summary>
 
 ### Critical difference  
 https://www.gutenberg.org/ebooks/68686  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1956  
 https://en.wikipedia.org/wiki/Murray_Leinster  
 
+</details>
+
+<details><summary>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
+
 ### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
 https://www.gutenberg.org/ebooks/68780  
 By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
 Note: This mid-19th century travel narrative (novel?) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
 
+</details>
+
+<details><summary>The Call of the Wild.  By Jack London.  1903</summary>
+
 ### The Call of the Wild  
 https://www.gutenberg.org/ebooks/215  
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
-  
-<details>
-<summary>The Lake.  By Ray Bradbury.  1944</summary>  
+ 
+</details>
+ 
+<details><summary>The Lake.  By Ray Bradbury.  1944</summary>
 
 ### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
-. . . and the Lake keeps people as they tvere, forever and ever  
+. . . and the Lake keeps people as they were, forever and ever  
 https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
 By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
 
 Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
 Summary from Wikipedia:  
@@ -109,10 +137,9 @@ Background from Wikipedia:
 >Bradbury recounted when he came into his own as a writer, the afternoon he wrote a short story about his first encounter with death. When he was a boy, he met a young girl at a lake edge and she went out into the water and never came back. Years later (*at 22 years old*), as he wrote about it, tears flowed from him. He recognized he had taken the leap from emulating the many writers he admired to connecting with his voice as a writer.  When later asked about the lyrical power of his prose, he replied: "From reading so much poetry every day of my life. My favorite writers have been those who've said things well." He said: "If you're reluctant to weep, you won't live a full and complete life." [https://en.wikipedia.org/wiki/Ray_Bradbury#Writing](https://en.wikipedia.org/wiki/Ray_Bradbury#Writing)  
 
 </details>
-</details>
 
-<details>
-<summary>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>  
+<details><summary>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>  
+
 ### My Three Years In Manipur: And Escape From The Recent Mutiny.  
 https://www.gutenberg.org/ebooks/71726  
 https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
@@ -124,26 +151,21 @@ By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (18
 Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
 This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
 
-3rd Party Summaries:  
 [Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
 >The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
 
 </details>
 </details>
 
-<details>
-<summary>The Expendables. by A. E. Van Vogt  1963</summary>  
+<details><summary>The Expendables. by A. E. Van Vogt  1963</summary>  
 
 ### The Expendables.  
 https://www.gutenberg.org/ebooks/70235  
 By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
 ...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
-<details>
-<summary>Reading Notes</summary>  
 
 Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  
 
-</details>
 </details>
 
 -----
