@@ -1,14 +1,10 @@
-title: "Recreational Reading Log"
+title: "rll"
 description: "List of my reading since 2022 July 25"
 logo: https://mccright.github.io/rrl/m.svg
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll 
 markdown: GFM  
-# markdown: CommonMarkGhPages
+# I did not like the default midnight theme colors
 ## https://github.com/pages-themes/midnight
 # remote_theme: pages-themes/midnight@v0.2.0
+# and the minima theme did not immediately work as I hoped
 ## https://github.com/jekyll/minima
-
-# CSS style.css as described in: 
-# https://rubydoc.info/gems/jekyll-theme-primer#configuration-variables
-# minima:
-#  skin: dark
