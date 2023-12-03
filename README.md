@@ -1,4 +1,4 @@
-# rrl -- My Recreational Reading Log  
+# My Recreational Reading Log  
 (*started 2022-07-25*)  
 
 ## TLDR:  
