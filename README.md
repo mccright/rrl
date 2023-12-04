@@ -65,8 +65,8 @@ This is where I maintain a list of the books that I am reading or have read sinc
 
 
 ### Page History Notes  
-I did not originally format this resource for Github-pages, which left me with a lot of page layout sloth and a little legacy technology debt to deal with before these pages would display properly.  Native Github repos support a sloppy practices that do not transparently port over to Github pages.  Unfortunely, the [source repo](https://github.com/mccright/rrl) material format updating...  
-The Github pages GitHub Action build logs for my page identified `jekyll-theme-primer-0.6.0` as its default theme (*Github pages [support a number of themes](https://pages.github.com/themes/)*).  It displayed bright white pages, and I prefer dark background with *white* text.  The [RubyDocs for `jekyll-theme-primer`](https://rubydoc.info/gems/jekyll-theme-primer) say that users can add a new [style sheet](https://rubydoc.info/gems/jekyll-theme-primer#stylesheet) in `/assets/css/style.scss` with the following content starts the customization process:  
+I did not originally format this resource for Github-pages, which left me with a lot of page layout sloth and a little legacy technology debt to deal with before these pages would display properly.  Native Github repos support a sloppy practices that do not transparently port over to Github pages.  Unfortunely, the [source repo](https://github.com/mccright/rrl) required material format updating...  
+The Github pages GitHub Action build logs for my page identified `jekyll-theme-primer-0.6.0` as its default theme (*Github pages [support a number of themes](https://pages.github.com/themes/)*).  It displayed bright white pages, and I prefer dark background with *white* text.  The [RubyDocs for `jekyll-theme-primer`](https://rubydoc.info/gems/jekyll-theme-primer) said that adding a new [style sheet](https://rubydoc.info/gems/jekyll-theme-primer#stylesheet) (`/assets/css/style.scss`) with the following content starts the customization process:  
 
 ```css
 ---

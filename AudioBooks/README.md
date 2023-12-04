@@ -455,6 +455,19 @@ Librivox Summary:
 
 </details>
 
+<details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
+
+### Red Winter - A Jack Ryan Novel. (13:00)  
+https://www.overdrive.com/media/8822188/red-winter  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 - _)  
+
+Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  CIA Deputy Director [James Greer](https://en.wikipedia.org/wiki/Ryanverse#Characters) calls in a younger Jack Ryan for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An *ageless* [John Clarke](https://en.wikipedia.org/wiki/John_Clark_(Ryanverse_character)) shadows them -- just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert. The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, some symptoms of Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations along the European East/West border*).  
+[Kirkus Reviews Summary](https://www.kirkusreviews.com/book-reviews/marc-cameron/tom-clancy-red-winter/)  
+[OverDrive Summary](https://www.overdrive.com/media/8822188/red-winter):  
+>"In this previously untold adventure, a young Jack Ryan goes behind the Iron Curtain to seek the truth about a potential Soviet defector in the most shocking entry in Tom Clancy's #1 New York Times bestselling series. 1985: A top secret F117 aircraft crashes into the Nevada desert. The Nighthawk is the most advanced fighting machine in the world and the Soviets will do anything to get their hands on its secrets. In East Berlin, a mysterious figure contacts the CIA with an incredible offer—invaluable details of his government’s espionage plans in return for asylum.It’s an offer they can’t pass up...if it’s genuine, but the risks are too great to blindly stumble into a deal. With the East German secret police closing in, someone will have to go to behind the Berlin Wall to investigate the potential defector. It’s a job Deputy Director James Greer can only trust to one man—Jack Ryan.Ryan is a former Marine and a brilliant CIA analyst who’s been the architect of some of the CIA’s biggest coups but this time he’s in enemy territory with a professional assassin on his tail. Can he get the right answers before the Cold War turns into a Red Winter?"  
+
+</details>
+
 <details><summary>Pierre Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -1453,19 +1466,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 ## Pending or Currently Underway:  
 
 
-<details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
+<details><summary>The Blood of Flowers. By Anita Amirrezvani. 2007</summary>
 
-### Red Winter - A Jack Ryan Novel. (13:00)  
-https://www.overdrive.com/media/8822188/red-winter  
-By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 - _)  
+### The Blood of Flowers.  (13:18)  
+https://www.overdrive.com/media/134428/the-blood-of-flowers  
+By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 - _)  
+Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
 
-Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  A younger Jack Ryan is called in for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An *ageless* [John Clarke](https://en.wikipedia.org/wiki/John_Clark_(Ryanverse_character)) shadows them -- just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert. The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, some symptoms of Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations along the European East/West border*).  
-[Kirkus Reviews Summary](https://www.kirkusreviews.com/book-reviews/marc-cameron/tom-clancy-red-winter/)  
-[OverDrive Summary](https://www.overdrive.com/media/8822188/red-winter):  
->"In this previously untold adventure, a young Jack Ryan goes behind the Iron Curtain to seek the truth about a potential Soviet defector in the most shocking entry in Tom Clancy's #1 New York Times bestselling series. 1985: A top secret F117 aircraft crashes into the Nevada desert. The Nighthawk is the most advanced fighting machine in the world and the Soviets will do anything to get their hands on its secrets. In East Berlin, a mysterious figure contacts the CIA with an incredible offer—invaluable details of his government’s espionage plans in return for asylum.It’s an offer they can’t pass up...if it’s genuine, but the risks are too great to blindly stumble into a deal. With the East German secret police closing in, someone will have to go to behind the Berlin Wall to investigate the potential defector. It’s a job Deputy Director James Greer can only trust to one man—Jack Ryan.Ryan is a former Marine and a brilliant CIA analyst who’s been the architect of some of the CIA’s biggest coups but this time he’s in enemy territory with a professional assassin on his tail. Can he get the right answers before the Cold War turns into a Red Winter?"  
+GoodReads Summaries: https://www.goodreads.com/book/show/348632.The_Blood_of_Flowers#CommunityReviews  
+From the [Author's Summary](http://anitaamirrezvani.com/bloodofflowers.html):  
+>"In seventeenth century Iran, a spirited village girl of fourteen approaches the age of marriage, only to find her destiny shattered by the ominous prophecies that follow a fiery comet blazing across the desert sky. Confronted with the unexpected death of her beloved father and without prospects for gathering a dowry, the young woman and her distraught mother are forced into a difficult new life in the fabled city of Isfahan. Taken in as house servants by her distant uncle Gostaham, a well-to-do carpet designer, and his demanding wife, the two women confront an unforgiving world where their very survival requires strength and resilience beyond their most dire expectations."  
+
+Author's Summary: http://anitaamirrezvani.com/bloodofflowers.html  
 
 </details>
-
 
 
 <details>
@@ -1582,8 +1596,6 @@ A Murder in Time. By Julie McElwain.  2016
 The Lost Apothecary: A Novel. By Sarah Penner. 2021  
 (10:18)  
 
-The Blood of Flowers. By Anita Amirrezvani. 2007  
-(13:18)  
 
 </details>
 
