@@ -64,32 +64,5 @@ This is where I maintain a list of the books that I am reading or have read sinc
 * [https://crimereads.com/](https://crimereads.com/)  
 
 
-### Page History Notes  
-I did not originally format this resource for Github-pages, which left me with a lot of page layout sloth and a little legacy technology debt to deal with before these pages would display properly.  Native Github repos support a sloppy practices that do not transparently port over to Github pages.  Unfortunely, the [source repo](https://github.com/mccright/rrl) required material format updating...  
-The Github pages GitHub Action build logs for my page identified `jekyll-theme-primer-0.6.0` as its default theme (*Github pages [support a number of themes](https://pages.github.com/themes/)*).  It displayed bright white pages, and I prefer dark background with *white* text.  The [RubyDocs for `jekyll-theme-primer`](https://rubydoc.info/gems/jekyll-theme-primer) said that adding a new [style sheet](https://rubydoc.info/gems/jekyll-theme-primer#stylesheet) (`/assets/css/style.scss`) with the following content starts the customization process:  
-
-```css
----
----
-
-@import "{{ site.theme }}";
-```
-
-To that add your customizations.  To get a simple `dark` theme, you can use the `body` CSS recommended by [Mark A Vitale](https://github.com/markavitale) at [https://github.com/pages-themes/primer/issues/64#issuecomment-975787330](https://github.com/pages-themes/primer/issues/64#issuecomment-975787330) for a simple `style.scss` that looks like this:  
-
-```css 
----
----
-
-@import "{{ site.theme }}";
-body {
-	background-color: black;
-	filter: hue-rotate(180deg) invert(90%);
-}
-``` 
-
-There is [some valid criticism](https://news.ycombinator.com/item?id=26472246) of this approach, but it works for this github-pages site.  
-
-
-### Temporary [Testing](test.md)  
-This is just a file for markdown testing.
+### Repository History Notes and Testing [Page](repohistory.md)  
+Just a short history of this site and a file for temporary markdown testing.
