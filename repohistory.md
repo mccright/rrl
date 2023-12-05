@@ -2,10 +2,10 @@
 
 (*started 2022 July 25*)  
 
-# History:
-* I started tracking by adding a reference and notes for each book that I read or listened to.  
-* Over time the pages grew to an unreasonable length.  I started trying to use Github markdown collapsible sections.  Technically, they worked well, but the native github UI for everyone, and did not seem to work well for non-Github users on their mobile devices...  
-* Then I tried using [`Github pages`](https://docs.github.com/en/pages), which was kind of a trial because of the unclear and sometimes conflicting guidance for doing so for pages that employed collapsible sections and Github markdown.  For this site, the most important *fixes* were:  
+# Repository History:
+* In July 2022 I started tracking by adding a reference and notes for each book that I read or listened to.  
+* Over time the pages grew to *an unreasonable length* -- really user unfriendly.  I started trying to use Github markdown collapsible sections.  Technically, they worked well, but the native github UI did not seem to be a great fit for some non-Github users on their mobile devices...  
+* Then I tried using [`Github pages`](https://docs.github.com/en/pages), which was kind of a trial because of the unclear and sometimes conflicting guidance for pages that employed collapsible sections and Github markdown.  For this site, the most important *fixes* were:  
   * Always put an empty line after collapsible section tags.  
   * Put double quotes around any string that included whitespace in the site config file (_config.yml).  
   * Use the `markdown: GFM` processor in the site config file (_config.yml).  
@@ -18,6 +18,32 @@ logo: https://mccright.github.io/rrl/m.svg
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/setting-a-markdown-processor-for-your-github-pages-site-using-jekyll 
 markdown: GFM
 ```
+
+I did not originally format this resource for Github-pages, which left me with a lot of page layout sloth and a little legacy technology debt to deal with before these pages would display properly.  Native Github repos support sloppy practices that do not appear to transparently port over to Github pages.  Unfortunely, the [source repo](https://github.com/mccright/rrl) required material format updating...  
+The Github pages GitHub Action build logs for my repo identified `jekyll-theme-primer-0.6.0` as its default theme (*Github pages [support a number of themes](https://pages.github.com/themes/)*).  It displayed bright white pages, but I prefer dark background with *white* text.  The [RubyDocs for `jekyll-theme-primer`](https://rubydoc.info/gems/jekyll-theme-primer) said that adding a new [style sheet](https://rubydoc.info/gems/jekyll-theme-primer#stylesheet) (`/assets/css/style.scss`) with the following content starts the customization process:  
+
+```css
+---
+---
+
+@import "{{ site.theme }}";
+```
+
+To that add your customizations.  To get a simple `dark` theme, you can use the `body` CSS recommended by [Mark A Vitale](https://github.com/markavitale) at [https://github.com/pages-themes/primer/issues/64#issuecomment-975787330](https://github.com/pages-themes/primer/issues/64#issuecomment-975787330) for a simple `style.scss` that looks like this:  
+
+```css 
+---
+---
+
+@import "{{ site.theme }}";
+body {
+	background-color: black;
+	filter: hue-rotate(180deg) invert(90%);
+}
+``` 
+
+There is [some valid criticism](https://news.ycombinator.com/item?id=26472246) of this approach, but it works for this github-pages site.  
+
 
 # Now, Testing page content is below  
 
