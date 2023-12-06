@@ -3,8 +3,7 @@
 
 ## Completed:  
 
-<details>
-<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
+<details><summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
 https://www.overdrive.com/media/5067417/hamnet  
@@ -18,9 +17,19 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 
 </details>
 
+<details><summary>The Lincoln Highway by Amor Towles.  2021</summary>
 
-<details>
-<summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
+### The Lincoln Highway (17:00)  
+https://www.overdrive.com/media/6079650/the-lincoln-highway  
+By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 - _)  
+
+This is great story!  Mid-1950s juvenile work farm inmates just free after doing some hard time.  A rural farm family is abandoned by its mother and then reduce again by the father's death leaving two sons homeless and rootless.  The brothers set off on a search for their mother in California, but are forced into a harrowing detour to New York.  Amor Towles expertly tells the story from multiple characters' points of view.  See [Bill Gates' review](https://www.gatesnotes.com/The-Lincoln-Highway) below for a proper summary.  
+
+GateNotes' Summary: [https://www.gatesnotes.com/The-Lincoln-Highway](https://www.gatesnotes.com/The-Lincoln-Highway)  
+
+</details>
+
+<details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
 ### Shaman (15:00)  
 https://www.overdrive.com/media/1372669/shaman  
@@ -35,31 +44,27 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)
 </details>
 
 
-<details>
-<summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
+<details><summary>Aurora, By Kim Stanley Robinson. 2015 </summary>
 
 ### Aurora (17:00)  
-https://www.overdrive.com/media/2234713/aurora
+https://www.overdrive.com/media/2234713/aurora  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
-<details>
-<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes: Another excellent book!  
 A [generation ship](https://en.wikipedia.org/wiki/Generation_ship) is launched from Earth in 2545 at 0.1 c (i.e. traveling at 108,000,000 km/h or 10% the speed of light). It includes twenty-four self-contained biomes and an average population of two thousand people.  Their destination is the Tau Ceti system to begin colonization of a planet's moon, an Earth analog, which has been named Aurora.  
 The book follows Devi (the ship's de facto chief engineer and leader) and Freya (Devi's daughter) and the ship's AI quantum computer through a journey of discovery.  
 
-3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)  
 
 </details>
-</details>
 
 <details>
-<summary>New York 2140, By Kim Stanley Robinson. 2017 </summary>  
+<summary>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
 ### New York 2140 (22:35)  
-https://www.overdrive.com/media/3007194/new-york-2140  
+Audio: https://www.overdrive.com/media/3007194/new-york-2140  
+Ebook: https://www.overdrive.com/media/2841960/new-york-2140  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
@@ -74,7 +79,9 @@ There has been [some criticism](https://en.wikipedia.org/wiki/New_York_2140#Scie
 
 3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140  
-
+Andrew Liptak Review: https://www.theverge.com/2017/4/8/15195064/new-york-2140-kim-stanley-robinson-book-review-climate-change  
+Karl Wolff Review: https://www.nyjournalofbooks.com/book-review/new-york-2140  
+Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intelligencer/2017/03/kim-stanley-robinsons-new-york-2140-review-a-drowned-nyc.html  
 </details>
 
 
