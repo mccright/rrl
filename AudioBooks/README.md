@@ -26,7 +26,7 @@ By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 - _)
 This is great story!  Mid-1950s juvenile work farm inmates just free after doing some hard time.  A rural farm family is abandoned by its mother and then reduce again by the father's death leaving two sons homeless and rootless.  The brothers set off on a search for their mother in California, but are forced into a harrowing detour to New York.  Amor Towles expertly tells the story from multiple characters' points of view.  See [Bill Gates' review](https://www.gatesnotes.com/The-Lincoln-Highway) below for a proper summary.  
 
 GateNotes' Summary: [https://www.gatesnotes.com/The-Lincoln-Highway](https://www.gatesnotes.com/The-Lincoln-Highway)  
-
+Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the-lincoln-highway-review  
 </details>
 
 <details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
