@@ -3,8 +3,8 @@
 (*started 2022 July 25*)  
 
 # Repository History:
-* In July 2022 I started tracking by adding a reference and notes for each book that I read or listened to.  
-* Over time the pages grew to *an unreasonable length* -- really user unfriendly.  I started trying to use Github markdown collapsible sections.  Technically, they worked well, but the native github UI did not seem to be a great fit for some non-Github users on their mobile devices...  
+* In July 2022 I started tracking my reading by adding a reference and notes for each book that I read or listened to.  
+* Over time the pages grew to *an unreasonable length* -- becoming user-unfriendly.  I started trying to use Github markdown collapsible sections.  Technically, they worked well, but the native github UI did not seem to be a great fit for some non-Github users on their mobile devices...  
 * Then I tried using [`Github pages`](https://docs.github.com/en/pages), which was kind of a trial because of the unclear and sometimes conflicting guidance for pages that employed collapsible sections and Github markdown.  For this site, the most important *fixes* were:  
   * Always put an empty line after collapsible section tags.  
   * Put double quotes around any string that included whitespace in the site config file (_config.yml).  
@@ -19,7 +19,7 @@ logo: https://mccright.github.io/rrl/m.svg
 markdown: GFM
 ```
 
-I did not originally format this resource for Github-pages, which left me with a lot of page layout sloth and a little legacy technology debt to deal with before these pages would display properly.  Native Github repos support sloppy practices that do not appear to transparently port over to Github pages.  Unfortunely, the [source repo](https://github.com/mccright/rrl) required material format updating...  
+I did not originally format this resource for Github-pages, which left me with a lot of page layout sloth and a little legacy technology debt to deal with before these pages would display properly.  Native Github repos support sloppy authoring practices that do not appear to transparently port over to Github pages.  Unfortunely, the [source repo](https://github.com/mccright/rrl) required material format updating...  
 The Github pages GitHub Action build logs for my repo identified `jekyll-theme-primer-0.6.0` as its default theme (*Github pages [support a number of themes](https://pages.github.com/themes/)*).  It displayed bright white pages, but I prefer dark background with *white* text.  The [RubyDocs for `jekyll-theme-primer`](https://rubydoc.info/gems/jekyll-theme-primer) said that adding a new [style sheet](https://rubydoc.info/gems/jekyll-theme-primer#stylesheet) (`/assets/css/style.scss`) with the following content starts the customization process:  
 
 ```css
