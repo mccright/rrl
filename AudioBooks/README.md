@@ -3,8 +3,115 @@
 
 ## Completed:  
 
+<details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
+
+### The Alice Network.  
+Audio: https://www.overdrive.com/media/2985766/the-alice-network  
+Ebook: https://www.overdrive.com/media/2952389/the-alice-network  
+http://www.katequinnauthor.com/books/the-alice-network  
+By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
+Reading Notes:  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Alice_Network)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Alice_Network  
+Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-network-is-a-crackling-tale-of-spies-and-suspense)  
+
+</details>
+
+
+<details><summary>The Ambassadors. By Henry James, 1903</summary>
+
+### The Ambassadors (16:46)  
+https://librivox.org/the-ambassadors-by-henry-james/  
+https://en.wikipedia.org/wiki/The_Ambassadors  
+Text at: https://www.gutenberg.org/etext/432  
+By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
+
+Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world...  
+[Summary from Librivox](https://librivox.org/the-ambassadors-by-henry-james/):  
+>"Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick.  That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser.  The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?"  -  Summary from: https://librivox.org/the-ambassadors-by-henry-james/  
+
+</details>
+
+
 <details>
-<summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>  
+<summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>  
+
+### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
+https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
+Text: https://www.gutenberg.org/ebooks/58575  
+By [John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812 - 1862)  
+With biographical memoir by his daughter [Maria Rebecca Audubon](http://www.audubonparkny.com/audubonfamily.html) (1843-1925)  
+Introduction, notes, and index by [Frank Heywood Hodder](https://en.wikipedia.org/wiki/Frank_Heywood_Hodder) (1860-1935)  
+
+Reading Notes:  This travel journal provides a little access into the brutality of cross-country travel in 1849 in what is now the Southern and Western United States.  
+Librivox Summary:  
+>"[John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812-1862), son of the famous painter [John James Audubon](https://en.wikipedia.org/wiki/John_James_Audubon) and an artist in his own right, joined Col. Henry Webb's California Company expedition in 1849. From New Orleans the expedition sailed to the Rio Grande; it headed west overland through northern Mexico and through Arizona to San Diego, California. Cholera and outlaws decimated the group. Many of them turned back, including the leader. Audubon assumed command of those remaining and they pushed on to California, although he was forced to abandon his paints and canvases in the desert…. Throughout the whole of this long journey Mr. Audubon took notes of scenes and occurrences by the way. In his descriptions he exhibits the keen observation of the naturalist and the trained eye of the artist. The result is a remarkable picture of social conditions in Mexico, of birds and trees, of sky and mountains and the changing face of nature, of the barrenness of the desert and the difficulties of the journey, of the ruined missions of California, of methods of mining, and of the chaos of races and babel of tongues in the gold fields. It was manifestly impossible to keep a daily journal, and the entries were made from time to time as opportunity occurred. Considering the circumstances under which they were taken, the notes are remarkable for their accuracy. Because it was not edited by Audubon, the text (and this recording) ends abruptly." - ([Summary by [Book Introduction](https://www.gutenberg.org/cache/epub/58575/pg58575-images.html#Page_11) and [David Wales](https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/))  
+
+</details>
+
+
+<details><summary>Aurora, By Kim Stanley Robinson. 2015 </summary>
+
+### Aurora (17:00)  
+https://www.overdrive.com/media/2234713/aurora  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
+
+Reader's Notes: Another excellent book!  
+A [generation ship](https://en.wikipedia.org/wiki/Generation_ship) is launched from Earth in 2545 at 0.1 c (i.e. traveling at 108,000,000 km/h or 10% the speed of light). It includes twenty-four self-contained biomes and an average population of two thousand people.  Their destination is the Tau Ceti system to begin colonization of a planet's moon, an Earth analog, which has been named Aurora.  
+The book follows Devi (the ship's de facto chief engineer and leader) and Freya (Devi's daughter) and the ship's AI quantum computer through a journey of discovery.  
+
+Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)  
+
+</details>
+
+
+<details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
+
+### The Chouans (15:55)  
+https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
+https://en.wikipedia.org/wiki/Les_Chouans  
+Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
+By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
+Translated by [Ellen Marriage]() (1865 - 1946)  
+
+Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues with 18th/19th century female stereotypes and related derogatory terms.  
+Summary on Librivox:  
+>“The Chouans” (1829) was the first novel published under Balzac's own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac's novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today's novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
+
+</details>  
+
+
+<details><summary>The Demi-Gods, By James Stephens. 1914</summary>
+
+### The Demi-Gods (4:37)  
+https://librivox.org/the-demi-gods-by-james-stephens/  
+Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
+By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.  
+Reader's Notes:  
+This book is a lot of fun. And the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
+
+[Librivox Summary](https://librivox.org/the-demi-gods-by-james-stephens/):  
+>"In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The MacCans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin." ([Summary by Michele Fry](https://librivox.org/the-demi-gods-by-james-stephens/))  
+
+</details>
+
+
+<details><summary>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>
+
+### Democracy - An American Novel. (07:16)  
+https://librivox.org/democracy-an-american-novel-by-henry-adams/  
+Text: https://www.gutenberg.org/ebooks/2815  
+https://en.wikipedia.org/wiki/Democracy:_An_American_Novel  
+By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918)  
+
+Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
+Librivox Summary:  
+>"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+
+</details>
+
+
+<details><summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
 https://www.overdrive.com/media/5067417/hamnet  
@@ -19,61 +126,31 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 </details>
 
 
-<details>
-<summary>Shaman, By Kim Stanley Robinson. 2013 </summary>  
+<details><summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>
 
-### Shaman (15:00)  
-https://www.overdrive.com/media/1372669/shaman  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
-Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
+### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
+https://www.overdrive.com/media/5243411/the-invisible-life-of-addie-larue  
+By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ____)  
 
-Reader's Notes: What an excellent book!  We go on a fast-moving journey with a young apprentice shaman, his teacher, a small band of hunter-gatherers, and the others who join the story along the way.  We learn a lot about [stone age](https://en.wikipedia.org/wiki/Stone_Age) / [ice age](https://en.wikipedia.org/wiki/Last_Glacial_Period) [European early modern humans](https://en.wikipedia.org/wiki/European_early_modern_humans) and their cultures.  
-
-3rd Party Summaries:  
-Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
+Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth across time, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review (*with spoilers*).  It is worth all 17 hours of listening (or reading its 450 pages).  
+ 
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot  
 
 </details>
 
+<details><summary>Jane Austen's Sailor Brothers.  1906 </summary>
 
-<details>
-<summary>Aurora, By Kim Stanley Robinson. 2015 </summary>  
-
-### Aurora (17:00)  
-https://www.overdrive.com/media/2234713/aurora
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
-Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
-<details>
-<summary>Reader's Notes and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes: Another excellent book!  
-A [generation ship](https://en.wikipedia.org/wiki/Generation_ship) is launched from Earth in 2545 at 0.1 c (i.e. traveling at 108,000,000 km/h or 10% the speed of light). It includes twenty-four self-contained biomes and an average population of two thousand people.  Their destination is the Tau Ceti system to begin colonization of a planet's moon, an Earth analog, which has been named Aurora.  
-The book follows Devi (the ship's de facto chief engineer and leader) and Freya (Devi's daughter) and the ship's AI quantum computer through a journey of discovery.  
-
-3rd Party Summaries:  
-Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)  
-
-</details>
-</details>
-
-<details>
-<summary>New York 2140, By Kim Stanley Robinson. 2017 </summary>  
-
-### New York 2140 (22:35)  
-https://www.overdrive.com/media/3007194/new-york-2140  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
-Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
+### Jane Austen's Sailor Brothers -- Being the Adventures of Sir Francis Austen, G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen.  (7:16)  
+https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/  
+Text: https://www.gutenberg.org/ebooks/69815  
+By [Edith Hubback Brown](https://en.wikipedia.org/wiki/Edith_Charlotte_Brown) (1876 - 1945) and John Hubback (1844 - 1939)  
 
 Reader's Notes:  
-TLDR:  Another excellent book by Kim Stanley Robinson! **Everyone** should read it, listen to it, or both because **we all** have to contribute to dealing with [Climate Change](https://en.wikipedia.org/wiki/Climate_change).  
-The Rest of My Notes:  
-First, a little context.  In 1980, I ran across a used pamphlet - ["Worldwatch Paper 21: Soft Technologies, Hard Choices" by Colin Norman](https://files.eric.ed.gov/fulltext/ED156566.pdf), published in June 1978.  I was in college at the time and understood that its content was important, and kept that little booklet -- reading it again from time to time.  It was written in a time still colored by what Norman called "the Arab oil embargo" and its demonstration of how fragil were the industrial world's petroleum-based economies.  Part of his argument was that humanity needed to implement major energy conservation and to invent/implement new energy generation & transmission technologies to avoid a predicted carbon dioxide-induced global warming catastrophy.  On page 31 Mr. Norman began an explanation of the growing concern "that carbon dioxode -- an inevitable by-product of burning fossil fuels -- is building up in the atmosphere and acting rather like a greenhouse, preventing a fraction of the earth's heat from being radiated into space."  He went on, "The concentration of carbon dioxide in the atmosphere is already (*as he wrote those words in 1978!*) believed to have risen by about 13 percent since the Industrial Revolution, and it may double over the next 50 years.  Such a change could increase the average temperatures on the earth's surface by 2-3 degrees C." He then summarized the predicted impacts "In general, global warming would bring increased rainfall and probably cause local weather patterns to become more variable."  And then:  
->A more worrying possibility is that global warming could have an adverse impact on the stability of the polar ice caps. ...(*and*) over the next 50 years could raise polar temperatures by an amount sufficient to cause the West Antarctic ice sheet to break up.  Such an event would raise the average sea level by about five meters, which would be catastrophic for many low-lying areas.  
+I believe that "Jane Austen's Sailor Brothers..." will be enjoyable to [Jane Austin](https://en.wikipedia.org/wiki/Jane_Austen) fans, as well as those who loved [Patric O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)'s [Aubrey-Maturin novels](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series). Edith Hubback Brown and her father John Hubback share what appears to be well researched and carefully edited primary resources (British Naval records and family letters) to outline Francis and Charles Austen's naval education and careers, and how their experiences contributed to Jane Austen's novels.  
+Everyone should know that this is an excellent reading/performance by [Bryn Roberts](https://librivox.org/reader/18007).  His accent, emotions, pacing, and enthusiasm are exemplary and enhance this audio book tremendously.  
 
-Here we are (*I read this book -- "[NY 2140](https://en.wikipedia.org/wiki/New_York_2140)" -- in October 2023, more than 40 years after reading Colin Norman's warning*) and this [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) novel is about how ignoring too much of that global warming / climate change message played out for the world by following a diverse set of New Yorkers in the early years of the 2140s.  Sea level rise had created canals of NY streets, and islands of skyscrapers.  In this novel Robinson argues that capitalism and global finance were key culprits in ignoring/rejecting global warming / climate change for so long that global catastrophy was guaranteed, and for increasing the scope of suffering after catastrophies arive...  Ultimately, he delivers a hopeful conclusion -- with small-d democracy having a foundational role.  
-There has been [some criticism](https://en.wikipedia.org/wiki/New_York_2140#Scientific_accuracy) about Robinson's science and/or politics.  My advice is to remember that this is a novel and telling a relevant story doesn't mean **doing** hard or soft science, nor does it require avoiding any political point of view.  
-
-3rd Party Summaries:  
-Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140  
+Librivox Summary:  
+>"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
 
 </details>
 
@@ -94,31 +171,29 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun
 </details>
 
 
-<details><summary>The Ambassadors. By Henry James, 1903</summary>
+<details><summary>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary>
 
-### The Ambassadors (16:46)  
-https://librivox.org/the-ambassadors-by-henry-james/  
-https://en.wikipedia.org/wiki/The_Ambassadors  
-Text at: https://www.gutenberg.org/etext/432  
-By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), published 1903  
-
-Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world...  
-[Summary from Librivox](https://librivox.org/the-ambassadors-by-henry-james/):  
->"Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick.  That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser.  The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?"  -  Summary from: https://librivox.org/the-ambassadors-by-henry-james/  
+### The Last Watch.  (17:00)  
+https://www.overdrive.com/media/5418299/the-last-watch  
+By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
+Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *space opera*.  It is also a ready-for-streaming novel.  
+Throughout, the scene setup is just enough to create a skeletal environment so that the action, character development and dialog can keep the pace thumping along -- not timeless prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than what some called *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can dive in and have the author reveal character details throughout the story, this book might be a good fit.  Overall, the story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals unexpected abilities given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable-enough*" most of the time.  Close-quarter combat, governmental/military misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
+https://www.goodreads.com/book/show/53205794-the-last-watch  
+https://www.jsdewes.com/about  
 
 </details>
 
-<details><summary>The Demi-Gods, By James Stephens. 1914</summary>
 
-### The Demi-Gods (4:37)  
-https://librivox.org/the-demi-gods-by-james-stephens/  
-Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
-By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.  
-Reader's Notes:  
-This book is a lot of fun. And the excellent reading/acting by Joe Bergin is a huge plus. Thank you Mr. Bergin!  
+<details><summary>The Lincoln Highway by Amor Towles.  2021</summary>
 
-[Librivox Summary](https://librivox.org/the-demi-gods-by-james-stephens/):  
->"In this memorialized Irish tale, 3 huge winged demi-gods (part god/part human) have descended to earth to experience human existence. They encounter Patsy Mac Can and his daughter Mary at their campfire one evening, two vagabonds who wander about Ireland with donkey and cart, eating off the land, meeting a variety of dubious characters along the way, who in the great Irish tradition of storytelling, all have stories to tell. The MacCans welcome the strangers, feed them, show them around, along the way spinning yarns and explaining their gypsy "philosophies". Those familiar with Stephens's quirky writing style appreciate him as a quick witted, keen observer, seeing both the ridiculous and the sublime in everyday things, exploring the points of view of various animals and insects as well as the human characters. Eventually the troupe parts company, having forged close bonds of friendship. This is an entertaining adult love story that would not offend a child, read charmingly by authentic Irishman Joe Bergin." ([Summary by Michele Fry](https://librivox.org/the-demi-gods-by-james-stephens/))  
+### The Lincoln Highway (17:00)  
+https://www.overdrive.com/media/6079650/the-lincoln-highway  
+By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 - _)  
+
+This is great story!  Mid-1950s juvenile work farm inmates just free after doing some hard time.  A rural farm family is abandoned by its mother and then reduce again by the father's death leaving two sons homeless and rootless.  The brothers set off on a search for their mother in California, but are forced into a harrowing detour to New York.  Amor Towles expertly tells the story from multiple characters' points of view.  See [Bill Gates' review](https://www.gatesnotes.com/The-Lincoln-Highway) below for a proper summary.  
+
+GateNotes' Summary: [https://www.gatesnotes.com/The-Lincoln-Highway](https://www.gatesnotes.com/The-Lincoln-Highway)  
+Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the-lincoln-highway-review  
 
 </details>
 
@@ -135,31 +210,31 @@ See the Wikipedia summary: https://en.wikipedia.org/wiki/Mornings_on_Horseback
 </details>
 
 
-<details><summary>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>
+<details>
+<summary>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
-### Democracy - An American Novel. (07:16)  
-https://librivox.org/democracy-an-american-novel-by-henry-adams/  
-Text: https://www.gutenberg.org/ebooks/2815  
-https://en.wikipedia.org/wiki/Democracy:_An_American_Novel  
-By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918)  
+### New York 2140 (22:35)  
+Audio: https://www.overdrive.com/media/3007194/new-york-2140  
+Ebook: https://www.overdrive.com/media/2841960/new-york-2140  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
-Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
-Librivox Summary:  
->"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+Reader's Notes:  
+TLDR:  Another excellent book by Kim Stanley Robinson! **Everyone** should read it, listen to it, or both because **we all** have to contribute to dealing with [Climate Change](https://en.wikipedia.org/wiki/Climate_change).  
+The Rest of My Notes:  
+First, a little context.  In 1980, I ran across a used pamphlet - ["Worldwatch Paper 21: Soft Technologies, Hard Choices" by Colin Norman](https://files.eric.ed.gov/fulltext/ED156566.pdf), published in June 1978.  I was in college at the time and understood that its content was important, and kept that little booklet -- reading it again from time to time.  It was written in a time still colored by what Norman called "the Arab oil embargo" and its demonstration of how fragil were the industrial world's petroleum-based economies.  Part of his argument was that humanity needed to implement major energy conservation and to invent/implement new energy generation & transmission technologies to avoid a predicted carbon dioxide-induced global warming catastrophy.  On page 31 Mr. Norman began an explanation of the growing concern "that carbon dioxode -- an inevitable by-product of burning fossil fuels -- is building up in the atmosphere and acting rather like a greenhouse, preventing a fraction of the earth's heat from being radiated into space."  He went on, "The concentration of carbon dioxide in the atmosphere is already (*as he wrote those words in 1978!*) believed to have risen by about 13 percent since the Industrial Revolution, and it may double over the next 50 years.  Such a change could increase the average temperatures on the earth's surface by 2-3 degrees C." He then summarized the predicted impacts "In general, global warming would bring increased rainfall and probably cause local weather patterns to become more variable."  And then:  
+>A more worrying possibility is that global warming could have an adverse impact on the stability of the polar ice caps. ...(*and*) over the next 50 years could raise polar temperatures by an amount sufficient to cause the West Antarctic ice sheet to break up.  Such an event would raise the average sea level by about five meters, which would be catastrophic for many low-lying areas.  
 
+Here we are (*I read this book -- "[NY 2140](https://en.wikipedia.org/wiki/New_York_2140)" -- in October 2023, more than 40 years after reading Colin Norman's warning*) and this [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) novel is about how ignoring too much of that global warming / climate change message played out for the world by following a diverse set of New Yorkers in the early years of the 2140s.  Sea level rise had created canals of NY streets, and islands of skyscrapers.  In this novel Robinson argues that capitalism and global finance were key culprits in ignoring/rejecting global warming / climate change for so long that global catastrophy was guaranteed, and for increasing the scope of suffering after catastrophies arive...  Ultimately, he delivers a hopeful conclusion -- with small-d democracy having a foundational role.  
+There has been [some criticism](https://en.wikipedia.org/wiki/New_York_2140#Scientific_accuracy) about Robinson's science and/or politics.  My advice is to remember that this is a novel and telling a relevant story doesn't mean **doing** hard or soft science, nor does it require avoiding any political point of view.  
+
+3rd Party Summaries:  
+Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140  
+Andrew Liptak Review: https://www.theverge.com/2017/4/8/15195064/new-york-2140-kim-stanley-robinson-book-review-climate-change  
+Karl Wolff Review: https://www.nyjournalofbooks.com/book-review/new-york-2140  
+Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intelligencer/2017/03/kim-stanley-robinsons-new-york-2140-review-a-drowned-nyc.html  
 </details>
 
-<details><summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>
-
-### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
-https://www.overdrive.com/media/5243411/the-invisible-life-of-addie-larue  
-By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ____)  
-
-Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth across time, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review (*with spoilers*).  It is worth all 17 hours of listening (or reading its 450 pages).  
- 
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot  
-
-</details>
 
 <details><summary>Remote Control. By Nnedi Okorafor.  2021 </summary>
 
@@ -174,50 +249,50 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
+<details><summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
-### The Chouans (15:55)  
-https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
-https://en.wikipedia.org/wiki/Les_Chouans  
-Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
-By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
-Translated by [Ellen Marriage]() (1865 - 1946)  
+### Saint Joan: Preface  (2:12)  
+https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
+https://en.wikipedia.org/wiki/Saint_Joan_(play)  
+Text: https://archive.org/details/SaintJoan/page/n1  
+By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
 
-Reading Notes: This story is one way to enhance any study of revolution and civil war in France, and more generally of French history.  Reading by Bruce Pirie makes this an enjoyable audio experience as well.  I assume that for some, there are issues with 18th/19th century female stereotypes and related derogatory terms.  
-Summary on Librivox:  
->“The Chouans” (1829) was the first novel published under Balzac's own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac's novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today's novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
+Reading Notes:  If you have even a microscopic interest in 'Saint Joan' or Middle Ages France, this seems like an excellent little book (*maybe just an essay*).  It assumes that the reader understands some about mid-20th century Brittan and New York, but is still a pleasure in relative ignorance of both.  The reading by David Wales is a perfect match.  
+Summary from Librivox:  
+>Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
 
 </details>  
 
-<details><summary>Jane Austen's Sailor Brothers.  1906 </summary>
 
-### Jane Austen's Sailor Brothers -- Being the Adventures of Sir Francis Austen, G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen.  (7:16)  
-https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/  
-Text: https://www.gutenberg.org/ebooks/69815  
-By [Edith Hubback Brown](https://en.wikipedia.org/wiki/Edith_Charlotte_Brown) (1876 - 1945) and John Hubback (1844 - 1939)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
+<details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
-Reader's Notes:  
-I believe that "Jane Austen's Sailor Brothers..." will be enjoyable to [Jane Austin](https://en.wikipedia.org/wiki/Jane_Austen) fans, as well as those who loved [Patric O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)'s [Aubrey-Maturin novels](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series). Edith Hubback Brown and her father John Hubback share what appears to be well researched and carefully edited primary resources (British Naval records and family letters) to outline Francis and Charles Austen's naval education and careers, and how their experiences contributed to Jane Austen's novels.  
-Everyone should know that this is an excellent reading/performance by [Bryn Roberts](https://librivox.org/reader/18007).  His accent, emotions, pacing, and enthusiasm are exemplary and enhance this audio book tremendously.  
+### Shaman (15:00)  
+https://www.overdrive.com/media/1372669/shaman  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
-Librivox and Other 3rd Party Summaries:  
+Reader's Notes: What an excellent book!  We go on a fast-moving journey with a young apprentice shaman, his teacher, a small band of hunter-gatherers, and the others who join the story along the way.  We learn a lot about [stone age](https://en.wikipedia.org/wiki/Stone_Age) / [ice age](https://en.wikipedia.org/wiki/Last_Glacial_Period) [European early modern humans](https://en.wikipedia.org/wiki/European_early_modern_humans) and their cultures.  
+
+3rd Party Summaries:  
+Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
+
+</details>
+
+
+<details><summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
+
+### The Sun Also Rises.  (6:43)  
+https://librivox.org/the-sun-also-rises-by-ernest-hemingway/  
+Text: https://www.fadedpage.com/showbook.php?pid=20150622  
+By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
+
+Reader's Notes:  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Sun_Also_Rises). 
+NOTE: There are issues of race and religion in the telling of "The Sun Also Rises", particularly where the author uses derogatory and dehumanizing language in the description of a Black boxer and a character of the Jewish faith. It is LibriVox's policy to record texts as written.  
+
 Librivox Summary:  
->"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
-
-</details>
-</details>
-
-<details><summary>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary>
-
-### The Last Watch.  (17:00)  
-https://www.overdrive.com/media/5418299/the-last-watch  
-By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
-Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *space opera*.  It is also a ready-for-streaming novel.  
-Throughout, the scene setup is just enough to create a skeletal environment so that the action, character development and dialog can keep the pace thumping along -- not timeless prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than what some called *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can dive in and have the author reveal character details throughout the story, this book might be a good fit.  Overall, the story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals unexpected abilities given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable-enough*" most of the time.  Close-quarter combat, governmental/military misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
-https://www.goodreads.com/book/show/53205794-the-last-watch  
-https://www.jsdewes.com/about  
+>The Sun Also Rises (1926) was Hemingway's first novel to be published, though there is his novella The Torrents of Spring which was published earlier in the same year. The novel describes, expressed through the voice of Jake Barnes, a short period of social life that ranges from Paris to locations in Spain. One might say that the action occurs in Pamplona, Spain with the annual festival of San Fermin and its running of bulls and subsequent days of bullfights, but one can easily argue that the real interest of the novel is in its portrayal of the group to which Barnes is a part and how he details their anxieties, frailties, hopes, and frustrations. ([Summary by KevinS](https://librivox.org/the-sun-also-rises-by-ernest-hemingway/))  
+Wikipedia Summary:  
+https://en.wikipedia.org/wiki/The_Sun_Also_Rises  
 
 </details>
 
@@ -238,38 +313,6 @@ Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/heather-morris/the-ta
 </details>
 
 
-<details><summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
-
-### Saint Joan: Preface  (2:12)  
-https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
-https://en.wikipedia.org/wiki/Saint_Joan_(play)  
-Text: https://archive.org/details/SaintJoan/page/n1  
-By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (1856 - 1950)  
-
-Reading Notes:  If you have even a microscopic interest in 'Saint Joan' or Middle Ages France, this seems like an excellent little book (*maybe just an essay*).  It assumes that the reader understands some about mid-20th century Brittan and New York, but is still a pleasure in relative ignorance of both.  The reading by David Wales is a perfect match.  
-Summary from Librivox:  
->Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
-
-</details>  
-
-<details><summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
-
-### The Sun Also Rises.  (6:43)  
-https://librivox.org/the-sun-also-rises-by-ernest-hemingway/  
-Text: https://www.fadedpage.com/showbook.php?pid=20150622  
-By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
-
-Reader's Notes:  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Sun_Also_Rises). 
-NOTE: There are issues of race and religion in the telling of "The Sun Also Rises", particularly where the author uses derogatory and dehumanizing language in the description of a Black boxer and a character of the Jewish faith. It is LibriVox's policy to record texts as written.  
-
-Librivox Summary:  
->The Sun Also Rises (1926) was Hemingway's first novel to be published, though there is his novella The Torrents of Spring which was published earlier in the same year. The novel describes, expressed through the voice of Jake Barnes, a short period of social life that ranges from Paris to locations in Spain. One might say that the action occurs in Pamplona, Spain with the annual festival of San Fermin and its running of bulls and subsequent days of bullfights, but one can easily argue that the real interest of the novel is in its portrayal of the group to which Barnes is a part and how he details their anxieties, frailties, hopes, and frustrations. ([Summary by KevinS](https://librivox.org/the-sun-also-rises-by-ernest-hemingway/))  
-Wikipedia Summary:  
-https://en.wikipedia.org/wiki/The_Sun_Also_Rises  
-
-</details>
-
-
 <details><summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
 
 ### The Torrents of Spring.  (2:10)
@@ -286,25 +329,6 @@ https://en.wikipedia.org/wiki/The_Torrents_of_Spring
 
 </details>
 
-
-<details>
-<summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>  
-
-### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
-https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
-Text: https://www.gutenberg.org/ebooks/58575  
-By [John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812 - 1862)  
-With biographical memoir by his daughter [Maria Rebecca Audubon](http://www.audubonparkny.com/audubonfamily.html) (1843-1925)  
-Introduction, notes, and index by [Frank Heywood Hodder](https://en.wikipedia.org/wiki/Frank_Heywood_Hodder) (1860-1935)  
-<details>
-<summary>Reader's Notes and Librivox Summary:</summary>
-
-Reading Notes:  This travel journal provides a little access into the brutality of cross-country travel in 1849 in what is now the Southern and Western United States.  
-Librivox Summary:  
->"[John Woodhouse Audubon](https://en.wikipedia.org/wiki/John_Woodhouse_Audubon) (1812-1862), son of the famous painter [John James Audubon](https://en.wikipedia.org/wiki/John_James_Audubon) and an artist in his own right, joined Col. Henry Webb's California Company expedition in 1849. From New Orleans the expedition sailed to the Rio Grande; it headed west overland through northern Mexico and through Arizona to San Diego, California. Cholera and outlaws decimated the group. Many of them turned back, including the leader. Audubon assumed command of those remaining and they pushed on to California, although he was forced to abandon his paints and canvases in the desert…. Throughout the whole of this long journey Mr. Audubon took notes of scenes and occurrences by the way. In his descriptions he exhibits the keen observation of the naturalist and the trained eye of the artist. The result is a remarkable picture of social conditions in Mexico, of birds and trees, of sky and mountains and the changing face of nature, of the barrenness of the desert and the difficulties of the journey, of the ruined missions of California, of methods of mining, and of the chaos of races and babel of tongues in the gold fields. It was manifestly impossible to keep a daily journal, and the entries were made from time to time as opportunity occurred. Considering the circumstances under which they were taken, the notes are remarkable for their accuracy. Because it was not edited by Audubon, the text (and this recording) ends abruptly." - ([Summary by [Book Introduction](https://www.gutenberg.org/cache/epub/58575/pg58575-images.html#Page_11) and [David Wales](https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/))  
-
-</details>
-</details>
 
 <details><summary>The President is Missing.  2018 </summary>
 
