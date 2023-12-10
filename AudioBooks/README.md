@@ -81,6 +81,46 @@ Summary on Librivox:
 </details>  
 
 
+<details><summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
+
+### Cleek: The Man of the Forty Faces. (13:25)  
+https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
+Text: https://www.gutenberg.org/ebooks/14332  
+By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
+
+Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As (an often comedic) parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, the written words are facts -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
+Librivox Summary:  
+>"Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books." - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
+
+</details>
+
+<details><summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
+
+### Cleek of Scotland Yard. (12:46)  
+https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
+Text: https://www.gutenberg.org/ebooks/32198    
+By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
+
+Reading Notes:  
+Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, they are facts -- that expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  
+Librivox Summary:  
+>"Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads." - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
+
+</details>
+
+
+<details><summary>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
+
+### The Creatures That Time Forgot.  (1:51)  
+https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
+Text: https://www.gutenberg.org/ebooks/63874  
+By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+Reader's Notes: *Stone age* struggle for life.  A singular urge for *escape*.  This is **not** just another member of the shamelessly optimistic post war U.S. science fiction club, and this early Ray Bradbury story is worth a listen.  
+Librivox Summary:  
+>"Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself!" - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946    
+</details>
+
+
 <details><summary>The Demi-Gods, By James Stephens. 1914</summary>
 
 ### The Demi-Gods (4:37)  
@@ -107,6 +147,19 @@ By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918
 Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
 >"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+
+</details>
+
+
+<details><summary>First Lensman. (Second book in the Lensman Series) By E. E. Smith, 1950</summary>
+
+### First Lensman (*Second book in the Lensman Series*) (11:12)  
+https://librivox.org/first-lensman-by-e-e-smith/  
+https://en.wikipedia.org/wiki/First_Lensman  
+Text: https://www.gutenberg.org/ebooks/49525  
+By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
+Reading Notes: (*see 'Triplanetary' below*)  
+>The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went -- and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 </details>
 
@@ -233,6 +286,24 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/New_York_2140
 Andrew Liptak Review: https://www.theverge.com/2017/4/8/15195064/new-york-2140-kim-stanley-robinson-book-review-climate-change  
 Karl Wolff Review: https://www.nyjournalofbooks.com/book-review/new-york-2140  
 Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intelligencer/2017/03/kim-stanley-robinsons-new-york-2140-review-a-drowned-nyc.html  
+
+</details>
+
+
+<details><summary>The President is Missing.  2018 </summary>
+
+### The President is Missing.  (13:00)  
+https://www.overdrive.com/media/3603621/the-president-is-missing  
+https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/  
+By [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (1946 - ) and [James Paterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 -)  
+
+Reader's Notes:  
+This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, a lot of *often* predictable action and dialog followed.  That said, I think that it is useful long-distance driving background audio.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)  
+Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
+[James Patterson Summary](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/):  
+>"The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come." [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
+
 </details>
 
 
@@ -330,23 +401,6 @@ https://en.wikipedia.org/wiki/The_Torrents_of_Spring
 </details>
 
 
-<details><summary>The President is Missing.  2018 </summary>
-
-### The President is Missing.  (13:00)  
-https://www.overdrive.com/media/3603621/the-president-is-missing  
-https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/  
-By [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) (1946 - ) and [James Paterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 -)  
-
-Reader's Notes:  
-This is entertaining "*junk fiction*."  There are numerous absurd plot threads and many *tense* situations where dialog is almost comic...  Once given plot-lines were established, a lot of *often* predictable action and dialog followed.  That said, I think that it is useful long-distance driving background audio.  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel)  
-Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
-[James Patterson Summary](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/):  
->"The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come." [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
-
-</details>
-
-
 <details><summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -354,72 +408,20 @@ https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/
 https://en.wikipedia.org/wiki/Triplanetary_(novel)  
 Text: https://www.gutenberg.org/ebooks/32706  
 By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1948  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
-Reading Notes: Published in 1948 and 1950, the Triplanetary and First Lensman books express a fantastic post-WWII U.S.A. optimism about technology, all things "the Atom," and the supremacy of North American military power. 
-The characters that drive the story forward are white male North Americans. 
-The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity" (*a seeming contradiction they don't acknowlege*). 
-The most evil characters are leaders and their followers in North American Nationalist politics -- in league with organized crime.  When these politicians & other criminals are caught, they use features of the existing legal system as weapons and delay, delay, delay (*sound like a 'real life' former Present and his lackies?*). A core theme seems to be a battle between the "uncorruptable" (*democrats*) and the "corrupt" (*athoritarians*) -- with "civilization" owing everything to the "uncorruptable." 
-There are minor characters from many other planets and galacies.  
+Reading Notes: Published in 1948 and 1950, the Triplanetary and First Lensman books express a fantastic post-WWII U.S.A. optimism about technology, all things "the Atom," and the supremacy of North American military power.  
+The characters that drive the story forward are white male North Americans.  
+The lensmen engage in massive death & destruction in their quest for "increasing the general happiness of all humanity" (*a seeming contradiction they don't acknowlege*).  
+The most evil characters are leaders and their followers in North American Nationalist politics -- in league with organized crime.  When these politicians & other criminals are caught, they use features of the existing legal system as weapons and delay, delay, delay (*sound like a 'real life' former Present and his lackies?*). A core theme seems to be a battle between the "uncorruptable" (*democrats*) and the "corrupt" (*athoritarians*) -- with "civilization" owing everything to the "uncorruptable."  
+There are also minor characters from many other planets and galacies.  
 
 Summary:  
->Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year. 
+>Triplanetary was first serialized in Amazing Stories in 1934. After the [Lensman series](https://en.wikipedia.org/wiki/Lensman_series) became popular, Smith took his Triplanetary story and turned it into the first of the Lensman series, using it as a prequel to give the back story for the protaganists in the Lensmen series. He added 6 new chapters, doubling it in size and it's really a different book from the serialized novel, being published 14 years after the first. It was put into Gutenberg just last year.  
 >The novel covers several episodes in an eons-long eugenics project of the super-intelligences of the Arisia. This alien race is breeding two genetic lines to become the ultimate weapon in Arisia's cosmic war with their arch enemy, the Eddore. The initial chapters cover the Kinnison genetic line during the fall of Atlantis and Nero's (Gharlane of Eddore) reign in Rome. These tales were inserted into the novel following the serialized release, along with chapters covering members of the Kinnison line in World Wars One, Two and Three. The final chapter of Triplanetary tells of the discovery of the inertialess drive that allows faster than light travel. Patrolman Conway Costigan and his friends engage in a space battle with Gray Roger the pirate gangster. This conflict is complicated by the arrival of the technologically superior, extra-Solar, amphibian-like Nevians, resulting in the first interstellar war involving humans. In this story Virgil Samms and Roderick Kinnison, two very important members of the eugenics project, are introduced. They will play the leading roles in the next story, First Lensman. (Summary by [Wikipedia](https://en.wikipedia.org/wiki/Triplanetary_(novel)) and [Phil Chenevert](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
 
 </details>
-</details>
 
-
-<details><summary>First Lensman. By E. E. Smith, 1950</summary>
-
-### First Lensman (11:12)  
-https://librivox.org/first-lensman-by-e-e-smith/  
-https://en.wikipedia.org/wiki/First_Lensman  
-Text: https://www.gutenberg.org/ebooks/49525  
-By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
-Reading Notes: (*see 'Triplanetary' above*)  
->The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went -- and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
-
-</details>
-
-<details><summary>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
-
-### The Creatures That Time Forgot.  (1:51)  
-https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
-Text: https://www.gutenberg.org/ebooks/63874  
-By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-Reader's Notes: *Stone age* struggle for life.  A singular urge for *escape*.  This is **not** just another member of the shamelessly optimistic post war U.S. science fiction club, and this early Ray Bradbury story is worth a listen.  
-Librivox Summary:  
->"Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself!" - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946    
-</details>
-
-<details><summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
-
-### Cleek: The Man of the Forty Faces. (13:25)  
-https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
-Text: https://www.gutenberg.org/ebooks/14332  
-By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
-
-Reading Notes: Emphasize the '*highly improbable*' from below, but that does not seem to be the point.  As (an often comedic) parody this is light, fun entertainment -- materially enhanced by [Ruth Golding's](https://librivox.org/reader/2607) excellent reading.  Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, the written words are facts -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
-Librivox Summary:  
->"Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books." - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
-
-</details>
-
-<details><summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
-
-### Cleek of Scotland Yard. (12:46)  
-https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
-Text: https://www.gutenberg.org/ebooks/32198    
-By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
-
-Reading Notes:  
-Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, they are facts -- that expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  
-Librivox Summary:  
->"Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads." - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
-
-</details>
+=====
 
 
 <details><summary>Atlantis. By Gerhart Hauptmann, 1912</summary>
