@@ -65,6 +65,20 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 </details>
 
 
+<details><summary>The Book Woman of Troublesome Creek, By Kim Michele Richardson. 2019 </summary>
+
+### The Book Woman of Troublesome Creek. (9:26)  
+Audio: https://www.overdrive.com/media/4197010/the-book-woman-of-troublesome-creek  
+Ebook: https://www.overdrive.com/media/4492866/the-book-woman-of-troublesome-creek  
+
+By [Kim Michele Richardson](https://en.wikipedia.org/wiki/Kim_Michele_Richardson)  ( - _)  
+
+Reading Notes:  This is another period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its (*mostly*) female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians). [There is another of these in this list. See [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below.]  The story follows Cussy Mary Carter, aka "Bluet," one of the "blue-skinned" people of Kentucky [see [Blue Fugates](https://en.wikipedia.org/wiki/Blue_Fugates) to learn more], whose skin appears blue due to [a rare genetic disorder - methemoglobinemia](https://en.wikipedia.org/wiki/Methemoglobinemia), as she serves her library clients in the isolated hills/mountains around Troublesome Creek.  This is complicated by the fact that she is considered "colored" and shunned by the white community and she understands that many types of *offences* could result in the [lynching](https://en.wikipedia.org/wiki/Lynching) of her or her father.  In 1936 she is 19 years old and her sick, coal miner father wants to marry her to a local (*almost any local*) before he dies.  A couple members of a large local clan end up dead in circumstances that are tied to the Carters and the local "Doc" promises to help them if Bluet will participate in some medical testing at a hospital in Lexington. Th testing leads to "treatment" for Cussy Mary which renders her skin temporarily "white." This treatment involves side-effects that interfere with Bluet's library duties, and Bluet's  experience as "white," and "normal", does not change the local's prejudice against her. The story brings us into the lives of a collection of poor, rural, isolated Eastern Kentucky resident's lives, and like [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below this story evolves from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
+Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek](https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek)  
+
+</details>
+
+
 <details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
