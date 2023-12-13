@@ -3,6 +3,22 @@
 
 ## Completed:  
 
+<details><summary>Advance Agent. By Christopher Anvil.  1957</summary>
+
+### Advance Agent.  (1:20)  
+https://librivox.org/advance-agent-by-christopher-anvil/  
+Text: https://gutenberg.org/ebooks/51273  
+By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
+(published in "Galaxy Science Fiction." February 1957)  
+
+Reader's Notes:  
+This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
+Librivox Summary:  
+>Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
+
+</details>
+
+
 <details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
@@ -28,6 +44,21 @@ By [Henry James](https://en.wikipedia.org/wiki/Henry_James) (1843 - 1916), publi
 Reading Notes: I recommend this excellent 19th century novel to anyone who has the time to think about their place and role in the world...  
 [Summary from Librivox](https://librivox.org/the-ambassadors-by-henry-james/):  
 >"Henry James considered The Ambassadors his best, or perhaps his best-wrought, novel. It plays on the great Jamesian theme of the American abroad, who finds himself in an older, and some would say richer, culture that that of the United States, with its attractions and dangers.  Here the protagonist is Lambert Strether, a man in his fifties, editor of a small literary magazine in Woollett, Massachusetts, who arrives in Europe on a mission undertaken at the urging of his patron, Mrs. Newsome, to bring back her son Chadwick.  That young man appears to be enjoying his time in Paris rather more than seems good for him, at least to those older and wiser.  The novel, however, is perhaps really about Strether's education in this new land, and one of his teachers is the city of Paris -- a real Paris, not an idealized one, but from which Strether has much to learn.  Chad Newsome, of course is there too, and so are a scattering of other Americans, his old friend Waymarsh and his new acquaintance Maria Gostrey among them.  Had Strether his life to live over again, knowing what he has now learned, how different would it be? and what are the lessons he takes home with him?"  -  Summary from: https://librivox.org/the-ambassadors-by-henry-james/  
+
+</details>
+
+
+<details><summary>Atlantis. By Gerhart Hauptmann, 1912</summary>
+
+### Atlantis  (13:59)  
+https://librivox.org/atlantis-by-gerhart-hauptmann/  
+https://www.gutenberg.org/ebooks/17241  
+By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  Published 1912  
+Translated by **Adele Szold Seltzer** (1876 - 1940)  
+Reader Notes: This is an interesting story -- in places it seemed *long* and unnecessarily wandering.  
+Librivox [Summary](https://librivox.org/atlantis-by-gerhart-hauptmann/):  
+>Frederick von Kammacher is a young doctor in Germany whose wife has gone *insane*, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has published. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
+Summary/Review by "[Steve R](https://www.goodreads.com/review/show/3265689713)" on GoodReads.  
 
 </details>
 
@@ -65,6 +96,107 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 </details>
 
 
+<details><summary>Bashan And I.  By Thomas Mann.  1923</summary>
+
+### Bashan And I. (4:13)  
+https://librivox.org/bashan-and-i-by-thomas-mann/  
+Text: https://www.gutenberg.org/ebooks/61284  
+By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)  
+Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
+
+Librivox Summary:  
+>Simple and unpretentious as a statement by Francis d'Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
+
+</details>
+
+
+<details><summary>The Best Church Hymns. 1898</summary>
+
+### The Best Church Hymns. (1:38)  
+https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
+Text: https://archive.org/details/bestch00bens  
+Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
+By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
+
+Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
+Librivox Summary:  
+>This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+
+
+<details><summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>
+
+### The Book of Tea.  (2:09)  
+https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
+Text: https://www.gutenberg.org/ebooks/769  
+By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
+
+Reader's Notes:  
+This is an interesting book.  See the Wikipedia and Teixeria reviews below...  
+Librivox Summary:  
+>The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author's first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
+Review by Leo Teixeira: https://teixeiras.medium.com/live-in-the-present-with-the-ancient-tradition-of-teaism-ef5016b429cc  
+
+</details>
+
+
+<details><summary>The Book Woman of Troublesome Creek, By Kim Michele Richardson. 2019 </summary>
+
+### The Book Woman of Troublesome Creek. (9:26)  
+Audio: https://www.overdrive.com/media/4197010/the-book-woman-of-troublesome-creek  
+Ebook: https://www.overdrive.com/media/4492866/the-book-woman-of-troublesome-creek  
+
+By [Kim Michele Richardson](https://en.wikipedia.org/wiki/Kim_Michele_Richardson)  ( - _)  
+
+Reading Notes:  This is another period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its (*mostly*) female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians). [There is another of these in this list. See [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below.]  The story follows Cussy Mary Carter, aka "Bluet," one of the "blue-skinned" people of Kentucky [see [Blue Fugates](https://en.wikipedia.org/wiki/Blue_Fugates) to learn more], whose skin appears blue due to [a rare genetic disorder - methemoglobinemia](https://en.wikipedia.org/wiki/Methemoglobinemia), as she serves her library clients in the isolated hills/mountains around Troublesome Creek.  This is complicated by the fact that she is considered "colored" and shunned by the white community and she understands that many types of *offences* could result in the [lynching](https://en.wikipedia.org/wiki/Lynching) of her or her father.  In 1936 she is 19 years old and her sick, coal miner father wants to marry her to a local (*almost any local*) before he dies.  A couple members of a large local clan end up dead in circumstances that are tied to the Carters and the local "Doc" promises to help them if Bluet will participate in some medical testing at a hospital in Lexington. Th testing leads to "treatment" for Cussy Mary which renders her skin temporarily "white." This treatment involves side-effects that interfere with Bluet's library duties, and Bluet's  experience as "white," and "normal", does not change the local's prejudice against her. The story brings us into the lives of a collection of poor, rural, isolated Eastern Kentucky resident's lives, and like [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below this story evolves from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
+Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek](https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek)  
+
+</details>
+
+
+<details><summary>The Brain.  By Edmond Hamilton.  1948 </summary>
+
+### The Brain. (5:57)  
+https://librivox.org/the-brain-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+
+Reader's Notes:  
+In the context of the current AI mania, this story may resonate for some...  
+
+Librivox Summary:  
+>A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
+
+</details>
+
+
+<details><summary>Bury Your Dead.  By Louise Penny. 2010 </summary>
+
+### Bury Your Dead. (13:00)  
+https://www.overdrive.com/media/451816/bury-your-dead  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+
+Reader's Notes:  
+Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 6th in the series.  Penny incorporates two crime investigations into this installment.  Gamache is recovering from injuries suffered in an investigation gone wrong and stumbles into a murder related to [Samuel de Champlain](https://en.wikipedia.org/wiki/Samuel_de_Champlain) (*French explorer, navigator, cartographer, soldier, geographer and founder of Quebec*).  Concurrently, the murder in The "[Brutal Telling](https://en.wikipedia.org/wiki/The_Brutal_Telling)" novel is investigated further.  
+
+</details>
+
+
+<details><summary>Captains Courageous. By Rudyard Kipling, 1897</summary>
+
+### Captains Courageous  (5:57)  
+https://librivox.org/captains-courageous-by-rudyard-kipling/  
+https://en.wikipedia.org/wiki/Captains_Courageous  
+https://www.gutenberg.org/etext/2186  
+By [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) (1868 - 1936), published 1897  
+Summary from Librivox:  
+>Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
+
+</details>
+
+
 <details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
@@ -79,6 +211,21 @@ Summary on Librivox:
 >“The Chouans” (1829) was the first novel published under Balzac's own name (rather than a pen-name). It became the first book in the great work of his lifetime — the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac's novel is set in 1799 — the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today's novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
 
 </details>  
+
+
+<details><summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>
+
+### The City at World's End.  (7:06)  
+https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
+Text: https://manybooks.net/titles/hamiltoneother05cityworldsend.html  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+
+Reader's Notes:  
+This is an interesting application of space-time science current in the mid-20th century via *popular* science fiction of the time.  
+Librivox Summary:  
+>A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
+
+</details>
 
 
 <details><summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
@@ -105,6 +252,19 @@ Reading Notes:
 Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, they are facts -- that expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  
 Librivox Summary:  
 >"Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads." - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
+
+</details>
+
+
+<details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
+
+### The Color of a Great City  (8:36)  
+https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
+Text: https://www.gutenberg.org/ebooks/61043  
+By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
+
+Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
+Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/) NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "The Color of a Great City." It is LibriVox's policy to record texts as written.  
 
 </details>
 
@@ -146,7 +306,23 @@ By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918
 
 Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
->"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+>"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to 
+turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+
+</details>
+
+
+<details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
+
+### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
+https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
+Text: https://www.gutenberg.org/ebooks/39465  
+By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor) (1826 - 1902)  
+
+Reader's Notes: This is a biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), born in Virginia in 1810, fur trapper in the Rocky Mountains between 1829 and 1840, as the over hunting of beaver and of other important species led to the end of that profession and put extreme pressures on Native American lives.  He then migrated to [Oregon Country](https://en.wikipedia.org/wiki/Oregon_Country) (*later Oregon Territory*) -- having numerous *adventures* until his death in 1875.  Likely written in the late 1860s (*published in 1870*), this story is an expression of its time -- and as such, may help provide some context for more academic or professional histories of North America in the first half of the 19th century.  NOTE: Some passages in this story describe behavior that is particularly vile in its treatment of Native Americans, along with incorporating Black and Jewish stereotypes and derogatory terms.  
+
+Librivox Summary:  
+>This lively book follows the adventures of mountain man Joe Meek, from his joining the Rocky Mountain Fur Company trapping expedition in the year 1829 at the young age of 18, through his retirement from public life after serving as Marshall of Oregon Territory. Meek had close connections with many famous people of the era, such as Kit Carson, William and Milton Sublette, Jedediah Smith, Marcus and Narcissa Whitman, Dr. John McLaughlin, Oregon’s Governor Lane, and President James Polk. The author’s information came directly from interviews with Joe himself. She adds to his stories by recounting the surrounding events of the times along the way, providing an interesting way to pick up much information about the history of the Rocky Mountain region and the Oregon Territory. Meek was a tremendously colorful personality who traveled all over the wild west, and had numberless adventures. His endurance of hunger, thirst, exhaustion, and danger was legendary. Whether he was encountering bears, Indians, fellow trappers, missionaries, California gold miners, and even the president of the United States, he tells the story with humor and aplomb. Meek was always lively, often drunk, sometimes heroic, and certainly no saint. - ([Summary by Carol Pelster](https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/))  
 
 </details>
 
@@ -164,6 +340,53 @@ Reading Notes: (*see 'Triplanetary' below*)
 </details>
 
 
+<details><summary>The Freelands. By John Galsworthy. 1914 </summary>
+
+### The Freelands  (9:51)  
+https://librivox.org/freelands-by-john-galsworthy/  
+Text: https://www.gutenberg.org/ebooks/2309  
+By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
+
+Reader's Notes:  
+This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
+
+Librivox Summary:  
+>The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
+
+</details>
+
+
+<details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
+
+### The Gettysburg Address (0:02:41)  
+Four Librivox versions available:  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln/  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln-version-2/  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/  
+https://librivox.org/the-gettysburg-address-by-abraham-lincoln-3/  
+Text: https://www.gutenberg.org/etext/4  
+By [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) (February 12, 1809 – April 15, 1865)  
+
+Reader's Notes:  Everyone residing in the United States of America should listen to this speech once in a while.  If you are not familiar with the context of this speech, the [Wikipedia Summary](https://en.wikipedia.org/wiki/Gettysburg_Address) provides an excellent resource.  
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Gettysburg_Address](https://en.wikipedia.org/wiki/Gettysburg_Address)  
+Librivox Summary:  
+>The Dedication of the National Cemetery at Gettysburg, in November, 1863, followed a few short months after the roiling, acrid clouds of gun smoke dissipated, leaving a little crossroads town in Pennsylvania heir to the human tragedy of over 7,000 corpses and 21,000 men suffering wounds. It was a most unnatural disaster. On November 19, the chief executive made the trip to the still-dazed, shot-torn community to deliver, almost as an afterthought (for he was not the keynote speaker), an address that clarified his belief that the Negro race should be liberated from their slavery, and that despite the loss of so much blood and life, the Union should hold to the goal of completing this emancipation. That he knew the eyes of the nation would rest of him was evident; this address was the first speech since his inauguration that he prepared in advance. But these carefully crafted words - only 269 of them - became a vital part of our nation's identity, and are a signature to the bedrock of our beliefs. - Summary by [Mark F. Smith](https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/)  
+
+</details>
+
+
+<details>
+<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+
+### The Giver of Stars. (13:52)  
+[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
+By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
+Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
+Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
+
+</details>
+
+
 <details><summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
@@ -175,6 +398,34 @@ Reader Notes.  Enter one family's world, more than 4 centuries ago.  Maggie O'Fa
 Literary Review by : https://literaryreview.co.uk/love-in-the-time-of-plague-2  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Hamnet_(novel)  
 Review by Miranda France in the Literary Review: https://literaryreview.co.uk/love-in-the-time-of-plague-2  
+
+</details>
+
+
+<details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
+
+### The Harvester (16:48)  
+https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
+Text: https://www.gutenberg.org/ebooks/349  
+By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
+
+Reading Notes: This 1912-version of a *feelgood romance* also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.  
+LibraryThing Reviews:  [https://www.librarything.com/work/449936/reviews](https://www.librarything.com/work/449936/reviews)  
+Summary from Librivox:  
+>David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester's perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester's love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
+
+</details>
+
+
+<details><summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
+
+### The Heart of the Ancient Wood  (4:54)  
+https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
+Text: https://www.gutenberg.org/ebooks/47671  
+By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
+Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.  
+Summary from Librivox:  
+>A woman, Kirstie Craig and her daughter Miranda take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
 
 </details>
 
@@ -237,6 +488,34 @@ https://www.jsdewes.com/about
 </details>
 
 
+<details><summary>Life and Writings of Amelia Bloomer. By Dexter C. Bloomer.  1895 </summary>
+
+### Life and Writings of Amelia Bloomer (10:22:42)  
+https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
+Text: https://www.gutenberg.org/ebooks/69953  
+Wikipedia Biography: https://en.wikipedia.org/wiki/Amelia_Bloomer  
+By Dexter C. Bloomer (1816 - 1900)  
+
+Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  In addition to what you might expect (*temperance, experiments with new clothes, sufferage, and equality for women and men*) this volume includes some interesting first-hand accounts of travel in "the West" in the 1850s as well as life in Western Iowa in the mid 19th century.  
+
+Librivox Summary:  
+>As Mrs. Bloomer was one of the pioneers in what is sometimes called the “Woman’s Movement,” it seems right that a record of her work should be placed in durable form. Such a record I have endeavored to set forth in the following pages. While giving a brief narrative of her life, I have also included, as being most satisfactory, quite extended extracts from her writings; and one of her lectures is printed in full. - [Summary by D. C. Bloomer (preface to book)](https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/)  
+
+</details>
+
+
+<details><summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
+
+### Life of Henry David Thoreau (7:44)  
+https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
+Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
+By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
+Summary from Librivox:  
+>Henry David Thoreau was a laborer, philosopher, abolitionist, anarchist, environmentalist(?), writer, poet, and more. In popular culture he is best known for his book 'Walden', and his essay on 'Civil Disobedience.' [Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/) reports that this early biography by Henry Salt is highly regarded by Thoreau scholars. Be aware that this is a late 19th century biography -- little wandering and uneven.  If you can forgive that, I believe it is a useful introduction to Thoreau well read by "[PhyllisV](https://librivox.org/reader/13055?primary_key=13055&search_category=reader&search_page=1&search_form=get_results)."  
+
+</details>
+
+
 <details><summary>The Lincoln Highway by Amor Towles.  2021</summary>
 
 ### The Lincoln Highway (17:00)  
@@ -259,6 +538,21 @@ By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 
 
 Reader's Notes: Biography of the young Theodore Roosevelt.  A heavily researched biography of an important U.S. President. A good story.  A social history of the time.  
 See the Wikipedia summary: https://en.wikipedia.org/wiki/Mornings_on_Horseback  
+
+</details>
+
+
+<details><summary>Napoleon The First, An Intimate Biography. 1921 </summary>
+
+### Napoleon The First, An Intimate Biography.  (12:11)  
+https://librivox.org/napoleon-the-first-biography-by-walter-geer/  
+Text: https://archive.org/details/cu31924014676054/mode/2up  
+By [Walter Geer](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Geer%2c%20Walter%2c%201857%2d1937) (1857 - 1937)  
+
+Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reading by [Celine Major](https://librivox.org/reader/11697?primary_key=11697&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this tragic story an enjoyable experience...  
+
+Librivox Summary:  
+>Excerpt: "Now that one hundred years have elapsed since the "long-drawn agony" of Saint Helena we think that the time has come for a more impartial estimate. Facts are clearer, motives are better known, much new evidence is available. Let us then endeavor to depict Napoleon as he was, and "nothing extenuate, nor set down aught in malice." - Walter Geer [librivox](https://librivox.org/napoleon-the-first-biography-by-walter-geer/)  
 
 </details>
 
@@ -290,6 +584,37 @@ Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intellige
 </details>
 
 
+<details><summary>Number 17.  By J. Jefferson Farjeon. 1926 </summary>
+
+### No. 17 (Number Seventeen)  (5:37)  
+https://librivox.org/no-17-by-joseph-jefferson-farjeon/  
+Text: https://catalog.hathitrust.org/Record/000781052  
+By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
+
+Reader's Notes:  
+See the Wikipedia summary.  It was worth its runtime to me.  
+Librivox Summary:  
+>A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+
+
+<details><summary>Pierre Curie. By Marie Curie.  1923 </summary>
+
+### Pierre Curie.  (5:11)  
+https://librivox.org/pierre-curie-by-marie-curie/  
+Text: https://www.gutenberg.org/ebooks/69617  
+By [Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie) (1867 - 1934)  
+Translated by [Vernon Kellogg](https://en.wikipedia.org/wiki/Vernon_Lyman_Kellogg) (1867 - 1937) and [Charlotte Kellogg](https://en.wikipedia.org/wiki/Charlotte_Kellogg) (1874 - 1960)  
+
+Reader's Notes:  This is an excellent broad history of Pierre Curie's life.  It is also a useful adjunct to any study of Marie Curie's life and science.  The reading by [Ciufi Galeazzi](https://librivox.org/reader/11528?primary_key=11528&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this interesting history an enjoyable experience...  
+Librivox Summary:  
+>This biography of the noted French physicist Pierre Curie was written by his wife, the renowned physicist Marie Curie. In it, she not only chronicles the scientific accomplishments of her husband, but also provides unique insight into his family life and personality. The book concludes with a four chapter autobiography of the author. - ([Summary by Ciufi Galeazzi](https://librivox.org/pierre-curie-by-marie-curie/))  
+
+</details>
+
+
 <details><summary>The President is Missing.  2018 </summary>
 
 ### The President is Missing.  (13:00)  
@@ -303,6 +628,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel
 Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
 [James Patterson Summary](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/):  
 >"The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come." [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
+
+</details>
+
+
+<details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
+
+### Red Winter - A Jack Ryan Novel. (13:00)  
+https://www.overdrive.com/media/8822188/red-winter  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 - _)  
+
+Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  CIA Deputy Director [James Greer](https://en.wikipedia.org/wiki/Ryanverse#Characters) calls in a younger Jack Ryan for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An *ageless* [John Clarke](https://en.wikipedia.org/wiki/John_Clark_(Ryanverse_character)) shadows them -- just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert. The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, some symptoms of Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations along the European East/West border*).  
+[Kirkus Reviews Summary](https://www.kirkusreviews.com/book-reviews/marc-cameron/tom-clancy-red-winter/)  
+[OverDrive Summary](https://www.overdrive.com/media/8822188/red-winter):  
+>"In this previously untold adventure, a young Jack Ryan goes behind the Iron Curtain to seek the truth about a potential Soviet defector in the most shocking entry in Tom Clancy's #1 New York Times bestselling series. 1985: A top secret F117 aircraft crashes into the Nevada desert. The Nighthawk is the most advanced fighting machine in the world and the Soviets will do anything to get their hands on its secrets. In East Berlin, a mysterious figure contacts the CIA with an incredible offer—invaluable details of his government’s espionage plans in return for asylum.It’s an offer they can’t pass up...if it’s genuine, but the risks are too great to blindly stumble into a deal. With the East German secret police closing in, someone will have to go to behind the Berlin Wall to investigate the potential defector. It’s a job Deputy Director James Greer can only trust to one man—Jack Ryan.Ryan is a former Marine and a brilliant CIA analyst who’s been the architect of some of the CIA’s biggest coups but this time he’s in enemy territory with a professional assassin on his tail. Can he get the right answers before the Cold War turns into a Red Winter?"  
 
 </details>
 
@@ -346,6 +685,34 @@ Reader's Notes: What an excellent book!  We go on a fast-moving journey with a y
 
 3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
+
+</details>
+
+
+<details><summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
+
+### Soldiers' Pay (9:33)  
+https://librivox.org/soldiers-pay-by-william-faulkner/  
+[https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
+Text: https://archive.org/details/in.ernet.dli.2015.186670/  
+By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
+See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
+also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
+Librivox Summary:  
+>Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
+
+</details>
+
+
+<details><summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
+
+### The Stars, My Brothers. (01:23)  
+https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/etext/24870  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 1977)  
+
+Librivox Summary:  
+>Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
 
 </details>
 
@@ -401,6 +768,22 @@ https://en.wikipedia.org/wiki/The_Torrents_of_Spring
 </details>
 
 
+<details><summary>Trick of the Light.  By Louise Penny. 2011 </summary>
+
+### A Trick of the Light. (9:00)  
+https://www.overdrive.com/media/628804/a-trick-of-the-light  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+
+Reader's Notes:  
+Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 7th in the series.  Gamache and Inspector Jean Guy Beauvoir are still recovering from injuries suffered in an investigation gone wrong... And a dead body is found in Clara Morrow's garden the morning after a party celebrating her first solo show.  [Alcoholics Anonymous](https://en.wikipedia.org/wiki/Alcoholics_Anonymous), its [big Book](https://en.wikipedia.org/wiki/Alcoholics_Anonymous#The_Big_Book,_the_Twelve_Steps,_and_the_Twelve_Traditions) and its [twelve-step program](https://en.wikipedia.org/wiki/Twelve-step_program#Twelve_Steps) factor prominently in the investigation.  
+Wikipedia page:  
+https://en.wikipedia.org/wiki/A_Trick_of_the_Light_(novel)  
+Publisher's Weekly Summary:  
+https://www.publishersweekly.com/978-0-312-65545-7  
+
+</details>
+
+
 <details><summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>
 
 ### Triplanetary, First in the Lensman Series (10:31)  
@@ -423,375 +806,6 @@ Summary:
 
 =====
 
-
-<details><summary>Atlantis. By Gerhart Hauptmann, 1912</summary>
-
-### Atlantis  (13:59)  
-https://librivox.org/atlantis-by-gerhart-hauptmann/  
-https://www.gutenberg.org/ebooks/17241  
-By [Gerhart Hauptmann](https://en.wikipedia.org/wiki/Gerhart_Hauptmann) (1862 - 1946)  Published 1912  
-Translated by **Adele Szold Seltzer** (1876 - 1940)  
-[Summary](https://librivox.org/atlantis-by-gerhart-hauptmann/) from Librivox:  
-Frederick von Kammacher is a young doctor in Germany whose wife has gone *insane*, whose children are in a boarding school, and whose career has been destroyed by some faulty research he has done. He becomes infatuated with a teenage dancer, and on a whim he boards the the same steamship the dancer is on bound for New York. Hauptmann was heralded as a seer for his description of what happens to their steamship mid-ocean, and what in reality happened to the Titanic only months later.  
-Summary/Review by "[Steve R](https://www.goodreads.com/review/show/3265689713)" on GoodReads.  
-
-</details>
-
-
-<details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
-
-### The Gettysburg Address (0:02:41)  
-Four Librivox versions available:  
-https://librivox.org/the-gettysburg-address-by-abraham-lincoln/  
-https://librivox.org/the-gettysburg-address-by-abraham-lincoln-version-2/  
-https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/  
-https://librivox.org/the-gettysburg-address-by-abraham-lincoln-3/  
-Text: https://www.gutenberg.org/etext/4  
-By [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) (February 12, 1809 – April 15, 1865)  
-
-Reader's Notes:  Everyone residing in the United States of America should listen to this speech once in a while.  If you are not familiar with the context of this speech, the [Wikipedia Summary](https://en.wikipedia.org/wiki/Gettysburg_Address) provides an excellent resource.  
-Wikipedia Summary: [https://en.wikipedia.org/wiki/Gettysburg_Address](https://en.wikipedia.org/wiki/Gettysburg_Address)  
-Librivox Summary:  
->The Dedication of the National Cemetery at Gettysburg, in November, 1863, followed a few short months after the roiling, acrid clouds of gun smoke dissipated, leaving a little crossroads town in Pennsylvania heir to the human tragedy of over 7,000 corpses and 21,000 men suffering wounds. It was a most unnatural disaster. On November 19, the chief executive made the trip to the still-dazed, shot-torn community to deliver, almost as an afterthought (for he was not the keynote speaker), an address that clarified his belief that the Negro race should be liberated from their slavery, and that despite the loss of so much blood and life, the Union should hold to the goal of completing this emancipation. That he knew the eyes of the nation would rest of him was evident; this address was the first speech since his inauguration that he prepared in advance. But these carefully crafted words - only 269 of them - became a vital part of our nation's identity, and are a signature to the bedrock of our beliefs. - Summary by [Mark F. Smith](https://librivox.org/the-gettysburg-address-by-abraham-lincoln-2/)  
-
-</details>
-
-<details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
-
-### The Color of a Great City  (8:36)  
-https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
-Text: https://www.gutenberg.org/ebooks/61043  
-By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
-
-Reading Notes: [Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) wrote these essays about New Yorkers in the context of his time.  They are interesting descriptions of *late 19th century* New York, by a writer with few whose prejudices and *scientific* understanding are unfiltered.  These essays are not for everyone, but may help construct/fortify one's understanding of this time period -- proviging useful color and context for additional reading of this time period.  
-Librivox Summary:  This non-fiction work takes place in many areas of New York City in the early 20th Century. Dreiser writes of lives packed into cramped tenements, of the likely end, but perhaps not, of an affair, of those who guided ships through turbulent waters, and of life in a home for retired seamen. We're taken to the new subways where track workers risked deadly accidents as they struggled to earn a living. Animal slaughter, the glory and heartbreak of song-writing, the shabby "sandwich man", deadly jealousy in Little Italy, and much more is vividly brought to life by this brilliant author. [Summary by Lee Smalley](https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/) NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "The Color of a Great City." It is LibriVox's policy to record texts as written.  
-
-</details>
-
-<details><summary>Bashan And I.  By Thomas Mann.  1923</summary>
-
-### Bashan And I. (4:13)  
-https://librivox.org/bashan-and-i-by-thomas-mann/  
-Text: https://www.gutenberg.org/ebooks/61284  
-By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann) (1875 - 1955)  
-Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_George_Scheffauer) (1876 - 1927)  
-
-Librivox Summary:  
->Simple and unpretentious as a statement by Francis d'Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
-
-</details>
-
-<details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
-
-### Red Winter - A Jack Ryan Novel. (13:00)  
-https://www.overdrive.com/media/8822188/red-winter  
-By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 - _)  
-
-Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  CIA Deputy Director [James Greer](https://en.wikipedia.org/wiki/Ryanverse#Characters) calls in a younger Jack Ryan for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An *ageless* [John Clarke](https://en.wikipedia.org/wiki/John_Clark_(Ryanverse_character)) shadows them -- just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert. The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, some symptoms of Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations along the European East/West border*).  
-[Kirkus Reviews Summary](https://www.kirkusreviews.com/book-reviews/marc-cameron/tom-clancy-red-winter/)  
-[OverDrive Summary](https://www.overdrive.com/media/8822188/red-winter):  
->"In this previously untold adventure, a young Jack Ryan goes behind the Iron Curtain to seek the truth about a potential Soviet defector in the most shocking entry in Tom Clancy's #1 New York Times bestselling series. 1985: A top secret F117 aircraft crashes into the Nevada desert. The Nighthawk is the most advanced fighting machine in the world and the Soviets will do anything to get their hands on its secrets. In East Berlin, a mysterious figure contacts the CIA with an incredible offer—invaluable details of his government’s espionage plans in return for asylum.It’s an offer they can’t pass up...if it’s genuine, but the risks are too great to blindly stumble into a deal. With the East German secret police closing in, someone will have to go to behind the Berlin Wall to investigate the potential defector. It’s a job Deputy Director James Greer can only trust to one man—Jack Ryan.Ryan is a former Marine and a brilliant CIA analyst who’s been the architect of some of the CIA’s biggest coups but this time he’s in enemy territory with a professional assassin on his tail. Can he get the right answers before the Cold War turns into a Red Winter?"  
-
-</details>
-
-<details><summary>Pierre Curie.  1923 </summary>
-
-### Pierre Curie.  (5:11)  
-https://librivox.org/pierre-curie-by-marie-curie/  
-Text: https://www.gutenberg.org/ebooks/69617  
-By [Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie) (1867 - 1934)  
-Translated by [Vernon Kellogg](https://en.wikipedia.org/wiki/Vernon_Lyman_Kellogg) (1867 - 1937) and [Charlotte Kellogg](https://en.wikipedia.org/wiki/Charlotte_Kellogg) (1874 - 1960)  
-
-Reader's Notes:  This is an excellent broad history of Pierre Curie's life.  It is also a useful adjunct to any study of Marie Curie's life and science.  The reading by [Ciufi Galeazzi](https://librivox.org/reader/11528?primary_key=11528&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this interesting history an enjoyable experience...  
-Librivox Summary:  
->This biography of the noted French physicist Pierre Curie was written by his wife, the renowned physicist Marie Curie. In it, she not only chronicles the scientific accomplishments of her husband, but also provides unique insight into his family life and personality. The book concludes with a four chapter autobiography of the author. - ([Summary by Ciufi Galeazzi](https://librivox.org/pierre-curie-by-marie-curie/))  
-
-</details>
-
-<details><summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
-
-### Life of Henry David Thoreau (7:44)  
-https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
-Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
-By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
-Summary from Librivox:  
->Henry David Thoreau was a laborer, philosopher, abolitionist, anarchist, environmentalist(?), writer, poet, and more. In popular culture he is best known for his book 'Walden', and his essay on 'Civil Disobedience.' [Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/) reports that this early biography by Henry Salt is highly regarded by Thoreau scholars. Be aware that this is a late 19th century biography -- little wandering and uneven.  If you can forgive that, I believe it is a useful introduction to Thoreau well read by "[PhyllisV](https://librivox.org/reader/13055?primary_key=13055&search_category=reader&search_page=1&search_form=get_results)."  
-
-</details>
-
-<details><summary>Napoleon The First, An Intimate Biography. 1921 </summary>
-
-### Napoleon The First, An Intimate Biography.  (12:11)  
-https://librivox.org/napoleon-the-first-biography-by-walter-geer/  
-Text: https://archive.org/details/cu31924014676054/mode/2up  
-By [Walter Geer](https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Geer%2c%20Walter%2c%201857%2d1937) (1857 - 1937)  
-
-Reader's Notes:  This is an excellent broad history of Napoleon's life.  The reading by [Celine Major](https://librivox.org/reader/11697?primary_key=11697&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this tragic story an enjoyable experience...  
-
-Librivox Summary:  
->Excerpt: "Now that one hundred years have elapsed since the "long-drawn agony" of Saint Helena we think that the time has come for a more impartial estimate. Facts are clearer, motives are better known, much new evidence is available. Let us then endeavor to depict Napoleon as he was, and "nothing extenuate, nor set down aught in malice." - Walter Geer [librivox](https://librivox.org/napoleon-the-first-biography-by-walter-geer/)  
-
-</details>
-
-<details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. 1870 </summary>
-
-### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
-https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
-Text: https://www.gutenberg.org/ebooks/39465  
-By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor) (1826 - 1902)  
-
-Reader's Notes: This is a biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), born in Virginia in 1810, fur trapper in the Rocky Mountains between 1829 and 1840, as the over hunting of beaver and of other important species led to the end of that profession and put extreme pressures on Native American lives.  He then migrated to [Oregon Country](https://en.wikipedia.org/wiki/Oregon_Country) (*later Oregon Territory*) -- having numerous *adventures* until his death in 1875.  Likely written in the late 1860s (*published in 1870*), this story is an expression of its time -- and as such, may help provide some context for more academic or professional histories of North America in the first half of the 19th century.  NOTE: Some passages in this story describe behavior that is particularly vile in its treatment of Native Americans, along with incorporating Black and Jewish stereotypes and derogatory terms.  
-
-Librivox Summary:  
->This lively book follows the adventures of mountain man Joe Meek, from his joining the Rocky Mountain Fur Company trapping expedition in the year 1829 at the young age of 18, through his retirement from public life after serving as Marshall of Oregon Territory. Meek had close connections with many famous people of the era, such as Kit Carson, William and Milton Sublette, Jedediah Smith, Marcus and Narcissa Whitman, Dr. John McLaughlin, Oregon’s Governor Lane, and President James Polk. The author’s information came directly from interviews with Joe himself. She adds to his stories by recounting the surrounding events of the times along the way, providing an interesting way to pick up much information about the history of the Rocky Mountain region and the Oregon Territory. Meek was a tremendously colorful personality who traveled all over the wild west, and had numberless adventures. His endurance of hunger, thirst, exhaustion, and danger was legendary. Whether he was encountering bears, Indians, fellow trappers, missionaries, California gold miners, and even the president of the United States, he tells the story with humor and aplomb. Meek was always lively, often drunk, sometimes heroic, and certainly no saint. - ([Summary by Carol Pelster](https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/))  
-
-</details>
-
-<details><summary>Life and Writings of Amelia Bloomer.  1895 </summary>
-
-### Life and Writings of Amelia Bloomer (10:22:42)  
-https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
-Text: https://www.gutenberg.org/ebooks/69953  
-Wikipedia Biography: https://en.wikipedia.org/wiki/Amelia_Bloomer  
-By Dexter C. Bloomer (1816 - 1900)  
-
-Reader's Notes:  The fact that this is largely an edited (*by her husband*), lightly annotated collection of writings by Amelia Bloomer provides a unique, first hand account of her ideas and activities.  In addition to what you might expect (*temperance, experiments with new clothes, sufferage, and equality for women and men*) this volume includes some interesting first-hand accounts of travel in "the West" in the 1850s as well as life in Western Iowa in the mid 19th century.  
-
-Librivox Summary:  
->As Mrs. Bloomer was one of the pioneers in what is sometimes called the “Woman’s Movement,” it seems right that a record of her work should be placed in durable form. Such a record I have endeavored to set forth in the following pages. While giving a brief narrative of her life, I have also included, as being most satisfactory, quite extended extracts from her writings; and one of her lectures is printed in full. - [Summary by D. C. Bloomer (preface to book)](https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/)  
-
-</details>
-
-
-<details><summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
-
-### The Stars, My Brothers. (01:23)  
-https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
-Text: https://www.gutenberg.org/etext/24870  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 1977)  
-
-Librivox Summary:  
->Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
-
-</details>
-
-<details><summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
-
-### The Heart of the Ancient Wood  (4:54)  
-https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
-Text: https://www.gutenberg.org/ebooks/47671  
-By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Roberts) (1860 - 1943)  published 1902  
-Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.  
-Summary from Librivox:  
->A woman, Kirstie Craig and her daughter Miranda take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
-
-</details>
-
-<details><summary>Captains Courageous. By Rudyard Kipling, 1897</summary>
-
-### Captains Courageous  (5:57)  
-https://librivox.org/captains-courageous-by-rudyard-kipling/  
-https://en.wikipedia.org/wiki/Captains_Courageous  
-https://www.gutenberg.org/etext/2186  
-By [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) (1868 - 1936), published 1897  
-Summary from Librivox:  
->Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
-
-</details>
-
-<details><summary>Bury Your Dead.  By Louise Penny. 2010 </summary>
-
-### Bury Your Dead. (13:00)  
-https://www.overdrive.com/media/451816/bury-your-dead  
-By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
-
-Reader's Notes:  
-Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 6th in the series.  Penny incorporates two crime investigations into this installment.  Gamache is recovering from injuries suffered in an investigation gone wrong and stumbles into a murder related to [Samuel de Champlain](https://en.wikipedia.org/wiki/Samuel_de_Champlain) (*French explorer, navigator, cartographer, soldier, geographer and founder of Quebec*).  Concurrently, the murder in The "[Brutal Telling](https://en.wikipedia.org/wiki/The_Brutal_Telling)" novel is investigated further.  
-
-</details>
-
-<details><summary>Trick of the Light.  By Louise Penny. 2011 </summary>
-
-### A Trick of the Light. (9:00)  
-https://www.overdrive.com/media/628804/a-trick-of-the-light  
-By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
-
-Reader's Notes:  
-Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) Novel... the 7th in the series.  Gamache and Inspector Jean Guy Beauvoir are still recovering from injuries suffered in an investigation gone wrong... And a dead body is found in Clara Morrow's garden the morning after a party celebrating her first solo show.  [Alcoholics Anonymous](https://en.wikipedia.org/wiki/Alcoholics_Anonymous), its [big Book](https://en.wikipedia.org/wiki/Alcoholics_Anonymous#The_Big_Book,_the_Twelve_Steps,_and_the_Twelve_Traditions) and its [twelve-step program](https://en.wikipedia.org/wiki/Twelve-step_program#Twelve_Steps) factor prominently in the investigation.  
-Wikipedia page:  
-https://en.wikipedia.org/wiki/A_Trick_of_the_Light_(novel)  
-Publisher's Weekly Summary:  
-https://www.publishersweekly.com/978-0-312-65545-7  
-
-</details>
-
-
-<details><summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>
-
-### The City at World's End.  (7:06)  
-https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
-Text: https://manybooks.net/titles/hamiltoneother05cityworldsend.html  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
-
-Reader's Notes:  
-This is an interesting application of space-time science current in the mid-20th century via *popular* science fiction of the time.  
-Librivox Summary:  
->A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
-
-</details>
-
-<details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
-
-### The Harvester (16:48)  
-https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
-Text: https://www.gutenberg.org/ebooks/349  
-By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes: This 1912-version of a *feelgood romance* also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.  
-LibraryThing Reviews:  [https://www.librarything.com/work/449936/reviews](https://www.librarything.com/work/449936/reviews)  
-Summary from Librivox:  
->David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester's perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester's love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
-
-### The Giver of Stars. (13:52)  
-[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
-By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
-Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
-Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
-
-</details>
-
-
-<details><summary>The Freelands. By John Galsworthy. 1914 </summary>
-
-### The Freelands  (9:51)  
-https://librivox.org/freelands-by-john-galsworthy/  
-Text: https://www.gutenberg.org/ebooks/2309  
-By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
-
-Reader's Notes:  
-This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
-
-Librivox Summary:  
->The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
-
-</details>
-
-<details><summary>The Brain.  By Edmond Hamilton.  1948 </summary>
-
-### The Brain. (5:57)  
-https://librivox.org/the-brain-by-edmond-hamilton/  
-Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
-
-Reader's Notes:  
-In the context of the current AI mania, this story may resonate for some...  
-
-Librivox Summary:  
->A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
-
-</details>
-
-<details>
-<summary>No. 17 (Number Seventeen).  By J. Jefferson Farjeon. 1926 </summary>  
-
-### No. 17 (Number Seventeen)  (5:37)  
-https://librivox.org/no-17-by-joseph-jefferson-farjeon/  
-Text: https://catalog.hathitrust.org/Record/000781052  
-By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-See the Wikipedia summary.  It was worth its runtime to me.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
-Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
-
-</details>
-</details>
-
-<details>
-<summary>Advance Agent. By Christopher Anvil.  1957</summary>  
-
-### Advance Agent.  (1:20)  
-https://librivox.org/advance-agent-by-christopher-anvil/  
-Text: https://gutenberg.org/ebooks/51273  
-By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
-(published in "Galaxy Science Fiction." February 1957)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
-
-</details>
-</details>
-
-<details>
-<summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>  
-
-### The Book of Tea.  (2:09)  
-https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
-Text: https://www.gutenberg.org/ebooks/769  
-By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This is an interesting book.  See the Wikipedia and Teixeria reviews below...
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author's first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
-Review by Leo Teixeira: https://teixeiras.medium.com/live-in-the-present-with-the-ancient-tradition-of-teaism-ef5016b429cc  
-</details>
-</details>
-
-<details>
-<summary>The Best Church Hymns. 1898</summary>  
-
-### The Best Church Hymns. (1:38)  
-https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
-Text: https://archive.org/details/bestch00bens  
-Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
-By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
-Librivox Summary:  
->This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
-
-### Soldiers' Pay (9:33)  
-https://librivox.org/soldiers-pay-by-william-faulkner/  
-[https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
-Text: https://archive.org/details/in.ernet.dli.2015.186670/  
-By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
-See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
-also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
-Librivox Summary:  
->Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
-
-</details>
 
 <details>
 <summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
@@ -1499,6 +1513,7 @@ https://www.overdrive.com/media/134428/the-blood-of-flowers
 By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 - _)  
 Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
 
+Reader Notes: I had to return this book after listening to 3:26 (26% of the total).  By that time I underestood enough that I will return to it someday.  
 GoodReads Summaries: https://www.goodreads.com/book/show/348632.The_Blood_of_Flowers#CommunityReviews  
 From the [Author's Summary](http://anitaamirrezvani.com/bloodofflowers.html):  
 >"In seventeenth century Iran, a spirited village girl of fourteen approaches the age of marriage, only to find her destiny shattered by the ominous prophecies that follow a fiery comet blazing across the desert sky. Confronted with the unexpected death of her beloved father and without prospects for gathering a dowry, the young woman and her distraught mother are forced into a difficult new life in the fabled city of Isfahan. Taken in as house servants by her distant uncle Gostaham, a well-to-do carpet designer, and his demanding wife, the two women confront an unforgiving world where their very survival requires strength and resilience beyond their most dire expectations."  
