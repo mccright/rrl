@@ -19,6 +19,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
+
+### The Age of Elizabeth. (07:35)  
+https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/  
+Text: https://archive.org/details/ageelizabeth07creigoog  
+By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 - 1901)  
+
+Reader Notes:  
+This book invests a lot of effort in establishing some of the context surrounding the reign of Queen Elizabeth.  These include, but are not limited to: The evolution of religion in Germany, England, France, Spain, the Netherlands and the rise of Protestantism.  Catholic reaction to these changes.  France, England, and Scotland.  Key personalities involved.  The Jesuits, and more.  It was an enjoyable listen and I *learned* a lot.  The author builds a confident narrative throughout.  But it is important to keep in mind that this book was published in 1875, and more current examinations of this period may build varying narratives...  
+Librivox Summary:  
+>This short history by the eminent British historian, Mandell Creighton, places Elizabeth and her reign within the context of 16th century European political, religious, and military events. Elizabeth overcomes her two great rivals, King Philip of Spain and Mary, Queen of Scots. England gradually unites behind her Queen, who survives multiple assassination plots. After the defeat of the Spanish Armada, the English, lightly taxed by their frugal sovereign, launch flourishing commerce enterprises. The author writes of the Protestant Reformation that "a change of belief meant a revolt from authority." In this age of individualism, personal daring, and a consciousness of national greatness, the golden age of Elizabethan literature breaks new ground in historiography, literary theory, poetry, and above all, drama. - ([Summary by Pamela Nagami, M.D.](https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/))  
+
+</details>
+
+
 <details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
@@ -80,6 +95,27 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Auguste Rodin.  By Rainer Maria Rilke.  1919</summary>
+
+### Auguste Rodin. (1:53)  
+https://librivox.org/auguste-rodin-by-rainer-maria-rilke/  
+Text: https://www.gutenberg.org/ebooks/45605  
+Reference: https://en.wikipedia.org/wiki/Auguste_Rodin  
+By [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) (1875 - 1926)  
+Translated by [Jessie Lemont](https://en.wikisource.org/wiki/Author:Jessie_Lemont) (1862 - 1947)  
+
+Reading Notes:  This is not a traditional biography.  It is worth a couple hours while pulling weeds, gardening, dusting, etc. but I cannot recommend it to anyone wanting a 'traditional' biography of Rodin or a review of his artistic work.  
+
+Librivox Summary:  
+>Rodin has pronounced Rilke's essay the supreme interpretation of his work. (From the translators' Preface)  
+
+>Auguste Rodin, 1840-1917, was a French sculptor. Although Rodin is generally considered the progenitor of modern sculpture, he did not set out to rebel against the past. He was schooled traditionally, took a craftsman-like approach to his work, and desired academic recognition, although he was never accepted into Paris's foremost school of art. Sculpturally, Rodin possessed a unique ability to model a complex, turbulent, deeply pocketed surface in clay. … Rodin… modeled the human body with realism, and celebrated individual character and physicality. From the unexpected realism of his first major figure… to the unconventional memorials whose commissions he later sought, Rodin's reputation grew, such that he became the preeminent French sculptor of his time. By 1900, he was a world-renowned artist.  
+
+>Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke's] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
+
+</details>
+
+
 <details><summary>Aurora, By Kim Stanley Robinson. 2015 </summary>
 
 ### Aurora (17:00)  
@@ -110,6 +146,20 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>
+
+### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
+https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
+Text: https://www.gutenberg.org/ebooks/42459   
+By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) and [1911 census info](https://www.findmypast.co.uk/1911-census/laurence-ayscough-clarke-rg14/00597/0099/1-546d1f6b-9fd1-45be-8c7b-c0d7e4bf353c) and [family tree](https://www.ancestry.com/genealogy/records/laurence-ayscough-clarke-24-21rqnpz)  (1873 - 1942)  
+
+Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife and his father could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
+Librivox Summary:  
+>What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
+
+</details>
+
+
 <details><summary>The Best Church Hymns. 1898</summary>
 
 ### The Best Church Hymns. (1:38)  
@@ -121,6 +171,46 @@ By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.h
 Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
 Librivox Summary:  
 >This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+
+
+<details><summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
+
+### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
+https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
+Text: https://www.gutenberg.org/ebooks/58184  
+By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%C3%A9tis) (1784 - 1871)  
+
+Reading Notes: If you are interested in the history of violin, viola or guitar, or of Nicolo Paganini, this may be a useful and enjoyable book.  
+Librivox Summary:  
+>Niccolò (or Nicolò) Paganini (1782 – 1840) was an Italian violinist, violist, guitarist, and composer. He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique. François-Joseph Fétis (1784 – 1871) was a Belgian musicologist, composer, teacher, and one of the most influential music critics of the 19th century. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+
+
+<details><summary>Blake of the "Rattlesnake." By Frederick Thomas Jane, 1895</summary>
+
+### Blake of the "Rattlesnake"  (5:21)  
+https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
+https://archive.org/details/blakerattlesnak00janegoog  
+By [Frederick Thomas Jane](https://en.wikipedia.org/wiki/Fred_T._Jane) (1865 - 1916)  Published 1895  
+
+Summary from Librivox:  
+>Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
+
+</details>
+
+
+<details>
+<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
+
+### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
+https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
+By [various]()  
+
+Librivox Summary:  
+>These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
 
 </details>
 
@@ -197,6 +287,21 @@ Summary from Librivox:
 </details>
 
 
+<details><summary>The Captives. By Hugh Walpole.  1920 </summary>
+
+### The Captives.  (17:03)  
+https://librivox.org/captives-by-hugh-walpole/  
+Text: https://www.gutenberg.org/ebooks/3601  
+By [Hugh Walpole](http://en.wikipedia.org/wiki/Hugh_Walpole) (1884 - 1941)  
+
+Reading Notes:  
+Prepare yourself.  This was a seriously dark book.  It starts and ends with death.  In between we follow Maggie Cardinal from the death of her father, time with Aunt Anne and Aunt Elizabeth and the religious community within which they are *held* also time with Martin Warlock and his family -- having a legacy started with James Warlock "a mystic, a visionary, a prophet" that had a belief in "God's plans" to "turn the world into a blazing coal so soon as he pleased."  The character of Maggie Cardinal drives this story forward throughout and is strong enough to make this long audio book worth the investment.  
+Librivox Summary:  
+>A story of alienation from the society which holds one captive, told from the standpoint of a young woman whose life is suddenly disrupted, leading her into a stumbling progression through constrained social cliques and frustrated romantic attachments, haunted by religious shadows. ([Summary by Peter Tucker](https://librivox.org/captives-by-hugh-walpole/))  
+
+</details>
+
+
 <details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
@@ -224,6 +329,22 @@ Reader's Notes:
 This is an interesting application of space-time science current in the mid-20th century via *popular* science fiction of the time.  
 Librivox Summary:  
 >A surprise nuclear war may cause the End of the World, but not the way anyone could have imagined. A classic science fiction tale from Galaxy Magazine. ([Summary by Mark Nelson](https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/))  
+
+</details>
+
+
+<details><summary>City of Endless Night. By Milo Hastings. 1920</summary>  
+
+### City of Endless Night. (09:40)  
+https://librivox.org/city-of-endless-night-by-milo-hastings/  
+Text: https://www.gutenberg.org/ebooks/9862  
+https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
+By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
+
+Reading Notes: The characters are unevenly developed.  The technology is clearly linked to what was 'normal' in the early 20th century though 230 years have passed.  But the story keeps moving and it is a pleasure listening to the reader, [Kate Follis](https://librivox.org/reader/11007?primary_key=11007&search_category=reader&search_page=1&search_form=get_results).  Finally, this story ends relatively abruptly -- almost ...'and then they lived happily ever after.'  Too bad.  
+
+Librivox Summary:  
+>An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
 
 </details>
 
@@ -312,6 +433,35 @@ turn her intelligence to politics and to see what makes her country tick. There 
 </details>
 
 
+<details><summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>
+
+### The Disciplinary Circuit.  (1:36)  
+https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
+Text: https://www.gutenberg.org/ebooks/69448  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)  
+
+Reader's Notes:  
+This juvenile/young adult science fiction explores the idea that *civilization* invented *the perfect* punishment system -- "*the Disciplinary Circuit*" that caused unbarable pain when applied.  The system could be applied to any targeted individual.  The author argues that any society where *the few* have the means of *perfect* control over *the many* results in terrible corruption and decay -- eventualy, self-destruction.  Leinster is optimistic, though, and has banished *criminals* rebuilding a *just* and society.  ...ignore much of the "*science*" and this may be worth its short run-time.  
+
+Librivox Summary:  
+>The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure.  The Council want only what is best for you and society.  Trust the council and the Disciplinary Circuit.  Good citizens are happy and obey.  You are a good citizen.  Aren't you? Of course you are. - Summary by [Phil Chenevert](https://librivox.org/the-disciplinary-circuit-by-murray-leinster/)  
+
+</details>
+
+
+<details><summary>Edward III. By William Parsons Warburton, 1908</summary>
+
+### Edward III (9:40)  
+https://librivox.org/edward-iii-by-william-warburton/  
+https://archive.org/details/in.ernet.dli.2015.86381  
+By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  Published 1908  
+
+Summary from Librivox:  
+>Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
+
+</details>
+
+
 <details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
@@ -323,6 +473,20 @@ Reader's Notes: This is a biography of [Joseph L. Meek](https://en.wikipedia.org
 
 Librivox Summary:  
 >This lively book follows the adventures of mountain man Joe Meek, from his joining the Rocky Mountain Fur Company trapping expedition in the year 1829 at the young age of 18, through his retirement from public life after serving as Marshall of Oregon Territory. Meek had close connections with many famous people of the era, such as Kit Carson, William and Milton Sublette, Jedediah Smith, Marcus and Narcissa Whitman, Dr. John McLaughlin, Oregon’s Governor Lane, and President James Polk. The author’s information came directly from interviews with Joe himself. She adds to his stories by recounting the surrounding events of the times along the way, providing an interesting way to pick up much information about the history of the Rocky Mountain region and the Oregon Territory. Meek was a tremendously colorful personality who traveled all over the wild west, and had numberless adventures. His endurance of hunger, thirst, exhaustion, and danger was legendary. Whether he was encountering bears, Indians, fellow trappers, missionaries, California gold miners, and even the president of the United States, he tells the story with humor and aplomb. Meek was always lively, often drunk, sometimes heroic, and certainly no saint. - ([Summary by Carol Pelster](https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/))  
+
+</details>
+
+
+<details><summary>The Fifth Queen.  By Ford Madox Ford.  1906-1908 </summary>
+
+### The Fifth Queen.  By Ford Madox Ford.  (7:36)  
+https://librivox.org/the-fifth-queen-by-ford-madox-ford/  
+Text: https://www.gutenberg.org/ebooks/30188  
+By [Ford Madox Ford](https://en.wikipedia.org/wiki/Ford_Madox_Ford) (1873 - 1939)  
+Reading Notes:  
+This is historical **fiction**.  It attempts to help us understand many of the characters that surrounded King Henry VIII.  While there may be facts upon which to base many of these characterizations, considerable effort and story-telling went into building out gaps in those facts.  With those caveats, enjoy the book.  I did.  
+Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen  
+>The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. ([Summary by Wikipedia](https://en.wikipedia.org/wiki/The_Fifth_Queen))  
 
 </details>
 
@@ -430,6 +594,37 @@ Summary from Librivox:
 </details>
 
 
+<details><summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
+
+### I Spy  (6:39)  
+https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
+Text: https://www.gutenberg.org/ebooks/9812  
+By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
+Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
+
+[Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
+>Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  
+
+</details>
+
+
+<details><summary>Imperium in Imperio: A Study of the Negro Race Problem. By Sutton Griggs, 1899</summary>
+
+### Imperium in Imperio: A Study of the Negro Race Problem (5:23)  
+https://librivox.org/imperium-in-imperio-by-sutton-griggs/  
+https://en.wikipedia.org/wiki/Imperium_in_Imperio  
+Text: https://gutenberg.org/ebooks/15454  
+By [Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
+
+See the [summary on Wikipedia](https://en.wikipedia.org/wiki/Imperium_in_Imperio)  
+Reading Notes:  Published in 1899, this seems like an important contribution to African American utopian literature.  This novel also incorporates a realistic spectrum of violence and racism experienced across the U.S. South.  If you can make it to the last hour of the recording, it also includes passionate arguments about the pursuit of political and economic justice.  Unfortunately, the audio book's reader has a flat, monotone presentation that is not a good match for the content of the text.  If you are able, it may be more enjoyable for many to just read the [text available on gutenburg.org](https://gutenberg.org/ebooks/15454).  
+
+Librivox Summary:  
+>Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, a highly educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
+
+</details>
+
+
 <details><summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>
 
 ### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
@@ -441,6 +636,25 @@ Reader's Notes: This is a story about a young French woman who in 1714 begs a "g
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot  
 
 </details>
+
+
+<details><summary>The Iron Heel. By Jack London. 1908</summary>
+
+### The Iron Heel. (08:17)  
+https://librivox.org/the-iron-heel-by-jack-london/  
+Text: https://www.gutenberg.org/etext/1164  
+https://en.wikipedia.org/wiki/The_Iron_Heel  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
+
+Reader's Notes:  
+This is a seriously-dystopian novel...  For some, it might be a useful reminder of their high school or college studies of late 19th and early 20th century social, economic and cultural struggles in the United States.  Its thumping Socialism (*and the fact that Jack London invested so much time in this story*) is a reminder of how it was, for a time, a real force in the U.S.  Written and published before 1909, it is also interesting to compare some of The Iron Heal content against the facts of American history through the 1930s.  London's overwrought prose about organized labor, mega-capitalists, and corruption throughout government institutions may make this novel radioactive for some.  
+
+[Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
+Librivox Summary:  
+>A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
+
+</details>
+
 
 <details><summary>Jane Austen's Sailor Brothers.  1906 </summary>
 
@@ -455,6 +669,19 @@ Everyone should know that this is an excellent reading/performance by [Bryn Robe
 
 Librivox Summary:  
 >"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
+
+</details>
+
+
+<details><summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
+
+### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
+https://librivox.org/kings-queens-and-pawns-by-mary-roberts-rinehart/  
+https://www.gutenberg.org/ebooks/14457  
+By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  Published 1915  
+
+Summary from Librivox:  
+>A personal account of the American author's visit to Europe in January 1915 while a war correspondent in Belgium for The Saturday Evening Post. She writes: "War is not two great armies meeting in a clash and frenzy of battle. It is much more than that. War is a boy carried on a stretcher, looking up at God's blue sky with bewildered eyes that are soon to close; war is a woman carrying a child that has been wounded by a shell; war is spirited horses tied in burning buildings and waiting for death; war is the flower of a race, torn, battered, hungry, bleeding, up to its knees in icy water; war is an old woman burning a candle before the Mater Dolorosa for the son she has given.  
 
 </details>
 
@@ -484,6 +711,21 @@ Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adv
 Throughout, the scene setup is just enough to create a skeletal environment so that the action, character development and dialog can keep the pace thumping along -- not timeless prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than what some called *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can dive in and have the author reveal character details throughout the story, this book might be a good fit.  Overall, the story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals unexpected abilities given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable-enough*" most of the time.  Close-quarter combat, governmental/military misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
 https://www.goodreads.com/book/show/53205794-the-last-watch  
 https://www.jsdewes.com/about  
+
+</details>
+
+
+<details><summary>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>
+
+### The Legion of Lazarus (2:38)  
+https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/ebooks/32486  (from '*Imagination*' April 1956)  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+
+Reader's Notes:  
+This is a *quick* story about the search for a very rare mineral in the asteroid belt in order to help finish the first *star-ship*.  [*Extrasensory perception* (ESP)](https://en.wikipedia.org/wiki/Extrasensory_perception) powers that are gained when convicted criminals are resuscitated after a 50-year '*death sentence*' (*served in space without any type of life support*) is completed are a foundational device used to drive this story forward.  If that is too much for you, this is not your short story.  
+Librivox Summary:  
+>Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
 
 </details>
 
@@ -526,6 +768,22 @@ This is great story!  Mid-1950s juvenile work farm inmates just free after doing
 
 GateNotes' Summary: [https://www.gatesnotes.com/The-Lincoln-Highway](https://www.gatesnotes.com/The-Lincoln-Highway)  
 Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the-lincoln-highway-review  
+
+</details>
+
+
+<details><summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>
+
+### The Man in the Panther's Skin (8:17)  
+https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/  
+Text: https://archive.org/details/WardropMps/page/n3/mode/2up  
+https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin  
+By [Shota Rustaveli](https://en.wikipedia.org/wiki/Shota_Rustaveli) (1172 - 1216)  
+Translated by Marjory Wardrop (1869 - 1909)  
+
+Reading Summary: I recommend reading the [Wikipedia background and overview](https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin) to provide some background.  This *epic poem* written in the middle ages Georgian empire is not represented in any category of my normal recreational reading or formal education and I was completely without context.  
+Librivox Summary:  
+>Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by *Beeswaxcandle*](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
 
 </details>
 
@@ -600,6 +858,38 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details><summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
+
+### Opening the West with Lewis and Clark (7:06)  
+https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
+Text: https://www.gutenberg.org/ebooks/64903  
+By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
+
+Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: There are issues of race in this story-telling, particularly Native American and Black stereotypes and derogatory terms.  
+
+Librivox Summary:  
+>One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
+
+</details>  
+
+
+<details><summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
+
+### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
+https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
+Text: https://www.gutenberg.org/ebooks/1561  
+By [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter) (1844 - 1929)  published 1921  
+
+Reading Notes:  This book is a bit of a slog and includes quite a bit of repetition.  Carpenter identifies common "religious" language and practices across time and across cultures.  He argues that Christianity is a recent iteration of an "ancient world-religion."  "In the case of Christianity the historical period has lasted nearly 2,000 years, and, as I say, we can hardly expect or wish that it should last much longer."  He sees a deterministic evolution of humanity -- whose psychological development necessitates the emergence of a new phase where "religion" will re-incorporate the natural world, including all communities of human beings (*as opposed to the current 'individualistic' phase*).  His arguements seemed to suggest that the insane waste represented WWI signaled the end of the current phase and announced the coming of the next.  
+QUOTE:  
+>"The whole futile and idiotic structure of commerce and industry in which we are now imprisoned springs from that falsehood of individualistic self-seeking which marks the second stage of human evolution. That stage is already tottering to its fall, destroyed by the very flood of egotistic passions and interests, of vanities, greeds, and cruelties, all warring with each other, which are the sure outcome and culmination of its operation. With the restoration of the sentiment of the Common Life, and the gradual growth of a mental attitude corresponding, there will emerge from the flood something like a solid earth--something on which it will be possible to build with good hope for the future. Schemes of reconstruction are well enough in their way, but if there is no ground of REAL HUMAN SOLIDARITY beneath, of what avail are they?"  
+
+Summary from Librivox:  
+>In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
+
+</details>
+
+
 <details><summary>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -611,6 +901,35 @@ Translated by [Vernon Kellogg](https://en.wikipedia.org/wiki/Vernon_Lyman_Kellog
 Reader's Notes:  This is an excellent broad history of Pierre Curie's life.  It is also a useful adjunct to any study of Marie Curie's life and science.  The reading by [Ciufi Galeazzi](https://librivox.org/reader/11528?primary_key=11528&search_category=reader&search_page=1&search_form=get_results) is also a joy and makes listening this interesting history an enjoyable experience...  
 Librivox Summary:  
 >This biography of the noted French physicist Pierre Curie was written by his wife, the renowned physicist Marie Curie. In it, she not only chronicles the scientific accomplishments of her husband, but also provides unique insight into his family life and personality. The book concludes with a four chapter autobiography of the author. - ([Summary by Ciufi Galeazzi](https://librivox.org/pierre-curie-by-marie-curie/))  
+
+</details>
+
+
+<details><summary>A Political Pilgrim in Europe. By Ethel Snowden, Viscountess Snowden, 1921</summary>
+
+### A Political Pilgrim in Europe  (9:34)  
+https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
+Text: https://www.gutenberg.org/ebooks/68238/  
+By [Ethel Snowden, Viscountess Snowden](https://en.wikipedia.org/wiki/Ethel_Snowden) (1881 - 1951)  published 1921  
+
+Reading Notes:  Snowden invests quite a bit of time in describing or just mentioning by name individuals she met or just saw in her travels.  Not being sufficiently well read on this period, I assume that I was unable to draw some of the context that these mentions may have for others (*my being unwilling to research each one of these personalities*).  That said, her descriptions of what she saw and heard of conditions around Europe in the years following WWI provide some depth and color missing from many formal WWI *Histories*.  Snowden also appears to incorporate a heavy load of 19th century wealthy-ruling-class culture -- which, I think, should be considered when reading or listening to her observations and analysis.  It is difficult to understand her noted *pacifism* with her acceptance of (*almost justification of*) the socialist/communist terrorism engulfing Russia at the time.  Snowden's analysis of and hopes for Communist Russia during these murderous years support Galeazzi's summary below  -- that "Snowden was a controversial and polarizing figure."  
+Summary from Librivox:  
+>Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
+
+</details>
+
+
+<details><summary>Preferred Risk. By Frederik Pohl, 1955</summary>
+
+### Preferred Risk (06:26)  
+https://librivox.org/preferred-risk-by-frederik-pohl/  
+Text: https://www.gutenberg.org/ebooks/51814  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
+
+Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  NOTE: There are issues of race/ethnicity in "Preferred Risk", particularly Italian stereotypes and derogatory terms.  
+
+Librivox Summary:  
+>The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
 
 </details>
 
@@ -670,6 +989,36 @@ By [George Bernard Shaw](https://en.wikipedia.org/wiki/George_Bernard_Shaw) (185
 Reading Notes:  If you have even a microscopic interest in 'Saint Joan' or Middle Ages France, this seems like an excellent little book (*maybe just an essay*).  It assumes that the reader understands some about mid-20th century Brittan and New York, but is still a pleasure in relative ignorance of both.  The reading by David Wales is a perfect match.  
 Summary from Librivox:  
 >Saint Joan is a play by George Bernard Shaw about 15th-century French military figure Joan of Arc. Premiering in 1923, three years after her canonization by the Roman Catholic Church, the play reflects Shaw's belief that the people involved in Joan's trial acted according to what they thought was right. He wrote in his preface to the play: “There are no villains in the piece. Crime, like disease, is not interesting: it is something to be done away with by general consent, and that is all [there is] about it. It is what men do at their best, with good intentions, and what normal men and women find that they must and will do in spite of their intentions, that really concern us.” (Wikipedia) Modern British author, critic, poet, and broadcaster Clive James, commenting on a book that changed his mind, wrote: “George Bernard Shaw, his preface to Saint Joan. Reading that wonderful stretch of prose started me on the road to a more human version of Christianity: a road I like to think that I am still pursuing.” (The Guardian, 5 October 2019) [Summary by Wikipedia and David Wales](https://librivox.org/saint-joan-preface-by-george-bernard-shaw/)  
+
+</details>  
+
+
+<details><summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
+
+### Scientific American Supplement, No. 492, June 6, 1885  (4:29)  
+https://librivox.org/scientific-american-suppl492-june-6-1885/  
+Text: https://www.gutenberg.org/ebooks/12490  
+Reading Notes:  
+This is an unusual view into some of what was interesting to a subset of Americans in 1885.  It is not for everyone.  
+
+Librivox Summary:  
+>The Scientific American may be the oldest continuously published periodical in the United States, havinge launched its first publication in 1845. It has been a mainstay of popular science with in depth articles across a broad spectrum of scientific fields. In this supplement are short articles ranging through such topics as Pumping Machinery, The Distillation of Sea Water, Winter and the Insects, Silk Worm Eggs, and The Casino at Monte Carlo. - [Summary by Larry Wilson](https://librivox.org/scientific-american-suppl492-june-6-1885/)  
+
+</details>
+
+
+<details><summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
+
+### Sentimental Education (17:11)  
+https://librivox.org/sentimental-education-by-gustave-flaubert/  
+https://en.wikipedia.org/wiki/Sentimental_Education  
+Text: [Vol 1](https://www.gutenberg.org/ebooks/34828) and [Vol 2](https://www.gutenberg.org/ebooks/27537)  
+By [Gustave Flaubert](http://en.wikipedia.org/wiki/Gustave_Flaubert) (1821 - 1880)  
+
+Reader Notes:  This book seems longer than necessary.  Other than that, it was useful background entertainment while house-cleaning and yard work.  
+
+Librivox Summary:  
+>Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
 
 </details>  
 
@@ -804,421 +1153,40 @@ Summary:
 
 </details>
 
-=====
 
-
-<details>
-<summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
-
-### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
-https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
-Text: https://www.gutenberg.org/ebooks/42459   
-By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) and [1911 census info](https://www.findmypast.co.uk/1911-census/laurence-ayscough-clarke-rg14/00597/0099/1-546d1f6b-9fd1-45be-8c7b-c0d7e4bf353c) and [family tree](https://www.ancestry.com/genealogy/records/laurence-ayscough-clarke-24-21rqnpz)  (1873 - 1942)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife and his father could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
-Librivox Summary:  
->What has Manton gotten himself into? His impersonation has broader implications -- and more dangerous ones -- than he had imagined. - ([Summary by David Wales](https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/))  
-
-</details>
-</details>
-
-<details>
-<summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
-
-### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
-https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
-Text: https://www.gutenberg.org/ebooks/1561  
-By [Edward Carpenter](https://en.wikipedia.org/wiki/Edward_Carpenter) (1844 - 1929)  published 1921  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes:  This book is a bit of a slog and includes quite a bit of repetition.  Carpenter identifies common "religious" language and practices across time and across cultures.  He argues that Christianity is a recent iteration of an "ancient world-religion."  "In the case of Christianity the historical period has lasted nearly 2,000 years, and, as I say, we can hardly expect or wish that it should last much longer."  He sees a deterministic evolution of humanity -- whose psychological development necessitates the emergence of a new phase where "religion" will re-incorporate the natural world, including all communities of human beings (*as opposed to the current 'individualistic' phase*).  His arguements seemed to suggest that the insane waste represented WWI signaled the end of the current phase and announced the coming of the next.  
-QUOTE:  
->The whole futile and idiotic structure of commerce and industry in which we are now imprisoned springs from that falsehood of individualistic self-seeking which marks the second stage of human evolution. That stage is already tottering to its fall, destroyed by the very flood of egotistic passions and interests, of vanities, greeds, and cruelties, all warring with each other, which are the sure outcome and culmination of its operation. With the restoration of the sentiment of the Common Life, and the gradual growth of a mental attitude corresponding, there will emerge from the flood something like a solid earth--something on which it will be possible to build with good hope for the future. Schemes of reconstruction are well enough in their way, but if there is no ground of REAL HUMAN SOLIDARITY beneath, of what avail are they?  
-
-Summary from Librivox:  
->In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
-
-</details>
-</details>
-
-<details>
-<summary>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>  
-
-### The Legion of Lazarus (2:38)  
-https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/  
-Text: https://www.gutenberg.org/ebooks/32486  (from '*Imagination*' April 1956)  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)    
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This is a *quick* story about the search for a very rare mineral in the asteroid belt in order to help finish the first *star-ship*.  [*Extrasensory perception* (ESP)](https://en.wikipedia.org/wiki/Extrasensory_perception) powers that are gained when convicted criminals are resuscitated after a 50-year '*death sentence*' (*served in space without any type of life support*) is completed are a foundational device used to drive this story forward.  If that is too much for you, this is not your short story.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Those convicted of the most heinous crimes are sentenced to the Humane Penalty: they are ejected from the airlock of a ship, to freeze in the icy chill of outer space. Death is instantaneous. But in some cases, not permanent. - [Summary by Peter Eastman](https://librivox.org/the-legion-of-lazarus-by-edmond-hamilton/)  
-
-</details>
-</details>
-
-<details>
-<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
-
-### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
-https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
-By [various]()  
-<details>
-<summary> Librivox Summary:</summary>  
-
->These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
-
-</details>
-</details>
-
-<details>
-<summary>A Political Pilgrim in Europe. By Ethel Snowden, Viscountess Snowden, 1921</summary>
-
-### A Political Pilgrim in Europe  (9:34)  
-https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/  
-Text: https://www.gutenberg.org/ebooks/68238/  
-By [Ethel Snowden, Viscountess Snowden](https://en.wikipedia.org/wiki/Ethel_Snowden) (1881 - 1951)  published 1921  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes:  Snowden invests quite a bit of time in describing or just mentioning by name individuals she met or just saw in her travels.  Not being sufficiently well read on this period, I assume that I was unable to draw some of the context that these mentions may have for others (*my being unwilling to research each one of these personalities*).  That said, her descriptions of what she saw and heard of conditions around Europe in the years following WWI provide some depth and color missing from many formal WWI *Histories*.  Snowden also appears to incorporate a heavy load of 19th century wealthy-ruling-class culture -- which, I think, should be considered when reading or listening to her observations and analysis.  It is difficult to understand her noted *pacifism* with her acceptance of (*almost justification of*) the socialist/communist terrorism engulfing Russia at the time.  Snowden's analysis of and hopes for Communist Russia during these murderous years support Galeazzi's summary below  -- that "Snowden was a controversial and polarizing figure."  
-Summary from Librivox:  
->Written in the aftermath of Word War I, Viscountess Snowden recounts her travels in post war Europe in, as she describes it, "an attempt to do what one person might do, or at least attempt, to restore good feeling between the nations and the normal course of life as quickly as possible." An outspoken pacifist, socialist, and feminist who nonetheless strongly denounced the Bolsheviks, Snowden was a controversial and polarizing figure. whose views and observations offer a unique perspective on Europe in the '20s. [Summary by Ciufi Galeazzi](https://librivox.org/a-political-pilgrim-in-europe-by-mrs-philip-snowden/)  
-
-</details>
-</details>
-
-<details>
-<summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
-
-### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
-https://librivox.org/kings-queens-and-pawns-by-mary-roberts-rinehart/  
-https://www.gutenberg.org/ebooks/14457  
-By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  Published 1915  
-Summary from Librivox:  
->A personal account of the American author's visit to Europe in January 1915 while a war correspondent in Belgium for The Saturday Evening Post. She writes: "War is not two great armies meeting in a clash and frenzy of battle. It is much more than that. War is a boy carried on a stretcher, looking up at God's blue sky with bewildered eyes that are soon to close; war is a woman carrying a child that has been wounded by a shell; war is spirited horses tied in burning buildings and waiting for death; war is the flower of a race, torn, battered, hungry, bleeding, up to its knees in icy water; war is an old woman burning a candle before the Mater Dolorosa for the son she has given.  
-
-</details>
-
-<details>
-<summary>The Age of Elizabeth. By Mandell Creighton. 1876</summary>  
-
-### The Age of Elizabeth. (07:35)  
-https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/  
-Text: https://archive.org/details/ageelizabeth07creigoog  
-By [Mandell Creighton](https://en.wikipedia.org/wiki/Mandell_Creighton)  (1843 - 1901)  
-<details>
-<summary>Reader Notes and Librivox Summary:</summary>  
-
-Reader Notes:  
-This book invests a lot of effort in establishing some of the context surrounding the reign of Queen Elizabeth.  These include, but are not limited to: The evolution of religion in Germany, England, France, Spain, the Netherlands and the rise of Protestantism.  Catholic reaction to these changes.  France, England, and Scotland.  Key personalities involved.  The Jesuits, and more.  It was an enjoyable listen and I *learned* a lot.  The author builds a confident narrative throughout.  But it is important to keep in mind that this book was published in 1875, and more current examinations of this period may build varying narratives...  
-Librivox Summary:  
->This short history by the eminent British historian, Mandell Creighton, places Elizabeth and her reign within the context of 16th century European political, religious, and military events. Elizabeth overcomes her two great rivals, King Philip of Spain and Mary, Queen of Scots. England gradually unites behind her Queen, who survives multiple assassination plots. After the defeat of the Spanish Armada, the English, lightly taxed by their frugal sovereign, launch flourishing commerce enterprises. The author writes of the Protestant Reformation that "a change of belief meant a revolt from authority." In this age of individualism, personal daring, and a consciousness of national greatness, the golden age of Elizabethan literature breaks new ground in historiography, literary theory, poetry, and above all, drama. - ([Summary by Pamela Nagami, M.D.](https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/))  
-
-</details>
-</details>
-
-<details>
-<summary>William the Third.  1888 </summary>  
-
-### William the Third. (6:21)  
-https://librivox.org/william-the-third-by-henry-duff-traill/  
-Text: https://archive.org/details/williamthird00traigoog  
-By [Henry Duff Traill](https://en.wikipedia.org/wiki/Henry_Duff_Traill) (1842 - 1900)    
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes: This seems like a well-researched (*for 1888*) biography of William III (AKA William of Orange, 1650-1702) and (*with excellent reading*) it was an enjoyable experience.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->William Henry, Prince of Orange and Nassau, Dutch William to the English, was born in a state threatened by the military ambitions of Louis XIV. “Reared from his very cradle amid the animosities of contending factions,” Traill writes, “the young Prince learned early those four lessons of statecraft,—to conceal his designs, to watch his opportunities, to choose his instruments, and to bide his time.” The Dutch Republic, distrustful of monarchs, reluctantly chose him as stadtholder to lead their armies, and then, after the overthrow of James II in 1688, he became with his consort, Mary, England’s king. ([Summary by Pamela Nagami, M.D.](https://librivox.org/william-the-third-by-henry-duff-traill/))  
-Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_of_England  
-</details>
-</details>
-
-<details>
-<summary>Edward III. By William Parsons Warburton, 1908</summary>
-
-### Edward III (9:40)  
-https://librivox.org/edward-iii-by-william-warburton/  
-https://archive.org/details/in.ernet.dli.2015.86381  
-By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  Published 1908  
-Summary from Librivox:  
->Edward III reigned for fifty years, from 1327 to 1377. William Warburton writes that "the backbone of the story of his reign and times is the great Continental war...He was a genuine Englishman in his rough and ready, and often incoherent policy; in his contempt for foreigners and his audacious confidence in himself and his countrymen; in his love of manly exertion; his personal pride and popular sympathies, and his freedom from lasting enmity and vindictiveness...It is in vain for cold reason to contend against the spell of the names of Creci and Poitiers; they will forever stir the English heart like the blast of a trumpet or the rustle of a consecrated banner; but these battles are not, after all, the true titles of the age to honour. Searching deeper down we shall find, and thankfully admit, that the century was one not of conquest, but of transition, development, emancipation, and characterised by a silent and gradual contraction of the area of privilege, and a corresponding enlargement of the area of liberty." ([Summary](https://librivox.org/edward-iii-by-william-warburton/) by Pamela Nagami, M.D.)  
-
-</details>
-
-<details>
-<summary>The Captives. By Hugh Walpole.  1920 </summary>  
-
-### The Captives.  (17:03)  
-https://librivox.org/captives-by-hugh-walpole/  
-Text: https://www.gutenberg.org/ebooks/3601  
-By [Hugh Walpole](http://en.wikipedia.org/wiki/Hugh_Walpole) (1884 - 1941)  
-Reading Notes:  
-Prepare yourself.  This was a seriously dark book.  It starts and ends with death.  In between we follow Maggie Cardinal from the death of her father, time with Aunt Anne and Aunt Elizabeth and the religious community within which they are *held* also time with Martin Warlock and his family -- having a legacy started with James Warlock "a mystic, a visionary, a prophet" that had a belief in "God's plans" to "turn the world into a blazing coal so soon as he pleased."  The character of Maggie Cardinal drives this story forward throughout and is strong enough to make this long audio book worth the investment.  
-Librivox Summary:  
->A story of alienation from the society which holds one captive, told from the standpoint of a young woman whose life is suddenly disrupted, leading her into a stumbling progression through constrained social cliques and frustrated romantic attachments, haunted by religious shadows. ([Summary by Peter Tucker](https://librivox.org/captives-by-hugh-walpole/))  
-
-</details>
-
-<details>
-<summary>The Iron Heel. By Jack London. 1908</summary>  
-
-### The Iron Heel. (08:17)  
-https://librivox.org/the-iron-heel-by-jack-london/  
-Text: https://www.gutenberg.org/etext/1164  
-https://en.wikipedia.org/wiki/The_Iron_Heel  
-By [Jack London](https://en.wikipedia.org/wiki/Jack_London)  (1876 - 1916)  
-
-<details>
-<summary>Reader's Notes and 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-This is a seriously-dystopian novel...  For some, it might be a useful reminder of their high school or college studies of late 19th and early 20th century social, economic and cultural struggles in the United States.  Its thumping Socialism (*and the fact that Jack London invested so much time in this story*) is a reminder of how it was, for a time, a real force in the U.S.  Written and published before 1909, it is also interesting to compare some of The Iron Heal content against the facts of American history through the 1930s.  London's overwrought prose about organized labor, mega-capitalists, and corruption throughout government institutions may make this novel radioactive for some.  
-
-3rd Party Summaries:  
-[Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
-Librivox Summary:  
->A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
-
-</details>
-</details>
-
-<details>
-<summary>Victory.  By Lester del Rey.  1955 </summary>  
+<details><summary>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/  
 Text: https://www.gutenberg.org/ebooks/24196  
-
 By [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
 This is a supremely cynical story that seems to be as much about the USA in the 1950s as it about a star-hopping mercenary and his bosses.  
-Librivox and Other 3rd Party Summaries:  
+
 Librivox Summary:  
 >The earth is undefended. A ripe, juicy, rich plum just innocently waiting for one of the many new and warlike civilizations in the nearby universe to reach down and pluck to plunder and rape. Well... undefended can mean many things. In this case, humans have colonized many worlds and found many surprisingly human like races among the stars. But when these human colonies are threatened and even viciously attacked by really alien civilizations, earth does nothing to help them. Earth, fat, rich earth sits back and lets her own colonies be practically wiped out, claiming a neutrality that seems a thin veil for cowardice and deceit. How this happens and the story behind the story is what this exciting story is all about. ([Summary by phil chenevert](https://librivox.org/victory-by-lester-del-rey-2/))  
 
 </details>
-</details>
 
-<details>
-<summary>The Fifth Queen.  By Ford Madox Ford.  1906-1908 </summary>
 
-### The Fifth Queen.  By Ford Madox Ford.  (7:36)  
-https://librivox.org/the-fifth-queen-by-ford-madox-ford/  
-Text: https://www.gutenberg.org/ebooks/30188  
-By [Ford Madox Ford](https://en.wikipedia.org/wiki/Ford_Madox_Ford) (1873 - 1939)  
-Reading Notes:  
-This is historical **fiction**.  It attempts to help us understand many of the characters that surrounded King Henry VIII.  While there may be facts upon which to base many of these characterizations, considerable effort and story-telling went into building out gaps in those facts.  With those caveats, enjoy the book.  I did.  
-Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen  
->The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. ([Summary by Wikipedia](https://en.wikipedia.org/wiki/The_Fifth_Queen))  
+<details><summary>William the Third.  1888 </summary>
 
-</details>
+### William the Third. (6:21)  
+https://librivox.org/william-the-third-by-henry-duff-traill/  
+Text: https://archive.org/details/williamthird00traigoog  
+By [Henry Duff Traill](https://en.wikipedia.org/wiki/Henry_Duff_Traill) (1842 - 1900)  
 
-<details>
-<summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
+Reader's Notes: This seems like a well-researched (*for 1888*) biography of William III (AKA William of Orange, 1650-1702) and (*with excellent reading*) it was an enjoyable experience.  
 
-### Sentimental Education (17:11)  
-https://librivox.org/sentimental-education-by-gustave-flaubert/  
-https://en.wikipedia.org/wiki/Sentimental_Education  
-Text: [Vol 1](https://www.gutenberg.org/ebooks/34828) and [Vol 2](https://www.gutenberg.org/ebooks/27537)  
-By [Gustave Flaubert](http://en.wikipedia.org/wiki/Gustave_Flaubert) (1821 - 1880)  
 Librivox Summary:  
->Sentimental Education (French: L'Éducation sentimentale, 1869) is a novel by Gustave Flaubert, that is considered one of the most influential novels of the 19th century. The story focuses on the romantic life of a young man at the time of the French Revolution of 1848. [Summary by Wikipedia](https://en.wikipedia.org/wiki/Sentimental_Education)  
-
-</details>  
-
-<details>
-<summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
-
-### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
-https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
-Text: https://www.gutenberg.org/ebooks/58184  
-By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%C3%A9tis) (1784 - 1871)   
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes: If you are interested in the history of violin, viola or guitar, or of Nicolo Paganini, this may be a useful and enjoyable book.  
-Librivox Summary:  
->Niccolò (or Nicolò) Paganini (1782 – 1840) was an Italian violinist, violist, guitarist, and composer. He was the most celebrated violin virtuoso of his time, and left his mark as one of the pillars of modern violin technique. François-Joseph Fétis (1784 – 1871) was a Belgian musicologist, composer, teacher, and one of the most influential music critics of the 19th century. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
-
-</details>
-</details>
-
-<details>
-<summary>Auguste Rodin.  By Rainer Maria Rilke.  1919</summary>  
-
-### Auguste Rodin. (1:53)  
-https://librivox.org/auguste-rodin-by-rainer-maria-rilke/  
-Text: https://www.gutenberg.org/ebooks/45605  
-Reference: https://en.wikipedia.org/wiki/Auguste_Rodin
-By [Rainer Maria Rilke](https://en.wikipedia.org/wiki/Rainer_Maria_Rilke) (1875 - 1926)  
-Translated by [Jessie Lemont](https://en.wikisource.org/wiki/Author:Jessie_Lemont) (1862 - 1947)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes:  This is not a traditional biography.  It is worth a couple hours while pulling weeds, gardening, dusting, etc. but I cannot recommend it to anyone wanting a 'traditional' biography of Rodin or a review of his artistic work.   
-Librivox Summary:  
->Rodin has pronounced Rilke's essay the supreme interpretation of his work. (From the translators' Preface)  
-
->Auguste Rodin, 1840-1917, was a French sculptor. Although Rodin is generally considered the progenitor of modern sculpture, he did not set out to rebel against the past. He was schooled traditionally, took a craftsman-like approach to his work, and desired academic recognition, although he was never accepted into Paris's foremost school of art. Sculpturally, Rodin possessed a unique ability to model a complex, turbulent, deeply pocketed surface in clay. … Rodin… modeled the human body with realism, and celebrated individual character and physicality. From the unexpected realism of his first major figure… to the unconventional memorials whose commissions he later sought, Rodin's reputation grew, such that he became the preeminent French sculptor of his time. By 1900, he was a world-renowned artist.  
-
->Rainer Maria Rilke (1875-1926) was a Bohemian-Austrian poet and novelist, "widely recognized as one of the most lyrically intense German-language poets", writing in both verse and highly lyrical prose. Several critics have described Rilke's work as inherently "mystical"…. [Rilke's] encounter with modernism was very stimulating: Rilke became deeply involved in the sculpture of Rodin, and then with the work of Paul Cézanne. For a time he acted as Rodin's secretary, also lecturing and writing a long essay on Rodin and his work. Rodin taught him the value of objective observation… - ([Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284))  
-
-</details>
-</details>
-
-<details>
-<summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>  
-
-### The Man in the Panther's Skin (8:17)  
-https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/  
-Text: https://archive.org/details/WardropMps/page/n3/mode/2up  
-https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin  
-By [Shota Rustaveli](https://en.wikipedia.org/wiki/Shota_Rustaveli) (1172 - 1216)  
-Translated by Marjory Wardrop (1869 - 1909)  
-<details>
-<summary>Reading and Librivox Summary:</summary>  
-
-Reading Summary: I recommend reading the [Wikipedia background and overview](https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin) to provide some background.  This *epic poem* written in the middle ages Georgian empire is not represented in any category of my normal recreational reading or formal education and I was completely without context.  
-Librivox Summary:  
->Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by *Beeswaxcandle*](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
-
-</details>
-</details>
-
-<details>
-<summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>  
-
-### The Disciplinary Circuit.  (1:36)  
-https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
-Text: https://www.gutenberg.org/ebooks/69448  
-By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)  
-<details>  
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-This juvenile/young adult science fiction explores the idea that *civilization* invented *the perfect* punishment system -- "*the Disciplinary Circuit*" that caused unbarable pain when applied.  The system could be applied to any targeted individual.  The author argues that any society where *the few* have the means of *perfect* control over *the many* results in terrible corruption and decay -- eventualy, self-destruction.  Leinster is optimistic, though, and has banished *criminals* rebuilding a *just* and society.  ...ignore much of the "*science*" and this may be worth its short run-time.  
-Librivox Summary:  
->The Disciplinary Circuit is watching you. Always watching that your thoughts are correct and pure.  The Council want only what is best for you and society.  Trust the council and the Disciplinary Circuit.  Good citizens are happy and obey.  You are a good citizen.  Aren't you? Of course you are. - Summary by [Phil Chenevert](https://librivox.org/the-disciplinary-circuit-by-murray-leinster/)  
-
-</details>
-</details>
-
-<details>
-<summary>Preferred Risk. By Frederik Pohl, 1955</summary>
-
-### Preferred Risk (06:26)  
-https://librivox.org/preferred-risk-by-frederik-pohl/  
-Text: https://www.gutenberg.org/ebooks/51814  
-By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  NOTE: There are issues of race/ethnicity in "Preferred Risk", particularly Italian stereotypes and derogatory terms.  
-Librivox Summary:  
->The Company insures you against everything. Everything except war, that is. But they've put an end to wars (or so they claim). The Company also controls everything. Including all the sources of weapons. The Company is dedicated to the happiness of mankind (or so they claim). Medical Treatment and Law Enforcement are just a few of the other services they provide to the entire world. Claims Adjuster Wills was a happy Company employee until his path crossed those of a man with no legs and a mysterious woman. All of a sudden, his world was turned upside down, and his decisions could determine the future of the planet. This collaborative work was originally published under the pseudonym Edson McCann. It was the winner of the 1955 Galaxy-Simon & Schuster novel contest. [Summary by Nick Bulka](https://librivox.org/preferred-risk-by-frederik-pohl/)  
-
-</details>
-</details>
-
-<details>
-<summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
-
-### Scientific American Supplement, No. 492, June 6, 1885  (4:29)  
-https://librivox.org/scientific-american-suppl492-june-6-1885/  
-Text: https://www.gutenberg.org/ebooks/12490  
-Reading Notes:  
-This is an unusual view into some of what was interesting to a subset of Americans in 1885.  
-Librivox Summary:  
->The Scientific American may be the oldest continuously published periodical in the United States, havinge launched its first publication in 1845. It has been a mainstay of popular science with in depth articles across a broad spectrum of scientific fields. In this supplement are short articles ranging through such topics as Pumping Machinery, The Distillation of Sea Water, Winter and the Insects, Silk Worm Eggs, and The Casino at Monte Carlo. - [Summary by Larry Wilson](https://librivox.org/scientific-american-suppl492-june-6-1885/)  
+>William Henry, Prince of Orange and Nassau, Dutch William to the English, was born in a state threatened by the military ambitions of Louis XIV. “Reared from his very cradle amid the animosities of contending factions,” Traill writes, “the young Prince learned early those four lessons of statecraft,—to conceal his designs, to watch his opportunities, to choose his instruments, and to bide his time.” The Dutch Republic, distrustful of monarchs, reluctantly chose him as stadtholder to lead their armies, and then, after the overthrow of James II in 1688, he became with his consort, Mary, England’s king. ([Summary by Pamela Nagami, M.D.](https://librivox.org/william-the-third-by-henry-duff-traill/))  
+Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_of_England  
 
 </details>
 
-<details>
-<summary>Imperium in Imperio: A Study of the Negro Race Problem. By Sutton Griggs, 1899</summary>
 
-### Imperium in Imperio: A Study of the Negro Race Problem (5:23)  
-https://librivox.org/imperium-in-imperio-by-sutton-griggs/  
-https://en.wikipedia.org/wiki/Imperium_in_Imperio  
-Text: https://gutenberg.org/ebooks/15454  
-By [Sutton Griggs](https://en.wikipedia.org/wiki/Sutton_E._Griggs) (1872 - 1933)  
-See the [summary on Wikipedia](https://en.wikipedia.org/wiki/Imperium_in_Imperio)  
-Reading Notes:  Published in 1899, this seems like an important contribution to African American utopian literature.  This novel also incorporates a realistic spectrum of violence and racism experienced across the U.S. South.  If you can make it to the last hour of the recording, it also includes passionate arguments about the pursuit of political and economic justice.  Unfortunately, the audio book's reader has a flat, monotone presentation that is not a good match for the content of the text.  If you are able, it may be more enjoyable for many to just read the [text available on gutenburg.org](https://gutenberg.org/ebooks/15454).  
-Librivox Summary:  
->Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, a highly educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
-
-</details>
-
-<details>
-<summary>Blake of the "Rattlesnake." By Frederick Thomas Jane, 1895</summary>
-
-### Blake of the "Rattlesnake"  (5:21)  
-https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
-https://archive.org/details/blakerattlesnak00janegoog  
-By [Frederick Thomas Jane](https://en.wikipedia.org/wiki/Fred_T._Jane) (1865 - 1916)  Published 1895    
-Summary from Librivox:  
->Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
-
-</details>
-
-<details>
-<summary>City of Endless Night. By Milo Hastings. 1920</summary>  
-
-### City of Endless Night. (09:40)  
-https://librivox.org/city-of-endless-night-by-milo-hastings/  
-Text: https://www.gutenberg.org/ebooks/9862  
-https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
-By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes: The characters are unevenly developed.  The technology is clearly linked to what was 'normal' in the early 20th century though 230 years have passed.  But the story keeps moving and it is a pleasure listening to the reader, [Kate Follis](https://librivox.org/reader/11007?primary_key=11007&search_category=reader&search_page=1&search_form=get_results).  Finally, this story ends relatively abruptly -- almost ...'and then they lived happily ever after.'  Too bad.  </br>.  
-Librivox Summary:  
->An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
-
-</details>
-</details>
-
-<details>
-<summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
-
-### Opening the West with Lewis and Clark (7:06)  
-https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
-Text: https://www.gutenberg.org/ebooks/64903  
-By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: There are issues of race in this story-telling, particularly Native American and Black stereotypes and derogatory terms.  
-Librivox Summary:  
->One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
-
-</details>  
-</details>  
-
-<details>
-<summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
-
-### I Spy  (6:39)  
-https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
-Text: https://www.gutenberg.org/ebooks/9812  
-By [Natalie Sumner Lincoln](https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln) (1881 - 1935)  published 1916  
-Reading notes: This is a *thin* story with mostly *wooden* characters, with just enough forward motion to keep me a little engaged (*while doing yard work and house work*).  Its main value may be how it expresses some types of war-time anxiety early in WWI.  It may not be worth your time, as there are so many other good books...  
-[Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
->Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  
-
-</details>
+=====
 
 <details><summary>Search the Sky. By Frederik Pohl, 1956</summary>
 
@@ -1513,7 +1481,7 @@ https://www.overdrive.com/media/134428/the-blood-of-flowers
 By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 - _)  
 Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
 
-Reader Notes: I had to return this book after listening to 3:26 (26% of the total).  By that time I underestood enough that I will return to it someday.  
+Reader Notes: I had to return this book after listening to 3:26 (26% of the total).  By that time I understood enough about the writing and the story that I will return to it someday.  
 GoodReads Summaries: https://www.goodreads.com/book/show/348632.The_Blood_of_Flowers#CommunityReviews  
 From the [Author's Summary](http://anitaamirrezvani.com/bloodofflowers.html):  
 >"In seventeenth century Iran, a spirited village girl of fourteen approaches the age of marriage, only to find her destiny shattered by the ominous prophecies that follow a fiery comet blazing across the desert sky. Confronted with the unexpected death of her beloved father and without prospects for gathering a dowry, the young woman and her distraught mother are forced into a difficult new life in the fabled city of Isfahan. Taken in as house servants by her distant uncle Gostaham, a well-to-do carpet designer, and his demanding wife, the two women confront an unforgiving world where their very survival requires strength and resilience beyond their most dire expectations."  
