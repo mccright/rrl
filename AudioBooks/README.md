@@ -3,6 +3,22 @@
 
 ## Completed:  
 
+<details><summary>Advance Agent. By Christopher Anvil.  1957</summary>
+
+### Advance Agent.  (1:20)  
+https://librivox.org/advance-agent-by-christopher-anvil/  
+Text: https://gutenberg.org/ebooks/51273  
+By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
+(published in "Galaxy Science Fiction." February 1957)  
+
+Reader's Notes:  
+This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
+Librivox Summary:  
+>Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
+
+</details>
+
+
 <details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
@@ -94,6 +110,38 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Best Church Hymns. 1898</summary>
+
+### The Best Church Hymns. (1:38)  
+https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
+Text: https://archive.org/details/bestch00bens  
+Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
+By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
+
+Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
+Librivox Summary:  
+>This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+
+
+<details><summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>
+
+### The Book of Tea.  (2:09)  
+https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
+Text: https://www.gutenberg.org/ebooks/769  
+By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
+
+Reader's Notes:  
+This is an interesting book.  See the Wikipedia and Teixeria reviews below...  
+Librivox Summary:  
+>The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author's first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
+Review by Leo Teixeira: https://teixeiras.medium.com/live-in-the-present-with-the-ancient-tradition-of-teaism-ef5016b429cc  
+
+</details>
+
+
 <details><summary>The Book Woman of Troublesome Creek, By Kim Michele Richardson. 2019 </summary>
 
 ### The Book Woman of Troublesome Creek. (9:26)  
@@ -104,6 +152,22 @@ By [Kim Michele Richardson](https://en.wikipedia.org/wiki/Kim_Michele_Richardson
 
 Reading Notes:  This is another period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its (*mostly*) female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians). [There is another of these in this list. See [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below.]  The story follows Cussy Mary Carter, aka "Bluet," one of the "blue-skinned" people of Kentucky [see [Blue Fugates](https://en.wikipedia.org/wiki/Blue_Fugates) to learn more], whose skin appears blue due to [a rare genetic disorder - methemoglobinemia](https://en.wikipedia.org/wiki/Methemoglobinemia), as she serves her library clients in the isolated hills/mountains around Troublesome Creek.  This is complicated by the fact that she is considered "colored" and shunned by the white community and she understands that many types of *offences* could result in the [lynching](https://en.wikipedia.org/wiki/Lynching) of her or her father.  In 1936 she is 19 years old and her sick, coal miner father wants to marry her to a local (*almost any local*) before he dies.  A couple members of a large local clan end up dead in circumstances that are tied to the Carters and the local "Doc" promises to help them if Bluet will participate in some medical testing at a hospital in Lexington. Th testing leads to "treatment" for Cussy Mary which renders her skin temporarily "white." This treatment involves side-effects that interfere with Bluet's library duties, and Bluet's  experience as "white," and "normal", does not change the local's prejudice against her. The story brings us into the lives of a collection of poor, rural, isolated Eastern Kentucky resident's lives, and like [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below this story evolves from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
 Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek](https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek)  
+
+</details>
+
+
+<details><summary>The Brain.  By Edmond Hamilton.  1948 </summary>
+
+### The Brain. (5:57)  
+https://librivox.org/the-brain-by-edmond-hamilton/  
+Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
+By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
+
+Reader's Notes:  
+In the context of the current AI mania, this story may resonate for some...  
+
+Librivox Summary:  
+>A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
 
 </details>
 
@@ -242,7 +306,8 @@ By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918
 
 Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
->"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+>"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to 
+turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
 
 </details>
 
@@ -275,6 +340,22 @@ Reading Notes: (*see 'Triplanetary' below*)
 </details>
 
 
+<details><summary>The Freelands. By John Galsworthy. 1914 </summary>
+
+### The Freelands  (9:51)  
+https://librivox.org/freelands-by-john-galsworthy/  
+Text: https://www.gutenberg.org/ebooks/2309  
+By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
+
+Reader's Notes:  
+This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
+
+Librivox Summary:  
+>The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
+
+</details>
+
+
 <details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
 ### The Gettysburg Address (0:02:41)  
@@ -294,6 +375,18 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+
+### The Giver of Stars. (13:52)  
+[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
+By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
+Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
+Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
+
+</details>
+
+
 <details><summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
@@ -305,6 +398,21 @@ Reader Notes.  Enter one family's world, more than 4 centuries ago.  Maggie O'Fa
 Literary Review by : https://literaryreview.co.uk/love-in-the-time-of-plague-2  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Hamnet_(novel)  
 Review by Miranda France in the Literary Review: https://literaryreview.co.uk/love-in-the-time-of-plague-2  
+
+</details>
+
+
+<details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
+
+### The Harvester (16:48)  
+https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
+Text: https://www.gutenberg.org/ebooks/349  
+By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
+
+Reading Notes: This 1912-version of a *feelgood romance* also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.  
+LibraryThing Reviews:  [https://www.librarything.com/work/449936/reviews](https://www.librarything.com/work/449936/reviews)  
+Summary from Librivox:  
+>David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester's perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester's love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
 
 </details>
 
@@ -476,6 +584,22 @@ Jake Swearingen interview with Kim Stanley Robinson: https://nymag.com/intellige
 </details>
 
 
+<details><summary>Number 17.  By J. Jefferson Farjeon. 1926 </summary>
+
+### No. 17 (Number Seventeen)  (5:37)  
+https://librivox.org/no-17-by-joseph-jefferson-farjeon/  
+Text: https://catalog.hathitrust.org/Record/000781052  
+By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
+
+Reader's Notes:  
+See the Wikipedia summary.  It was worth its runtime to me.  
+Librivox Summary:  
+>A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+
+
 <details><summary>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -561,6 +685,21 @@ Reader's Notes: What an excellent book!  We go on a fast-moving journey with a y
 
 3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
+
+</details>
+
+
+<details><summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
+
+### Soldiers' Pay (9:33)  
+https://librivox.org/soldiers-pay-by-william-faulkner/  
+[https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
+Text: https://archive.org/details/in.ernet.dli.2015.186670/  
+By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
+See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
+also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
+Librivox Summary:  
+>Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
 
 </details>
 
@@ -667,158 +806,6 @@ Summary:
 
 =====
 
-<details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
-
-### The Harvester (16:48)  
-https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
-Text: https://www.gutenberg.org/ebooks/349  
-By [Gene Stratton-Porter](https://en.wikipedia.org/wiki/Gene_Stratton-Porter) (1863 - 1924)  published 1911  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-
-Reading Notes: This 1912-version of a *feelgood romance* also incorporates a lot of text describing a range of North American woodland plants used for their therapeutic properties and is set in a time when they were critically important to *modern* medicine.  
-LibraryThing Reviews:  [https://www.librarything.com/work/449936/reviews](https://www.librarything.com/work/449936/reviews)  
-Summary from Librivox:  
->David Langston (a.k.a. the Harvester) is 26 years old and lives a simple life in the Midwest with his dog, cultivating and harvesting trees, plants and herbs near his home that he sells as medicinal ingredients to pharmaceutical houses. When the first bluebird arrives each spring David traditionally asks his dog whether he should remain a bachelor or find a wife. For the first time in six years the dog "advises" him to find a wife. The Harvester is not happy with this advice but that night he has a vision of a very beautiful dark-haired woman in white who slowly walks towards him and bestows a kiss. This vision immediately changes the Harvester's perspective of his life and he then sets out on a single-minded quest to find this unknown woman whom he is certain will become his wife. But David finds that his pursuit of love is not a straightforward journey. Gene Stratton-Porter endowed the Harvester with strength, honesty, kindness and "always do the right thing" attitude. Many have likened him to Mr. Darcy of Pride and Prejudice fame. The Harvester's love interest, Ruth, must learn how to love, and be loved, more deeply than she could ever imagine. And with her sharp tongue, Granny dispenses much-needed advice on love and relationships. The Harvester was the #1 selling novel in 1912. The story was made into a silent movie in 1927. [Summary by Warren Kati](https://librivox.org/the-harvester-by-gene-stratton-porter-2/)  
-
-</details>
-</details>
-
-
-<details>
-<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
-
-### The Giver of Stars. (13:52)  
-[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
-By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
-Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
-Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
-
-</details>
-
-
-<details><summary>The Freelands. By John Galsworthy. 1914 </summary>
-
-### The Freelands  (9:51)  
-https://librivox.org/freelands-by-john-galsworthy/  
-Text: https://www.gutenberg.org/ebooks/2309  
-By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
-
-Reader's Notes:  
-This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
-
-Librivox Summary:  
->The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
-
-</details>
-
-<details><summary>The Brain.  By Edmond Hamilton.  1948 </summary>
-
-### The Brain. (5:57)  
-https://librivox.org/the-brain-by-edmond-hamilton/  
-Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
-By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
-
-Reader's Notes:  
-In the context of the current AI mania, this story may resonate for some...  
-
-Librivox Summary:  
->A gigantic mechanical brain, constructed in a secret location known only to a few, is America's new weapon against the looming threat of war. The immense powers of The Brain are soon applied to the easily automated tasks of everyday modern living, in addition to its primary purpose of managing the military functions important for preserving National Security. But what happens when The Brain ... wakes up? ([Summary by quartertone](https://librivox.org/the-brain-by-edmond-hamilton/))  
-
-</details>
-
-<details>
-<summary>No. 17 (Number Seventeen).  By J. Jefferson Farjeon. 1926 </summary>  
-
-### No. 17 (Number Seventeen)  (5:37)  
-https://librivox.org/no-17-by-joseph-jefferson-farjeon/  
-Text: https://catalog.hathitrust.org/Record/000781052  
-By [J. Jefferson Farjeon](https://en.wikipedia.org/wiki/Joseph_Jefferson_Farjeon) (1883 - 1955)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
-
-Reader's Notes:  
-See the Wikipedia summary.  It was worth its runtime to me.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
-Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
-
-</details>
-</details>
-
-<details>
-<summary>Advance Agent. By Christopher Anvil.  1957</summary>  
-
-### Advance Agent.  (1:20)  
-https://librivox.org/advance-agent-by-christopher-anvil/  
-Text: https://gutenberg.org/ebooks/51273  
-By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
-(published in "Galaxy Science Fiction." February 1957)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
-
-</details>
-</details>
-
-<details>
-<summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>  
-
-### The Book of Tea.  (2:09)  
-https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
-Text: https://www.gutenberg.org/ebooks/769  
-By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
-
-Reader's Notes:  
-This is an interesting book.  See the Wikipedia and Teixeria reviews below...
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->The Book of Tea is as much about philosophy, religion and art as it is about a drink made with dried leaves in boiling water. It traces the development of tea into teaism. The author's first paragraph summarizes the whole book:  “Tea began as a medicine and grew into a beverage. In China, in the eighth century, it entered the realm of poetry as one of the polite amusements. The fifteenth century saw Japan ennoble it into a religion of aestheticism--Teaism. Teaism is a cult founded on the adoration of the beautiful among the sordid facts of everyday existence. It inculcates purity and harmony, the mystery of mutual charity, the romanticism of the social order. It is essentially a worship of the Imperfect, as it is a tender attempt to accomplish something possible in this impossible thing we know as life.”  The author shows that the philosophy of Teaism, which was developed from Japanese Zen Buddhist teachings, actually has deeper roots in Chinese Confucianism and Taoism as well.  After its publication in 1906 The Book of Tea provided a window into Japanese culture, and furthered a better understanding and appreciation of the philosophy behind minimalism in Japanese art, architecture, design and living. ([Summary by CliveCatterall](https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/))  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Book_of_Tea  
-Review by Leo Teixeira: https://teixeiras.medium.com/live-in-the-present-with-the-ancient-tradition-of-teaism-ef5016b429cc  
-</details>
-</details>
-
-<details>
-<summary>The Best Church Hymns. 1898</summary>  
-
-### The Best Church Hymns. (1:38)  
-https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
-Text: https://archive.org/details/bestch00bens  
-Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
-By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
-Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
-Librivox Summary:  
->This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
-
-</details>
-</details>
-
-
-<details>
-<summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
-
-### Soldiers' Pay (9:33)  
-https://librivox.org/soldiers-pay-by-william-faulkner/  
-[https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
-Text: https://archive.org/details/in.ernet.dli.2015.186670/  
-By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
-See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
-also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
-Librivox Summary:  
->Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
-
-</details>
 
 <details>
 <summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>  
@@ -1526,6 +1513,7 @@ https://www.overdrive.com/media/134428/the-blood-of-flowers
 By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 - _)  
 Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
 
+Reader Notes: I had to return this book after listening to 3:26 (26% of the total).  By that time I underestood enough that I will return to it someday.  
 GoodReads Summaries: https://www.goodreads.com/book/show/348632.The_Blood_of_Flowers#CommunityReviews  
 From the [Author's Summary](http://anitaamirrezvani.com/bloodofflowers.html):  
 >"In seventeenth century Iran, a spirited village girl of fourteen approaches the age of marriage, only to find her destiny shattered by the ominous prophecies that follow a fiery comet blazing across the desert sky. Confronted with the unexpected death of her beloved father and without prospects for gathering a dowry, the young woman and her distraught mother are forced into a difficult new life in the fabled city of Isfahan. Taken in as house servants by her distant uncle Gostaham, a well-to-do carpet designer, and his demanding wife, the two women confront an unforgiving world where their very survival requires strength and resilience beyond their most dire expectations."  
