@@ -233,6 +233,24 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Big Sur.  By Jack Kerouac.  1962</summary>
+
+### Big Sur (6:23)  
+https://librivox.org/big-sur-by-jack-kerouac/  
+Text: https://babel.hathitrust.org/cgi/pt?id=uc1.31822033766825&view=1up&seq=1  
+By [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac) (1922 - 1969). Published 1962  
+See [Wikipedia Summary](https://en.wikipedia.org/wiki/Big_Sur_(novel))  
+
+Reading Notes:  I *got through* roughly half of this book and have *given up*.  The only food that I find repulsive is canned beets...  For me, the attitude and repetition of this book has a little of that canned beet flavor, and I will likely never finish it.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Big_Sur_(novel)  
+
+Librivox Summary:  
+>This classic of the beatnik era from famous bohemian traveller Jack Kerouac focuses on Jack Dulouz, a thinly veiled Kerouac surrogate, and his attempts to reconcile his new found success as an author with his battle with alcoholism amid trips to a cabin in Big Sur in California. [Summary by Ben Tucker](https://librivox.org/big-sur-by-jack-kerouac/)  
+
+</details>  
+
+
 <details><summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
 
 ### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
@@ -1697,23 +1715,27 @@ Librivox Summary:
 
 <details><summary>This section still needs formatting:<summary>
 
+<details><summary>Matrix.  By Lauren Groff<summary>
 
-Matrix.  
-By Lauren Groff  
+### Matrix.  
+By [Lauren Groff]()  
 Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
 
+</details>
 
-
+<details><summary><summary>
 
 The Last Evolution.  By John Wood Campbell, Jr.  1932  
-The Last Evolution.  (53:00)  
+### The Last Evolution.  (53:00)  
 https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
 Text: https://www.gutenberg.org/ebooks/27462  
 
 By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
->John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
-Genre(s): Science Fiction  
+>John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)    
 
+</details>
+
+<details><summary><summary>
 
 The Flight of the Shadow.  By Laura M. Dake.  1899  
 The Flight of the Shadow.  (2:02)  
@@ -1724,7 +1746,9 @@ By Laura M. Dake  (*I could not find biographical information about this author*
 The original printing of The Flight of the Shadow is a highly sought novel among collectors and tells the tale of an Astral soul who tells a man named John Cecil of a story of the American Revolution, a story of lost love and murder, a story of reincarnation and fate. Enjoy this rare briskly told supernatural book of adventure and weirdness that few before have experienced! - [Summary by Ben Tucker](https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/)  
 
 
+</details>
 
+<details><summary><summary>
 
 Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol  
 Running Time: 22:24:13, Read by: Aaron Bennett  
@@ -1735,6 +1759,7 @@ By the [United States House of Representatives](https://en.wikipedia.org/wiki/Un
 Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov  
 >This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
 
+</details>
 
 NEEDS FORMATTING ABOVE  
 
@@ -1751,8 +1776,6 @@ NEEDS FORMATTING ABOVE
 https://librivox.org/the-seven-stairs-by-stuart-brent/  
 Text: https://www.gutenberg.org/ebooks/69175  
 By [Stuart Brent](https://stuartbrent.com/pages/about-stuart-and-the-brent-family) (1912 - 2010)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
 
@@ -1761,18 +1784,17 @@ Librivox Summary:
 >An Autobiography of Stuart Brent, who in 1946 followed his bliss and opened an independent bookstore in Chicago, which became very popular and highly regarded. Filled with stories and anecdotes of rubbing elbows with celebrities, starting a weekly TV show in which he reviewed books, along with the challenges of finding balance with raising a family. A must read for lovers and supporters of those quirky independent bookstores. - ([Summary by Phyllis Vincelli](https://librivox.org/the-seven-stairs-by-stuart-brent/)  
 
 </details>
-</details>
 
 
 <details>
-<summary> </summary>  
+<summary> </summary>
 
 ###   
   
 Text:   
 By []() ()    
 <details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
 
 Reader's Notes:  
 
@@ -1784,79 +1806,62 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>  
+<details><summary>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>
 
 ### The Basis Of Morality.  (7:19)  
 https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/  
 Text: https://www.gutenberg.org/ebooks/44929  
 By [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788 - 1860)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
 Reader's Notes:  
 
-Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >In 1837, the Danish Royal Society of Sciences offered a prize to any essayist who could satisfactorily answer the question, "Is the fountain and basis of Morals to be sought for in an idea of morality which lies directly in the consciousness (or conscience), and in the analysis of the other leading ethical conceptions which arise from it? Or is it to be found in some other source of knowledge?" The Basis of Morality is the essay submitted in 1840 by German philosopher Arthur Schopenhauer. In it, he first mercilessly deconstructs the prevailing Western theory of morality as championed by Immanuel Kant, among others, before establishing a series of maxims and thought experiments which lead him to a conclusion which points squarely at compassion as the cardinal virtue upon which all morality rests. In the appendix to this essay, he links his own conclusion with the conclusions reached millennia earlier by the authors of the Vedas and Upanishads. The essay was ultimately rejected for the prize despite being the only entry, a minor scandal with some speculation that the result was due in no small part to Schopenhauer's onslaught against Hegel—the judge of the contest being the author of a Hegelian theory of morals. ([Summary by Jeffrey Allen Stumpf](https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/))  
 Wikipedia Summary: https://en.wikipedia.org/wiki/On_the_Basis_of_Morality  
 
 </details>
-</details>
 
 
-<details>
-<summary>The Nature and Authority of Conscience.  1920 </summary>  
+<details><summary>The Nature and Authority of Conscience. By Rufus Jones. 1920 </summary>
 
 ### The Nature and Authority of Conscience. (1:48)  
 https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/  
 Text: https://archive.org/details/thenatureandauth00joneuoft/page/n5/mode/2up  
 Text#2: https://babel.hathitrust.org/cgi/pt?id=yale.39002088440970&view=1up&seq=5  
 By [Rufus Jones](https://en.wikipedia.org/wiki/Rufus_Jones_(writer))  (1863 - 1948)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>  
 
 Reader's Notes:   
 
-Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >Rufus Matthew Jones (January 25, 1863 – June 16, 1948) was an American religious leader, writer, magazine editor, philosopher, and college professor. He was instrumental in the establishment of the Haverford Emergency Unit (a precursor to the American Friends Service Committee). One of the most influential Quakers of the 20th century, he was a Quaker historian and theologian as well as a philosopher. In 1917 he helped found the American Friends Service Committee. This work was delivered as a Swarthmore Lecture in August 1920 and was printed by the Swarthmore Press Ltd. ([Summary by Wikipedia & John Greenman](https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/))  
 
 </details>
-</details>
 
 
-<details>
-<summary>Men Without Women. By Ernest Hemingway. 1927</summary>  
+<details><summary>Men Without Women. By Ernest Hemingway. 1927</summary>
 
 ### Men Without Women.  (4:26)  
 https://librivox.org/men-without-women-by-ernest-hemingway/  
 Text: https://gutenberg.org/ebooks/69683  
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes:  
 
-Librivox and Other 3rd Party Summaries:  
 Librivox Summary:  
 >Hemingway's second collection of short fiction, first published in 1927, including many of his best-known stories, including "Hills Like White Elephants" and "The Killers" - Summary by James Hutchisson  
 Wikipedia Summary:  
 https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)  
-</details>
+
 </details>
 
 
-<details>
-<summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915 </summary>  
+<details><summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915 </summary>
 
 ### A Far Country. (19:48)  
 https://librivox.org/a-far-country-by-winston-churchill/  
 Text: https://www.gutenberg.org/ebooks/3739  
 https://en.wikipedia.org/wiki/A_Far_Country_(novel)  
 By [Winston Churchill](http://en.wikipedia.org/wiki/Winston_Churchill_(novelist))  (1871 - 1947)  
-<details>
-<summary>Reading Notes and Librivox Summary:</summary>  
 
 Reading Notes:  
 
@@ -1864,11 +1869,9 @@ Librivox Summary:
 >The book follows the career of Hugh Paret from youth to manhood, and how his profession as a corporation lawyer gradually changes his values. The book received positive reviews, and was the second best-selling novel in the United States in 1915. - ([Summary by Wikipedia](https://en.wikipedia.org/wiki/A_Far_Country_(novel)))  
 
 </details>
-</details>
 
 
-<details>
-<summary>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
+<details><summary>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
 
 ### The Four Horsemen of the Apocalypse  (16:27)  
 https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/  
@@ -1882,24 +1885,7 @@ Summary from Librivox:
 
 </details>  
 
-<details>
-<summary>Big Sur.  By Jack Kerouac.  1962</summary>
-
-### Big Sur (6:23)  
-https://librivox.org/big-sur-by-jack-kerouac/  
-https://en.wikipedia.org/wiki/Big_Sur_(novel)  
-Text: https://babel.hathitrust.org/cgi/pt?id=uc1.31822033766825&view=1up&seq=1  
-By [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac) (1922 - 1969). Published 1962  
-See [Wikipedia Summary](https://en.wikipedia.org/wiki/Big_Sur_(novel))  
-Reading Notes:  I am roughly half done with this book and have *paused*.  The only food that I find repulsive is canned beets...  For me, the attitude and repetition of this book has a little of that canned beet flavor, and I may not finish it.  
-Librivox Summary:  
->This classic of the beatnik era from famous bohemian traveller Jack Kerouac focuses on Jack Dulouz, a thinly veiled Kerouac surrogate, and his attempts to reconcile his new found success as an author with his battle with alcoholism amid trips to a cabin in Big Sur in California. [Summary by Ben Tucker](https://librivox.org/big-sur-by-jack-kerouac/)  
-
-</details>  
-
-
-<details>
-<summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
+<details><summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
 ### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
 https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
