@@ -63,6 +63,24 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 </details>
 
 
+<details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
+
+### At the Mountains of Madness. (4:13)  
+https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
+Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
+Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
+By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
+
+Reader's Notes:  
+Horror, supernatural, scienct fiction expertly read by Ben Tucker.  
+For context, you might want to see [Cthulhu Mythos](https://en.wikipedia.org/wiki/Cthulhu_Mythos).  
+
+[Librivox Summary](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/:  
+>"In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare!" - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
+
+</details>
+
+
 <details><summary>Atlantis. By Gerhart Hauptmann, 1912</summary>
 
 ### Atlantis  (13:59)  
@@ -78,8 +96,22 @@ Summary/Review by "[Steve R](https://www.goodreads.com/review/show/3265689713)" 
 </details>
 
 
-<details>
-<summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>  
+<details><summary>Atomic!  By Henry Kuttner.  1947</summary>
+
+### Atomic! (1:01)  
+https://librivox.org/atomic-by-henry-kuttner/  
+Text: https://www.gutenberg.org/ebooks/68167  
+By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
+
+Reader's Notes:  
+More juvenile/young adult science fiction -- lots of *unlikely* human behaviors throughout.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
+[Librivox Summary](https://librivox.org/atomic-by-henry-kuttner/):  
+>"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
+
+</details>
+
+
+<details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
 https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
@@ -132,6 +164,18 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 </details>
 
 
+<details><summary>The Awakening. By Kate Chopin, 1900</summary>
+
+### The Awakening (5:14)  
+https://librivox.org/the-awakening-by-kate-chopin/  
+By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
+Publication date: 22 April 1900 (first edition was 1899 or earlier)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
+
+</details>
+
+
 <details><summary>Bashan And I.  By Thomas Mann.  1923</summary>
 
 ### Bashan And I. (4:13)  
@@ -142,6 +186,20 @@ Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_Ge
 
 Librivox Summary:  
 >Simple and unpretentious as a statement by Francis d'Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
+
+</details>
+
+
+<details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
+
+### Behind a Mask, or a Woman's Power.  (4:08)  
+https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
+Text: https://www.gutenberg.org/ebooks/8677  
+By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
+Reader Notes:  First, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/Behind_a_Mask).  This may be more than a simple 19th century family drama.  Jean Muir manipulates males who range from their late teens to (*maybe*) their middle sixties -- men who do her bidding in *virtually* total self-interest, the desire to "have her."  As a male reader, this all seemed a little *too easy*, *too convenient*.  Yet, Ms. Alcott may have been more successful at building (*and crushing*) widely assumed male and female archetypes.  In any case, she leaves much of the Coventry family damaged.  And left the reader wondering how these characters went about their roles in mid-19th century British society...  
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Behind_a_Mask  
+Librivox Summary:  
+>"Fans of Louisa May Alcott's Little Women will remember that her heroine Jo wrote racy novels before turning her hand to more "serious" literature. Alcott, writing under the pseudonym A. M. Barnard, often did the same, and Behind a Mask (1866) is one of her sensation novels. It focuses on Jean Muir, who enters the home of the wealthy Coventry family as governess to their sixteen-year-old daughter. But is the beguiling Miss Muir all that she seems to be?" [Summary by Elizabeth Klett](https://librivox.org/behind-a-mask-by-louisa-may-alcott/)  
 
 </details>
 
@@ -198,6 +256,23 @@ By [Frederick Thomas Jane](https://en.wikipedia.org/wiki/Fred_T._Jane) (1865 - 1
 
 Summary from Librivox:  
 >Fred Jane, who later went on to publish his famous "Jane's Fighting Ships", doubtless was noting the success of other books that forecast a British defeat in the event of war in the late 19th century when he wrote this fictional account of "The Man Who Saved England." Jane tells of a possible war against both France and Russia with plenty of verve and derring-do amid naval battles, both small and large.  
+
+</details>
+
+
+<details><summary>The Blood of Flowers. By Anita Amirrezvani. 2007</summary>
+
+### The Blood of Flowers.  (13:18)  
+https://www.overdrive.com/media/134428/the-blood-of-flowers  
+By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 - _)  
+Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
+
+Reader Notes: I had to return this book after listening to 3:26 (26% of the total).  By that time I understood enough about the writing and the story that I will return to it someday.  
+GoodReads Summaries: https://www.goodreads.com/book/show/348632.The_Blood_of_Flowers#CommunityReviews  
+From the [Author's Summary](http://anitaamirrezvani.com/bloodofflowers.html):  
+>"In seventeenth century Iran, a spirited village girl of fourteen approaches the age of marriage, only to find her destiny shattered by the ominous prophecies that follow a fiery comet blazing across the desert sky. Confronted with the unexpected death of her beloved father and without prospects for gathering a dowry, the young woman and her distraught mother are forced into a difficult new life in the fabled city of Isfahan. Taken in as house servants by her distant uncle Gostaham, a well-to-do carpet designer, and his demanding wife, the two women confront an unforgiving world where their very survival requires strength and resilience beyond their most dire expectations."  
+
+Author's Summary: http://anitaamirrezvani.com/bloodofflowers.html  
 
 </details>
 
@@ -262,6 +337,35 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Bransford Of Rainbow Range.  By Eugene Manlove Rhodes. 1913,1920</summary>
+
+### Bransford Of Rainbow Range. (5:34)  
+https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/  
+Text: https://www.gutenberg.org/ebooks/33498  
+By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) (1869 - 1934)  
+
+Reading Notes:  I invested an hour into this book and could not justify continuing.  It is just not a "*type*" that I enjoy or that I believe has enough positive content to justify the investment of another 4.5 hours.  
+Librivox Summary:  
+>"A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There's a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It's all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse" - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
+
+</details>
+
+
+<details><summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>
+
+### A Brief Account of the Destruction of the Indies. (04:03)  
+https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
+https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
+Text: https://www.gutenberg.org/ebooks/20321   
+By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
+
+Reading Notes: This report covers an ugly period of Western colonization and widespread genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
+Summary from Librivox:  
+>"A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands." - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
+
+</details>
+
+
 <details><summary>Bury Your Dead.  By Louise Penny. 2010 </summary>
 
 ### Bury Your Dead. (13:00)  
@@ -298,6 +402,23 @@ Reading Notes:
 Prepare yourself.  This was a seriously dark book.  It starts and ends with death.  In between we follow Maggie Cardinal from the death of her father, time with Aunt Anne and Aunt Elizabeth and the religious community within which they are *held* also time with Martin Warlock and his family -- having a legacy started with James Warlock "a mystic, a visionary, a prophet" that had a belief in "God's plans" to "turn the world into a blazing coal so soon as he pleased."  The character of Maggie Cardinal drives this story forward throughout and is strong enough to make this long audio book worth the investment.  
 Librivox Summary:  
 >A story of alienation from the society which holds one captive, told from the standpoint of a young woman whose life is suddenly disrupted, leading her into a stumbling progression through constrained social cliques and frustrated romantic attachments, haunted by religious shadows. ([Summary by Peter Tucker](https://librivox.org/captives-by-hugh-walpole/))  
+
+</details>
+
+
+<details><summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
+
+### Cato, a Tragedy in Five Acts  (1:47)  
+https://librivox.org/cato-by-joseph-addison/  
+Text: https://www.gutenberg.org/ebooks/31592  
+By [Joseph Addison](https://en.wikipedia.org/wiki/Joseph_Addison) (1672 - 1719)  published 1712  
+
+Listening Notes: This recording is **not** an example of the excellence that can be found across much of librivox.org.  If you want to understand this story, it may pay to [read it](https://www.gutenberg.org/ebooks/31592). I found the performance distracting from the content of the play, rather than enhancing it.  
+
+[Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy):  
+>"Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death."  
+[Librivox Summary](https://librivox.org/cato-by-joseph-addison/):  
+>"This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)"  
 
 </details>
 
@@ -373,6 +494,20 @@ Reading Notes:
 Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, they are facts -- that expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  
 Librivox Summary:  
 >"Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads." - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
+
+</details>
+
+
+<details><summary>Climate--Incorporated. By George O. Smith.  1948</summary>
+
+### Climate--Incorporated (01:15)  
+https://librivox.org/climate-incorporated-by-george-o-smith/  
+Text: https://gutenberg.org/ebooks/69820  
+By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)  
+
+Reader's Notes:  Ever so slightly interesting juvenile/young adult science fiction in which an inventor *accidently* creates a *time machine*.  The plans are stolen.  Corrupt politicians attempt advantage.  Conflict.  Resolution.  Nothing special...  It **might** be worth an hour and a quarter of your time as you work at some other *mindless* task.  Excellent reading by "quartertone."  
+[Librivox Summary](https://librivox.org/climate-incorporated-by-george-o-smith/):  
+>"Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late." - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
 
 </details>
 
@@ -504,6 +639,21 @@ Reading Notes: (*see 'Triplanetary' below*)
 </details>
 
 
+<details><summary>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
+
+### Four Months in a Sneak-Box (8:32)  
+https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
+Text: https://www.gutenberg.org/ebooks/5686  
+By [Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902).  
+
+Reader Notes: Unless you are interested in first person histories of mid-19th century river travel, this might be a pass.  
+
+[Librivox Summary](https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/):  
+>The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." Summary by Nathaniel H. Bishop.  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
+
+</details>
+
+
 <details><summary>The Freelands. By John Galsworthy. 1914 </summary>
 
 ### The Freelands  (9:51)  
@@ -547,6 +697,24 @@ Librivox Summary:
 By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
 Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
 Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
+
+</details>
+
+
+<details><summary>Greenmantle. By John Buchan. 1916</summary>
+
+### Greenmantle. (09:45)  
+https://librivox.org/greenmantle-ver3-by-john-buchan/  
+https://en.wikipedia.org/wiki/Greenmantle  
+Text: https://gutenberg.org/ebooks/559  
+By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)  
+
+Reading Notes:  
+This is just another relatively fast moving WWI spy novel.  It incorporates some of the worst cultural issues of the time (*written in the 2nd decade of the 20th century by a 19th century writer*)...  I believe they are expressions of the author's understanding of the world and that of the readers he targeted.  He makes no attempt to deal with negative outcomes of institutionalized descrimination, colonization and war, or of cultural and literal genocide -- ignoring the value numerous peoples.  The impacts of these events continue through today.  This book may be hurtful to some.  
+[Summary from Librivox](https://librivox.org/greenmantle-ver3-by-john-buchan/):  
+>"Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum ("Erzerum" in Greenmantle)".  
+
+For context, see "[Battle of Erzurum](https://en.wikipedia.org/wiki/Erzurum_offensive)"  
 
 </details>
 
@@ -772,6 +940,19 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
+<details><summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
+
+### Lorelei of the Red Mist.  (2:51)  
+https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/  
+Text: https://www.gutenberg.org/ebooks/63917  
+By [Leigh Douglass Brackett](http://en.wikipedia.org/wiki/Leigh_Brackett) (1915 - 1978) and [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+
+Librivox Summary:  
+>"Published in Planet Stories in 1946, this story is a great mix of Golden Age Sci Fi and Swords & Sorcery. The first half was written by Brackett and when she was pulled away by other commitments the publisher gave it to a new writer, Ray Bradbury, to finish. It is a sort of prequel to the Stark character developed by Brackett where a weak puny man is transferred into the body of a Conan like superman and then cruses through adventure after adventure, always rescuing damsels who are tough and feisty. The publisher blurb says "He died—and then awakened in a new body. He found himself on a world of bizarre loveliness, a powerful, rich man. He took pleasure in his turn of good luck ... until he discovered that his new body was hated by all on this strange planet, that his soul was owned by Rann, devil-goddess of Falga, who was using him for her own gain." - [Summary by Phil Chenevert](https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/)"  
+
+</details>
+
+
 <details><summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>
 
 ### The Man in the Panther's Skin (8:17)  
@@ -784,6 +965,23 @@ Translated by Marjory Wardrop (1869 - 1909)
 Reading Summary: I recommend reading the [Wikipedia background and overview](https://en.wikipedia.org/wiki/The_Knight_in_the_Panther's_Skin) to provide some background.  This *epic poem* written in the middle ages Georgian empire is not represented in any category of my normal recreational reading or formal education and I was completely without context.  
 Librivox Summary:  
 >Georgian mediæval epic poem written in the time of the Golden Age of Queen Tamar. Couched in the chivalric language of the 12th Century, it tells a classic tale of love in all its forms, and is an allegory of the great Queen herself. The book is required reading for all school students in Georgia and a copy went with each bride to her new home as a part of her dowry. This prose rendering was the first in English. - ([Summary by *Beeswaxcandle*](https://librivox.org/man-in-the-panthers-skin-by-shota-rustaveli/)  
+
+</details>
+
+
+<details><summary>Man of Many Minds. By E. Everett Evans  1959 </summary>
+
+### Man of Many Minds.  1959  (7:13)  
+https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
+Text: https://www.gutenberg.org/ebooks/19660  
+https://en.wikipedia.org/wiki/Man_of_Many_Minds  
+By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
+Pyramid Books edition: November, 1959  
+
+Reading Notes:  
+I agree that "old-school space opera" is a good description -- in the context of juvenile/young adult fiction.  But this book's mostly *wooden* characters remind me of "I Spy" in their shallow lack of development.  The author builds a future where Earth's colonization of many worlds seems to have emphasized transplanting some of humankind's worst tendencies...  The story maintains just enough forward motion to keep me engaged (*while doing yard work and house work*).  It may not be worth your time, as there are so many other good books...  
+[Librivox Summary](https://librivox.org/man-of-many-minds-by-edward-everett-evans/):  
+>"GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera!" ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
 
 </details>
 
@@ -1007,6 +1205,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Search the Sky. By Frederik Pohl, 1956</summary>
+
+### Search the Sky (06:47)  
+https://librivox.org/search-the-sky-by-frederik-pohl/  
+https://en.wikipedia.org/wiki/Search_the_Sky  
+Text: https://www.gutenberg.org/ebooks/52228  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
+
+Reading Notes: This mid-20th century book's main story-line is about colonization and genetics after faster-than-light travel was available to humankind.  While the author's intent was satire, the characters remain *one-dimensional*, predictable, shallow and all *surface* (*could that be the point?*).  I believe that this book may only be entertaining to those who like U.S. 1950's "*mass market*" science fiction.  
+Summary from Librivox:  
+>Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
+
+</details>
+
+
 <details><summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
@@ -1023,6 +1236,20 @@ Librivox Summary:
 </details>  
 
 
+<details><summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
+
+### Shakespeare at the Globe, 1599-1609. (04:03)  
+https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
+Text: https://www.gutenberg.org/ebooks/66536   
+By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
+
+Reading Notes: As described below, this book is primarily about the theater, the business of the theater and of a performing group and a few characteristics of the writers (*and their writing*) supporting both.  
+Librivox Summary:  
+>"One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe." - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
+
+</details>
+
+
 <details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
 ### Shaman (15:00)  
@@ -1034,6 +1261,43 @@ Reader's Notes: What an excellent book!  We go on a fast-moving journey with a y
 
 3rd Party Summaries:  
 Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)  
+
+</details>
+
+
+<details><summary>The shipwreck. By William Falconer.  1762 </summary>
+
+### The shipwreck.  1762  
+Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/  
+or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext  
+https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+
+Reading Notes:  
+The interesting biography of William Falconer was more enjoyable than the extensive poem.  The style and some content of the poetry may turn some off, but it includes some excellent rhymes (*think song lyrics*).  
+
+>"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
+
+>[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
+
+>Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
+
+</details>
+
+
+<details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
+
+### The Small Bachelor  (6:36)  
+https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
+Text: https://archive.org/details/smallbachelor0000unse/  
+By [P. G. Wodehouse](https://en.wikipedia.org/wiki/P._G._Wodehouse) (1881 - 1975)  
+
+Reader's Notes:  
+Unfortunately, the reader's performance in this recording was unique in a way that was almost *repulsive* to me (*it may not be so to you*)...  I listened to more than 10% of the book before giving up.  I may read the text.  
+
+Librivox Summary:  
+>"Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest." ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor  
 
 </details>
 
@@ -1062,6 +1326,23 @@ By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton)  (1904 - 197
 
 Librivox Summary:  
 >Edmond Hamilton (1904 – 1977) had a career that began as a regular and frequent contributor to Weird Tales magazine. The first hardcover publication of Science Fiction stories was a Hamilton compilation, and he and E.E. “Doc” Smith are credited with the creation of the Space Opera type of story. He worked for DC Comics authoring many stories for their Superman and Batman characters. Hamilton was also married to fellow author Leigh Brackett. - Published in the May, 1962 issue of Amazing Stories “The Stars, My Brothers” gives us a re-animated astronaut plucked from a century in the past and presented with an alien world where the line between humans and animals is blurred. - ([Summary by Gregg Margarite](https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/))  
+
+</details>
+
+
+<details><summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
+
+### The Story of Geographical Discovery: How the World Became Known. (4:51)  
+https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/  
+Text: https://www.gutenberg.org/files/14291/14291-h/14291-h.htm  
+or https://archive.org/details/storyofgeographi00jacorich  
+By [Joseph Jacobs](http://en.wikipedia.org/wiki/Joseph_Jacobs) (1854 - 1916)  
+
+Reader Notes:  
+I enjoyed this summary of a "*typical*" Western understanding of how the world was "*discovered*" (up to the mid-1890s).  It aligns with much of what I was taught in high school and college, though it is no longer the narrative I would attach to these discoveries and conquests.  
+Some might be turned off by how the author ignores oppression built around the concepts of race, caste, and class throughout his descriptions of how Europeans claimed lands across the globe.  I believe they are expressions of the author's understanding of the world and that of the readers he targeted at the time.  He makes no attempt to deal with negative outcomes of colonization.  Not only were land and resources stolen in the colonization process but colonization was both a cultural and literal genocide -- ignoring the value of indigenous peoples.  The impacts of colonization continue through today.  This book may be hurtful to some.  
+[Librivox Summary](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/):  
+>"This book was first published in 1897. It's a short work, but it encompasses a vast subject—nothing less than determining the detailed geographical plan of our entire world! In the process, Jacobs feeds us dates and names and events and places and maps in a dense stream. It's a bit like drinking from a fire hose, but see it through, and the reader (or listener) will acquire a surprisingly complete overview of world history as well as geography. It's well worth absorbing, even by those not so geographically inclined, if only as a source for winning endless bar bets. Beginning in ancient times, the author identifies three main forces that have contributed to our present understanding: wars of conquest, competition for trade, and (eventually) pure scientific curiosity. The Egyptians, Phoenicians, early Greeks, Babylonians, and many other Mediterranean peoples contributed, often unwillingly, the streams of knowledge that Ptolemy of Alexandria summed up in the great Ptolemaei Orbis (ca.150 AD), the first “real” map of the whole known world. The evolution of world maps to incorporate (and sometime conceal) new discoveries is a key theme of this fascinating work." ([Summary by Steven Seitel](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/))  
 
 </details>
 
@@ -1170,6 +1451,29 @@ Librivox Summary:
 </details>
 
 
+<details><summary>War on Peace. By Ronan Farrow, 2018</summary>
+
+### War on Peace  (10:54)  
+https://www.overdrive.com/media/3963265/war-on-peace  
+https://en.wikipedia.org/wiki/War_on_Peace  
+https://wwnorton.com/books/war-on-peace/  
+By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 - _)  
+
+</details>
+
+
+<details><summary>What The Left Hand Was Doing.  By Randall Garrett.  1960</summary>
+
+### What The Left Hand Was Doing.  (1:11)  
+[https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
+Text: https://www.gutenberg.org/ebooks/25166  
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
+
+Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/): The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
+
+</details>
+
+
 <details><summary>William the Third.  1888 </summary>
 
 ### William the Third. (6:21)  
@@ -1186,309 +1490,27 @@ Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_
 </details>
 
 
-=====
-
-<details><summary>Search the Sky. By Frederik Pohl, 1956</summary>
-
-### Search the Sky (06:47)  
-https://librivox.org/search-the-sky-by-frederik-pohl/  
-https://en.wikipedia.org/wiki/Search_the_Sky  
-Text: https://www.gutenberg.org/ebooks/52228  
-By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  Published 1956  
-
-Reading Notes: This mid-20th century book's main story-line is about colonization and genetics after faster-than-light travel was available to humankind.  While the author's intent was satire, the characters remain *one-dimensional*, predictable, shallow and all *surface* (*could that be the point?*).  I believe that this book may only be entertaining to those who like U.S. 1950's "*mass market*" science fiction.  
-Summary from Librivox:  
->Ross was a junior trader on Halsey's Planet, and had great prospects but was not happy at all. Everything smelled of decay. The whole planet seemed to be slowly disappearing, the population dwindling month by month and year by year and yet no one seemd to care or even notice. Something was very, very wrong. When the first interstellar transport in 30 years arrived on Halsey's Planet, it brought things to a head. The ship had touched on six other colony worlds - and all six had been devoid of human life. Where was everybody? It was almost as if humankind, when separated by cosmic distances from Mother Earth, could not survive. He didn't know the answer but he knew it all smelled highly of decay. Decay and Rot. This highly praised novel by C.M.Kornbluth and Frederick Pohl was first published in 1954 was seen as a wonderful satire on various trends in the society of the 1950's. [Summary by phil Chenevert](https://librivox.org/search-the-sky-by-frederik-pohl/)  
-
-</details>
-
-<details>
-<summary>What The Left Hand Was Doing.  By Randall Garrett.  1960</summary>  
-
-### What The Left Hand Was Doing.  (1:11)  
-[https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
-Text: https://www.gutenberg.org/ebooks/25166  
-By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
-Librivox Summary: The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
-
-</details>
-
-
-<details><summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
-
-### The Story of Geographical Discovery: How the World Became Known. (4:51)  
-https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/  
-Text: https://www.gutenberg.org/files/14291/14291-h/14291-h.htm  
-or https://archive.org/details/storyofgeographi00jacorich  
-By [Joseph Jacobs](http://en.wikipedia.org/wiki/Joseph_Jacobs) (1854 - 1916)  
-
-Reader Notes:  
-I enjoyed this summary of a "*typical*" Western understanding of how the world was "*discovered*" (up to the mid-1890s).  It aligns with much of what I was taught in high school and college, though it is no longer the narrative I would attach to these discoveries and conquests.  
-Some might be turned off by how the author ignores oppression built around the concepts of race, caste, and class throughout his descriptions of how Europeans claimed lands across the globe.  I believe they are expressions of the author's understanding of the world and that of the readers he targeted at the time.  He makes no attempt to deal with negative outcomes of colonization.  Not only were land and resources stolen in the colonization process but colonization was both a cultural and literal genocide -- ignoring the value of indigenous peoples.  The impacts of colonization continue through today.  This book may be hurtful to some.  
-[Librivox Summary](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/):  
->"This book was first published in 1897. It's a short work, but it encompasses a vast subject—nothing less than determining the detailed geographical plan of our entire world! In the process, Jacobs feeds us dates and names and events and places and maps in a dense stream. It's a bit like drinking from a fire hose, but see it through, and the reader (or listener) will acquire a surprisingly complete overview of world history as well as geography. It's well worth absorbing, even by those not so geographically inclined, if only as a source for winning endless bar bets. Beginning in ancient times, the author identifies three main forces that have contributed to our present understanding: wars of conquest, competition for trade, and (eventually) pure scientific curiosity. The Egyptians, Phoenicians, early Greeks, Babylonians, and many other Mediterranean peoples contributed, often unwillingly, the streams of knowledge that Ptolemy of Alexandria summed up in the great Ptolemaei Orbis (ca.150 AD), the first “real” map of the whole known world. The evolution of world maps to incorporate (and sometime conceal) new discoveries is a key theme of this fascinating work." ([Summary by Steven Seitel](https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/))  
-
-</details>
-
-
-<details><summary>Man of Many Minds. By E. Everett Evans  1959 </summary>
-
-### Man of Many Minds.  1959  (7:13)  
-https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
-Text: https://www.gutenberg.org/ebooks/19660  
-https://en.wikipedia.org/wiki/Man_of_Many_Minds  
-By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
-Pyramid Books edition: November, 1959  
-
-Reading Notes:  
-I agree that "old-school space opera" is a good description -- in the context of juvenile/young adult fiction.  But this book's mostly *wooden* characters remind me of "I Spy" in their shallow lack of development.  The author builds a future where Earth's colonization of many worlds seems to have emphasized transplanting some of humankind's worst tendencies...  The story maintains just enough forward motion to keep me engaged (*while doing yard work and house work*).  It may not be worth your time, as there are so many other good books...  
-[Librivox Summary](https://librivox.org/man-of-many-minds-by-edward-everett-evans/):  
->"GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera!" ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
-
-</details>
-
-
-<details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
-
-### At the Mountains of Madness. (4:13)  
-https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/  
-Text: https://archive.org/details/Astounding_v16n06_1936-02_frankenscan/page/n9/mode/2up  
-Wikipedia: https://en.wikipedia.org/wiki/At_the_Mountains_of_Madness  
-By [H. P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft) (1890 - 1937)  
-
-Reader's Notes:  
-Horror, supernatural, scienct fiction expertly read by Ben Tucker.  
-For context, you might want to see [Cthulhu Mythos](https://en.wikipedia.org/wiki/Cthulhu_Mythos).  
-
-[Librivox Summary](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/:  
->"In the most cold and remote region of the planet lies mountains towering higher than the Himalayas and containing abominable secrets the mind can scarcely fathom. When an intrepid expedition stumbles across the remains of an ancient race of creatures that predates humanity by millions of years, they believe they've discovered the scientific find of the century. Instead, they've unearthed a terror beyond all reckoning which may devour them both body and soul. Enter into the icy realms of one of H. P. Lovecraft's most seminal cornerstones of the Cthulhu mythos.... If you dare!" - Summary by [Ben Tucker](https://librivox.org/at-the-mountains-of-madness-by-h-p-lovecraft/)  
-
-</details>
-
-
-<details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
-
-### Behind a Mask, or a Woman's Power.  (4:08)  
-https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
-Text: https://www.gutenberg.org/ebooks/8677  
-By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
-Reader Notes:  First, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/Behind_a_Mask).  This may be more than a simple 19th century family drama.  Jean Muir manipulates males who range from their late teens to (*maybe*) their middle sixties -- men who do her bidding in *virtually* total self-interest, the desire to "have her."  As a male reader, this all seemed a little *too easy*, *too convenient*.  Yet, Ms. Alcott may have been more successful at building (*and crushing*) widely assumed male and female archetypes.  In any case, she leaves much of the Coventry family damaged.  And left the reader wondering how these characters went about their roles in mid-19th century British society...  
-Wikipedia Summary:  https://en.wikipedia.org/wiki/Behind_a_Mask  
-Librivox Summary:  
->"Fans of Louisa May Alcott's Little Women will remember that her heroine Jo wrote racy novels before turning her hand to more "serious" literature. Alcott, writing under the pseudonym A. M. Barnard, often did the same, and Behind a Mask (1866) is one of her sensation novels. It focuses on Jean Muir, who enters the home of the wealthy Coventry family as governess to their sixteen-year-old daughter. But is the beguiling Miss Muir all that she seems to be?" [Summary by Elizabeth Klett](https://librivox.org/behind-a-mask-by-louisa-may-alcott/)  
-
-</details>
-
-
-<details><summary>Atomic!  By Henry Kuttner.  1947</summary>
-
-### Atomic! (1:01)  
-https://librivox.org/atomic-by-henry-kuttner/  
-Text: https://www.gutenberg.org/ebooks/68167  
-By [Henry Kuttner](https://en.wikipedia.org/wiki/Henry_Kuttner) (1915 - 1958)  
-
-Reader's Notes:  
-More juvenile/young adult science fiction -- lots of *unlikely* human behaviors throughout.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
-[Librivox Summary](https://librivox.org/atomic-by-henry-kuttner/):  
->"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
-
-</details>
-
-<details><summary>Climate--Incorporated. By George O. Smith.  1948</summary>
-
-### Climate--Incorporated (01:15)  
-https://librivox.org/climate-incorporated-by-george-o-smith/  
-Text: https://gutenberg.org/ebooks/69820  
-By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)  
-
-Reader's Notes:  Ever so slightly interesting juvenile/young adult science fiction in which an inventor *accidently* creates a *time machine*.  The plans are stolen.  Corrupt politicians attempt advantage.  Conflict.  Resolution.  Nothing special...  It **might** be worth an hour and a quarter of your time as you work at some other *mindless* task.  Excellent reading by "quartertone."  
-[Librivox Summary](https://librivox.org/climate-incorporated-by-george-o-smith/):  
->"Climate control was an elusive dream. A brilliant inventor chanced upon a solution and the dream briefly became a luxurious reality. But nobody really understood how it worked until it was too late." - Summary by [quartertone](https://librivox.org/climate-incorporated-by-george-o-smith/)  
-
-</details>
-
-
-<details><summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
-
-### Shakespeare at the Globe, 1599-1609. (04:03)  
-https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
-Text: https://www.gutenberg.org/ebooks/66536   
-By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
-
-Reading Notes: As described below, this book is primarily about the theater, the business of the theater and of a performing group and a few characteristics of the writers (*and their writing*) supporting both.  
-Librivox Summary:  
->"One of the most important pieces of Shakespearian scholarship to appear in several years, this brilliant work offers new perspectives on the controversial subject of Shakespearean production at the Globe. The author examines the Globe's repertory system, dramaturgy, stage, acting, and staging. Dr. Beckerman is Chairman of the Department of Drama and Speech at Hofstra College, where he directs the annual Shakespearean Festival on a detailed replica of the Globe Theatre stage. His acute observation and sound logic, as well as his practical experience as a producer, make this volume a useful and comprehensive account of the productions at the globe." - ([Summary by H. Lawrence Hoffman](https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/))  
-
-</details>
-
-<details><summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>
-
-### A Brief Account of the Destruction of the Indies. (04:03)  
-https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
-https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
-Text: https://www.gutenberg.org/ebooks/20321   
-By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
-
-Reading Notes: This report covers an ugly period of Western colonization and widespread genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
-Summary from Librivox:  
->"A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands." - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
-
-</details>
-
-
-<details><summary>Greenmantle. By John Buchan. 1916</summary>
-
-### Greenmantle. (09:45)  
-https://librivox.org/greenmantle-ver3-by-john-buchan/  
-https://en.wikipedia.org/wiki/Greenmantle  
-Text: https://gutenberg.org/ebooks/559  
-By [John Buchan](https://en.wikipedia.org/wiki/John_Buchan)  (1875 - 1940)  
-
-Reading Notes:  
-This is just another relatively fast moving WWI spy novel.  It incorporates some of the worst cultural issues of the time (*written in the 2nd decade of the 20th century by a 19th century writer*)...  I believe they are expressions of the author's understanding of the world and that of the readers he targeted.  He makes no attempt to deal with negative outcomes of institutionalized descrimination, colonization and war, or of cultural and literal genocide -- ignoring the value numerous peoples.  The impacts of these events continue through today.  This book may be hurtful to some.  
-[Summary from Librivox](https://librivox.org/greenmantle-ver3-by-john-buchan/):  
->"Hannay is called in to investigate rumours of an uprising in the Muslim world and undertakes a perilous journey through enemy territory to meet his friend Sandy in Constantinople. Once there, he and his friends must thwart the Germans' plans to use religion to help them win the war, climaxing at the battle of Erzurum ("Erzerum" in Greenmantle)".  
-
-For context, see "[Battle of Erzurum](https://en.wikipedia.org/wiki/Erzurum_offensive)"  
-
-</details>
-
-<details><summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
-
-### Lorelei of the Red Mist.  (2:51)  
-https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/  
-Text: https://www.gutenberg.org/ebooks/63917  
-By [Leigh Douglass Brackett](http://en.wikipedia.org/wiki/Leigh_Brackett) (1915 - 1978) and [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-
-Librivox Summary:  
->"Published in Planet Stories in 1946, this story is a great mix of Golden Age Sci Fi and Swords & Sorcery. The first half was written by Brackett and when she was pulled away by other commitments the publisher gave it to a new writer, Ray Bradbury, to finish. It is a sort of prequel to the Stark character developed by Brackett where a weak puny man is transferred into the body of a Conan like superman and then cruses through adventure after adventure, always rescuing damsels who are tough and feisty. The publisher blurb says "He died—and then awakened in a new body. He found himself on a world of bizarre loveliness, a powerful, rich man. He took pleasure in his turn of good luck ... until he discovered that his new body was hated by all on this strange planet, that his soul was owned by Rann, devil-goddess of Falga, who was using him for her own gain." - [Summary by Phil Chenevert](https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/)"  
-
-</details>
-
-<details><summary>The shipwreck. By William Falconer.  1762 </summary>
-
-### The shipwreck.  1762  
-Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/  
-or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext  
-https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
-By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
-
-Reading Notes:  
-The interesting biography of William Falconer was more enjoyable than the extensive poem.  The style and some content of the poetry may turn some off, but it includes some excellent rhymes (*think song lyrics*).  
->"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
->[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
->Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
-
-</details>
-
-
-<details><summary>The Awakening. By Kate Chopin, 1900</summary>
-
-### The Awakening (5:14)  
-https://librivox.org/the-awakening-by-kate-chopin/  
-https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
-By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
-Publication date: 22 April 1900 (first edition was 1899 or earlier)  
-
-</details>
-
-<details><summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
-
-### Cato, a Tragedy in Five Acts  (1:47)  
-https://librivox.org/cato-by-joseph-addison/  
-Wikipedia: https://en.wikipedia.org/wiki/Cato,_a_Tragedy  
-Text: https://www.gutenberg.org/ebooks/31592  
-By [Joseph Addison](https://en.wikipedia.org/wiki/Joseph_Addison) (1672 - 1719)  published 1712  
-
-Listening Notes: This recording is **not** an example of the excellence that can be found across much of librivox.org.  If you want to understand this story, it may pay to [read it](https://www.gutenberg.org/ebooks/31592). I found the performance distracting from the content of the play, rather than enhancing it.  
-Other 3rd party summaries:  
-[Summary from Wikipedia](https://en.wikipedia.org/wiki/Cato,_a_Tragedy):  
->"Based on the events of the last days of Marcus Porcius Cato Uticensis (better known as Cato the Younger) (95–46 BC), a Stoic whose deeds, rhetoric and resistance to the tyranny of Julius Caesar made him an icon of republicanism, virtue, and liberty. Addison's play deals with many themes such as individual liberty versus government tyranny, republicanism versus monarchism, logic versus emotion, and Cato's personal struggle to hold to his beliefs in the face of death."  
-[Librivox Summary](https://librivox.org/cato-by-joseph-addison/):  
->"This play was supposedly staged by George Washington after the winter of 1778 at Valley Forge as an inspiration to his officers on self-sacrificing republican virtues. Many quotes of American revolution leaders - Patrick Henry's "Give me liberty or Give me death" and Nathan Hale's "I only regret I have but one life to lose for my country" - are drawn from this play. [Librivox summary by ToddHW](https://librivox.org/cato-by-joseph-addison/)"  
-
-</details>
-
-<details><summary>War on Peace. By Ronan Farrow, 2018</summary>
-
-### War on Peace  (10:54)  
-https://www.overdrive.com/media/3963265/war-on-peace  
-https://en.wikipedia.org/wiki/War_on_Peace  
-https://wwnorton.com/books/war-on-peace/  
-By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 - _)  
-
-</details>
-
 <details><summary>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
 
 ### The Wordy Shipmates (07:15)  
-https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
+Audio: https://www.overdrive.com/media/167421/the-wordy-shipmates  
+Text: https://www.overdrive.com/media/200624/the-wordy-shipmates
 By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), published 2008  
 
-</details>
+Reader Notes: An excellent, true story.  Sarah Vowell's exploration of the Puritans and their journey to America to become the people of John Winthrop's "city upon a hill."  
 
-<details><summary>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
-
-### Four Months in a Sneak-Box (8:32)  
-https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
-Text: https://www.gutenberg.org/ebooks/5686  
-By [Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902).  
-[Librivox Summary](https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/):  
->The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." Summary by Nathaniel H. Bishop.  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and derogatory terms. It is LibriVox's policy to record texts as written.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
 
 </details>
 
-<details><summary>Bransford Of Rainbow Range.  1913,1920</summary>
 
-### Bransford Of Rainbow Range. (5:34)  
-https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/  
-Text: https://www.gutenberg.org/ebooks/33498  
-By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) (1869 - 1934)  
-
-Reading Notes:  I invested an hour into this book and could not justify continuing.  It is just not a "*type*" that I enjoy or that I believe has enough positive content to justify the investment of another 4.5 hours.  
-Librivox Summary:  
->"A genuine cowboy who speaks a bit of Greek? Ditto a bit of The Litany? And more than a little verse, including (would you believe?) Alice In Wonderland. What kind of young man do we have here? And a young woman who matches him without effort? And a definitely literate narrator with his tongue firmly inserted in cheek. There's a bank robbery and an attempted murder. A desperate ride across the desert and a warm welcome by good Mexican friends. It's all a great deal of fun. Eugene Manlove Rhodes (1869 – 1934) was an American writer, nicknamed the "cowboy chronicler". He lived in south central New Mexico when the first cattle ranching and cowboys arrived in the area; when he moved to New York with his wife in 1899, he wrote stories of the American West that set the image of cowboy life in that era. Originally Published under the title of Bransford In Arcadia Or The Little Eohippus (1913). Note: eohippus, which plays a part all through the story, is the small prehistoric five-toed ancestor of the modern-day horse" - ([Summary by [David Wales](https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/))  
-
-</details>
-
-<details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
-
-### The Small Bachelor  (6:36)  
-https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
-Text: https://archive.org/details/smallbachelor0000unse/  
-By [P. G. Wodehouse](https://en.wikipedia.org/wiki/P._G._Wodehouse) (1881 - 1975)  
-
-Reader's Notes:  
-Unfortunately, the reader's performance in this recording was unique in a way that was almost *repulsive* to me (*it may not be so to you*)...  I listened to more than 10% of the book before giving up.  I may read the text.  
-Librivox Summary:  
->"Set against a backdrop of Prohibition-era New York, The Small Bachelor is the story of a young man from the West who is trying to be an artist, an older man from the East who wants to be a Westerner, his daughter who does not want to marry an English lord, her stepmother who wants her to, a policeman who wants to become a poet, a writer of pamphlets who says he “can make a poet out of two sticks and a piece of orange peel” if they follow his instructions carefully, and a young woman from the West who has become a fortune-teller. There are also several other characters with other motives, and a number of coincidences which bring them all together in various constellations of absurdity which depict the human condition at its finest." ([Summary by Zach Hoyt](https://librivox.org/the-small-bachelor-by-p-g-wodehouse/))  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor  
-
-</details>
-
+=====
 
   
 
 -----
 
 ## Pending or Currently Underway:  
-
-
-<details><summary>The Blood of Flowers. By Anita Amirrezvani. 2007</summary>
-
-### The Blood of Flowers.  (13:18)  
-https://www.overdrive.com/media/134428/the-blood-of-flowers  
-By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 - _)  
-Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
-
-Reader Notes: I had to return this book after listening to 3:26 (26% of the total).  By that time I understood enough about the writing and the story that I will return to it someday.  
-GoodReads Summaries: https://www.goodreads.com/book/show/348632.The_Blood_of_Flowers#CommunityReviews  
-From the [Author's Summary](http://anitaamirrezvani.com/bloodofflowers.html):  
->"In seventeenth century Iran, a spirited village girl of fourteen approaches the age of marriage, only to find her destiny shattered by the ominous prophecies that follow a fiery comet blazing across the desert sky. Confronted with the unexpected death of her beloved father and without prospects for gathering a dowry, the young woman and her distraught mother are forced into a difficult new life in the fabled city of Isfahan. Taken in as house servants by her distant uncle Gostaham, a well-to-do carpet designer, and his demanding wife, the two women confront an unforgiving world where their very survival requires strength and resilience beyond their most dire expectations."  
-
-Author's Summary: http://anitaamirrezvani.com/bloodofflowers.html  
-
-</details>
 
 
 <details>
@@ -1715,6 +1737,7 @@ Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20
 
 
 NEEDS FORMATTING ABOVE  
+
 
 </details>
 
