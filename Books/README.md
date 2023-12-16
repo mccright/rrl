@@ -294,8 +294,39 @@ By [Hannah Ritchie](https://en.wikipedia.org/wiki/Hannah_Ritchie)
 
 </details>
 
+
 <details>
-<summary>Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think. 2018</summary>
+<summary>Music Theory for the Self-Taught Musician -- ebook - Level 1: The Basics.  By Will Metz.  2022</summary>
+
+### Music Theory for the Self-Taught Musician -- ebook - Level 1: The Basics  
+Ebook: https://www.overdrive.com/media/8686036/music-theory-for-the-self-taught-musician  
+By [Will Metz](https://www.linkedin.com/in/guillaume-metz-54539b136/) and some of his [free videos](https://www.willmetzacademy.com/blog)  
+
+</details>
+
+
+<details>
+<summary>Music Theory for the Self-Taught Musician -- ebook - Level 2: Harmony, Composition, and Improvisation.  By Will Metz. 2022</summary>
+
+### Music Theory for the Self-Taught Musician -- ebook - Level 2: Harmony, Composition, and Improvisation  
+Ebook: https://www.overdrive.com/media/8686038/music-theory-for-the-self-taught-musician  
+By [Will Metz](https://www.linkedin.com/in/guillaume-metz-54539b136/) and some of his [free videos](https://www.willmetzacademy.com/blog)  
+
+</details>
+
+
+<details>
+<summary>Guitar Theory For Dummies -- ebook - With Online Practice.  By Desi Serna. 2021</summary>
+
+### Guitar Theory For Dummies -- ebook - With Online Practice  
+Ebook: https://www.overdrive.com/media/7166347/guitar-theory-for-dummies  
+By [Desi Serna](https://www.guitarmusictheory.com/) and some of his [free videos](https://www.youtube.com/user/GuitarMusicTheoryTab) and [archived videos](https://www.guitarmusictheory.com/author/gmt1mj/)  
+
+</details>
+
+
+<details>
+<summary>Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think. By Hans Rosling. 2018</summary>
 
 ### Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think.  
 Ebook: https://www.overdrive.com/media/4669521/factfulness  
