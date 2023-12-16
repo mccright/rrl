@@ -268,9 +268,6 @@ https://www.boldtypebooks.com/titles/ibram-x-kendi/stamped-from-the-beginning/97
 https://en.wikipedia.org/wiki/Stamped_from_the_Beginning  
 By [Ibram X. Kendi](https://www.ibramxkendi.com/bio) and [and here]((https://en.wikipedia.org/wiki/Ibram_X._Kendi)) (1982 - ),  Bold Type Books, Publication date: April 12, 2016; 608 pages  
 
-<details>
-<summary>Reading Notes and 3rd Party Summary:</summary>
-
 Reading Notes:  
 
 3rd Party Summaries:  
@@ -278,6 +275,49 @@ Reading Notes:
 [The Guardian Review By Mark Anthony Neal](https://www.theguardian.com/books/2017/aug/24/stamped-from-beginning-ibram-x-kendi-review), and [Wash.Post Review By Carlos Lozada](https://www.washingtonpost.com/news/book-party/wp/2016/04/15/the-racism-of-good-intentions/)  
 
 </details>
+
+
+<details>
+<summary>Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet. By Hannah Ritchie. 2024</summary>
+
+### Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet. 2024  
+[Pending release January 9, 2024](https://www.nottheendoftheworld.co.uk/)  
+Ebook: https://www.overdrive.com/media/9820151/not-the-end-of-the-world  
+Audio: https://www.overdrive.com/media/9819983/not-the-end-of-the-world  
+By [Hannah Ritchie](https://en.wikipedia.org/wiki/Hannah_Ritchie)  
+
+[GatesNotes Review](https://www.gatesnotes.com/Not-the-End-of-the-World) quote:  
+>"Ritchie has a perspective shaped less by the news than by the facts -- something she’s refined through her work as lead researcher at 'Our World in Data,' an online platform that publishes some of my favorite data-driven articles and graphics on global issues today. (The Gates Foundation is a funder.) ...she uses those facts to tell a surprisingly optimistic and often counterintuitive story, one that completely contradicts the doomsday-ism in most climate change conversations.  After reading her whole book -- which comes out in the U.S. on January 9, 2024, and in the U.K. on January 11 -- I can confidently say that Ritchie has done for the environment what (Hans) Rosling spent his life doing for public health and global development."  
+
+[Our World in Data](https://ourworldindata.org/)  
+[Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling)  
+
+</details>
+
+<details>
+<summary>Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think. 2018</summary>
+
+### Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think.  
+Ebook: https://www.overdrive.com/media/4669521/factfulness  
+Audio: https://www.overdrive.com/media/3940143/factfulness  
+By [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling)  (1948 - 2017)  
+
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Factfulness...](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think)  
+See his: [Ten rules of thumb helping to avoid overdramatic interpretations](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think#Rules_of_thumb)  
+GatesNotes Summary: https://www.gatesnotes.com/Factfulness#  
+
+</details>
+
+
+<details>
+<summary>Invention and Innovation: A Brief History of Hype and Failure.  By Vaclav Smil 2023  </summary>
+
+### Invention and Innovation: A Brief History of Hype and Failure.  
+By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2023
+
+[GatesNotes Review](https://www.gatesnotes.com/Invention-and-Innovation) quote:  
+>"Smil believes there was only one real period of explosive innovation in the past 150 years: 1867-1914. During those years, inventors created internal combustion engines, electric lights, the telephone, inexpensive methods of producing steel, aluminum smelting, plastics, and the first electronic devices. Humanity also gained revolutionary insights in the fields of infectious disease, medicine, agriculture, and nutrition."  
 
 </details>
 
@@ -328,9 +368,6 @@ By [Ian Brennan](https://en.wikipedia.org/wiki/Ian_Brennan_(music_producer)) and
 Foreword by [Corin Tucker](https://en.wikipedia.org/wiki/Corin_Tucker)  
 Allworth, Publication date: February 23, 2016; 426 pages  
 
-<details>
-<summary>Reading Notes and Publisher's Summary</summary>
-
 Reading Notes:  
 
 [Publisher's Summary](https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/):  
@@ -342,7 +379,6 @@ All recordings document life, arising from a specific time and place, and if tha
 * The saturation of music in everyday life  
 
 This guide serves those who ask themselves, "What's wrong with our culture?" Along with possible answers are lessons in using the microphone as a telescope, hearing the earth as an echo, and appreciating the value of democratizing voices.  
-</details>
 
 </details>
 
