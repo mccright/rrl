@@ -222,17 +222,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 ## Pending or Currently Underway:  
 
 <details>
-<summary>The mysterious case of Rudolf Diesel : genius, power, and deception on the eve of World War I. By Douglas Brunt. 2023</summary>
-
-### The mysterious case of Rudolf Diesel : genius, power, and deception on the eve of World War I. By Douglas Brunt. 2023  
-https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=493593  
-374 pages  
-Summary:  
-September 29, 1913: the steamship Dresden is halfway between Belgium and England. On board is one of the most famous men in the world, Rudolf Diesel, whose new internal combustion engine is on the verge of revolutionizing global industry forever. But Diesel never arrives at his destination. He vanishes during the night and headlines around the world wonder if it was an accident, suicide, or murder. After rising from an impoverished European childhood, Diesel had become a multi-millionaire with his powerful engine that does not require expensive petroleum-based fuel. In doing so, he became not only an international celebrity but also the enemy of two extremely powerful men: Kaiser Wilhelm II of Germany and John D. Rockefeller, the founder of Standard Oil and the richest man in the world. The Kaiser wanted the engine to power a fleet of submarines that would finally allow him to challenge Great Britain's Royal Navy. But Diesel had intended for his engine to be used for the betterment of mankind and refused to keep the technology out of the hands of the British or any other nation. For John D. Rockefeller, the engine was nothing less than an existential threat to his vast and lucrative oil empire. As electric lighting began to replace kerosene lamps, Rockefeller's bottom line depended on the world's growing thirst for gasoline to power its automobiles and industries. At the outset of this new age of electricity and oil, Europe stood on the precipice of war. Rudolf Diesel grew increasingly concerned about Germany's rising nationalism and military spending. The inventor was on his way to London to establish a new company that would help Britain improve its failing submarine program when he disappeared. -- From publisher's website.  
-
-</details>
-
-<details>
 <summary>"The Sixth Extinction -- An Unnatural History." By Elizabeth Kolbert 2014</summary>
 
 ### "The Sixth Extinction -- An Unnatural History."  
@@ -251,6 +240,8 @@ By [Elizabeth Kolbert](https://en.wikipedia.org/wiki/Elizabeth_Kolbert)  (1961 -
 <summary>Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power. By Noam Chomsky.  2017</summary>
 
 ### Requiem for the American Dream: The 10 Principles of Concentration of Wealth & Power.  
+Ebook: https://www.overdrive.com/media/2950318/requiem-for-the-american-dream  
+Audio: https://www.overdrive.com/media/3783918/requiem-for-the-american-dream  
 By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)  
 [Wikipedia Summary](https://en.wikipedia.org/wiki/Requiem_for_the_American_Dream):  
 >(*This is*) a book by political activist and linguist Noam Chomsky. It was created and edited by Peter Hutchinson, Kelly Nyks, and Jared P. Scott. It lays out Chomsky's analysis of [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism).  It focuses on the concentration of wealth and power in United States over the past forty years, analyzing the [income inequality](https://en.wikipedia.org/wiki/Economic_inequality).  The book was published by Seven Stories Press in 2017.  
@@ -264,15 +255,18 @@ By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)
 
 ### Stamped from the Beginning: The Definitive History of Racist Ideas in America.  
 https://www.ibramxkendi.com/stampedbook  
+Ebook: https://www.overdrive.com/media/3332121/stamped-from-the-beginning  
+Audio: https://www.overdrive.com/media/10236401/stamped-from-the-beginning  
 https://www.boldtypebooks.com/titles/ibram-x-kendi/stamped-from-the-beginning/9781568585987/  
-https://en.wikipedia.org/wiki/Stamped_from_the_Beginning  
 By [Ibram X. Kendi](https://www.ibramxkendi.com/bio) and [and here]((https://en.wikipedia.org/wiki/Ibram_X._Kendi)) (1982 - ),  Bold Type Books, Publication date: April 12, 2016; 608 pages  
 
 Reading Notes:  
 
 3rd Party Summaries:  
 [Author's Summary](https://www.ibramxkendi.com/stamped).  
-[The Guardian Review By Mark Anthony Neal](https://www.theguardian.com/books/2017/aug/24/stamped-from-beginning-ibram-x-kendi-review), and [Wash.Post Review By Carlos Lozada](https://www.washingtonpost.com/news/book-party/wp/2016/04/15/the-racism-of-good-intentions/)  
+Wikipedia Summary](https://en.wikipedia.org/wiki/Stamped_from_the_Beginning)  
+[The Guardian Review By Mark Anthony Neal](https://www.theguardian.com/books/2017/aug/24/stamped-from-beginning-ibram-x-kendi-review)  
+[Wash.Post Review By Carlos Lozada](https://www.washingtonpost.com/news/book-party/wp/2016/04/15/the-racism-of-good-intentions/)  
 
 </details>
 
@@ -624,5 +618,22 @@ Publisher: U.S. Dept. of Agriculture. 1919, 64 pages
 https://handle.nal.usda.gov/10113/5420532  
 By Kelley, M. A. R. (Manly Alexander Raymond)  
 Publisher: U.S. Dept. of Agriculture. 1940, 58 pages  
+
+</details>
+
+
+<details>
+<summary>The mysterious case of Rudolf Diesel : genius, power, and deception on the eve of World War I. By Douglas Brunt. 2023</summary>
+
+### The mysterious case of Rudolf Diesel : genius, power, and deception on the eve of World War I. By Douglas Brunt. 2023  
+https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=493593  
+Ebook: https://www.overdrive.com/media/9599062/the-mysterious-case-of-rudolf-diesel  
+Audio: https://www.overdrive.com/media/9596527/the-mysterious-case-of-rudolf-diesel  
+374 pages  
+Summary:  
+September 29, 1913: the steamship Dresden is halfway between Belgium and England. On board is one of the most famous men in the world, Rudolf Diesel, whose new internal combustion engine is on the verge of revolutionizing global industry forever. But Diesel never arrives at his destination. He vanishes during the night and headlines around the world wonder if it was an accident, suicide, or murder. After rising from an impoverished European childhood, Diesel had become a multi-millionaire with his powerful engine that does not require expensive petroleum-based fuel. In doing so, he became not only an international celebrity but also the enemy of two extremely powerful men: Kaiser Wilhelm II of Germany and John D. Rockefeller, the founder of Standard Oil and the richest man in the world. The Kaiser wanted the engine to power a fleet of submarines that would finally allow him to challenge Great Britain's Royal Navy. But Diesel had intended for his engine to be used for the betterment of mankind and refused to keep the technology out of the hands of the British or any other nation. For John D. Rockefeller, the engine was nothing less than an existential threat to his vast and lucrative oil empire. As electric lighting began to replace kerosene lamps, Rockefeller's bottom line depended on the world's growing thirst for gasoline to power its automobiles and industries. At the outset of this new age of electricity and oil, Europe stood on the precipice of war. Rudolf Diesel grew increasingly concerned about Germany's rising nationalism and military spending. The inventor was on his way to London to establish a new company that would help Britain improve its failing submarine program when he disappeared. -- From publisher's website.  
+
+Publishers Weekly Summary: https://www.publishersweekly.com/9781982169909  
+Review by Andrea Pitzer: https://www.washingtonpost.com/books/2023/09/24/mysterious-case-rudolf-diesel-douglas-brunt/  
 
 </details>
