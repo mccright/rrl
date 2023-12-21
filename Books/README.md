@@ -442,9 +442,15 @@ ISBN: 9780063074323
 <summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
 
 ### The Ministry for the Future  
-https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  published 2020  
-[Review placeholder](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
+Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
+Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 - _)  
+Published October 2020, 576 pages  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
+
+See the audio book entry on my [AudioBooks page](https://mccright.github.io/rrl/AudioBooks/#ministry_for_the_future)  
+This may be one of those books to read after listening to it.   
 
 </details>
 
