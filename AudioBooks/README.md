@@ -150,6 +150,7 @@ Librivox Summary:
 
 <details><summary>Aurora, By Kim Stanley Robinson. 2015 </summary>
 
+<a name="aurora"></a>
 ### Aurora (17:00)  
 https://www.overdrive.com/media/2234713/aurora  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
@@ -1016,6 +1017,19 @@ See the Wikipedia summary: https://en.wikipedia.org/wiki/Mornings_on_Horseback
 </details>
 
 
+<details><summary>A Most Agreeable Murder -- A Novel. By Julia Seales.  2023 </summary>
+
+### A Most Agreeable Murder -- A Novel. (9:07)  
+Audio: https://www.overdrive.com/media/9295815/a-most-agreeable-murder  
+Ebook: https://www.overdrive.com/media/9267024/a-most-agreeable-murder  
+By [Julia Seales](https://www.juliamaeseales.com/)  
+
+Reader Notes: Oldest daughter in a family of girls, locked in her country room Beatrice Steele *secretly* investigates and solves crimes described in *the papers* by detective Sir Huxley.  At the annual autumn ball at Swampshire's Stabmort Park, a murder (*and then another*), and Beatrice springs into action to find the killer... Oddly humorous, satirical, sometimes almost slapstick dialog drives this story forward.  I recommend it as lightweight entertainment to anyone.  
+Kirkus Reviews Summary: [https://www.kirkusreviews.com/book-reviews/julia-seales/a-most-agreeable-murder/](https://www.kirkusreviews.com/book-reviews/julia-seales/a-most-agreeable-murder/)  
+
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -1034,6 +1048,7 @@ Librivox Summary:
 <details>
 <summary>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
+<a name="new_york_2140"></a>
 ### New York 2140 (22:35)  
 Audio: https://www.overdrive.com/media/3007194/new-york-2140  
 Ebook: https://www.overdrive.com/media/2841960/new-york-2140  
@@ -1270,6 +1285,7 @@ Librivox Summary:
 
 <details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
+<a name="shaman"></a>
 ### Shaman (15:00)  
 https://www.overdrive.com/media/1372669/shaman  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
@@ -1531,6 +1547,32 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 ## Pending or Currently Underway:  
 
 
+
+<details>
+<summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
+
+<a name="ministry_for_the_future"></a>
+### The Ministry for the Future  (20:42)  
+Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
+Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 - _)  
+Published October 2020, 576 pages  
+
+Reader Notes: ...fictional eye witness accounts... Robinson's *Ministry of the Future" is established by the United Nations in order to more effectively "advocate for the world’s future generations of citizens, whose rights, as defined in the Universal Declaration of Human Rights, are as valid as our own" and "charged with defending all living creatures present and future who cannot speak for themselves, by promoting their legal standing and physical protection." (*quotes from [Gerry Canavan](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)*)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
+
+* Chicago Review of Books Interview with KSR by Amy Brady	October 27, 2020 [https://chireviewofbooks.com/...ministry-for-the-future/](https://chireviewofbooks.com/2020/10/27/a-crucial-collapse-in-the-ministry-for-the-future/)  
+* The New Yorker Review By Joshua Rothman [https://www.newyorker.com/...can-science-fiction-wake-us-up...](https://www.newyorker.com/magazine/2022/01/31/can-science-fiction-wake-us-up-to-our-climate-reality-kim-stanley-robinson)  
+* L.A. Review of Books Review by Gerry Canavan [https://lareviewofbooks.org/...ministry-for-the-future/](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)  
+* Yale Climate Connections Review by Michael Svoboda  [https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future...](https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future-a-novel-by-kim-stanley-robinson/)  
+* America Magazine Review By Vincent Miller [https://www.americamagazine.org/...minsitry-future-kim-stanley-robinson-241009](https://www.americamagazine.org/arts-culture/2021/07/15/minsitry-future-kim-stanley-robinson-241009)
+* The New York Review By Bill McKibben [https://www.nybooks.com/...kim-stanley-robinson-not-science-fiction/](https://www.nybooks.com/articles/2020/12/17/kim-stanley-robinson-not-science-fiction/)  
+* [GatesNotes Summary/Review](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
+
+</details>
+
+
+
 <details>
 <summary>Is Shakespeare Dead?  By Mark Twain.  1909</summary>
 
@@ -1573,6 +1615,7 @@ In a small village on the coast of Northern Norway lives the Myran family. Fathe
 </details>
 
 
+<a name="mars_series"></a>
 
 <details>
 <summary>Also, look at and pick one of these SiFi novels... </summary> 
