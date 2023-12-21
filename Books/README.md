@@ -327,7 +327,6 @@ Ebook: https://www.overdrive.com/media/4669521/factfulness
 Audio: https://www.overdrive.com/media/3940143/factfulness  
 By [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling)  (1948 - 2017)  
 
-
 Wikipedia Summary: [https://en.wikipedia.org/wiki/Factfulness...](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think)  
 See his: [Ten rules of thumb helping to avoid overdramatic interpretations](https://en.wikipedia.org/wiki/Factfulness:_Ten_Reasons_We%27re_Wrong_About_the_World_%E2%80%93_and_Why_Things_Are_Better_Than_You_Think#Rules_of_thumb)  
 GatesNotes Summary: https://www.gatesnotes.com/Factfulness#  
@@ -351,6 +350,8 @@ By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2023
 <summary>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
 
 ### How the World Really Works: The Science Behind How We Got Here and Where We're Going.  
+Ebook: https://www.overdrive.com/media/6495140/how-the-world-really-works  
+Audio: https://www.overdrive.com/media/6490996/how-the-world-really-works  
 By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022, 336 pages  
 This is a useful book, one that should be required reading for anyone.  
 Summary at: https://www.kirkusreviews.com/book-reviews/vaclav-smil/how-the-world-really-works/ and read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
@@ -387,6 +388,7 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 <summary>How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts. By Ian Brennan.  2016</summary>
 
 ### How Music Dies (or Lives): Field Recording and the Battle for Democracy in the Arts.  
+Ebook: https://www.overdrive.com/media/2570801/how-music-dies-or-lives-field-recording-and-the-battle-f  
 https://www.skyhorsepublishing.com/allworth-press/9781621534877/how-music-dies-or-lives/  
 https://books.google.com/books/about/How_Music_Dies_or_Lives.html?id=YjmCDwAAQBAJ  
 By [Ian Brennan](https://en.wikipedia.org/wiki/Ian_Brennan_(music_producer)) and [and interview here](https://infiniteculture.wordpress.com/2016/01/06/breaking-down-barriers-an-interview-with-ian-brennan/) (1966 - ),  
@@ -413,6 +415,8 @@ This guide serves those who ask themselves, "What's wrong with our culture?" Alo
 <summary>By Hands Now Known - . By Margaret Burnham  2022</summary>
 
 ### : Jim Crow's Legal Executioners  
+Ebook: https://www.overdrive.com/media/8821955/by-hands-now-known  
+Audio: https://www.overdrive.com/media/9143698/by-hands-now-known  
 https://www.google.com/books/edition/By_Hands_Now_Known_Jim_Crow_s_Legal_Exec/9N9hEAAAQBAJ    
 Illustrated | 328 pp. | W.W. Norton & Company  
 By [Margaret A. Burnham](https://en.wikipedia.org/wiki/Margaret_Burnham) and [https://law.northeastern.edu/faculty/burnham/](https://law.northeastern.edu/faculty/burnham/)  
@@ -438,9 +442,15 @@ ISBN: 9780063074323
 <summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
 
 ### The Ministry for the Future  
-https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  published 2020  
-[Review placeholder](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
+Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
+Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 - _)  
+Published October 2020, 576 pages  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
+
+See the audio book entry on my [AudioBooks page](https://mccright.github.io/rrl/AudioBooks/#ministry_for_the_future)  
+This may be one of those books to read after listening to it.   
 
 </details>
 
