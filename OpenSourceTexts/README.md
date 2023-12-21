@@ -3,6 +3,134 @@
 
 ## Completed:  
 
+
+<details><summary>Anchorite. By Randall Garrett.  1962 </summary>
+
+### Anchorite.  1962  
+https://www.gutenberg.org/ebooks/23561  
+Audio at: https://librivox.org/anchorite-by-randall-garrett/  
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)  
+Reading Notes:  This story (*and the Librivox summary below*) while entertaining and a worthwhile read, seem loosely like a science fiction expression of [Ayn Rand'ian romantic realism](https://en.wikipedia.org/wiki/Ayn_Rand#Literary_approach_and_influences) -- with the central characters as heroic individualists or ignorant villains who emphasize duty to your team and collectivist moral ideals.  
+[Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
+>Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
+
+</details>
+
+
+<details><summary>The Call of the Wild.  By Jack London.  1903</summary>
+
+### The Call of the Wild  
+https://www.gutenberg.org/ebooks/215  
+https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
+ 
+</details>
+ 
+
+<details><summary>Critical difference.  By Murray Leinster.  1956</summary>
+
+### Critical difference  
+https://www.gutenberg.org/ebooks/68686  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1956  
+https://en.wikipedia.org/wiki/Murray_Leinster  
+
+</details>
+
+
+<details><summary>The Expendables. by A. E. Van Vogt  1963</summary>  
+
+### The Expendables.  
+https://www.gutenberg.org/ebooks/70235  
+By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
+...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
+
+Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  
+
+</details>
+
+
+<details><summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
+
+### The Farmer's Bride.  
+Text: https://www.gutenberg.org/ebooks/71305  
+Audio: https://librivox.org/the-farmers-bride-by-charlotte-mew/  
+By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride  
+Librivox Summary:  
+>The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
+
+</details>
+
+
+<details><summary>Invasion.  By Murray Leinster.  1933</summary>
+
+### Invasion  
+https://www.gutenberg.org/ebooks/29455  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
+
+</details>
+
+
+<details><summary>The Lake.  By Ray Bradbury.  1944</summary>
+
+### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
+. . . and the Lake keeps people as they were, forever and ever  
+https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
+By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+
+Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
+Summary from Wikipedia:  
+https://en.wikipedia.org/wiki/The_Lake_(short_story)  
+Background from Wikipedia:  
+>Bradbury recounted when he came into his own as a writer, the afternoon he wrote a short story about his first encounter with death. When he was a boy, he met a young girl at a lake edge and she went out into the water and never came back. Years later (*at 22 years old*), as he wrote about it, tears flowed from him. He recognized he had taken the leap from emulating the many writers he admired to connecting with his voice as a writer.  When later asked about the lyrical power of his prose, he replied: "From reading so much poetry every day of my life. My favorite writers have been those who've said things well." He said: "If you're reluctant to weep, you won't live a full and complete life." [https://en.wikipedia.org/wiki/Ray_Bradbury#Writing](https://en.wikipedia.org/wiki/Ray_Bradbury#Writing)  
+
+</details>
+
+
+<details><summary>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
+
+### The Lord of the Sea  
+https://www.gutenberg.org/ebooks/6993  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
+Reading Notes and 3rd Party Summaries:  
+Reading Notes: This book is characterized by "choppy" story telling -- skipping from one vignette to another, sometimes with minimal connective tissue, and fleshing out some (*few*) scenes while leaving others dryly skeletal. Shiel seems most consistent in his threading of anti-semitism throughout the many literary sketches that make up this book (*this content may be offensive for many, even inappropriate for some*).  
+3rd Party Summaries:  
+"The Lord of the Sea." January 8, 2021 by Philip Jenkins https://www.patheos.com/blogs/anxiousbench/2021/01/the-lord-of-the-sea-2/  
+"The First Alt-Right Novel? -- M. P. Shiel’s Weird Anti-Semitism." 2016(?), By James J. O'Meara. https://counter-currents.com/2016/08/m-p-shiels-weird-anti-semitism/  
+
+</details>
+
+
+<details><summary>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
+
+### My Three Years In Manipur: And Escape From The Recent Mutiny.  
+https://www.gutenberg.org/ebooks/71726  
+https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
+https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
+By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
+
+Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
+This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
+
+[Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
+>The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
+
+</details>
+
+
+<details><summary>The Quantum Jump.  By Robert Wicks.  1958</summary>
+
+### The Quantum Jump.  
+https://www.gutenberg.org/ebooks/24418  
+This story was published in Amazing Science Fiction Stories, October 1958.  
+By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
+Reading Notes:  
+This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  There are at least three audio versions of this short story.  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+
+</details>
+
+
 <details><summary>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
@@ -28,8 +156,28 @@ One more thing.  Edward M. House wrote this story about the 1920s sometime befor
 </details>
 
 
-<details>
-<summary>The shipwreck. By William Falconer.  1762 </summary>  
+<details><summary>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
+
+### Roger the Ranger: A Story of Border Life Among the Indians  
+https://www.gutenberg.org/ebooks/68694  
+By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911), published 1893  
+
+Reader Summary: Historical fiction likely targeted at middle-schoolers...  [Charles Langlade](https://en.wikipedia.org/wiki/Charles_Michel_de_Langlade) and (*fictional*) Roger Boscowen, friends since childhood, part ways when they choose opposite sides in the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (*1750s*).  Famous French General [Louis de Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) joined Canada and is helped by Langlade -- but less by Canadian Governor [Marquis de Vaudreuil-Cavagnial](https://en.wikipedia.org/wiki/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial).  Some in the government of French Canada use De Montcalm's daughter to increase the complexity of the General's job...  This is not a history of the French and Indian War and veers far from some of the facts as they are known today.  Rather, it is a morality tale, a family drama, and a coming-of-age story that occurs mid-18th century New England.  
+
+</details>
+
+
+<details><summary>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
+
+### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
+https://www.gutenberg.org/ebooks/68780  
+By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
+Note: This mid-19th century travel narrative (novel?) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
+
+</details>
+
+
+<details><summary>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 https://www.gutenberg.org/ebooks/69336  
@@ -37,8 +185,6 @@ or https://quod.lib.umich.edu/e/evans/n16417.0001.001?rgn=main;view=fulltext
 https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
 Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/
 By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
 
 Reading Notes:  
 The interesting biography of William Falconer was more enjoyable than the extensive poem.  The style and some content of the poetry may turn some off, but it includes some excellent rhymes (*think song lyrics*).  
@@ -52,121 +198,6 @@ https://www.gutenberg.org/ebooks/57705
 By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
 
 </details>
-</details>
-
-
-<details><summary>Anchorite. By Randall Garrett.  1962 </summary>
-
-### Anchorite.  1962  
-https://www.gutenberg.org/ebooks/23561  
-Audio at: https://librivox.org/anchorite-by-randall-garrett/  
-By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)  
-Reading Notes:  This story (*and the Librivox summary below*) while entertaining and a worthwhile read, seem loosely like a science fiction expression of [Ayn Rand'ian romantic realism](https://en.wikipedia.org/wiki/Ayn_Rand#Literary_approach_and_influences) -- with the central characters as heroic individualists or ignorant villains who emphasize duty to your team and collectivist moral ideals.  
-[Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
->Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
-
-</details>
-
-<details><summary>Roger the Ranger: A Story of Border Life Among the Indians. By Eliza Fanny Pollard.  1893 </summary>
-
-### Roger the Ranger: A Story of Border Life Among the Indians  
-https://www.gutenberg.org/ebooks/68694  
-By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911), published 1893  
-
-Reader Summary: Historical fiction likely targeted at middle-schoolers...  [Charles Langlade](https://en.wikipedia.org/wiki/Charles_Michel_de_Langlade) and (*fictional*) Roger Boscowen, friends since childhood, part ways when they choose opposite sides in the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (*1750s*).  Famous French General [Louis de Montcalm](https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm) joined Canada and is helped by Langlade -- but less by Canadian Governor [Marquis de Vaudreuil-Cavagnial](https://en.wikipedia.org/wiki/Pierre_de_Rigaud,_marquis_de_Vaudreuil-Cavagnial).  Some in the government of French Canada use De Montcalm's daughter to increase the complexity of the General's job...  This is not a history of the French and Indian War and veers far from some of the facts as they are known today.  Rather, it is a morality tale, a family drama, and a coming-of-age story that occurs mid-18th century New England.  
-
-</details>
-
-<details><summary>The Quantum Jump.  By Robert Wicks.  1958</summary>
-
-### The Quantum Jump.  
-https://www.gutenberg.org/ebooks/24418  
-This story was published in Amazing Science Fiction Stories, October 1958.  
-By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
-Reading Notes:  
-This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  There are at least three audio versions of this short story.  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
-
-</details>
-
-<details><summary>Invasion.  By Murray Leinster.  1933</summary>
-
-### Invasion  
-https://www.gutenberg.org/ebooks/29455  
-By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
-
-</details>
-
-<details><summary>Critical difference.  By Murray Leinster.  1956</summary>
-
-### Critical difference  
-https://www.gutenberg.org/ebooks/68686  
-By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1956  
-https://en.wikipedia.org/wiki/Murray_Leinster  
-
-</details>
-
-<details><summary>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
-
-### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
-https://www.gutenberg.org/ebooks/68780  
-By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
-Note: This mid-19th century travel narrative (novel?) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)"  
-
-</details>
-
-<details><summary>The Call of the Wild.  By Jack London.  1903</summary>
-
-### The Call of the Wild  
-https://www.gutenberg.org/ebooks/215  
-https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
-By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
- 
-</details>
- 
-<details><summary>The Lake.  By Ray Bradbury.  1944</summary>
-
-### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
-. . . and the Lake keeps people as they were, forever and ever  
-https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
-By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
-
-Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
-Summary from Wikipedia:  
-https://en.wikipedia.org/wiki/The_Lake_(short_story)  
-Background from Wikipedia:  
->Bradbury recounted when he came into his own as a writer, the afternoon he wrote a short story about his first encounter with death. When he was a boy, he met a young girl at a lake edge and she went out into the water and never came back. Years later (*at 22 years old*), as he wrote about it, tears flowed from him. He recognized he had taken the leap from emulating the many writers he admired to connecting with his voice as a writer.  When later asked about the lyrical power of his prose, he replied: "From reading so much poetry every day of my life. My favorite writers have been those who've said things well." He said: "If you're reluctant to weep, you won't live a full and complete life." [https://en.wikipedia.org/wiki/Ray_Bradbury#Writing](https://en.wikipedia.org/wiki/Ray_Bradbury#Writing)  
-
-</details>
-
-<details><summary>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>  
-
-### My Three Years In Manipur: And Escape From The Recent Mutiny.  
-https://www.gutenberg.org/ebooks/71726  
-https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
-https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
-By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
-
-Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
-This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
-
-[Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
->The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
-
-</details>
-</details>
-
-<details><summary>The Expendables. by A. E. Van Vogt  1963</summary>  
-
-### The Expendables.  
-https://www.gutenberg.org/ebooks/70235  
-By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
-...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
-
-Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  
-
-</details>
 
 -----
 
@@ -174,12 +205,13 @@ Reading Notes:  This short book begins with "One hundred and nine years after le
 ## Pending or Currently Underway:  
 
 <details>
-<summary> </summary>  
-###   
+<summary>Empty_Template </summary>
+
+### Empty_Template  
   
 By []()  ( – )  
 <details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
+<summary>Reading Notes and 3rd Party Summaries</summary>
 
 Reading Notes:  
 
@@ -191,6 +223,7 @@ Reading Notes:
 
 <details>
 <summary>The history of our Navy from its origin to the present day 1775-1897, vol. 1 (of 4). By John Randolph Spears. 1897</summary>
+
 https://www.gutenberg.org/ebooks/71794
 By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
 
@@ -198,6 +231,7 @@ By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (
 
 <details>
 <summary>The history of our Navy from its origin to the present day 1775-1897, vol. 2 (of 4). By John Randolph Spears. 1897</summary>
+
 https://www.gutenberg.org/ebooks/71795
 By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
 
@@ -205,6 +239,7 @@ By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (
 
 <details>
 <summary>The history of our Navy from its origin to the present day 1775-1897, vol. 3 (of 4). By John Randolph Spears. 1897</summary>
+
 https://www.gutenberg.org/ebooks/71796
 By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
 
@@ -212,6 +247,7 @@ By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (
 
 <details>
 <summary>The history of our Navy from its origin to the present day 1775-1897, vol. 4 (of 4). By John Randolph Spears. 1897</summary>
+
 https://www.gutenberg.org/ebooks/71797
 By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
 
@@ -219,6 +255,7 @@ By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (
 
 <details>
 <summary>The Story of the American Merchant Marine.  By John Randolph Spears. 1910</summary>
+
 https://www.gutenberg.org/ebooks/53122
 By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (1850-1936)  
 
@@ -226,7 +263,8 @@ By [John Randolph Spears](https://en.wikipedia.org/wiki/John_Randolph_Spears). (
 
 
 <details>
-<summary>Steel: A manual for steel users. By William Metcalf. 1896</summary>  
+<summary>Steel: A manual for steel users. By William Metcalf. 1896</summary>
+
 https://www.gutenberg.org/ebooks/71782  
 By [William Metcalf](https://en.wikipedia.org/wiki/William_Metcalf_(manufacturer)) (1838 - 1909)  
 
@@ -259,40 +297,11 @@ A Summer Journey In The West. By Eliza R. Steele 1841
 https://www.gutenberg.org/ebooks/71725  
 By Eliza R. Steele ()  
 
-<details>
-<summary>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>  
-
-### The Lord of the Sea  
-https://www.gutenberg.org/ebooks/6993  
-By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
-Reading Notes and 3rd Party Summaries:  
-Reading Notes: This book is characterized by "choppy" story telling -- skipping from one vignette to another, sometimes with minimal connective tissue, and fleshing out some (*few*) scenes while leaving others dryly skeletal. Shiel seems most consistent in his threading anti-semitism throughout the many literary sketches that make up this book (*this content may be offensive for many, even inappropriate for some*).  
-3rd Party Summaries:  
-"The Lord of the Sea." January 8, 2021 by Philip Jenkins https://www.patheos.com/blogs/anxiousbench/2021/01/the-lord-of-the-sea-2/  
-"The First Alt-Right Novel? -- M. P. Shiel’s Weird Anti-Semitism." 2016(?), By James J. O'Meara. https://counter-currents.com/2016/08/m-p-shiels-weird-anti-semitism/  
-
-</details>
-
-
-<details>
-<summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>  
-
-### The Farmer's Bride.  
-Text: https://www.gutenberg.org/ebooks/71305  
-Audio: https://librivox.org/the-farmers-bride-by-charlotte-mew/  
-By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride  
-Librivox Summary:  
->The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
-
-</details>
-
 
 
 
 <details>
-<summary>Mahatma Gandhi: The Man Who Became One With the Universal Being. 1924</summary>  
+<summary>Mahatma Gandhi: The Man Who Became One With the Universal Being. 1924</summary>
 
 ### [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi): The Man Who Became One With the Universal Being.  
 https://www.gutenberg.org/ebooks/61575  
@@ -309,7 +318,8 @@ Reading Notes:
 </details>
 
 <details>
-<summary>Where do we go from here? By Rev. Martin Luther King Jr.  1967</summary>  
+<summary>Where do we go from here? By Rev. Martin Luther King Jr.  1967</summary>
+
 ### Where do we go from here?  1967  
 https://kinginstitute.stanford.edu/where-do-we-go-here  
 By [Rev. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)  (1929 – 1968)  Delivered 16 August 1967, in Atlanta, Georgia.  
@@ -317,13 +327,14 @@ By [Rev. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_Kin
 <summary>Reading Notes</summary>  
 
 Reading Notes:  
+
 </details>
 </details>
 
 
 
 <details>
-<summary>The Wade Prisoner of War Papers - WWII.  By Dr. Wade Walter Nyquist 1995  </summary>  
+<summary>The Wade Prisoner of War Papers - WWII.  By Dr. Wade Walter Nyquist 1995  </summary>
 
 ### The Wade Prisoner of War Papers - WWII.  1995  
 By Dr. Wade Walter Nyquist (1919-2000). Written August 1995.  
@@ -331,7 +342,8 @@ https://www.ekn.io/wadenyquist_compressed_pdf/
 (*Thank you [Erik Nyquist](https://github.com/eriknyquist)*) and [https://www.ekn.io/wadenyquist/](https://www.ekn.io/wadenyquist/)  
 
 <details>
-<summary>Reading Notes and 3rd Party Summary</summary>  
+<summary>Reading Notes and 3rd Party Summary</summary>
+
 Reading Notes:  
 
 Summary by Eric Nyquist:  
@@ -340,51 +352,26 @@ Summary by Eric Nyquist:
 </details>
 </details>
 
-<details>
-<summary>Man of Many Minds. By E. Everett Evans  1959 </summary>  
-
-### Man of Many Minds.  1959  
-https://www.gutenberg.org/ebooks/19660  
-Audio version: https://librivox.org/man-of-many-minds-by-edward-everett-evans/  
-https://en.wikipedia.org/wiki/Man_of_Many_Minds  
-By E. Everett Evans](https://en.wikipedia.org/wiki/E._Everett_Evans)  (1893-1958)  
-Pyramid Books edition: November, 1959  
 
 <details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
-
-Reading Notes:  
-
-Librivox Summary:  
->GALAXY IN DANGER!  Somewhere, somehow, the first moves have been made—the pattern is beginning to emerge. Someone—or something—is on the way to supreme power over all the planets held by Man.  And the Inter-stellar Corps is helpless to meet the threat—no normal man can hope to penetrate the conspiracy.  But—the Corps has a man who isn't normal, a man with a very strange weapon ... his mind. Exciting! Strange! Extraordinary! One of the most unusual science fiction adventures ever published.  Space travel, telepathy, and heroism! Military school cadet George Hanlon is selected to join an elite, super-secret, secret service organization. He has extraordinary mental powers, among them the ability to talk to animals and transfer parts of his mind into them. Old-school space opera! ([Summary by TriciaG and from the preface](https://librivox.org/man-of-many-minds-by-edward-everett-evans/))  
-
-</details>
-</details>
-
-<details>
-<summary>Myths That Every Child Should Know.  By Hamilton Wright Mabie.  1906 </summary>  
+<summary>Myths That Every Child Should Know.  By Hamilton Wright Mabie.  1906 </summary>
 
 ### Myths That Every Child Should Know  
 https://www.gutenberg.org/ebooks/16537  
 By [Hamilton Wright Mabie](https://en.wikipedia.org/wiki/Hamilton_Wright_Mabie) (1846 – 1916) and illustrated by [Blanche Ostertag](https://en.wikipedia.org/wiki/Blanche_Ostertag) (1872 – 1915)  
-
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
 
 Reading Notes:  
 
 3rd Party Summaries:  
 
 </details>
-</details>
 
 <details>
-<summary>A Modest Proposal.  By Dr. Jonathan Swift  1729 </summary>  
+<summary>A Modest Proposal.  By Dr. Jonathan Swift  1729 </summary>
+
 ### A Modest Proposal -- For preventing the children of poor people in Ireland, from being a burden on their parents or country, and for making them beneficial to the publick.  1729  
 https://www.gutenberg.org/ebooks/1080  
 By Dr. [Jonathan Swift](https://en.wikipedia.org/wiki/Jonathan_Swift)  (1667-1745)  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
 
 Reading Notes:  
 
@@ -394,11 +381,10 @@ Librivox Summary:
 >Jonathan Swift almost defines satire in this biting and brutal pamphlet in which he suggests that poor (Catholic) Irish families should fatten up their children and sell them to the rich (Protestant) land owners, thus solving the twin problems of starving children and poverty in one blow. When the “Proposal” was published in 1729, Swift was quickly attacked, and even accused of barbarity – the exact state the “Proposal” was written to expose. [Summary by Hugh](https://librivox.org/a-modest-proposal-by-jonathan-swift/)  
 
 </details>
-</details>
 
 
 <details>
-<summary>The Myths of Mexico & Peru.  By Lewis Spence.   1913</summary>  
+<summary>The Myths of Mexico & Peru.  By Lewis Spence.   1913</summary>
 
 ### The Myths of Mexico & Peru   1913  
 https://www.gutenberg.org/ebooks/53080  
@@ -408,11 +394,10 @@ Illustrators: [Gilbert James]() and [William Sewell]()
 <summary>Reading Notes and 3rd Party Summaries</summary>  
 
 </details>
-</details>
 
 
 <details>
-<summary>One of the books on Islam by Syed Ameer Ali from the early 20th century </summary>  
+<summary>One of the books on Islam by Syed Ameer Ali from the early 20th century </summary>
 
 ### Islâm  1909  
 https://www.gutenberg.org/ebooks/70136  
@@ -438,12 +423,13 @@ By [Syed Ameer Ali](https://en.wikipedia.org/wiki/Syed_Ameer_Ali)  (1849-1928)
 
 
 <details>
-<summary> </summary>  
-###   
+<summary>Empty_Template </summary>
+
+### Empty_Template  
   
 By []()  ( – )  
 <details>
-<summary>Reading Notes and 3rd Party Summaries</summary>  
+<summary>Reading Notes and 3rd Party Summaries</summary>
 
 Reading Notes:  
 
