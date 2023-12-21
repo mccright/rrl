@@ -148,9 +148,9 @@ Librivox Summary:
 </details>
 
 
+<a name="aurora"></a>
 <details><summary>Aurora, By Kim Stanley Robinson. 2015 </summary>
 
-<a name="aurora"></a>
 ### Aurora (17:00)  
 https://www.overdrive.com/media/2234713/aurora  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
@@ -1045,10 +1045,10 @@ Librivox Summary:
 </details>
 
 
+<a name="new_york_2140"></a>
 <details>
 <summary>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
-<a name="new_york_2140"></a>
 ### New York 2140 (22:35)  
 Audio: https://www.overdrive.com/media/3007194/new-york-2140  
 Ebook: https://www.overdrive.com/media/2841960/new-york-2140  
@@ -1283,9 +1283,9 @@ Librivox Summary:
 </details>
 
 
+<a name="shaman"></a>
 <details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
-<a name="shaman"></a>
 ### Shaman (15:00)  
 https://www.overdrive.com/media/1372669/shaman  
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
@@ -1547,11 +1547,9 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 ## Pending or Currently Underway:  
 
 
-
-<details>
-<summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
-
 <a name="ministry_for_the_future"></a>
+<details><summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
+
 ### The Ministry for the Future  (20:42)  
 Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
 Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future  
