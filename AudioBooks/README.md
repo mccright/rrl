@@ -1547,12 +1547,9 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 ## Pending or Currently Underway:  
 
 
-
-<details>
-
 <a name="ministry_for_the_future"></a>
 
-<summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
+<details><summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
 
 ### The Ministry for the Future  (20:42)  
 Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
