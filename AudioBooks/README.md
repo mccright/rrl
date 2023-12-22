@@ -1044,10 +1044,9 @@ Librivox Summary:
 
 </details>
 
-
 <a name="new_york_2140"></a>
-<details>
-<summary>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
+
+<details><summary>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
 ### New York 2140 (22:35)  
 Audio: https://www.overdrive.com/media/3007194/new-york-2140  
@@ -1282,8 +1281,8 @@ Librivox Summary:
 
 </details>
 
-
 <a name="shaman"></a>
+
 <details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
 ### Shaman (15:00)  
