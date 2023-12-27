@@ -1537,6 +1537,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 </details>
 
 
+<details><summary>A Wrinkle In Time. By Madeleine L'Engle 2012 (1962)</summary>
+
+### A Wrinkle In Time. (6:00)  
+Audio: https://www.overdrive.com/media/567026/a-wrinkle-in-time  
+Ebook: https://www.overdrive.com/media/703174/a-wrinkle-in-time  
+By [Madeleine L'Engle](https://en.wikipedia.org/wiki/Madeleine_L%27Engle) (1918 -- 2007)  
+
+Reader Notes: This is a [young adult](https://en.wikipedia.org/wiki/Young_adult_fiction) [science fantasy](https://en.wikipedia.org/wiki/Science_fantasy) novel written in the *late 1950s*.  Four kids - Meg Murry, Charles Wallace Murry, and Calvin O'Keefe jump space and time on a galacies-long quest to find and rescue the Murrys' father.  The story explores *growing up*, *being yourself*, courage, physics, spiritual life, evil and good in a way that I think works for adults as well as the 12 to 18 crowd.  
+Review by Mari Ness: https://www.tor.com/2011/12/15/there-is-such-a-thing-as-a-tesseract-a-wrinkle-in-time/  
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Plot_summary  
+Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Reception  
+
+</details>
+
+
 =====
 
   
