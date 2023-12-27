@@ -1537,6 +1537,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 </details>
 
 
+<details><summary>A Wrinkle In Time. By Madeleine L'Engle 2012 (1962)</summary>
+
+### A Wrinkle In Time. (6:00)  
+Audio: https://www.overdrive.com/media/567026/a-wrinkle-in-time  
+Ebook: https://www.overdrive.com/media/703174/a-wrinkle-in-time  
+By [Madeleine L'Engle](https://en.wikipedia.org/wiki/Madeleine_L%27Engle) (1918 -- 2007)  
+
+Reader Notes: This is a [young adult](https://en.wikipedia.org/wiki/Young_adult_fiction) [science fantasy](https://en.wikipedia.org/wiki/Science_fantasy) novel written in the *late 1950s*.  Four kids - Meg Murry, Charles Wallace Murry, and Calvin O'Keefe jump space and time on a galacies-long quest to find and rescue the Murrys' father.  The story explores *growing up*, *being yourself*, courage, physics, spiritual life, evil and good in a way that I think works for adults as well as the 12 to 18 crowd.  
+Review by Mari Ness: https://www.tor.com/2011/12/15/there-is-such-a-thing-as-a-tesseract-a-wrinkle-in-time/  
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Plot_summary  
+Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Reception  
+
+</details>
+
+
 =====
 
   
@@ -1556,7 +1571,8 @@ Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future
 By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 - _)  
 Published October 2020, 576 pages  
 
-Reader Notes: ...fictional eye witness accounts... Robinson's *Ministry of the Future" is established by the United Nations in order to more effectively "advocate for the world’s future generations of citizens, whose rights, as defined in the Universal Declaration of Human Rights, are as valid as our own" and "charged with defending all living creatures present and future who cannot speak for themselves, by promoting their legal standing and physical protection." (*quotes from [Gerry Canavan](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)*)  
+Reader Notes: 20 million (20,000,000) people die in a 2-week heat wave in India.  Robinson's *Ministry of the Future" is established by the United Nations in order to more effectively "advocate for the world’s future generations of citizens, whose rights, as defined in the Universal Declaration of Human Rights, are as valid as our own" and "charged with defending all living creatures present and future who cannot speak for themselves, by promoting their legal standing and physical protection." (*quotes from [Gerry Canavan](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)*)  
+This story is largely a collection of fictional eye witness accounts of activities around the world related to climate change.  While there is a material focus on individuals and teams at the Ministry of the Future, Robinson weaves in climate refugees, scientists in Antarctica, a range of workers and leaders in India, super-rich in Davos...    And *second hand* reports of climate-related news from around the globe.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
 
 * Chicago Review of Books Interview with KSR by Amy Brady	October 27, 2020 [https://chireviewofbooks.com/...ministry-for-the-future/](https://chireviewofbooks.com/2020/10/27/a-crucial-collapse-in-the-ministry-for-the-future/)  
