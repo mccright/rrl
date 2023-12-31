@@ -1004,6 +1004,34 @@ I agree that "old-school space opera" is a good description -- in the context of
 
 </details>
 
+<a name="ministry_for_the_future"></a>
+
+<details><summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
+
+### The Ministry for the Future  (20:42)  
+Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
+Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 - _)  
+Published October 2020, 576 pages  
+
+Reader Notes:  First, everyone should read or listen to this book.  Climate catastrophe remains a real threat and Robinson's book might help with context and inspiration to act (*...or act more*).  
+20 million (20,000,000) people die in a 2-week heat wave in India.  Robinson's *Ministry of the Future" is established by the United Nations in order to more effectively "advocate for the world’s future generations of citizens, whose rights, as defined in the Universal Declaration of Human Rights, are as valid as our own" and "charged with defending all living creatures present and future who cannot speak for themselves, by promoting their legal standing and physical protection." (*quotes from [Gerry Canavan](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)*)  
+This story is largely a collection of fictional eye witness accounts of activities around the world related to climate change.  While there is a material focus on individuals and teams at the Ministry of the Future, Robinson weaves in climate refugees, scientists in Antarctica, a range of workers and leaders in India, super-rich in Davos, carbon...    And *second hand* reports of climate-related news from around the globe.  The story incorporates a wide range of ideas and activities that humans employ to resist climate catastrophe and to begin *healing* earth's ecosystems.  
+Robinson has a LOT of faith in technology and in our ability to evolve it to meet challenges presented by climate change and human responses to it. Some seem like a great fit -- an inspiration. But not all. He seems to believe some of, maybe most of the arguments in favor of replacing existing currencies across the globe with digital currencies tightly coupled to blockchain technology -- I think he says primarily that this approach will be safer, more transparent, and more democratic.  In context, this appears to ignore the energy consumption (*its contributions to climate catastrophe*), operating expenses, and latency confronted when applied at global scale.  Sure, there are organizations trading some of the risk management provided by *difficult* (energy hungry) proof-of-work calculations for a reduction in transaction fees, infrastructure and operations expenses, but it is not clear where Robinson intends his characters go for *safe*, climate-friendly currency.  
+See the summaries/reviews below for a more complete view of this excellent book.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
+
+* Chicago Review of Books Interview with KSR by Amy Brady	October 27, 2020 [https://chireviewofbooks.com/...ministry-for-the-future/](https://chireviewofbooks.com/2020/10/27/a-crucial-collapse-in-the-ministry-for-the-future/)  
+* The New Yorker Review By Joshua Rothman [https://www.newyorker.com/...can-science-fiction-wake-us-up...](https://www.newyorker.com/magazine/2022/01/31/can-science-fiction-wake-us-up-to-our-climate-reality-kim-stanley-robinson)  
+* L.A. Review of Books Review by Gerry Canavan [https://lareviewofbooks.org/...ministry-for-the-future/](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)  
+* Yale Climate Connections Review by Michael Svoboda  [https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future...](https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future-a-novel-by-kim-stanley-robinson/)  
+* America Magazine Review By Vincent Miller [https://www.americamagazine.org/...minsitry-future-kim-stanley-robinson-241009](https://www.americamagazine.org/arts-culture/2021/07/15/minsitry-future-kim-stanley-robinson-241009)
+* The New York Review By Bill McKibben [https://www.nybooks.com/...kim-stanley-robinson-not-science-fiction/](https://www.nybooks.com/articles/2020/12/17/kim-stanley-robinson-not-science-fiction/)  
+* [GatesNotes Summary/Review](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
+
+</details>
+
 
 <details><summary>Mornings on Horseback. By David McCullough.  1981 </summary>
 
@@ -1559,32 +1587,6 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 -----
 
 ## Pending or Currently Underway:  
-
-
-<a name="ministry_for_the_future"></a>
-
-<details><summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
-
-### The Ministry for the Future  (20:42)  
-Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
-Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 - _)  
-Published October 2020, 576 pages  
-
-Reader Notes: 20 million (20,000,000) people die in a 2-week heat wave in India.  Robinson's *Ministry of the Future" is established by the United Nations in order to more effectively "advocate for the world’s future generations of citizens, whose rights, as defined in the Universal Declaration of Human Rights, are as valid as our own" and "charged with defending all living creatures present and future who cannot speak for themselves, by promoting their legal standing and physical protection." (*quotes from [Gerry Canavan](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)*)  
-This story is largely a collection of fictional eye witness accounts of activities around the world related to climate change.  While there is a material focus on individuals and teams at the Ministry of the Future, Robinson weaves in climate refugees, scientists in Antarctica, a range of workers and leaders in India, super-rich in Davos...    And *second hand* reports of climate-related news from around the globe.  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
-
-* Chicago Review of Books Interview with KSR by Amy Brady	October 27, 2020 [https://chireviewofbooks.com/...ministry-for-the-future/](https://chireviewofbooks.com/2020/10/27/a-crucial-collapse-in-the-ministry-for-the-future/)  
-* The New Yorker Review By Joshua Rothman [https://www.newyorker.com/...can-science-fiction-wake-us-up...](https://www.newyorker.com/magazine/2022/01/31/can-science-fiction-wake-us-up-to-our-climate-reality-kim-stanley-robinson)  
-* L.A. Review of Books Review by Gerry Canavan [https://lareviewofbooks.org/...ministry-for-the-future/](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)  
-* Yale Climate Connections Review by Michael Svoboda  [https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future...](https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future-a-novel-by-kim-stanley-robinson/)  
-* America Magazine Review By Vincent Miller [https://www.americamagazine.org/...minsitry-future-kim-stanley-robinson-241009](https://www.americamagazine.org/arts-culture/2021/07/15/minsitry-future-kim-stanley-robinson-241009)
-* The New York Review By Bill McKibben [https://www.nybooks.com/...kim-stanley-robinson-not-science-fiction/](https://www.nybooks.com/articles/2020/12/17/kim-stanley-robinson-not-science-fiction/)  
-* [GatesNotes Summary/Review](https://www.gatesnotes.com/Books/The-Ministry-for-the-Future)  
-
-</details>
-
 
 
 <details>
