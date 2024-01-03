@@ -689,6 +689,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The French Art of Living Well -- Finding Joie de Vivre in the Everyday World. By Cathy Yandell. 2023</summary>
+
+### The French Art of Living Well -- Finding Joie de Vivre in the Everyday World. (7:00)  
+audio: https://www.overdrive.com/media/9693125/the-french-art-of-living-well  
+ebook: https://www.overdrive.com/media/9175811/the-french-art-of-living-well  
+By [Cathy Yandell](https://www.carleton.edu/directory/cyandell/) & [at LinkedIn](https://www.linkedin.com/in/cathy-yandell-11540638)  
+Performed by [Kim Niemi](https://www.linkedin.com/in/kimmyniemi).  
+
+Reader Notes: It seems obvious that C.Yandell loves France and French culture. She also seems well prepared academically and intellectually for this exploration of *being French*.  She shares her observations based on years of living in France, studying French literature & culture, and sharing time with American students on trips to France.  She is an entertaining and thoughtful writer and I am treating this book as foux travel to Paris.  The book is performed by [Kim Niemi](https://www.linkedin.com/in/kimmyniemi) in a way that enhances that travel experience.  
+"[Interview: Cathy Yandell, Author of The French Art of Living Well.](https://francetoday.com/learn/interviews/interview-cathy-yandell-author-of-the-french-art-of-living-well/)" First published: 20 May 2023. By Janet Hulstrand  
+[Essay by the author](https://airmail.news/books/2023/5/the-french-twist) 19 May 2023.  
+"[The French Art of Living Well: 10 Tips from Cathy Yandell’s new book.](https://thesimplyluxuriouslife.com/frenchartoflivingwell10tips/)" By Shannon Ables. 13 August 2023	 
+
+</details>
+
+
 <details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
 ### The Gettysburg Address (0:02:41)  
@@ -1587,7 +1603,6 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 -----
 
 ## Pending or Currently Underway:  
-
 
 <details>
 <summary>Is Shakespeare Dead?  By Mark Twain.  1909</summary>
