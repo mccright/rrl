@@ -1604,6 +1604,21 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 
 ## Pending or Currently Underway:  
 
+
+<details><summary>The Prefect. By Alastair Reynolds. 2011</summary>
+
+### The Prefect. (20:00)  
+Audio: https://www.overdrive.com/media/1556214/the-prefect  
+Ebook: https://www.overdrive.com/media/613444/the-prefect  
+By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 - _)  
+
+Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this series.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the purpose of imposing a strict authoritarian government.  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  
+Publisher Summary:  
+>Tom Dreyfus is a Prefect, a law enforcement officer with the Panoply. His beat is the multifaceted utopian society of the Glitter Band, that vast swirl of space habitats orbiting the planet Yellowstone, the teeming hub of a human interstellar empire spanning many worlds. His current case: investigating a murderous attack against one of the habitats that left 900 people dead, a crime that appalls even a hardened cop like Dreyfus. But then his investigation uncovers something far more serious than mass slaughter -- a covert plot by an enigmatic entity who seeks nothing less than total control of the Glitter Band. Before long, the Panoply detectives are fighting against something worse than tyranny, in a struggle that will lead to more devastation and more death. And Dreyfus will discover that to save what is precious, you may have to destroy it.  
+
+</details>
+
+
 <details>
 <summary>Is Shakespeare Dead?  By Mark Twain.  1909</summary>
 
