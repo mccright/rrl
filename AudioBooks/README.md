@@ -1612,7 +1612,7 @@ Audio: https://www.overdrive.com/media/1556214/the-prefect
 Ebook: https://www.overdrive.com/media/613444/the-prefect  
 By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 - _)  
 
-Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this series.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the purpose of imposing a strict authoritarian government.  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  
+Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this collection.  At half-way through, it seems to stand-alone well and I haven't had the urge to stop and read the prior volumes.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the purpose of imposing a strict authoritarian government.  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  
 Publisher Summary:  
 >Tom Dreyfus is a Prefect, a law enforcement officer with the Panoply. His beat is the multifaceted utopian society of the Glitter Band, that vast swirl of space habitats orbiting the planet Yellowstone, the teeming hub of a human interstellar empire spanning many worlds. His current case: investigating a murderous attack against one of the habitats that left 900 people dead, a crime that appalls even a hardened cop like Dreyfus. But then his investigation uncovers something far more serious than mass slaughter -- a covert plot by an enigmatic entity who seeks nothing less than total control of the Glitter Band. Before long, the Panoply detectives are fighting against something worse than tyranny, in a struggle that will lead to more devastation and more death. And Dreyfus will discover that to save what is precious, you may have to destroy it.  
 
@@ -1664,7 +1664,7 @@ In a small village on the coast of Northern Norway lives the Myran family. Fathe
 <a name="mars_series"></a>
 
 <details>
-<summary>Also, look at and pick one of these SiFi novels... </summary> 
+<summary>Also, look at and pick one of these SiFi novels... </summary>
 
 Mars Series by Kim Stanley Robinson  
 Red Mars.  2000  
@@ -1739,11 +1739,11 @@ The Lost Apothecary: A Novel. By Sarah Penner. 2021
 
 
 <details>
-<summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>  
+<summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
 
 ### Collected Works of Saint Patrick. (01:01)  
 https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
-Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick    
+Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick  
 By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
 
 Librivox Summary:  
@@ -1753,7 +1753,7 @@ Librivox Summary:
 
 
 <details>
-<summary> </summary>  
+<summary>Template </summary>  
 
 ###   
   
@@ -1802,9 +1802,9 @@ Librivox Summary:
 
 -------------------  
 
-<details><summary>This section still needs formatting:<summary>
+<details><summary>This section still needs formatting:</summary>
 
-<details><summary>Matrix.  By Lauren Groff<summary>
+<details><summary>Matrix.  By Lauren Groff</summary>
 
 ### Matrix.  
 By [Lauren Groff]()  
@@ -1812,9 +1812,8 @@ Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough
 
 </details>
 
-<details><summary><summary>
+<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
 
-The Last Evolution.  By John Wood Campbell, Jr.  1932  
 ### The Last Evolution.  (53:00)  
 https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
 Text: https://www.gutenberg.org/ebooks/27462  
@@ -1824,9 +1823,8 @@ By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (19
 
 </details>
 
-<details><summary><summary>
+<details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
 
-The Flight of the Shadow.  By Laura M. Dake.  1899  
 The Flight of the Shadow.  (2:02)  
 https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/  
 Text: https://www.loc.gov/item/99002896/  
@@ -1837,23 +1835,25 @@ The original printing of The Flight of the Shadow is a highly sought novel among
 
 </details>
 
-<details><summary><summary>
+<details><summary>Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol. By U.S. House Select Committee on the January 6 Attack. 2022</summary>
 
-Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol  
+### Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol  
 Running Time: 22:24:13, Read by: Aaron Bennett  
 https://librivox.org/final-report-of-the-select-committee-to-investigate-the-january-sixth-attack-on-the-united-states-capitol-by-united-states-house-of-representatives/  
 Text: https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/html-submitted/index.html  
-Archived Original Report: https://www.webharvest.gov/congress117th/20221231143403/january6report.house.gov/ and https://www.webharvest.gov/congress117th/20221224181921/https://january6th.house.gov/report-executive-summary  
+Archived Original Report: https://www.webharvest.gov/congress117th/20221231143403/january6report.house.gov/ and  https://www.webharvest.gov/congress117th/20221224181921/https://january6th.house.gov/report-executive-summary  
 By the [United States House of Representatives](https://en.wikipedia.org/wiki/United_States_House_of_Representatives) and the [United States House Select Committee on the January 6 Attack](https://en.wikipedia.org/wiki/United_States_House_Select_Committee_on_the_January_6_Attack)  
 Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov  
 >This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
 
 </details>
 
+
 NEEDS FORMATTING ABOVE  
 
 
 </details>
+
 
 -------------------  
 
@@ -1876,7 +1876,7 @@ Librivox Summary:
 
 
 <details>
-<summary> </summary>
+<summary>Template </summary>
 
 ###   
   
@@ -1972,13 +1972,13 @@ https://en.wikipedia.org/wiki/Charlotte_Brewster_Jordan
 Summary from Librivox:  
 >The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
 
-</details>  
+</details>
 
 <details><summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
 ### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
 https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
-By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022    
+By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
 
-</details>  
+</details>
 

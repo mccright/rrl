@@ -222,6 +222,32 @@ Reading Notes:
 
 
 <details>
+<summary>The New Pun Book by Thomas A. Brown and T. J. Carey.  1906</summary>
+
+### The New Pun Book  
+https://www.gutenberg.org/ebooks/22495  
+By [Thomas A. Brown](https://en.wikipedia.org/wiki/T._Allston_Brown) (?) and [T. J. (Thomas Joseph) Carey](https://www.geni.com/people/Thomas-Carey/6000000075696036841) (1868 - 1942) (?)  (*or [Carey, T. J. (Thomas Joseph)](https://onlinebooks.library.upenn.edu/webbin/gutbook/author?name=Carey%2C%20T%2E%20J%2E%20%28Thomas%20Joseph%29%2C%201853%2D) (1853-_)*)
+
+</details>
+
+
+<details>
+<summary>Partakers of plenty: A study of the first Thanksgiving. By Anderson and Deetz. 1972</summary>
+
+### Partakers of plenty : A study of the first Thanksgiving.  
+(*previously published under the title of “The Ethnogastronomy of Thanksgiving.” in the 25 Nov. 1972 issue of the "Saturday Review of Science."*)  
+https://www.gutenberg.org/ebooks/72628  
+  
+By [Jay Anderson, Folklorist and living Historian](?)  (_ – _) and [James Deetz](https://en.wikipedia.org/wiki/James_Deetz)  (1930 – 2000)  
+
+Reading Notes:  
+
+3rd Party Summaries:  
+
+</details>
+
+
+<details>
 <summary>The history of our Navy from its origin to the present day 1775-1897, vol. 1 (of 4). By John Randolph Spears. 1897</summary>
 
 https://www.gutenberg.org/ebooks/71794
