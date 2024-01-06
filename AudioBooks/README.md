@@ -1664,7 +1664,7 @@ In a small village on the coast of Northern Norway lives the Myran family. Fathe
 <a name="mars_series"></a>
 
 <details>
-<summary>Also, look at and pick one of these SiFi novels... </summary> 
+<summary>Also, look at and pick one of these SiFi novels... </summary>
 
 Mars Series by Kim Stanley Robinson  
 Red Mars.  2000  
@@ -1753,7 +1753,7 @@ Librivox Summary:
 
 
 <details>
-<summary> </summary>  
+<summary>Template </summary>  
 
 ###   
   
@@ -1802,9 +1802,9 @@ Librivox Summary:
 
 -------------------  
 
-<details><summary>This section still needs formatting:<summary>
+<details><summary>This section still needs formatting:</summary>
 
-<details><summary>Matrix.  By Lauren Groff<summary>
+<details><summary>Matrix.  By Lauren Groff</summary>
 
 ### Matrix.  
 By [Lauren Groff]()  
@@ -1812,7 +1812,7 @@ Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough
 
 </details>
 
-<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932<summary>
+<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
 
 ### The Last Evolution.  (53:00)  
 https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
@@ -1823,7 +1823,7 @@ By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (19
 
 </details>
 
-<details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899<summary>
+<details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
 
 The Flight of the Shadow.  (2:02)  
 https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/  
@@ -1835,7 +1835,7 @@ The original printing of The Flight of the Shadow is a highly sought novel among
 
 </details>
 
-<details><summary>Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol. By U.S. House Select Committee on the January 6 Attack. 2022<summary>
+<details><summary>Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol. By U.S. House Select Committee on the January 6 Attack. 2022</summary>
 
 ### Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol  
 Running Time: 22:24:13, Read by: Aaron Bennett  
@@ -1876,7 +1876,7 @@ Librivox Summary:
 
 
 <details>
-<summary> </summary>
+<summary>Template </summary>
 
 ###   
   
