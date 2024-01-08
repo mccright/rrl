@@ -1635,6 +1635,18 @@ Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html
 
 
 <details>
+<summary>The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. By Tim Alberta 2023</summary>
+
+### The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. ()  
+Audio: https://www.overdrive.com/media/9597271/the-kingdom-the-power-and-the-glory  
+Ebood: https://www.overdrive.com/media/9599368/the-kingdom-the-power-and-the-glory  
+By [Tim Alberta]() ( - )  
+
+</details>
+
+
+
+<details>
 <summary>Is Shakespeare Dead? By Mark Twain.  1909</summary>
 
 ### Is Shakespeare Dead? (2:57)  
