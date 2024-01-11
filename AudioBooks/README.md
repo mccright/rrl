@@ -1193,6 +1193,20 @@ Summary from Librivox:
 </details>
 
 
+<details><summary>The Prefect. By Alastair Reynolds. 2011</summary>
+
+### The Prefect. (20:00)  
+Audio: https://www.overdrive.com/media/1556214/the-prefect  
+Ebook: https://www.overdrive.com/media/613444/the-prefect  
+By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 - _)  
+
+Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this collection.  It stands-alone well and I didn't have the urge to stop and read the prior volumes.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the stated purpose of imposing a strict authoritarian *government* (*or simply, as has happened with authoritarian leaders throughout history, taking over simply for their personal security, pleasure and longevity*).  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  The story follows Tom Dreyfus, law enforcement officer as he is repeatedly confronted with challenges to his sense of commitment to the rule of law, to the democracy he is sworn to protect, and to his relationships with peers in law enforcement.  There is a lot more to this story, but it is worth reading/listening to simply for the inner and outer dialog of officer Tom Dreyfus.  This is also science fiction and includes industrial human slaughter in an environment composed of an interesting range of future space habitats, modes of computing, medicine, communication, of transportation and much more.  
+Publisher Summary:  
+>Tom Dreyfus is a Prefect, a law enforcement officer with the Panoply. His beat is the multifaceted utopian society of the Glitter Band, that vast swirl of space habitats orbiting the planet Yellowstone, the teeming hub of a human interstellar empire spanning many worlds. His current case: investigating a murderous attack against one of the habitats that left 900 people dead, a crime that appalls even a hardened cop like Dreyfus. But then his investigation uncovers something far more serious than mass slaughter -- a covert plot by an enigmatic entity who seeks nothing less than total control of the Glitter Band. Before long, the Panoply detectives are fighting against something worse than tyranny, in a struggle that will lead to more devastation and more death. And Dreyfus will discover that to save what is precious, you may have to destroy it.  
+
+</details>
+
+
 <details><summary>Preferred Risk. By Frederik Pohl, 1955</summary>
 
 ### Preferred Risk (06:26)  
@@ -1605,22 +1619,51 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 ## Pending or Currently Underway:  
 
 
-<details><summary>The Prefect. By Alastair Reynolds. 2011</summary>
+<details>
+<summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
-### The Prefect. (20:00)  
-Audio: https://www.overdrive.com/media/1556214/the-prefect  
-Ebook: https://www.overdrive.com/media/613444/the-prefect  
-By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 - _)  
+### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
+Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
+Ebook: https://www.overdrive.com/media/2637579/hero-of-the-empire  
+By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 - _)  
 
-Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this collection.  At half-way through, it seems to stand-alone well and I haven't had the urge to stop and read the prior volumes.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the purpose of imposing a strict authoritarian government.  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  
-Publisher Summary:  
->Tom Dreyfus is a Prefect, a law enforcement officer with the Panoply. His beat is the multifaceted utopian society of the Glitter Band, that vast swirl of space habitats orbiting the planet Yellowstone, the teeming hub of a human interstellar empire spanning many worlds. His current case: investigating a murderous attack against one of the habitats that left 900 people dead, a crime that appalls even a hardened cop like Dreyfus. But then his investigation uncovers something far more serious than mass slaughter -- a covert plot by an enigmatic entity who seeks nothing less than total control of the Glitter Band. Before long, the Panoply detectives are fighting against something worse than tyranny, in a struggle that will lead to more devastation and more death. And Dreyfus will discover that to save what is precious, you may have to destroy it.  
+Reader Notes: This biography covers a period (through ~1900) of Winston Churchill's life when he is attempting to *get started*.  After attempting to achieve military heroics in India or Sudan, young Winston Churchill ships off to the second [Boer War](https://en.wikipedia.org/wiki/Second_Boer_War) for another try.  If you too are less familiar with this part of Churchill's life, this seems like a great entry point (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/Hero_of_the_Empire) if you want to know more about the book's content*). The audio performance by [Simon Vance](https://en.wikipedia.org/wiki/Simon_Vance) made this an enjoyable listen.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Hero_of_the_Empire  
+Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html  
 
 </details>
 
 
 <details>
-<summary>Is Shakespeare Dead?  By Mark Twain.  1909</summary>
+<summary>The Terraformers. By Annalee Newitz. 2023</summary>
+
+### The Terraformers. (13:18)  
+Audio: https://www.overdrive.com/media/8916828/the-terraformers  
+ebook: https://www.overdrive.com/media/8906372/the-terraformers  
+By [Annalee Newitz](https://en.wikipedia.org/wiki/Annalee_Newitz)  
+
+Reader Notes: "Set 60,000 years in the future, The Terraformers traces the development of a [terraformed](https://en.wikipedia.org/wiki/Terraformed) planet over the course of 1,000 years." (*from the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Terraformers))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Terraformers  
+Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): https://www.washingtonpost.com/books/2023/01/27/annalee-newitz-terraformers/  
+
+</details>
+
+
+
+<details>
+<summary>The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. By Tim Alberta 2023</summary>
+
+### The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. ()  
+Audio: https://www.overdrive.com/media/9597271/the-kingdom-the-power-and-the-glory  
+Ebood: https://www.overdrive.com/media/9599368/the-kingdom-the-power-and-the-glory  
+By [Tim Alberta]() ( - )  
+
+</details>
+
+
+
+<details>
+<summary>Is Shakespeare Dead? By Mark Twain.  1909</summary>
 
 ### Is Shakespeare Dead? (2:57)  
 https://librivox.org/is-shakespeare-dead-by-mark-twain/  
@@ -1660,6 +1703,31 @@ In a small village on the coast of Northern Norway lives the Myran family. Fathe
 
 </details>
 
+
+
+<details>
+<summary>The Second Mrs. Astor.  By Shana Abe.  2021</summary>
+
+### The Second Mrs. Astor.  
+Audio: https://www.overdrive.com/media/6107969/the-second-mrs-astor  
+Ebook: https://www.overdrive.com/media/5970855/the-second-mrs-astor  
+By [Shana Abé](https://en.wikipedia.org/wiki/Shana_Ab%C3%A9) ()  
+
+historical romance  
+
+</details>
+
+
+<details>
+<summary>Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. By Michael McCreary 2019</summary>
+
+### Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. (??:??)  
+
+Audio: https://www.overdrive.com/media/4613861/funny-you-dont-look-autistic  
+Ebook: https://www.overdrive.com/media/4627687/funny-you-dont-look-autistic  
+By [Michael McCreary](https://www.aspiecomic.com/) (1997? - _)  
+
+</details>
 
 <a name="mars_series"></a>
 
@@ -1715,9 +1783,13 @@ Infinity Gate. By M.R. Carey
 https://www.goodreads.com/book/show/61237044-infinity-gate  
 
 Translation State. By Ann Leckie  
+Audio: https://www.overdrive.com/media/9267960/translation-state  
+Ebook: https://www.overdrive.com/media/9267753/translation-state  
 https://www.goodreads.com/book/show/62873999-translation-state  
 
 Inhibitor Phase. By Alastair Reynolds  
+Audio: https://www.overdrive.com/media/9108777/inhibitor-phase  
+Ebook: https://www.overdrive.com/media/5715712/inhibitor-phase  
 https://www.goodreads.com/book/show/56072402-inhibitor-phase  
 
 
@@ -1733,6 +1805,8 @@ A Murder in Time. By Julie McElwain.  2016
 
 The Lost Apothecary: A Novel. By Sarah Penner. 2021  
 (10:18)  
+Audio: https://www.overdrive.com/media/5546988/the-lost-apothecary  
+Ebook: https://www.overdrive.com/media/5428480/the-lost-apothecary  
 
 
 </details>
