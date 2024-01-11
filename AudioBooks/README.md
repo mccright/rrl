@@ -1627,11 +1627,39 @@ Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire
 Ebook: https://www.overdrive.com/media/2637579/hero-of-the-empire  
 By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 - _)  
 
-Reader Notes:  
+Reader Notes: This biography covers a period (through ~1900) of Winston Churchill's life when he is attempting to *get started*.  After attempting to achieve military heroics in India or Sudan, young Winston Churchill ships off to the second [Boer War](https://en.wikipedia.org/wiki/Second_Boer_War) for another try.  If you too are less familiar with this part of Churchill's life, this seems like a great entry point (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/Hero_of_the_Empire) if you want to know more about the book's content*). The audio performance by [Simon Vance](https://en.wikipedia.org/wiki/Simon_Vance) made this an enjoyable listen.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Hero_of_the_Empire  
 Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html  
 
 </details>
+
+
+<details>
+<summary>The Terraformers. By Annalee Newitz. 2023</summary>
+
+### The Terraformers. (13:18)  
+Audio: https://www.overdrive.com/media/8916828/the-terraformers  
+ebook: https://www.overdrive.com/media/8906372/the-terraformers  
+By [Annalee Newitz](https://en.wikipedia.org/wiki/Annalee_Newitz)  
+
+Reader Notes: "Set 60,000 years in the future, The Terraformers traces the development of a [terraformed](https://en.wikipedia.org/wiki/Terraformed) planet over the course of 1,000 years." (*from the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Terraformers))  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Terraformers  
+Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): https://www.washingtonpost.com/books/2023/01/27/annalee-newitz-terraformers/  
+
+</details>
+
+
+
+<details>
+<summary>The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. By Tim Alberta 2023</summary>
+
+### The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. ()  
+Audio: https://www.overdrive.com/media/9597271/the-kingdom-the-power-and-the-glory  
+Ebood: https://www.overdrive.com/media/9599368/the-kingdom-the-power-and-the-glory  
+By [Tim Alberta]() ( - )  
+
+</details>
+
 
 
 <details>
