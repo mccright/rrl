@@ -31,6 +31,7 @@ This is where I maintain a list of the books that I am reading or have read sinc
   * Project Gutenberg Audio Books,  
     * Human-read  [https://www.gutenberg.org/browse/categories/1](https://www.gutenberg.org/browse/categories/1)  
     * Computer-generated audio  [https://www.gutenberg.org/browse/categories/2](https://www.gutenberg.org/browse/categories/2)  
+	* In [partnership with Microsoft, Proj.Gutenberg](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/index.html) has started high quality, computer-generated audio recordings of open source texts. See their initial list of titles at: [https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/browse.html](https://marhamilresearch4.blob.core.windows.net/gutenberg-public/Website/browse.html)  
   * Overdrive/Libby from my local public library.  *One of the greatest city services available after water and sewer.*  With [Libby](https://www.overdrive.com/apps/libby), the library reading app, you can borrow ebooks, audiobooks, magazines, and more from your local library for free.  Libby is the newer library reading app by OverDrive. See: [https://www.overdrive.com/apps/libby](https://www.overdrive.com/apps/libby)  
     1. Download and open [Libby](https://www.overdrive.com/apps/libby) on your device.  
 	   * Find where to download the app or watch a short video on getting started on the [Libby help page](https://help.libbyapp.com/en-us/6103.htm?tocpath=Home%7CGetting%20started%7C_____1)  
