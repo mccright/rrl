@@ -1642,7 +1642,7 @@ Audio: https://www.overdrive.com/media/8916828/the-terraformers
 ebook: https://www.overdrive.com/media/8906372/the-terraformers  
 By [Annalee Newitz](https://en.wikipedia.org/wiki/Annalee_Newitz)  
 
-Reader Notes: "Set 60,000 years in the future, The Terraformers traces the development of a [terraformed](https://en.wikipedia.org/wiki/Terraformed) planet over the course of 1,000 years." (*from the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Terraformers))  
+Reader Notes: "Set 60,000 years in the future, The Terraformers traces the development of a [terraformed](https://en.wikipedia.org/wiki/Terraformed) planet over the course of 1,000 years." (*from the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Terraformers)*)  
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Terraformers  
 Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): https://www.washingtonpost.com/books/2023/01/27/annalee-newitz-terraformers/  
 
