@@ -1472,6 +1472,21 @@ Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/heather-morris/the-ta
 </details>
 
 
+<details>
+<summary>The Terraformers. By Annalee Newitz. 2023</summary>
+
+### The Terraformers. (13:18)  
+Audio: https://www.overdrive.com/media/8916828/the-terraformers  
+ebook: https://www.overdrive.com/media/8906372/the-terraformers  
+By [Annalee Newitz](https://en.wikipedia.org/wiki/Annalee_Newitz)  
+
+Reader Notes: "Set 60,000 years in the future, The Terraformers traces the development of a [terraformed](https://en.wikipedia.org/wiki/Terraformed) planet over the course of 1,000 years." (*from the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Terraformers)*)  A lot of ideas in this book are interesting in the abstract, for example: investors taking on projects like terraforming with timelines in the thousands of years, "lab grown" lifeforms that are based on licensed genetic templates -- including human-like life forms -- many of which tightly integrate a range of sensor and communications technologies, "mixing" the characteristics of multiple life forms to achieve both highly specialized and highly generalized beings, corporations "building" populations of "lab grown" to employ as formal, legal slaves.  That said, the performance of this audio book seemed to crowd out too much of that content for me -- so much so that is was a difficult slog to get through to the end.  The performance choices may have seemed bold or innovative to some involved in its production, but it amounted to a material turn-off to me.  The arc of the story also seemed heavily built around warn & simplistic ideas like capitalism==corruption, wealth==immorality...  I wouldn't recommend it, but maybe it is simply a "*taste*" issue of mine.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Terraformers  
+Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): https://www.washingtonpost.com/books/2023/01/27/annalee-newitz-terraformers/  
+
+</details>
+
+
 <details><summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
 
 ### The Torrents of Spring.  (2:10)
@@ -1630,21 +1645,6 @@ By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 - _)
 Reader Notes: This biography covers a period (through ~1900) of Winston Churchill's life when he is attempting to *get started*.  After attempting to achieve military heroics in India or Sudan, young Winston Churchill ships off to the second [Boer War](https://en.wikipedia.org/wiki/Second_Boer_War) for another try.  If you too are less familiar with this part of Churchill's life, this seems like a great entry point (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/Hero_of_the_Empire) if you want to know more about the book's content*). The audio performance by [Simon Vance](https://en.wikipedia.org/wiki/Simon_Vance) made this an enjoyable listen.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Hero_of_the_Empire  
 Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html  
-
-</details>
-
-
-<details>
-<summary>The Terraformers. By Annalee Newitz. 2023</summary>
-
-### The Terraformers. (13:18)  
-Audio: https://www.overdrive.com/media/8916828/the-terraformers  
-ebook: https://www.overdrive.com/media/8906372/the-terraformers  
-By [Annalee Newitz](https://en.wikipedia.org/wiki/Annalee_Newitz)  
-
-Reader Notes: "Set 60,000 years in the future, The Terraformers traces the development of a [terraformed](https://en.wikipedia.org/wiki/Terraformed) planet over the course of 1,000 years." (*from the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Terraformers)*)  
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Terraformers  
-Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): https://www.washingtonpost.com/books/2023/01/27/annalee-newitz-terraformers/  
 
 </details>
 
