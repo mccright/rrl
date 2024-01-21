@@ -95,6 +95,7 @@ If you are interested in the topic of *mountain men* in the 19th century, you mi
 My copy of this book was a loan from a brother-in-law.  It was printed in 1980 and included a helpful map in the front.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  
+Additional Resources: https://westernamericanliterature.com/a-b-guithre/  
 
 </details>
 
@@ -241,6 +242,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 -----
     
 ## Pending or Currently Underway:  
+
+
+
+The Way West. By A. B. Guthrie, Jr.  
+Audio: https://www.overdrive.com/media/9005495/the-way-west  
+Wikipedia: https://en.wikipedia.org/wiki/The_Way_West  
+ENotes: https://www.enotes.com/topics/way-west  
+Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-at-90-won-pulitzer-for-the-way-west.html  
+      and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
+
+
+Fair Land, Fair Land. A.B. Guthrie Jr.  
+Audio: https://www.overdrive.com/media/2700419/fair-land-fair-land  
+
 
 
 <details>

@@ -1694,8 +1694,9 @@ Librivox Summary:
 <summary>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
 
 ### The Last of the Vikings. (9:17)  
-https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
-Text: https://www.gutenberg.org/ebooks/36054  
+Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
+Text page: https://archive.org/details/BojerLastOfTheVikingsCombinedReduced/page/n1/mode/2up  
+Download Text: https://archive.org/stream/BojerLastOfTheVikingsCombinedReduced/Bojer%20Last%20of%20the%20Vikings%20Combined%20Reduced_djvu.txt  
 By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
 Translated by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
 
