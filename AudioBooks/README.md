@@ -603,6 +603,20 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Double Agent. By William Christie. 2022</summary>
+
+### The Double Agent. (9:24)  
+Audio: https://www.overdrive.com/media/9127507/the-double-agent  
+ebook: https://www.overdrive.com/media/8728536/the-double-agent  
+By [William Christie](https://williamchristieauthor.com/contactmeandbiography) (aka: [F.J. Chase and Keith Douglass](https://williamchristieauthor.com/contactmeandbiography))  
+
+Reader notes: If you like spy, action, WWII novels, this might be a good fit.  The author keeps the tension high throughout much of this story.  We follow a *super-spy* through roughly a year of his life as he guts through one unlucky turn after another. I especially enjoyed the author's dry humor and an excellent audio performance by Pete Cross.  
+[OverDrive Summary](https://www.overdrive.com/media/9127507/the-double-agent):  
+>"Alexsi Smirnoff - a Russian orphan - was trained as an agent by the Russian Secret Service and inserted into Nazi Germany, where he rose to a position in German intelligence services. As the war grinds on, trapped between two brutal dictatorships, Alexsi betrays both sides in a desperate ploy that succeeds...and fails. His false identities burned, his life at risk, Alexsi attempts to disappear in the hills - but is caught by the British.  Recruited by the SIS, and by "C" himself, Alexsi is once again a double agent. Initially betrayed by a Soviet agent inside the SIS (Kim Philby), Alexsi is sent beyond the reach of the Soviets, into Italy with a new identity as a sergeant in the German army. Settled into the headquarters of Field Marshall Albert Kesselring, Alexsi finds himself at the nexus at a critical point in World War II, balancing between the various forces vying for control in the Vatican, the Italian resistance, and the brutal German Army determined to maintain control of Northern Italy. And Alexsi, finally forced to choose sides over his own survival.Sequel to the well-regarded A Single Spy, The Double Agent is a fast-paced, compelling novel of espionage in the most momentous and dangerous of times."  
+
+</details>
+
+
 <details><summary>Edward III. By William Parsons Warburton, 1908</summary>
 
 ### Edward III (9:40)  
@@ -793,6 +807,21 @@ By [Sir Charles G. D. Roberts](https://en.wikipedia.org/wiki/Charles_G._D._Rober
 Reading Notes: The 21 minute opening chapter narrates a walk through the woods from the various perspectives of a broad range of native North American woodland dwellers, and is reason-enough to give this volume a listen...  If you loathe [anthropomorphism](https://en.wikipedia.org/wiki/Anthropomorphism) this novel is probably not for you.  
 Summary from Librivox:  
 >A woman, Kirstie Craig and her daughter Miranda take refuge in a cabin deep in the Canadian forest. This is a tale of survival from the land, friendship and love. (Summary by [Czandra](https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/))  
+
+</details>
+
+
+<details>
+<summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
+
+### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
+Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
+Ebook: https://www.overdrive.com/media/2637579/hero-of-the-empire  
+By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 - _)  
+
+Reader Notes: This biography covers a period (through ~1900) of Winston Churchill's life when he is attempting to *get started*.  After attempting to achieve military heroics in India or Sudan, young Winston Churchill ships off to the second [Boer War](https://en.wikipedia.org/wiki/Second_Boer_War) for another try.  If you too are less familiar with this part of Churchill's life, this seems like a great entry point (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/Hero_of_the_Empire) if you want to know more about the book's content*). The audio performance by [Simon Vance](https://en.wikipedia.org/wiki/Simon_Vance) made this an enjoyable listen.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Hero_of_the_Empire  
+Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html  
 
 </details>
 
@@ -1635,18 +1664,41 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 
 
 <details>
-<summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
+<summary>Horse. By Geraldine Brooks. 2022</summary>
 
-### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
-Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
-Ebook: https://www.overdrive.com/media/2637579/hero-of-the-empire  
-By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 - _)  
+### Horse. (14:06)  
+Audio: https://www.overdrive.com/media/6955174/horse  
+ebook: https://www.overdrive.com/media/6889436/horse  
+By [Geraldine Brooks](https://en.wikipedia.org/wiki/Geraldine_Brooks_(writer)) (1955 - _)  
 
-Reader Notes: This biography covers a period (through ~1900) of Winston Churchill's life when he is attempting to *get started*.  After attempting to achieve military heroics in India or Sudan, young Winston Churchill ships off to the second [Boer War](https://en.wikipedia.org/wiki/Second_Boer_War) for another try.  If you too are less familiar with this part of Churchill's life, this seems like a great entry point (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/Hero_of_the_Empire) if you want to know more about the book's content*). The audio performance by [Simon Vance](https://en.wikipedia.org/wiki/Simon_Vance) made this an enjoyable listen.  
-Wikipedia Summary: https://en.wikipedia.org/wiki/Hero_of_the_Empire  
-Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html  
+Reader notes:  This story follows the life (*and rediscovery*) of America’s most famous racehorse -- Lexington (*originally "Darley"*).  In the process, it also explores aspects of systemic racism in 19th, 20th, and 21st century America.  
+```1850s/60s```: Harry Lewis, Jarrett (Lewis), Elisha Warfield, Richard Ten Broeck, Robert A. Alexander, and Thomas J. Scott.  
+```1950s```: Martha Jackson, Lee Krasner & Jackson Pollock.  
+```2019-20```: "Jess" and Theo Northam.  
+Of these main characters, only Jarret, Theo and Jess are fiction.  
+
+The story's primary threads follow Lexington and some of those who trained and cared for him (*slave and "free"*) in Kentucky, beginning in 1850, Mississippi, Louisiana, and back to Kentucky through the time of the civil war; New York City, 1954; and Washington, DC, 2019 into early 2020.  Throughout, Blacks in America are treated (*via the law, commerce, and daily life*) as something less than fully human, of less value than those *fully white* with limited (*or situational*) agency, and routinely -- almost comprehensively -- feared.  See the [Oprah Daily Review](https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/) for a more complete summary.  
+[Lexington](https://en.wikipedia.org/wiki/Lexington_(horse))  
+
+Washington Post Review: [https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/](https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/)  
+Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/](https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/)  
 
 </details>
+
+
+<details>
+<summary>Half American. By Matthew F. Delmont. 2022</summary>
+
+### Half American: The Epic Story of African Americans Fighting World War II at Home and Abroad.  
+Audio: https://www.overdrive.com/media/8720855/half-american  
+ebook: https://www.overdrive.com/media/8232090/half-american  
+By [Matthew F. Delmont](https://en.wikipedia.org/wiki/Matt_Delmont), [https://history.dartmouth.edu/people/matthew-f-delmont](https://history.dartmouth.edu/people/matthew-f-delmont), also at [https://mattdelmont.com/](https://mattdelmont.com/) and [https://next.dartmouth.edu/matt-delmont](https://next.dartmouth.edu/matt-delmont) and Twitter: [@mattdelmont](https://twitter.com/mattdelmont)  
+
+Reader notes:  
+Some of Dr. Delmont's other writing is available at: [https://www.bunkhistory.org/authors/matthew-f-delmont](https://www.bunkhistory.org/authors/matthew-f-delmont)  
+
+</details>
+
 
 
 
@@ -1655,7 +1707,7 @@ Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html
 
 ### The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. ()  
 Audio: https://www.overdrive.com/media/9597271/the-kingdom-the-power-and-the-glory  
-Ebood: https://www.overdrive.com/media/9599368/the-kingdom-the-power-and-the-glory  
+Ebook: https://www.overdrive.com/media/9599368/the-kingdom-the-power-and-the-glory  
 By [Tim Alberta]() ( - )  
 
 </details>
@@ -1676,6 +1728,7 @@ Librivox Summary:
 
 </details>
 
+
 <details>
 <summary>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
 
@@ -1694,8 +1747,9 @@ Librivox Summary:
 <summary>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
 
 ### The Last of the Vikings. (9:17)  
-https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
-Text: https://www.gutenberg.org/ebooks/36054  
+Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
+Text page: https://archive.org/details/BojerLastOfTheVikingsCombinedReduced/page/n1/mode/2up  
+Download Text: https://archive.org/stream/BojerLastOfTheVikingsCombinedReduced/Bojer%20Last%20of%20the%20Vikings%20Combined%20Reduced_djvu.txt  
 By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
 Translated by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
 
