@@ -826,6 +826,29 @@ Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html
 </details>
 
 
+<details>
+<summary>Horse. By Geraldine Brooks. 2022</summary>
+
+### Horse. (14:06)  
+Audio: https://www.overdrive.com/media/6955174/horse  
+ebook: https://www.overdrive.com/media/6889436/horse  
+By [Geraldine Brooks](https://en.wikipedia.org/wiki/Geraldine_Brooks_(writer)) (1955 - _)  
+
+Reader notes:  This story follows the life (*and rediscovery*) of America’s most famous racehorse -- Lexington (*originally "Darley"*).  In the process, it also explores aspects of systemic racism in 19th, 20th, and 21st century America.  
+```1850s/60s```: Harry Lewis, Jarrett (Lewis), Elisha Warfield, Richard Ten Broeck, Robert A. Alexander, and Thomas J. Scott.  
+```1950s```: Martha Jackson, Lee Krasner & Jackson Pollock.  
+```2019-20```: "Jess" and Theo Northam.  
+Of these main characters, only Jarret, Theo and Jess are fiction.  
+
+The story's primary threads follow Lexington and some of those who trained and cared for him (*slave and "free"*) in Kentucky, beginning in 1850, Mississippi, Louisiana, and back to Kentucky through the time of the civil war; New York City, 1954; and Washington, DC, 2019 into early 2020.  Throughout, Blacks in America are treated (*via the law, commerce, and daily life*) as something less than fully human, of less value than those *fully white* with limited (*or situational*) agency, and routinely -- almost comprehensively -- feared.  See the [Oprah Daily Review](https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/) for a more complete summary.  
+[Lexington](https://en.wikipedia.org/wiki/Lexington_(horse))  
+
+Washington Post Review: [https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/](https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/)  
+Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/](https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/)  
+
+</details>
+
+
 <details><summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
@@ -1664,24 +1687,20 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 
 
 <details>
-<summary>Horse. By Geraldine Brooks. 2022</summary>
+<summary>Weyward.  By Emilia Hart. 2023</summary>
 
-### Horse. (14:06)  
-Audio: https://www.overdrive.com/media/6955174/horse  
-ebook: https://www.overdrive.com/media/6889436/horse  
-By [Geraldine Brooks](https://en.wikipedia.org/wiki/Geraldine_Brooks_(writer)) (1955 - _)  
+### Weyward. (11:00)  
+Audio: https://www.overdrive.com/media/8916843/weyward  
+ebook: https://www.overdrive.com/media/8918477/weyward  
+By [Emilia Hart](https://www.bookseriesinorder.com/emilia-hart/)  
 
-Reader notes:  This story follows the life (*and rediscovery*) of America’s most famous racehorse -- Lexington (*originally "Darley"*).  In the process, it also explores aspects of systemic racism in 19th, 20th, and 21st century America.  
-```1850s/60s```: Harry Lewis, Jarrett (Lewis), Elisha Warfield, Richard Ten Broeck, Robert A. Alexander, and Thomas J. Scott.  
-```1950s```: Martha Jackson, Lee Krasner & Jackson Pollock.  
-```2019-20```: "Jess" and Theo Northam.  
-Of these main characters, only Jarret, Theo and Jess are fiction.  
-
-The story's primary threads follow Lexington and some of those who trained and cared for him (*slave and "free"*) in Kentucky, beginning in 1850, Mississippi, Louisiana, and back to Kentucky through the time of the civil war; New York City, 1954; and Washington, DC, 2019 into early 2020.  Throughout, Blacks in America are treated (*via the law, commerce, and daily life*) as something less than fully human, of less value than those *fully white* with limited (*or situational*) agency, and routinely -- almost comprehensively -- feared.  See the [Oprah Daily Review](https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/) for a more complete summary.  
-[Lexington](https://en.wikipedia.org/wiki/Lexington_(horse))  
-
-Washington Post Review: [https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/](https://www.washingtonpost.com/books/2022/06/17/horse-geraldine-brooks/)  
-Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/](https://www.oprahdaily.com/entertainment/books/a40656831/geraldine-brooks-horse-book-review/)  
+Reader Notes:  "Weyward" main characters: Altha (1619), Violet (1942), and Kate (2019) all of whom live in Crows Beck, Cumbria, England, and all three were controlled and victimized by men.  
+BookInsider Summary: https://www.bookseriesinorder.com/emilia-hart/  
+Short Summary on BookBrowse: https://www.bookbrowse.com/reviews/index.cfm/book_number/4606/weyward  
+Interview With an Author: Emilia Hart: https://www.lapl.org/collections-resources/blogs/lapl/interview-author-emilia-hart  
+An interview with Emilia Hart: https://www.bookbrowse.com/author_interviews/full/index.cfm/author_number/3787/emilia-hart  
+"Weyward by Emilia Hart -- summary & study guide." By Stephanie Faithful. 2023  
+ebook: https://www.overdrive.com/media/10381296/weyward-by-emilia-hart-summary-study-guide  
 
 </details>
 
