@@ -1706,6 +1706,21 @@ ebook: https://www.overdrive.com/media/10381296/weyward-by-emilia-hart-summary-s
 
 
 <details>
+<summary>Trust. By Hernan Diaz. 2022</summary>
+
+### Trust. (10:20)  
+Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner  
+ebook: https://www.overdrive.com/media/6480334/trust-pulitzer-prize-winner  
+By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 - _)  
+
+Reader Notes:  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)  
+
+
+</details>
+
+
+<details>
 <summary>Half American. By Matthew F. Delmont. 2022</summary>
 
 ### Half American: The Epic Story of African Americans Fighting World War II at Home and Abroad.  
@@ -1947,15 +1962,12 @@ Librivox Summary:
 
 </details>
 
--------------------  
-
-<details><summary>This section still needs formatting:</summary>
 
 <details><summary>Matrix.  By Lauren Groff</summary>
 
 ### Matrix.  
 By [Lauren Groff]()  
-Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
+Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
 
 </details>
 
@@ -1979,7 +1991,6 @@ By Laura M. Dake  (*I could not find biographical information about this author*
 
 The original printing of The Flight of the Shadow is a highly sought novel among collectors and tells the tale of an Astral soul who tells a man named John Cecil of a story of the American Revolution, a story of lost love and murder, a story of reincarnation and fate. Enjoy this rare briskly told supernatural book of adventure and weirdness that few before have experienced! - [Summary by Ben Tucker](https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/)  
 
-
 </details>
 
 <details><summary>Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol. By U.S. House Select Committee on the January 6 Attack. 2022</summary>
@@ -1994,15 +2005,6 @@ Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20
 >This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
 
 </details>
-
-
-NEEDS FORMATTING ABOVE  
-
-
-</details>
-
-
--------------------  
 
 
 <details>
