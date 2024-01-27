@@ -93,6 +93,7 @@ The story's central character Boone Caudill learns to be an expert trapper, hunt
 A.B.Guthrie's writing is the hero of this story.  He drew me in and took me on repeated journeys through the mountains, plains and rivers of the 1830s American mountain West.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land and resource *theft*, the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  
 If you are interested in the topic of *mountain men* in the 19th century, you might try the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), "[Eleven Years in the Rocky Mountains and Life on the Frontier](https://mccright.github.io/rrl/AudioBooks/)." By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor), 1870.  Audio: https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/ (13:39) and text: https://www.gutenberg.org/ebooks/39465  
 My copy of this book was a loan from a brother-in-law.  It was printed in 1980 and included a helpful map in the front.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
+This is the first book in a series that also includes: "The Way West." and "Fair Land, Fair Land." (*see their entries on this page*)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  
 Additional Resources: https://westernamericanliterature.com/a-b-guithre/  
@@ -244,18 +245,76 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 ## Pending or Currently Underway:  
 
 
+<details>
+<summary>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
 
-The Way West. By A. B. Guthrie, Jr.  
+### How the World Really Works: The Science Behind How We Got Here and Where We're Going.  
+Ebook: https://www.overdrive.com/media/6495140/how-the-world-really-works  
+Audio: https://www.overdrive.com/media/6490996/how-the-world-really-works  
+By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022, 336 pages  
+This is a useful book, one that should be required reading for anyone.  
+Summary at: https://www.kirkusreviews.com/book-reviews/vaclav-smil/how-the-world-really-works/ and read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
+
+<details>
+<summary>Reading Notes:</summary>
+
+>By 1800... plant fuels still supply more than 98 percent of all heat and light used by [humans (*as opposed to coal or animal oils*)], and human and animal muscles still provide more than 90% of all mechanical energy needed in farming, construction, and manufacturing. ...Even by 1850, rising coal extraction in Europe and North America supplies no more than 7% of all fuel energy, nearly half of all useful kenetic energy comes from draft animals, about 40% from human muscles, and just 15% from the three inanimate prime movers: waterwheels, windmills, and the slowly spreading steam engines. ...by 1900...modern energy sources (coal and some crude oil) provide half of all primary energy, and traditional fuels (wood, charcoal, straw) the other half.  ...By 1900, inanimate prime movers supply about half of all mechanical energy... By 1950, fossil fuels supply nearly 3/4 of primary energy (still dominated by coal) and inanimate prime movers...provide more than 80% of all mechanical energy... (page 17)  
+>...by the year 2000...only (about 12%) depend on biomass fuels for primary energy. ... Animate prime movers hold only a 5% share of mechanical energy... 1,500-fold increase (*in the use of fossil fuels*) over the past 220 years. (page 18)  
+>since 1800 the gain (*in overall energy efficiency*) was about 3,500-fold. ... An average inhabitant of the Earth nowadays has at their disposal nearly 700 times more useful energy than their ancestors had at the beginning of the 19th century. ...(*by 2020*)it is as if 60 adults would be working non-stop, day and night, for each average person; and for the inhabitants of affluent countries this equivalent of steadily laboring adults would be...between 200 and 240. (page 19)  
+>..."the economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services." ...Given all these readily verifiable realities, it is hard to understand why modern economics has largely ignored energy. ...as if output could be produced by labor and capital alone... Understanding how the world really works cannot be done without at least a modicum of energy literacy. (page 21)  
+>...our civilization is so deeply reliant on fossil fuels that the next transition will take much longer than most people think. (page 22)  
+>Energy is among the most elusive and most misunderstood concepts, and a poor grasp of basic realities has led to many illusions and delusions. (page 23)  (*It is often not practical/possible to substitute one form of energy with another*)  
+Energy: The common definition == "The capacity for doing work" or (*Richard Feynman*) "energy has a large number of different forms, and there is a formula for each one.  These are gravitational energy, kinetic energy, heat energy, elastic energy, electrical energy, chemical energy, radiant energy, nuclear energy, mass energy."  
+>...Electricity still supplies only a relatively small share of the final global energy consumption, just 18 percent. (page 35)  
+>...(*the amount of electricity generated by*) nuclear fission...peaked in 2006, and has since declined slightly to about 10 percent of global electricity generation. (page 36)  
+>Given the fact that annual CO2 emissions from fossil fuel combustion surpassed 37 billion tons in 2019, the net-zero goal by 2050 will call for an energy transition of unprecented in both pace and scale. (page 38)  
+>Annual global demand for fossil carbon is now (2019) just above 10 million tons a year -- a mass nearly five times more than the recent annual harvest of all stable grains feeding humanity, and more than twice the mass of water drunk annual by the world's nearly 8 billion (2019) inhabitants...  (page 42)  
+> ...the affluent world...can take some impressive and relatively rapid decarbonization steps (to put it bluntly, it should do with using less energy of any kind). (page 43)  
+
+
+Mechanical energy: Isaac Newton's approach == a joule is the force of one newton, or '*the mass of 1 kilogram accelerated by 1 m/s² acting over a distance of 1 meter*.  
+https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false  
+
+[Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review:  
+>"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don't know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
+
+</details>
+
+</details>
+
+
+<details>
+<summary>The Way West. By A. B. Guthrie, Jr.</summary>
+
+### The Way West.  
+This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
 Audio: https://www.overdrive.com/media/9005495/the-way-west  
-Wikipedia: https://en.wikipedia.org/wiki/The_Way_West  
-ENotes: https://www.enotes.com/topics/way-west  
+By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
 Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-at-90-won-pulitzer-for-the-way-west.html  
       and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
 
+Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Way_West  
+ENotes Summary: https://www.enotes.com/topics/way-west  
+This is the second book in a series that also includes: "The Big Sky." and "Fair Land, Fair Land." (*see their entries on this page*)  
 
-Fair Land, Fair Land. A.B. Guthrie Jr.  
+</details>
+
+
+<details>
+<summary>Fair Land, Fair Land. By A. B. Guthrie, Jr.</summary>
+
+### Fair Land, Fair Land.  
+This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
 Audio: https://www.overdrive.com/media/2700419/fair-land-fair-land  
+By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
+Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-at-90-won-pulitzer-for-the-way-west.html  
+      and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
 
+Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  
+This is the third book in a series that also includes: "The Big Sky." and "The Way West." (*see their entries on this page*)  
+
+</details>
 
 
 <details>
@@ -379,44 +438,6 @@ By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2023
 
 [GatesNotes Review](https://www.gatesnotes.com/Invention-and-Innovation) quote:  
 >"Smil believes there was only one real period of explosive innovation in the past 150 years: 1867-1914. During those years, inventors created internal combustion engines, electric lights, the telephone, inexpensive methods of producing steel, aluminum smelting, plastics, and the first electronic devices. Humanity also gained revolutionary insights in the fields of infectious disease, medicine, agriculture, and nutrition."  
-
-</details>
-
-
-<details>
-<summary>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
-
-### How the World Really Works: The Science Behind How We Got Here and Where We're Going.  
-Ebook: https://www.overdrive.com/media/6495140/how-the-world-really-works  
-Audio: https://www.overdrive.com/media/6490996/how-the-world-really-works  
-By [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil) published 2022, 336 pages  
-This is a useful book, one that should be required reading for anyone.  
-Summary at: https://www.kirkusreviews.com/book-reviews/vaclav-smil/how-the-world-really-works/ and read a review by Bill Gates at: [https://www.gatesnotes.com/Books/How-the-World-Really-Works](https://www.gatesnotes.com/Books/How-the-World-Really-Works)  
-
-<details>
-<summary>Reading Notes:</summary>
-
->By 1800... plant fuels still supply more than 98 percent of all heat and light used by [humans (*as opposed to coal or animal oils*)], and human and animal muscles still provide more than 90% of all mechanical energy needed in farming, construction, and manufacturing. ...Even by 1850, rising coal extraction in Europe and North America supplies no more than 7% of all fuel energy, nearly half of all useful kenetic energy comes from draft animals, about 40% from human muscles, and just 15% from the three inanimate prime movers: waterwheels, windmills, and the slowly spreading steam engines. ...by 1900...modern energy sources (coal and some crude oil) provide half of all primary energy, and traditional fuels (wood, charcoal, straw) the other half.  ...By 1900, inanimate prime movers supply about half of all mechanical energy... By 1950, fossil fuels supply nearly 3/4 of primary energy (still dominated by coal) and inanimate prime movers...provide more than 80% of all mechanical energy... (page 17)  
->...by the year 2000...only (about 12%) depend on biomass fuels for primary energy. ... Animate prime movers hold only a 5% share of mechanical energy... 1,500-fold increase (*in the use of fossil fuels*) over the past 220 years. (page 18)  
->since 1800 the gain (*in overall energy efficiency*) was about 3,500-fold. ... An average inhabitant of the Earth nowadays has at their disposal nearly 700 times more useful energy than their ancestors had at the beginning of the 19th century. ...(*by 2020*)it is as if 60 adults would be working non-stop, day and night, for each average person; and for the inhabitants of affluent countries this equivalent of steadily laboring adults would be...between 200 and 240. (page 19)  
->..."the economic system is essentially a system for extracting, processing and transforming energy as resources into energy embodied in products and services." ...Given all these readily verifiable realities, it is hard to understand why modern economics has largely ignored energy. ...as if output could be produced by labor and capital alone... Understanding how the world really works cannot be done without at least a modicum of energy literacy. (page 21)  
->...our civilization is so deeply reliant on fossil fuels that the next transition will take much longer than most people think. (page 22)  
->Energy is among the most elusive and most misunderstood concepts, and a poor grasp of basic realities has led to many illusions and delusions. (page 23)  (*It is often not practical/possible to substitute one form of energy with another*)  
-Energy: The common definition == "The capacity for doing work" or (*Richard Feynman*) "energy has a large number of different forms, and there is a formula for each one.  These are gravitational energy, kinetic energy, heat energy, elastic energy, electrical energy, chemical energy, radiant energy, nuclear energy, mass energy."  
->...Electricity still supplies only a relatively small share of the final global energy consumption, just 18 percent. (page 35)  
->...(*the amount of electricity generated by*) nuclear fission...peaked in 2006, and has since declined slightly to about 10 percent of global electricity generation. (page 36)  
->Given the fact that annual CO2 emissions from fossil fuel combustion surpassed 37 billion tons in 2019, the net-zero goal by 2050 will call for an energy transition of unprecented in both pace and scale. (page 38)  
->Annual global demand for fossil carbon is now (2019) just above 10 million tons a year -- a mass nearly five times more than the recent annual harvest of all stable grains feeding humanity, and more than twice the mass of water drunk annual by the world's nearly 8 billion (2019) inhabitants...  (page 42)  
-> ...the affluent world...can take some impressive and relatively rapid decarbonization steps (to put it bluntly, it should do with using less energy of any kind). (page 43)  
-
-
-Mechanical energy: Isaac Newton's approach == a joule is the force of one newton, or '*the mass of 1 kilogram accelerated by 1 m/s² acting over a distance of 1 meter*.  
-https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false  
-
-[Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review:  
->"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don't know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
-
-</details>
 
 </details>
 
