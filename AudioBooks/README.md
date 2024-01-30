@@ -1694,7 +1694,7 @@ Audio: https://www.overdrive.com/media/8916843/weyward
 ebook: https://www.overdrive.com/media/8918477/weyward  
 By [Emilia Hart](https://www.bookseriesinorder.com/emilia-hart/)  
 
-Reader Notes:  "Weyward" main characters: Altha (1619), Violet (1942), and Kate (2019) all of whom live in Crows Beck, Cumbria, England, and all three were controlled and victimized by men.  
+Reader Notes:  "Weyward" main characters: Altha (1619), Violet (1942), and Kate (2019) all of whom live in Crows Beck, Cumbria, England, and all three were controlled and victimized by men.  Each had the ability to *hear* the nature around them in ways unknown to the rest of us.  In a way that remains undisclosed, they also had some ability to communicate *need* or *instruction* to parts of that natural world (*some insects and crows are described in the book*) in ways that were sometimes refered to as *witchcraft* by the society that surrounded them.  It was an interesting story that seemed a little like a proposal for a movie.  
 BookInsider Summary: https://www.bookseriesinorder.com/emilia-hart/  
 Short Summary on BookBrowse: https://www.bookbrowse.com/reviews/index.cfm/book_number/4606/weyward  
 Interview With an Author: Emilia Hart: https://www.lapl.org/collections-resources/blogs/lapl/interview-author-emilia-hart  
@@ -1713,9 +1713,8 @@ Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner
 ebook: https://www.overdrive.com/media/6480334/trust-pulitzer-prize-winner  
 By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 - _)  
 
-Reader Notes:  
+Reader Notes: This book is worth ten hours of your life.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Trust_(novel)) for an outline. The star is the writing.  This seemed like a seriously complex story to assemble, plus a thousand magical acts of writing (*maybe ten thousand*).  [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (~50 years old) is special and I will be reading all his books in the future.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)  
-
 
 </details>
 
