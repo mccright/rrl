@@ -1620,6 +1620,25 @@ By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 - _)
 </details>
 
 
+<details>
+<summary>Weyward.  By Emilia Hart. 2023</summary>
+
+### Weyward. (11:00)  
+Audio: https://www.overdrive.com/media/8916843/weyward  
+ebook: https://www.overdrive.com/media/8918477/weyward  
+By [Emilia Hart](https://www.bookseriesinorder.com/emilia-hart/)  
+
+Reader Notes:  "Weyward" main characters: Altha (1619), Violet (1942), and Kate (2019) all of whom live in Crows Beck, Cumbria, England, and all three were controlled and victimized by men.  Each had the ability to *hear* the nature around them in ways unknown to the rest of us.  In a way that remains undisclosed, they also had some ability to communicate *need* or *instruction* to parts of that natural world (*some insects and crows are described in the book*) in ways that were sometimes refered to as *witchcraft* by the society that surrounded them.  It was an interesting story that seemed a little like a proposal for a movie.  
+BookInsider Summary: https://www.bookseriesinorder.com/emilia-hart/  
+Short Summary on BookBrowse: https://www.bookbrowse.com/reviews/index.cfm/book_number/4606/weyward  
+Interview With an Author: Emilia Hart: https://www.lapl.org/collections-resources/blogs/lapl/interview-author-emilia-hart  
+An interview with Emilia Hart: https://www.bookbrowse.com/author_interviews/full/index.cfm/author_number/3787/emilia-hart  
+"Weyward by Emilia Hart -- summary & study guide." By Stephanie Faithful. 2023  
+ebook: https://www.overdrive.com/media/10381296/weyward-by-emilia-hart-summary-study-guide  
+
+</details>
+
+
 <details><summary>What The Left Hand Was Doing.  By Randall Garrett.  1960</summary>
 
 ### What The Left Hand Was Doing.  (1:11)  
@@ -1684,25 +1703,6 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 -----
 
 ## Pending or Currently Underway:  
-
-
-<details>
-<summary>Weyward.  By Emilia Hart. 2023</summary>
-
-### Weyward. (11:00)  
-Audio: https://www.overdrive.com/media/8916843/weyward  
-ebook: https://www.overdrive.com/media/8918477/weyward  
-By [Emilia Hart](https://www.bookseriesinorder.com/emilia-hart/)  
-
-Reader Notes:  "Weyward" main characters: Altha (1619), Violet (1942), and Kate (2019) all of whom live in Crows Beck, Cumbria, England, and all three were controlled and victimized by men.  Each had the ability to *hear* the nature around them in ways unknown to the rest of us.  In a way that remains undisclosed, they also had some ability to communicate *need* or *instruction* to parts of that natural world (*some insects and crows are described in the book*) in ways that were sometimes refered to as *witchcraft* by the society that surrounded them.  It was an interesting story that seemed a little like a proposal for a movie.  
-BookInsider Summary: https://www.bookseriesinorder.com/emilia-hart/  
-Short Summary on BookBrowse: https://www.bookbrowse.com/reviews/index.cfm/book_number/4606/weyward  
-Interview With an Author: Emilia Hart: https://www.lapl.org/collections-resources/blogs/lapl/interview-author-emilia-hart  
-An interview with Emilia Hart: https://www.bookbrowse.com/author_interviews/full/index.cfm/author_number/3787/emilia-hart  
-"Weyward by Emilia Hart -- summary & study guide." By Stephanie Faithful. 2023  
-ebook: https://www.overdrive.com/media/10381296/weyward-by-emilia-hart-summary-study-guide  
-
-</details>
 
 
 <details>
