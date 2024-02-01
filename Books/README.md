@@ -244,6 +244,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
     
 ## Pending or Currently Underway:  
 
+details>
+<summary>The White Lady -- A British Historical Mystery. By Jacqueline Winspear. 2023 </summary>
+
+### The White Lady -- A British Historical Mystery.  
+eBook: https://www.overdrive.com/media/9080904/the-white-lady  
+Audio: https://www.overdrive.com/media/9068653/the-white-lady  
+By [Jacqueline Winspear](https://en.wikipedia.org/wiki/Jacqueline_Winspear) (1955 - _)  
+Bio on her own web site: https://jacquelinewinspear.com/about/  
+Also a bio on Wikiwand: https://www.wikiwand.com/en/Jacqueline_Winspear  
+  
+Reading Notes: Set in Post WWII Britain in 1947, 40-something former spy Elinor White, veteran of two wars, faces an organized crime gang in London, exposes corruption from Scotland Yard (*and beyond, to the highest levels of government*).  As the story opens, a very private White lives in a "grace and favor" property just outside Shacklehurst, in rural Kent.  Londoners, Jim Mackie, wife Rose, and their toddler Susie move in next door -- when Jim takes a job as a farm worker.  Mackie's are trying to *escape* from their infamous London crime family, but that family has other plans...  White is drawn into conflict and the story begins...  
+
+Review by Carol Memmott in the Washington Post: https://www.washingtonpost.com/books/2023/03/16/jacqueline-winspear-white-lady/  
+Review by Laury A. Egan in the New York Journal of Books: https://www.nyjournalofbooks.com/book-review/white-lady-novel  
+2021 Interview with Jacqueline Winspear: https://crimereads.com/jacqueline-winspear-how-i-became-a-mystery-writer-while-breaking-every-rule/  
+A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/  
+
+</details>
+
 
 <details>
 <summary>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
