@@ -750,6 +750,25 @@ Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en
 </details>
 
 
+<details><summary>Good Morning, Midnight. By Lily Brooks-Dalton. 2016 </summary>
+
+### Good Morning, Midnight. (9:00)  
+Audio: https://www.overdrive.com/media/2467285/good-morning-midnight  
+eBook: https://www.overdrive.com/media/2582590/good-morning-midnight  
+By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
+
+Reading Notes: This post-apocalyptic novel is worth your time.  The story is told in the introspective voices of a late-70s, dying, once distinguished astronomer but now reclusive academic Augustine (Augie) Lofthouse and top-tier astronaut, Iris Sullivan (Sully).  Both individuals were interesting-enough to keep me engaged throughout.  Exploring the concept of survival in the context of global catastrophy also seems relevant as humans continue to pump tremendous (*almost unimaginable*) amounts of carbon into the atmosphere.  
+Reports of an unexplained war result in an evacuation of Barbeau Observatory, a fictional research station in the Arctic Circle. Augie refuses to leave and remains at the observatory to continue his work -- feeling old, without any reasons to travel South and hoping to die alone.  Soon after he sees and assumes a level of care for a young -- largely mute -- girl, Iris, who appears to have been left behind during the evacuation.  Over time silence across all communications channels leads Augie to assume there has been some sort of apocalypse, leaving Iris and him as the last people on earth. As Augie's bonds with Iris evolve he decides that they need to travel to a "nearby" weather station that had Ham radio capabilities more powerful than available the observatory.  It is a dangerous journey, but results in a more hospitible Arctic home.  After a long "settling-in" delay, Augie begins searching the airwaves for signs of life and hears astronaut Sully -- who was trying to raise any sign of human life on earth.  
+Sully is on the return leg of a research survey of Jupiter and its moons.  There is in-flight drama on their ship, Aether, and increasing concern about the absence of communications signals from Earth.  Both Augie and Sully are confronted with challenges to their survival.  Both also invest heavily in reviews of their lives and evaluations of what remains important at this moment of uncertainty.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Good_Morning,_Midnight_(Brooks-Dalton_novel)  
+Brooks-Dalton's Site: https://www.lilybrooksdalton.com/good-morning-midnight.html  
+There is also a 2020 movie adaptation of this book called "[The Midnight Sky](https://www.imdb.com/title/tt10539608/)."  
+See: https://en.wikipedia.org/wiki/The_Midnight_Sky and a review at: https://www.rogerebert.com/reviews/the-midnight-sky-movie-review-2020  
+
+</details>
+
+
 <details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
@@ -1593,6 +1612,20 @@ Summary:
 </details>
 
 
+<details>
+<summary>Trust. By Hernan Diaz. 2022</summary>
+
+### Trust. (10:20)  
+Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner  
+ebook: https://www.overdrive.com/media/6480334/trust-pulitzer-prize-winner  
+By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 - _)  
+
+Reader Notes: This book is worth ten hours of your life.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Trust_(novel)) for an outline. The star is the writing.  This seemed like a seriously complex story to assemble, plus a thousand magical acts of writing (*maybe ten thousand*).  [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (~50 years old) is special and I will be reading all his books in the future.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)  
+
+</details>
+
+
 <details><summary>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
@@ -1706,15 +1739,34 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 
 
 <details>
-<summary>Trust. By Hernan Diaz. 2022</summary>
+<summary>Empty_Template </summary>
 
-### Trust. (10:20)  
-Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner  
-ebook: https://www.overdrive.com/media/6480334/trust-pulitzer-prize-winner  
-By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 - _)  
+### Empty_Template  
+  
+By []()  ( – )  
+<details>
+<summary>Reading Notes and 3rd Party Summaries</summary>
 
-Reader Notes: This book is worth ten hours of your life.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Trust_(novel)) for an outline. The star is the writing.  This seemed like a seriously complex story to assemble, plus a thousand magical acts of writing (*maybe ten thousand*).  [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (~50 years old) is special and I will be reading all his books in the future.  
-Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)  
+Reading Notes:  
+
+3rd Party Summaries:  
+
+</details>
+</details>
+
+
+<details>
+<summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
+
+### The Light Pirate.  
+Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279    
+Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
+eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
+By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
+
+Reading Notes:  
+
+Reviews on GoodReads: https://www.goodreads.com/book/show/60468332-the-light-pirate  
 
 </details>
 
