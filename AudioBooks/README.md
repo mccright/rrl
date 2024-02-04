@@ -758,7 +758,7 @@ eBook: https://www.overdrive.com/media/2582590/good-morning-midnight
 By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
 
 Reading Notes: This post-apocalyptic novel is worth your time.  The story is told in the introspective voices of a late-70s, dying, once distinguished astronomer but now reclusive academic Augustine (Augie) Lofthouse and top-tier astronaut, Iris Sullivan (Sully).  Both individuals were interesting-enough to keep me engaged throughout.  Exploring the concept of survival in the context of global catastrophy also seems relevant as humans continue to pump tremendous (*almost unimaginable*) amounts of carbon into the atmosphere.  
-Reports of an unexplained war result in an evacuation of Barbeau Observatory, a fictional research station in the Arctic Circle. Augie refuses to leave and remains at the observatory to continue his work -- feeling old, without any reasons to travel South and hoping to die alone.  Soon after he sees and assumes a level of care for a young -- largely mute -- girl, Iris, who appears to have been left behind during the evacuation.  Over time silence across all communications channels leads Augie to assume there has been some sort of apocalypse, leaving Iris and him as the last people on earth. As Augie's bonds with Iris evolve he decides that they need to travel to a "nearby" weather station that had Ham radio capabilities more powerful than available the observatory.  It is a dangerous journey, but results in a more hospitible Arctic home.  After a long "settling-in" delay, Augie begins searching the airwaves for signs of life and hears astronaut Sully -- who was trying to raise any sign of human life on earth.  
+Reports of an unexplained war result in an evacuation of Barbeau Observatory, a fictional research station in the Arctic Circle. Augie refuses to leave and remains at the observatory to continue his work -- feeling old, without any reasons to travel South and hoping to die alone.  Soon after, he sees and assumes a level of care for a young -- largely mute -- girl, Iris, who appears to have been left behind during the evacuation.  Over time silence across all communications channels leads Augie to assume there has been some sort of apocalypse, leaving Iris and him as the last people on earth. As Augie's bonds with Iris evolve he decides that they need to travel to a "nearby" weather station that had Ham radio capabilities more powerful than available the observatory.  It is a dangerous journey, but results in a more hospitible Arctic home.  After a long "settling-in" delay, Augie begins searching the airwaves for signs of life and hears astronaut Sully -- who was trying to raise any sign of human life on earth.  
 Sully is on the return leg of a research survey of Jupiter and its moons.  There is in-flight drama on their ship, Aether, and increasing concern about the absence of communications signals from Earth.  Both Augie and Sully are confronted with challenges to their survival.  Both also invest heavily in reviews of their lives and evaluations of what remains important at this moment of uncertainty.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Good_Morning,_Midnight_(Brooks-Dalton_novel)  
@@ -1729,10 +1729,6 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 </details>
 
 
-=====
-
-  
-
 -----
 
 ## Pending or Currently Underway:  
@@ -1753,6 +1749,23 @@ Reading Notes:
 
 </details>
 </details>
+
+
+<details>
+<summary>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
+
+### The Anomaly.  
+Audio: https://www.overdrive.com/media/6104021/the-anomaly  
+eBook: https://www.overdrive.com/media/6093663/the-anomaly    
+By [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier)  (1957 – )  
+
+Reading Notes: At the outset, this story may seem like an extended series of lightly-connected graduate creative writing exercises.  Stick with it.  About four hours in -- yes "*4*" -- we begin to get some important context, and I think that the story becomes one that should hold your interest.  It did mine.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)    
+
+</details>
+
+
 
 
 <details>
