@@ -1754,12 +1754,12 @@ Reading Notes:
 <details>
 <summary>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
 
-### The Anomaly.  
+### The Anomaly. (10:00)  
 Audio: https://www.overdrive.com/media/6104021/the-anomaly  
 eBook: https://www.overdrive.com/media/6093663/the-anomaly    
 By [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier)  (1957 – )  
 
-Reading Notes: At the outset, this story may seem like an extended series of lightly-connected graduate creative writing exercises.  Stick with it.  About four hours in -- yes "*4*" -- we begin to get some important context, and I think that the story becomes one that should hold your interest.  It did mine.  
+Reading Notes: At the outset, this story may seem like an extended series of lightly-connected expert-level creative writing exercises.  Stick with it.  About four hours in -- yes "**4**" -- we begin to get some important context, and I think that the story becomes one that should hold your interest (and more).  It did mine.  After thinking about this book a little, to me it has parallels to a vast chapel ceiling by Michelangelo at his peak -- via the written word.  I wonder what sparks, what raging fires of creativity and supporting knowledge, craft and effort propel the author to *this* result.  "[The Anomaly](https://en.wikipedia.org/wiki/The_Anomaly_(novel))" is the first work by [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier) that I have read/heard.  This seems like an important book for the aLe Tellier's sensitivity to culture and the breadth of cultures he incorporated into the story.  Again and again that silent question surfaced -- "how did he do that?"  (*if you really need to know more about the story before deciding to read it, see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Anomaly_(novel)) or the [summary on Overdrive](https://www.overdrive.com/media/6093663/the-anomaly)*).  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)    
 
