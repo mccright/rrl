@@ -63,6 +63,20 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 </details>
 
 
+<details><summary>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
+
+### The Anomaly. (10:00)  
+Audio: https://www.overdrive.com/media/6104021/the-anomaly  
+eBook: https://www.overdrive.com/media/6093663/the-anomaly    
+By [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier)  (1957 – )  
+
+Reading Notes: At the outset, this story may seem like an extended series of lightly-connected expert-level creative writing exercises.  Stick with it.  About four hours in -- yes "**4**" -- we begin to get some important context, and I think that the story becomes one that should hold your interest (and more).  It did mine.  After thinking about this book a little, to me it has parallels to a vast chapel ceiling by Michelangelo at his peak -- via the written word.  I wonder what sparks, what raging fires of creativity and supporting knowledge, craft and effort propel the author to *this* result.  "[The Anomaly](https://en.wikipedia.org/wiki/The_Anomaly_(novel))" is the first work by [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier) that I have read/heard.  This seems like an important book for the aLe Tellier's sensitivity to culture and the breadth of cultures he incorporated into the story.  Again and again that silent question surfaced -- "how did he do that?"  (*if you really need to know more about the story before deciding to read it, see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Anomaly_(novel)) or the [summary on Overdrive](https://www.overdrive.com/media/6093663/the-anomaly)*).  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)    
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
@@ -758,7 +772,7 @@ eBook: https://www.overdrive.com/media/2582590/good-morning-midnight
 By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
 
 Reading Notes: This post-apocalyptic novel is worth your time.  The story is told in the introspective voices of a late-70s, dying, once distinguished astronomer but now reclusive academic Augustine (Augie) Lofthouse and top-tier astronaut, Iris Sullivan (Sully).  Both individuals were interesting-enough to keep me engaged throughout.  Exploring the concept of survival in the context of global catastrophy also seems relevant as humans continue to pump tremendous (*almost unimaginable*) amounts of carbon into the atmosphere.  
-Reports of an unexplained war result in an evacuation of Barbeau Observatory, a fictional research station in the Arctic Circle. Augie refuses to leave and remains at the observatory to continue his work -- feeling old, without any reasons to travel South and hoping to die alone.  Soon after he sees and assumes a level of care for a young -- largely mute -- girl, Iris, who appears to have been left behind during the evacuation.  Over time silence across all communications channels leads Augie to assume there has been some sort of apocalypse, leaving Iris and him as the last people on earth. As Augie's bonds with Iris evolve he decides that they need to travel to a "nearby" weather station that had Ham radio capabilities more powerful than available the observatory.  It is a dangerous journey, but results in a more hospitible Arctic home.  After a long "settling-in" delay, Augie begins searching the airwaves for signs of life and hears astronaut Sully -- who was trying to raise any sign of human life on earth.  
+Reports of an unexplained war result in an evacuation of Barbeau Observatory, a fictional research station in the Arctic Circle. Augie refuses to leave and remains at the observatory to continue his work -- feeling old, without any reasons to travel South and hoping to die alone.  Soon after, he sees and assumes a level of care for a young -- largely mute -- girl, Iris, who appears to have been left behind during the evacuation.  Over time silence across all communications channels leads Augie to assume there has been some sort of apocalypse, leaving Iris and him as the last people on earth. As Augie's bonds with Iris evolve he decides that they need to travel to a "nearby" weather station that had Ham radio capabilities more powerful than available the observatory.  It is a dangerous journey, but results in a more hospitible Arctic home.  After a long "settling-in" delay, Augie begins searching the airwaves for signs of life and hears astronaut Sully -- who was trying to raise any sign of human life on earth.  
 Sully is on the return leg of a research survey of Jupiter and its moons.  There is in-flight drama on their ship, Aether, and increasing concern about the absence of communications signals from Earth.  Both Augie and Sully are confronted with challenges to their survival.  Both also invest heavily in reviews of their lives and evaluations of what remains important at this moment of uncertainty.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Good_Morning,_Midnight_(Brooks-Dalton_novel)  
@@ -1729,10 +1743,6 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 </details>
 
 
-=====
-
-  
-
 -----
 
 ## Pending or Currently Underway:  
@@ -1753,6 +1763,37 @@ Reading Notes:
 
 </details>
 </details>
+
+
+<details>
+<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+
+### The Longest Letsgoboy. (00:08)  
+Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
+eBood: https://www.overdrive.com/media/6799159/the-longest-letsgoboy  
+By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )  
+
+Reading Notes:  
+
+[From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
+
+</details>
+
+
+<details>
+<summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+
+### The Woman in Cabin 10. (11:00)  
+Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
+eBook: https://www.overdrive.com/media/2526344/the-woman-in-cabin-10  
+By [Ruth Ware](https://en.wikipedia.org/wiki/Ruth_Ware)  (1977 – )  
+
+Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to unnamed Norwegian fjords.  Days before her departure, Lo, who has debilitated by a (*another*) drinking binge, was the target of a *professional* home break-in and then *may have* just broken up with her partner, is deeply shaken.  But this is a *plumb* gig, so she goes on the cruise.  Once asea, she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  
+
+
+</details>
+
+
 
 
 <details>
