@@ -1765,6 +1765,35 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+
+### The Longest Letsgoboy. (00:08)  
+Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
+eBood: https://www.overdrive.com/media/6799159/the-longest-letsgoboy  
+By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )  
+
+Reading Notes:  
+
+[From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
+
+</details>
+
+
+<details>
+<summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+
+### The Woman in Cabin 10. (11:00)  
+Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
+eBook: https://www.overdrive.com/media/2526344/the-woman-in-cabin-10  
+By [Ruth Ware](https://en.wikipedia.org/wiki/Ruth_Ware)  (1977 – )  
+
+Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to unnamed Norwegian fjords.  Days before her departure, Lo, who has debilitated by a (*another*) drinking binge, was the target of a *professional* home break-in and then *may have* just broken up with her partner, is deeply shaken.  But this is a *plumb* gig, so she goes on the cruise.  Once asea, she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  
+
+
+</details>
+
+
 
 
 <details>
