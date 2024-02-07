@@ -1788,7 +1788,7 @@ Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10
 eBook: https://www.overdrive.com/media/2526344/the-woman-in-cabin-10  
 By [Ruth Ware](https://en.wikipedia.org/wiki/Ruth_Ware)  (1977 – )  
 
-Reading Notes: Laura "Lo" Blacklock, a travel journalist is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to unnamed Norwegian fjords. This is a *plumb* gig until she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  
+Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to unnamed Norwegian fjords.  Days before her departure, Lo, who has debilitated by a (*another*) drinking binge, was the target of a *professional* home break-in and then *may have* just broken up with her partner, is deeply shaken.  But this is a *plumb* gig, so she goes on the cruise.  Once asea, she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  
 
 
 </details>
