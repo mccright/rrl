@@ -1764,6 +1764,21 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
+
+### Arch-Conspirator (3:00)  
+Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
+eBook: https://www.overdrive.com/media/8918095/arch-conspirator    
+By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 – _)  
+
+Reading Notes:  
+
+Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/): 
+>Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
+
+</details>
+
 
 <details>
 <summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
@@ -1788,7 +1803,7 @@ Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10
 eBook: https://www.overdrive.com/media/2526344/the-woman-in-cabin-10  
 By [Ruth Ware](https://en.wikipedia.org/wiki/Ruth_Ware)  (1977 – )  
 
-Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to unnamed Norwegian fjords.  Days before her departure, Lo, who has debilitated by a (*another*) drinking binge, was the target of a *professional* home break-in and then *may have* just broken up with her partner, is deeply shaken.  But this is a *plumb* gig, so she goes on the cruise.  Once asea, she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  
+Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to named and unnamed Norwegian fjords.  Days before her departure, Lo, debilitated by a (*another*) drinking binge, was the target of a *professional* home break-in and then *may have* just broken up with her partner, is deeply shaken.  But this is a *plumb* gig, so she goes on the cruise.  Once at sea, she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  This is similar to a classic "*[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story -- with the detective swapped out with a travel-writer.  The book received a lot of love from major book review lists, but it was just OK for me...  You may love it too.  I think that the storyline and content would work well for the "young adult" reader category.  
 
 
 </details>
