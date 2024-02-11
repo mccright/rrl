@@ -1060,6 +1060,21 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
+<details>
+<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+
+### The Longest Letsgoboy. (00:08)  
+Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
+eBood: https://www.overdrive.com/media/6799159/the-longest-letsgoboy  
+By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )  
+
+Reading Notes: An eight minute read aimed at the very young.  The story warrants careful review before using with your toddler as it might raise more challenging questions than it addresses.  
+
+[From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
+
+</details>
+
+
 <details><summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
 
 ### Lorelei of the Red Mist.  (2:51)  
@@ -1788,21 +1803,6 @@ Reading Notes:
 
 Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/): 
 >Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
-
-</details>
-
-
-<details>
-<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
-
-### The Longest Letsgoboy. (00:08)  
-Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
-eBood: https://www.overdrive.com/media/6799159/the-longest-letsgoboy  
-By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )  
-
-Reading Notes:  
-
-[From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
 
 </details>
 
