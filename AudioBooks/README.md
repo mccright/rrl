@@ -1068,7 +1068,7 @@ Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy
 eBood: https://www.overdrive.com/media/6799159/the-longest-letsgoboy  
 By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )  
 
-Reading Notes: An eight minute read aimed at the very young.  The story warrants careful review before using with your toddler as it might raise more challenging questions than it addresses.  
+Reading Notes: An eight minute read aimed at the very young.  The story warrants careful review before using with your toddler ● as it might raise more challenging questions than it addresses.  
 
 [From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
 
@@ -1805,6 +1805,30 @@ Summary from [the author's book website](https://veronicarothbooks.com/books/arc
 >Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
 
 </details>
+
+
+<details>
+<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020</summary>
+
+### Caste -- The Origins of Our Discontent. (15:00)  
+Audio: https://www.overdrive.com/media/5644442/caste  
+eBook: https://www.overdrive.com/media/5257052/caste  
+By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
+
+Reading Notes:  Read this book.  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies and illustrates and supports her model with examples from three caste systems: India, Nazi Germany and the United States.  
+Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
+If you want to know more, read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents).  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents)  
+See a list of review summaries (with links to each full review) on: https://bookmarks.reviews/reviews/all/caste-oprahs-book-club-the-origins-of-our-discontents/  
+OverDrive Summary:  
+>'The hierarchy of caste is not about feelings or morality. It is about power - which groups have it and which do not'
+Beyond race or class, our lives are defined by a powerful, unspoken system of divisions. In Caste, Pulitzer Prize-winning author Isabel Wilkerson gives an astounding portrait of this hidden phenomenon. Linking America, India and Nazi Germany, Wilkerson reveals how our world has been shaped by caste - and how its rigid, arbitrary hierarchies still divide us today.  With clear-sighted rigour, Wilkerson unearths the eight pillars that connect caste systems across civilizations, and demonstrates how our own era of intensifying conflict and upheaval has arisen as a consequence of caste. Weaving in stories of real people, she shows how its insidious undertow emerges every day; she documents its surprising health costs; and she explores its effects on culture and politics. Finally, Wilkerson points forward to the ways we can - and must - move beyond its artificial divisions, towards our common humanity.
+Beautifully written and deeply original, Caste is an eye-opening examination of what lies beneath the surface of ordinary lives.  
+
+
+</details>
+
 
 
 <details>
