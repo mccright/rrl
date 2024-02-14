@@ -1815,7 +1815,7 @@ Audio: https://www.overdrive.com/media/5644442/caste
 eBook: https://www.overdrive.com/media/5257052/caste  
 By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
 
-Reading Notes:  Read this book.  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies and illustrates and supports her model with examples from three caste systems: India, Nazi Germany and the United States.  
+Reading Notes:  Read this book.  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value."  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
 Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
 If you want to know more, read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents).  
 
@@ -1829,6 +1829,20 @@ Beautifully written and deeply original, Caste is an eye-opening examination of 
 
 </details>
 
+
+  
+<details>
+<summary>The Midnight Library -- A Novel. By Matt Haig 2020 </summary>
+
+### The Midnight Library -- A Novel  
+Audio: https://www.overdrive.com/media/5328992/the-midnight-library  
+eBook: https://www.overdrive.com/media/5305833/the-midnight-library  
+ 
+By [Matt Haig]()  ( – )  
+
+Reading Notes:  
+
+</details>
 
 
 <details>
