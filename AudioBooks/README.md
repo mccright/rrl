@@ -77,6 +77,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)
 </details>
 
 
+<details>
+<summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
+
+### Arch-Conspirator (3:00)  
+Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
+eBook: https://www.overdrive.com/media/8918095/arch-conspirator    
+By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 – _)  
+
+Reading Notes: This short story (*3 hours*) incorporates many kinds of loss -- in the end, most of the characters choose their death.  This is probably not a story for the already depressed.  
+
+Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/): 
+>Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
@@ -1060,6 +1076,21 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
+<details>
+<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+
+### The Longest Letsgoboy. (00:08)  
+Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
+eBood: https://www.overdrive.com/media/6799159/the-longest-letsgoboy  
+By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )  
+
+Reading Notes: An eight minute read aimed at the very young.  The story warrants careful review before using with your toddler ● as it might raise more challenging questions than it addresses.  
+
+[From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
+
+</details>
+
+
 <details><summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
 
 ### Lorelei of the Red Mist.  (2:51)  
@@ -1714,6 +1745,18 @@ Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_
 </details>
 
 
+<details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+
+### The Woman in Cabin 10. (11:00)  
+Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
+eBook: https://www.overdrive.com/media/2526344/the-woman-in-cabin-10  
+By [Ruth Ware](https://en.wikipedia.org/wiki/Ruth_Ware)  (1977 – )  
+
+Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to named and unnamed Norwegian fjords.  Days before her departure, Lo, debilitated by a (*another*) drinking binge, was the target of a *professional* home break-in and then *may have* just broken up with her partner, is deeply shaken.  But this is a *plumb* gig, so she goes on the cruise.  Once at sea, she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  This is similar to a classic "*[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story -- with the detective swapped out with a travel-writer.  The book received a lot of love from major book review lists, but it was just OK for me -- maybe, again, just for me, the narrator seemed an ill fit for this text...  You may love it too.  I think that the storyline and content would work well for the "young adult" reader category.  
+
+</details>
+
+
 <details><summary>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
 
 ### The Wordy Shipmates (07:15)  
@@ -1765,50 +1808,41 @@ Reading Notes:
 </details>
 
 <details>
-<summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
+<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
-### Arch-Conspirator (3:00)  
-Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
-eBook: https://www.overdrive.com/media/8918095/arch-conspirator    
-By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 – _)  
+### Caste -- The Origins of Our Discontent. (15:00)  
+Audio: https://www.overdrive.com/media/5644442/caste  
+eBook: https://www.overdrive.com/media/5257052/caste  
+By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
+
+Reading Notes:  Regardless of your age, social or economic situation read this book. If you can, read it before you vote next time (*if you are allowed to vote*).  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value" expressed in our behaviors, our perceptions of the world around us, in our laws and conventions, and more.  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
+Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
+If you want to know more, read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents).  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents)  
+See a list of review summaries (with links to each full review) on: https://bookmarks.reviews/reviews/all/caste-oprahs-book-club-the-origins-of-our-discontents/  
+OverDrive Summary:  
+>'The hierarchy of caste is not about feelings or morality. It is about power - which groups have it and which do not'
+Beyond race or class, our lives are defined by a powerful, unspoken system of divisions. In Caste, Pulitzer Prize-winning author Isabel Wilkerson gives an astounding portrait of this hidden phenomenon. Linking America, India and Nazi Germany, Wilkerson reveals how our world has been shaped by caste - and how its rigid, arbitrary hierarchies still divide us today.  With clear-sighted rigour, Wilkerson unearths the eight pillars that connect caste systems across civilizations, and demonstrates how our own era of intensifying conflict and upheaval has arisen as a consequence of caste. Weaving in stories of real people, she shows how its insidious undertow emerges every day; she documents its surprising health costs; and she explores its effects on culture and politics. Finally, Wilkerson points forward to the ways we can - and must - move beyond its artificial divisions, towards our common humanity.
+Beautifully written and deeply original, Caste is an eye-opening examination of what lies beneath the surface of ordinary lives.  
+
+
+</details>
+
+
+  
+<details>
+<summary>The Midnight Library -- A Novel. By Matt Haig 2020 </summary>
+
+### The Midnight Library -- A Novel  
+Audio: https://www.overdrive.com/media/5328992/the-midnight-library  
+eBook: https://www.overdrive.com/media/5305833/the-midnight-library  
+ 
+By [Matt Haig]()  ( – )  
 
 Reading Notes:  
 
-Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/): 
->Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
-
 </details>
-
-
-<details>
-<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
-
-### The Longest Letsgoboy. (00:08)  
-Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
-eBood: https://www.overdrive.com/media/6799159/the-longest-letsgoboy  
-By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )  
-
-Reading Notes:  
-
-[From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
-
-</details>
-
-
-<details>
-<summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
-
-### The Woman in Cabin 10. (11:00)  
-Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
-eBook: https://www.overdrive.com/media/2526344/the-woman-in-cabin-10  
-By [Ruth Ware](https://en.wikipedia.org/wiki/Ruth_Ware)  (1977 – )  
-
-Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned to cover the maiden voyage of exclusive luxury *cruise ship* (yaht) for hopping the Scandinavian coastline, Aurora Borealis, to named and unnamed Norwegian fjords.  Days before her departure, Lo, debilitated by a (*another*) drinking binge, was the target of a *professional* home break-in and then *may have* just broken up with her partner, is deeply shaken.  But this is a *plumb* gig, so she goes on the cruise.  Once at sea, she *witnesses* a woman being thrown overboard -- but discovers that all the passengers are accounted for...  This is similar to a classic "*[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story -- with the detective swapped out with a travel-writer.  The book received a lot of love from major book review lists, but it was just OK for me...  You may love it too.  I think that the storyline and content would work well for the "young adult" reader category.  
-
-
-</details>
-
-
 
 
 <details>
