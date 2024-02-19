@@ -77,6 +77,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)
 </details>
 
 
+<details>
+<summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
+
+### Arch-Conspirator (3:00)  
+Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
+eBook: https://www.overdrive.com/media/8918095/arch-conspirator    
+By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 – _)  
+
+Reading Notes: This short story (*3 hours*) incorporates many kinds of loss -- in the end, most of the characters choose their death.  This is probably not a story for the already depressed.  
+
+Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/): 
+>Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
@@ -1792,30 +1808,14 @@ Reading Notes:
 </details>
 
 <details>
-<summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
-
-### Arch-Conspirator (3:00)  
-Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
-eBook: https://www.overdrive.com/media/8918095/arch-conspirator    
-By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 – _)  
-
-Reading Notes:  
-
-Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/): 
->Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
-
-</details>
-
-
-<details>
-<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020</summary>
+<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
 ### Caste -- The Origins of Our Discontent. (15:00)  
 Audio: https://www.overdrive.com/media/5644442/caste  
 eBook: https://www.overdrive.com/media/5257052/caste  
 By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
 
-Reading Notes:  Read this book.  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value."  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
+Reading Notes:  Regardless of your age, social or economic situation read this book. If you can, read it before you vote next time (*if you are allowed to vote*).  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value" expressed in our behaviors, our perceptions of the world around us, in our laws and conventions, and more.  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
 Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
 If you want to know more, read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents).  
 
