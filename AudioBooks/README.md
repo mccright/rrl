@@ -1816,7 +1816,7 @@ Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind
 eBook: https://www.overdrive.com/media/5207423/leave-the-world-behind  
 By [Rumaan Alam](https://en.wikipedia.org/wiki/Rumaan_Alam) and [his site](https://www.rumaanalam.com/work/about-me)  (1977 – _)  
 
-Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this story progressed.  
+Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this end-of-the-world story progressed.  
 This book was also released in [movie form](https://en.wikipedia.org/wiki/Leave_the_World_Behind_(film)).  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Leave_the_World_Behind_(novel)  
