@@ -1807,11 +1807,33 @@ Reading Notes:
 </details>
 </details>
 
+
+<details>
+<summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
+
+### Leave the World Behind. (7:20)  
+Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
+eBook: https://www.overdrive.com/media/5207423/leave-the-world-behind  
+By [Rumaan Alam](https://en.wikipedia.org/wiki/Rumaan_Alam) and [his site](https://www.rumaanalam.com/work/about-me)  (1977 – _)  
+
+Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this end-of-the-world story progressed.  
+This book was also released in [movie form](https://en.wikipedia.org/wiki/Leave_the_World_Behind_(film)).  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Leave_the_World_Behind_(novel)  
+Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behind):  
+>From the bestselling author of Rich and Pretty comes a suspenseful and provocative novel keenly attuned to the complexities of parenthood, race, and class. Leave the World Behind explores how our closest bonds are reshaped—and unexpected new ones are forged—in moments of crisis.  
+>Amanda and Clay head out to a remote corner of Long Island expecting a vacation: a quiet reprieve from life in New York City, quality time with their teenage son and daughter, and a taste of the good life in the luxurious home they've rented for the week. But a late-night knock on the door breaks the spell. Ruth and G. H. are an older couple—it's their house, and they've arrived in a panic. They bring the news that a sudden blackout has swept the city. But in this rural area—with the TV and internet now down, and no cell phone service—it's hard to know what to believe.  
+>Should Amanda and Clay trust this couple—and vice versa? What happened back in New York? Is the vacation home, isolated from civilization, a truly safe place for their families? And are they safe from one other?  
+
+
+</details>
+
+
 <details>
 <summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
 ### Caste -- The Origins of Our Discontent. (15:00)  
-Audio: https://www.overdrive.com/media/5644442/caste  
+Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog) 
 eBook: https://www.overdrive.com/media/5257052/caste  
 By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
 
