@@ -455,6 +455,32 @@ Librivox Summary:
 </details>
 
 
+<a name="caste_isabel_wilkerson"></a>
+
+<details>
+<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
+
+### Caste -- The Origins of Our Discontent. (15:00)  
+Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog) 
+eBook: https://www.overdrive.com/media/5257052/caste  
+By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
+
+Reading Notes:  Regardless of your age, social or economic situation read this book. If you can, read it before you vote next time (*if you are allowed to vote*).  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value" expressed in our behaviors, our perceptions of the world around us, in our laws and conventions, and more.  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
+Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
+If you want to know more, read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents).  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents)  
+See a list of review summaries (with links to each full review) on: https://bookmarks.reviews/reviews/all/caste-oprahs-book-club-the-origins-of-our-discontents/  
+OverDrive Summary:  
+>'The hierarchy of caste is not about feelings or morality. It is about power - which groups have it and which do not'
+Beyond race or class, our lives are defined by a powerful, unspoken system of divisions. In Caste, Pulitzer Prize-winning author Isabel Wilkerson gives an astounding portrait of this hidden phenomenon. Linking America, India and Nazi Germany, Wilkerson reveals how our world has been shaped by caste - and how its rigid, arbitrary hierarchies still divide us today.  With clear-sighted rigour, Wilkerson unearths the eight pillars that connect caste systems across civilizations, and demonstrates how our own era of intensifying conflict and upheaval has arisen as a consequence of caste. Weaving in stories of real people, she shows how its insidious undertow emerges every day; she documents its surprising health costs; and she explores its effects on culture and politics. Finally, Wilkerson points forward to the ways we can - and must - move beyond its artificial divisions, towards our common humanity.
+Beautifully written and deeply original, Caste is an eye-opening examination of what lies beneath the surface of ordinary lives.  
+
+
+</details>
+
+
+
 <details><summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
 
 ### Cato, a Tragedy in Five Acts  (1:47)  
@@ -1809,14 +1835,35 @@ Reading Notes:
 
 
 <details>
+<summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
+
+### The Lost Book of Adana Moreau.  
+Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau  
+eBook: https://www.overdrive.com/media/4729940/the-lost-book-of-adana-moreau  
+By [Michael Zapata](https://www.michaelzapata.com/about.html), on the [Shipman Agency site](https://www.theshipmanagency.com/michael-zapata) and on [LinkedIn](https://www.linkedin.com/in/michael-zapata-0754914)  ( – )  
+
+Reading Notes:  
+
+[Overdrive Summary](https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau):  
+>In 1929 in New Orleans, a Dominican immigrant named Adana Moreau writes a science fiction novel. The novel earns rave reviews, and Adana begins a sequel. Then she falls gravely ill. Just before she dies, she destroys the only copy of the manuscript.
+Decades later in Chicago, Saul Drower is cleaning out his dead grandfather's home when he discovers a mysterious manuscript written by none other than Adana Moreau. With the help of his friend Javier, Saul tracks down an address for Adana's son in New Orleans, but as Hurricane Katrina strikes they must head to the storm-ravaged city for answers.What results is a brilliantly layered masterpiece—an ode to home, storytelling and the possibility of parallel worlds.  
+
+Review by Talor Moore, Chicago Magazine: "[Local Author’s Breakout Debut Is a Novel About a Novel](https://www.chicagomag.com/arts-culture/February-2020/Chicago-Authors-Breakout-Debut-Is-a-Novel-About-a-Novel/)." 2020-02-20  
+Review by Jason Heller, NPR: "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)." 2020-02-05  
+30 minute conversation between Michael Zapata and G. P. Gottlieb "[Michael Zapata on Stories of Displacement](https://lithub.com/michael-zapata-on-stories-of-displacement/)."  
+
+</details>
+
+
+<details>
 <summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
 
-### Leave the World Behind. (7:20)  
+### Leave the World Behind. (7:26)  
 Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
 eBook: https://www.overdrive.com/media/5207423/leave-the-world-behind  
 By [Rumaan Alam](https://en.wikipedia.org/wiki/Rumaan_Alam) and [his site](https://www.rumaanalam.com/work/about-me)  (1977 – _)  
 
-Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this end-of-the-world story progressed.  
+Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this end-of-the-world story progressed.  This is my first book after listening to "[Caste](#caste_isabel_wilkerson)" by [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson) and I think her research and writing is an excellent preparation for reading Alam's novel, which explores a lot of the same social territory, albeit on a micro-scale (*having 6 or 8 material characters*) and in a fictional end-of-the-world context.  
 This book was also released in [movie form](https://en.wikipedia.org/wiki/Leave_the_World_Behind_(film)).  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Leave_the_World_Behind_(novel)  
@@ -1830,26 +1877,21 @@ Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behi
 
 
 <details>
-<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
+<summary>Deep Freeze. By Michael C. Grumley. 2024 </summary>
 
-### Caste -- The Origins of Our Discontent. (15:00)  
-Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog) 
-eBook: https://www.overdrive.com/media/5257052/caste  
-By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
+### Deep Freeze.  
+Audio: https://www.overdrive.com/media/9790834/deep-freeze  
+eBook: https://www.overdrive.com/media/9790977/deep-freeze  
 
-Reading Notes:  Regardless of your age, social or economic situation read this book. If you can, read it before you vote next time (*if you are allowed to vote*).  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value" expressed in our behaviors, our perceptions of the world around us, in our laws and conventions, and more.  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
-Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
-If you want to know more, read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents).  
+By [Michael C. Grumley](https://michaelgrumley.com/about)  ( – )  
 
-Wikipedia Summary: [https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents)  
-See a list of review summaries (with links to each full review) on: https://bookmarks.reviews/reviews/all/caste-oprahs-book-club-the-origins-of-our-discontents/  
-OverDrive Summary:  
->'The hierarchy of caste is not about feelings or morality. It is about power - which groups have it and which do not'
-Beyond race or class, our lives are defined by a powerful, unspoken system of divisions. In Caste, Pulitzer Prize-winning author Isabel Wilkerson gives an astounding portrait of this hidden phenomenon. Linking America, India and Nazi Germany, Wilkerson reveals how our world has been shaped by caste - and how its rigid, arbitrary hierarchies still divide us today.  With clear-sighted rigour, Wilkerson unearths the eight pillars that connect caste systems across civilizations, and demonstrates how our own era of intensifying conflict and upheaval has arisen as a consequence of caste. Weaving in stories of real people, she shows how its insidious undertow emerges every day; she documents its surprising health costs; and she explores its effects on culture and politics. Finally, Wilkerson points forward to the ways we can - and must - move beyond its artificial divisions, towards our common humanity.
-Beautifully written and deeply original, Caste is an eye-opening examination of what lies beneath the surface of ordinary lives.  
+Reading Notes:  
 
+OverDrive [Summary]():  
+>The accident came quickly. With no warning. In the dead of night, a precipitous plunge into a freezing river trapped everyone inside the bus. It was then that Army veteran John Reiff's life came to an end. Extinguished in the sudden rush of frigid water.  There was no expectation of survival. None. Let alone waking up beneath blinding hospital lights. Struggling to move, or see, or even breathe. But the doctors assure him that everything is normal. That things will improve. And yet, he has a strange feeling that there's something they're not telling him. As Reiff's mind and body gradually recover, he becomes certain that the doctors are lying to him. One-by-one, puzzle pieces are slowly falling into place, and he soon realizes that things are not at all what they seem. Critical information is being kept from him. Secrets. Supposedly for his own good. But who is doing this? Why? And the most important question: can he keep himself alive long enough to uncover the truth?  
 
 </details>
+
 
 
   
