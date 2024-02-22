@@ -1045,6 +1045,26 @@ https://www.jsdewes.com/about
 </details>
 
 
+<details>
+<summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
+
+### Leave the World Behind. (7:26)  
+Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
+eBook: https://www.overdrive.com/media/5207423/leave-the-world-behind  
+By [Rumaan Alam](https://en.wikipedia.org/wiki/Rumaan_Alam) and [his site](https://www.rumaanalam.com/work/about-me)  (1977 – _)  
+
+Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this end-of-the-world story progressed.  This is my first book after listening to "[Caste](#caste_isabel_wilkerson)" by [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson) and I think her research and writing is an excellent preparation for reading Alam's novel, which explores a lot of the same social territory, albeit on a micro-scale (*having 6 or 8 material characters*) and in a fictional end-of-the-world context.  
+This book was also released in [movie form](https://en.wikipedia.org/wiki/Leave_the_World_Behind_(film)).  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Leave_the_World_Behind_(novel)  
+Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behind):  
+>From the bestselling author of Rich and Pretty comes a suspenseful and provocative novel keenly attuned to the complexities of parenthood, race, and class. Leave the World Behind explores how our closest bonds are reshaped—and unexpected new ones are forged—in moments of crisis.  
+>Amanda and Clay head out to a remote corner of Long Island expecting a vacation: a quiet reprieve from life in New York City, quality time with their teenage son and daughter, and a taste of the good life in the luxurious home they've rented for the week. But a late-night knock on the door breaks the spell. Ruth and G. H. are an older couple—it's their house, and they've arrived in a panic. They bring the news that a sudden blackout has swept the city. But in this rural area—with the TV and internet now down, and no cell phone service—it's hard to know what to believe.  
+>Should Amanda and Clay trust this couple—and vice versa? What happened back in New York? Is the vacation home, isolated from civilization, a truly safe place for their families? And are they safe from one other?  
+
+</details>
+
+
 <details><summary>The Legion of Lazarus.  By Edmond Hamilton.  1956 </summary>
 
 ### The Legion of Lazarus (2:38)  
@@ -1842,7 +1862,7 @@ Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau
 eBook: https://www.overdrive.com/media/4729940/the-lost-book-of-adana-moreau  
 By [Michael Zapata](https://www.michaelzapata.com/about.html), on the [Shipman Agency site](https://www.theshipmanagency.com/michael-zapata) and on [LinkedIn](https://www.linkedin.com/in/michael-zapata-0754914)  ( – )  
 
-Reading Notes:  
+Reading Notes:  This book is another huge winner --> you should read it. As this story crosses centuries and cultures I thought initially it did so via elements of what I believe is often called *[magical realism](https://en.wikipedia.org/wiki/Magic_realism)*. Zapata builds each sub-plot around a dense structure of realistic detail while injecting what at first seemed like *magical or fantastical elements.*  But the more that I thought about the details, I now believe that he just has *magical* skills as a master story-teller and a master literary craftsman. As a reader the book seems to *argue* that the reality that our decisions result in impacts far, far beyond their immediate context.  The story incorporates themes of family, diaspora, immigration, exile, and the way we characterize cultures/societies not our own and how we treat each other first-hand, as well as ideas that support the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*).  Jason Heller's review of this book, "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)" is better than anything that I could write about this book -- see it if you want to know more.  
 
 [Overdrive Summary](https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau):  
 >In 1929 in New Orleans, a Dominican immigrant named Adana Moreau writes a science fiction novel. The novel earns rave reviews, and Adana begins a sequel. Then she falls gravely ill. Just before she dies, she destroys the only copy of the manuscript.
@@ -1851,27 +1871,6 @@ Decades later in Chicago, Saul Drower is cleaning out his dead grandfather's hom
 Review by Talor Moore, Chicago Magazine: "[Local Author’s Breakout Debut Is a Novel About a Novel](https://www.chicagomag.com/arts-culture/February-2020/Chicago-Authors-Breakout-Debut-Is-a-Novel-About-a-Novel/)." 2020-02-20  
 Review by Jason Heller, NPR: "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)." 2020-02-05  
 30 minute conversation between Michael Zapata and G. P. Gottlieb "[Michael Zapata on Stories of Displacement](https://lithub.com/michael-zapata-on-stories-of-displacement/)."  
-
-</details>
-
-
-<details>
-<summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
-
-### Leave the World Behind. (7:26)  
-Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
-eBook: https://www.overdrive.com/media/5207423/leave-the-world-behind  
-By [Rumaan Alam](https://en.wikipedia.org/wiki/Rumaan_Alam) and [his site](https://www.rumaanalam.com/work/about-me)  (1977 – _)  
-
-Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this end-of-the-world story progressed.  This is my first book after listening to "[Caste](#caste_isabel_wilkerson)" by [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson) and I think her research and writing is an excellent preparation for reading Alam's novel, which explores a lot of the same social territory, albeit on a micro-scale (*having 6 or 8 material characters*) and in a fictional end-of-the-world context.  
-This book was also released in [movie form](https://en.wikipedia.org/wiki/Leave_the_World_Behind_(film)).  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Leave_the_World_Behind_(novel)  
-Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behind):  
->From the bestselling author of Rich and Pretty comes a suspenseful and provocative novel keenly attuned to the complexities of parenthood, race, and class. Leave the World Behind explores how our closest bonds are reshaped—and unexpected new ones are forged—in moments of crisis.  
->Amanda and Clay head out to a remote corner of Long Island expecting a vacation: a quiet reprieve from life in New York City, quality time with their teenage son and daughter, and a taste of the good life in the luxurious home they've rented for the week. But a late-night knock on the door breaks the spell. Ruth and G. H. are an older couple—it's their house, and they've arrived in a panic. They bring the news that a sudden blackout has swept the city. But in this rural area—with the TV and internet now down, and no cell phone service—it's hard to know what to believe.  
->Should Amanda and Clay trust this couple—and vice versa? What happened back in New York? Is the vacation home, isolated from civilization, a truly safe place for their families? And are they safe from one other?  
-
 
 </details>
 

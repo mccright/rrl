@@ -16,13 +16,16 @@ Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-net
 
 </details>
 
+<a name="anathem_neal_stephenson"></a>
+
 <details>
 <summary>Anathem. By Neal Stephenson  2008 (I strongly recommend reading this book)</summary>
 
 ### Anathem.  
-https://en.wikipedia.org/wiki/Anathem  
+eBook: https://www.overdrive.com/media/171066/anathem  
+Audio: https://www.overdrive.com/media/180366/anathem  
 https://www.nealstephenson.com/anathem.html  
-By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
 Published 2008, 937 pages.  
 See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
@@ -142,9 +145,11 @@ https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/
 <summary>The Diamond Age or, A Young Lady's Illustrated Primer.  By Neal Stephenson  1995</summary>
 
 ### The Diamond Age or, A Young Lady's Illustrated Primer  
+eBook: https://www.overdrive.com/media/36903/the-diamond-age  
 https://en.wikipedia.org/wiki/The_Diamond_Age  
-By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  
-Published 1995  
+https://search.worldcat.org/formats-editions/30894530  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+Published 1995  pages 455  
 Summary:  
 ..."nanotechnology made nearly anything possible, and so the cultural role in deciding what *should* be done with it had become far more important than imagining what *could* be done with it." (page 37)  This book [covers a lot of territory](https://en.wikipedia.org/wiki/The_Diamond_Age).  Written in the early 1990s, Stephenson created a world in the 3rd or 4th decade of the 21st century where nanotechnology had changed *everything* and humanity was characterized by extreme tribalism.  
 
