@@ -249,7 +249,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
     
 ## Pending or Currently Underway:  
 
-details>
+<details>
 <summary>The White Lady -- A British Historical Mystery. By Jacqueline Winspear. 2023 </summary>
 
 ### The White Lady -- A British Historical Mystery.  
