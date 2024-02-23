@@ -1150,6 +1150,27 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
+
+### The Lost Book of Adana Moreau.  
+Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau  
+eBook: https://www.overdrive.com/media/4729940/the-lost-book-of-adana-moreau  
+By [Michael Zapata](https://www.michaelzapata.com/about.html), on the [Shipman Agency site](https://www.theshipmanagency.com/michael-zapata) and on [LinkedIn](https://www.linkedin.com/in/michael-zapata-0754914)  ( – )  
+
+Reading Notes:  This book is another huge winner --> you should read it.  I started this book yesterday morning and am writing this text after having finished around noon today -- it is the kind of book that quickly drew me in and kept me engaged with the characters -- and engaged with the writing itself. As this story crosses centuries and cultures I thought initially it did so via elements of what I believe is often called *[magical realism](https://en.wikipedia.org/wiki/Magic_realism)*. Zapata builds each sub-plot around a dense structure of realistic detail while injecting what at first seemed like *magical or fantastical elements.*  But the more that I thought about the details, I now believe that he just has *magical* skills -- hugging complex and diverse realities as a master story-teller and a master literary craftsman. As a reader the book seems to *argue* that the reality that our decisions result in impacts far, far beyond their immediate context.  The story incorporates themes of family, diaspora, immigration, exile, and the way we characterize cultures/societies not our own and how we treat each other first-hand, as well as ideas that support the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*).  Jason Heller's review of this book, "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)" is better than anything that I could write about this book -- see it if you want to know more.  
+
+[Overdrive Summary](https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau):  
+>In 1929 in New Orleans, a Dominican immigrant named Adana Moreau writes a science fiction novel. The novel earns rave reviews, and Adana begins a sequel. Then she falls gravely ill. Just before she dies, she destroys the only copy of the manuscript.
+Decades later in Chicago, Saul Drower is cleaning out his dead grandfather's home when he discovers a mysterious manuscript written by none other than Adana Moreau. With the help of his friend Javier, Saul tracks down an address for Adana's son in New Orleans, but as Hurricane Katrina strikes they must head to the storm-ravaged city for answers.What results is a brilliantly layered masterpiece—an ode to home, storytelling and the possibility of parallel worlds.  
+
+Review by Talor Moore, Chicago Magazine: "[Local Author’s Breakout Debut Is a Novel About a Novel](https://www.chicagomag.com/arts-culture/February-2020/Chicago-Authors-Breakout-Debut-Is-a-Novel-About-a-Novel/)." 2020-02-20  
+Review by Jason Heller, NPR: "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)." 2020-02-05  
+30 minute conversation between Michael Zapata and G. P. Gottlieb "[Michael Zapata on Stories of Displacement](https://lithub.com/michael-zapata-on-stories-of-displacement/)."  
+
+</details>
+
+
 <details><summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>
 
 ### The Man in the Panther's Skin (8:17)  
@@ -1851,27 +1872,6 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
-</details>
-
-
-<details>
-<summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
-
-### The Lost Book of Adana Moreau.  
-Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau  
-eBook: https://www.overdrive.com/media/4729940/the-lost-book-of-adana-moreau  
-By [Michael Zapata](https://www.michaelzapata.com/about.html), on the [Shipman Agency site](https://www.theshipmanagency.com/michael-zapata) and on [LinkedIn](https://www.linkedin.com/in/michael-zapata-0754914)  ( – )  
-
-Reading Notes:  This book is another huge winner --> you should read it. As this story crosses centuries and cultures I thought initially it did so via elements of what I believe is often called *[magical realism](https://en.wikipedia.org/wiki/Magic_realism)*. Zapata builds each sub-plot around a dense structure of realistic detail while injecting what at first seemed like *magical or fantastical elements.*  But the more that I thought about the details, I now believe that he just has *magical* skills as a master story-teller and a master literary craftsman. As a reader the book seems to *argue* that the reality that our decisions result in impacts far, far beyond their immediate context.  The story incorporates themes of family, diaspora, immigration, exile, and the way we characterize cultures/societies not our own and how we treat each other first-hand, as well as ideas that support the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*).  Jason Heller's review of this book, "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)" is better than anything that I could write about this book -- see it if you want to know more.  
-
-[Overdrive Summary](https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau):  
->In 1929 in New Orleans, a Dominican immigrant named Adana Moreau writes a science fiction novel. The novel earns rave reviews, and Adana begins a sequel. Then she falls gravely ill. Just before she dies, she destroys the only copy of the manuscript.
-Decades later in Chicago, Saul Drower is cleaning out his dead grandfather's home when he discovers a mysterious manuscript written by none other than Adana Moreau. With the help of his friend Javier, Saul tracks down an address for Adana's son in New Orleans, but as Hurricane Katrina strikes they must head to the storm-ravaged city for answers.What results is a brilliantly layered masterpiece—an ode to home, storytelling and the possibility of parallel worlds.  
-
-Review by Talor Moore, Chicago Magazine: "[Local Author’s Breakout Debut Is a Novel About a Novel](https://www.chicagomag.com/arts-culture/February-2020/Chicago-Authors-Breakout-Debut-Is-a-Novel-About-a-Novel/)." 2020-02-20  
-Review by Jason Heller, NPR: "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)." 2020-02-05  
-30 minute conversation between Michael Zapata and G. P. Gottlieb "[Michael Zapata on Stories of Displacement](https://lithub.com/michael-zapata-on-stories-of-displacement/)."  
-
 </details>
 
 
