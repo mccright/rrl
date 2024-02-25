@@ -1158,7 +1158,7 @@ Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau
 eBook: https://www.overdrive.com/media/4729940/the-lost-book-of-adana-moreau  
 By [Michael Zapata](https://www.michaelzapata.com/about.html), on the [Shipman Agency site](https://www.theshipmanagency.com/michael-zapata) and on [LinkedIn](https://www.linkedin.com/in/michael-zapata-0754914)  ( – )  
 
-Reading Notes:  This book is another huge winner --> you should read it.  I started this book yesterday morning and am writing this text after having finished around noon today -- it is the kind of book that quickly drew me in and kept me engaged with the characters -- and engaged with the writing itself. As this story crosses centuries and cultures I thought initially it did so via elements of what I believe is often called *[magical realism](https://en.wikipedia.org/wiki/Magic_realism)*. Zapata builds each sub-plot around a dense structure of realistic detail while injecting what at first seemed like *magical or fantastical elements.*  But the more that I thought about the details, I now believe that he just has *magical* skills -- hugging complex and diverse realities as a master story-teller and a master literary craftsman. As a reader the book seems to *argue* that the reality that our decisions result in impacts far, far beyond their immediate context.  The story incorporates themes of family, diaspora, immigration, exile, and the way we characterize cultures/societies not our own and how we treat each other first-hand, as well as ideas that support the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*).  Jason Heller's review of this book, "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)" is better than anything that I could write about this book -- see it if you want to know more.  
+Reading Notes:  This book is another huge winner --> you should read it.  I started this book yesterday morning and am writing this text after having finished around noon today -- it is the kind of book that quickly drew me in and kept me engaged with the characters -- and engaged with the writing itself. As this story crosses centuries and cultures I thought initially it did so via elements of what I believe is often called *[magical realism](https://en.wikipedia.org/wiki/Magic_realism)*. Zapata builds each sub-plot around a dense structure of realistic detail while injecting what at first seemed like *magical or fantastical elements.*  But the more that I thought about the details, I now believe that he just has *magical* skills -- hugging complex and diverse realities as a master story-teller and a master literary craftsman. As a reader the book seems to *argue* that the reality that our decisions result in impacts far, far beyond their immediate context.  The story incorporates themes of family, diaspora, immigration, exile, and the way we characterize cultures/societies not our own and how we treat each other first-hand, as well as ideas that support the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*).  Jason Heller's review of this book, "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)" is better than anything that I could write about this book -- see it if you want to know more.  This is my second book after listening to "[Caste](#caste_isabel_wilkerson)" by [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson) and I think her research and writing is an excellent preparation for reading Zapata's novel, which explores some of the same social territory across generations.  
 
 [Overdrive Summary](https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau):  
 >In 1929 in New Orleans, a Dominican immigrant named Adana Moreau writes a science fiction novel. The novel earns rave reviews, and Adana begins a sequel. Then she falls gravely ill. Just before she dies, she destroys the only copy of the manuscript.
@@ -1876,6 +1876,20 @@ Reading Notes:
 
 
 <details>
+<summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
+
+### The Age of Innocence.  By Edith Wharton.  (9:57)  
+https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
+Text: https://www.gutenberg.org/etext/541  
+By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)  
+Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
+Librivox Summary:  
+>Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
+
+</details>
+
+
+<details>
 <summary>Deep Freeze. By Michael C. Grumley. 2024 </summary>
 
 ### Deep Freeze.  
@@ -2148,21 +2162,6 @@ By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride  
 Librivox Summary:  
 >The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
-
-</details>
-
-
-
-<details>
-<summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
-
-### The Age of Innocence.  By Edith Wharton.  (9:57)  
-https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
-Text: https://www.gutenberg.org/etext/541  
-By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)  
-Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
-Librivox Summary:  
->Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
 
 </details>
 
