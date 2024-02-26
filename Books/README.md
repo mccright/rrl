@@ -371,6 +371,29 @@ By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)
 
 
 <details>
+<summary>The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics. By Dan T. Carter. 2000 </summary>
+
+### The Politics of Rage: George Wallace, the Origins of the New Conservatism, and the Transformation of American Politics.  
+By [Dan T. Carter]()  
+https://lsupress.org/9780807125977/the-politics-of-rage/  
+>"Combining biography with regional and national history, Dan T. Carter chronicles the dramatic rise and fall of George Wallace, a populist who abandoned his ideals to become a national symbol of racism, and later begged for forgiveness. In The Politics of Rage, Carter argues persuasively that the four-time Alabama governor and four-time presidential candidate helped to establish the conservative political movement that put Ronald Reagan in the White House in 1980 and gave Newt Gingrich and the Republicans control of Congress in 1994. In this second edition, Carter updates Wallace’s story with a look at the politician’s death and the nation’s reaction to it and gives a summary of his own sense of the legacy of “the most important loser in twentieth-century American politics.”"  
+
+</details>
+
+
+<details>
+<summary>Red Reckoning: The Cold War and the Transformation of American Life.  By Mark Boulton.  2023 </summary>
+
+### Red Reckoning: The Cold War and the Transformation of American Life.  
+ebook: https://www.overdrive.com/media/9767688/red-reckoning  
+By [Mark Boulton](https://www.linkedin.com/in/mark-boulton-73b4a082)  
+Summary from [LSU Press](https://lsupress.org/9780807180082/):  
+Though it ended more than thirty years ago, the Cold War still casts a long shadow over American society. Red Reckoning examines how the great ideological conflict of the twentieth century transformed the nation and forced Americans to reconsider almost every aspect of their society, culture, and identity.  Using an interdisciplinary approach, the volume’s contributors examine a broad array of topics, including the Cold War’s impact on national security, race relations, gun culture and masculinity, law, college football, advertising, music, film, free speech, religion, and even board games. Above all, Red Reckoning brings a vitally important era back to life for those who lived through it and for students and scholars wishing to understand it.  
+
+</details>
+
+
+<details>
 <summary>Stamped from the Beginning: The Definitive History of Racist Ideas in America. By Ibram X. Kendi.  2016 </summary>
 
 ### Stamped from the Beginning: The Definitive History of Racist Ideas in America.  

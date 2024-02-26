@@ -1876,6 +1876,42 @@ Reading Notes:
 
 
 <details>
+<summary>Eifelheim. By Michael Flynn. 2006 </summary>
+
+### Eifelheim. (17:15)  
+Audio: https://www.overdrive.com/media/137097/eifelheim  
+eBook: https://www.overdrive.com/media/511616/eifelheim  
+By [Michael Flynn](https://en.wikipedia.org/wiki/Michael_Flynn_(writer))  (1947 - 2023)  
+
+Reading Notes:  
+
+[Overdrive Summary](https://www.overdrive.com/media/137097/eifelheim):  
+>Over the centuries, one small town in Germany has disappeared and never been resettled. Tom, a historian, and his theoretical physicist girlfriend Sharon, become interested. By all logic, the town should have survived. What's so special about Eifelheim?  Father Dietrich is the village priest of Eifelheim, in the year 1348, when the Black Death is gathering strength but is still not nearby. Dietrich is an educated man, and to his astonishment becomes the first contact person between humanity and an alien race from a distant star, when their ship crashes in the nearby forest. It is a time of wonders, in the shadow of the plague. Flynn gives us the full richness and strangeness of medieval life, as well as some terrific aliens. Tom and Sharon, and Father Deitrich have a strange destiny of tragedy and triumph in Eifelheim, the brilliant science fiction novel by Michael Flynn.  
+
+</details>
+
+
+<details>
+<summary>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
+
+### The Mountain in the Sea.  
+Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea  
+eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
+By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
+
+Reading Notes:  
+
+[Overdrive Summary](https://www.overdrive.com/media/8557446/the-mountain-in-the-sea):  
+Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future.  The transnational tech corporation DIANIMA has sealed off the remote Con Dao Archipelago, where a species of octopus has been discovered that may have developed its own language and culture. The marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. She travels to the islands to join DIANIMA's team: a battle-scarred securityagent and the world's first (and possibly last) android.  The octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence. As Dr. Nguyen struggles to communicate with the newly discovered species, forces larger than DIANIMA close in to seize the octopuses for themselves.But no one has yet asked the octopuses what they think. Or what they might do about it.  A near-future thriller, a meditation on the nature of consciousness, and an ecological call to arms, Ray Nayler's dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind's legacy.
+
+A review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)):  https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html  
+
+</details>
+
+
+
+
+<details>
 <summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
 
 ### The Age of Innocence.  By Edith Wharton.  (9:57)  
