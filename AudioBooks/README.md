@@ -686,6 +686,31 @@ Summary from Librivox:
 </details>
 
 
+<details>
+<summary>Eifelheim. By Michael Flynn. 2006 </summary>
+
+### Eifelheim. (17:15)  
+Audio: https://www.overdrive.com/media/137097/eifelheim  
+eBook: https://www.overdrive.com/media/511616/eifelheim  
+By [Michael Flynn](https://en.wikipedia.org/wiki/Michael_Flynn_(writer))  (1947 - 2023)  
+
+Reading Notes:  One thread of this story has [cliometric](https://en.wikipedia.org/wiki/Cliometrics) [historian](https://en.wikipedia.org/wiki/Historian) Tom Schwoerin and partner [theoretical physicist](https://en.wikipedia.org/wiki/Theoretical_physicist) Sharon Nagy bumble upon evidence of a mid-14th century alien crash-landing during Schwoerin's research of Eifelheim (*originally called Oberhochwald*), a small town in the Black Forest of Germany.  The main thread of the story examines relations between 14th century Black Forest Christians and scientifically-advanced aliens (*the Krenken*) whose space/time-craft crashed in the woods nearby.  It explores ideas like "What is the nature of authority?" "What is the nature of the world around us?" "What does it mean to be Christian?" "Can one change their fundamental beliefs?" and "Is the speed of light a constant?"  
+
+RELATED:  
+There is an interesting overview of VLS (variable light speed) theories in: "[New varying speed of light theories](https://iopscience.iop.org/article/10.1088/0034-4885/66/11/R04)." 2003, By Joao Magueijo,  I downloaded on 2024-02-26 from https://web.archive.org/web/20180728224539/http://cds.cern.ch/record/618057/files/0305457.pdf.  And an earlier analysis of VLS theories: "[Cosmologies with Varying Light-Speed](https://arxiv.org/abs/astro-ph/9811022)." 1998, by John D. Barrow, downloaded from https://arxiv.org/pdf/astro-ph/9811022.pdf on 2024-02-26.  
+If you looked at either of those resources, you might want to investigate further (*what happened in the last 20 years?*).  
+"[Statistical Hierarchy of Varying Speed of Light Cosmologies](https://iopscience.iop.org/article/10.3847/1538-4357/aa9cea)." 2017 by Vincenzo Salzano and Mariusz P. Da̧browski.  And as recently as 2022 VLS was still receiving scientific research -- for example: "[The minimally extended Varying Speed of Light (meVSL)](https://inspirehep.net/literature/1831065)." By Seokcheon Lee.  The *maths* involved in these last two papers, although important to their arguments, have enough textual context to make these papers useful to non-physicists...  
+
+[Overdrive Summary](https://www.overdrive.com/media/137097/eifelheim):  
+>Over the centuries, one small town in Germany has disappeared and never been resettled. Tom, a historian, and his theoretical physicist girlfriend Sharon, become interested. By all logic, the town should have survived. What's so special about Eifelheim?  Father Dietrich is the village priest of Eifelheim, in the year 1348, when the Black Death is gathering strength but is still not nearby. Dietrich is an educated man, and to his astonishment becomes the first contact person between humanity and an alien race from a distant star, when their ship crashes in the nearby forest. It is a time of wonders, in the shadow of the plague. Flynn gives us the full richness and strangeness of medieval life, as well as some terrific aliens. Tom and Sharon, and Father Deitrich have a strange destiny of tragedy and triumph in Eifelheim, the brilliant science fiction novel by Michael Flynn.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Eifelheim#Plot_summary  
+
+(*note to self, look up Subterranean Online - 2007 • [Subterranean Online] • (2007) • edited by William Schafer.  The "SFRA Review #283." and "Vector 256 Summer 2008" by BSFA*)  
+
+</details>
+
+
 <details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
@@ -1872,31 +1897,6 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
-</details>
-
-
-<details>
-<summary>Eifelheim. By Michael Flynn. 2006 </summary>
-
-### Eifelheim. (17:15)  
-Audio: https://www.overdrive.com/media/137097/eifelheim  
-eBook: https://www.overdrive.com/media/511616/eifelheim  
-By [Michael Flynn](https://en.wikipedia.org/wiki/Michael_Flynn_(writer))  (1947 - 2023)  
-
-Reading Notes:  One thread of this story has [cliometric](https://en.wikipedia.org/wiki/Cliometrics) [historian](https://en.wikipedia.org/wiki/Historian) Tom Schwoerin and partner [theoretical physicist](https://en.wikipedia.org/wiki/Theoretical_physicist) Sharon Nagy bumble upon evidence of a mid-14th century alien crash-landing during Schwoerin's research of Eifelheim (*originally called Oberhochwald*), a small town in the Black Forest of Germany.  The main thread of the story examines relations between 14th century Black Forest Christians and scientifically-advanced aliens (*the Krenken*) whose space/time-craft crashed in the woods nearby.  It explores ideas like "What is the nature of authority?" "What is the nature of the world around us?" "What does it mean to be Christian?" "Can one change their fundamental beliefs?" and "Is the speed of light a constant?"  
-
-RELATED:  
-There is an interesting overview of VLS (variable light speed) theories in: "[New varying speed of light theories](https://iopscience.iop.org/article/10.1088/0034-4885/66/11/R04)." 2003, By Joao Magueijo,  I downloaded on 2024-02-26 from https://web.archive.org/web/20180728224539/http://cds.cern.ch/record/618057/files/0305457.pdf.  And an earlier analysis of VLS theories: "[Cosmologies with Varying Light-Speed](https://arxiv.org/abs/astro-ph/9811022)." 1998, by John D. Barrow, downloaded from https://arxiv.org/pdf/astro-ph/9811022.pdf on 2024-02-26.  
-If you looked at either of those resources, you might want to investigate further (*what happened in the last 20 years?*).  
-"[Statistical Hierarchy of Varying Speed of Light Cosmologies](https://iopscience.iop.org/article/10.3847/1538-4357/aa9cea)." 2017 by Vincenzo Salzano and Mariusz P. Da̧browski.  And as recently as 2022 VLS was still receiving scientific research -- for example: "[The minimally extended Varying Speed of Light (meVSL)](https://inspirehep.net/literature/1831065)." By Seokcheon Lee.  The *maths* involved in these last two papers, although important to their arguments, have enough textual context to make these papers useful to non-physicists...  
-
-[Overdrive Summary](https://www.overdrive.com/media/137097/eifelheim):  
->Over the centuries, one small town in Germany has disappeared and never been resettled. Tom, a historian, and his theoretical physicist girlfriend Sharon, become interested. By all logic, the town should have survived. What's so special about Eifelheim?  Father Dietrich is the village priest of Eifelheim, in the year 1348, when the Black Death is gathering strength but is still not nearby. Dietrich is an educated man, and to his astonishment becomes the first contact person between humanity and an alien race from a distant star, when their ship crashes in the nearby forest. It is a time of wonders, in the shadow of the plague. Flynn gives us the full richness and strangeness of medieval life, as well as some terrific aliens. Tom and Sharon, and Father Deitrich have a strange destiny of tragedy and triumph in Eifelheim, the brilliant science fiction novel by Michael Flynn.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Eifelheim#Plot_summary  
-
-(*note to self, look up Subterranean Online - 2007 • [Subterranean Online] • (2007) • edited by William Schafer.  The "SFRA Review #283." and "Vector 256 Summer 2008" by BSFA*)  
-
 </details>
 
 
