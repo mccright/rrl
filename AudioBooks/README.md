@@ -686,6 +686,31 @@ Summary from Librivox:
 </details>
 
 
+<details>
+<summary>Eifelheim. By Michael Flynn. 2006 </summary>
+
+### Eifelheim. (17:15)  
+Audio: https://www.overdrive.com/media/137097/eifelheim  
+eBook: https://www.overdrive.com/media/511616/eifelheim  
+By [Michael Flynn](https://en.wikipedia.org/wiki/Michael_Flynn_(writer))  (1947 - 2023)  
+
+Reading Notes:  One thread of this story has [cliometric](https://en.wikipedia.org/wiki/Cliometrics) [historian](https://en.wikipedia.org/wiki/Historian) Tom Schwoerin and partner [theoretical physicist](https://en.wikipedia.org/wiki/Theoretical_physicist) Sharon Nagy bumble upon evidence of a mid-14th century alien crash-landing during Schwoerin's research of Eifelheim (*originally called Oberhochwald*), a small town in the Black Forest of Germany.  The main thread of the story examines relations between 14th century Black Forest Christians and scientifically-advanced aliens (*the Krenken*) whose space/time-craft crashed in the woods nearby.  It explores ideas like "What is the nature of authority?" "What is the nature of the world around us?" "What does it mean to be Christian?" "Can one change their fundamental beliefs?" and "Is the speed of light a constant?"  
+
+RELATED:  
+There is an interesting overview of VLS (variable light speed) theories in: "[New varying speed of light theories](https://iopscience.iop.org/article/10.1088/0034-4885/66/11/R04)." 2003, By Joao Magueijo,  I downloaded on 2024-02-26 from https://web.archive.org/web/20180728224539/http://cds.cern.ch/record/618057/files/0305457.pdf.  And an earlier analysis of VLS theories: "[Cosmologies with Varying Light-Speed](https://arxiv.org/abs/astro-ph/9811022)." 1998, by John D. Barrow, downloaded from https://arxiv.org/pdf/astro-ph/9811022.pdf on 2024-02-26.  
+If you looked at either of those resources, you might want to investigate further (*what happened in the last 20 years?*).  
+"[Statistical Hierarchy of Varying Speed of Light Cosmologies](https://iopscience.iop.org/article/10.3847/1538-4357/aa9cea)." 2017 by Vincenzo Salzano and Mariusz P. Da̧browski.  And as recently as 2022 VLS was still receiving scientific research -- for example: "[The minimally extended Varying Speed of Light (meVSL)](https://inspirehep.net/literature/1831065)." By Seokcheon Lee.  The *maths* involved in these last two papers, although important to their arguments, have enough textual context to make these papers useful to non-physicists...  
+
+[Overdrive Summary](https://www.overdrive.com/media/137097/eifelheim):  
+>Over the centuries, one small town in Germany has disappeared and never been resettled. Tom, a historian, and his theoretical physicist girlfriend Sharon, become interested. By all logic, the town should have survived. What's so special about Eifelheim?  Father Dietrich is the village priest of Eifelheim, in the year 1348, when the Black Death is gathering strength but is still not nearby. Dietrich is an educated man, and to his astonishment becomes the first contact person between humanity and an alien race from a distant star, when their ship crashes in the nearby forest. It is a time of wonders, in the shadow of the plague. Flynn gives us the full richness and strangeness of medieval life, as well as some terrific aliens. Tom and Sharon, and Father Deitrich have a strange destiny of tragedy and triumph in Eifelheim, the brilliant science fiction novel by Michael Flynn.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Eifelheim#Plot_summary  
+
+(*note to self, look up Subterranean Online - 2007 • [Subterranean Online] • (2007) • edited by William Schafer.  The "SFRA Review #283." and "Vector 256 Summer 2008" by BSFA*)  
+
+</details>
+
+
 <details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
@@ -1876,31 +1901,6 @@ Reading Notes:
 
 
 <details>
-<summary>Eifelheim. By Michael Flynn. 2006 </summary>
-
-### Eifelheim. (17:15)  
-Audio: https://www.overdrive.com/media/137097/eifelheim  
-eBook: https://www.overdrive.com/media/511616/eifelheim  
-By [Michael Flynn](https://en.wikipedia.org/wiki/Michael_Flynn_(writer))  (1947 - 2023)  
-
-Reading Notes:  One thread of this story has [cliometric](https://en.wikipedia.org/wiki/Cliometrics) [historian](https://en.wikipedia.org/wiki/Historian) Tom Schwoerin and partner [theoretical physicist](https://en.wikipedia.org/wiki/Theoretical_physicist) Sharon Nagy bumble upon evidence of a mid-14th century alien crash-landing during Schwoerin's research of Eifelheim (*originally called Oberhochwald*), a small town in the Black Forest of Germany.  The main thread of the story examines relations between 14th century Black Forest Christians and scientifically-advanced aliens (*the Krenken*) whose space/time-craft crashed in the woods nearby.  It explores ideas like "What is the nature of authority?" "What is the nature of the world around us?" "What does it mean to be Christian?" "Can one change their fundamental beliefs?" and "Is the speed of light a constant?"  
-
-RELATED:  
-There is an interesting overview of VLS (variable light speed) theories in: "[New varying speed of light theories](https://iopscience.iop.org/article/10.1088/0034-4885/66/11/R04)." 2003, By Joao Magueijo,  I downloaded on 2024-02-26 from https://web.archive.org/web/20180728224539/http://cds.cern.ch/record/618057/files/0305457.pdf.  And an earlier analysis of VLS theories: "[Cosmologies with Varying Light-Speed](https://arxiv.org/abs/astro-ph/9811022)." 1998, by John D. Barrow, downloaded from https://arxiv.org/pdf/astro-ph/9811022.pdf on 2024-02-26.  
-If you looked at either of those resources, you might want to investigate further (*what happened in the last 20 years?*).  
-"[Statistical Hierarchy of Varying Speed of Light Cosmologies](https://iopscience.iop.org/article/10.3847/1538-4357/aa9cea)." 2017 by Vincenzo Salzano and Mariusz P. Da̧browski.  And as recently as 2022 VLS was still receiving scientific research -- for example: "[The minimally extended Varying Speed of Light (meVSL)](https://inspirehep.net/literature/1831065)." By Seokcheon Lee.  The *maths* involved in these last two papers, although important to their arguments, have enough textual context to make these papers useful to non-physicists...  
-
-[Overdrive Summary](https://www.overdrive.com/media/137097/eifelheim):  
->Over the centuries, one small town in Germany has disappeared and never been resettled. Tom, a historian, and his theoretical physicist girlfriend Sharon, become interested. By all logic, the town should have survived. What's so special about Eifelheim?  Father Dietrich is the village priest of Eifelheim, in the year 1348, when the Black Death is gathering strength but is still not nearby. Dietrich is an educated man, and to his astonishment becomes the first contact person between humanity and an alien race from a distant star, when their ship crashes in the nearby forest. It is a time of wonders, in the shadow of the plague. Flynn gives us the full richness and strangeness of medieval life, as well as some terrific aliens. Tom and Sharon, and Father Deitrich have a strange destiny of tragedy and triumph in Eifelheim, the brilliant science fiction novel by Michael Flynn.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Eifelheim#Plot_summary  
-
-(*note to self, look up Subterranean Online - 2007 • [Subterranean Online] • (2007) • edited by William Schafer.  The "SFRA Review #283." and "Vector 256 Summer 2008" by BSFA*)  
-
-</details>
-
-
-<details>
 <summary>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
 
 ### The Mountain in the Sea.  
@@ -1908,16 +1908,42 @@ Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea
 eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
 By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
 
-Reading Notes:  
+Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
+* Remote Vietnamese archipelago of [Côn Đảo](https://www.google.com/maps/place/C%C3%B4n+%C4%90%E1%BA%A3o/@8.6944336,106.6398703,12z/data=!3m1!4b1!4m6!3m5!1s0x3198a9186b2f6e91:0xe0a6ec6a3d538a81!8m2!3d8.7009282!4d106.6114474!16zL20vMDVzaDBw?authuser=0&hl=en&entry=ttu), recently purchased by the DIANIMA corporation.  
+* Dr. Ha Nguyen, marine scientist, leading studies of cephalopod intelligence, and author of "How Oceans Think."  
+* Altantsetse, security guard.  
+* Evrim, the world’s first android.  
+* Rustem, *master* AI/neural network hacker.  
+* Sea Wolf, automated deep sea fishing ship.  
+* Eiko, enslaved man on the automated fishing ship.  
+* Dr. Arnkatla Minervudóttir-Chan, Eiko's creator and the leader of the DIANIMA corporation.
+
 
 [Overdrive Summary](https://www.overdrive.com/media/8557446/the-mountain-in-the-sea):  
 Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future.  The transnational tech corporation DIANIMA has sealed off the remote Con Dao Archipelago, where a species of octopus has been discovered that may have developed its own language and culture. The marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. She travels to the islands to join DIANIMA's team: a battle-scarred securityagent and the world's first (and possibly last) android.  The octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence. As Dr. Nguyen struggles to communicate with the newly discovered species, forces larger than DIANIMA close in to seize the octopuses for themselves.But no one has yet asked the octopuses what they think. Or what they might do about it.  A near-future thriller, a meditation on the nature of consciousness, and an ecological call to arms, Ray Nayler's dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind's legacy.
 
 A review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)):  https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html  
+Review of the audio book by [Marlene Harris](https://www.readingreality.net/about-marlene-harris/): https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/  
+Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2022/11/gary-k-wolfe-reviews-the-mountain-in-the-sea-by-ray-nayler/  
+A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-mountain-in-the-sea-by-ray-nayler-e3911ca111ce  
+
 
 </details>
 
 
+<details>
+<summary>The Tusks of Extinction.  By Ray Nayler. 2024 </summary>
+
+### The Tusks of Extinction. (11:00)  
+Audio: https://www.overdrive.com/media/10361459/the-tusks-of-extinction  
+eBook: https://www.overdrive.com/media/9768960/the-tusks-of-extinction  
+By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
+
+Reading Notes:  
+
+Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2024/02/gary-k-wolfe-reviews-the-tusks-of-extinction-by-ray-nayler/  
+
+</details>
 
 
 <details>
