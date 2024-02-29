@@ -37,6 +37,32 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 </details>
 
 
+<details>
+<summary>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
+
+### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
+This ebook: https://www.loc.gov/item/17001543/  
+[The full The Dred Scott v. Sandford Decision](https://tile.loc.gov/storage-services/service/ll/usrep/usrep060/usrep060393a/usrep060393a.pdf) *which adds another ~180 pages of opinions by other members of the Supreme Court*    
+[The Dred Scott v. Sandford Decision Wikipedia Summary](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford).  
+By [Roger Brooke Taney](https://en.wikipedia.org/wiki/Roger_B._Taney) (1777 - 1864)  
+Introduction by Dr. [John H. Van Evrie](https://en.wikipedia.org/wiki/John_H._Van_Evrie), "*defender of slavery*." (1814 - 1896)  
+and  
+Appendix. "Natural History Of The Prognathous Species Of Mankind." By Dr. [Samuel A. Cartwright](https://en.wikipedia.org/wiki/Samuel_A._Cartwright), *inventor of the 'mental illness' of [drapetomania](https://en.wikipedia.org/wiki/Drapetomania), the desire of a slave for freedom*. (1793 - 1863)  
+
+Reader notes:  I read this while thinking about the increasing volume of *race-related* arguments in Far Right and Trumpist/Trumper rhetoric that I see in *print* news and in streaming *news-like* programming.  It is a depressing read -- made more depressing when paired with its "*echos*" in political speech in the U.S. today.  That said, I recommend this exercise to anyone who has only a foggy memory (*or less*) of the kind of language and logic used in mid-19th century America to justify and solidify Black slavery in the U.S.  
+As a reminder to those who forgot their High School history or government class summary of this case, "[Taney infamously delivered the majority opinion in Dred Scott v. Sandford (1857), ruling that African Americans could not be considered U.S. citizens (*and thus they could not enjoy the rights and privileges the Constitution conferred upon American citizens*) and that Congress could not prohibit slavery in the U.S. territories.](https://en.wikipedia.org/wiki/Roger_B._Taney)."  Chief Justice Taney wrote for the majority that African Americans:  
+>"are not included, and were not intended to be included, under the word “citizens” in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated 18 or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them." ([page 30](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=30))  
+
+and that:  
+>"a perpetual and impassable barrier was intended to be erected between the white race and the one which they had reduced to slavery, and governed as subjects with absolute and despotic power... ([page 36](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=36))  
+
+and finally, that:  
+>"it is the opinion of the court that the act of Congress which prohibited a citizen from holding and owning property of this kind in the territory of the United States north of the line therein mentioned, is not warranted by the Constitution, and is therefore void. ([page 87](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=87))  
+The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/item/17001543/) wrap *some* late-1850s social context to the Supreme Court opinion.  Unfortunately, some of the "*race science*" and "state's rights" themes in those two essays seem to be appearing again in Far Right and Trumpist/Trumper *[dog whistle](https://en.wikipedia.org/wiki/Dog_whistle_(politics))* talking points.  
+
+</details>
+
+
 <details><summary>The Expendables. by A. E. Van Vogt  1963</summary>  
 
 ### The Expendables.  
@@ -233,32 +259,6 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
-</details>
-
-
-<details>
-<summary>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
-
-### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
-This ebook: https://www.loc.gov/item/17001543/  
-[The full The Dred Scott v. Sandford Decision](https://tile.loc.gov/storage-services/service/ll/usrep/usrep060/usrep060393a/usrep060393a.pdf) *which adds another ~180 pages of opinions by other members of the Supreme Court*    
-[The Dred Scott v. Sandford Decision Wikipedia Summary](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford).  
-By [Roger Brooke Taney](https://en.wikipedia.org/wiki/Roger_B._Taney) (1777 - 1864)  
-Introduction by Dr. [John H. Van Evrie](https://en.wikipedia.org/wiki/John_H._Van_Evrie), "*defender of slavery*." (1814 - 1896)  
-and  
-Appendix. "Natural History Of The Prognathous Species Of Mankind." By Dr. [Samuel A. Cartwright](https://en.wikipedia.org/wiki/Samuel_A._Cartwright), *inventor of the 'mental illness' of [drapetomania](https://en.wikipedia.org/wiki/Drapetomania), the desire of a slave for freedom*. (1793 - 1863)  
-
-Reader notes:  I read this while thinking about the increasing volume of *race-related* arguments in Far Right and Trumpist/Trumper rhetoric that I see in *print* news and in streaming *news-like* programming.  It is a depressing read -- made more depressing when paired with its "*echos*" in political speech in the U.S. today.  That said, I recommend this exercise to anyone who has only a foggy memory (*or less*) of the kind of language and logic used in mid-19th century America to justify and solidify Black slavery in the U.S.  
-As a reminder to those who forgot their High School history or government class summary of this case, "[Taney infamously delivered the majority opinion in Dred Scott v. Sandford (1857), ruling that African Americans could not be considered U.S. citizens (*and thus they could not enjoy the rights and privileges the Constitution conferred upon American citizens*) and that Congress could not prohibit slavery in the U.S. territories.](https://en.wikipedia.org/wiki/Roger_B._Taney)."  Chief Justice Taney wrote for the majority that African Americans:  
->"are not included, and were not intended to be included, under the word “citizens” in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated 18 or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them." ([page 30](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=30))  
-
-and that:  
->"a perpetual and impassable barrier was intended to be erected between the white race and the one which they had reduced to slavery, and governed as subjects with absolute and despotic power... ([page 36](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=36))  
-
-and finally, that:  
->"it is the opinion of the court that the act of Congress which prohibited a citizen from holding and owning property of this kind in the territory of the United States north of the line therein mentioned, is not warranted by the Constitution, and is therefore void. ([page 87](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=87))  
-The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/item/17001543/) wrap *some* late-1850s social context to the Supreme Court opinion.  Unfortunately, some of the "*race science*" and "state's rights" themes in those two essays seem to be appearing again in Far Right and Trumpist/Trumper *[dog whistle](https://en.wikipedia.org/wiki/Dog_whistle_(politics))* talking points.  
-
 </details>
 
 
