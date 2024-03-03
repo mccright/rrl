@@ -67,27 +67,26 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 
 ### The Anomaly. (10:00)  
 Audio: https://www.overdrive.com/media/6104021/the-anomaly  
-eBook: https://www.overdrive.com/media/6093663/the-anomaly    
+eBook: https://www.overdrive.com/media/6093663/the-anomaly  
 By [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier)  (1957 – )  
 
 Reading Notes: At the outset, this story may seem like an extended series of lightly-connected expert-level creative writing exercises.  Stick with it.  About four hours in -- yes "**4**" -- we begin to get some important context, and I think that the story becomes one that should hold your interest (and more).  It did mine.  After thinking about this book a little, to me it has parallels to a vast chapel ceiling by Michelangelo at his peak -- via the written word.  I wonder what sparks, what raging fires of creativity and supporting knowledge, craft and effort propel the author to *this* result.  "[The Anomaly](https://en.wikipedia.org/wiki/The_Anomaly_(novel))" is the first work by [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier) that I have read/heard.  This seems like an important book for the aLe Tellier's sensitivity to culture and the breadth of cultures he incorporated into the story.  Again and again that silent question surfaced -- "how did he do that?"  (*if you really need to know more about the story before deciding to read it, see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Anomaly_(novel)) or the [summary on Overdrive](https://www.overdrive.com/media/6093663/the-anomaly)*).  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)    
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)  
 
 </details>
 
 
-<details>
-<summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
+<details><summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
 
 ### Arch-Conspirator (3:00)  
 Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
-eBook: https://www.overdrive.com/media/8918095/arch-conspirator    
+eBook: https://www.overdrive.com/media/8918095/arch-conspirator  
 By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 – _)  
 
 Reading Notes: This short story (*3 hours*) incorporates many kinds of loss -- in the end, most of the characters choose their death.  This is probably not a story for the already depressed.  
 
-Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/): 
+Summary from [the author's book website](https://veronicarothbooks.com/books/arch-conspirator/):  
 >Outside the last city on Earth, the planet is a wasteland. Without the Archive, where the genes of the dead are stored, humanity will end.  Antigone's parents -- Oedipus and Jocasta -- are dead. Passing into the Archive should be cause for celebration, but with her militant uncle Kreon rising to claim her father's vacant throne, all Antigone feels is rage. When he welcomes her and her siblings into his mansion, Antigone sees it for what it really is: a gilded cage, where she is a captive as well as a guest. But her uncle will soon learn that no cage is unbreakable. And neither is he.  
 
 </details>
@@ -239,7 +238,7 @@ Librivox Summary:
 
 ### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
 https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
-Text: https://www.gutenberg.org/ebooks/42459   
+Text: https://www.gutenberg.org/ebooks/42459  
 By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) and [1911 census info](https://www.findmypast.co.uk/1911-census/laurence-ayscough-clarke-rg14/00597/0099/1-546d1f6b-9fd1-45be-8c7b-c0d7e4bf353c) and [family tree](https://www.ancestry.com/genealogy/records/laurence-ayscough-clarke-24-21rqnpz)  (1873 - 1942)  
 
 Reading Notes: This story is based upon a member of the British secret services finding a [doppelgänger](https://en.wikipedia.org/wiki/Doppelg%C3%A4nger) of a known German spy in WWI England -- so *perfect* a match that the spy's wife and his father could not tell them apart.  If you can get by that, the story of intrigue moves rapidly and characters are *human-enough* to make it a pleasant listen.  
@@ -405,7 +404,7 @@ Librivox Summary:
 ### A Brief Account of the Destruction of the Indies. (04:03)  
 https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
 https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
-Text: https://www.gutenberg.org/ebooks/20321   
+Text: https://www.gutenberg.org/ebooks/20321  
 By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
 
 Reading Notes: This report covers an ugly period of Western colonization and widespread genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
@@ -461,7 +460,7 @@ Librivox Summary:
 <summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
 ### Caste -- The Origins of Our Discontent. (15:00)  
-Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog) 
+Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog)  
 eBook: https://www.overdrive.com/media/5257052/caste  
 By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
 
@@ -562,7 +561,7 @@ Librivox Summary:
 
 ### Cleek of Scotland Yard. (12:46)  
 https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
-Text: https://www.gutenberg.org/ebooks/32198    
+Text: https://www.gutenberg.org/ebooks/32198  
 By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
 
 Reading Notes:  
@@ -608,7 +607,7 @@ Text: https://www.gutenberg.org/ebooks/63874
 By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
 Reader's Notes: *Stone age* struggle for life.  A singular urge for *escape*.  This is **not** just another member of the shamelessly optimistic post war U.S. science fiction club, and this early Ray Bradbury story is worth a listen.  
 Librivox Summary:  
->"Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself!" - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946    
+>"Mad, impossible world! Sun-blasted by day, cold-wracked by night—and life condensed by radiation into eight days! Sim eyed the Ship—if he only dared reach it and escape! ... but it was more than half an hour distant—the limit of life itself!" - [Summary](https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/) by Planet Stories, Fall 1946  
 </details>
 
 
@@ -637,8 +636,7 @@ By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918
 
 Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
->"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to 
-turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+>"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
 
 </details>
 
@@ -795,7 +793,7 @@ Performed by [Kim Niemi](https://www.linkedin.com/in/kimmyniemi).
 Reader Notes: It seems obvious that C.Yandell loves France and French culture. She also seems well prepared academically and intellectually for this exploration of *being French*.  She shares her observations based on years of living in France, studying French literature & culture, and sharing time with American students on trips to France.  She is an entertaining and thoughtful writer and I am treating this book as foux travel to Paris.  The book is performed by [Kim Niemi](https://www.linkedin.com/in/kimmyniemi) in a way that enhances that travel experience.  
 "[Interview: Cathy Yandell, Author of The French Art of Living Well.](https://francetoday.com/learn/interviews/interview-cathy-yandell-author-of-the-french-art-of-living-well/)" First published: 20 May 2023. By Janet Hulstrand  
 [Essay by the author](https://airmail.news/books/2023/5/the-french-twist) 19 May 2023.  
-"[The French Art of Living Well: 10 Tips from Cathy Yandell’s new book.](https://thesimplyluxuriouslife.com/frenchartoflivingwell10tips/)" By Shannon Ables. 13 August 2023	 
+"[The French Art of Living Well: 10 Tips from Cathy Yandell’s new book.](https://thesimplyluxuriouslife.com/frenchartoflivingwell10tips/)" By Shannon Ables. 13 August 2023  
 
 </details>
 
@@ -987,7 +985,7 @@ https://www.overdrive.com/media/5243411/the-invisible-life-of-addie-larue
 By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ____)  
 
 Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth across time, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review (*with spoilers*).  It is worth all 17 hours of listening (or reading its 450 pages).  
- 
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot  
 
 </details>
@@ -1240,13 +1238,13 @@ Published October 2020, 576 pages
 
 Reader Notes:  First, everyone should read or listen to this book.  Climate catastrophe remains a real threat and Robinson's book might help with context and inspiration to act (*...or act more*).  
 20 million (20,000,000) people die in a 2-week heat wave in India.  Robinson's *Ministry of the Future" is established by the United Nations in order to more effectively "advocate for the world’s future generations of citizens, whose rights, as defined in the Universal Declaration of Human Rights, are as valid as our own" and "charged with defending all living creatures present and future who cannot speak for themselves, by promoting their legal standing and physical protection." (*quotes from [Gerry Canavan](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)*)  
-This story is largely a collection of fictional eye witness accounts of activities around the world related to climate change.  While there is a material focus on individuals and teams at the Ministry of the Future, Robinson weaves in climate refugees, scientists in Antarctica, a range of workers and leaders in India, super-rich in Davos, carbon...    And *second hand* reports of climate-related news from around the globe.  The story incorporates a wide range of ideas and activities that humans employ to resist climate catastrophe and to begin *healing* earth's ecosystems.  
+This story is largely a collection of fictional eye witness accounts of activities around the world related to climate change.  While there is a material focus on individuals and teams at the Ministry of the Future, Robinson weaves in climate refugees, scientists in Antarctica, a range of workers and leaders in India, super-rich in Davos, carbon...  And *second hand* reports of climate-related news from around the globe.  The story incorporates a wide range of ideas and activities that humans employ to resist climate catastrophe and to begin *healing* earth's ecosystems.  
 Robinson has a LOT of faith in technology and in our ability to evolve it to meet challenges presented by climate change and human responses to it. Some seem like a great fit -- an inspiration. But not all. He seems to believe some of, maybe most of the arguments in favor of replacing existing currencies across the globe with digital currencies tightly coupled to blockchain technology -- I think he says primarily that this approach will be safer, more transparent, and more democratic.  In context, this appears to ignore the energy consumption (*its contributions to climate catastrophe*), operating expenses, and latency confronted when applied at global scale.  Sure, there are organizations trading some of the risk management provided by *difficult* (energy hungry) proof-of-work calculations for a reduction in transaction fees, infrastructure and operations expenses, but it is not clear where Robinson intends his characters go for *safe*, climate-friendly currency.  
 See the summaries/reviews below for a more complete view of this excellent book.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
 
-* Chicago Review of Books Interview with KSR by Amy Brady	October 27, 2020 [https://chireviewofbooks.com/...ministry-for-the-future/](https://chireviewofbooks.com/2020/10/27/a-crucial-collapse-in-the-ministry-for-the-future/)  
+* Chicago Review of Books Interview with KSR by Amy Brady, October 27, 2020 [https://chireviewofbooks.com/...ministry-for-the-future/](https://chireviewofbooks.com/2020/10/27/a-crucial-collapse-in-the-ministry-for-the-future/)  
 * The New Yorker Review By Joshua Rothman [https://www.newyorker.com/...can-science-fiction-wake-us-up...](https://www.newyorker.com/magazine/2022/01/31/can-science-fiction-wake-us-up-to-our-climate-reality-kim-stanley-robinson)  
 * L.A. Review of Books Review by Gerry Canavan [https://lareviewofbooks.org/...ministry-for-the-future/](https://lareviewofbooks.org/article/of-course-they-would-on-kim-stanley-robinsons-the-ministry-for-the-future/)  
 * Yale Climate Connections Review by Michael Svoboda  [https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future...](https://yaleclimateconnections.org/2020/10/the-ministry-for-the-future-a-novel-by-kim-stanley-robinson/)  
@@ -1538,7 +1536,7 @@ Librivox Summary:
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
 https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
-Text: https://www.gutenberg.org/ebooks/66536   
+Text: https://www.gutenberg.org/ebooks/66536  
 By [Bernard Beckerman](https://en.wikipedia.org/wiki/Bernard_Beckerman) (1921 - 1985)  
 
 Reading Notes: As described below, this book is primarily about the theater, the business of the theater and of a performing group and a few characteristics of the writers (*and their writing*) supporting both.  
@@ -1653,7 +1651,7 @@ https://librivox.org/the-sun-also-rises-by-ernest-hemingway/
 Text: https://www.fadedpage.com/showbook.php?pid=20150622  
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
 
-Reader's Notes:  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Sun_Also_Rises). 
+Reader's Notes:  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Sun_Also_Rises).  
 NOTE: There are issues of race and religion in the telling of "The Sun Also Rises", particularly where the author uses derogatory and dehumanizing language in the description of a Black boxer and a character of the Jewish faith. It is LibriVox's policy to record texts as written.  
 
 Librivox Summary:  
@@ -1699,7 +1697,7 @@ Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): http
 
 ### The Torrents of Spring.  (2:10)
 https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
-Text: https://www.fadedpage.com/showbook.php?pid=20210135   
+Text: https://www.fadedpage.com/showbook.php?pid=20210135  
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
 Reader's Notes: This is an excellent tale read by an excellent performer.  
 Although this book incorporates humor throughout, it was not a *happy* read for me.  It is about a tough time in a tough (*Northwest Michigan*) place and the author expresses his (*or the character's*) energetic prejudices in story-lines that include a Black man and Native Americans.  This story may be hurtful to some readers.  
@@ -1985,7 +1983,6 @@ OverDrive [Summary]():
 ### The Midnight Library -- A Novel  
 Audio: https://www.overdrive.com/media/5328992/the-midnight-library  
 eBook: https://www.overdrive.com/media/5305833/the-midnight-library  
- 
 By [Matt Haig]()  ( – )  
 
 Reading Notes:  
@@ -1997,7 +1994,7 @@ Reading Notes:
 <summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
 
 ### The Light Pirate.  
-Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279    
+Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
 Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
 eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
 By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
@@ -2206,11 +2203,11 @@ Librivox Summary:
 <details>
 <summary>Template </summary>  
 
-###   
+###  
   
 By []() ()  
 <details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
+<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
 
 Reader's Notes:  
 
@@ -2252,7 +2249,7 @@ https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/
 Text: https://www.gutenberg.org/ebooks/27462  
 
 By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
->John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)    
+>John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
 
 </details>
 
@@ -2301,10 +2298,10 @@ Librivox Summary:
 <details>
 <summary>Template </summary>
 
-###   
+###  
   
-Text:   
-By []() ()    
+Text:  
+By []() ()  
 <details>
 <summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
 
@@ -2342,7 +2339,7 @@ Text: https://archive.org/details/thenatureandauth00joneuoft/page/n5/mode/2up
 Text#2: https://babel.hathitrust.org/cgi/pt?id=yale.39002088440970&view=1up&seq=5  
 By [Rufus Jones](https://en.wikipedia.org/wiki/Rufus_Jones_(writer))  (1863 - 1948)  
 
-Reader's Notes:   
+Reader's Notes:  
 
 Librivox Summary:  
 >Rufus Matthew Jones (January 25, 1863 – June 16, 1948) was an American religious leader, writer, magazine editor, philosopher, and college professor. He was instrumental in the establishment of the Haverford Emergency Unit (a precursor to the American Friends Service Committee). One of the most influential Quakers of the 20th century, he was a Quaker historian and theologian as well as a philosopher. In 1917 he helped found the American Friends Service Committee. This work was delivered as a Swarthmore Lecture in August 1920 and was printed by the Swarthmore Press Ltd. ([Summary by Wikipedia & John Greenman](https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/))  

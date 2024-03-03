@@ -110,16 +110,14 @@ Additional Resources: https://westernamericanliterature.com/a-b-guithre/
 ### Darwin's Ghosts: In Search of the First Evolutionists.  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
 By [Stott, Rebecca](https://en.wikipedia.org/wiki/Rebecca_Stott)  (1964 - ___)  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary> 
 
 Reader's Notes: From the highest level, "Darwin's Ghosts" is "[2,200-year history of Darwin's predecessors](https://en.wikipedia.org/wiki/Rebecca_Stott)" along with investigating how the work of those individuals on the origins of life influenced the arts and popular culture.  The author investigates the idea of "transmutation" [more thoroughly than did Darwin](https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review). Example... While Europe drug through the middle ages Viking long boats were invading Britain, in Basra and Bagdad, elites paid for the expansion and distribution of knwoledge...  Ninth century Abbasid empire scholar called [al-Jāḥiẓ](https://en.wikipedia.org/wiki/Al-Jahiz) was part of a corp of translators, translating earlier manuscripts while also creating new books.  al-Jāḥiẓ, "to fulfil his moral obligation to God, an obligation enjoined by the [Quran](https://en.wikipedia.org/wiki/Quran) to look closely and search for understanding," wrote about nature's interconnectedness, ecosystems and survival of the fittest in his unfinished, 7-volume book of "Living Beings"...  Stott moves on through contributions of [Aristotle](https://en.wikipedia.org/wiki/Aristotle), [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci), [Benoît de Maillet (Telliamed)](https://en.wikipedia.org/wiki/Beno%C3%AEt_de_Maillet), [Bernard Palissy](https://en.wikipedia.org/wiki/Bernard_Palissy), [Abraham Tremblay](https://en.wikipedia.org/wiki/Abraham_Trembley), [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot), [Jean-Baptiste Lamarck](https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck), [Constantine Samuel Rafinesque](https://en.wikipedia.org/wiki/Constantine_Samuel_Rafinesque), [Robert Edmond Grant](https://en.wikipedia.org/wiki/Robert_Edmond_Grant), [Robert Chambers](https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)), [Alfred Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) and more.  Many of them performed their investigations and built their arguments/explanations in the context of "governing" bodies and accompanying systems which demanded conformance with the idea that "[everything was presumed to have been created perfectly by God](https://www.bookbrowse.com/reviews/index.cfm/book_number/2721/darwins-ghosts)" -- sometimes under threat of death.  
+
 Third Party Reviews / Summaries:  
 "Darwin's Ghosts by Rebecca Stott – review." By Richard Fortey, Fri 1 Jun 2012. (accessed 2023-09-19)  [https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review](https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review)  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
 >A NEW YORK TIMES NOTABLE BOOK "[An] extraordinarily wide-ranging and engaging book [about] the men who shaped the work of Charles Darwin . . . a book that enriches our understanding of how the struggle to think new thoughts is shared across time and space and people."-- The Sunday Telegraph (London) Soon after the publication of On the Origin of Species, Charles Darwin received an unsettling letter that accused him of taking credit for a theory that had already been discovered by others. Realizing his error of omission, Darwin tried to trace all of the natural philosophers who had laid the groundwork for his theory, but he found that history had already forgotten many of them. Rebecca Stott goes in search of these ghosts, telling the epic story of the discovery of evolution and natural selection from Aristotle to the ninth-century Arab writer Al-Jahiz to Leonardo da Vinci to the brilliant naturalists of the Jardin des Plantes to Alfred Wallace and Erasmus Darwin, and finally to Charles Darwin himself. Evolution was not discovered single-handedly. It was an idea that was advanced over centuries by daring individuals across the globe who had the imagination to speculate on nature's extraordinary ways--and the courage to articulate such speculations at a time when to do so was often considered heresy. Praise for Darwin's Ghosts "Absorbing . . . Stott captures the breathless excitement of an investigation on the cusp of the unknown. . . . A lively, original book."-- The New York Times Book Review "Stott's research is broad and unerring; her book is wonderful. . . . An exhilarating romp through 2,000 years of fascinating scientific history."-- Nature "Stott brings Darwin himself to life. . . . [She] writes with a novelist's flair. . . . Darwin and the 'ghosts' so richly described in Ms. Stott's enjoyable book are the descendants of Aristotle and Bacon and the ancestors of today's scientists."-- The Wall Street Journal "Riveting . . . Stott has done a wonderful job in showing just how many extraordinary people had speculated on where we came from before the great theorist dispelled all doubts."-- The Guardian (U.K.)  
 
-</details>
 </details>
 
 
@@ -246,7 +244,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 
 
 -----
-    
+
 ## Pending or Currently Underway:  
 
 <details>
@@ -522,7 +520,7 @@ This guide serves those who ask themselves, "What's wrong with our culture?" Alo
 ### : Jim Crow's Legal Executioners  
 Ebook: https://www.overdrive.com/media/8821955/by-hands-now-known  
 Audio: https://www.overdrive.com/media/9143698/by-hands-now-known  
-https://www.google.com/books/edition/By_Hands_Now_Known_Jim_Crow_s_Legal_Exec/9N9hEAAAQBAJ    
+https://www.google.com/books/edition/By_Hands_Now_Known_Jim_Crow_s_Legal_Exec/9N9hEAAAQBAJ  
 Illustrated | 328 pp. | W.W. Norton & Company  
 By [Margaret A. Burnham](https://en.wikipedia.org/wiki/Margaret_Burnham) and [https://law.northeastern.edu/faculty/burnham/](https://law.northeastern.edu/faculty/burnham/)  
 Reviews:  
@@ -555,7 +553,7 @@ Published October 2020, 576 pages
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future  
 
 See the audio book entry on my [AudioBooks page](https://mccright.github.io/rrl/AudioBooks/#ministry_for_the_future)  
-This may be one of those books to read after listening to it.   
+This may be one of those books to read after listening to it.  
 
 </details>
 
@@ -626,7 +624,7 @@ By [John Ehrenreich](https://en.wikipedia.org/wiki/John_Ehrenreich), Published 2
 <summary>Wake: The Hidden History of Women-Led Slave Revolts.  By Rebecca Hall.  2021</summary>
 
 ### Wake: The Hidden History of Women-Led Slave Revolts  
-https://rebhallphd.org/ and https://rebhallphd.org/wake-praise/   
+https://rebhallphd.org/ and https://rebhallphd.org/wake-praise/  
 By [Rebecca Hall](https://rebhallphd.org/rebecca-hall/), Illustrated by [Hugo Martinez](https://www.linkedin.com/in/hugo-martinez-88121a6). Simon & Shuster 2021  
 Part graphic novel, part memoir, Wake describes women-led slave revolts, and Dr. Rebecca Hall's efforts to find and document them.  
 https://interminablerambling.com/2021/07/09/wake/  
@@ -638,9 +636,9 @@ https://interminablerambling.com/2021/07/15/retrieving-history-in-rebecca-hall-a
 <details>
 <summary>Early American soil conservationists (USDA).  By Angus Henry McDonald  1941</summary>
 
-# Early American soil conservationists (USDA)  
+### Early American soil conservationists (USDA)  
 https://handle.nal.usda.gov/10113/CAT87206254  
-https://handle.nal.usda.gov/10113/ORC00000556
+https://handle.nal.usda.gov/10113/ORC00000556  
 By McDonald, Angus Henry  
 Publisher: U.S. Dept. of Agriculture. 1941, 63 pages  
 

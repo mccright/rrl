@@ -23,9 +23,9 @@ Reading Notes:  This story (*and the Librivox summary below*) while entertaining
 https://www.gutenberg.org/ebooks/215  
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
- 
+
 </details>
- 
+
 
 <details><summary>Critical difference.  By Murray Leinster.  1956</summary>
 
@@ -42,7 +42,7 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 
 ### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
 This ebook: https://www.loc.gov/item/17001543/  
-[The full The Dred Scott v. Sandford Decision](https://tile.loc.gov/storage-services/service/ll/usrep/usrep060/usrep060393a/usrep060393a.pdf) *which adds another ~180 pages of opinions by other members of the Supreme Court*    
+[The full The Dred Scott v. Sandford Decision](https://tile.loc.gov/storage-services/service/ll/usrep/usrep060/usrep060393a/usrep060393a.pdf) *which adds another ~180 pages of opinions by other members of the Supreme Court*  
 [The Dred Scott v. Sandford Decision Wikipedia Summary](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford).  
 By [Roger Brooke Taney](https://en.wikipedia.org/wiki/Roger_B._Taney) (1777 - 1864)  
 Introduction by Dr. [John H. Van Evrie](https://en.wikipedia.org/wiki/John_H._Van_Evrie), "*defender of slavery*." (1814 - 1896)  
@@ -136,7 +136,7 @@ https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html
 https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
 By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
 
-Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
+Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.  
 This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
 
 [Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
@@ -155,7 +155,7 @@ By [Carl Bernhard Wadström](https://www.brycchancarey.com/abolition/wadstrom.ht
 Reading Notes: By 1779 Swede Carl Bernhard Wadström was a convert to [Emanuel Swedenborg](https://en.wikipedia.org/wiki/Emanuel_Swedenborg)’s doctrines, and in that year he and [Augustus Nordenskjöld](https://en.wikipedia.org/wiki/August_Nordenski%C3%B6ld) formed a Swedenborgian anti-slavery group in [Norrköping](https://en.wikipedia.org/wiki/Norrk%C3%B6ping), [Sweden](https://en.wikipedia.org/wiki/Sweden). The Norrköping Swedenborgian group birthed a *plan* for a colony in Africa built on agricultural trade as an alternative to slavery -- its long term purpose being the abolition of slavery -- or at least of providing a free alternative to it. King Gustav III granted a charter for forty families to emigrate.  That effort was delayed by war between England and France [from [Robert William Rix](https://www.brycchancarey.com/abolition/wadstrom.htm)].  After years of delay, in 1787 [Wadström](https://www.brycchancarey.com/abolition/wadstrom.htm) (*[also now a central figure in the British abolition movement](https://www.brycchancarey.com/abolition/wadstrom.htm)*) accompanied by [Carl Axel Arrhenius](https://en.wikipedia.org/wiki/Carl_Axel_Arrhenius) and [Anders Sparrman](https://en.wikipedia.org/wiki/Anders_Sparrman) traveled to West Africa for scientific investigations in Senegal.  This book, "Observations on the Slave Trade..." is one of the outputs of that journey and describes some of what Wadström observed and some of what he thought about it -- *in the context of his experiences and beliefs leading up to the late 1780s*.  
 
 As a reminder, the slave trade had already been active and evolving for **170 years** in what is now United States of America by the time Mr. Wadström journied to West Aftica and wrote this book (*see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)"*).  
-For additional context, you might want to read an article by Morton D. Paley, "[“A New Heaven Is Begun”: William Blake And Swedenborgianism](https://bq.blakearchive.org/13.2.paley)," and another by Klas Rönnbäck, "[Enlightenment, Scientific Exploration and Abolitionism: Anders Sparrman's and Carl Bernhard Wadström's Colonial Encounters in Senegal, 1787–1788 and the British Abolitionist Movement](https://doi.org/10.1080/0144039X.2012.734113)." in A Journal of Slave and Post-Slave Studies. Volume 34, 2013 - Issue 3, Pages 425-445 (Published online: 06 Dec 2012)   
+For additional context, you might want to read an article by Morton D. Paley, "[“A New Heaven Is Begun”: William Blake And Swedenborgianism](https://bq.blakearchive.org/13.2.paley)," and another by Klas Rönnbäck, "[Enlightenment, Scientific Exploration and Abolitionism: Anders Sparrman's and Carl Bernhard Wadström's Colonial Encounters in Senegal, 1787–1788 and the British Abolitionist Movement](https://doi.org/10.1080/0144039X.2012.734113)." in A Journal of Slave and Post-Slave Studies. Volume 34, 2013 - Issue 3, Pages 425-445 (Published online: 06 Dec 2012)  
 
 </details>
 
@@ -280,7 +280,7 @@ By [Thomas A. Brown](https://en.wikipedia.org/wiki/T._Allston_Brown) (?) and [T.
 (*previously published under the title of “The Ethnogastronomy of Thanksgiving.” in the 25 Nov. 1972 issue of the "Saturday Review of Science."*)  
 https://www.gutenberg.org/ebooks/72628  
   
-By [Jay Anderson, Folklorist and living Historian](?)  (_ – _) and [James Deetz](https://en.wikipedia.org/wiki/James_Deetz)  (1930 – 2000)  
+By [Jay Anderson, Folklorist and living Historian](?)  (–) and [James Deetz](https://en.wikipedia.org/wiki/James_Deetz)  (1930 – 2000)  
 
 Reading Notes:  
 
@@ -529,7 +529,7 @@ By [Ralph Scott]() () Published 1923
 
 ### The Enormous Room.  
 https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room  
-https://www.gutenberg.org/ebooks/8446   
+https://www.gutenberg.org/ebooks/8446  
 By [E. E. Cummings](https://en.wikipedia.org/wiki/E._E._Cummings) (1894-1962)  Published 1922  
 Summary: [Wikipedia](https://en.wikipedia.org/wiki/The_Enormous_Room)  
 
@@ -573,7 +573,7 @@ By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, 
 
 ### One Man's Initiation—1917  
 https://www.gutenberg.org/ebooks/24202  
-By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, John Roderigo Dos Passos)  published 1922    
+By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, John Roderigo Dos Passos)  published 1922  
 
 ### Manhattan Transfer  
 https://en.wikisource.org/wiki/Manhattan_Transfer  
@@ -683,12 +683,12 @@ By [William Still](https://en.wikipedia.org/wiki/William_Still) (1821-1902), pub
 https://www.gutenberg.org/ebooks/9999  
 By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1886  
 
-  ### Scenes in the Life of Harriet Tubman (First Edition)  
-  https://www.gutenberg.org/ebooks/57821  
-  By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1869  
+### Scenes in the Life of Harriet Tubman (First Edition)  
+https://www.gutenberg.org/ebooks/57821  
+By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1869  
 
 ## Look Here for *New* Books to Read  
-#### Review: Books by W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), 1868-1963  
+### Review: Books by W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), 1868-1963  
 https://www.gutenberg.org/ebooks/author/226
 
 #### Review: Books about Underground Railroad  
