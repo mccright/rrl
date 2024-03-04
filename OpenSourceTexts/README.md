@@ -262,6 +262,48 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
+
+### Non-technical chats on iron and steel and their application to modern industry. 
+https://www.gutenberg.org/ebooks/73090  
+https://catalog.hathitrust.org/Record/006573289  
+https://catalog.hathitrust.org/Record/011209034  
+By [la Verne W. (Ward) Spring](https://books.google.com/books?id=dTDTAAAAMAAJ&pg=PA821&lpg=PA821&dq=%22Spring,+La+Verne+Ward%22&source=bl&ots=DU5U1RaxRm&sig=ACfU3U0lw0o59K9uvZRjd8LpIZlkVA6TNA&hl=en&sa=X&ved=2ahUKEwiPqIaf3tiEAxWCg4kEHYQxDSU4ChDoAXoECAMQAw#v=onepage&q=%22Spring%2C%20La%20Verne%20Ward%22&f=false) (1876-)  
+
+Reader notes: 358 pages of essays on iron and steel from the context of the first and early second decade of the 20th century United States. The author starts with "The early history of iron." and takes us through history and technology through "Transformations and Structures of the Steels" in the early WWI era.  
+>"The first 13 articles were published during 1915 and 1916 in serial form in the "Valve world," the house organ of Crane company of Chicago."  
+
+Related resources: [A glossary of furnace-terms in English, French and German](https://www.loc.gov/item/25022444/). 1888, By Thomas Egleston (1832-1900) (LCCN Permalink https://lccn.loc.gov/25022444) and [The manufacture of iron, in all its various branches](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=32025952&searchType=1&permalink=y). 1853, By Frederick Overman (1810-1852)  (LCCN Permalink: https://lccn.loc.gov/32025952)  
+
+</details>
+
+
+<details>
+<summary>The effect of electric and magnetic fields on spectral lines. By Niels Bohr. 1914 </summary>
+
+### The effect of electric and magnetic fields on spectral lines.  
+https://www.gutenberg.org/ebooks/73082  
+By [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)  
+
+Reader notes:  Original publication was in "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, VOL. XXVII—Sixth Series. January-June, 1914.  
+>"In a previous paper[2] the writer has shown that an explanation of some of the laws of line spectra may be obtained by applying Planck’s theory of black radiation to Rutherford’s theory of the structure of atoms. In the present paper these considerations will be further developed, and it will be shown that it seems possible on the theory to account for some of the characteristic features of the recent discovery by Stark[3] of the effect of an electric field on spectral lines, as well as of the effect of a magnetic field first discovered by Zeeman. It will also be shown that the theory seems to offer an explanation of the appearance of ordinary double spectral lines[4]."  
+
+</details>
+
+
+<details>
+<summary>On the quantum theory of radiation and the structure of the atom. By Niels Bohr.  1915 </summary>
+
+### On the quantum theory of radiation and the structure of the atom.  
+https://www.gutenberg.org/ebooks/73087  
+By [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)  
+
+Reader notes:  Original publication was in "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, VOL. XXX—Sixth Series. July-December, 1915.  
+>"...present writer has attempted to give the outlines of a theory of the constitution of atoms and molecules by help of a certain application of the Quantum theory of radiation to the theory of the nucleus atom. As the theory has been made a subject of criticism, and as experimental evidence of importance bearing on these questions has been obtained in the meantime, an attempt will be made in this paper to consider some points more closely."  
+
+</details>
+
 
 <details>
 <summary>The New Pun Book by Thomas A. Brown and T. J. Carey.  1906</summary>
