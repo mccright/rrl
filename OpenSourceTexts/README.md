@@ -263,6 +263,42 @@ Reading Notes:
 
 
 <details>
+<summary>My four weeks in France. By Ring Lardner. 1918 </summary>
+
+### "My four weeks in France."  
+https://www.gutenberg.org/ebooks/73059  
+By [Ring Lardner (Ringgold Wilmer Lardner)](https://en.wikipedia.org/wiki/Ring_Lardner) (1885-1933)  
+
+Reading notes:  
+
+</details>
+
+
+<details>
+<summary>The Web of Life. By Robert Herrick. 1900 </summary>
+
+### The Web of Life.  
+https://www.gutenberg.org/ebooks/7828  
+By [Robert Herrick](https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)) (1868-1938)  
+
+Reading notes:  
+
+</details>
+
+
+<details>
+<summary>The gospel of freedom. By Robert Herrick. 1898 </summary>
+
+### The gospel of freedom.  
+https://www.gutenberg.org/ebooks/73056  
+By [Robert Herrick](https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)) (1868-1938)  
+
+Reading notes:  
+
+</details>
+
+
+<details>
 <summary>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
 
 ### Non-technical chats on iron and steel and their application to modern industry. 
