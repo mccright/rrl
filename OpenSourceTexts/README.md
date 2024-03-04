@@ -23,9 +23,9 @@ Reading Notes:  This story (*and the Librivox summary below*) while entertaining
 https://www.gutenberg.org/ebooks/215  
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
- 
+
 </details>
- 
+
 
 <details><summary>Critical difference.  By Murray Leinster.  1956</summary>
 
@@ -37,6 +37,32 @@ https://en.wikipedia.org/wiki/Murray_Leinster
 </details>
 
 
+<details>
+<summary>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
+
+### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
+This ebook: https://www.loc.gov/item/17001543/  
+[The full The Dred Scott v. Sandford Decision](https://tile.loc.gov/storage-services/service/ll/usrep/usrep060/usrep060393a/usrep060393a.pdf) *which adds another ~180 pages of opinions by other members of the Supreme Court*  
+[The Dred Scott v. Sandford Decision Wikipedia Summary](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford).  
+By [Roger Brooke Taney](https://en.wikipedia.org/wiki/Roger_B._Taney) (1777 - 1864)  
+Introduction by Dr. [John H. Van Evrie](https://en.wikipedia.org/wiki/John_H._Van_Evrie), "*defender of slavery*." (1814 - 1896)  
+and  
+Appendix. "Natural History Of The Prognathous Species Of Mankind." By Dr. [Samuel A. Cartwright](https://en.wikipedia.org/wiki/Samuel_A._Cartwright), *inventor of the 'mental illness' of [drapetomania](https://en.wikipedia.org/wiki/Drapetomania), the desire of a slave for freedom*. (1793 - 1863)  
+
+Reader notes:  I read this in early 2024 while thinking about the increasing volume of *race-related* arguments in Far Right and Trumpist/Trumper rhetoric that I see in *print* news and in streaming *news-like* programming.  It is a depressing read -- made more depressing when paired with its "*echos*" in political speech in the U.S. today.  That said, I recommend this exercise to anyone who has only a foggy memory (*or less*) of the kind of language and logic used in mid-19th century America to justify and solidify Black slavery in the U.S. [*Update* late February 2024: Listening to some of the legislative debate about a bill to specify content of public school social studies classes in Iowa, I heard one Iowa legislator argue that the topic of slavery in the U.S. is not important enough to include in the Iowa public school social studies curriculum. Ugg... Some people need much more help than will be found in this 1857 publication.]  
+As a reminder to those who forgot their High School history or government class summary of this case, "[Taney infamously delivered the majority opinion in Dred Scott v. Sandford (1857), ruling that African Americans could not be considered U.S. citizens (*and thus they could not enjoy the rights and privileges the Constitution conferred upon American citizens*) and that Congress could not prohibit slavery in the U.S. territories.](https://en.wikipedia.org/wiki/Roger_B._Taney)."  Chief Justice Taney wrote for the majority that African Americans:  
+>"are not included, and were not intended to be included, under the word “citizens” in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated 18 or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them." ([page 30](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=30))  
+
+and that:  
+>"a perpetual and impassable barrier was intended to be erected between the white race and the one which they had reduced to slavery, and governed as subjects with absolute and despotic power... ([page 36](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=36))  
+
+and finally, that:  
+>"it is the opinion of the court that the act of Congress which prohibited a citizen from holding and owning property of this kind in the territory of the United States north of the line therein mentioned, is not warranted by the Constitution, and is therefore void. ([page 87](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=87))  
+The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/item/17001543/) wrap *some* late-1850s social context to the Supreme Court opinion.  Unfortunately, some of the "*race science*" and "state's rights" themes in those two essays seem to be appearing again in Far Right and Trumpist/Trumper *[dog whistle](https://en.wikipedia.org/wiki/Dog_whistle_(politics))* talking points.  
+
+</details>
+
+
 <details><summary>The Expendables. by A. E. Van Vogt  1963</summary>  
 
 ### The Expendables.  
@@ -44,7 +70,7 @@ https://www.gutenberg.org/ebooks/70235
 By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
 ...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
 
-Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  
+Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  Sending a spaceship to a planet over 100 light-years away involves a lot of guess-work about the nature of their destination.  In this story, some of the original guesses were wrong.  
 
 </details>
 
@@ -110,11 +136,26 @@ https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html
 https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
 By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
 
-Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.    
+Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.  
 This book includes some sterotyping based on race, ethnicity and other characteristics that may shape society.  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
 
 [Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
 >The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
+
+</details>
+
+
+<details>
+<summary>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
+
+### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, during a voyage, made in 1787, and 1788, in company with Doctor A. Sparrman and Captain Arrehenius.  
+https://www.gutenberg.org/ebooks/69156  
+By [Carl Bernhard Wadström](https://www.brycchancarey.com/abolition/wadstrom.htm)  (1746-1799)  
+
+Reading Notes: By 1779 Swede Carl Bernhard Wadström was a convert to [Emanuel Swedenborg](https://en.wikipedia.org/wiki/Emanuel_Swedenborg)’s doctrines, and in that year he and [Augustus Nordenskjöld](https://en.wikipedia.org/wiki/August_Nordenski%C3%B6ld) formed a Swedenborgian anti-slavery group in [Norrköping](https://en.wikipedia.org/wiki/Norrk%C3%B6ping), [Sweden](https://en.wikipedia.org/wiki/Sweden). The Norrköping Swedenborgian group birthed a *plan* for a colony in Africa built on agricultural trade as an alternative to slavery -- its long term purpose being the abolition of slavery -- or at least of providing a free alternative to it. King Gustav III granted a charter for forty families to emigrate.  That effort was delayed by war between England and France [from [Robert William Rix](https://www.brycchancarey.com/abolition/wadstrom.htm)].  After years of delay, in 1787 [Wadström](https://www.brycchancarey.com/abolition/wadstrom.htm) (*[also now a central figure in the British abolition movement](https://www.brycchancarey.com/abolition/wadstrom.htm)*) accompanied by [Carl Axel Arrhenius](https://en.wikipedia.org/wiki/Carl_Axel_Arrhenius) and [Anders Sparrman](https://en.wikipedia.org/wiki/Anders_Sparrman) traveled to West Africa for scientific investigations in Senegal.  This book, "Observations on the Slave Trade..." is one of the outputs of that journey and describes some of what Wadström observed and some of what he thought about it -- *in the context of his experiences and beliefs leading up to the late 1780s*.  
+
+As a reminder, the slave trade had already been active and evolving for **170 years** in what is now United States of America by the time Mr. Wadström journied to West Aftica and wrote this book (*see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)"*).  
+For additional context, you might want to read an article by Morton D. Paley, "[“A New Heaven Is Begun”: William Blake And Swedenborgianism](https://bq.blakearchive.org/13.2.paley)," and another by Klas Rönnbäck, "[Enlightenment, Scientific Exploration and Abolitionism: Anders Sparrman's and Carl Bernhard Wadström's Colonial Encounters in Senegal, 1787–1788 and the British Abolitionist Movement](https://doi.org/10.1080/0144039X.2012.734113)." in A Journal of Slave and Post-Slave Studies. Volume 34, 2013 - Issue 3, Pages 425-445 (Published online: 06 Dec 2012)  
 
 </details>
 
@@ -222,45 +263,46 @@ Reading Notes:
 
 
 <details>
-<summary>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
+<summary>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
 
-### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, during a voyage, made in 1787, and 1788, in company with Doctor A. Sparrman and Captain Arrehenius.  
-https://www.gutenberg.org/ebooks/69156  
-By [Carl Bernhard Wadström](https://www.brycchancarey.com/abolition/wadstrom.htm)  (1746-1799)  
+### Non-technical chats on iron and steel and their application to modern industry. 
+https://www.gutenberg.org/ebooks/73090  
+https://catalog.hathitrust.org/Record/006573289  
+https://catalog.hathitrust.org/Record/011209034  
+By [la Verne W. (Ward) Spring](https://books.google.com/books?id=dTDTAAAAMAAJ&pg=PA821&lpg=PA821&dq=%22Spring,+La+Verne+Ward%22&source=bl&ots=DU5U1RaxRm&sig=ACfU3U0lw0o59K9uvZRjd8LpIZlkVA6TNA&hl=en&sa=X&ved=2ahUKEwiPqIaf3tiEAxWCg4kEHYQxDSU4ChDoAXoECAMQAw#v=onepage&q=%22Spring%2C%20La%20Verne%20Ward%22&f=false) (1876-)  
 
-Reading Notes: By 1779 Swede Carl Bernhard Wadström was a convert to [Emanuel Swedenborg](https://en.wikipedia.org/wiki/Emanuel_Swedenborg)’s doctrines, and in that year he and [Augustus Nordenskjöld](https://en.wikipedia.org/wiki/August_Nordenski%C3%B6ld) formed a Swedenborgian anti-slavery group in [Norrköping](https://en.wikipedia.org/wiki/Norrk%C3%B6ping), [Sweden](https://en.wikipedia.org/wiki/Sweden). The Norrköping Swedenborgian group birthed a *plan* for a colony in Africa built on agricultural trade as an alternative to slavery -- its long term purpose being the abolition of slavery -- or at least of providing a free alternative to it. King Gustav III granted a charter for forty families to emigrate.  That effort was delayed by war between England and France [from [Robert William Rix](https://www.brycchancarey.com/abolition/wadstrom.htm)].  After years of delay, in 1787 [Wadström](https://www.brycchancarey.com/abolition/wadstrom.htm) (*[also now a central figure in the British abolition movement](https://www.brycchancarey.com/abolition/wadstrom.htm)*) accompanied by [Carl Axel Arrhenius](https://en.wikipedia.org/wiki/Carl_Axel_Arrhenius) and [Anders Sparrman](https://en.wikipedia.org/wiki/Anders_Sparrman) traveled to West Africa for scientific investigations in Senegal.  This book, "Observations on the Slave Trade..." is one of the outputs of that journey and describes some of what Wadström observed and some of what he thought about it -- *in the context of his experiences and beliefs leading up to the late 1780s*.  
+Reader notes: 358 pages of essays on iron and steel from the context of the first and early second decade of the 20th century United States. The author starts with "The early history of iron." and takes us through history and technology through "Transformations and Structures of the Steels" in the early WWI era.  
+>"The first 13 articles were published during 1915 and 1916 in serial form in the "Valve world," the house organ of Crane company of Chicago."  
 
-As a reminder, the slave trade had already been active and evolving for **170 years** in what is now United States of America by the time Mr. Wadström journied to West Aftica and wrote this book (*see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)"*).  
-For additional context, you might want to read an article by Morton D. Paley, "[“A New Heaven Is Begun”: William Blake And Swedenborgianism](https://bq.blakearchive.org/13.2.paley)," and another by Klas Rönnbäck, "[Enlightenment, Scientific Exploration and Abolitionism: Anders Sparrman's and Carl Bernhard Wadström's Colonial Encounters in Senegal, 1787–1788 and the British Abolitionist Movement](https://doi.org/10.1080/0144039X.2012.734113)." in A Journal of Slave and Post-Slave Studies. Volume 34, 2013 - Issue 3, Pages 425-445 (Published online: 06 Dec 2012)   
+Related resources: [A glossary of furnace-terms in English, French and German](https://www.loc.gov/item/25022444/). 1888, By Thomas Egleston (1832-1900) (LCCN Permalink https://lccn.loc.gov/25022444) and [The manufacture of iron, in all its various branches](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=32025952&searchType=1&permalink=y). 1853, By Frederick Overman (1810-1852)  (LCCN Permalink: https://lccn.loc.gov/32025952)  
 
 </details>
 
 
 <details>
-<summary>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
+<summary>The effect of electric and magnetic fields on spectral lines. By Niels Bohr. 1914 </summary>
 
-### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
-This ebook: https://www.loc.gov/item/17001543/  
-[The full The Dred Scott v. Sandford Decision](https://tile.loc.gov/storage-services/service/ll/usrep/usrep060/usrep060393a/usrep060393a.pdf) *which adds another ~180 pages of opinions by other members of the Supreme Court*    
-[The Dred Scott v. Sandford Decision Wikipedia Summary](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford).  
-By [Roger Brooke Taney](https://en.wikipedia.org/wiki/Roger_B._Taney) (1777 - 1864)  
-Introduction by Dr. [John H. Van Evrie](https://en.wikipedia.org/wiki/John_H._Van_Evrie), "*defender of slavery*." (1814 - 1896)  
-and  
-Appendix. "Natural History Of The Prognathous Species Of Mankind." By Dr. [Samuel A. Cartwright](https://en.wikipedia.org/wiki/Samuel_A._Cartwright), *inventor of the 'mental illness' of [drapetomania](https://en.wikipedia.org/wiki/Drapetomania), the desire of a slave for freedom*. (1793 - 1863)  
+### The effect of electric and magnetic fields on spectral lines.  
+https://www.gutenberg.org/ebooks/73082  
+By [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)  
 
-Reader notes:  I read this while thinking about the increasing volume of *race-related* arguments in Far Right and Trumpist/Trumper rhetoric that I see in *print* news and in streaming *news-like* programming.  It is a depressing read -- made more depressing when paired with its "*echos*" in political speech in the U.S. today.  That said, I recommend this exercise to anyone who has only a foggy memory (*or less*) of the kind of language and logic used in mid-19th century America to justify and solidify Black slavery in the U.S.  
-As a reminder to those who forgot their High School history or government class summary of this case, "[Taney infamously delivered the majority opinion in Dred Scott v. Sandford (1857), ruling that African Americans could not be considered U.S. citizens (*and thus they could not enjoy the rights and privileges the Constitution conferred upon American citizens*) and that Congress could not prohibit slavery in the U.S. territories.](https://en.wikipedia.org/wiki/Roger_B._Taney)."  Chief Justice Taney wrote for the majority that African Americans:  
->"are not included, and were not intended to be included, under the word “citizens” in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated 18 or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them." ([page 30](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=30))  
-
-and that:  
->"a perpetual and impassable barrier was intended to be erected between the white race and the one which they had reduced to slavery, and governed as subjects with absolute and despotic power... ([page 36](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=36))  
-
-and finally, that:  
->"it is the opinion of the court that the act of Congress which prohibited a citizen from holding and owning property of this kind in the territory of the United States north of the line therein mentioned, is not warranted by the Constitution, and is therefore void. ([page 87](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=87))  
-The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/item/17001543/) wrap *some* late-1850s social context to the Supreme Court opinion.  Unfortunately, some of the "*race science*" and "state's rights" themes in those two essays seem to be appearing again in Far Right and Trumpist/Trumper *[dog whistle](https://en.wikipedia.org/wiki/Dog_whistle_(politics))* talking points.  
+Reader notes:  Original publication was in "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, VOL. XXVII—Sixth Series. January-June, 1914.  
+>"In a previous paper[2] the writer has shown that an explanation of some of the laws of line spectra may be obtained by applying Planck’s theory of black radiation to Rutherford’s theory of the structure of atoms. In the present paper these considerations will be further developed, and it will be shown that it seems possible on the theory to account for some of the characteristic features of the recent discovery by Stark[3] of the effect of an electric field on spectral lines, as well as of the effect of a magnetic field first discovered by Zeeman. It will also be shown that the theory seems to offer an explanation of the appearance of ordinary double spectral lines[4]."  
 
 </details>
 
+
+<details>
+<summary>On the quantum theory of radiation and the structure of the atom. By Niels Bohr.  1915 </summary>
+
+### On the quantum theory of radiation and the structure of the atom.  
+https://www.gutenberg.org/ebooks/73087  
+By [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962)  
+
+Reader notes:  Original publication was in "The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science, VOL. XXX—Sixth Series. July-December, 1915.  
+>"...present writer has attempted to give the outlines of a theory of the constitution of atoms and molecules by help of a certain application of the Quantum theory of radiation to the theory of the nucleus atom. As the theory has been made a subject of criticism, and as experimental evidence of importance bearing on these questions has been obtained in the meantime, an attempt will be made in this paper to consider some points more closely."  
+
+</details>
 
 
 <details>
@@ -280,7 +322,7 @@ By [Thomas A. Brown](https://en.wikipedia.org/wiki/T._Allston_Brown) (?) and [T.
 (*previously published under the title of “The Ethnogastronomy of Thanksgiving.” in the 25 Nov. 1972 issue of the "Saturday Review of Science."*)  
 https://www.gutenberg.org/ebooks/72628  
   
-By [Jay Anderson, Folklorist and living Historian](?)  (_ – _) and [James Deetz](https://en.wikipedia.org/wiki/James_Deetz)  (1930 – 2000)  
+By [Jay Anderson, Folklorist and living Historian](?)  (–) and [James Deetz](https://en.wikipedia.org/wiki/James_Deetz)  (1930 – 2000)  
 
 Reading Notes:  
 
@@ -529,7 +571,7 @@ By [Ralph Scott]() () Published 1923
 
 ### The Enormous Room.  
 https://standardebooks.org/ebooks/e-e-cummings/the-enormous-room  
-https://www.gutenberg.org/ebooks/8446   
+https://www.gutenberg.org/ebooks/8446  
 By [E. E. Cummings](https://en.wikipedia.org/wiki/E._E._Cummings) (1894-1962)  Published 1922  
 Summary: [Wikipedia](https://en.wikipedia.org/wiki/The_Enormous_Room)  
 
@@ -573,7 +615,7 @@ By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, 
 
 ### One Man's Initiation—1917  
 https://www.gutenberg.org/ebooks/24202  
-By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, John Roderigo Dos Passos)  published 1922    
+By [John Dos Passos](https://en.wikipedia.org/wiki/John_Dos_Passos) (1896-1970, John Roderigo Dos Passos)  published 1922  
 
 ### Manhattan Transfer  
 https://en.wikisource.org/wiki/Manhattan_Transfer  
@@ -683,12 +725,12 @@ By [William Still](https://en.wikipedia.org/wiki/William_Still) (1821-1902), pub
 https://www.gutenberg.org/ebooks/9999  
 By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1886  
 
-  ### Scenes in the Life of Harriet Tubman (First Edition)  
-  https://www.gutenberg.org/ebooks/57821  
-  By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1869  
+### Scenes in the Life of Harriet Tubman (First Edition)  
+https://www.gutenberg.org/ebooks/57821  
+By [Sarah H. Bradford](https://en.wikipedia.org/wiki/Sarah_Hopkins_Bradford) (1818-1912), published 1869  
 
 ## Look Here for *New* Books to Read  
-#### Review: Books by W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), 1868-1963  
+### Review: Books by W. E. B. Du Bois (William Edward Burghardt/W. E. Burghardt Du Bois), 1868-1963  
 https://www.gutenberg.org/ebooks/author/226
 
 #### Review: Books about Underground Railroad  
