@@ -261,6 +261,33 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>The Red House Mystery. By A. A. Milne. 1922 </summary>
+
+### The Red House Mystery  
+https://www.gutenberg.org/ebooks/1872  
+By [A. A. Milne (Alan Alexander)](https://en.wikipedia.org/wiki/A._A._Milne), (1882-1956)  
+
+Reading Notes:  
+
+Recommended by [Molly Young](https://www.nytimes.com/by/molly-young): https://www.nytimes.com/2024/01/06/books/mystery-novels.html  
+
+</details>
+
+
+<details>
+<summary>Whose Body? A Lord Peter Wimsey Novel. By Dorothy L. Sayers. 1923 </summary>
+
+### Whose Body? A Lord Peter Wimsey Novel  
+https://www.gutenberg.org/ebooks/58820  
+By [Dorothy L. Sayers (Dorothy Leigh)](https://en.wikipedia.org/wiki/Dorothy_L._Sayers), (1893-1957)  
+
+Reading Notes:  
+
+Recommended by [Molly Young](https://www.nytimes.com/by/molly-young): https://www.nytimes.com/2024/01/06/books/mystery-novels.html  
+
+</details>
+
 
 <details>
 <summary>My four weeks in France. By Ring Lardner. 1918 </summary>
