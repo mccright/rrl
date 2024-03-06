@@ -1899,6 +1899,30 @@ Reading Notes:
 
 
 <details>
+<summary>Booth. By Karen Joy Fowler. 2022 </summary>
+
+### Booth (14:00, 470 pages)  
+Audio: https://www.overdrive.com/media/6328747/booth  
+eBook: https://www.overdrive.com/media/6413265/booth  
+By [Karen Joy Fowler](https://en.wikipedia.org/wiki/Karen_Joy_Fowler)  (1950–_)  
+
+Reading Notes: This book follows the [Booth family](https://en.wikipedia.org/wiki/Booth_family) through early and mid-19th century during an especially turbulent time in America. Father, [Junius Brutus Booth](https://en.wikipedia.org/wiki/Junius_Brutus_Booth) was a famous actor.  He was also a drunk and a manipulator.  Mother, his mistress, fled England with him to Maryland where they had ten children, four of whom died young. The daughters Rosalie and [Asia](https://en.wikipedia.org/wiki/Asia_Booth_Clarke) (*who later became a poet and writer*) remained close to home, and three of the sons [June (Junius Jr.)](https://en.wikipedia.org/wiki/Junius_Brutus_Booth), [Edwin](https://en.wikipedia.org/wiki/Edwin_Booth) and [John](https://en.wikipedia.org/wiki/John_Wilkes_Booth) follow their father into the acting business.  The "*John Wilkes Booth*" that we all learned about in one or another school history class is not the center of this novel.  He is a member of the family, and one of the boys who dives into acting -- a tough business for anyone, and a trial for a flawed actor. ...who is a traitor in the Civil War and goes on to murder Pres. Lincoln.  
+I liked this novel a lot more than some professional reviewers -- NYT Book Critic [Molly Young](https://www.nytimes.com/by/molly-young) shared in her [March 2022 review](https://www.nytimes.com/2022/03/08/books/review-booth-karen-joy-fowler.html).  I agree with M.Young's facts, but don't conclude that they result in or represent weakness and/or sloth in the story-telling...  
+
+OverDrive Summary:  
+>"In 1822, a stage is set: Englishman Junius Booth - celebrated Shakespearean actor and man of mesmerising charm and instability - moves to a remote cabin outside Baltimore with his wife, who bears him ten children. Of the six who survive infancy, one is [John Wilkes](https://en.wikipedia.org/wiki/John_Wilkes_Booth) - the hot-tempered but much-loved middle son who, in 1865, fatally shoots Abraham Lincoln in a Washington theatre, changing the course of history. What makes a murderer? His family or the world? And how can those who love him ever come to terms with his actions? Strikingly relevant to the world today, Booth is the story of one extraordinary family and the terrible act that shattered their bonds forever."  
+
+Review By [Molly Young](https://www.nytimes.com/by/molly-young): [https://www.nytimes.com/...review-booth-karen-joy-fowler](https://www.nytimes.com/2022/03/08/books/review-booth-karen-joy-fowler.html)  
+Reiew by [Elizabeth Lowry](https://elizabethlowry.co.uk/): [https://www.theguardian.com/...booth-karen-joy-fowler-review...](https://www.theguardian.com/books/2022/mar/19/booth-karen-joy-fowler-review-assassination-family-epic-slavery-american-civil-war)  
+
+If you are interested in this topic and want to read something closer to a primary resource, these two volumes are readily available:  
+[Asia Frigga Booth Clarke](https://en.wikipedia.org/wiki/Asia_Booth_Clarke) wrote "[Booth Memorials: Passages, Incidents, and Anecdotes in the Life of Junius Brutus Booth (the Elder.)](https://books.google.com/books?id=yKdcAAAAcAAJ) (1866). This book includes another perspective on much of the material in Fowler's novel.  
+"[The Life, Crime, and Capture of John Wilkes Booth](https://www.gutenberg.org/ebooks/6628)." by George Alfred Townsend is an 1865 telling of the Lincoln assassination and a short biography of his assassin.
+
+</details>
+
+
+<details>
 <summary>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
 
 ### The Mountain in the Sea.  
