@@ -1914,6 +1914,7 @@ OverDrive Summary:
 
 Review By [Molly Young](https://www.nytimes.com/by/molly-young): [https://www.nytimes.com/...review-booth-karen-joy-fowler](https://www.nytimes.com/2022/03/08/books/review-booth-karen-joy-fowler.html)  
 Reiew by [Elizabeth Lowry](https://elizabethlowry.co.uk/): [https://www.theguardian.com/...booth-karen-joy-fowler-review...](https://www.theguardian.com/books/2022/mar/19/booth-karen-joy-fowler-review-assassination-family-epic-slavery-american-civil-war)  
+Review by [Diane Cole](http://www.dianejoycecole.com/works): [https://www.washingtonpost.com/...john-wilkes-booth-...review/](https://www.washingtonpost.com/books/2022/03/08/john-wilkes-booth-historical-fiction-review/)  
 
 If you are interested in this topic and want to read something closer to a primary resource, these two volumes are readily available:  
 [Asia Frigga Booth Clarke](https://en.wikipedia.org/wiki/Asia_Booth_Clarke) wrote "[Booth Memorials: Passages, Incidents, and Anecdotes in the Life of Junius Brutus Booth (the Elder.)](https://books.google.com/books?id=yKdcAAAAcAAJ) (1866). This book includes another perspective on much of the material in Fowler's novel.  
