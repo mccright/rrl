@@ -261,6 +261,69 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>The Red House Mystery. By A. A. Milne. 1922 </summary>
+
+### The Red House Mystery  
+https://www.gutenberg.org/ebooks/1872  
+By [A. A. Milne (Alan Alexander)](https://en.wikipedia.org/wiki/A._A._Milne), (1882-1956)  
+
+Reading Notes:  
+
+Recommended by [Molly Young](https://www.nytimes.com/by/molly-young): https://www.nytimes.com/2024/01/06/books/mystery-novels.html  
+
+</details>
+
+
+<details>
+<summary>Whose Body? A Lord Peter Wimsey Novel. By Dorothy L. Sayers. 1923 </summary>
+
+### Whose Body? A Lord Peter Wimsey Novel  
+https://www.gutenberg.org/ebooks/58820  
+By [Dorothy L. Sayers (Dorothy Leigh)](https://en.wikipedia.org/wiki/Dorothy_L._Sayers), (1893-1957)  
+
+Reading Notes:  
+
+Recommended by [Molly Young](https://www.nytimes.com/by/molly-young): https://www.nytimes.com/2024/01/06/books/mystery-novels.html  
+
+</details>
+
+
+<details>
+<summary>My four weeks in France. By Ring Lardner. 1918 </summary>
+
+### "My four weeks in France."  
+https://www.gutenberg.org/ebooks/73059  
+By [Ring Lardner (Ringgold Wilmer Lardner)](https://en.wikipedia.org/wiki/Ring_Lardner) (1885-1933)  
+
+Reading notes:  
+
+</details>
+
+
+<details>
+<summary>The Web of Life. By Robert Herrick. 1900 </summary>
+
+### The Web of Life.  
+https://www.gutenberg.org/ebooks/7828  
+By [Robert Herrick](https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)) (1868-1938)  
+
+Reading notes:  
+
+</details>
+
+
+<details>
+<summary>The gospel of freedom. By Robert Herrick. 1898 </summary>
+
+### The gospel of freedom.  
+https://www.gutenberg.org/ebooks/73056  
+By [Robert Herrick](https://en.wikipedia.org/wiki/Robert_Herrick_(novelist)) (1868-1938)  
+
+Reading notes:  
+
+</details>
+
 
 <details>
 <summary>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
