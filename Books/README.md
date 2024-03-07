@@ -268,6 +268,34 @@ A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/
 
 
 <details>
+<summary>Prophet Song. By Paul Lynch. 2023 </summary>
+
+### Prophet Song  
+https://www.overdrive.com/media/10251263/prophet-song  
+By [Paul Lynch](https://en.wikipedia.org/wiki/Paul_Lynch_(writer)) (1977-_)  
+
+Reader Notes:  
+
+[OverDrive Summary](https://www.overdrive.com/media/10251263/prophet-song):  
+>On a dark, wet evening in Dublin, scientist and mother-of-four Eilish Stack answers her front door to find two officers from Ireland's newly formed secret police on her step. They have arrived to interrogate her husband, a trade unionist.  Ireland is falling apart, caught in the grip of a government turning towards tyranny. As the life she knows and the ones she loves disappear before her eyes, Eilish must contend with the dystopian logic of her new, unraveling country. How far will she go to save her family? And what-or who-is she willing to leave behind?  The winner of the Booker Prize 2023, Prophet Song presents a terrifying and shocking vision of a country sliding into authoritarianism and a deeply human portrait of a mother's fight to hold her family together.  
+
+Review by [Aimée Walsh](https://aimeewalsh.com/): [https://www.theguardian.com/books/...prophet-song-by-paul-lynch-review...](https://www.theguardian.com/books/2023/sep/03/prophet-song-by-paul-lynch-review-a-tale-of-dublins-descent-into-dystopia-is-crucial-reading)  
+Review by [Kristen Martin](https://www.kristenmartin.net/): [https://www.npr.org/...book-review-paul-lynch...prophet-song](https://www.npr.org/2023/12/11/1218053727/book-review-paul-lynch-booker-prize-winning-prophet-song)  
+Review by [Benjamin Markovits](https://en.wikipedia.org/wiki/Benjamin_Markovits): [https://www.nytimes.com/...paul-lynch-prophet-song.html](https://www.nytimes.com/2023/12/01/books/review/paul-lynch-prophet-song.html)  
+Review by [Ron Charles](https://en.wikipedia.org/wiki/Ron_Charles_(critic)): [https://www.washingtonpost.com/...booker-winner-prophet-song/](https://www.washingtonpost.com/books/2023/11/27/booker-winner-prophet-song/)  
+
+
+</details>
+
+
+<details>
+<summary>Placeholder </summary>
+
+
+</details>
+
+
+<details>
 <summary>How the World Really Works: The Science Behind How We Got Here and Where We're Going.  By Vaclav Smil 2022  </summary>
 
 ### How the World Really Works: The Science Behind How We Got Here and Where We're Going.  
