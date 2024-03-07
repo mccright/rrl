@@ -261,6 +261,20 @@ Reading Notes:
 </details>
 </details>
 
+
+<details>
+<summary>An Affair with Genius, by Joseph Green. 1969 </summary>
+
+### An Affair with Genius  
+https://galacticjourney.org/stories/Fantasy__Science_Fiction_v036n03_1969-03_PDF.pdf (*pages 76-87*)  
+By [Joseph Green](https://en.wikipedia.org/wiki/Joseph_L._Green) and [his professional bio.](https://josephgreenbooks.com/bio/)  (1931–_)  
+
+Reading Notes:
+I noticed a review of this story in a [02-22-2024 blog page](http://galacticjourney.org/february-22-1969-good-and-bad-trips-march-1969-fantasy-and-science-fiction/) by [Gideon Marcus](https://gideonmarcus.com/about-me/) on galacticjourney.org.  
+
+</details>
+
+
 <details>
 <summary>The Red House Mystery. By A. A. Milne. 1922 </summary>
 
@@ -443,15 +457,30 @@ By [William Metcalf](https://en.wikipedia.org/wiki/William_Metcalf_(manufacturer
 
 </details>
 
-New-Englands Plantation with The Sea Journal and Other Writings.  
+
+<details>
+<summary>New-Englands Plantation with The Sea Journal and Other Writings. By Rev. Francis Higginson. 1908 </summary>
+
+### New-Englands Plantation with The Sea Journal and Other Writings.  
 https://www.gutenberg.org/ebooks/71799  
 By [Rev. Francis Higginson](https://en.wikipedia.org/wiki/Francis_Higginson)  (First Minister of the Plantation at Salem in the Massachusetts Bay Colony) 1908  
 (*"New-Englands Plantation." by Rev. Francis Higginson, London, 1630*)  
 
+</details>
 
-The Impersonator.  By Robert Hicks.  1960  
+
+<details>
+<summary>The Impersonator. By Robert Hicks. 1960 </summary>
+
+### The Impersonator.  
+https://www.gutenberg.org/ebooks/60963  
+http://galacticjourney.org/stories/6011IF9.pdf  
 http://galacticjourney.org/oct-2-1960-second-rate-fun-november-1960-if-science-fiction/  
-[The Impersonator](http://galacticjourney.org/stories/6011IF9.pdf), the third story ever published by Robert Wicks.  In the midling future, the Earth is threatened by an impending Ice Age thanks to humanity’s rapacious exploitation of the planet’s resources.  A host of outrageous plans are developed to fix the problem: from salting ice fields with carbon dust, to altering the axial tilt of the planet, to tapping the heat from the Earth’s core.  It’s not a great story, but I liked Wicks’ satirical presentation of “doubling down” in an attempt to thwart catastrophe.  Three stars.  
+By [Robert Wicks]().  1960
+
+Summary/Review by [Gideon Marcus](https://gideonmarcus.com/about-me/) from galacticjourney.org: [The Impersonator](http://galacticjourney.org/stories/6011IF9.pdf), the third story ever published by Robert Wicks.  In the midling future, the Earth is threatened by an impending Ice Age thanks to humanity’s rapacious exploitation of the planet’s resources.  A host of outrageous plans are developed to fix the problem: from salting ice fields with carbon dust, to altering the axial tilt of the planet, to tapping the heat from the Earth’s core.  It’s not a great story, but I liked Wicks’ satirical presentation of “doubling down” in an attempt to thwart catastrophe.  Three stars.  
+
+</details>
 
 
 [*Want to find*]  
