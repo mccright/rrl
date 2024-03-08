@@ -1924,6 +1924,32 @@ Reading Notes:
 
 
 <details>
+<summary>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
+
+### How High We Go In The Dark  
+Audio: https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark  
+eBook: https://www.overdrive.com/media/6209943/how-high-we-go-in-the-dark  
+By [Sequoia Nagamatsu](https://en.wikipedia.org/wiki/Sequoia_Nagamatsu) and https://www.sequoianagamatsu.com/#about  (–)  
+
+Reading Notes:  
+This literary [science fiction-fantasy](https://en.wikipedia.org/wiki/Science_fantasy) novel...  
+dystopian novel that opens in 2030 (*Nagamatsu had worked on this story for a decade as our recent COVID pandemic arrived*)...  
+A team of scientists researching climate change-driven melting Siberian Arctic permafrost uncover an ancient virus...  
+Widespread panic, suffering, death and grief soon follow.  
+Amy Brady (January 2022 Scientific American): "In a series of interconnected stories told from multiple points of view, we encounter a euthanasia theme park for dying children, a surreal version of the afterlife, a talking pig, a black hole implanted in the brain of a scientist, a funerary skyscraper, a dysfunctional repair shop for robotic dogs, and an interstellar spaceship. Woven throughout are flickers of starlight, myth and humanity's age-old connection with the natural world."  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Sequoia_Nagamatsu#How_High_We_Go_in_the_Dark_(2022)](https://en.wikipedia.org/wiki/Sequoia_Nagamatsu#How_High_We_Go_in_the_Dark_(2022))  
+[OverDrive Summary](https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark):  
+>In 2030, a grieving archeologist arrives in the Arctic Circle to continue the work of his recently deceased daughter at the Batagaika Crater, where researchers are studying long-buried secrets now revealed in melting permafrost, including the perfectly preserved remains of a girl who appears to have died of an ancient virus.  Once unleashed, the Arctic plague will reshape life on Earth for generations to come, quickly traversing the globe, forcing humanity to devise a myriad of moving and inventive ways to embrace possibility in the face of tragedy. In a theme park designed for terminally ill children, a cynical employee falls in love with a mother desperate to hold on to her infected son. A heartbroken scientist searching for a cure finds a second chance at fatherhood when one of his test subjects—a pig—develops the capacity for human speech. A widowed painter and her teenaged granddaughter embark on a cosmic quest to locate a new home planet.  From funerary skyscrapers to hotels for the dead to interstellar starships, Sequoia Nagamatsu takes readers on a wildly original and compassionate journey, spanning continents, centuries, and even celestial bodies to tell a story about the resilience of the human spirit, our infinite capacity to dream, and the connective threads that tie us all together in the universe.  
+
+Review by [Chris Kluwe](https://en.wikipedia.org/wiki/Chris_Kluwe): [https://www.lightspeedmagazine.com/...book-review-how-high-we-go...](https://www.lightspeedmagazine.com/nonfiction/book-review-how-high-we-go-in-the-dark-by-sequoia-nagamatsu/)
+Review by [by Luke Gorham](): https://www.libraryjournal.com/review/how-high-we-go-in-the-dark-2132899  
+
+
+</details>
+
+
+<details>
 <summary>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
 
 ### The Mountain in the Sea.  
