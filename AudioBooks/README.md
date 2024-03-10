@@ -749,6 +749,21 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
+
+### The Farmer's Bride.  (1:06)  
+https://librivox.org/the-farmers-bride-by-charlotte-mew/  
+Text: https://www.gutenberg.org/ebooks/71305  
+By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride  
+Librivox Summary:  
+>The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
+
+</details>
+
+
 <details><summary>The Fifth Queen.  By Ford Madox Ford.  1906-1908 </summary>
 
 ### The Fifth Queen.  By Ford Madox Ford.  (7:36)  
@@ -2271,21 +2286,6 @@ Librivox Summary:
 >  
 
 </details>
-</details>
-
-
-<details>
-<summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
-
-### The Farmer's Bride.  (1:06)  
-https://librivox.org/the-farmers-bride-by-charlotte-mew/  
-Text: https://www.gutenberg.org/ebooks/71305  
-By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride  
-Librivox Summary:  
->The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
-
 </details>
 
 
