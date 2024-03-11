@@ -987,6 +987,36 @@ Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/ge
 </details>
 
 
+<details>
+<summary>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
+
+### How High We Go In The Dark  
+Audio: https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark  
+eBook: https://www.overdrive.com/media/6209943/how-high-we-go-in-the-dark  
+By [Sequoia Nagamatsu](https://en.wikipedia.org/wiki/Sequoia_Nagamatsu) and https://www.sequoianagamatsu.com/#about  (–)  
+
+Reading Notes:  
+This literary [science fiction-fantasy](https://en.wikipedia.org/wiki/Science_fantasy) dystopian novel that opens in 2030 (*Nagamatsu had worked on this story for a decade as our recent COVID pandemic arrived*)...  
+A team of scientists researching climate change-driven melting Siberian Arctic permafrost uncover an ancient virus...  
+Widespread panic, suffering, death and grief soon follow.  Climate change continues to impose change on people and things across the globe.  Nagamatsu tells the story through a series of interconnected first-person narratives.  Each story is at *human* scale - each a witness of and an actor in the broader pandemic + climate change crises.  Vignettes include a euthanasia theme park for dying children, a version purgatory, an empathetic talking pig, a manager of a high-rise funeral home, a failing robotic dog repair shop, a scientist whose experiments left a tiny black hole implanted in his brain, a large multi-diciplinary team on an interstellar spaceship, individual people working to build lives in a world still damaged by the pandemic, and an interesting *explanation* of how it all started.  
+
+*Small* interconnections between the stories may help assemble these essays into something that seems like a novel, but each stands on its own.  For the most part, the main characters are developed in ways that are human, humane and exploring the emotional space left to them by the twin catastrophies.  The book is an illustration of serious story-telling talent, but it was still a slog to get through parts.  The story that explained a lot about how the earth got to the point(s) described throughout the book was worth the effort required to get there...  
+
+Review by [Nina Allan](https://en.wikipedia.org/wiki/Nina_Allan) in [The Guardian](https://www.theguardian.com/books/2022/jan/20/how-high-we-go-in-the-dark-by-sequoia-nagamatsu-review-a-new-plague): "How High We Go in the Dark is made up of more than a dozen discrete episodes, separate beads along the narrative timeline from the discovery and release of the virus, through the worst years of the pandemic, on into its lingering aftermath. The book then leaps 6,000 years ahead, revealing how decisions taken now might lead to radically divergent futures. Each segment is told from the point of view of a different character and highlights a significant aspect of evolving reality: accelerating developments in genetic modification; a revolutionary star drive; the cultural impact of public grieving. The commercialisation of death is shown through euthanasia theme parks, elegy hotels, lost lives preserved within the plastic carcasses of robot dogs."  
+Interview (27:30) -- Host Marshall Poe ’84 talks to Sequoia Nagamatsu ’04 about his novel How High We Go in the Dark: [https://www.grinnell.edu/news/sequoia-nagamatsu-04-how-high-we-go-dark](https://www.grinnell.edu/news/sequoia-nagamatsu-04-how-high-we-go-dark)  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Sequoia_Nagamatsu#How_High_We_Go_in_the_Dark_(2022)](https://en.wikipedia.org/wiki/Sequoia_Nagamatsu#How_High_We_Go_in_the_Dark_(2022))  
+[OverDrive Summary](https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark):  
+>In 2030, a grieving archeologist arrives in the Arctic Circle to continue the work of his recently deceased daughter at the Batagaika Crater, where researchers are studying long-buried secrets now revealed in melting permafrost, including the perfectly preserved remains of a girl who appears to have died of an ancient virus.  Once unleashed, the Arctic plague will reshape life on Earth for generations to come, quickly traversing the globe, forcing humanity to devise a myriad of moving and inventive ways to embrace possibility in the face of tragedy. In a theme park designed for terminally ill children, a cynical employee falls in love with a mother desperate to hold on to her infected son. A heartbroken scientist searching for a cure finds a second chance at fatherhood when one of his test subjects—a pig—develops the capacity for human speech. A widowed painter and her teenaged granddaughter embark on a cosmic quest to locate a new home planet.  From funerary skyscrapers to hotels for the dead to interstellar starships, Sequoia Nagamatsu takes readers on a wildly original and compassionate journey, spanning continents, centuries, and even celestial bodies to tell a story about the resilience of the human spirit, our infinite capacity to dream, and the connective threads that tie us all together in the universe.  
+
+Review by [Chris Kluwe](https://en.wikipedia.org/wiki/Chris_Kluwe): [https://www.lightspeedmagazine.com/...book-review-how-high-we-go...](https://www.lightspeedmagazine.com/nonfiction/book-review-how-high-we-go-in-the-dark-by-sequoia-nagamatsu/)  
+Review by [Luke Gorham](): https://www.libraryjournal.com/review/how-high-we-go-in-the-dark-2132899  
+Review by [Lincoln Michel](https://en.wikipedia.org/wiki/Lincoln_Michel): [https://www.nytimes.com/sequoia-nagamatsu-how-high-we-go-in-the-dark](https://www.nytimes.com/2022/01/18/books/review/sequoia-nagamatsu-how-high-we-go-in-the-dark.html)  
+DUELING REVIEW by "Jennie:" [https://dearauthor.com/...review-how-high-we-go-in-the-dark](https://dearauthor.com/book-reviews/overall-b-reviews/b-plus-reviews/review-how-high-we-go-in-the-dark-by-sequoia-nagamatsu/)  
+
+</details>
+
+
 <details><summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
@@ -1939,31 +1969,22 @@ Reading Notes:
 
 
 <details>
-<summary>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
+<summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
 
-### How High We Go In The Dark  
-Audio: https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark  
-eBook: https://www.overdrive.com/media/6209943/how-high-we-go-in-the-dark  
-By [Sequoia Nagamatsu](https://en.wikipedia.org/wiki/Sequoia_Nagamatsu) and https://www.sequoianagamatsu.com/#about  (–)  
+### The God of Endings. (17:00)  
+Audio: https://www.overdrive.com/media/8916800/the-god-of-endings  
+eBook: https://www.overdrive.com/media/8906351/the-god-of-endings  
+By [Jacqueline Holland](https://jacquelineholland.com/About-3)  ( – )  
 
 Reading Notes:  
-This literary [science fiction-fantasy](https://en.wikipedia.org/wiki/Science_fantasy) novel...  
-dystopian novel that opens in 2030 (*Nagamatsu had worked on this story for a decade as our recent COVID pandemic arrived*)...  
-A team of scientists researching climate change-driven melting Siberian Arctic permafrost uncover an ancient virus...  
-Widespread panic, suffering, death and grief soon follow.  
-Amy Brady (January 2022 Scientific American): "In a series of interconnected stories told from multiple points of view, we encounter a euthanasia theme park for dying children, a surreal version of the afterlife, a talking pig, a black hole implanted in the brain of a scientist, a funerary skyscraper, a dysfunctional repair shop for robotic dogs, and an interstellar spaceship. Woven throughout are flickers of starlight, myth and humanity's age-old connection with the natural world."  
 
-Review by [Nina Allan](https://en.wikipedia.org/wiki/Nina_Allan) in [The Guardian](https://www.theguardian.com/books/2022/jan/20/how-high-we-go-in-the-dark-by-sequoia-nagamatsu-review-a-new-plague): "How High We Go in the Dark is made up of more than a dozen discrete episodes, separate beads along the narrative timeline from the discovery and release of the virus, through the worst years of the pandemic, on into its lingering aftermath. The book then leaps 6,000 years ahead, revealing how decisions taken now might lead to radically divergent futures. Each segment is told from the point of view of a different character and highlights a significant aspect of evolving reality: accelerating developments in genetic modification; a revolutionary star drive; the cultural impact of public grieving. The commercialisation of death is shown through euthanasia theme parks, elegy hotels, lost lives preserved within the plastic carcasses of robot dogs."  
-Interview (27:30) -- Host Marshall Poe ’84 talks to Sequoia Nagamatsu ’04 about his novel How High We Go in the Dark: [https://www.grinnell.edu/news/sequoia-nagamatsu-04-how-high-we-go-dark](https://www.grinnell.edu/news/sequoia-nagamatsu-04-how-high-we-go-dark)  
+[OverDrive Summary](https://www.overdrive.com/media/8906351/the-god-of-endings): 
+>"Collette LeSange has been hiding a dark truth: She is immortal. In 1834, Collette's grandfather granted her the gift of eternal life and since then, she has endured centuries of turmoil and heartache. Now, almost 150 years later, Collette is a lonely artist running an elite fine art school for children in upstate New York. But her life is suddenly upended by the arrival of a gifted child from a troubled home, the return of a stalking presence from her past, and her own mysteriously growing hunger for blood.Combining brilliant prose with breathtaking suspense, Jacqueline Holland's The God of Endings serves as a larger exploration of the human condition in all its complexity, asking us the most fundamental question: is life in this world a gift or a curse?"  
 
-Wikipedia Summary: [https://en.wikipedia.org/wiki/Sequoia_Nagamatsu#How_High_We_Go_in_the_Dark_(2022)](https://en.wikipedia.org/wiki/Sequoia_Nagamatsu#How_High_We_Go_in_the_Dark_(2022))  
-[OverDrive Summary](https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark):  
->In 2030, a grieving archeologist arrives in the Arctic Circle to continue the work of his recently deceased daughter at the Batagaika Crater, where researchers are studying long-buried secrets now revealed in melting permafrost, including the perfectly preserved remains of a girl who appears to have died of an ancient virus.  Once unleashed, the Arctic plague will reshape life on Earth for generations to come, quickly traversing the globe, forcing humanity to devise a myriad of moving and inventive ways to embrace possibility in the face of tragedy. In a theme park designed for terminally ill children, a cynical employee falls in love with a mother desperate to hold on to her infected son. A heartbroken scientist searching for a cure finds a second chance at fatherhood when one of his test subjects—a pig—develops the capacity for human speech. A widowed painter and her teenaged granddaughter embark on a cosmic quest to locate a new home planet.  From funerary skyscrapers to hotels for the dead to interstellar starships, Sequoia Nagamatsu takes readers on a wildly original and compassionate journey, spanning continents, centuries, and even celestial bodies to tell a story about the resilience of the human spirit, our infinite capacity to dream, and the connective threads that tie us all together in the universe.  
-
-Review by [Chris Kluwe](https://en.wikipedia.org/wiki/Chris_Kluwe): [https://www.lightspeedmagazine.com/...book-review-how-high-we-go...](https://www.lightspeedmagazine.com/nonfiction/book-review-how-high-we-go-in-the-dark-by-sequoia-nagamatsu/)  
-Review by [Luke Gorham](): https://www.libraryjournal.com/review/how-high-we-go-in-the-dark-2132899  
-Review by [Lincoln Michel](https://en.wikipedia.org/wiki/Lincoln_Michel): [https://www.nytimes.com/sequoia-nagamatsu-how-high-we-go-in-the-dark](https://www.nytimes.com/2022/01/18/books/review/sequoia-nagamatsu-how-high-we-go-in-the-dark.html)  
-DUELING REVIEW by "Jennie:" [https://dearauthor.com/...review-how-high-we-go-in-the-dark](https://dearauthor.com/book-reviews/overall-b-reviews/b-plus-reviews/review-how-high-we-go-in-the-dark-by-sequoia-nagamatsu/)  
+"Interview With an Author: Jacqueline Holland." Daryl M., Librarian, West Valley Regional Branch Library, Thursday, March 9, 2023 [https://www.lapl.org/...lapl/interview-author-jacqueline-holland](https://www.lapl.org/collections-resources/blogs/lapl/interview-author-jacqueline-holland)  
+Review by [Gabino Iglesias](): [https://www.npr.org/...jacqueline-holland-the-god-of-endings-book-review](https://www.npr.org/2023/03/09/1161871204/jacqueline-holland-the-god-of-endings-book-review)  
+Review by [Fran Hoepfner](): [https://www.nytimes.com/...the-god-of-endings-jacqueline-holland.html](https://www.nytimes.com/2023/03/07/books/review/the-god-of-endings-jacqueline-holland.html)  
+Review by [Lorraine Berry](): [https://www.startribune.com/review-the-god-of-endings...](https://www.startribune.com/review-the-god-of-endings-by-jacqueline-holland/600255934/)  
 
 </details>
 
