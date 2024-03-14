@@ -263,6 +263,18 @@ Reading Notes:
 
 
 <details>
+<summary>in our time. by ernest hemingway. 1924 </summary>
+
+### in our time.  
+https://www.gutenberg.org/ebooks/61085  
+By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
+Editor [Ezra Pound]() (1885 - 1972)
+Reading Notes:  
+
+</details>
+
+
+<details>
 <summary>An Affair with Genius, by Joseph Green. 1969 </summary>
 
 ### An Affair with Genius  
