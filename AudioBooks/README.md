@@ -1408,6 +1408,23 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details><summary>The One. By John Marrs. 2018 </summary>
+
+### The One. (11:00)  
+Audio: https://www.overdrive.com/media/3702956/the-one  
+eBook: https://www.overdrive.com/media/3470427/the-one  
+By [John Marrs](https://www.johnmarrsauthor.com/marriage-act)  ( – )  
+
+Reading Notes: The storyline is built around a new service "Match Your DNA" that uses a variations in a newly discovered gene that are the same (*they match*) in only two people in the world. A *matched* pair of individuals are supposed to be biologically *perfect* for each other -- "A DNA swab could find your soulmate."  Using a small number of couples, the author goes on to explore some ethical dilemmas and questions about morality that might be associated with the operation of a service like Match Your DNA and with the way their customers use the information it discloses.  Core/lead characters include: Ellie (scientist/CEO of Match Your DNA), Mandy (*drifting* divorcee),  Christopher (psychopath), Nick (engaged to the *love of his life*), and Jade (*matched* with a man on the other side of the globe).  
+In general, this was an OK book for me.  A few of the threads about customer-couples were *good reading.*  But after working in the information security arena for decades, the author's depiction of a hacker and what an individual hacker might accomplish in the context of a complex global corporation's IT and security infrastructures seemed so *wrong* that it was just a *stinker* for me (*others, who don't carry that career baggage, may feel very differently about that part of the book*).  
+
+Review by David W: https://fanfiaddict.com/review-the-one-by-john-marrs/  
+Review/Summary By Cheryl Wassenaar (with spoilers): https://culturess.com/2018/02/26/review-one-john-marrs/  
+Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-by-john-marrs-book-spoilers-ending-48213374  
+
+</details>
+
+
 <details><summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
 
 ### Opening the West with Lewis and Clark (7:06)  
@@ -1966,7 +1983,6 @@ Reading Notes:
 
 </details>
 </details>
-
 
 <details>
 <summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
