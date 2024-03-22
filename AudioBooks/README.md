@@ -868,6 +868,26 @@ Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en
 
 </details>
 
+<details>
+<summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
+
+### The God of Endings. (17:00)  
+Audio: https://www.overdrive.com/media/8916800/the-god-of-endings  
+eBook: https://www.overdrive.com/media/8906351/the-god-of-endings  
+By [Jacqueline Holland](https://jacquelineholland.com/About-3)  ( – )  
+
+Reading Notes:  
+
+[OverDrive Summary](https://www.overdrive.com/media/8906351/the-god-of-endings): 
+>"Collette LeSange has been hiding a dark truth: She is immortal. In 1834, Collette's grandfather granted her the gift of eternal life and since then, she has endured centuries of turmoil and heartache. Now, almost 150 years later, Collette is a lonely artist running an elite fine art school for children in upstate New York. But her life is suddenly upended by the arrival of a gifted child from a troubled home, the return of a stalking presence from her past, and her own mysteriously growing hunger for blood.Combining brilliant prose with breathtaking suspense, Jacqueline Holland's The God of Endings serves as a larger exploration of the human condition in all its complexity, asking us the most fundamental question: is life in this world a gift or a curse?"  
+
+"Interview With an Author: Jacqueline Holland." Daryl M., Librarian, West Valley Regional Branch Library, Thursday, March 9, 2023 [https://www.lapl.org/...lapl/interview-author-jacqueline-holland](https://www.lapl.org/collections-resources/blogs/lapl/interview-author-jacqueline-holland)  
+Review by [Gabino Iglesias](): [https://www.npr.org/...jacqueline-holland-the-god-of-endings-book-review](https://www.npr.org/2023/03/09/1161871204/jacqueline-holland-the-god-of-endings-book-review)  
+Review by [Fran Hoepfner](): [https://www.nytimes.com/...the-god-of-endings-jacqueline-holland.html](https://www.nytimes.com/2023/03/07/books/review/the-god-of-endings-jacqueline-holland.html)  
+Review by [Lorraine Berry](): [https://www.startribune.com/review-the-god-of-endings...](https://www.startribune.com/review-the-god-of-endings-by-jacqueline-holland/600255934/)  
+
+</details>
+
 
 <details><summary>Good Morning, Midnight. By Lily Brooks-Dalton. 2016 </summary>
 
@@ -1982,26 +2002,6 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
-</details>
-
-<details>
-<summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
-
-### The God of Endings. (17:00)  
-Audio: https://www.overdrive.com/media/8916800/the-god-of-endings  
-eBook: https://www.overdrive.com/media/8906351/the-god-of-endings  
-By [Jacqueline Holland](https://jacquelineholland.com/About-3)  ( – )  
-
-Reading Notes:  
-
-[OverDrive Summary](https://www.overdrive.com/media/8906351/the-god-of-endings): 
->"Collette LeSange has been hiding a dark truth: She is immortal. In 1834, Collette's grandfather granted her the gift of eternal life and since then, she has endured centuries of turmoil and heartache. Now, almost 150 years later, Collette is a lonely artist running an elite fine art school for children in upstate New York. But her life is suddenly upended by the arrival of a gifted child from a troubled home, the return of a stalking presence from her past, and her own mysteriously growing hunger for blood.Combining brilliant prose with breathtaking suspense, Jacqueline Holland's The God of Endings serves as a larger exploration of the human condition in all its complexity, asking us the most fundamental question: is life in this world a gift or a curse?"  
-
-"Interview With an Author: Jacqueline Holland." Daryl M., Librarian, West Valley Regional Branch Library, Thursday, March 9, 2023 [https://www.lapl.org/...lapl/interview-author-jacqueline-holland](https://www.lapl.org/collections-resources/blogs/lapl/interview-author-jacqueline-holland)  
-Review by [Gabino Iglesias](): [https://www.npr.org/...jacqueline-holland-the-god-of-endings-book-review](https://www.npr.org/2023/03/09/1161871204/jacqueline-holland-the-god-of-endings-book-review)  
-Review by [Fran Hoepfner](): [https://www.nytimes.com/...the-god-of-endings-jacqueline-holland.html](https://www.nytimes.com/2023/03/07/books/review/the-god-of-endings-jacqueline-holland.html)  
-Review by [Lorraine Berry](): [https://www.startribune.com/review-the-god-of-endings...](https://www.startribune.com/review-the-god-of-endings-by-jacqueline-holland/600255934/)  
-
 </details>
 
 
