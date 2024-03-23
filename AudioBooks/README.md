@@ -2032,6 +2032,34 @@ Reading Notes:
 </details>
 
 
+
+
+
+<details>
+<summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
+
+### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
+Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
+eBook: https://www.overdrive.com/media/4591747/the-andromeda-evolution  
+By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 – _)  
+
+Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
+
+See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution).  
+[OverDrive Summary](https://www.overdrive.com/media/4608846/the-andromeda-evolution): 
+>The Evolution is Coming.  
+>In 1967, an extraterrestrial microbe came crashing down to Earth and nearly ended the human race. Accidental exposure to the particle—designated The Andromeda Strain—killed every resident of the town of Piedmont, Arizona, save for an elderly man and an infant boy. Over the next five days, a team of top scientists assigned to Project Wildfire worked valiantly to save the world from an epidemic of unimaginable proportions. In the moments before a catastrophic nuclear detonation, they succeeded.  
+>In the ensuing decades, research on the microparticle continued. And the world thought it was safe...  
+>Deep inside Fairchild Air Force Base, Project Eternal Vigilance has continued to watch and wait for the Andromeda Strain to reappear. On the verge of being shut down, the project has registered no activity—until now. A Brazilian terrain-mapping drone has detected a bizarre anomaly of otherworldly matter in the middle of the jungle, and, worse yet, the tell-tale chemical signature of the deadly microparticle.  
+>With this shocking discovery, the next-generation Project Wildfire is activated, and a diverse team of experts hailing from all over the world is dispatched to investigate the potentially apocalyptic threat.  
+>But the microbe is growing—evolving. And if the Wildfire team can't reach the quarantine zone, enter the anomaly, and figure out how to stop it, this new Andromeda Evolution will annihilate all life as we know it.  
+
+
+</details>
+
+
+
+
 <details>
 <summary>The Tusks of Extinction.  By Ray Nayler. 2024 </summary>
 
