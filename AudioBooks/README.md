@@ -868,6 +868,26 @@ Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en
 
 </details>
 
+<details>
+<summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
+
+### The God of Endings. (17:00)  
+Audio: https://www.overdrive.com/media/8916800/the-god-of-endings  
+eBook: https://www.overdrive.com/media/8906351/the-god-of-endings  
+By [Jacqueline Holland](https://jacquelineholland.com/About-3)  ( – )  
+
+Reading Notes:  
+
+[OverDrive Summary](https://www.overdrive.com/media/8906351/the-god-of-endings): 
+>"Collette LeSange has been hiding a dark truth: She is immortal. In 1834, Collette's grandfather granted her the gift of eternal life and since then, she has endured centuries of turmoil and heartache. Now, almost 150 years later, Collette is a lonely artist running an elite fine art school for children in upstate New York. But her life is suddenly upended by the arrival of a gifted child from a troubled home, the return of a stalking presence from her past, and her own mysteriously growing hunger for blood.Combining brilliant prose with breathtaking suspense, Jacqueline Holland's The God of Endings serves as a larger exploration of the human condition in all its complexity, asking us the most fundamental question: is life in this world a gift or a curse?"  
+
+"Interview With an Author: Jacqueline Holland." Daryl M., Librarian, West Valley Regional Branch Library, Thursday, March 9, 2023 [https://www.lapl.org/...lapl/interview-author-jacqueline-holland](https://www.lapl.org/collections-resources/blogs/lapl/interview-author-jacqueline-holland)  
+Review by [Gabino Iglesias](): [https://www.npr.org/...jacqueline-holland-the-god-of-endings-book-review](https://www.npr.org/2023/03/09/1161871204/jacqueline-holland-the-god-of-endings-book-review)  
+Review by [Fran Hoepfner](): [https://www.nytimes.com/...the-god-of-endings-jacqueline-holland.html](https://www.nytimes.com/2023/03/07/books/review/the-god-of-endings-jacqueline-holland.html)  
+Review by [Lorraine Berry](): [https://www.startribune.com/review-the-god-of-endings...](https://www.startribune.com/review-the-god-of-endings-by-jacqueline-holland/600255934/)  
+
+</details>
+
 
 <details><summary>Good Morning, Midnight. By Lily Brooks-Dalton. 2016 </summary>
 
@@ -987,8 +1007,7 @@ Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/ge
 </details>
 
 
-<details>
-<summary>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
+<details><summary>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
 
 ### How High We Go In The Dark  
 Audio: https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark  
@@ -1350,6 +1369,34 @@ Kirkus Reviews Summary: [https://www.kirkusreviews.com/book-reviews/julia-seales
 </details>
 
 
+<details><summary>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
+
+### The Mountain in the Sea.  
+Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea  
+eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
+By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
+
+Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
+* Remote Vietnamese archipelago of [Côn Đảo](https://www.google.com/maps/place/C%C3%B4n+%C4%90%E1%BA%A3o/@8.6944336,106.6398703,12z/data=!3m1!4b1!4m6!3m5!1s0x3198a9186b2f6e91:0xe0a6ec6a3d538a81!8m2!3d8.7009282!4d106.6114474!16zL20vMDVzaDBw?authuser=0&hl=en&entry=ttu), recently purchased by the DIANIMA corporation.  
+* Dr. Ha Nguyen, marine scientist, leading studies of cephalopod intelligence, and author of "How Oceans Think."  
+* Altantsetse, security guard.  
+* Evrim, the world’s first android.  
+* Rustem, *master* AI/neural network hacker.  
+* Sea Wolf, automated deep sea fishing ship.  
+* Eiko, enslaved man on the automated fishing ship.  
+* Dr. Arnkatla Minervudóttir-Chan, Eiko's creator and the leader of the DIANIMA corporation.  
+
+[Overdrive Summary](https://www.overdrive.com/media/8557446/the-mountain-in-the-sea):  
+Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future.  The transnational tech corporation DIANIMA has sealed off the remote Con Dao Archipelago, where a species of octopus has been discovered that may have developed its own language and culture. The marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. She travels to the islands to join DIANIMA's team: a battle-scarred securityagent and the world's first (and possibly last) android.  The octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence. As Dr. Nguyen struggles to communicate with the newly discovered species, forces larger than DIANIMA close in to seize the octopuses for themselves.But no one has yet asked the octopuses what they think. Or what they might do about it.  A near-future thriller, a meditation on the nature of consciousness, and an ecological call to arms, Ray Nayler's dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind's legacy.
+
+A review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)):  https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html  
+Review of the audio book by [Marlene Harris](https://www.readingreality.net/about-marlene-harris/): https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/  
+Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2022/11/gary-k-wolfe-reviews-the-mountain-in-the-sea-by-ray-nayler/  
+A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-mountain-in-the-sea-by-ray-nayler-e3911ca111ce  
+
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -1404,6 +1451,23 @@ See the Wikipedia summary.  It was worth its runtime to me.
 Librivox Summary:  
 >A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+
+
+<details><summary>The One. By John Marrs. 2018 </summary>
+
+### The One. (11:00)  
+Audio: https://www.overdrive.com/media/3702956/the-one  
+eBook: https://www.overdrive.com/media/3470427/the-one  
+By [John Marrs](https://www.johnmarrsauthor.com/marriage-act)  ( – )  
+
+Reading Notes: The storyline is built around a new service "Match Your DNA" that uses a variations in a newly discovered gene that are the same (*they match*) in only two people in the world. A *matched* pair of individuals are supposed to be biologically *perfect* for each other -- "A DNA swab could find your soulmate."  Using a small number of couples, the author goes on to explore some ethical dilemmas and questions about morality that might be associated with the operation of a service like Match Your DNA and with the way their customers use the information it discloses.  Core/lead characters include: Ellie (scientist/CEO of Match Your DNA), Mandy (*drifting* divorcee),  Christopher (psychopath), Nick (engaged to the *love of his life*), and Jade (*matched* with a man on the other side of the globe).  
+In general, this was an OK book for me.  A few of the threads about customer-couples were *good reading.*  But after working in the information security arena for decades, the author's depiction of a hacker and what an individual hacker might accomplish in the context of a complex global corporation's IT and security infrastructures seemed so *wrong* that it was just a *stinker* for me (*others, who don't carry that career baggage, may feel very differently about that part of the book*).  
+
+Review by David W: https://fanfiaddict.com/review-the-one-by-john-marrs/  
+Review/Summary By Cheryl Wassenaar (with spoilers): https://culturess.com/2018/02/26/review-one-john-marrs/  
+Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-by-john-marrs-book-spoilers-ending-48213374  
 
 </details>
 
@@ -1965,58 +2029,6 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
-</details>
-
-
-<details>
-<summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
-
-### The God of Endings. (17:00)  
-Audio: https://www.overdrive.com/media/8916800/the-god-of-endings  
-eBook: https://www.overdrive.com/media/8906351/the-god-of-endings  
-By [Jacqueline Holland](https://jacquelineholland.com/About-3)  ( – )  
-
-Reading Notes:  
-
-[OverDrive Summary](https://www.overdrive.com/media/8906351/the-god-of-endings): 
->"Collette LeSange has been hiding a dark truth: She is immortal. In 1834, Collette's grandfather granted her the gift of eternal life and since then, she has endured centuries of turmoil and heartache. Now, almost 150 years later, Collette is a lonely artist running an elite fine art school for children in upstate New York. But her life is suddenly upended by the arrival of a gifted child from a troubled home, the return of a stalking presence from her past, and her own mysteriously growing hunger for blood.Combining brilliant prose with breathtaking suspense, Jacqueline Holland's The God of Endings serves as a larger exploration of the human condition in all its complexity, asking us the most fundamental question: is life in this world a gift or a curse?"  
-
-"Interview With an Author: Jacqueline Holland." Daryl M., Librarian, West Valley Regional Branch Library, Thursday, March 9, 2023 [https://www.lapl.org/...lapl/interview-author-jacqueline-holland](https://www.lapl.org/collections-resources/blogs/lapl/interview-author-jacqueline-holland)  
-Review by [Gabino Iglesias](): [https://www.npr.org/...jacqueline-holland-the-god-of-endings-book-review](https://www.npr.org/2023/03/09/1161871204/jacqueline-holland-the-god-of-endings-book-review)  
-Review by [Fran Hoepfner](): [https://www.nytimes.com/...the-god-of-endings-jacqueline-holland.html](https://www.nytimes.com/2023/03/07/books/review/the-god-of-endings-jacqueline-holland.html)  
-Review by [Lorraine Berry](): [https://www.startribune.com/review-the-god-of-endings...](https://www.startribune.com/review-the-god-of-endings-by-jacqueline-holland/600255934/)  
-
-</details>
-
-
-<details>
-<summary>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
-
-### The Mountain in the Sea.  
-Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea  
-eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
-By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
-
-Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
-* Remote Vietnamese archipelago of [Côn Đảo](https://www.google.com/maps/place/C%C3%B4n+%C4%90%E1%BA%A3o/@8.6944336,106.6398703,12z/data=!3m1!4b1!4m6!3m5!1s0x3198a9186b2f6e91:0xe0a6ec6a3d538a81!8m2!3d8.7009282!4d106.6114474!16zL20vMDVzaDBw?authuser=0&hl=en&entry=ttu), recently purchased by the DIANIMA corporation.  
-* Dr. Ha Nguyen, marine scientist, leading studies of cephalopod intelligence, and author of "How Oceans Think."  
-* Altantsetse, security guard.  
-* Evrim, the world’s first android.  
-* Rustem, *master* AI/neural network hacker.  
-* Sea Wolf, automated deep sea fishing ship.  
-* Eiko, enslaved man on the automated fishing ship.  
-* Dr. Arnkatla Minervudóttir-Chan, Eiko's creator and the leader of the DIANIMA corporation.
-
-
-[Overdrive Summary](https://www.overdrive.com/media/8557446/the-mountain-in-the-sea):  
-Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future.  The transnational tech corporation DIANIMA has sealed off the remote Con Dao Archipelago, where a species of octopus has been discovered that may have developed its own language and culture. The marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. She travels to the islands to join DIANIMA's team: a battle-scarred securityagent and the world's first (and possibly last) android.  The octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence. As Dr. Nguyen struggles to communicate with the newly discovered species, forces larger than DIANIMA close in to seize the octopuses for themselves.But no one has yet asked the octopuses what they think. Or what they might do about it.  A near-future thriller, a meditation on the nature of consciousness, and an ecological call to arms, Ray Nayler's dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind's legacy.
-
-A review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)):  https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html  
-Review of the audio book by [Marlene Harris](https://www.readingreality.net/about-marlene-harris/): https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/  
-Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2022/11/gary-k-wolfe-reviews-the-mountain-in-the-sea-by-ray-nayler/  
-A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-mountain-in-the-sea-by-ray-nayler-e3911ca111ce  
-
-
 </details>
 
 
