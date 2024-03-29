@@ -2054,6 +2054,25 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
+
+### The Making of Another Major Motion Picture Masterpiece (12:00)  
+Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motion-picture-masterpiece  
+eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
+By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
+
+Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified]() “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
+
+Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more.
+
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../tom-hanks-novel-making-another...](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/)  
+Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
+Review by [Tim Adams](https://www.theguardian.com/profile/timadams): [https://www.theguardian.com/...the-making-of-another-major-motion-picture...](https://www.theguardian.com/books/2023/may/01/the-making-of-another-major-motion-picture-masterpiece-review-tom-hanks-myth-busting-movie-novel)  
+Interview with Tom Hanks about this novel, by [Jeffrey Brown](https://en.wikipedia.org/wiki/Jeffrey_Brown_(journalist)): [https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel...](https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel-the-making-of-another-major-motion-picture-masterpiece)  
+
+</details>
+
 
 
 
@@ -2065,7 +2084,7 @@ Audio: https://www.overdrive.com/media/5564123/the-lying-room
 eBook: https://www.overdrive.com/media/4489722/the-lying-room  
 By [Nicci French](https://en.wikipedia.org/wiki/Nicci_French) aka: Nicci Gerrard (1958 - ) and Sean French (1959 - )  
 
-Reading Notes:  
+Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story about a woman who, upon finding her lover's dead body, decides to clean up much of the crime scene in order to keep her affair with that individual private --> followed by a lot of lying, investigating, and family drama.  Much of the dialog occurs inside the central character's head.  The writing was entertaining enough to keep me from dropping this book before finishing.  
 
 "What The Reviewers Say:" [https://bookmarks.reviews/reviews/all/the-lying-room/](https://bookmarks.reviews/reviews/all/the-lying-room/)  
 
