@@ -373,11 +373,18 @@ This is the third book in a series that also includes: "The Big Sky." and "The W
 ### "The Sixth Extinction -- An Unnatural History."  
 Audio: https://www.overdrive.com/media/1395942/the-sixth-extinction  
 Ebook: https://www.overdrive.com/media/1378076/the-sixth-extinction  
-By [Elizabeth Kolbert](https://en.wikipedia.org/wiki/Elizabeth_Kolbert)  (1961 - _)  
+By [Elizabeth Kolbert](https://en.wikipedia.org/wiki/Elizabeth_Kolbert)  (1961 - )  
+
+Reading Notes: This book examines a broad swath of history and science associated with human understanding of life (*and death*) on earth.  Its focus is on five past mass (*global scale*) extinctions plus the sixth that we are currently living within.  It is a useful resource for learning about some of the natural sciences and how some categories of scientists **do** their science.  It might help provide parts of a foundation for climate change reading.  See any of the reviews below for more about this book.  
+
 [OverDrive Summary](https://www.overdrive.com/media/1378076/the-sixth-extinction):  
 >A major book about the future of the world, blending intellectual and natural history and field reporting into a powerful account of the mass extinction unfolding before our eyes.  
 >Over the last half a billion years, there have been five mass extinctions, when the diversity of life on earth suddenly and dramatically contracted. Scientists around the world are currently monitoring the sixth extinction, predicted to be the most devastating extinction event since the asteroid impact that wiped out the dinosaurs. This time around, the cataclysm is us.  
 >In The Sixth Extinction, two-time winner of the National Magazine Award and New Yorker writer Elizabeth Kolbert draws on the work of scores of researchers in half a dozen disciplines, accompanying many of them into the field: geologists who study deep ocean cores, botanists who follow the tree line as it climbs up the Andes, marine biologists who dive off the Great Barrier Reef. She introduces us to a dozen species, some already gone, others facing extinction, including the Panamian golden frog, staghorn coral, the great auk, and the Sumatran rhino. Through these stories, Kolbert provides a moving account of the disappearances occurring all around us and traces the evolution of extinction as concept, from its first articulation by Georges Cuvier in revolutionary Paris up through the present day. The sixth extinction is likely to be mankind's most lasting legacy; as Kolbert observes, it compels us to rethink the fundamental question of what it means to be human.  
+
+Review by [Al Gore](https://en.wikipedia.org/wiki/Al_Gore): [https://www.nytimes.com/.../the-sixth-extinction-by-elizabeth-kolbert](https://www.nytimes.com/2014/02/16/books/review/the-sixth-extinction-by-elizabeth-kolbert.html?ugrp=u&unlocked_article_code=1.fk0.fmcm.GoPWPOA_9_DO&smid=url-share) 
+Review by [Robin McKie](https://en.wikipedia.org/wiki/Robin_McKie): [https://www.theguardian.com/...sixth-extinction-unnatural-history...](https://www.theguardian.com/books/2014/feb/16/sixth-extinction-unnatural-history-elizabeth-kolbert-review) 
+Review by [Lee Billings](http://leebillings.com/bio/): [https://www.scientificamerican.com/...book-review-the-sixth-extinction/](https://www.scientificamerican.com/article/book-review-the-sixth-extinction/) 
 
 </details>
 
