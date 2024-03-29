@@ -63,6 +63,29 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 </details>
 
 
+<details>
+<summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
+
+### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
+Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
+eBook: https://www.overdrive.com/media/4591747/the-andromeda-evolution  
+By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 – _)  
+
+Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
+
+See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution).  
+[OverDrive Summary](https://www.overdrive.com/media/4608846/the-andromeda-evolution): 
+>The Evolution is Coming.  
+>In 1967, an extraterrestrial microbe came crashing down to Earth and nearly ended the human race. Accidental exposure to the particle—designated The Andromeda Strain—killed every resident of the town of Piedmont, Arizona, save for an elderly man and an infant boy. Over the next five days, a team of top scientists assigned to Project Wildfire worked valiantly to save the world from an epidemic of unimaginable proportions. In the moments before a catastrophic nuclear detonation, they succeeded.  
+>In the ensuing decades, research on the microparticle continued. And the world thought it was safe...  
+>Deep inside Fairchild Air Force Base, Project Eternal Vigilance has continued to watch and wait for the Andromeda Strain to reappear. On the verge of being shut down, the project has registered no activity—until now. A Brazilian terrain-mapping drone has detected a bizarre anomaly of otherworldly matter in the middle of the jungle, and, worse yet, the tell-tale chemical signature of the deadly microparticle.  
+>With this shocking discovery, the next-generation Project Wildfire is activated, and a diverse team of experts hailing from all over the world is dispatched to investigate the potentially apocalyptic threat.  
+>But the microbe is growing—evolving. And if the Wildfire team can't reach the quarantine zone, enter the anomaly, and figure out how to stop it, this new Andromeda Evolution will annihilate all life as we know it.  
+
+
+</details>
+
+
 <details><summary>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
 
 ### The Anomaly. (10:00)  
@@ -2029,6 +2052,76 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
+</details>
+
+<details>
+<summary>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
+
+### The Making of Another Major Motion Picture Masterpiece (12:00)  
+Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motion-picture-masterpiece  
+eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
+By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
+
+Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified]() “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
+
+Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more.
+
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../tom-hanks-novel-making-another...](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/)  
+Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
+Review by [Tim Adams](https://www.theguardian.com/profile/timadams): [https://www.theguardian.com/...the-making-of-another-major-motion-picture...](https://www.theguardian.com/books/2023/may/01/the-making-of-another-major-motion-picture-masterpiece-review-tom-hanks-myth-busting-movie-novel)  
+Interview with Tom Hanks about this novel, by [Jeffrey Brown](https://en.wikipedia.org/wiki/Jeffrey_Brown_(journalist)): [https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel...](https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel-the-making-of-another-major-motion-picture-masterpiece)  
+
+</details>
+
+
+
+
+<details>
+<summary>The Lying Room. By Nicci French. 2019 </summary>
+
+### The Lying Room.  
+Audio: https://www.overdrive.com/media/5564123/the-lying-room  
+eBook: https://www.overdrive.com/media/4489722/the-lying-room  
+By [Nicci French](https://en.wikipedia.org/wiki/Nicci_French) aka: Nicci Gerrard (1958 - ) and Sean French (1959 - )  
+
+Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story about a woman who, upon finding her lover's dead body, decides to clean up much of the crime scene in order to keep her affair with that individual private --> followed by a lot of lying, investigating, and family drama.  Much of the dialog occurs inside the central character's head.  The writing was entertaining enough to keep me from dropping this book before finishing.  
+
+"What The Reviewers Say:" [https://bookmarks.reviews/reviews/all/the-lying-room/](https://bookmarks.reviews/reviews/all/the-lying-room/)  
+
+</details>
+
+
+<details>
+<summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
+
+### The Searcher -- A Novel · Cal Hooper. (15:00)  
+Audio: https://www.overdrive.com/media/5376676/the-searcher  
+eBook: https://www.overdrive.com/media/5359752/the-searcher  
+By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
+
+Reading Notes:  
+
+Review by [Maureen Corrigan](): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
+Review by [Steph Cha](): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
+Review by [Janet Maslin](): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
+
+</details>
+
+
+<details>
+<summary>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
+
+### The Hunter -- A Novel · Cal Hooper. ()  
+Audio: https://www.overdrive.com/media/9951409/the-hunter  
+eBook: https://www.overdrive.com/media/9908341/the-hunter  
+By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
+
+Reading Notes:
+
+Review by [Sadie Stein](): [https://www.nytimes.com/...review/tana-french-the-hunter.html](https://www.nytimes.com/2024/03/02/books/review/tana-french-the-hunter.html)  
+Review by [Maureen Corrigan](): [https://www.washingtonpost.com/...tana-french-the-hunter-book-review/](https://www.washingtonpost.com/books/2024/03/06/tana-french-the-hunter-book-review/)  
+Review by [Bruce DeSilva](): [https://apnews.com/article/hunter-tana-french-book-review...](https://apnews.com/article/hunter-tana-french-book-review-2432fe9dae96af0462d10945d99f3533)  
+
 </details>
 
 
