@@ -1306,6 +1306,20 @@ Review by Jason Heller, NPR: "[Multiple Universes Fill The Pages Of 'The Lost Bo
 </details>
 
 
+<details><summary>The Lying Room. By Nicci French. 2019 </summary>
+
+### The Lying Room.  
+Audio: https://www.overdrive.com/media/5564123/the-lying-room  
+eBook: https://www.overdrive.com/media/4489722/the-lying-room  
+By [Nicci French](https://en.wikipedia.org/wiki/Nicci_French) aka: Nicci Gerrard (1958 - ) and Sean French (1959 - )  
+
+Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* story about a woman who, upon finding her lover's dead body, decides to clean up much of the crime scene in order to keep her affair with that individual private --> followed by a lot of lying, investigating, and family drama.  Much of the dialog occurs inside the central character's head.  The writing was entertaining enough to keep me from dropping this book before finishing.  
+
+"What The Reviewers Say:" [https://bookmarks.reviews/reviews/all/the-lying-room/](https://bookmarks.reviews/reviews/all/the-lying-room/)  
+
+</details>
+
+
 <details><summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>
 
 ### The Man in the Panther's Skin (8:17)  
@@ -2054,10 +2068,32 @@ Reading Notes:
 </details>
 </details>
 
+
+<details>
+<summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
+
+### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
+Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
+eBook: https://www.overdrive.com/media/7975390/one-person-one-vote  
+By [Nick Seabrook](https://nickseabrook.domains.unf.edu/about/)  ( – )  
+
+Reading Notes:  
+The politicians get to pick the voters... An effort to put a thumb on the scale of elections...  
+[Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering)  
+[Gerrymandering in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States)  
+
+Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
+
+BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-one-vote...](https://bookmarks.reviews/reviews/all/one-person-one-vote-a-surprising-history-of-gerrymandering-in-america/)  
+
+</details>
+
+
+
 <details>
 <summary>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
 
-### The Making of Another Major Motion Picture Masterpiece (12:00)  
+### The Making of Another Major Motion Picture Masterpiece (16:00)  
 Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motion-picture-masterpiece  
 eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
 By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
@@ -2068,23 +2104,6 @@ Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [ht
 Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
 Review by [Tim Adams](https://www.theguardian.com/profile/timadams): [https://www.theguardian.com/...the-making-of-another-major-motion-picture...](https://www.theguardian.com/books/2023/may/01/the-making-of-another-major-motion-picture-masterpiece-review-tom-hanks-myth-busting-movie-novel)  
 Interview with Tom Hanks about this novel, by [Jeffrey Brown](https://en.wikipedia.org/wiki/Jeffrey_Brown_(journalist)): [https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel...](https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel-the-making-of-another-major-motion-picture-masterpiece)  
-
-</details>
-
-
-
-
-<details>
-<summary>The Lying Room. By Nicci French. 2019 </summary>
-
-### The Lying Room.  
-Audio: https://www.overdrive.com/media/5564123/the-lying-room  
-eBook: https://www.overdrive.com/media/4489722/the-lying-room  
-By [Nicci French](https://en.wikipedia.org/wiki/Nicci_French) aka: Nicci Gerrard (1958 - ) and Sean French (1959 - )  
-
-Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story about a woman who, upon finding her lover's dead body, decides to clean up much of the crime scene in order to keep her affair with that individual private --> followed by a lot of lying, investigating, and family drama.  Much of the dialog occurs inside the central character's head.  The writing was entertaining enough to keep me from dropping this book before finishing.  
-
-"What The Reviewers Say:" [https://bookmarks.reviews/reviews/all/the-lying-room/](https://bookmarks.reviews/reviews/all/the-lying-room/)  
 
 </details>
 
