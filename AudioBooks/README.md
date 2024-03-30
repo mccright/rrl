@@ -69,7 +69,7 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
 Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
 eBook: https://www.overdrive.com/media/4591747/the-andromeda-evolution  
-By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 – _)  
+By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 –  )  
 
 Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
 
@@ -105,7 +105,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)
 ### Arch-Conspirator (3:00)  
 Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
 eBook: https://www.overdrive.com/media/8918095/arch-conspirator  
-By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 – _)  
+By [Veronica Roth](https://en.wikipedia.org/wiki/Veronica_Roth)  (1988 –  )  
 
 Reading Notes: This short story (*3 hours*) incorporates many kinds of loss -- in the end, most of the characters choose their death.  This is probably not a story for the already depressed.  
 
@@ -205,7 +205,7 @@ Librivox Summary:
 
 ### Aurora (17:00)  
 https://www.overdrive.com/media/2234713/aurora  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 - )  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
 Reader's Notes: Another excellent book!  
@@ -335,7 +335,7 @@ Summary from Librivox:
 
 ### The Blood of Flowers.  (13:18)  
 https://www.overdrive.com/media/134428/the-blood-of-flowers  
-By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 - _)  
+By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 -  )  
 Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
 
 Reader Notes: I had to return this book after listening to 3:26 (26% of the total).  By that time I understood enough about the writing and the story that I will return to it someday.  
@@ -384,7 +384,7 @@ Review by Leo Teixeira: https://teixeiras.medium.com/live-in-the-present-with-th
 Audio: https://www.overdrive.com/media/4197010/the-book-woman-of-troublesome-creek  
 Ebook: https://www.overdrive.com/media/4492866/the-book-woman-of-troublesome-creek  
 
-By [Kim Michele Richardson](https://en.wikipedia.org/wiki/Kim_Michele_Richardson)  ( - _)  
+By [Kim Michele Richardson](https://en.wikipedia.org/wiki/Kim_Michele_Richardson)  ( -  )  
 
 Reading Notes:  This is another period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its (*mostly*) female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians). [There is another of these in this list. See [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below.]  The story follows Cussy Mary Carter, aka "Bluet," one of the "blue-skinned" people of Kentucky [see [Blue Fugates](https://en.wikipedia.org/wiki/Blue_Fugates) to learn more], whose skin appears blue due to [a rare genetic disorder - methemoglobinemia](https://en.wikipedia.org/wiki/Methemoglobinemia), as she serves her library clients in the isolated hills/mountains around Troublesome Creek.  This is complicated by the fact that she is considered "colored" and shunned by the white community and she understands that many types of *offences* could result in the [lynching](https://en.wikipedia.org/wiki/Lynching) of her or her father.  In 1936 she is 19 years old and her sick, coal miner father wants to marry her to a local (*almost any local*) before he dies.  A couple members of a large local clan end up dead in circumstances that are tied to the Carters and the local "Doc" promises to help them if Bluet will participate in some medical testing at a hospital in Lexington. Th testing leads to "treatment" for Cussy Mary which renders her skin temporarily "white." This treatment involves side-effects that interfere with Bluet's library duties, and Bluet's  experience as "white," and "normal", does not change the local's prejudice against her. The story brings us into the lives of a collection of poor, rural, isolated Eastern Kentucky resident's lives, and like [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below this story evolves from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
 Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek](https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek)  
@@ -398,7 +398,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_
 ### Booth (13:42, 470 pages)  
 Audio: https://www.overdrive.com/media/6328747/booth  
 eBook: https://www.overdrive.com/media/6413265/booth  
-By [Karen Joy Fowler](https://en.wikipedia.org/wiki/Karen_Joy_Fowler)  (1950–_)  
+By [Karen Joy Fowler](https://en.wikipedia.org/wiki/Karen_Joy_Fowler)  (1950– )  
 
 Reading Notes: This book follows the [Booth family](https://en.wikipedia.org/wiki/Booth_family) through early and mid-19th century during an especially turbulent time in America. Father, [Junius Brutus Booth](https://en.wikipedia.org/wiki/Junius_Brutus_Booth) was a famous actor.  He was also a drunk and a manipulator.  "*Mother*," his mistress, fled England with him to Maryland where they had ten children, four of whom died young. The daughters Rosalie (*the least fact-based/most fictional of the characters*) and [Asia](https://en.wikipedia.org/wiki/Asia_Booth_Clarke) (*who later became a poet and writer*) remained close to home, and three of the sons [June (Junius Jr.)](https://en.wikipedia.org/wiki/Junius_Brutus_Booth), [Edwin](https://en.wikipedia.org/wiki/Edwin_Booth) and [John](https://en.wikipedia.org/wiki/John_Wilkes_Booth) follow their father into the acting business.  The "*John Wilkes Booth*" that we all learned about in one or another school history class is not the center of this novel.  He is a member -- *a favored member* -- of the family, and one of the boys who dives into acting, a tough business for anyone, and a trial for a flawed actor. ...who is a traitor in the Civil War and goes on to murder President Lincoln.  After Lincoln's assissination, the family wares the stain of John Wilkes' treason and of the Confederate white supremacy that fueled it.  
 I liked this novel a lot more than some professional reviewers -- for example analysis shared by NYT Book Critic [Molly Young](https://www.nytimes.com/by/molly-young) in her [March 2022 review](https://www.nytimes.com/2022/03/08/books/review-booth-karen-joy-fowler.html).  I agree with M.Young's facts, but don't conclude that they result in or represent weakness and/or sloth in the story-telling...  I think that Karen Joy Fowler tells a excellent story about a complex family during a complex period in U.S. history.  
@@ -510,7 +510,7 @@ Librivox Summary:
 ### Caste -- The Origins of Our Discontent. (15:00)  
 Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog)  
 eBook: https://www.overdrive.com/media/5257052/caste  
-By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 - _)  
+By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 -  )  
 
 Reading Notes:  Regardless of your age, social or economic situation read this book. If you can, read it before you vote next time (*if you are allowed to vote*).  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value" expressed in our behaviors, our perceptions of the world around us, in our laws and conventions, and more.  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
 Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
@@ -885,7 +885,7 @@ Librivox Summary:
 
 ### The Giver of Stars. (13:52)  
 [https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
-By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- ___)  
+By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- __ )  
 Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
 Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
 
@@ -953,7 +953,7 @@ For context, see "[Battle of Erzurum](https://en.wikipedia.org/wiki/Erzurum_offe
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
 https://www.overdrive.com/media/5067417/hamnet  
-By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  (1972 - ___)  
+By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  (1972 - __ )  
 https://en.wikipedia.org/wiki/Hamnet_(novel)  
 
 Reader Notes.  Enter one family's world, more than 4 centuries ago.  Maggie O'Farrell delivers the magic (*her expertly-tuned imagination,  skilful editing and extremely hard work*) of helping the reader join the extended family of William Shakespeare.  The primary lens for this exploration is Agnes (*Anne*) Hathaway -- William Shakespeare is only a minor supporting role.  Marriage, motherhood, power, loss & grief, along with the *daily life* in late 16th century England are made so rich, immediate, intense, and so *real* that it is easy to lose yourself in this story.  In addition to exceptional writing, the reading by [Ell Potter](https://www.beeaudio.com/narrator/ell-potter) seemed a perfect fit.  
@@ -998,7 +998,7 @@ Summary from Librivox:
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
 Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
 Ebook: https://www.overdrive.com/media/2637579/hero-of-the-empire  
-By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 - _)  
+By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 -  )  
 
 Reader Notes: This biography covers a period (through ~1900) of Winston Churchill's life when he is attempting to *get started*.  After attempting to achieve military heroics in India or Sudan, young Winston Churchill ships off to the second [Boer War](https://en.wikipedia.org/wiki/Second_Boer_War) for another try.  If you too are less familiar with this part of Churchill's life, this seems like a great entry point (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/Hero_of_the_Empire) if you want to know more about the book's content*). The audio performance by [Simon Vance](https://en.wikipedia.org/wiki/Simon_Vance) made this an enjoyable listen.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Hero_of_the_Empire  
@@ -1013,7 +1013,7 @@ Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html
 ### Horse. (14:06)  
 Audio: https://www.overdrive.com/media/6955174/horse  
 ebook: https://www.overdrive.com/media/6889436/horse  
-By [Geraldine Brooks](https://en.wikipedia.org/wiki/Geraldine_Brooks_(writer)) (1955 - _)  
+By [Geraldine Brooks](https://en.wikipedia.org/wiki/Geraldine_Brooks_(writer)) (1955 -  )  
 
 Reader notes:  This story follows the life (*and rediscovery*) of America’s most famous racehorse -- Lexington (*originally "Darley"*).  In the process, it also explores aspects of systemic racism in 19th, 20th, and 21st century America.  
 ```1850s/60s```: Harry Lewis, Jarrett (Lewis), Elisha Warfield, Richard Ten Broeck, Robert A. Alexander, and Thomas J. Scott.  
@@ -1094,7 +1094,7 @@ Librivox Summary:
 
 ### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
 https://www.overdrive.com/media/5243411/the-invisible-life-of-addie-larue  
-By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ____)  
+By [Victoria Elizabeth (V. E.) Schwab](https://en.wikipedia.org/wiki/V._E._Schwab) (1987 - ___ )  
 
 Reader's Notes: This is a story about a young French woman who in 1714 begs a "god of the night" for freedom to live as she wants.  Ultimately, her bargain makes her immortal but she is forgotten by everyone she meets and cannot directly leave evidence of her having been anywhere.  Jumping back and forth across time, we follow her across 300 years to 2014, when she meets someone with *special powers*.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaRue#Plot) for a much more complete review (*with spoilers*).  It is worth all 17 hours of listening (or reading its 450 pages).  
 
@@ -1156,7 +1156,7 @@ Summary from Librivox:
 
 ### Klara and the Sun (10:16).  
 https://www.overdrive.com/media/5558574/klara-and-the-sun  
-By [Kazuo Ishiguro](https://en.wikipedia.org/wiki/Kazuo_Ishiguro) (1954 -- ___)  
+By [Kazuo Ishiguro](https://en.wikipedia.org/wiki/Kazuo_Ishiguro) (1954 -- __ )  
 
 Reader's Notes: One path for artificial intelligence in our not-too-distant future.  
 We experience the story from the perspective of Klara, an AF (a solar-powered Artificial Friend).  Klara has exemplary observational skills but seems limited by what must have been her training data-set emphasizing human characteristics and communications and de-emphasizing the laws of the physical world.  This results in an *uneven* understanding of the world around her and an interesting story of committment and compassion.  
@@ -1186,7 +1186,7 @@ https://www.jsdewes.com/about
 ### Leave the World Behind. (7:26)  
 Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
 eBook: https://www.overdrive.com/media/5207423/leave-the-world-behind  
-By [Rumaan Alam](https://en.wikipedia.org/wiki/Rumaan_Alam) and [his site](https://www.rumaanalam.com/work/about-me)  (1977 – _)  
+By [Rumaan Alam](https://en.wikipedia.org/wiki/Rumaan_Alam) and [his site](https://www.rumaanalam.com/work/about-me)  (1977 –  )  
 
 Reading Notes: I thought that author Rumaan Alam ably built tension along several threads -- marriage, parenting, wealth, race and class -- as this end-of-the-world story progressed.  This is my first book after listening to "[Caste](#caste_isabel_wilkerson)" by [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson) and I think her research and writing is an excellent preparation for reading Alam's novel, which explores a lot of the same social territory, albeit on a micro-scale (*having 6 or 8 material characters*) and in a fictional end-of-the-world context.  
 This book was also released in [movie form](https://en.wikipedia.org/wiki/Leave_the_World_Behind_(film)).  
@@ -1247,7 +1247,7 @@ Summary from Librivox:
 
 ### The Lincoln Highway (17:00)  
 https://www.overdrive.com/media/6079650/the-lincoln-highway  
-By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 - _)  
+By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 -  )  
 
 This is great story!  Mid-1950s juvenile work farm inmates just free after doing some hard time.  A rural farm family is abandoned by its mother and then reduce again by the father's death leaving two sons homeless and rootless.  The brothers set off on a search for their mother in California, but are forced into a harrowing detour to New York.  Amor Towles expertly tells the story from multiple characters' points of view.  See [Bill Gates' review](https://www.gatesnotes.com/The-Lincoln-Highway) below for a proper summary.  
 
@@ -1359,7 +1359,7 @@ I agree that "old-school space opera" is a good description -- in the context of
 ### The Ministry for the Future  (20:42)  
 Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
 Ebook: https://www.overdrive.com/media/5255196/the-ministry-for-the-future  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 - _)  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson) (1952 -  )  
 Published October 2020, 576 pages  
 
 Reader Notes:  First, everyone should read or listen to this book.  Climate catastrophe remains a real threat and Robinson's book might help with context and inspiration to act (*...or act more*).  
@@ -1455,7 +1455,7 @@ Librivox Summary:
 ### New York 2140 (22:35)  
 Audio: https://www.overdrive.com/media/3007194/new-york-2140  
 Ebook: https://www.overdrive.com/media/2841960/new-york-2140  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 - )  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
 Reader's Notes:  
@@ -1575,7 +1575,7 @@ Summary from Librivox:
 ### The Prefect. (20:00)  
 Audio: https://www.overdrive.com/media/1556214/the-prefect  
 Ebook: https://www.overdrive.com/media/613444/the-prefect  
-By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 - _)  
+By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 -  )  
 
 Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this collection.  It stands-alone well and I didn't have the urge to stop and read the prior volumes.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the stated purpose of imposing a strict authoritarian *government* (*or simply, as has happened with authoritarian leaders throughout history, taking over simply for their personal security, pleasure and longevity*).  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  The story follows Tom Dreyfus, law enforcement officer as he is repeatedly confronted with challenges to his sense of commitment to the rule of law, to the democracy he is sworn to protect, and to his relationships with peers in law enforcement.  There is a lot more to this story, but it is worth reading/listening to simply for the inner and outer dialog of officer Tom Dreyfus.  This is also science fiction and includes industrial human slaughter in an environment composed of an interesting range of future space habitats, modes of computing, medicine, communication, of transportation and much more.  
 Publisher Summary:  
@@ -1620,7 +1620,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
 https://www.overdrive.com/media/8822188/red-winter  
-By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 - _)  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 -  )  
 
 Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy) [Jack Ryan](https://en.wikipedia.org/wiki/Jack_Ryan_(character)) [series](https://en.wikipedia.org/wiki/Jack_Ryan_(franchise)).  CIA Deputy Director [James Greer](https://en.wikipedia.org/wiki/Ryanverse#Characters) calls in a younger Jack Ryan for a mission with a young Mary Pat Foley to meet with a possible defector in East Germany.  An *ageless* [John Clarke](https://en.wikipedia.org/wiki/John_Clark_(Ryanverse_character)) shadows them -- just in case. Concurrently, Dan Murray is leading a search for a spy who appears to have stolen secrets from a top secret F117 aircraft crash site in the Nevada desert. The details in this story do a good job describing the world of 1985 (*clothes, phones, cars, planes, the 1980s chapter of the Cold War, some symptoms of Reagan's anti-Soviet extremism, the general level of terrorist and government-initiated violence across the globe, and how complicated were relations along the European East/West border*).  
 [Kirkus Reviews Summary](https://www.kirkusreviews.com/book-reviews/marc-cameron/tom-clancy-red-winter/)  
@@ -1634,7 +1634,7 @@ Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikiped
 
 ### Remote Control (4:07)  
 [https://www.overdrive.com/media/5431603/remote-control](https://www.overdrive.com/media/5431603/remote-control)  
-By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 -- _)  
+By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 --  )  
 
 Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
 
@@ -1722,7 +1722,7 @@ Librivox Summary:
 
 ### Shaman (15:00)  
 https://www.overdrive.com/media/1372669/shaman  
-By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 -_)  
+By [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)  (1952 - )  
 Kim Stanley Robinson bibliography: https://en.wikipedia.org/wiki/Kim_Stanley_Robinson_bibliography  
 
 Reader's Notes: What an excellent book!  We go on a fast-moving journey with a young apprentice shaman, his teacher, a small band of hunter-gatherers, and the others who join the story along the way.  We learn a lot about [stone age](https://en.wikipedia.org/wiki/Stone_Age) / [ice age](https://en.wikipedia.org/wiki/Last_Glacial_Period) [European early modern humans](https://en.wikipedia.org/wiki/European_early_modern_humans) and their cultures.  
@@ -1924,7 +1924,7 @@ Summary:
 ### Trust. (10:20)  
 Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner  
 ebook: https://www.overdrive.com/media/6480334/trust-pulitzer-prize-winner  
-By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 - _)  
+By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 -  )  
 
 Reader Notes: This book is worth ten hours of your life.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Trust_(novel)) for an outline. The star is the writing.  This seemed like a seriously complex story to assemble, plus a thousand magical acts of writing (*maybe ten thousand*).  [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (~50 years old) is special and I will be reading all his books in the future.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)  
@@ -1954,7 +1954,7 @@ Librivox Summary:
 https://www.overdrive.com/media/3963265/war-on-peace  
 https://en.wikipedia.org/wiki/War_on_Peace  
 https://wwnorton.com/books/war-on-peace/  
-By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 - _)  
+By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 -  )  
 
 </details>
 
@@ -2312,7 +2312,7 @@ historical romance
 
 Audio: https://www.overdrive.com/media/4613861/funny-you-dont-look-autistic  
 Ebook: https://www.overdrive.com/media/4627687/funny-you-dont-look-autistic  
-By [Michael McCreary](https://www.aspiecomic.com/) (1997? - _)  
+By [Michael McCreary](https://www.aspiecomic.com/) (1997? -  )  
 
 </details>
 
