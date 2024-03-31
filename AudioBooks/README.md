@@ -2077,10 +2077,7 @@ Audio: https://www.overdrive.com/media/7973563/one-person-one-vote
 eBook: https://www.overdrive.com/media/7975390/one-person-one-vote  
 By [Nick Seabrook](https://nickseabrook.domains.unf.edu/about/)  ( – )  
 
-Reading Notes:  
-The politicians get to pick the voters... An effort to put a thumb on the scale of elections...  
-[Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering)  
-[Gerrymandering in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States)  
+Reading Notes: A key message of this book: *When they choose to do so politicians in power generally get to pick the voters they want...an historically effective effort to put a thumb on the scale of elections and to diminish democracy.*  I thought that I knew quite a bit about the topic, but this interesting history of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) showed me I was broadly ignorant about how this *tool* has been used [in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) since at least the 18th century and elsewhere before that.  Today, gerrymandering is used across the U.S. to keep Republicans in office even though they get millions fewer votes than their election opponents.  This book provides some useful and entertaining context for the nature and implementations of that practice.  
 
 Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
 
