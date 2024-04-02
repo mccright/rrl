@@ -1320,6 +1320,23 @@ Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* s
 </details>
 
 
+<details><summary>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
+
+### The Making of Another Major Motion Picture Masterpiece (16:00)  
+Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motion-picture-masterpiece  
+eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
+By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
+
+Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified]() “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
+
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../tom-hanks-novel-making-another...](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/)  
+Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
+Review by [Tim Adams](https://www.theguardian.com/profile/timadams): [https://www.theguardian.com/...the-making-of-another-major-motion-picture...](https://www.theguardian.com/books/2023/may/01/the-making-of-another-major-motion-picture-masterpiece-review-tom-hanks-myth-busting-movie-novel)  
+Interview with Tom Hanks about this novel, by [Jeffrey Brown](https://en.wikipedia.org/wiki/Jeffrey_Brown_(journalist)): [https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel...](https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel-the-making-of-another-major-motion-picture-masterpiece)  
+
+</details>
+
+
 <details><summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>
 
 ### The Man in the Panther's Skin (8:17)  
@@ -2077,10 +2094,7 @@ Audio: https://www.overdrive.com/media/7973563/one-person-one-vote
 eBook: https://www.overdrive.com/media/7975390/one-person-one-vote  
 By [Nick Seabrook](https://nickseabrook.domains.unf.edu/about/)  ( – )  
 
-Reading Notes:  
-The politicians get to pick the voters... An effort to put a thumb on the scale of elections...  
-[Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering)  
-[Gerrymandering in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States)  
+Reading Notes: A key message of this book: *When they choose to do so politicians in power generally get to pick the voters they want...an historically effective effort to put a thumb on the scale of elections and to diminish democracy.*  I thought that I knew quite a bit about the topic, but this interesting history of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) showed me I was broadly ignorant about how this *tool* has been used [in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) since at least the 18th century and elsewhere before that, as well as how the U.S. Supreme Court has been unable/unwilling to deal with it in any democracy-supporting way.  Today, gerrymandering is used across the U.S. to keep Republicans in office even though they get millions fewer votes than their election opponents.  This book provides some useful and entertaining context for the nature and implementations of that practice.  It ends with recommendations and with a plea for all of us to fight for effective democracy -- in part by getting into the district mapping details: processes, intent(s), implementation(s), and outcomes.  
 
 Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
 
@@ -2088,24 +2102,6 @@ BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-on
 
 </details>
 
-
-
-<details>
-<summary>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
-
-### The Making of Another Major Motion Picture Masterpiece (16:00)  
-Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motion-picture-masterpiece  
-eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
-By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
-
-Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified]() “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
-
-Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../tom-hanks-novel-making-another...](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/)  
-Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
-Review by [Tim Adams](https://www.theguardian.com/profile/timadams): [https://www.theguardian.com/...the-making-of-another-major-motion-picture...](https://www.theguardian.com/books/2023/may/01/the-making-of-another-major-motion-picture-masterpiece-review-tom-hanks-myth-busting-movie-novel)  
-Interview with Tom Hanks about this novel, by [Jeffrey Brown](https://en.wikipedia.org/wiki/Jeffrey_Brown_(journalist)): [https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel...](https://www.pbs.org/newshour/show/tom-hanks-on-his-debut-novel-the-making-of-another-major-motion-picture-masterpiece)  
-
-</details>
 
 
 <details>
