@@ -861,6 +861,18 @@ Reader Notes: It seems obvious that C.Yandell loves France and French culture. S
 </details>
 
 
+<details><summary>From From. By Monica Youn. 2023 </summary>
+
+### From From. (3:00)  
+Audio: https://www.overdrive.com/media/10162973/from-from  
+eBook: https://www.overdrive.com/media/9613246/from-from  
+By [Monica Youn](https://en.wikipedia.org/wiki/Monica_Youn)  ( – )  
+
+Reading Notes: This collection of poetry received [accolades from a range of institutions and reviewers](https://www.graywolfpress.org/books/from-from). It explores what Asian American identity means to the author, based on her lived, observed and analyzed existence.  I don't know much about poetry, but believe this short collection is worth a listen.  
+
+</details>
+
+
 <details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
 ### The Gettysburg Address (0:02:41)  
@@ -2083,6 +2095,23 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
+</details>
+
+
+
+
+<details>
+<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
+
+### Winter in the Blood. (5:00)  
+Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
+eBook: https://www.overdrive.com/media/5037571/winter-in-the-blood  
+By [James Welch](https://en.wikipedia.org/wiki/James_Welch_(writer))  (1940 – 2003)  
+
+Reading Notes: This is an interesting first-person narrative of a short period in the life of a ~30 year old Native American in 1970s Fort Belknap Reservation, Montana. There is also an excellent forward/introduction by [Louise Erdrich](https://en.wikipedia.org/wiki/Louise_Erdrich) that would be worth listening to even in the absence of the novel. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Winter_in_the_Blood) for more detail...  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://en.wikipedia.org/wiki/Winter_in_the_Blood)  
+
 </details>
 
 
