@@ -2085,6 +2085,20 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
+
+### Winter in the Blood. (5:00)  
+Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
+eBook: https://www.overdrive.com/media/5037571/winter-in-the-blood  
+By [James Welch](https://en.wikipedia.org/wiki/James_Welch_(writer))  (1940 – 2003)  
+
+Reading Notes: This is an interesting first-person narrative of a short period in the life of a ~30 year old Native American in 1970s Fort Belknap Reservation, Montana. There is also an excellent forward/introduction by [Louise Erdrich](https://en.wikipedia.org/wiki/Louise_Erdrich) that would be worth listening to even in the absence of the novel. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Winter_in_the_Blood) for more detail...  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://en.wikipedia.org/wiki/Winter_in_the_Blood)  
+
+</details>
+
 
 <details>
 <summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
