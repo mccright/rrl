@@ -262,6 +262,24 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary>Look at these three books by Paul Myron Anthony Linebarger: </summary>
+
+The Game of Rat and Dragon. By Cordwainer Smith (Paul Myron Anthony Linebarger)  
+https://www.gutenberg.org/ebooks/29614  
+By [Paul Myron Anthony Linebarger (AKA: Cordwainer Smith)](https://en.wikipedia.org/wiki/Cordwainer_Smith) (1913-1966)  
+
+Psychological Warfare. By Paul Myron Anthony Linebarger. 1948  
+https://www.gutenberg.org/ebooks/48612  
+By [Paul Myron Anthony Linebarger (AKA: Cordwainer Smith)](https://en.wikipedia.org/wiki/Cordwainer_Smith) (1913-1966)  
+
+Government in Republican China. By Paul Myron Anthony Linebarger. 1938  
+https://www.gutenberg.org/ebooks/40350  
+By [Paul Myron Anthony Linebarger (AKA: Cordwainer Smith)](https://en.wikipedia.org/wiki/Cordwainer_Smith) (1913-1966)  
+
+</details>
+
 <details>
 <summary>in our time. by ernest hemingway. 1924 </summary>
 

@@ -253,7 +253,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 ### The White Lady -- A British Historical Mystery.  
 eBook: https://www.overdrive.com/media/9080904/the-white-lady  
 Audio: https://www.overdrive.com/media/9068653/the-white-lady  
-By [Jacqueline Winspear](https://en.wikipedia.org/wiki/Jacqueline_Winspear) (1955 - _)  
+By [Jacqueline Winspear](https://en.wikipedia.org/wiki/Jacqueline_Winspear) (1955 - )  
 Bio on her own web site: https://jacquelinewinspear.com/about/  
 Also a bio on Wikiwand: https://www.wikiwand.com/en/Jacqueline_Winspear  
   
@@ -272,7 +272,7 @@ A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/
 
 ### Prophet Song  
 https://www.overdrive.com/media/10251263/prophet-song  
-By [Paul Lynch](https://en.wikipedia.org/wiki/Paul_Lynch_(writer)) (1977-_)  
+By [Paul Lynch](https://en.wikipedia.org/wiki/Paul_Lynch_(writer)) (1977 - )  
 
 Reader Notes:  
 
@@ -325,10 +325,10 @@ Energy: The common definition == "The capacity for doing work" or (*Richard Feyn
 Mechanical energy: Isaac Newton's approach == a joule is the force of one newton, or '*the mass of 1 kilogram accelerated by 1 m/s² acting over a distance of 1 meter*.  
 https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false  
 
+</details>
+
 [Harvard Book Store](https://www.harvard.com/book/how_the_world_really_works/) review:  
 >"An essential analysis of the modern science and technology that makes our twenty-first century lives possible--a scientist's investigation into what science really does, and does not, accomplish. We have never had so much information at our fingertips and yet most of us don't know how the world really works. This book explains seven of the most fundamental realities governing our survival and prosperity."  
-
-</details>
 
 </details>
 
