@@ -1538,6 +1538,23 @@ Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-b
 </details>
 
 
+<details>
+<summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
+
+### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
+Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
+eBook: https://www.overdrive.com/media/7975390/one-person-one-vote  
+By [Nick Seabrook](https://nickseabrook.domains.unf.edu/about/)  ( – )  
+
+Reading Notes: A key message of this book: *When they choose to do so politicians in power generally get to pick the voters they want...an historically effective effort to put a thumb on the scale of elections and to diminish democracy.*  I thought that I knew quite a bit about the topic, but this interesting history of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) showed me I was broadly ignorant about how this *tool* has been used [in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) since at least the 18th century and elsewhere before that, as well as how the U.S. Supreme Court has been unable/unwilling to deal with it in any democracy-supporting way.  Today, gerrymandering is used across the U.S. to keep Republicans in office even though they get millions fewer votes than their election opponents.  This book provides some useful and entertaining context for the nature and implementations of that practice.  It ends with recommendations and with a plea for all of us to fight for effective democracy -- in part by getting into the district mapping details: processes, intent(s), implementation(s), and outcomes.  
+
+Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
+
+BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-one-vote...](https://bookmarks.reviews/reviews/all/one-person-one-vote-a-surprising-history-of-gerrymandering-in-america/)  
+
+</details>
+
+
 <details><summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
 
 ### Opening the West with Lewis and Clark (7:06)  
@@ -2097,7 +2114,43 @@ Reading Notes:
 </details>
 </details>
 
+Look at:  
+"Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
+or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
+
+<details>
+<summary>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
+
+### Good Night, Irene - A Novel. (13:00)  
+Audio: https://www.overdrive.com/media/9311220/good-night-irene  
+eBook: https://www.overdrive.com/media/9323163/good-night-irene  
+By [Luis Alberto Urrea](https://en.wikipedia.org/wiki/Luis_Alberto_Urrea) and [here](https://luisurrea.com/about/)  (1955 – )  
+
+Reading Notes:  
+
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.npr.org/.../luis-alberto-urrea-good-night-irene-review](https://www.npr.org/2023/05/22/1177057433/luis-alberto-urrea-good-night-irene-review)  
+Review By [Nell Freudenberger](https://en.wikipedia.org/wiki/Nell_Freudenberger): [https://www.nytimes.com/.../luis-alberto-urrea-good-night-irene](https://www.nytimes.com/2023/05/25/books/review/luis-alberto-urrea-good-night-irene.html)  
+Review by [Manuel Roig-Franzia](https://www.linkedin.com/in/manuel-roig-franzia-80401b4b): [https://www.washingtonpost.com/.../good-night-irene-luis-alberto-urrea...](https://www.washingtonpost.com/books/2023/05/24/good-night-irene-luis-alberto-urrea-review/)  
+
+</details>
+
+
+<details>
+<summary>The Librarianist. By Patrick deWitt. 2023 </summary>
+
+### The Librarianist. (10:02)  
+Audio: https://www.overdrive.com/media/9267855/the-librarianist 
+eBook: https://www.overdrive.com/media/9267904/the-librarianist  
+   
+By [Patrick deWitt](https://en.wikipedia.org/wiki/Patrick_deWitt)  (1975 – )  
+
+Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon librarian named Bob Comet who began volunteering at a local senior center, later becoming a resident.  See the [review](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/) by Ron Charles if you want a better, more complete summary.  
+
+Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
+
+</details>
 
 
 <details>
@@ -2114,20 +2167,50 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://e
 
 </details>
 
+*One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:*  
+<details>
+<summary>Mania. By Lionel Shriver. 2024 </summary>
+
+### Mania. (??:??)  
+Audio: (*still unreleased as of this entry*)  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+Harper. 288 pp.  
+
+Reading Notes:  
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
+
+</details>
+
 
 <details>
-<summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
+<summary>So Much for That. By Lionel Shriver. 2010 </summary>
 
-### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
-Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
-eBook: https://www.overdrive.com/media/7975390/one-person-one-vote  
-By [Nick Seabrook](https://nickseabrook.domains.unf.edu/about/)  ( – )  
+### So Much for That. (??:??)  
+eBook: https://www.overdrive.com/media/291503/so-much-for-that  
+Audio: https://www.overdrive.com/media/291355/so-much-for-that  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+Harper. 436 pp.
+OverDrive Summary: 
+>... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
+Reading Notes:  
+Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
+Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
 
-Reading Notes: A key message of this book: *When they choose to do so politicians in power generally get to pick the voters they want...an historically effective effort to put a thumb on the scale of elections and to diminish democracy.*  I thought that I knew quite a bit about the topic, but this interesting history of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) showed me I was broadly ignorant about how this *tool* has been used [in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) since at least the 18th century and elsewhere before that, as well as how the U.S. Supreme Court has been unable/unwilling to deal with it in any democracy-supporting way.  Today, gerrymandering is used across the U.S. to keep Republicans in office even though they get millions fewer votes than their election opponents.  This book provides some useful and entertaining context for the nature and implementations of that practice.  It ends with recommendations and with a plea for all of us to fight for effective democracy -- in part by getting into the district mapping details: processes, intent(s), implementation(s), and outcomes.  
+</details>
 
-Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
+<details>
+<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
 
-BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-one-vote...](https://bookmarks.reviews/reviews/all/one-person-one-vote-a-surprising-history-of-gerrymandering-in-america/)  
+### The Mandibles. A Family, 2029-2047. (??:??)  
+eBook: https://www.overdrive.com/media/2486094/the-mandibles  
+Audio: https://www.overdrive.com/media/2466085/the-mandibles  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+
+OverDrive Summary:  
+>In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
+>The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
+>Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
+>The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
 
 </details>
 
@@ -2143,7 +2226,7 @@ By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )
 
 Reading Notes:  
 
-Review by [Maureen Corrigan](): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
 Review by [Steph Cha](): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
 Review by [Janet Maslin](): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
 
@@ -2161,7 +2244,7 @@ By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )
 Reading Notes:
 
 Review by [Sadie Stein](): [https://www.nytimes.com/...review/tana-french-the-hunter.html](https://www.nytimes.com/2024/03/02/books/review/tana-french-the-hunter.html)  
-Review by [Maureen Corrigan](): [https://www.washingtonpost.com/...tana-french-the-hunter-book-review/](https://www.washingtonpost.com/books/2024/03/06/tana-french-the-hunter-book-review/)  
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/...tana-french-the-hunter-book-review/](https://www.washingtonpost.com/books/2024/03/06/tana-french-the-hunter-book-review/)  
 Review by [Bruce DeSilva](): [https://apnews.com/article/hunter-tana-french-book-review...](https://apnews.com/article/hunter-tana-french-book-review-2432fe9dae96af0462d10945d99f3533)  
 
 </details>
