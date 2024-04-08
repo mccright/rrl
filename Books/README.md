@@ -268,6 +268,20 @@ A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/
 
 
 <details>
+<summary>Mania. By Lionel Shriver. 2024 </summary>
+
+### Mania.   
+eBook: https://www.amazon.com/Mania-Novel-Lionel-Shriver-ebook/dp/B0CBKJ8SCH/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=    
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+Harper. 288 pp.  
+
+Reading Notes:  
+Review by [Maureen Corrigan]: "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
+
+</details>
+
+
+<details>
 <summary>Prophet Song. By Paul Lynch. 2023 </summary>
 
 ### Prophet Song  
