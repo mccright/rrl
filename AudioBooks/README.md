@@ -2052,6 +2052,21 @@ Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_
 </details>
 
 
+<details>
+<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
+
+### Winter in the Blood. (5:00)  
+Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
+eBook: https://www.overdrive.com/media/5037571/winter-in-the-blood  
+By [James Welch](https://en.wikipedia.org/wiki/James_Welch_(writer))  (1940 – 2003)  
+
+Reading Notes: This is an interesting first-person narrative of a short period in the life of a ~30 year old Native American in the 1970s Fort Belknap Reservation, Montana. There is also an excellent forward/introduction by [Louise Erdrich](https://en.wikipedia.org/wiki/Louise_Erdrich) that would be worth listening to even in the absence of the novel. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Winter_in_the_Blood) for more detail...  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://en.wikipedia.org/wiki/Winter_in_the_Blood)  
+
+</details>
+
+
 <details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
@@ -2153,20 +2168,6 @@ Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [ht
 </details>
 
 
-<details>
-<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
-
-### Winter in the Blood. (5:00)  
-Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
-eBook: https://www.overdrive.com/media/5037571/winter-in-the-blood  
-By [James Welch](https://en.wikipedia.org/wiki/James_Welch_(writer))  (1940 – 2003)  
-
-Reading Notes: This is an interesting first-person narrative of a short period in the life of a ~30 year old Native American in 1970s Fort Belknap Reservation, Montana. There is also an excellent forward/introduction by [Louise Erdrich](https://en.wikipedia.org/wiki/Louise_Erdrich) that would be worth listening to even in the absence of the novel. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Winter_in_the_Blood) for more detail...  
-
-Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://en.wikipedia.org/wiki/Winter_in_the_Blood)  
-
-</details>
-
 *One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:*  
 <details>
 <summary>Mania. By Lionel Shriver. 2024 </summary>
@@ -2223,12 +2224,13 @@ OverDrive Summary:
 Audio: https://www.overdrive.com/media/5376676/the-searcher  
 eBook: https://www.overdrive.com/media/5359752/the-searcher  
 By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
+Viking. 464pp.  
 
 Reading Notes:  
 
 Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
-Review by [Steph Cha](): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
-Review by [Janet Maslin](): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
+Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
+Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
 
 </details>
 
