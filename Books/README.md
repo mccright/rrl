@@ -268,6 +268,20 @@ A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/
 
 
 <details>
+<summary>The World that Wasn’t: Henry Wallace and the Fate of the American Century. By Benn Steil. 2024 </summary>
+
+### The World that Wasn’t: Henry Wallace and the Fate of the American Century.  
+https://search.worldcat.org/title/1384410970?oclcNum=1384410970  
+eBook: https://www.overdrive.com/media/9919904/the-world-that-wasnt  
+Audio: https://www.overdrive.com/media/9936597/the-world-that-wasnt  
+By [Benn Steil](https://en.wikipedia.org/wiki/Benn_Steil) ( - )  
+687 pages  
+
+Review by [Kevin Baskins](https://www.desmoinesregister.com/staff/12305216002/kevin-baskins/): [https://www.desmoinesregister.com/.../the-world-that-wasnt-...](https://www.desmoinesregister.com/story/news/politics/2024/04/08/the-world-that-wasnt-takes-critical-look-at-iowas-henry-a-wallace/73182185007/)  
+
+</details>
+
+<details>
 <summary>Mania. By Lionel Shriver. 2024 </summary>
 
 ### Mania.   
