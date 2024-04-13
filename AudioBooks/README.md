@@ -2142,7 +2142,7 @@ Audio: https://www.overdrive.com/media/9311220/good-night-irene
 eBook: https://www.overdrive.com/media/9323163/good-night-irene  
 By [Luis Alberto Urrea](https://en.wikipedia.org/wiki/Luis_Alberto_Urrea) and [here](https://luisurrea.com/about/)  (1955 – )  
 
-Reading Notes:  
+Reading Notes: This is an entertaining story about a couple women who participated in the [American Red Cross Clubmobile Service](https://en.wikipedia.org/wiki/American_Red_Cross_Clubmobile_Service), a World War II *mobile service club* staffed by American Red Cross volunteers who provided servicemen with food, entertainment, and "*a connection to home*." I agree with Maureen Corrigan' description of this story a "wartime buddy novel," about "two young women seeking escape and purpose."  See any of the reviews below to learn more...  
 
 Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.npr.org/.../luis-alberto-urrea-good-night-irene-review](https://www.npr.org/2023/05/22/1177057433/luis-alberto-urrea-good-night-irene-review)  
 Review By [Nell Freudenberger](https://en.wikipedia.org/wiki/Nell_Freudenberger): [https://www.nytimes.com/.../luis-alberto-urrea-good-night-irene](https://www.nytimes.com/2023/05/25/books/review/luis-alberto-urrea-good-night-irene.html)  
