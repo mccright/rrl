@@ -943,6 +943,22 @@ See: https://en.wikipedia.org/wiki/The_Midnight_Sky and a review at: https://www
 </details>
 
 
+<details><summary>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
+
+### Good Night, Irene - A Novel. (13:00)  
+Audio: https://www.overdrive.com/media/9311220/good-night-irene  
+eBook: https://www.overdrive.com/media/9323163/good-night-irene  
+By [Luis Alberto Urrea](https://en.wikipedia.org/wiki/Luis_Alberto_Urrea) and [here](https://luisurrea.com/about/)  (1955 – )  
+
+Reading Notes: This is an entertaining story about a couple women who participated in the [American Red Cross Clubmobile Service](https://en.wikipedia.org/wiki/American_Red_Cross_Clubmobile_Service), a World War II *mobile service club* staffed by American Red Cross volunteers who provided servicemen with food, entertainment, and "*a connection to home*." I agree with Maureen Corrigan' description of this story a "wartime buddy novel," about "two young women seeking escape and purpose."  See any of the reviews below to learn more...  
+
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.npr.org/.../luis-alberto-urrea-good-night-irene-review](https://www.npr.org/2023/05/22/1177057433/luis-alberto-urrea-good-night-irene-review)  
+Review By [Nell Freudenberger](https://en.wikipedia.org/wiki/Nell_Freudenberger): [https://www.nytimes.com/.../luis-alberto-urrea-good-night-irene](https://www.nytimes.com/2023/05/25/books/review/luis-alberto-urrea-good-night-irene.html)  
+Review by [Manuel Roig-Franzia](https://www.linkedin.com/in/manuel-roig-franzia-80401b4b): [https://www.washingtonpost.com/.../good-night-irene-luis-alberto-urrea...](https://www.washingtonpost.com/books/2023/05/24/good-night-irene-luis-alberto-urrea-review/)  
+
+</details>
+
+
 <details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
@@ -2135,18 +2151,19 @@ Look at:
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
 <details>
-<summary>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
+<summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
 
-### Good Night, Irene - A Novel. (13:00)  
-Audio: https://www.overdrive.com/media/9311220/good-night-irene  
-eBook: https://www.overdrive.com/media/9323163/good-night-irene  
-By [Luis Alberto Urrea](https://en.wikipedia.org/wiki/Luis_Alberto_Urrea) and [here](https://luisurrea.com/about/)  (1955 – )  
+### The Searcher -- A Novel · Cal Hooper. (15:00)  
+Audio: https://www.overdrive.com/media/5376676/the-searcher  
+eBook: https://www.overdrive.com/media/5359752/the-searcher  
+By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
+Viking. 464pp.  
 
-Reading Notes: This is an entertaining story about a couple women who participated in the [American Red Cross Clubmobile Service](https://en.wikipedia.org/wiki/American_Red_Cross_Clubmobile_Service), a World War II *mobile service club* staffed by American Red Cross volunteers who provided servicemen with food, entertainment, and "*a connection to home*." I agree with Maureen Corrigan' description of this story a "wartime buddy novel," about "two young women seeking escape and purpose."  See any of the reviews below to learn more...  
+Reading Notes:  
 
-Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.npr.org/.../luis-alberto-urrea-good-night-irene-review](https://www.npr.org/2023/05/22/1177057433/luis-alberto-urrea-good-night-irene-review)  
-Review By [Nell Freudenberger](https://en.wikipedia.org/wiki/Nell_Freudenberger): [https://www.nytimes.com/.../luis-alberto-urrea-good-night-irene](https://www.nytimes.com/2023/05/25/books/review/luis-alberto-urrea-good-night-irene.html)  
-Review by [Manuel Roig-Franzia](https://www.linkedin.com/in/manuel-roig-franzia-80401b4b): [https://www.washingtonpost.com/.../good-night-irene-luis-alberto-urrea...](https://www.washingtonpost.com/books/2023/05/24/good-night-irene-luis-alberto-urrea-review/)  
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
+Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
+Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
 
 </details>
 
@@ -2212,25 +2229,6 @@ OverDrive Summary:
 >The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
 >Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
 >The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
-
-</details>
-
-
-
-<details>
-<summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
-
-### The Searcher -- A Novel · Cal Hooper. (15:00)  
-Audio: https://www.overdrive.com/media/5376676/the-searcher  
-eBook: https://www.overdrive.com/media/5359752/the-searcher  
-By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
-Viking. 464pp.  
-
-Reading Notes:  
-
-Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
-Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
-Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
 
 </details>
 
