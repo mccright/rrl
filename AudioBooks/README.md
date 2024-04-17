@@ -2159,11 +2159,33 @@ eBook: https://www.overdrive.com/media/5359752/the-searcher
 By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
 Viking. 464pp.  
 
-Reading Notes:  
+Reading Notes: Cal Hooper, a recently retired Chicago cop with a worn Irish cottage purchased on the Internet takes on an *assistant*, 13 year old Trey Reddy, to help with repairs. Soon, Hooper is sucked into Reddy's hunt for her disappeared older brother. See any of the reviews below if you want to know more... The story is worth your time.  
 
 Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
 Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
 Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
+
+</details>
+
+
+<details>
+<summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
+
+### The Light Pirate.  
+Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
+Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
+eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
+By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
+
+Reading Notes: Climate-centric post-apocalypse dystopian fiction...  
+
+Review by [Amy Rowland](https://www.amyrowlandwriter.com/about): [https://www.nytimes.com/...the-light-pirate.html](https://www.nytimes.com/2022/12/03/books/review/lily-brooks-dalton-the-light-pirate.html)  
+Review by [Tara Lynn Masih](https://www.taramasih.com/): [https://southernlitreview.com/reviews/the-light-pirate...](https://southernlitreview.com/reviews/the-light-pirate-by-lily-brooks-dalton.htm)  
+Reviews on GoodReads: [https://www.goodreads.com/...the-light-pirate](https://www.goodreads.com/book/show/60468332-the-light-pirate)  
+[https://www.lilybrooksdalton.com/the-light-pirate.html](https://www.lilybrooksdalton.com/the-light-pirate.html)  
+
+The Light Pirate, Discussion Questions. By Lily Brooks-Dalton:  [https://www.readinggroupguides.com/reviews/the-light-pirate/guide](https://www.readinggroupguides.com/reviews/the-light-pirate/guide)  
+Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...lily-brooks-dalton-on-her-new-novel-the-light-pirate](https://www.npr.org/2022/12/03/1140529148/lily-brooks-dalton-on-her-new-novel-the-light-pirate)  
 
 </details>
 
@@ -2307,22 +2329,6 @@ eBook: https://www.overdrive.com/media/5305833/the-midnight-library
 By [Matt Haig]()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
-
-### The Light Pirate.  
-Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
-Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
-eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
-By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
-
-Reading Notes:  
-
-Reviews on GoodReads: https://www.goodreads.com/book/show/60468332-the-light-pirate  
 
 </details>
 
