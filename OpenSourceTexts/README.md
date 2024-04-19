@@ -262,6 +262,8 @@ Reading Notes:
 </details>
 
 
+The Radio Amateur's Hand Book by A. Frederick Collins.  1922  
+https://www.gutenberg.org/ebooks/6934  
 
 <details>
 <summary>Look at these three books by Paul Myron Anthony Linebarger: </summary>

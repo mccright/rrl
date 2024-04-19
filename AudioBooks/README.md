@@ -943,6 +943,22 @@ See: https://en.wikipedia.org/wiki/The_Midnight_Sky and a review at: https://www
 </details>
 
 
+<details><summary>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
+
+### Good Night, Irene - A Novel. (13:00)  
+Audio: https://www.overdrive.com/media/9311220/good-night-irene  
+eBook: https://www.overdrive.com/media/9323163/good-night-irene  
+By [Luis Alberto Urrea](https://en.wikipedia.org/wiki/Luis_Alberto_Urrea) and [here](https://luisurrea.com/about/)  (1955 – )  
+
+Reading Notes: This is an entertaining story about a couple women who participated in the [American Red Cross Clubmobile Service](https://en.wikipedia.org/wiki/American_Red_Cross_Clubmobile_Service), a World War II *mobile service club* staffed by American Red Cross volunteers who provided servicemen with food, entertainment, and "*a connection to home*." I agree with Maureen Corrigan' description of this story a "wartime buddy novel," about "two young women seeking escape and purpose."  See any of the reviews below to learn more...  
+
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.npr.org/.../luis-alberto-urrea-good-night-irene-review](https://www.npr.org/2023/05/22/1177057433/luis-alberto-urrea-good-night-irene-review)  
+Review By [Nell Freudenberger](https://en.wikipedia.org/wiki/Nell_Freudenberger): [https://www.nytimes.com/.../luis-alberto-urrea-good-night-irene](https://www.nytimes.com/2023/05/25/books/review/luis-alberto-urrea-good-night-irene.html)  
+Review by [Manuel Roig-Franzia](https://www.linkedin.com/in/manuel-roig-franzia-80401b4b): [https://www.washingtonpost.com/.../good-night-irene-luis-alberto-urrea...](https://www.washingtonpost.com/books/2023/05/24/good-night-irene-luis-alberto-urrea-review/)  
+
+</details>
+
+
 <details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
@@ -1538,6 +1554,23 @@ Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-b
 </details>
 
 
+<details>
+<summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
+
+### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
+Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
+eBook: https://www.overdrive.com/media/7975390/one-person-one-vote  
+By [Nick Seabrook](https://nickseabrook.domains.unf.edu/about/)  ( – )  
+
+Reading Notes: A key message of this book: *When they choose to do so politicians in power generally get to pick the voters they want...an historically effective effort to put a thumb on the scale of elections and to diminish democracy.*  I thought that I knew quite a bit about the topic, but this interesting history of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) showed me I was broadly ignorant about how this *tool* has been used [in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) since at least the 18th century and elsewhere before that, as well as how the U.S. Supreme Court has been unable/unwilling to deal with it in any democracy-supporting way.  Today, gerrymandering is used across the U.S. to keep Republicans in office even though they get millions fewer votes than their election opponents.  This book provides some useful and entertaining context for the nature and implementations of that practice.  It ends with recommendations and with a plea for all of us to fight for effective democracy -- in part by getting into the district mapping details: processes, intent(s), implementation(s), and outcomes.  
+
+Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
+
+BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-one-vote...](https://bookmarks.reviews/reviews/all/one-person-one-vote-a-surprising-history-of-gerrymandering-in-america/)  
+
+</details>
+
+
 <details><summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
 
 ### Opening the West with Lewis and Clark (7:06)  
@@ -2035,6 +2068,21 @@ Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_
 </details>
 
 
+<details>
+<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
+
+### Winter in the Blood. (5:00)  
+Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
+eBook: https://www.overdrive.com/media/5037571/winter-in-the-blood  
+By [James Welch](https://en.wikipedia.org/wiki/James_Welch_(writer))  (1940 – 2003)  
+
+Reading Notes: This is an interesting first-person narrative of a short period in the life of a ~30 year old Native American in the 1970s Fort Belknap Reservation, Montana. There is also an excellent forward/introduction by [Louise Erdrich](https://en.wikipedia.org/wiki/Louise_Erdrich) that would be worth listening to even in the absence of the novel. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Winter_in_the_Blood) for more detail...  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://en.wikipedia.org/wiki/Winter_in_the_Blood)  
+
+</details>
+
+
 <details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
@@ -2097,41 +2145,10 @@ Reading Notes:
 </details>
 </details>
 
+Look at:  
+"Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
-
-
-<details>
-<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
-
-### Winter in the Blood. (5:00)  
-Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
-eBook: https://www.overdrive.com/media/5037571/winter-in-the-blood  
-By [James Welch](https://en.wikipedia.org/wiki/James_Welch_(writer))  (1940 – 2003)  
-
-Reading Notes: This is an interesting first-person narrative of a short period in the life of a ~30 year old Native American in 1970s Fort Belknap Reservation, Montana. There is also an excellent forward/introduction by [Louise Erdrich](https://en.wikipedia.org/wiki/Louise_Erdrich) that would be worth listening to even in the absence of the novel. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Winter_in_the_Blood) for more detail...  
-
-Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://en.wikipedia.org/wiki/Winter_in_the_Blood)  
-
-</details>
-
-
-<details>
-<summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
-
-### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
-Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
-eBook: https://www.overdrive.com/media/7975390/one-person-one-vote  
-By [Nick Seabrook](https://nickseabrook.domains.unf.edu/about/)  ( – )  
-
-Reading Notes: A key message of this book: *When they choose to do so politicians in power generally get to pick the voters they want...an historically effective effort to put a thumb on the scale of elections and to diminish democracy.*  I thought that I knew quite a bit about the topic, but this interesting history of [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) showed me I was broadly ignorant about how this *tool* has been used [in the United States](https://en.wikipedia.org/wiki/Gerrymandering_in_the_United_States) since at least the 18th century and elsewhere before that, as well as how the U.S. Supreme Court has been unable/unwilling to deal with it in any democracy-supporting way.  Today, gerrymandering is used across the U.S. to keep Republicans in office even though they get millions fewer votes than their election opponents.  This book provides some useful and entertaining context for the nature and implementations of that practice.  It ends with recommendations and with a plea for all of us to fight for effective democracy -- in part by getting into the district mapping details: processes, intent(s), implementation(s), and outcomes.  
-
-Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
-
-BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-one-vote...](https://bookmarks.reviews/reviews/all/one-person-one-vote-a-surprising-history-of-gerrymandering-in-america/)  
-
-</details>
-
-
+or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
 <details>
 <summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
@@ -2140,12 +2157,100 @@ BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-on
 Audio: https://www.overdrive.com/media/5376676/the-searcher  
 eBook: https://www.overdrive.com/media/5359752/the-searcher  
 By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
+Viking. 464pp.  
+
+Reading Notes: Cal Hooper, a recently retired Chicago cop with a worn Irish cottage purchased on the Internet takes on an *assistant*, 13 year old Trey Reddy, to help with repairs. Soon, Hooper is sucked into Reddy's hunt for her disappeared older brother. See any of the reviews below if you want to know more... The story is worth your time.  
+
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
+Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
+Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
+
+</details>
+
+
+<details>
+<summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
+
+### The Light Pirate.  
+Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
+Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
+eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
+By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
+
+Reading Notes: Climate-centric post-apocalypse dystopian fiction...  
+
+Review by [Amy Rowland](https://www.amyrowlandwriter.com/about): [https://www.nytimes.com/...the-light-pirate.html](https://www.nytimes.com/2022/12/03/books/review/lily-brooks-dalton-the-light-pirate.html)  
+Review by [Tara Lynn Masih](https://www.taramasih.com/): [https://southernlitreview.com/reviews/the-light-pirate...](https://southernlitreview.com/reviews/the-light-pirate-by-lily-brooks-dalton.htm)  
+Reviews on GoodReads: [https://www.goodreads.com/...the-light-pirate](https://www.goodreads.com/book/show/60468332-the-light-pirate)  
+[https://www.lilybrooksdalton.com/the-light-pirate.html](https://www.lilybrooksdalton.com/the-light-pirate.html)  
+
+The Light Pirate, Discussion Questions. By Lily Brooks-Dalton:  [https://www.readinggroupguides.com/reviews/the-light-pirate/guide](https://www.readinggroupguides.com/reviews/the-light-pirate/guide)  
+Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...lily-brooks-dalton-on-her-new-novel-the-light-pirate](https://www.npr.org/2022/12/03/1140529148/lily-brooks-dalton-on-her-new-novel-the-light-pirate)  
+
+</details>
+
+
+<details>
+<summary>The Librarianist. By Patrick deWitt. 2023 </summary>
+
+### The Librarianist. (10:02)  
+Audio: https://www.overdrive.com/media/9267855/the-librarianist 
+eBook: https://www.overdrive.com/media/9267904/the-librarianist  
+   
+By [Patrick deWitt](https://en.wikipedia.org/wiki/Patrick_deWitt)  (1975 – )  
+
+Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon librarian named Bob Comet who began volunteering at a local senior center, later becoming a resident.  See the [review](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/) by Ron Charles if you want a better, more complete summary.  
+
+Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
+
+</details>
+
+
+*One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:*  
+<details>
+<summary>Mania. By Lionel Shriver. 2024 </summary>
+
+### Mania. (??:??)  
+Audio: (*still unreleased as of this entry*)  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+Harper. 288 pp.  
 
 Reading Notes:  
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
 
-Review by [Maureen Corrigan](): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
-Review by [Steph Cha](): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
-Review by [Janet Maslin](): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
+</details>
+
+
+<details>
+<summary>So Much for That. By Lionel Shriver. 2010 </summary>
+
+### So Much for That. (??:??)  
+eBook: https://www.overdrive.com/media/291503/so-much-for-that  
+Audio: https://www.overdrive.com/media/291355/so-much-for-that  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+Harper. 436 pp.
+OverDrive Summary: 
+>... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
+Reading Notes:  
+Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
+Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
+
+</details>
+
+<details>
+<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
+
+### The Mandibles. A Family, 2029-2047. (??:??)  
+eBook: https://www.overdrive.com/media/2486094/the-mandibles  
+Audio: https://www.overdrive.com/media/2466085/the-mandibles  
+By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+
+OverDrive Summary:  
+>In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
+>The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
+>Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
+>The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
 
 </details>
 
@@ -2161,7 +2266,7 @@ By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )
 Reading Notes:
 
 Review by [Sadie Stein](): [https://www.nytimes.com/...review/tana-french-the-hunter.html](https://www.nytimes.com/2024/03/02/books/review/tana-french-the-hunter.html)  
-Review by [Maureen Corrigan](): [https://www.washingtonpost.com/...tana-french-the-hunter-book-review/](https://www.washingtonpost.com/books/2024/03/06/tana-french-the-hunter-book-review/)  
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/...tana-french-the-hunter-book-review/](https://www.washingtonpost.com/books/2024/03/06/tana-french-the-hunter-book-review/)  
 Review by [Bruce DeSilva](): [https://apnews.com/article/hunter-tana-french-book-review...](https://apnews.com/article/hunter-tana-french-book-review-2432fe9dae96af0462d10945d99f3533)  
 
 </details>
@@ -2224,22 +2329,6 @@ eBook: https://www.overdrive.com/media/5305833/the-midnight-library
 By [Matt Haig]()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
-
-### The Light Pirate.  
-Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
-Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
-eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
-By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
-
-Reading Notes:  
-
-Reviews on GoodReads: https://www.goodreads.com/book/show/60468332-the-light-pirate  
 
 </details>
 
