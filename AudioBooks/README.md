@@ -2205,7 +2205,7 @@ Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [ht
 
 </details>
 
-The-Iliad|Works-of-Shakespeare|CISSP|Bojer|2023-07-07-Notes|
+
 <details><summary>Matrix.  By Lauren Groff. 2021</summary>
 
 ### Matrix.  
