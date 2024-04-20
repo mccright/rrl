@@ -1271,6 +1271,27 @@ Summary from Librivox:
 </details>
 
 
+<details><summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
+
+### The Light Pirate.  
+Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
+Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
+eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
+By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
+
+Reading Notes: Climate-centric post-apocalypse dystopian fiction.  Florida is evacuated as nature reclaims this coastal peninsula. A very few characters stay. The story re-visits characters over decades as they adapt to the *new* environment.  
+
+Review by [Amy Rowland](https://www.amyrowlandwriter.com/about): [https://www.nytimes.com/...the-light-pirate.html](https://www.nytimes.com/2022/12/03/books/review/lily-brooks-dalton-the-light-pirate.html)  
+Review by [Tara Lynn Masih](https://www.taramasih.com/): [https://southernlitreview.com/reviews/the-light-pirate...](https://southernlitreview.com/reviews/the-light-pirate-by-lily-brooks-dalton.htm)  
+Reviews on GoodReads: [https://www.goodreads.com/...the-light-pirate](https://www.goodreads.com/book/show/60468332-the-light-pirate)  
+[https://www.lilybrooksdalton.com/the-light-pirate.html](https://www.lilybrooksdalton.com/the-light-pirate.html)  
+
+The Light Pirate, Discussion Questions. By Lily Brooks-Dalton:  [https://www.readinggroupguides.com/reviews/the-light-pirate/guide](https://www.readinggroupguides.com/reviews/the-light-pirate/guide)  
+Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...lily-brooks-dalton-on-her-new-novel-the-light-pirate](https://www.npr.org/2022/12/03/1140529148/lily-brooks-dalton-on-her-new-novel-the-light-pirate)  
+
+</details>
+
+
 <details><summary>The Lincoln Highway by Amor Towles.  2021</summary>
 
 ### The Lincoln Highway (17:00)  
@@ -2169,28 +2190,6 @@ Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://w
 
 
 <details>
-<summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
-
-### The Light Pirate.  
-Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
-Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
-eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
-By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
-
-Reading Notes: Climate-centric post-apocalypse dystopian fiction...  
-
-Review by [Amy Rowland](https://www.amyrowlandwriter.com/about): [https://www.nytimes.com/...the-light-pirate.html](https://www.nytimes.com/2022/12/03/books/review/lily-brooks-dalton-the-light-pirate.html)  
-Review by [Tara Lynn Masih](https://www.taramasih.com/): [https://southernlitreview.com/reviews/the-light-pirate...](https://southernlitreview.com/reviews/the-light-pirate-by-lily-brooks-dalton.htm)  
-Reviews on GoodReads: [https://www.goodreads.com/...the-light-pirate](https://www.goodreads.com/book/show/60468332-the-light-pirate)  
-[https://www.lilybrooksdalton.com/the-light-pirate.html](https://www.lilybrooksdalton.com/the-light-pirate.html)  
-
-The Light Pirate, Discussion Questions. By Lily Brooks-Dalton:  [https://www.readinggroupguides.com/reviews/the-light-pirate/guide](https://www.readinggroupguides.com/reviews/the-light-pirate/guide)  
-Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...lily-brooks-dalton-on-her-new-novel-the-light-pirate](https://www.npr.org/2022/12/03/1140529148/lily-brooks-dalton-on-her-new-novel-the-light-pirate)  
-
-</details>
-
-
-<details>
 <summary>The Librarianist. By Patrick deWitt. 2023 </summary>
 
 ### The Librarianist. (10:02)  
@@ -2203,6 +2202,21 @@ Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon
 
 Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
 Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
+
+</details>
+
+The-Iliad|Works-of-Shakespeare|CISSP|Bojer|2023-07-07-Notes|
+<details><summary>Matrix.  By Lauren Groff. 2021</summary>
+
+### Matrix.  
+Audio: https://www.overdrive.com/media/6294943/matrix  
+eBook: https://www.overdrive.com/media/6080624/matrix  
+By [Lauren Groff](https://en.wikipedia.org/wiki/Lauren_Groff)  (1978 - )  
+Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Matrix_(Groff_novel)  
 
 </details>
 
@@ -2543,15 +2557,6 @@ Librivox Summary:
 >  
 
 </details>
-</details>
-
-
-<details><summary>Matrix.  By Lauren Groff</summary>
-
-### Matrix.  
-By [Lauren Groff]()  
-Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
-
 </details>
 
 <details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
