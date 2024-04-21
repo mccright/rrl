@@ -1243,6 +1243,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Librarianist. By Patrick deWitt. 2023 </summary>
+
+### The Librarianist. (10:02)  
+Audio: https://www.overdrive.com/media/9267855/the-librarianist 
+eBook: https://www.overdrive.com/media/9267904/the-librarianist  
+   
+By [Patrick deWitt](https://en.wikipedia.org/wiki/Patrick_deWitt)  (1975 – )  
+
+Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon librarian named Bob Comet who began volunteering at a local senior center, later becoming a resident.  See the [review](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/) by Ron Charles if you want a better, more complete summary.  
+
+Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
+
+</details>
+
+
 <details><summary>Life and Writings of Amelia Bloomer. By Dexter C. Bloomer.  1895 </summary>
 
 ### Life and Writings of Amelia Bloomer (10:22:42)  
@@ -2185,23 +2201,6 @@ Reading Notes: Cal Hooper, a recently retired Chicago cop with a worn Irish cott
 Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
 Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
 Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
-
-</details>
-
-
-<details>
-<summary>The Librarianist. By Patrick deWitt. 2023 </summary>
-
-### The Librarianist. (10:02)  
-Audio: https://www.overdrive.com/media/9267855/the-librarianist 
-eBook: https://www.overdrive.com/media/9267904/the-librarianist  
-   
-By [Patrick deWitt](https://en.wikipedia.org/wiki/Patrick_deWitt)  (1975 – )  
-
-Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon librarian named Bob Comet who began volunteering at a local senior center, later becoming a resident.  See the [review](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/) by Ron Charles if you want a better, more complete summary.  
-
-Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
-Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
 
 </details>
 
