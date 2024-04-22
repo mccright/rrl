@@ -34,6 +34,19 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
+
+### The Age of Innocence.  By Edith Wharton.  (9:57)  
+https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
+Text: https://www.gutenberg.org/etext/541  
+By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)  
+Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
+Librivox Summary:  
+>Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
+
+</details>
+
+
 <details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
@@ -1179,8 +1192,7 @@ Summary from Librivox:
 </details>
 
 
-<details>
-<summary>Klara and the Sun. By Kazuo Ishiguro. 2021</summary>  
+<details><summary>Klara and the Sun. By Kazuo Ishiguro. 2021</summary>  
 
 ### Klara and the Sun (10:16).  
 https://www.overdrive.com/media/5558574/klara-and-the-sun  
@@ -1191,6 +1203,18 @@ We experience the story from the perspective of Klara, an AF (a solar-powered Ar
 CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish"*) the reading experience for some because part of the Ishiguro's magic is in slowly, expertly, revealing new ideas and new threads of experience as the reader traverses his story.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun  
+
+</details>
+
+
+<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
+
+### The Last Evolution.  (53:00)  
+https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
+Text: https://www.gutenberg.org/ebooks/27462  
+
+By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
+>John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
 
 </details>
 
@@ -2187,6 +2211,52 @@ Look at:
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
+
+<details>
+<summary>Mr. Weston's Good Wine. By T. F. Powys. 1927 </summary>
+
+### Mr. Weston's Good Wine. (7:45:16)  
+Audio: https://librivox.org/mr-westons-good-wine-by-t-f-powys/  
+eBook: https://archive.org/details/dli.ministry.17483/page/n7/mode/2up    
+By [T. F. Powys](https://en.wikipedia.org/wiki/T._F._Powys)  (1875 - 1953)  
+
+Reading Notes:  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/Mr._Weston's_Good_Wine  
+Librivox summary:  
+>This 1927 novel describes an evening in 1923 when Mr. Weston, who is apparently a wine merchant, but is evidently God, visits the fictional village of Folly Down in Dorset, and meets some of its individuals, whose backgrounds and lives leading up to this day are described during the course of the novel. Mr. Weston's colleague is named Michael, which is an allusion to the Archangel. For a while time stands still, and these individuals, according to their possessing qualities of good or evil, find their ultimate reward. - Summary by [Wikipedia and David Wales](https://librivox.org/mr-westons-good-wine-by-t-f-powys/).  
+
+</details>
+
+
+<details>
+<summary>Inspector French and the Cheyne Mystery. 1926 </summary>
+
+### Inspector French and the Cheyne Mystery. (8:53:55)  
+Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
+eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
+By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
+
+Reading Notes:  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
+Librivox summary:  
+>A railway engineer by training, Freeman Wills Crofts often relied on railway themes for his plots, with careful attention to details and schedules. Having retired from the railway in 1929 to devote himself full time to writing, he is considered part of the golden age of detective fiction, along with Raymond Chandler and Agatha Christie. Until his death in 1957, he produced more than 30 novels, short-stories, and plays. In his fifth book in 1924, he introduced the character of Inspector Joseph French, a Scotland Yard detective whose approach to crime was far more workman-like than most other fictional sleuths. In this book, he tells the story of Maxwell Cheyne, who is mysteriously drugged in a country inn and awakens to find that his home has been burgled, although nothing is missing. As Cheyne is pursued by a gang of relentless criminals, Inspector French of Scotland Yard must untangle their mysterious conspiracy. - [Summary by ASharma](https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/)  
+
+</details>
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+  
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
 <details>
 <summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
 
@@ -2296,20 +2366,6 @@ By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )
 Reading Notes:  
 
 Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2024/02/gary-k-wolfe-reviews-the-tusks-of-extinction-by-ray-nayler/  
-
-</details>
-
-
-<details>
-<summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
-
-### The Age of Innocence.  By Edith Wharton.  (9:57)  
-https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
-Text: https://www.gutenberg.org/etext/541  
-By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)  
-Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
-Librivox Summary:  
->Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
 
 </details>
 
@@ -2557,18 +2613,6 @@ Librivox Summary:
 
 </details>
 </details>
-
-<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
-
-### The Last Evolution.  (53:00)  
-https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
-Text: https://www.gutenberg.org/ebooks/27462  
-
-By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
->John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
-
-</details>
-
 <details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
 
 The Flight of the Shadow.  (2:02)  
