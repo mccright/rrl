@@ -2247,15 +2247,53 @@ Librivox summary:
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
 
-### Empty_Template  
-  
-By []()  ( – )  
+### Stanton White: A Romance of the New South. (5:31:26)  
+Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
+Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
+By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
+297 pages.
 
 Reading Notes:  
 
+Librivox Summary:  
+>In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
+>This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
+
 </details>
+
+
+<details>
+<summary>Black No More. By George Schuyler. 1931 </summary>
+
+### Black No More: Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, A.D. 1933-1940. (5:06:55)  
+Audio: https://librivox.org/black-no-more-by-george-schuyler/  
+eBook: http://www.gutenberg.org/ebooks/68811  
+By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
+
+Reading Notes: Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More).  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
+
+</details>
+
+
+<details>
+<summary>Spacemen Lost. By George O. Smith. 1954 </summary>
+
+### Spacemen Lost. (3:56:53)  
+Audio: https://librivox.org/spacemen-lost-by-george-o-smith/  
+eBook: https://www.gutenberg.org/ebooks/69393    
+By [George O. Smith (George Oliver)](https://en.wikipedia.org/wiki/George_O._Smith)  (1911-1981)  
+
+Reading Notes:  
+
+Librivox Summary:  
+>It was the greatest man hunt in history — and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
+
+</details>
+
 
 <details>
 <summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
