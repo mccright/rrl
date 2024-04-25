@@ -268,6 +268,17 @@ A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/
 
 
 <details>
+<summary>Woman Running in the Mountains.  By Yuko Tsushima. 1980 (translation 2022)</summary>
+
+### Woman Running in the Mountains  
+ebook: https://www.overdrive.com/media/6180231/woman-running-in-the-mountains  
+By [Yuko Tsushima, aka Satoko Tsushima](https://en.wikipedia.org/wiki/Y%C5%ABko_Tsushima)  (1947 – 2016)  
+Translation by [Geraldine Harcourt](https://en.wikipedia.org/wiki/Geraldine_Harcourt)  (1952 – 2019)  
+
+</details>
+
+
+<details>
 <summary>The World that Wasn’t: Henry Wallace and the Fate of the American Century. By Benn Steil. 2024 </summary>
 
 ### The World that Wasn’t: Henry Wallace and the Fate of the American Century.  

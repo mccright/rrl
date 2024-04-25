@@ -34,6 +34,19 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
+
+### The Age of Innocence.  By Edith Wharton.  (9:57)  
+https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
+Text: https://www.gutenberg.org/etext/541  
+By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)  
+Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
+Librivox Summary:  
+>Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
+
+</details>
+
+
 <details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
@@ -1179,8 +1192,7 @@ Summary from Librivox:
 </details>
 
 
-<details>
-<summary>Klara and the Sun. By Kazuo Ishiguro. 2021</summary>  
+<details><summary>Klara and the Sun. By Kazuo Ishiguro. 2021</summary>  
 
 ### Klara and the Sun (10:16).  
 https://www.overdrive.com/media/5558574/klara-and-the-sun  
@@ -1191,6 +1203,18 @@ We experience the story from the perspective of Klara, an AF (a solar-powered Ar
 CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish"*) the reading experience for some because part of the Ishiguro's magic is in slowly, expertly, revealing new ideas and new threads of experience as the reader traverses his story.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun  
+
+</details>
+
+
+<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
+
+### The Last Evolution.  (53:00)  
+https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
+Text: https://www.gutenberg.org/ebooks/27462  
+
+By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
+>John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
 
 </details>
 
@@ -1243,6 +1267,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Librarianist. By Patrick deWitt. 2023 </summary>
+
+### The Librarianist. (10:02)  
+Audio: https://www.overdrive.com/media/9267855/the-librarianist 
+eBook: https://www.overdrive.com/media/9267904/the-librarianist  
+   
+By [Patrick deWitt](https://en.wikipedia.org/wiki/Patrick_deWitt)  (1975 – )  
+
+Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon librarian named Bob Comet who began volunteering at a local senior center, later becoming a resident.  See the [review](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/) by Ron Charles if you want a better, more complete summary.  
+
+Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
+
+</details>
+
+
 <details><summary>Life and Writings of Amelia Bloomer. By Dexter C. Bloomer.  1895 </summary>
 
 ### Life and Writings of Amelia Bloomer (10:22:42)  
@@ -1267,6 +1307,27 @@ Text: https://archive.org/details/lifeofhenrydavid00saltuoft
 By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
 Summary from Librivox:  
 >Henry David Thoreau was a laborer, philosopher, abolitionist, anarchist, environmentalist(?), writer, poet, and more. In popular culture he is best known for his book 'Walden', and his essay on 'Civil Disobedience.' [Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/) reports that this early biography by Henry Salt is highly regarded by Thoreau scholars. Be aware that this is a late 19th century biography -- little wandering and uneven.  If you can forgive that, I believe it is a useful introduction to Thoreau well read by "[PhyllisV](https://librivox.org/reader/13055?primary_key=13055&search_category=reader&search_page=1&search_form=get_results)."  
+
+</details>
+
+
+<details><summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
+
+### The Light Pirate.  
+Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
+Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
+eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
+By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
+
+Reading Notes: Climate-centric post-apocalypse dystopian fiction.  Florida is evacuated as nature reclaims this coastal peninsula. A very few characters stay. The story re-visits characters over decades as they adapt to the *new* environment.  
+
+Review by [Amy Rowland](https://www.amyrowlandwriter.com/about): [https://www.nytimes.com/...the-light-pirate.html](https://www.nytimes.com/2022/12/03/books/review/lily-brooks-dalton-the-light-pirate.html)  
+Review by [Tara Lynn Masih](https://www.taramasih.com/): [https://southernlitreview.com/reviews/the-light-pirate...](https://southernlitreview.com/reviews/the-light-pirate-by-lily-brooks-dalton.htm)  
+Reviews on GoodReads: [https://www.goodreads.com/...the-light-pirate](https://www.goodreads.com/book/show/60468332-the-light-pirate)  
+[https://www.lilybrooksdalton.com/the-light-pirate.html](https://www.lilybrooksdalton.com/the-light-pirate.html)  
+
+The Light Pirate, Discussion Questions. By Lily Brooks-Dalton:  [https://www.readinggroupguides.com/reviews/the-light-pirate/guide](https://www.readinggroupguides.com/reviews/the-light-pirate/guide)  
+Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...lily-brooks-dalton-on-her-new-novel-the-light-pirate](https://www.npr.org/2022/12/03/1140529148/lily-brooks-dalton-on-her-new-novel-the-light-pirate)  
 
 </details>
 
@@ -2150,6 +2211,108 @@ Look at:
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
+ 
+<details>
+<summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
+
+### The Dutch House -- A Novel. (10:00)  
+Audio: https://www.overdrive.com/media/4624493/the-dutch-house  
+eBook: https://www.overdrive.com/media/4617767/the-dutch-house  
+By [Ann Patchett](https://en.wikipedia.org/wiki/Ann_Patchett)  (1963 – )  
+
+Reading Notes: Tom Hanks performs the story "[a brother and sister, Danny and Maeve Conroy, who grow up in a mansion (in Elkins Park, Pennsylvania) known as the Dutch House, and their lives over five decades](https://en.wikipedia.org/wiki/The_Dutch_House_(novel))."  See the summaries and/or the review below...  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Dutch_House_(novel)  
+Overdrive Summary: https://www.overdrive.com/media/4624493/the-dutch-house  
+Review by [Martha Southgate](https://en.wikipedia.org/wiki/Martha_Southgate): [https://www.nytimes.com/...review/ann-patchett-dutch-house.html](https://www.nytimes.com/2019/09/24/books/review/ann-patchett-dutch-house.html)  
+
+</details>
+
+
+
+<details>
+<summary>Mr. Weston's Good Wine. By T. F. Powys. 1927 </summary>
+
+### Mr. Weston's Good Wine. (7:45:16)  
+Audio: https://librivox.org/mr-westons-good-wine-by-t-f-powys/  
+eBook: https://archive.org/details/dli.ministry.17483/page/n7/mode/2up    
+By [T. F. Powys](https://en.wikipedia.org/wiki/T._F._Powys)  (1875 - 1953)  
+
+Reading Notes:  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/Mr._Weston's_Good_Wine  
+Librivox summary:  
+>This 1927 novel describes an evening in 1923 when Mr. Weston, who is apparently a wine merchant, but is evidently God, visits the fictional village of Folly Down in Dorset, and meets some of its individuals, whose backgrounds and lives leading up to this day are described during the course of the novel. Mr. Weston's colleague is named Michael, which is an allusion to the Archangel. For a while time stands still, and these individuals, according to their possessing qualities of good or evil, find their ultimate reward. - Summary by [Wikipedia and David Wales](https://librivox.org/mr-westons-good-wine-by-t-f-powys/).  
+
+</details>
+
+
+<details>
+<summary>Inspector French and the Cheyne Mystery. 1926 </summary>
+
+### Inspector French and the Cheyne Mystery. (8:53:55)  
+Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
+eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
+By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
+
+Reading Notes:  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
+Librivox summary:  
+>A railway engineer by training, Freeman Wills Crofts often relied on railway themes for his plots, with careful attention to details and schedules. Having retired from the railway in 1929 to devote himself full time to writing, he is considered part of the golden age of detective fiction, along with Raymond Chandler and Agatha Christie. Until his death in 1957, he produced more than 30 novels, short-stories, and plays. In his fifth book in 1924, he introduced the character of Inspector Joseph French, a Scotland Yard detective whose approach to crime was far more workman-like than most other fictional sleuths. In this book, he tells the story of Maxwell Cheyne, who is mysteriously drugged in a country inn and awakens to find that his home has been burgled, although nothing is missing. As Cheyne is pursued by a gang of relentless criminals, Inspector French of Scotland Yard must untangle their mysterious conspiracy. - [Summary by ASharma](https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/)  
+
+</details>
+
+
+<details>
+<summary>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
+
+### Stanton White: A Romance of the New South. (5:31:26)  
+Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
+Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
+By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
+297 pages.
+
+Reading Notes:  
+
+Librivox Summary:  
+>In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
+>This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
+
+</details>
+
+
+<details>
+<summary>Black No More. By George Schuyler. 1931 </summary>
+
+### Black No More: Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, A.D. 1933-1940. (5:06:55)  
+Audio: https://librivox.org/black-no-more-by-george-schuyler/  
+eBook: http://www.gutenberg.org/ebooks/68811  
+By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
+
+Reading Notes: Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More).  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
+
+</details>
+
+
+<details>
+<summary>Spacemen Lost. By George O. Smith. 1954 </summary>
+
+### Spacemen Lost. (3:56:53)  
+Audio: https://librivox.org/spacemen-lost-by-george-o-smith/  
+eBook: https://www.gutenberg.org/ebooks/69393    
+By [George O. Smith (George Oliver)](https://en.wikipedia.org/wiki/George_O._Smith)  (1911-1981)  
+
+Reading Notes:  
+
+Librivox Summary:  
+>It was the greatest man hunt in history — and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
+
+</details>
+
+
 <details>
 <summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
 
@@ -2168,41 +2331,17 @@ Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://w
 </details>
 
 
-<details>
-<summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
+<details><summary>Matrix.  By Lauren Groff. 2021</summary>
 
-### The Light Pirate.  
-Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
-Audio: https://www.overdrive.com/media/8796209/the-light-pirate  
-eBook: https://www.overdrive.com/media/8798745/the-light-pirate  
-By [Lily Brooks-Dalton](https://en.wikipedia.org/wiki/Lily_Brooks-Dalton)  (1987 – )  
+### Matrix.  
+Audio: https://www.overdrive.com/media/6294943/matrix  
+eBook: https://www.overdrive.com/media/6080624/matrix  
+By [Lauren Groff](https://en.wikipedia.org/wiki/Lauren_Groff)  (1978 - )  
+Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
 
-Reading Notes: Climate-centric post-apocalypse dystopian fiction...  
+Reading Notes:  
 
-Review by [Amy Rowland](https://www.amyrowlandwriter.com/about): [https://www.nytimes.com/...the-light-pirate.html](https://www.nytimes.com/2022/12/03/books/review/lily-brooks-dalton-the-light-pirate.html)  
-Review by [Tara Lynn Masih](https://www.taramasih.com/): [https://southernlitreview.com/reviews/the-light-pirate...](https://southernlitreview.com/reviews/the-light-pirate-by-lily-brooks-dalton.htm)  
-Reviews on GoodReads: [https://www.goodreads.com/...the-light-pirate](https://www.goodreads.com/book/show/60468332-the-light-pirate)  
-[https://www.lilybrooksdalton.com/the-light-pirate.html](https://www.lilybrooksdalton.com/the-light-pirate.html)  
-
-The Light Pirate, Discussion Questions. By Lily Brooks-Dalton:  [https://www.readinggroupguides.com/reviews/the-light-pirate/guide](https://www.readinggroupguides.com/reviews/the-light-pirate/guide)  
-Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...lily-brooks-dalton-on-her-new-novel-the-light-pirate](https://www.npr.org/2022/12/03/1140529148/lily-brooks-dalton-on-her-new-novel-the-light-pirate)  
-
-</details>
-
-
-<details>
-<summary>The Librarianist. By Patrick deWitt. 2023 </summary>
-
-### The Librarianist. (10:02)  
-Audio: https://www.overdrive.com/media/9267855/the-librarianist 
-eBook: https://www.overdrive.com/media/9267904/the-librarianist  
-   
-By [Patrick deWitt](https://en.wikipedia.org/wiki/Patrick_deWitt)  (1975 – )  
-
-Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon librarian named Bob Comet who began volunteering at a local senior center, later becoming a resident.  See the [review](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/) by Ron Charles if you want a better, more complete summary.  
-
-Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
-Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Matrix_(Groff_novel)  
 
 </details>
 
@@ -2283,20 +2422,6 @@ By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )
 Reading Notes:  
 
 Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2024/02/gary-k-wolfe-reviews-the-tusks-of-extinction-by-ray-nayler/  
-
-</details>
-
-
-<details>
-<summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
-
-### The Age of Innocence.  By Edith Wharton.  (9:57)  
-https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
-Text: https://www.gutenberg.org/etext/541  
-By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)  
-Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
-Librivox Summary:  
->Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
 
 </details>
 
@@ -2544,27 +2669,6 @@ Librivox Summary:
 
 </details>
 </details>
-
-
-<details><summary>Matrix.  By Lauren Groff</summary>
-
-### Matrix.  
-By [Lauren Groff]()  
-Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
-
-</details>
-
-<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
-
-### The Last Evolution.  (53:00)  
-https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
-Text: https://www.gutenberg.org/ebooks/27462  
-
-By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (1910 - 1971)  
->John Campbell Jr. gives us a story about evolution. What will be man's ultimate evolution? What will he look like 100,000 years in the future? And who will be his children? "It was 2538 years After the Year of the Son of Man. For six centuries mankind had been developing machines. The Ear-apparatus was discovered as early as seven hundred years before. The Eye came later, the Brain came much later. But by 2500, the machines had been developed to think, and act and work with perfect independence. Man lived on the products of the machine, and the machines lived to themselves very happily, and contentedly. Machines are designed to help and cooperate. It was easy to do the simple duties they needed to do that men might live well. And men had created them. Most of mankind were quite useless, for they lived in a world where no productive work was necessary." - [Summary by the author](https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/)  
-
-</details>
-
 <details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
 
 The Flight of the Shadow.  (2:02)  
