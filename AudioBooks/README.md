@@ -2211,6 +2211,24 @@ Look at:
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
+ 
+<details>
+<summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
+
+### The Dutch House -- A Novel. (10:00)  
+Audio: https://www.overdrive.com/media/4624493/the-dutch-house  
+eBook: https://www.overdrive.com/media/4617767/the-dutch-house  
+By [Ann Patchett](https://en.wikipedia.org/wiki/Ann_Patchett)  (1963 – )  
+
+Reading Notes: Tom Hanks performs the story "[a brother and sister, Danny and Maeve Conroy, who grow up in a mansion (in Elkins Park, Pennsylvania) known as the Dutch House, and their lives over five decades](https://en.wikipedia.org/wiki/The_Dutch_House_(novel))."  See the summaries and/or the review below...  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Dutch_House_(novel)  
+Overdrive Summary: https://www.overdrive.com/media/4624493/the-dutch-house  
+Review by [Martha Southgate](https://en.wikipedia.org/wiki/Martha_Southgate): [https://www.nytimes.com/...review/ann-patchett-dutch-house.html](https://www.nytimes.com/2019/09/24/books/review/ann-patchett-dutch-house.html)  
+
+</details>
+
+
 
 <details>
 <summary>Mr. Weston's Good Wine. By T. F. Powys. 1927 </summary>
