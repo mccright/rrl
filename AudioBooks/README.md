@@ -731,6 +731,22 @@ Reader notes: If you like spy, action, WWII novels, this might be a good fit.  T
 
 </details>
 
+ 
+<details><summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
+
+### The Dutch House -- A Novel. (10:00)  
+Audio: https://www.overdrive.com/media/4624493/the-dutch-house  
+eBook: https://www.overdrive.com/media/4617767/the-dutch-house  
+By [Ann Patchett](https://en.wikipedia.org/wiki/Ann_Patchett)  (1963 – )  
+
+Reading Notes: Tom Hanks performs the story "[a brother and sister, Danny and Maeve Conroy, who grow up in a mansion (in Elkins Park, Pennsylvania) known as the Dutch House, and their lives over five decades](https://en.wikipedia.org/wiki/The_Dutch_House_(novel))." I recommend it to all readers and audio book listeners.  See the summaries and/or the review below...  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Dutch_House_(novel)  
+Overdrive Summary: https://www.overdrive.com/media/4624493/the-dutch-house  
+Review by [Martha Southgate](https://en.wikipedia.org/wiki/Martha_Southgate): [https://www.nytimes.com/...review/ann-patchett-dutch-house.html](https://www.nytimes.com/2019/09/24/books/review/ann-patchett-dutch-house.html)  
+
+</details>
+
 
 <details><summary>Edward III. By William Parsons Warburton, 1908</summary>
 
@@ -2211,23 +2227,55 @@ Look at:
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
- 
+
+
+
 <details>
-<summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
+<summary>The Knights of Arthur. By Frederik Pohl. 1958 </summary>
 
-### The Dutch House -- A Novel. (10:00)  
-Audio: https://www.overdrive.com/media/4624493/the-dutch-house  
-eBook: https://www.overdrive.com/media/4617767/the-dutch-house  
-By [Ann Patchett](https://en.wikipedia.org/wiki/Ann_Patchett)  (1963 – )  
+### The Knights of Arthur (1:44)  
+Audio: https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/  
+eBook: https://www.gutenberg.org/ebooks/32004  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013)  
 
-Reading Notes: Tom Hanks performs the story "[a brother and sister, Danny and Maeve Conroy, who grow up in a mansion (in Elkins Park, Pennsylvania) known as the Dutch House, and their lives over five decades](https://en.wikipedia.org/wiki/The_Dutch_House_(novel))."  See the summaries and/or the review below...  
+Reading Notes:  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Dutch_House_(novel)  
-Overdrive Summary: https://www.overdrive.com/media/4624493/the-dutch-house  
-Review by [Martha Southgate](https://en.wikipedia.org/wiki/Martha_Southgate): [https://www.nytimes.com/...review/ann-patchett-dutch-house.html](https://www.nytimes.com/2019/09/24/books/review/ann-patchett-dutch-house.html)  
+Librivox Summary:  
+>Pohl takes us into the future in this quirky and funny story, where the population of the United States is less than 10,000 people ... total. Yes you guessed it, there was a war; but the 'clean' bombs killed people and left most everything else intact. Our trio of 'Knights' are not very talented or smart or brave, but they have survived very well and now are taking on New York City to fulfill a quest of Arthur. You see, Arthur has no legs. Or arms. Or body. But he is very opinionated nevertheless. Listen to this fascinating story that is full of humor and human nature as only Pohl can do it. (Summary by [Phil Chenevert](https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/))  
 
 </details>
 
+
+<details>
+<summary>A Town is Drowning.  By Frederik Pohl and C. M. Kornbluth. 1955 </summary>
+
+### A Town is Drowning. (4:35)  
+Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/  
+eBook: https://www.gutenberg.org/ebooks/66768  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  
+
+Reading Notes:  
+
+Librivox Summary:  
+
+
+</details>
+
+
+<details>
+<summary>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
+
+### The Re-creation of Brian Kent. (7:36)  
+Audio: https://librivox.org/the-re-creation-of-brian-kent-by-harold-bell-wright/  
+eBook: https://www.gutenberg.org/ebooks/3265  
+By [Harold Bell Wright](https://en.wikipedia.org/wiki/Harold_Bell_Wright)  (1872 - 1944)  
+
+Reading Notes:  
+
+Librivox Summary:  
+>Brian Kent is a bank clerk who is driven by a variety of circumstances to commit a series of thefts from his employer. Remorseful, drunk, suicidal and on the run, Brian steals a boat and pushes himself into the fast current of a nearby river to bring about an almost certain death. But he washes up in Ozark country and is found by the mountain girl Judy and her friend, the trusting former teacher at the one-room school who is known by everyone as Auntie Sue. Auntie Sue nurses him back to health and gives him a chance to start anew with honest, clean living in the mountains. But Brian’s past soon catches up with him. The Re-creation of Brian Kent is a story of falling, redemption and love interwoven with strong female characters and an inspirational philosophy of life. It was among the top 10 best-selling novels for the years 1919 and 1920. - Summary by [Warren Kati](https://librivox.org/the-re-creation-of-brian-kent-by-harold-bell-wright/).  
+
+</details>
 
 
 <details>
