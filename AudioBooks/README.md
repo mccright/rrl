@@ -2353,7 +2353,7 @@ Audio: https://librivox.org/spacemen-lost-by-george-o-smith/
 eBook: https://www.gutenberg.org/ebooks/69393    
 By [George O. Smith (George Oliver)](https://en.wikipedia.org/wiki/George_O._Smith)  (1911-1981)  
 
-Reading Notes:  
+Reading Notes: This is more 1950s, post-WWII [space opera](https://en.wikipedia.org/wiki/Space_opera) that may edge into juvenile/young adult fiction.  
 
 Librivox Summary:  
 >It was the greatest man hunt in history — and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
