@@ -2238,7 +2238,7 @@ Audio: https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/
 eBook: https://www.gutenberg.org/ebooks/32004  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013)  
 
-Reading Notes:  
+Reading Notes: Another post-WWII / post-apocalypse story filled with fairly wooden characters and dialog... The pacing and economy of Pohl's writing may place this short story above some other writing in this category, but you may need to be involved in a study of this period to find joy in reading/listening to "Knights of Arthur."    
 
 Librivox Summary:  
 >Pohl takes us into the future in this quirky and funny story, where the population of the United States is less than 10,000 people ... total. Yes you guessed it, there was a war; but the 'clean' bombs killed people and left most everything else intact. Our trio of 'Knights' are not very talented or smart or brave, but they have survived very well and now are taking on New York City to fulfill a quest of Arthur. You see, Arthur has no legs. Or arms. Or body. But he is very opinionated nevertheless. Listen to this fascinating story that is full of humor and human nature as only Pohl can do it. (Summary by [Phil Chenevert](https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/))  
