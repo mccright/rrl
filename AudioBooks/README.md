@@ -2303,7 +2303,7 @@ Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-w
 eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
 By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
 
-Reading Notes:  
+Reading Notes: Junk fiction good enough to entertain while working in the yard...  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
 Librivox summary:  
