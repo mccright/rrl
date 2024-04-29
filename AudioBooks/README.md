@@ -2238,7 +2238,7 @@ Audio: https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/
 eBook: https://www.gutenberg.org/ebooks/32004  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013)  
 
-Reading Notes:  
+Reading Notes: Another post-WWII / post-apocalypse story filled with fairly wooden characters and dialog... The pacing and economy of Pohl's writing may place this short story above some other writing in this category, but you may need to be involved in a study of this period to find joy in reading/listening to "Knights of Arthur."    
 
 Librivox Summary:  
 >Pohl takes us into the future in this quirky and funny story, where the population of the United States is less than 10,000 people ... total. Yes you guessed it, there was a war; but the 'clean' bombs killed people and left most everything else intact. Our trio of 'Knights' are not very talented or smart or brave, but they have survived very well and now are taking on New York City to fulfill a quest of Arthur. You see, Arthur has no legs. Or arms. Or body. But he is very opinionated nevertheless. Listen to this fascinating story that is full of humor and human nature as only Pohl can do it. (Summary by [Phil Chenevert](https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/))  
@@ -2254,10 +2254,9 @@ Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/
 eBook: https://www.gutenberg.org/ebooks/66768  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  
 
-Reading Notes:  
+Reading Notes: If you like post-WWII / 1950s popular fiction, this seems like a great example.  Pohl and Kornbluth build a number of interesting characters and follow them through the crisis of a terrible flood in rural Pennsylvania.  
 
-Librivox Summary:  
-
+Learn more about the story in the [Librivox Summary](https://librivox.org/a-town-is-drowning-by-frederik-pohl/).  
 
 </details>
 
@@ -2303,7 +2302,7 @@ Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-w
 eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
 By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
 
-Reading Notes:  
+Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction) good enough to entertain while working in the yard...  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
 Librivox summary:  
@@ -2338,7 +2337,7 @@ Audio: https://librivox.org/black-no-more-by-george-schuyler/
 eBook: http://www.gutenberg.org/ebooks/68811  
 By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
 
-Reading Notes: Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More).  
+Reading Notes: Some interesting ideas, but suffers from a reading that draws attention from the story. Written about race in the U.S. in 1930, it uses terms for African Americans that may be objectional to some readers.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More).  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
 
@@ -2353,7 +2352,7 @@ Audio: https://librivox.org/spacemen-lost-by-george-o-smith/
 eBook: https://www.gutenberg.org/ebooks/69393    
 By [George O. Smith (George Oliver)](https://en.wikipedia.org/wiki/George_O._Smith)  (1911-1981)  
 
-Reading Notes:  
+Reading Notes: This is more 1950s, post-WWII [space opera](https://en.wikipedia.org/wiki/Space_opera) that may edge into juvenile/young adult fiction.  
 
 Librivox Summary:  
 >It was the greatest man hunt in history — and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
