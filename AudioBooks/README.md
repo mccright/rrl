@@ -337,8 +337,9 @@ Librivox Summary:
 Audio: https://librivox.org/black-no-more-by-george-schuyler/  
 eBook: http://www.gutenberg.org/ebooks/68811  
 By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
+250 pages.
 
-Reading Notes: This satire is filled with stereotypical characters and seems deeply pessimistic.  Written about race in the U.S. in 1930, it uses terms for African Americans that are likely objectionable to many readers today.  It is too bad that this audio book suffers from a *flat* reading that may draw attention from the story. Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More) if you want to know more...  
+Reading Notes: This satire is filled with stereotypical characters and seems deeply pessimistic.  Written in the late 1920s or 1930 about race in the U.S., it uses terms for African Americans that are likely objectionable to many readers today. Read the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More) if you want to know more...  Also, this audio book suffers from a *flat* reading that may draw attention from the story -- it might be a better [read](http://www.gutenberg.org/ebooks/68811).  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
 
