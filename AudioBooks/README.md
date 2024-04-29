@@ -331,6 +331,20 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Black No More. By George Schuyler. 1931 </summary>
+
+### Black No More: Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, A.D. 1933-1940. (5:06:55)  
+Audio: https://librivox.org/black-no-more-by-george-schuyler/  
+eBook: http://www.gutenberg.org/ebooks/68811  
+By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
+
+Reading Notes: This satire is filled with stereotypical characters and seems deeply pessimistic.  Written about race in the U.S. in 1930, it uses terms for African Americans that are likely objectionable to many readers today.  It is too bad that this audio book suffers from a *flat* reading that may draw attention from the story. Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More) if you want to know more...  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
+
+</details>
+
+
 <details><summary>Blake of the "Rattlesnake." By Frederick Thomas Jane, 1895</summary>
 
 ### Blake of the "Rattlesnake"  (5:21)  
@@ -2325,21 +2339,6 @@ Reading Notes:
 Librivox Summary:  
 >In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
 >This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
-
-</details>
-
-
-<details>
-<summary>Black No More. By George Schuyler. 1931 </summary>
-
-### Black No More: Being an Account of the Strange and Wonderful Workings of Science in the Land of the Free, A.D. 1933-1940. (5:06:55)  
-Audio: https://librivox.org/black-no-more-by-george-schuyler/  
-eBook: http://www.gutenberg.org/ebooks/68811  
-By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
-
-Reading Notes: Some interesting ideas, but suffers from a reading that draws attention from the story. Written about race in the U.S. in 1930, it uses terms for African Americans that may be objectional to some readers.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More).  
-
-Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
 
 </details>
 
