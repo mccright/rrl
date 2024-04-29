@@ -2254,10 +2254,9 @@ Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/
 eBook: https://www.gutenberg.org/ebooks/66768  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  
 
-Reading Notes:  
+Reading Notes: If you like post-WWII / 1950s popular fiction, this seems like a great example.  Pohl and Kornbluth build a number of interesting characters and follow them through the crisis of a terrible flood in rural Pennsylvania.  
 
-Librivox Summary:  
-
+Learn more about the story in the [Librivox Summary](https://librivox.org/a-town-is-drowning-by-frederik-pohl/).  
 
 </details>
 
@@ -2303,7 +2302,7 @@ Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-w
 eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
 By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
 
-Reading Notes: Junk fiction good enough to entertain while working in the yard...  
+Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction) good enough to entertain while working in the yard...  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
 Librivox summary:  
@@ -2338,7 +2337,7 @@ Audio: https://librivox.org/black-no-more-by-george-schuyler/
 eBook: http://www.gutenberg.org/ebooks/68811  
 By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
 
-Reading Notes: Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More).  
+Reading Notes: Some interesting ideas, but suffers from a reading that draws attention from the story. Written about race in the U.S. in 1930, it uses terms for African Americans that may be objectional to some readers.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More).  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
 
