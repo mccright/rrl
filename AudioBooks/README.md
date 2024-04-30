@@ -2237,6 +2237,21 @@ Reading Notes:
 </details>
 </details>
 
+
+<details>
+<summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
+
+### The Beautiful Mystery. (10:00)  
+Audio: https://www.overdrive.com/media/985444/the-beautiful-mystery  
+eBook: https://www.overdrive.com/media/1012531/the-beautiful-mystery  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+
+Reading Notes:  
+Chief Inspector Armand Gamache and Jean-Guy Beauvoir of the Sûreté du Québec investigate a murder at the remote monastery  Saint-Gilbert-Entre-les-Loups.
+
+</details>
+
+
 Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
