@@ -2238,6 +2238,21 @@ Reading Notes:
 </details>
 
 
+
+
+<details>
+<summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
+
+### Emily Eternal.  (9:00)  
+Audio: https://www.overdrive.com/media/4547905/emily-eternal  
+eBook: https://www.overdrive.com/media/4500529/emily-eternal  
+By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
+
+Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
 <details>
 <summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
 
