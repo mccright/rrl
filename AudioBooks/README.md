@@ -1489,6 +1489,22 @@ I agree that "old-school space opera" is a good description -- in the context of
 
 </details>
 
+
+<details><summary>Matrix.  By Lauren Groff. 2021</summary><a name="matrix"></a>
+
+### Matrix.  
+Audio: https://www.overdrive.com/media/6294943/matrix  
+eBook: https://www.overdrive.com/media/6080624/matrix  
+By [Lauren Groff](https://en.wikipedia.org/wiki/Lauren_Groff)  (1978 - )  
+
+Reading Notes: This excellent story begin as newly orphaned, seventeen-year-old [Marie](https://en.wikipedia.org/wiki/Marie_de_France) from the French Royal Court of [King Henry II](https://en.wikipedia.org/wiki/Henry_II_of_England) and his wife, [Eleanor of Aquitaine](https://en.wikipedia.org/wiki/Eleanor_of_Aquitaine) is sent to England to be the new prioress of an impoverished abbey.  It is the late 12th century, and "poverty" at that time was a mean business.  Marie adapts to this hard life and, having participated in a wider world and witnessed a broad range of opportunities, she began to help, and then lead the abby into a new age of expansion and power. Marie has religious visions and reacts to some of them with radical expansions of the abby's property and practices in an attempt to build a [female separatist "utopia.](https://www.vox.com/culture/22727057/matrix-lauren-groff-book-review)"  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Matrix_(Groff_novel)  
+Review by [Constance Grady](https://www.vox.com/authors/constance-grady/): https://www.vox.com/culture/22727057/matrix-lauren-groff-book-review  
+Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions...  
+
+</details>
+
 <a name="ministry_for_the_future"></a>
 
 <details><summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
@@ -2404,21 +2420,6 @@ Reading Notes: Cal Hooper, a recently retired Chicago cop with a worn Irish cott
 Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
 Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
 Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
-
-</details>
-
-
-<details><summary>Matrix.  By Lauren Groff. 2021</summary>
-
-### Matrix.  
-Audio: https://www.overdrive.com/media/6294943/matrix  
-eBook: https://www.overdrive.com/media/6080624/matrix  
-By [Lauren Groff](https://en.wikipedia.org/wiki/Lauren_Groff)  (1978 - )  
-Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions....  
-
-Reading Notes:  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Matrix_(Groff_novel)  
 
 </details>
 
