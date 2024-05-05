@@ -2266,7 +2266,8 @@ eBook: https://www.overdrive.com/media/1330826/the-quick
 By [Lauren Owen](https://www.laurenowenauthor.com/about)  ( – )  
 
 Reading Notes:  
- 
+
+Review by [Erica Eisdorfer](): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
 
 </details>
 
@@ -2284,7 +2285,6 @@ Reading Notes:  This [spy thriller](https://en.wikipedia.org/wiki/Spy_fiction) i
 Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www.nytimes.com/.../american-spy...](https://www.nytimes.com/2019/02/20/books/review/american-spy-lauren-wilkinson.html)  
 
 </details>
-
 
 
 <details>
