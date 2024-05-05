@@ -1490,7 +1490,9 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
-<details><summary>Matrix.  By Lauren Groff. 2021</summary><a name="matrix"></a>
+<details><summary>Matrix.  By Lauren Groff. 2021</summary>
+
+<a name="matrix"></a>
 
 ### Matrix.  
 Audio: https://www.overdrive.com/media/6294943/matrix  
@@ -2254,6 +2256,35 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary>The Quick. By Lauren Owen. 2014 </summary>
+
+### The Quick. (19:00)  
+Audio: https://www.overdrive.com/media/1330874/the-quick  
+eBook: https://www.overdrive.com/media/1330826/the-quick  
+By [Lauren Owen](https://www.laurenowenauthor.com/about)  ( – )  
+
+Reading Notes:  
+
+Review by [Erica Eisdorfer](): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
+
+</details>
+
+
+<details>
+<summary>American Spy. By Lauren Wilkinson. 2019</summary>
+
+### American Spy. (11:00)  
+Audio: https://www.overdrive.com/media/3994888/american-spy  
+eBook: https://www.overdrive.com/media/4239792/american-spy  
+By [Lauren Wilkinson](https://en.wikipedia.org/wiki/Lauren_Wilkinson_(writer))  ( – )  
+
+Reading Notes:  This [spy thriller](https://en.wikipedia.org/wiki/Spy_fiction) is about a black female secret agent Marie Mitchell an intelligence officer with the FBI, a sister, daughter, and mother and much more. She gets her first mission in 1986, at "*the end of the cold war*" -- to gather information about [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) leader of the newborn [Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso). Unfortunately, her handler has lied to her...  
+
+Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www.nytimes.com/.../american-spy...](https://www.nytimes.com/2019/02/20/books/review/american-spy-lauren-wilkinson.html)  
+
+</details>
 
 
 <details>
