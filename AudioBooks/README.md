@@ -76,6 +76,20 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 </details>
 
 
+<details><summary>American Spy. By Lauren Wilkinson. 2019 </summary>
+
+### American Spy. (11:00)  
+Audio: https://www.overdrive.com/media/3994888/american-spy  
+eBook: https://www.overdrive.com/media/4239792/american-spy  
+By [Lauren Wilkinson](https://en.wikipedia.org/wiki/Lauren_Wilkinson_(writer))  ( – )  
+
+Reading Notes:  This [spy thriller](https://en.wikipedia.org/wiki/Spy_fiction) is about a black female secret agent Marie Mitchell an intelligence officer with the FBI, a sister, daughter, and mother and much more. She gets her first mission in 1986, at "*the end of the cold war*" -- to gather information about [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) leader of the newborn [Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso). Unfortunately, her handler has lied to her...  
+
+Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www.nytimes.com/.../american-spy...](https://www.nytimes.com/2019/02/20/books/review/american-spy-lauren-wilkinson.html)  
+
+</details>
+
+
 <details>
 <summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
@@ -2266,23 +2280,11 @@ eBook: https://www.overdrive.com/media/1330826/the-quick
 By [Lauren Owen](https://www.laurenowenauthor.com/about)  ( – )  
 
 Reading Notes:  
+[Aegolius](https://en.wikipedia.org/wiki/Aegolius)  
 
-Review by [Erica Eisdorfer](): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
-
-</details>
-
-
-<details>
-<summary>American Spy. By Lauren Wilkinson. 2019</summary>
-
-### American Spy. (11:00)  
-Audio: https://www.overdrive.com/media/3994888/american-spy  
-eBook: https://www.overdrive.com/media/4239792/american-spy  
-By [Lauren Wilkinson](https://en.wikipedia.org/wiki/Lauren_Wilkinson_(writer))  ( – )  
-
-Reading Notes:  This [spy thriller](https://en.wikipedia.org/wiki/Spy_fiction) is about a black female secret agent Marie Mitchell an intelligence officer with the FBI, a sister, daughter, and mother and much more. She gets her first mission in 1986, at "*the end of the cold war*" -- to gather information about [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) leader of the newborn [Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso). Unfortunately, her handler has lied to her...  
-
-Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www.nytimes.com/.../american-spy...](https://www.nytimes.com/2019/02/20/books/review/american-spy-lauren-wilkinson.html)  
+Review by [Andrew Sean Greer](https://andrewgreer.com/bio): [https://www.nytimes.com/.../the-quick-by-lauren-owen.html](https://www.nytimes.com/2014/06/22/books/review/the-quick-by-lauren-owen.html)  
+Review by [Erica Eisdorfer](https://reedsy.com/erica-eisdorfer): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
+Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [https://www.thebubble.org.uk/...lauren-owens-the-quick/](https://www.thebubble.org.uk/culture/literature/to-the-gothic-with-love-a-review-of-lauren-owens-the-quick/)  
 
 </details>
 
