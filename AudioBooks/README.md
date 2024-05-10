@@ -831,6 +831,19 @@ Librivox Summary:
 
 
 <details>
+<summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
+
+### Emily Eternal.  (9:00)  
+Audio: https://www.overdrive.com/media/4547905/emily-eternal  
+eBook: https://www.overdrive.com/media/4500529/emily-eternal  
+By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
+
+Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
+<details>
 <summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  (1:06)  
@@ -2285,19 +2298,6 @@ Reading Notes:
 Review by [Andrew Sean Greer](https://andrewgreer.com/bio): [https://www.nytimes.com/.../the-quick-by-lauren-owen.html](https://www.nytimes.com/2014/06/22/books/review/the-quick-by-lauren-owen.html)  
 Review by [Erica Eisdorfer](https://reedsy.com/erica-eisdorfer): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
 Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [https://www.thebubble.org.uk/...lauren-owens-the-quick/](https://www.thebubble.org.uk/culture/literature/to-the-gothic-with-love-a-review-of-lauren-owens-the-quick/)  
-
-</details>
-
-
-<details>
-<summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
-
-### Emily Eternal.  (9:00)  
-Audio: https://www.overdrive.com/media/4547905/emily-eternal  
-eBook: https://www.overdrive.com/media/4500529/emily-eternal  
-By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
-
-Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
 
 </details>
 
