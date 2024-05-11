@@ -1815,6 +1815,24 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
+<details>
+<summary>The Quick. By Lauren Owen. 2014 </summary>
+
+### The Quick. (19:00)  
+Audio: https://www.overdrive.com/media/1330874/the-quick  
+eBook: https://www.overdrive.com/media/1330826/the-quick  
+By [Lauren Owen](https://www.laurenowenauthor.com/about)  ( – )  
+
+Reading Notes: Read any or all of the reviews below.  After something over three hours of listening, I decided to move on.  It was not a *bad* story, but it was *dark* in a way that was messing with my sleep.  
+[Aegolius](https://en.wikipedia.org/wiki/Aegolius)  
+
+Review by [Andrew Sean Greer](https://andrewgreer.com/bio): [https://www.nytimes.com/.../the-quick-by-lauren-owen.html](https://www.nytimes.com/2014/06/22/books/review/the-quick-by-lauren-owen.html)  
+Review by [Erica Eisdorfer](https://reedsy.com/erica-eisdorfer): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
+Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [https://www.thebubble.org.uk/...lauren-owens-the-quick/](https://www.thebubble.org.uk/culture/literature/to-the-gothic-with-love-a-review-of-lauren-owens-the-quick/)  
+
+</details>
+
+
 <details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
@@ -2283,21 +2301,18 @@ Reading Notes:
 </details>
 
 
-
 <details>
-<summary>The Quick. By Lauren Owen. 2014 </summary>
+<summary>FLUX, By Jinwoo Chong. 2023 </summary>
 
-### The Quick. (19:00)  
-Audio: https://www.overdrive.com/media/1330874/the-quick  
-eBook: https://www.overdrive.com/media/1330826/the-quick  
-By [Lauren Owen](https://www.laurenowenauthor.com/about)  ( – )  
+### FLUX.  (9:00)  
+Audio: https://www.overdrive.com/media/9584404/flux  
+eBook: https://www.overdrive.com/media/9078650/flux  
+By [Jinwoo Chong](https://jinwoochong.com/)  ( – )  
 
-Reading Notes:  
-[Aegolius](https://en.wikipedia.org/wiki/Aegolius)  
+Reading Notes: Brandon, Bo, Blue, Cas, Hal, Min, Jem, Lev, Io Emsworth.  Loss, grief, race and culture.  "*High Tech*," the monied class, grift and predatory actors.  Time travel.  The way the author deals with time travel results in a book that chops from scene to scene as it drives the story "*forward*."  It was worth nine hours of my time and it should be worth that much for many others too.  
 
-Review by [Andrew Sean Greer](https://andrewgreer.com/bio): [https://www.nytimes.com/.../the-quick-by-lauren-owen.html](https://www.nytimes.com/2014/06/22/books/review/the-quick-by-lauren-owen.html)  
-Review by [Erica Eisdorfer](https://reedsy.com/erica-eisdorfer): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
-Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [https://www.thebubble.org.uk/...lauren-owens-the-quick/](https://www.thebubble.org.uk/culture/literature/to-the-gothic-with-love-a-review-of-lauren-owens-the-quick/)  
+Review by [Charles Arrowsmith](https://www.linkedin.com/in/charles-arrowsmith-7687ab45): [https://www.washingtonpost.com/.../jinwoo-chong-flux-novel-review/](https://www.washingtonpost.com/books/2023/03/22/jinwoo-chong-flux-novel-review/)  
+Review by [Laird Hunt](https://en.wikipedia.org/wiki/Laird_Hunt): [https://www.nytimes.com/.../review/flux-jinwoo-chong.html](https://www.nytimes.com/2023/03/21/books/review/flux-jinwoo-chong.html)  
 
 </details>
 
