@@ -885,6 +885,21 @@ Reading Notes: (*see 'Triplanetary' below*)
 </details>
 
 
+<details><summary>FLUX, By Jinwoo Chong. 2023 </summary>
+
+### FLUX.  (9:00)  
+Audio: https://www.overdrive.com/media/9584404/flux  
+eBook: https://www.overdrive.com/media/9078650/flux  
+By [Jinwoo Chong](https://jinwoochong.com/)  ( – )  
+
+Reading Notes: Brandon, Bo, Blue, Cas, Hal, Min, Jem, Lev, Io Emsworth.  Loss, grief, race and culture.  "*High Tech*," the monied class, grift and predatory actors.  Time travel.  The way the author deals with time travel results in a book that chops from scene to scene as it drives the story "*forward*."  It was worth nine hours of my time and it should be worth that much for many others too.  
+
+Review by [Charles Arrowsmith](https://www.linkedin.com/in/charles-arrowsmith-7687ab45): [https://www.washingtonpost.com/.../jinwoo-chong-flux-novel-review/](https://www.washingtonpost.com/books/2023/03/22/jinwoo-chong-flux-novel-review/)  
+Review by [Laird Hunt](https://en.wikipedia.org/wiki/Laird_Hunt): [https://www.nytimes.com/.../review/flux-jinwoo-chong.html](https://www.nytimes.com/2023/03/21/books/review/flux-jinwoo-chong.html)  
+
+</details>
+
+
 <details><summary>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
 
 ### Four Months in a Sneak-Box (8:32)  
@@ -2301,18 +2316,19 @@ Reading Notes:
 </details>
 
 
+
 <details>
-<summary>FLUX, By Jinwoo Chong. 2023 </summary>
+<summary>VALIS. By Philip K. Dick. 1981 </summary>
 
-### FLUX.  (9:00)  
-Audio: https://www.overdrive.com/media/9584404/flux  
-eBook: https://www.overdrive.com/media/9078650/flux  
-By [Jinwoo Chong](https://jinwoochong.com/)  ( – )  
+### VALIS. (9:00)  
+Audio: https://www.overdrive.com/media/265695/valis  
+eBook: https://www.overdrive.com/media/677709/valis  
+By [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  (1928 – 1982)  
 
-Reading Notes: Brandon, Bo, Blue, Cas, Hal, Min, Jem, Lev, Io Emsworth.  Loss, grief, race and culture.  "*High Tech*," the monied class, grift and predatory actors.  Time travel.  The way the author deals with time travel results in a book that chops from scene to scene as it drives the story "*forward*."  It was worth nine hours of my time and it should be worth that much for many others too.  
+Reading Notes:  
 
-Review by [Charles Arrowsmith](https://www.linkedin.com/in/charles-arrowsmith-7687ab45): [https://www.washingtonpost.com/.../jinwoo-chong-flux-novel-review/](https://www.washingtonpost.com/books/2023/03/22/jinwoo-chong-flux-novel-review/)  
-Review by [Laird Hunt](https://en.wikipedia.org/wiki/Laird_Hunt): [https://www.nytimes.com/.../review/flux-jinwoo-chong.html](https://www.nytimes.com/2023/03/21/books/review/flux-jinwoo-chong.html)  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wikipedia.org/wiki/Valis_(novel))  
 
 </details>
 
