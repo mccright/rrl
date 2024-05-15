@@ -2326,6 +2326,10 @@ eBook: https://www.overdrive.com/media/677709/valis
 By [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  (1928 – 1982)  
 
 Reading Notes:  
+VALIS ([Satellite-integrated] Vast Active Living Intelligence System)  
+President Ferris F. Freemont (AKA "666")  
+"1 to .618034."  
+Two year old Savior Sophia remairs Philip K. Dick - eliminates Horselover Fat.  
 
 
 Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wikipedia.org/wiki/Valis_(novel))  
