@@ -2315,6 +2315,27 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>James. By Percival Everett. 2024 </summary>
+
+### James.  (8:00)  
+Audio: https://www.overdrive.com/media/9951347/james  
+eBook: https://www.overdrive.com/media/9935544/james  
+By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
+
+Reading Notes: This story is enhanced by [Dominic Hoffman]()'s excellent audio acting/narration.  
+The [historical fiction] is, in part, a retelling of "[Adventures of Huckleberry Finn](https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn)" from the perspective and voice of enslaved [Jim](https://en.wikipedia.org/wiki/Jim_(Huckleberry_Finn)).  
+It explores entrenched attitudes about race, slavery, freedom , particularly racism and freedom.  It is also about language: "`White folks expect us to sound a certain way and it can only help if we don’t disappoint them... The better they feel, the safer we are.`" Jim, treated with violence and humiliation, rarely meets violence with violence, yet retains his goodness, honor, and wisdom.  
+
+The state legislature and governor where I live have been attempting to cull all telling, even hints, of America's original sin of slavery and its ongoing impacts from public school teaching and supporting materials (*because, in part, it might result in White discomfort*). The content and telling of this story might help resist **some** of the willful ignorance and uneducated prejudice that has led to our legislator's and governor's attitudes and behaviors. This book would also be a valuable educational resource for (at a minimum) high school and college students and staff, and it is appropriate for all the rest of us who have left school behind.  
+
+Review by [Tyler Austin Harper](https://www.bates.edu/faculty-expertise/profile/tyler-a-harper/): [https://www.theatlantic.com/.../james-book-percival-everett...](https://www.theatlantic.com/magazine/archive/2024/04/james-book-percival-everett-huckleberry-finn/677474/)  
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../percival-everett-james...](https://www.nytimes.com/2024/03/11/books/review/percival-everett-james.html)  
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../percival-everett-james...](https://www.washingtonpost.com/books/2024/03/08/percival-everett-james-huck-finn/)  
+Review by [Anthony Cummins](https://intelligentrelations.com/journalist/anthony-cummins/): [https://www.theguardian.com/.../james-by-percival-everett...](https://www.theguardian.com/books/2024/apr/08/james-by-percival-everett-review-a-gripping-reimagining-of-mark-twain-jim-huckleberry-finn)  
+
+</details>
+
 
 
 <details>
