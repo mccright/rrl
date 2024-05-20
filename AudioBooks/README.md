@@ -2173,8 +2173,7 @@ Summary:
 </details>
 
 
-<details>
-<summary>Trust. By Hernan Diaz. 2022</summary>
+<details><summary>Trust. By Hernan Diaz. 2022</summary>
 
 ### Trust. (10:20)  
 Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner  
@@ -2183,6 +2182,27 @@ By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 -  )
 
 Reader Notes: This book is worth ten hours of your life.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Trust_(novel)) for an outline. The star is the writing.  This seemed like a seriously complex story to assemble, plus a thousand magical acts of writing (*maybe ten thousand*).  [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (~50 years old) is special and I will be reading all his books in the future.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)  
+
+</details>
+
+
+<details>
+<summary>VALIS. By Philip K. Dick. 1981 </summary>
+
+### VALIS. (9:00)  
+Audio: https://www.overdrive.com/media/265695/valis  
+eBook: https://www.overdrive.com/media/677709/valis  
+By [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  (1928 – 1982)  
+
+Reading Notes: I knew nothing about [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) (*although I imagined I did*).  
+VALIS ([Satellite-integrated] Vast Active Living Intelligence System)  
+President Ferris F. Freemont (AKA "666")  
+"1 to .618034."  
+Two year old Savior Sophia *repairs* (?) Philip K. Dick - eliminates Horselover Fat.  
+...Who then returns.  
+This book reads like an internal monologue in a fog of serious mental illness, in the 1970s California.  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wikipedia.org/wiki/Valis_(novel))  
 
 </details>
 
@@ -2336,27 +2356,6 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
-</details>
-
-
-<details>
-<summary>VALIS. By Philip K. Dick. 1981 </summary>
-
-### VALIS. (9:00)  
-Audio: https://www.overdrive.com/media/265695/valis  
-eBook: https://www.overdrive.com/media/677709/valis  
-By [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  (1928 – 1982)  
-
-Reading Notes: I knew nothing about Philip K. Dick (*although I imagined I did*).  
-VALIS ([Satellite-integrated] Vast Active Living Intelligence System)  
-President Ferris F. Freemont (AKA "666")  
-"1 to .618034."  
-Two year old Savior Sophia remairs Philip K. Dick - eliminates Horselover Fat.  
-Who then returns.  
-This book reads like an internal monologue in a fog of serious mental illness, in the 1970s California.  
-
-Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wikipedia.org/wiki/Valis_(novel))  
-
 </details>
 
 
