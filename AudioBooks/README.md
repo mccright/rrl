@@ -190,6 +190,21 @@ More juvenile/young adult science fiction -- lots of *unlikely* human behaviors 
 </details>
 
 
+<details><summary>Attack from Within -- How Disinformation Is Sabotaging America.  By Barbara McQuade. 2024 </summary>
+
+### Attack from Within -- How Disinformation Is Sabotaging America. (10:29)  
+Audio: https://www.overdrive.com/media/10335398/attack-from-within  
+eBook: https://www.overdrive.com/media/9830572/attack-from-within  
+By [Barbara McQuade](https://en.wikipedia.org/wiki/Barbara_McQuade)  (1964 – )  
+
+Reading Notes: This is an excellent essay.  Read or listen to it.  
+
+[Overdrive Summary]():  
+>(Barbara McQuade) breaks down the ways disinformation has become a tool to drive voters to extremes, disempower our legal structures, and consolidate power in the hands of the few. American society is more polarized than ever before. We are strategically being pushed apart by disinformation-the deliberate spreading of lies disguised as truth-and it comes at us from all sides: opportunists on the far right, Russian misinformed social media influencers, among others. It's endangering our democracy and causing havoc in our electoral system, schools, hospitals, workplaces, and in our Capitol. Advances in technology including rapid developments in artificial intelligence threaten to make the problems even worse by amplifying false claims and manufacturing credibility. In Attack from Within, legal scholar and analyst Barbara McQuade, shows us how to identify the ways disinformation is seeping into all facets of our society and how we can fight against it. Disinformation is designed to evoke a strong emotional response to push us toward more extreme views, unable to find common ground with others. The false claims that led to the breathtaking attack on our Capitol in 2020 may have been only a dress rehearsal. Attack from Within shows us how to prevent it from happening again, thus preserving our country's hard-won democracy.  
+
+</details>
+
+
 <details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -2357,7 +2372,6 @@ Reading Notes:
 
 </details>
 </details>
-
 
 <details>
 <summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
