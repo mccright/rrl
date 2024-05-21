@@ -76,6 +76,20 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 </details>
 
 
+<details><summary>American Spy. By Lauren Wilkinson. 2019 </summary>
+
+### American Spy. (11:00)  
+Audio: https://www.overdrive.com/media/3994888/american-spy  
+eBook: https://www.overdrive.com/media/4239792/american-spy  
+By [Lauren Wilkinson](https://en.wikipedia.org/wiki/Lauren_Wilkinson_(writer))  ( – )  
+
+Reading Notes:  This [spy thriller](https://en.wikipedia.org/wiki/Spy_fiction) is about a black female secret agent Marie Mitchell an intelligence officer with the FBI, a sister, daughter, and mother and much more. She gets her first mission in 1986, at "*the end of the cold war*" -- to gather information about [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) leader of the newborn [Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso). Unfortunately, her handler has lied to her...  
+
+Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www.nytimes.com/.../american-spy...](https://www.nytimes.com/2019/02/20/books/review/american-spy-lauren-wilkinson.html)  
+
+</details>
+
+
 <details>
 <summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
@@ -172,6 +186,21 @@ Reader's Notes:
 More juvenile/young adult science fiction -- lots of *unlikely* human behaviors throughout.  See the Librivox summary...  Add in an assumption that *mind control* is a natural/normal activity.  
 [Librivox Summary](https://librivox.org/atomic-by-henry-kuttner/):  
 >"What nuclear war may do to the world we know is a closed book to mankind—but here’s what coming eras may bring!"  After nuclear war, scientists in Biological Control Labs monitor the former bomb sites, fearing that a mutated animal will develop the intelligence and power to become a threat to humans. One day, men sent to investigate alarms activated in the nuclear wasteland in the New York area find more than they bargained for. - Summary by [Elsie Selwyn](https://librivox.org/atomic-by-henry-kuttner/)  
+
+</details>
+
+
+<details><summary>Attack from Within -- How Disinformation Is Sabotaging America.  By Barbara McQuade. 2024 </summary>
+
+### Attack from Within -- How Disinformation Is Sabotaging America. (10:29)  
+Audio: https://www.overdrive.com/media/10335398/attack-from-within  
+eBook: https://www.overdrive.com/media/9830572/attack-from-within  
+By [Barbara McQuade](https://en.wikipedia.org/wiki/Barbara_McQuade)  (1964 – )  
+
+Reading Notes: This is an excellent essay.  Read or listen to it.  
+
+[Overdrive Summary]():  
+>(Barbara McQuade) breaks down the ways disinformation has become a tool to drive voters to extremes, disempower our legal structures, and consolidate power in the hands of the few. American society is more polarized than ever before. We are strategically being pushed apart by disinformation-the deliberate spreading of lies disguised as truth-and it comes at us from all sides: opportunists on the far right, Russian misinformed social media influencers, among others. It's endangering our democracy and causing havoc in our electoral system, schools, hospitals, workplaces, and in our Capitol. Advances in technology including rapid developments in artificial intelligence threaten to make the problems even worse by amplifying false claims and manufacturing credibility. In Attack from Within, legal scholar and analyst Barbara McQuade, shows us how to identify the ways disinformation is seeping into all facets of our society and how we can fight against it. Disinformation is designed to evoke a strong emotional response to push us toward more extreme views, unable to find common ground with others. The false claims that led to the breathtaking attack on our Capitol in 2020 may have been only a dress rehearsal. Attack from Within shows us how to prevent it from happening again, thus preserving our country's hard-won democracy.  
 
 </details>
 
@@ -817,6 +846,19 @@ Librivox Summary:
 
 
 <details>
+<summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
+
+### Emily Eternal.  (9:00)  
+Audio: https://www.overdrive.com/media/4547905/emily-eternal  
+eBook: https://www.overdrive.com/media/4500529/emily-eternal  
+By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
+
+Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
+<details>
 <summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  (1:06)  
@@ -854,6 +896,21 @@ Text: https://www.gutenberg.org/ebooks/49525
 By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
 Reading Notes: (*see 'Triplanetary' below*)  
 >The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went -- and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
+
+</details>
+
+
+<details><summary>FLUX, By Jinwoo Chong. 2023 </summary>
+
+### FLUX.  (9:00)  
+Audio: https://www.overdrive.com/media/9584404/flux  
+eBook: https://www.overdrive.com/media/9078650/flux  
+By [Jinwoo Chong](https://jinwoochong.com/)  ( – )  
+
+Reading Notes: Brandon, Bo, Blue, Cas, Hal, Min, Jem, Lev, Io Emsworth.  Loss, grief, race and culture.  "*High Tech*," the monied class, grift and predatory actors.  Time travel.  The way the author deals with time travel results in a book that chops from scene to scene as it drives the story "*forward*."  It was worth nine hours of my time and it should be worth that much for many others too.  
+
+Review by [Charles Arrowsmith](https://www.linkedin.com/in/charles-arrowsmith-7687ab45): [https://www.washingtonpost.com/.../jinwoo-chong-flux-novel-review/](https://www.washingtonpost.com/books/2023/03/22/jinwoo-chong-flux-novel-review/)  
+Review by [Laird Hunt](https://en.wikipedia.org/wiki/Laird_Hunt): [https://www.nytimes.com/.../review/flux-jinwoo-chong.html](https://www.nytimes.com/2023/03/21/books/review/flux-jinwoo-chong.html)  
 
 </details>
 
@@ -1189,6 +1246,29 @@ This is a seriously-dystopian novel...  For some, it might be a useful reminder 
 [Summary on Wikipedia](https://en.wikipedia.org/wiki/The_Iron_Heel#Summary)  
 Librivox Summary:  
 >A dystopian novel about the terrible oppressions of an American oligarchy at the beginning of the Twentieth Century, and the struggles of a socialist revolutionary movement - ([Summary by Matt Soar](https://librivox.org/the-iron-heel-by-jack-london/))  
+
+</details>
+
+
+<details><summary>James. By Percival Everett. 2024 </summary>
+
+### James.  (8:00)  
+Audio: https://www.overdrive.com/media/9951347/james  
+eBook: https://www.overdrive.com/media/9935544/james  
+By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
+
+Reading Notes: This story is enhanced by [Dominic Hoffman](https://en.wikipedia.org/wiki/Dominic_Hoffman)'s excellent audio acting/narration.  
+The [historical fiction] is, in part, a retelling of "[Adventures of Huckleberry Finn](https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn)" from the perspective and voice of enslaved [Jim](https://en.wikipedia.org/wiki/Jim_(Huckleberry_Finn)).  
+It explores entrenched attitudes about race, slavery, freedom , particularly racism and freedom.  It is also about language: "`White folks expect us to sound a certain way and it can only help if we don’t disappoint them... The better they feel, the safer we are.`" Jim, treated with violence and humiliation, rarely meets violence with violence, yet retains his goodness, honor, and wisdom.  
+
+For easy access to a number of Percival Everett's other books, try Libby/Overdrive: [https://www.overdrive.com/search?f-contentCreatorNames=Percival%20Everett](https://www.overdrive.com/search?f-contentCreatorNames=Percival%20Everett)  
+
+The state legislature and governor where I live have been attempting to cull all telling, even hints, of America's original sin of slavery and its ongoing impacts from public school teaching and supporting materials (*because, in part, it might result in White discomfort*). The content and telling of this story might help resist **some** of the willful ignorance and uneducated prejudice that has led to our legislator's and governor's attitudes and behaviors. This book would also be a valuable educational resource for (at a minimum) high school and college students and staff, and it is appropriate for all the rest of us who have left school behind.  
+
+Review by [Tyler Austin Harper](https://www.bates.edu/faculty-expertise/profile/tyler-a-harper/): [https://www.theatlantic.com/.../james-book-percival-everett...](https://www.theatlantic.com/magazine/archive/2024/04/james-book-percival-everett-huckleberry-finn/677474/)  
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../percival-everett-james...](https://www.nytimes.com/2024/03/11/books/review/percival-everett-james.html)  
+Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../percival-everett-james...](https://www.washingtonpost.com/books/2024/03/08/percival-everett-james-huck-finn/)  
+Review by [Anthony Cummins](https://intelligentrelations.com/journalist/anthony-cummins/): [https://www.theguardian.com/.../james-by-percival-everett...](https://www.theguardian.com/books/2024/apr/08/james-by-percival-everett-review-a-gripping-reimagining-of-mark-twain-jim-huckleberry-finn)  
 
 </details>
 
@@ -1788,6 +1868,24 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
+<details>
+<summary>The Quick. By Lauren Owen. 2014 </summary>
+
+### The Quick. (19:00)  
+Audio: https://www.overdrive.com/media/1330874/the-quick  
+eBook: https://www.overdrive.com/media/1330826/the-quick  
+By [Lauren Owen](https://www.laurenowenauthor.com/about)  ( – )  
+
+Reading Notes: Read any or all of the reviews below.  After something over three hours of listening, I decided to move on.  It was not a *bad* story, but it was *dark* in a way that was messing with my sleep.  
+[Aegolius](https://en.wikipedia.org/wiki/Aegolius)  
+
+Review by [Andrew Sean Greer](https://andrewgreer.com/bio): [https://www.nytimes.com/.../the-quick-by-lauren-owen.html](https://www.nytimes.com/2014/06/22/books/review/the-quick-by-lauren-owen.html)  
+Review by [Erica Eisdorfer](https://reedsy.com/erica-eisdorfer): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
+Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [https://www.thebubble.org.uk/...lauren-owens-the-quick/](https://www.thebubble.org.uk/culture/literature/to-the-gothic-with-love-a-review-of-lauren-owens-the-quick/)  
+
+</details>
+
+
 <details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
@@ -2090,8 +2188,7 @@ Summary:
 </details>
 
 
-<details>
-<summary>Trust. By Hernan Diaz. 2022</summary>
+<details><summary>Trust. By Hernan Diaz. 2022</summary>
 
 ### Trust. (10:20)  
 Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner  
@@ -2100,6 +2197,27 @@ By [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (1973 -  )
 
 Reader Notes: This book is worth ten hours of your life.  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Trust_(novel)) for an outline. The star is the writing.  This seemed like a seriously complex story to assemble, plus a thousand magical acts of writing (*maybe ten thousand*).  [Hernan Diaz](https://en.wikipedia.org/wiki/Hernan_Diaz_(writer)) (~50 years old) is special and I will be reading all his books in the future.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)  
+
+</details>
+
+
+<details>
+<summary>VALIS. By Philip K. Dick. 1981 </summary>
+
+### VALIS. (9:00)  
+Audio: https://www.overdrive.com/media/265695/valis  
+eBook: https://www.overdrive.com/media/677709/valis  
+By [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)  (1928 – 1982)  
+
+Reading Notes: I knew nothing about [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick) (*although I imagined I did*).  
+VALIS ([Satellite-integrated] Vast Active Living Intelligence System)  
+President Ferris F. Freemont (AKA "666")  
+"1 to .618034."  
+Two year old Savior Sophia *repairs* (?) Philip K. Dick - eliminates Horselover Fat.  
+...Who then returns.  
+This book reads like an internal monologue in a fog of serious mental illness, in the 1970s California.  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wikipedia.org/wiki/Valis_(novel))  
 
 </details>
 
@@ -2254,51 +2372,6 @@ Reading Notes:
 
 </details>
 </details>
-
-
-
-<details>
-<summary>The Quick. By Lauren Owen. 2014 </summary>
-
-### The Quick. (19:00)  
-Audio: https://www.overdrive.com/media/1330874/the-quick  
-eBook: https://www.overdrive.com/media/1330826/the-quick  
-By [Lauren Owen](https://www.laurenowenauthor.com/about)  ( – )  
-
-Reading Notes:  
-
-Review by [Erica Eisdorfer](): [https://slate.com/...the-quick-by-lauren...](https://slate.com/culture/2014/08/the-quick-by-lauren-owen-reviewed.html)  
-
-</details>
-
-
-<details>
-<summary>American Spy. By Lauren Wilkinson. 2019</summary>
-
-### American Spy. (11:00)  
-Audio: https://www.overdrive.com/media/3994888/american-spy  
-eBook: https://www.overdrive.com/media/4239792/american-spy  
-By [Lauren Wilkinson](https://en.wikipedia.org/wiki/Lauren_Wilkinson_(writer))  ( – )  
-
-Reading Notes:  This [spy thriller](https://en.wikipedia.org/wiki/Spy_fiction) is about a black female secret agent Marie Mitchell an intelligence officer with the FBI, a sister, daughter, and mother and much more. She gets her first mission in 1986, at "*the end of the cold war*" -- to gather information about [Thomas Sankara](https://en.wikipedia.org/wiki/Thomas_Sankara) leader of the newborn [Burkina Faso](https://en.wikipedia.org/wiki/Burkina_Faso). Unfortunately, her handler has lied to her...  
-
-Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www.nytimes.com/.../american-spy...](https://www.nytimes.com/2019/02/20/books/review/american-spy-lauren-wilkinson.html)  
-
-</details>
-
-
-<details>
-<summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
-
-### Emily Eternal.  (9:00)  
-Audio: https://www.overdrive.com/media/4547905/emily-eternal  
-eBook: https://www.overdrive.com/media/4500529/emily-eternal  
-By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
-
-Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
-
-</details>
-
 
 <details>
 <summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
