@@ -2151,6 +2151,20 @@ https://en.wikipedia.org/wiki/The_Torrents_of_Spring
 </details>
 
 
+<details><summary>A Town is Drowning.  By Frederik Pohl and C. M. Kornbluth. 1955 </summary>
+
+### A Town is Drowning. (4:35)  
+Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/  
+eBook: https://www.gutenberg.org/ebooks/66768  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  
+
+Reading Notes: If you like post-WWII / 1950s popular fiction, this seems like a great example.  Pohl and Kornbluth build a number of interesting characters and follow them through the crisis of a terrible flood in rural Pennsylvania.  
+
+Learn more about the story in the [Librivox Summary](https://librivox.org/a-town-is-drowning-by-frederik-pohl/).  
+
+</details>
+
+
 <details><summary>Trick of the Light.  By Louise Penny. 2011 </summary>
 
 ### A Trick of the Light. (9:00)  
@@ -2407,21 +2421,6 @@ Reading Notes: Another post-WWII / post-apocalypse story filled with fairly wood
 
 Librivox Summary:  
 >Pohl takes us into the future in this quirky and funny story, where the population of the United States is less than 10,000 people ... total. Yes you guessed it, there was a war; but the 'clean' bombs killed people and left most everything else intact. Our trio of 'Knights' are not very talented or smart or brave, but they have survived very well and now are taking on New York City to fulfill a quest of Arthur. You see, Arthur has no legs. Or arms. Or body. But he is very opinionated nevertheless. Listen to this fascinating story that is full of humor and human nature as only Pohl can do it. (Summary by [Phil Chenevert](https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/))  
-
-</details>
-
-
-<details>
-<summary>A Town is Drowning.  By Frederik Pohl and C. M. Kornbluth. 1955 </summary>
-
-### A Town is Drowning. (4:35)  
-Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/  
-eBook: https://www.gutenberg.org/ebooks/66768  
-By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  
-
-Reading Notes: If you like post-WWII / 1950s popular fiction, this seems like a great example.  Pohl and Kornbluth build a number of interesting characters and follow them through the crisis of a terrible flood in rural Pennsylvania.  
-
-Learn more about the story in the [Librivox Summary](https://librivox.org/a-town-is-drowning-by-frederik-pohl/).  
 
 </details>
 
