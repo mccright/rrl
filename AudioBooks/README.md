@@ -285,6 +285,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
+
+### The Beautiful Mystery. (10:00)  
+Audio: https://www.overdrive.com/media/985444/the-beautiful-mystery  
+eBook: https://www.overdrive.com/media/1012531/the-beautiful-mystery  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+
+Reading Notes:  
+[Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) investigate a murder at the remote monastery  Saint-Gilbert-Entre-les-Loups. This was a good fit for a long car ride...
+
+If you like this series or are considering starting it there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+
+</details>
+
+
 <details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
@@ -2386,20 +2401,6 @@ Reading Notes:
 
 </details>
 </details>
-
-<details>
-<summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
-
-### The Beautiful Mystery. (10:00)  
-Audio: https://www.overdrive.com/media/985444/the-beautiful-mystery  
-eBook: https://www.overdrive.com/media/1012531/the-beautiful-mystery  
-By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
-
-Reading Notes:  
-Chief Inspector Armand Gamache and Jean-Guy Beauvoir of the Sûreté du Québec investigate a murder at the remote monastery  Saint-Gilbert-Entre-les-Loups.
-
-</details>
-
 
 Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
