@@ -2419,6 +2419,41 @@ Reading Notes:
 </details>
 
 
+
+
+<details>
+<summary>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
+
+### The Storm before the Storm -- The Beginning of the End of the Roman Republic. (10:00)  
+Audio: https://www.overdrive.com/media/3375678/the-storm-before-the-storm  
+eBook: https://www.overdrive.com/media/3148712/the-storm-before-the-storm  
+By [Mike Duncan](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster))  ( – )  
+
+Reading Notes: Many of us have heard lines like "the success of the Republic proved to be its undoing" or "the assassination of [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) in 44 BC began the end of the vast empire Rome."  I can remember nodding in agreement (*without a clear understanding of the context of those assumed truisms*)...  Mike Duncan describes Roman activities in the previous century that add a lot of context and help build out some understanding of the culture and personalities that *led to* that day in the Roman Senate when [Marcus Junius Brutus](https://en.wikipedia.org/wiki/Marcus_Junius_Brutus) (*and others'*) assassinate Julius Caesar.  
+
+Wikipedia Summary: [https://en.wikipedia.org/...The_Storm_Before_the_Storm](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster)#The_Storm_Before_the_Storm)  
+
+</details>
+
+
+
+
+<details>
+<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+
+### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
+  
+By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
+
+Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  
+
+[Overdrive Summary](https://www.overdrive.com/media/9703970/ghosts-of-honolulu)  
+[Review by Jim Lee](https://jimleeauthor.wordpress.com/2024/05/01/book-review-ghosts-of-honolulu/)  
+[Review by Brendan Dowd](https://historynerdsunited.com/2023/12/ghosts-of-honolulu-by-mark-harmon-and-leon-carroll-jr-book-review/)  
+
+</details>
+
+
 Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
