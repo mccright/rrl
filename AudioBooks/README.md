@@ -142,6 +142,22 @@ Summary from [the author's book website](https://veronicarothbooks.com/books/arc
 </details>
 
 
+<details>
+<summary>An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) · The Liberation Trilogy. By Rick Atkinson. 2002 </summary>
+
+### An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) (7:00)  
+Audio: https://www.overdrive.com/media/76360/an-army-at-dawn-the-war-in-north-africa-1942-1943  
+eBook: https://www.overdrive.com/media/510753/an-army-at-dawn-the-war-in-north-africa-1942-1943  
+By [Rick Atkinson](https://en.wikipedia.org/wiki/Rick_Atkinson)  (1952 – )  
+
+Reading Notes: The first year of the Allied war.
+
+OverDrive Summary:  
+>Beginning with the daring amphibious invasion in November 1942, An Army at Dawn follows the American and British armies as they fight the French in Morocco and Algeria, and then take on the Germans and Italians in Tunisia. Battle by battle, an inexperienced and sometimes poorly led army gradually becomes a superb fighting force. Central to the tale are the extraordinary but fallible commanders who come to dominate the battlefield: Eisenhower, Patton, Bradley, Montgomery, and Rommel. [OverDrive](https://www.overdrive.com/media/510753/an-army-at-dawn-the-war-in-north-africa-1942-1943)  
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
@@ -2401,6 +2417,7 @@ Reading Notes:
 
 </details>
 </details>
+
 
 Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  

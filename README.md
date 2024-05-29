@@ -8,7 +8,7 @@
 
 
 ## Supporting Material  
-This is where I maintain a list of the books that I am reading or have read since 25 July 2022 (*when I started tracking my reading*).  
+This is where I maintain a list of the books that I am reading or have read or are considering reading since 25 July 2022 (*when I started tracking my reading*).  
 
 
 ### Reading [Out-of-Copywrite - Open-Access eBooks](OpenSourceTexts/)  
@@ -16,7 +16,7 @@ This is where I maintain a list of the books that I am reading or have read sinc
   * Project Gutenberg  [https://www.gutenberg.org/](https://www.gutenberg.org/)  
   * The Univ. Penn. Online Books Page at  [https://onlinebooks.library.upenn.edu/](https://onlinebooks.library.upenn.edu/) (An index of over three million online books freely readable on the Internet)  
   * Standard Ebooks  [https://standardebooks.org/](https://standardebooks.org/)  
-  * Internet Archive [https://archive.org/](https://archive.org/)  
+  * Internet Archive [https://archive.org/](https://archive.org/) and [https://archive.org/details/inlibrary](https://archive.org/details/inlibrary)  
   * Tufts Univ. Perseus Digital Library [https://www.perseus.tufts.edu/hopper/collections](https://www.perseus.tufts.edu/hopper/collections)  
   * Tufts Digital Library [https://dl.tufts.edu/catalog](https://dl.tufts.edu/catalog)  
   * Evans Early American Imprint Collection  [https://quod.lib.umich.edu/e/evans?cginame=text-idx;id=navbarbrowselink;key=subject;page=browse](https://quod.lib.umich.edu/e/evans?cginame=text-idx;id=navbarbrowselink;key=subject;page=browse)  
@@ -57,6 +57,7 @@ This is where I maintain a list of the books that I am reading or have read sinc
   * Open Access Publishing in European Networks (OAPEN) online library [https://www.oapen.org](https://www.oapen.org)  
   * Open Access Scholarly Publishers Association (OASPA) [https://oaspa.org/](https://oaspa.org/)  
   * Bloomsbury Collections: [https://www.bloomsburycollections.com/search?newSearchRecord&browse&product=bloomsburyOpenAccess](https://www.bloomsburycollections.com/search?newSearchRecord&browse&product=bloomsburyOpenAccess)  
+  * And some books still under copyright are available at the Internet Archive  [https://archive.org/details/inlibrary](https://archive.org/details/inlibrary)  
 
 
 ### Learn More  
