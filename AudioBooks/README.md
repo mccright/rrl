@@ -142,6 +142,22 @@ Summary from [the author's book website](https://veronicarothbooks.com/books/arc
 </details>
 
 
+<details>
+<summary>An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) · The Liberation Trilogy. By Rick Atkinson. 2002 </summary>
+
+### An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) (7:00)  
+Audio: https://www.overdrive.com/media/76360/an-army-at-dawn-the-war-in-north-africa-1942-1943  
+eBook: https://www.overdrive.com/media/510753/an-army-at-dawn-the-war-in-north-africa-1942-1943  
+By [Rick Atkinson](https://en.wikipedia.org/wiki/Rick_Atkinson)  (1952 – )  
+
+Reading Notes: The first year of the Allied war.
+
+OverDrive Summary:  
+>Beginning with the daring amphibious invasion in November 1942, An Army at Dawn follows the American and British armies as they fight the French in Morocco and Algeria, and then take on the Germans and Italians in Tunisia. Battle by battle, an inexperienced and sometimes poorly led army gradually becomes a superb fighting force. Central to the tale are the extraordinary but fallible commanders who come to dominate the battlefield: Eisenhower, Patton, Bradley, Montgomery, and Rommel. [OverDrive](https://www.overdrive.com/media/510753/an-army-at-dawn-the-war-in-north-africa-1942-1943)  
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
@@ -281,6 +297,21 @@ Translated by [Herman George Scheffauer](https://en.wikipedia.org/wiki/Herman_Ge
 
 Librivox Summary:  
 >Simple and unpretentious as a statement by Francis d'Assisi, yet full of a gentle modern sophistication and humour, this little work will bring delight and refreshment to all who seek flight from the heavy-laden hour. It is, moreover, one of the most subtle and penetrating studies of the psychology of the dog that has ever been written—tender yet unsentimental, realistic and full of the detail of masterly observation and description, yet in its final form and precipitation a work of exquisite literary art. - [Summary from the Foreword by Herman George Scheffauer](https://www.gutenberg.org/ebooks/61284)  
+
+</details>
+
+
+<details><summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
+
+### The Beautiful Mystery. (10:00)  
+Audio: https://www.overdrive.com/media/985444/the-beautiful-mystery  
+eBook: https://www.overdrive.com/media/1012531/the-beautiful-mystery  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+
+Reading Notes:  
+[Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) investigate a murder at the remote monastery  Saint-Gilbert-Entre-les-Loups. This was a good fit for a long car ride...
+
+If you like this series or are considering starting it there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
 
 </details>
 
@@ -2151,6 +2182,20 @@ https://en.wikipedia.org/wiki/The_Torrents_of_Spring
 </details>
 
 
+<details><summary>A Town is Drowning.  By Frederik Pohl and C. M. Kornbluth. 1955 </summary>
+
+### A Town is Drowning. (4:35)  
+Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/  
+eBook: https://www.gutenberg.org/ebooks/66768  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  
+
+Reading Notes: If you like post-WWII / 1950s popular fiction, this seems like a great example.  Pohl and Kornbluth build a number of interesting characters and follow them through the crisis of a terrible flood in rural Pennsylvania.  
+
+Learn more about the story in the [Librivox Summary](https://librivox.org/a-town-is-drowning-by-frederik-pohl/).  
+
+</details>
+
+
 <details><summary>Trick of the Light.  By Louise Penny. 2011 </summary>
 
 ### A Trick of the Light. (9:00)  
@@ -2373,19 +2418,6 @@ Reading Notes:
 </details>
 </details>
 
-<details>
-<summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
-
-### The Beautiful Mystery. (10:00)  
-Audio: https://www.overdrive.com/media/985444/the-beautiful-mystery  
-eBook: https://www.overdrive.com/media/1012531/the-beautiful-mystery  
-By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
-
-Reading Notes:  
-Chief Inspector Armand Gamache and Jean-Guy Beauvoir of the Sûreté du Québec investigate a murder at the remote monastery  Saint-Gilbert-Entre-les-Loups.
-
-</details>
-
 
 Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
@@ -2407,21 +2439,6 @@ Reading Notes: Another post-WWII / post-apocalypse story filled with fairly wood
 
 Librivox Summary:  
 >Pohl takes us into the future in this quirky and funny story, where the population of the United States is less than 10,000 people ... total. Yes you guessed it, there was a war; but the 'clean' bombs killed people and left most everything else intact. Our trio of 'Knights' are not very talented or smart or brave, but they have survived very well and now are taking on New York City to fulfill a quest of Arthur. You see, Arthur has no legs. Or arms. Or body. But he is very opinionated nevertheless. Listen to this fascinating story that is full of humor and human nature as only Pohl can do it. (Summary by [Phil Chenevert](https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/))  
-
-</details>
-
-
-<details>
-<summary>A Town is Drowning.  By Frederik Pohl and C. M. Kornbluth. 1955 </summary>
-
-### A Town is Drowning. (4:35)  
-Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/  
-eBook: https://www.gutenberg.org/ebooks/66768  
-By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [C. M. Kornbluth](https://en.wikipedia.org/wiki/Cyril_M._Kornbluth) (1923 - 1958)  
-
-Reading Notes: If you like post-WWII / 1950s popular fiction, this seems like a great example.  Pohl and Kornbluth build a number of interesting characters and follow them through the crisis of a terrible flood in rural Pennsylvania.  
-
-Learn more about the story in the [Librivox Summary](https://librivox.org/a-town-is-drowning-by-frederik-pohl/).  
 
 </details>
 
