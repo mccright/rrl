@@ -648,10 +648,31 @@ By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  Published 201
 ### The Inner Game of Tennis.  
 https://archive.org/details/innergameoftenni00gall  
 By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1974  
+
+Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us too often struggle with nervousness, self doubt, and fear of failure while participating in activities we hope(d) to love and excel at. This book is about ways to strip away some (*and for some, a lot*) of that unproductive thinking while learning about the type of concentration that can support a new level of excellence. This book uses tennis as a vehicle to explore these processes, but it seems useful to those involved in any sport as well as appreciative spectators.  
+
 [Review placeholder]()  
 >"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
 
 </details>
+
+
+
+<details>
+<summary>The Inner Game of Music. By Barry Green. 1986</summary>
+
+### The Inner Game of Music.  
+Audio: https://www.overdrive.com/media/9056596/the-inner-game-of-music  
+eBook: https://www.overdrive.com/media/2192895/the-inner-game-of-music  
+By [Barry Green](https://innergameofmusic.com/about/about-barry-green/) also [B.G. on Wikipedia](https://en.wikipedia.org/wiki/Barry_Green) and [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  
+
+Reading notes:  
+
+
+NOTE: Also, look at Green's "The Mastery of Music, Ten Pathways to True Artistry." May 2003 "[reveals ten qualities shared by the world’s most successful musicians](https://innergameofmusic.com/books/)," ("*[based (on) interviews with over 120 world famous musicians on topics of courage, passion, creativity, discipline, humility etc. It deals with qualities of greatness from the human spirit that transcend all professions](https://innergameofmusic.com/about/about-barry-green/)*").  
+
+</details>
+
 
 <details>
 <summary>Why Information Grows.  By César Hidalgo  2015</summary>
