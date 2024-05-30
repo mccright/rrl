@@ -2099,6 +2099,19 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
+
+### The Storm before the Storm -- The Beginning of the End of the Roman Republic. (10:00)  
+Audio: https://www.overdrive.com/media/3375678/the-storm-before-the-storm  
+eBook: https://www.overdrive.com/media/3148712/the-storm-before-the-storm  
+By [Mike Duncan](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster))  ( – )  
+
+Reading Notes: Many of us have heard vague lines like "the success of the Republic proved to be its undoing" or "the assassination of [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) in 44 BC began the end of the vast empire Rome."  I can remember nodding in agreement (*without a clear understanding of the context of those assumed truisms*)...  Mike Duncan describes Roman activities in the previous century that add a lot of context and help build out some understanding of the culture and personalities that *led to* that day in the Roman Senate when [Marcus Junius Brutus](https://en.wikipedia.org/wiki/Marcus_Junius_Brutus) (*and others'*) assassinate Julius Caesar.  
+
+Wikipedia Summary: [https://en.wikipedia.org/...The_Storm_Before_the_Storm](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster)#The_Storm_Before_the_Storm)  
+
+</details>
+
 <details><summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
 
 ### The Story of Geographical Discovery: How the World Became Known. (4:51)  
@@ -2417,24 +2430,6 @@ Reading Notes:
 
 </details>
 </details>
-
-
-
-
-<details>
-<summary>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
-
-### The Storm before the Storm -- The Beginning of the End of the Roman Republic. (10:00)  
-Audio: https://www.overdrive.com/media/3375678/the-storm-before-the-storm  
-eBook: https://www.overdrive.com/media/3148712/the-storm-before-the-storm  
-By [Mike Duncan](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster))  ( – )  
-
-Reading Notes: Many of us have heard lines like "the success of the Republic proved to be its undoing" or "the assassination of [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) in 44 BC began the end of the vast empire Rome."  I can remember nodding in agreement (*without a clear understanding of the context of those assumed truisms*)...  Mike Duncan describes Roman activities in the previous century that add a lot of context and help build out some understanding of the culture and personalities that *led to* that day in the Roman Senate when [Marcus Junius Brutus](https://en.wikipedia.org/wiki/Marcus_Junius_Brutus) (*and others'*) assassinate Julius Caesar.  
-
-Wikipedia Summary: [https://en.wikipedia.org/...The_Storm_Before_the_Storm](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster)#The_Storm_Before_the_Storm)  
-
-</details>
-
 
 
 
