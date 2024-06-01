@@ -2440,7 +2440,7 @@ Reading Notes:
   
 By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
 
-Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  
+Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  It is an interesting story.  
 
 [Overdrive Summary](https://www.overdrive.com/media/9703970/ghosts-of-honolulu)  
 [Review by Jim Lee](https://jimleeauthor.wordpress.com/2024/05/01/book-review-ghosts-of-honolulu/)  
