@@ -2433,6 +2433,53 @@ Reading Notes:
 
 
 
+<details>
+<summary>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
+
+### The 6:20 Man -- A Thriller. (10:00)  
+Audio: https://www.overdrive.com/media/7728272/the-620-man  
+eBook: https://www.overdrive.com/media/8732186/the-620-man  
+By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
+
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  
+
+</details>
+ · 
+
+
+
+<details>
+<summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
+
+### Tell Me an Ending.  
+Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending  
+eBook: https://www.overdrive.com/media/8864266/tell-me-an-ending  
+By [Jo Harkin](https://lithub.com/author/joharkin/)  ( – )  
+
+Reading Notes:  
+
+Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-jo-harkin/](https://locusmag.com/2022/06/caren-gussoff-sumption-reviews-tell-me-an-ending-by-jo-harkin/)  
+[https://www.bookreporter.com/reviews/tell-me-an-ending](https://www.bookreporter.com/reviews/tell-me-an-ending)  
+
+[Readers Digest](https://www.readersdigest.co.uk/culture/books/meet-the-author/author-jo-harkin-on-the-reality-of-memory-alteration)  
+
+
+</details>
+
+
+<details>
+<summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+
+### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
+Audio: https://www.overdrive.com/media/82629/longitude  
+eBook: https://www.overdrive.com/media/796/longitude  
+By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
+
+</details>
 
 
 <details>
