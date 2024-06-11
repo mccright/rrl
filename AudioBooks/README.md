@@ -2099,6 +2099,19 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
+
+### The Storm before the Storm -- The Beginning of the End of the Roman Republic. (10:00)  
+Audio: https://www.overdrive.com/media/3375678/the-storm-before-the-storm  
+eBook: https://www.overdrive.com/media/3148712/the-storm-before-the-storm  
+By [Mike Duncan](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster))  ( – )  
+
+Reading Notes: Many of us have heard vague lines like "the success of the Republic proved to be its undoing" or "the assassination of [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar) in 44 BC began the end of the vast empire Rome."  I can remember nodding in agreement (*without a clear understanding of the context of those assumed truisms*)...  Mike Duncan describes Roman activities in the previous century that add a lot of context and help build out some understanding of the culture and personalities that *led to* that day in the Roman Senate when [Marcus Junius Brutus](https://en.wikipedia.org/wiki/Marcus_Junius_Brutus) (*and others'*) assassinate Julius Caesar.  
+
+Wikipedia Summary: [https://en.wikipedia.org/...The_Storm_Before_the_Storm](https://en.wikipedia.org/wiki/Mike_Duncan_(podcaster)#The_Storm_Before_the_Storm)  
+
+</details>
+
 <details><summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
 
 ### The Story of Geographical Discovery: How the World Became Known. (4:51)  
@@ -2416,6 +2429,72 @@ Reading Notes:
 3rd Party Summaries:  
 
 </details>
+</details>
+
+
+
+<details>
+<summary>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
+
+### The 6:20 Man -- A Thriller. (10:00)  
+Audio: https://www.overdrive.com/media/7728272/the-620-man  
+eBook: https://www.overdrive.com/media/8732186/the-620-man  
+By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
+
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  
+
+</details>
+ · 
+
+
+
+<details>
+<summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
+
+### Tell Me an Ending.  
+Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending  
+eBook: https://www.overdrive.com/media/8864266/tell-me-an-ending  
+By [Jo Harkin](https://lithub.com/author/joharkin/)  ( – )  
+
+Reading Notes:  
+
+Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-jo-harkin/](https://locusmag.com/2022/06/caren-gussoff-sumption-reviews-tell-me-an-ending-by-jo-harkin/)  
+[https://www.bookreporter.com/reviews/tell-me-an-ending](https://www.bookreporter.com/reviews/tell-me-an-ending)  
+
+[Readers Digest](https://www.readersdigest.co.uk/culture/books/meet-the-author/author-jo-harkin-on-the-reality-of-memory-alteration)  
+
+
+</details>
+
+
+<details>
+<summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+
+### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
+Audio: https://www.overdrive.com/media/82629/longitude  
+eBook: https://www.overdrive.com/media/796/longitude  
+By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
+
+</details>
+
+
+<details>
+<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+
+### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
+  
+By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
+
+Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  It is an interesting story.  
+
+[Overdrive Summary](https://www.overdrive.com/media/9703970/ghosts-of-honolulu)  
+[Review by Jim Lee](https://jimleeauthor.wordpress.com/2024/05/01/book-review-ghosts-of-honolulu/)  
+[Review by Brendan Dowd](https://historynerdsunited.com/2023/12/ghosts-of-honolulu-by-mark-harmon-and-leon-carroll-jr-book-review/)  
+
 </details>
 
 

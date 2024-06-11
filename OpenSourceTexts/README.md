@@ -262,8 +262,33 @@ Reading Notes:
 </details>
 
 
-The Radio Amateur's Hand Book by A. Frederick Collins.  1922  
-https://www.gutenberg.org/ebooks/6934  
+ 
+<details>
+<summary>Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact. By Victor Rubin. (1892- ) 1923</summary>
+
+### Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact.  
+eBook: https://www.gutenberg.org/ebooks/73731  
+By [Victor Rubin]()  (1892 - )  
+
+Reading Notes:  
+
+
+</details>
+
+  
+
+<details>
+<summary>The Radio Amateur's Hand Book by A. Frederick Collins. </summary>
+
+### The Radio Amateur's Hand Book.  
+eBook: https://www.gutenberg.org/ebooks/6934  
+By [A. Frederick Collins]()  ( – )  
+
+Reading Notes:  
+
+
+</details>
+
 
 <details>
 <summary>Look at these three books by Paul Myron Anthony Linebarger: </summary>

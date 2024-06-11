@@ -589,7 +589,7 @@ This guide serves those who ask themselves, "What's wrong with our culture?" Alo
 
 
 <details>
-<summary>By Hands Now Known - . By Margaret Burnham  2022</summary>
+<summary>By Hands Now Known - Jim Crow's Legal Executioners. By Margaret Burnham  2022</summary>
 
 ### : Jim Crow's Legal Executioners  
 Ebook: https://www.overdrive.com/media/8821955/by-hands-now-known  
@@ -651,7 +651,7 @@ By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1
 
 Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us too often struggle with nervousness, self doubt, and fear of failure while participating in activities we hope(d) to love and excel at. This book is about ways to strip away some (*and for some, a lot*) of that unproductive thinking while learning about the type of concentration that can support a new level of excellence. This book uses tennis as a vehicle to explore these processes, but it seems useful to those involved in any sport as well as appreciative spectators.  
 
-[Review placeholder]()  
+[Review on Gates Notes](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis):  
 >"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
 
 </details>
