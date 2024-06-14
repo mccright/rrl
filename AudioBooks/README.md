@@ -1025,6 +1025,22 @@ Librivox Summary:
 
 
 <details>
+<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+
+### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
+  
+By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
+
+Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  It is an interesting story.  
+
+[Overdrive Summary](https://www.overdrive.com/media/9703970/ghosts-of-honolulu)  
+[Review by Jim Lee](https://jimleeauthor.wordpress.com/2024/05/01/book-review-ghosts-of-honolulu/)  
+[Review by Brendan Dowd](https://historynerdsunited.com/2023/12/ghosts-of-honolulu-by-mark-harmon-and-leon-carroll-jr-book-review/)  
+
+</details>
+
+
+<details>
 <summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
 
 ### The Giver of Stars. (13:52)  
@@ -2441,11 +2457,9 @@ Audio: https://www.overdrive.com/media/7728272/the-620-man
 eBook: https://www.overdrive.com/media/8732186/the-620-man  
 By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
 
-Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
 
 </details>
- · 
-
 
 
 <details>
@@ -2456,7 +2470,7 @@ Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending
 eBook: https://www.overdrive.com/media/8864266/tell-me-an-ending  
 By [Jo Harkin](https://lithub.com/author/joharkin/)  ( – )  
 
-Reading Notes:  
+Reading Notes: A good listen. A business creates a way to "*delete*" specific memories. What could go wrong? Harkin's story explores a number of ways...  See one of the reviews below.  
 
 Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-jo-harkin/](https://locusmag.com/2022/06/caren-gussoff-sumption-reviews-tell-me-an-ending-by-jo-harkin/)  
 [https://www.bookreporter.com/reviews/tell-me-an-ending](https://www.bookreporter.com/reviews/tell-me-an-ending)  
@@ -2475,7 +2489,7 @@ Audio: https://www.overdrive.com/media/82629/longitude
 eBook: https://www.overdrive.com/media/796/longitude  
 By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )  
 
-Reading Notes:  
+Reading Notes: The title says is all.  If you want to understand more about   
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
 
@@ -2483,22 +2497,50 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)
 
 
 <details>
-<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+<summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
 
-### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
+### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
+Audio: https://www.overdrive.com/media/3081680/raven-rock  
+eBook: https://www.overdrive.com/media/2260620/raven-rock  
+
+By [Garrett M. Graff](https://en.wikipedia.org/wiki/Garrett_Graff)  (1981 – )  
+
+Reading Notes: Somebody, somewhere in government will remain available to *fight* the next *war*. So says the U.S. CoG (Continuity of Government) program. [Raven Rock Mountain Complex](https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex) also known as "Site R," and has been called an "underground Pentagon," is a foundational *character* in Graff's exploration of this topic from the 1940s through 2015.  This should be required reading for all U.S. citizens.  
   
-By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
-
-Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  It is an interesting story.  
-
-[Overdrive Summary](https://www.overdrive.com/media/9703970/ghosts-of-honolulu)  
-[Review by Jim Lee](https://jimleeauthor.wordpress.com/2024/05/01/book-review-ghosts-of-honolulu/)  
-[Review by Brendan Dowd](https://historynerdsunited.com/2023/12/ghosts-of-honolulu-by-mark-harmon-and-leon-carroll-jr-book-review/)  
+[https://openlibrary.org/works/OL20058439W/Raven_Rock](https://openlibrary.org/works/OL20058439W/Raven_Rock)  
 
 </details>
 
 
-Look at:  
+
+
+
+<details>
+<summary>His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. By S. C. Gwynne. 2023 </summary>
+
+### His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. (9:05)  
+Audio: https://www.overdrive.com/media/9296055/his-majestys-airship  
+eBook: https://www.overdrive.com/media/9311313/his-majestys-airship  
+By [S. C. Gwynne (Samuel C. Gwynne III)](https://en.wikipedia.org/wiki/S._C._Gwynne)  ( – )  
+
+Reading Notes: Using the story of British airship R101, Gwynne outlines the history of 20th century lighter-than-air airships. It is an interesting story well told.  
+
+</details>
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+  
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+Also Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
