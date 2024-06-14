@@ -268,9 +268,13 @@ Reading Notes:
 
 ### Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact.  
 eBook: https://www.gutenberg.org/ebooks/73731  
-By [Victor Rubin]()  (1892 - )  
+By [Victor Rubin]()  (1892 - 1967) ([photo](https://content.mpl.org/digital/collection/WWI/id/9306) and [photo](https://www.omnia.ie/index.php?navigation_function=2&navigation_item=6cfa8273e47f0a956df007a323d6b3d0&repid=2))  
 
 Reading Notes:  
+
+See: https://academic.oup.com/chicago-scholarship-online/book/21466/chapter-abstract/181251787?redirectedFrom=fulltext  
+     and  
+     https://academic.oup.com/chicago-scholarship-online/book/21466  
 
 
 </details>
