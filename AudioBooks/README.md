@@ -1519,6 +1519,21 @@ Reading Notes: An eight minute read aimed at the very young.  The story warrants
 </details>
 
 
+<details>
+<summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+
+### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
+Audio: https://www.overdrive.com/media/82629/longitude  
+eBook: https://www.overdrive.com/media/796/longitude  
+By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )  
+
+Reading Notes: The title says is all.  It is a great story and provides some context for a range of 14th through 19th century historical events.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
+
+</details>
+
+
 <details><summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
 
 ### Lorelei of the Red Mist.  (2:51)  
@@ -2482,21 +2497,6 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 
 
 <details>
-<summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
-
-### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
-Audio: https://www.overdrive.com/media/82629/longitude  
-eBook: https://www.overdrive.com/media/796/longitude  
-By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )  
-
-Reading Notes: The title says is all.  If you want to understand more about   
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
-
-</details>
-
-
-<details>
 <summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
 
 ### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
@@ -2523,19 +2523,26 @@ Audio: https://www.overdrive.com/media/9296055/his-majestys-airship
 eBook: https://www.overdrive.com/media/9311313/his-majestys-airship  
 By [S. C. Gwynne (Samuel C. Gwynne III)](https://en.wikipedia.org/wiki/S._C._Gwynne)  ( – )  
 
-Reading Notes: Using the story of British airship R101, Gwynne outlines the history of 20th century lighter-than-air airships. It is an interesting story well told.  
+Reading Notes: Using the story of British airship R101, Gwynne outlines the history of 20th century lighter-than-air [airships](https://en.wikipedia.org/wiki/Airship) (dirigibles). It is an interesting story well told.  
+
+Review by [John Lancaster](https://www.nytimes.com/2022/11/15/books/review/the-great-air-race-john-lancaster.html): [https://www.nytimes.com/.../his-majestys-airship...](https://www.nytimes.com/2023/05/01/books/review/his-majestys-airship-s-c-gwynne.html)  
+ 
+Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/about-me/): [https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/](https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/)  
+
 
 </details>
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary>
+The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
+ </summary>
 
-### Empty_Template  
+### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
   
-By []()  ( – )  
+By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
 
-Reading Notes:  
+Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
 
 </details>
 
