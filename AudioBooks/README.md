@@ -1519,8 +1519,7 @@ Reading Notes: An eight minute read aimed at the very young.  The story warrants
 </details>
 
 
-<details>
-<summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+<details><summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
 
 ### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
 Audio: https://www.overdrive.com/media/82629/longitude  
@@ -2510,9 +2509,6 @@ Reading Notes: Somebody, somewhere in government will remain available to *fight
 [https://openlibrary.org/works/OL20058439W/Raven_Rock](https://openlibrary.org/works/OL20058439W/Raven_Rock)  
 
 </details>
-
-
-
 
 
 <details>
