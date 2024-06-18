@@ -1025,6 +1025,22 @@ Librivox Summary:
 
 
 <details>
+<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+
+### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
+  
+By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
+
+Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  It is an interesting story.  
+
+[Overdrive Summary](https://www.overdrive.com/media/9703970/ghosts-of-honolulu)  
+[Review by Jim Lee](https://jimleeauthor.wordpress.com/2024/05/01/book-review-ghosts-of-honolulu/)  
+[Review by Brendan Dowd](https://historynerdsunited.com/2023/12/ghosts-of-honolulu-by-mark-harmon-and-leon-carroll-jr-book-review/)  
+
+</details>
+
+
+<details>
 <summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
 
 ### The Giver of Stars. (13:52)  
@@ -1499,6 +1515,20 @@ By [Derick Wilder](https://www.derickwilder.com/about1.html)  ( – )
 Reading Notes: An eight minute read aimed at the very young.  The story warrants careful review before using with your toddler ● as it might raise more challenging questions than it addresses.  
 
 [From the author](https://www.derickwilder.com/books.html): "This circle-of-life tale, illustrated by the amazing Catia Chien, is a testament to the enduring bond between people and their pets. It’s told from the perspective of an aging dog who knows he’s on his last letsgoboy, or walk in the woods, with his little girl. But before leaving he wants to bid farewell to his friends and make sure she will be taken care of."  
+
+</details>
+
+
+<details><summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+
+### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
+Audio: https://www.overdrive.com/media/82629/longitude  
+eBook: https://www.overdrive.com/media/796/longitude  
+By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )  
+
+Reading Notes: The title says is all.  It is a great story and provides some context for a range of 14th through 19th century historical events.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
 
 </details>
 
@@ -2441,11 +2471,9 @@ Audio: https://www.overdrive.com/media/7728272/the-620-man
 eBook: https://www.overdrive.com/media/8732186/the-620-man  
 By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
 
-Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
 
 </details>
- · 
-
 
 
 <details>
@@ -2456,7 +2484,7 @@ Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending
 eBook: https://www.overdrive.com/media/8864266/tell-me-an-ending  
 By [Jo Harkin](https://lithub.com/author/joharkin/)  ( – )  
 
-Reading Notes:  
+Reading Notes: A good listen. A business creates a way to "*delete*" specific memories. What could go wrong? Harkin's story explores a number of ways...  See one of the reviews below.  
 
 Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-jo-harkin/](https://locusmag.com/2022/06/caren-gussoff-sumption-reviews-tell-me-an-ending-by-jo-harkin/)  
 [https://www.bookreporter.com/reviews/tell-me-an-ending](https://www.bookreporter.com/reviews/tell-me-an-ending)  
@@ -2468,37 +2496,101 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 
 
 <details>
-<summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+<summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
 
-### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
-Audio: https://www.overdrive.com/media/82629/longitude  
-eBook: https://www.overdrive.com/media/796/longitude  
-By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )  
+### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
+Audio: https://www.overdrive.com/media/3081680/raven-rock  
+eBook: https://www.overdrive.com/media/2260620/raven-rock  
 
-Reading Notes:  
+By [Garrett M. Graff](https://en.wikipedia.org/wiki/Garrett_Graff)  (1981 – )  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
+Reading Notes: Somebody, somewhere in government will remain available to *fight* the next *war*. So says the U.S. CoG (Continuity of Government) program. [Raven Rock Mountain Complex](https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex) also known as "Site R," and has been called an "underground Pentagon," is a foundational *character* in Graff's exploration of this topic from the 1940s through 2015.  This should be required reading for all U.S. citizens.  
+  
+[https://openlibrary.org/works/OL20058439W/Raven_Rock](https://openlibrary.org/works/OL20058439W/Raven_Rock)  
 
 </details>
 
 
 <details>
-<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+<summary>His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. By S. C. Gwynne. 2023 </summary>
 
-### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
-  
-By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
+### His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. (9:05)  
+Audio: https://www.overdrive.com/media/9296055/his-majestys-airship  
+eBook: https://www.overdrive.com/media/9311313/his-majestys-airship  
+By [S. C. Gwynne (Samuel C. Gwynne III)](https://en.wikipedia.org/wiki/S._C._Gwynne)  ( – )  
 
-Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  It is an interesting story.  
+Reading Notes: Using the story of British airship R101, Gwynne outlines the history of 20th century lighter-than-air [airships](https://en.wikipedia.org/wiki/Airship) (dirigibles). It is an interesting story well told.  
 
-[Overdrive Summary](https://www.overdrive.com/media/9703970/ghosts-of-honolulu)  
-[Review by Jim Lee](https://jimleeauthor.wordpress.com/2024/05/01/book-review-ghosts-of-honolulu/)  
-[Review by Brendan Dowd](https://historynerdsunited.com/2023/12/ghosts-of-honolulu-by-mark-harmon-and-leon-carroll-jr-book-review/)  
+Review by [John Lancaster](https://www.nytimes.com/2022/11/15/books/review/the-great-air-race-john-lancaster.html): [https://www.nytimes.com/.../his-majestys-airship...](https://www.nytimes.com/2023/05/01/books/review/his-majestys-airship-s-c-gwynne.html)  
+ 
+Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/about-me/): [https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/](https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/)  
+
 
 </details>
 
 
-Look at:  
+
+
+<details>
+<summary>Secret History of Vladimir Nabokov. By Andrea Pitzer. 2013 </summary>
+
+### Secret History of Vladimir Nabokov.  (15:00)  
+Audio: https://www.overdrive.com/media/1372713/the-secret-history-of-vladimir-nabokov  
+eBook: https://www.overdrive.com/media/1231863/secret-history-of-vladimir-nabokov  
+By [By Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Her website](https://andreapitzer.com/bio/)  (1968 – )  
+
+Reading Notes: A biography of [Vladimir Vladimirovich Nabokov](https://en.wikipedia.org/wiki/Vladimir_Nabokov) (1899 - 1977) by an analysis of his writing as it had addressed Russian & Soviet inhumanity to its citizens.  
+
+[https://andreapitzer.com/nabokov/](https://andreapitzer.com/nabokov/)  
+
+</details>
+
+
+<details>
+<summary>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
+
+### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
+Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
+eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin  
+Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
+
+Reading Notes:  
+
+
+</details>
+
+
+<details>
+<summary>The Bomber Mafia -- A Dream, a Temptation, and the Longest Night of the Second World War. By Malcolm Gladwell. 2021 </summary>
+
+### The Bomber Mafia -- A Story Set in War. (5:00)  
+Audio: https://www.overdrive.com/media/6256542/the-bomber-mafia  
+eBook: https://www.overdrive.com/media/6170312/the-bomber-mafia  
+By [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell)  (1963 – )  
+
+Reading Notes:  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/The_Bomber_Mafia](https://en.wikipedia.org/wiki/The_Bomber_Mafia)  
+
+</details>
+
+
+<details>
+<summary>
+The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
+ </summary>
+
+### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
+  
+By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
+
+Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
+
+</details>
+
+
+Also Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
