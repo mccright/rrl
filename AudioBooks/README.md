@@ -1519,8 +1519,7 @@ Reading Notes: An eight minute read aimed at the very young.  The story warrants
 </details>
 
 
-<details>
-<summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+<details><summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
 
 ### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
 Audio: https://www.overdrive.com/media/82629/longitude  
@@ -2512,9 +2511,6 @@ Reading Notes: Somebody, somewhere in government will remain available to *fight
 </details>
 
 
-
-
-
 <details>
 <summary>His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. By S. C. Gwynne. 2023 </summary>
 
@@ -2529,6 +2525,53 @@ Review by [John Lancaster](https://www.nytimes.com/2022/11/15/books/review/the-g
  
 Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/about-me/): [https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/](https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/)  
 
+
+</details>
+
+
+
+
+<details>
+<summary>Secret History of Vladimir Nabokov. By Andrea Pitzer. 2013 </summary>
+
+### Secret History of Vladimir Nabokov.  (15:00)  
+Audio: https://www.overdrive.com/media/1372713/the-secret-history-of-vladimir-nabokov  
+eBook: https://www.overdrive.com/media/1231863/secret-history-of-vladimir-nabokov  
+By [By Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Her website](https://andreapitzer.com/bio/)  (1968 – )  
+
+Reading Notes: A biography of [Vladimir Vladimirovich Nabokov](https://en.wikipedia.org/wiki/Vladimir_Nabokov) (1899 - 1977) by an analysis of his writing as it had addressed Russian & Soviet inhumanity to its citizens.  
+
+[https://andreapitzer.com/nabokov/](https://andreapitzer.com/nabokov/)  
+
+</details>
+
+
+<details>
+<summary>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
+
+### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
+Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
+eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin  
+Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
+
+Reading Notes:  
+
+
+</details>
+
+
+<details>
+<summary>The Bomber Mafia -- A Dream, a Temptation, and the Longest Night of the Second World War. By Malcolm Gladwell. 2021 </summary>
+
+### The Bomber Mafia -- A Story Set in War. (5:00)  
+Audio: https://www.overdrive.com/media/6256542/the-bomber-mafia  
+eBook: https://www.overdrive.com/media/6170312/the-bomber-mafia  
+By [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell)  (1963 – )  
+
+Reading Notes:  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/The_Bomber_Mafia](https://en.wikipedia.org/wiki/The_Bomber_Mafia)  
 
 </details>
 
