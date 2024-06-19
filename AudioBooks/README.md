@@ -2209,6 +2209,24 @@ Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/heather-morris/the-ta
 
 
 <details>
+<summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
+
+### Tell Me an Ending.  
+Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending  
+eBook: https://www.overdrive.com/media/8864266/tell-me-an-ending  
+By [Jo Harkin](https://lithub.com/author/joharkin/)  ( – )  
+
+Reading Notes: A good listen. A business creates a way to "*delete*" specific memories. What could go wrong? Harkin's story explores a number of ways...  See one of the reviews below.  
+
+Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-jo-harkin/](https://locusmag.com/2022/06/caren-gussoff-sumption-reviews-tell-me-an-ending-by-jo-harkin/)  
+[https://www.bookreporter.com/reviews/tell-me-an-ending](https://www.bookreporter.com/reviews/tell-me-an-ending)  
+
+[Readers Digest](https://www.readersdigest.co.uk/culture/books/meet-the-author/author-jo-harkin-on-the-reality-of-memory-alteration)  
+
+</details>
+
+
+<details>
 <summary>The Terraformers. By Annalee Newitz. 2023</summary>
 
 ### The Terraformers. (13:18)  
@@ -2499,25 +2517,6 @@ eBook: https://www.overdrive.com/media/8732186/the-620-man
 By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
 
 Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
-
-</details>
-
-
-<details>
-<summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
-
-### Tell Me an Ending.  
-Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending  
-eBook: https://www.overdrive.com/media/8864266/tell-me-an-ending  
-By [Jo Harkin](https://lithub.com/author/joharkin/)  ( – )  
-
-Reading Notes: A good listen. A business creates a way to "*delete*" specific memories. What could go wrong? Harkin's story explores a number of ways...  See one of the reviews below.  
-
-Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-jo-harkin/](https://locusmag.com/2022/06/caren-gussoff-sumption-reviews-tell-me-an-ending-by-jo-harkin/)  
-[https://www.bookreporter.com/reviews/tell-me-an-ending](https://www.bookreporter.com/reviews/tell-me-an-ending)  
-
-[Readers Digest](https://www.readersdigest.co.uk/culture/books/meet-the-author/author-jo-harkin-on-the-reality-of-memory-alteration)  
-
 
 </details>
 
