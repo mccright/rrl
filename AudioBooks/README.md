@@ -1365,6 +1365,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun
 </details>
 
 
+<details><summary>The Knights of Arthur. By Frederik Pohl. 1958 </summary>
+
+### The Knights of Arthur (1:44)  
+Audio: https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/  
+eBook: https://www.gutenberg.org/ebooks/32004  
+By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013)  
+
+Reading Notes: Another post-WWII / post-apocalypse story filled with fairly wooden characters and dialog... The pacing and economy of Pohl's writing may place this short story above some other writing in this category, but you may need to be involved in a study of this period to find joy in reading/listening to "Knights of Arthur."    
+
+Librivox Summary:  
+>Pohl takes us into the future in this quirky and funny story, where the population of the United States is less than 10,000 people ... total. Yes you guessed it, there was a war; but the 'clean' bombs killed people and left most everything else intact. Our trio of 'Knights' are not very talented or smart or brave, but they have survived very well and now are taking on New York City to fulfill a quest of Arthur. You see, Arthur has no legs. Or arms. Or body. But he is very opinionated nevertheless. Listen to this fascinating story that is full of humor and human nature as only Pohl can do it. (Summary by [Phil Chenevert](https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/))  
+
+</details>
+
+
 <details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
 
 ### The Last Evolution.  (53:00)  
@@ -2449,16 +2464,28 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 <summary>Empty_Template </summary>
 
 ### Empty_Template  
-  
+Audio:  
+eBook:  
 By []()  ( – )  
-<details>
-<summary>Reading Notes and 3rd Party Summaries</summary>
 
 Reading Notes:  
 
-3rd Party Summaries:  
-
 </details>
+
+
+
+<details>
+<summary>Harrow -- A novel. By Joy Williams. 2021 </summary>
+
+### Harrow -- A novel. (7:00)  
+Audio: https://www.overdrive.com/media/5978287/harrow  
+eBook: https://www.overdrive.com/media/5979335/harrow  
+By [Joy Williams](https://en.wikipedia.org/wiki/Joy_Williams_(American_writer))  (1944 – )  
+
+Reading Notes: "...after an environmental apocalypse, a world in which only the man-made has value..."  
+
+Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)  
+
 </details>
 
 
@@ -2555,8 +2582,7 @@ eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin
 Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
 
-Reading Notes:  
-
+Reading Notes: Improbable all around.  You need to be in the mood for an action story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
 
 </details>
 
@@ -2590,28 +2616,100 @@ Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipe
 </details>
 
 
+<details>
+<summary>All Systems Red -- The Murderbot Diaries. By Martha Wells. 2017 </summary>
+
+### All Systems Red -- The Murderbot Diaries.   
+Audio: https://www.overdrive.com/media/3783062/all-systems-red  
+eBook: https://www.overdrive.com/media/3845098/all-systems-red  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
+[OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
+>The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn't a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid - a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.  
+
+</details>
+
+
+<details>
+<summary>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
+
+### On Writing -- A Memoir Of The Craft.  
+Audio: https://www.overdrive.com/media/143949/on-writing  
+eBook: https://www.overdrive.com/media/13779/on-writing  
+By [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)  (1947 – )  
+
+Reading Notes:  
+
+</details>
+
+
+
+
+<details>
+<summary>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
+
+### Making of the Atomic Bomb.  
+Audio: https://www.overdrive.com/media/657572/making-of-the-atomic-bomb  
+eBook: https://www.overdrive.com/media/1067137/making-of-the-atomic-bomb  
+By [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)  (1937 – )  
+886 pages (hardcover)  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Making_of_the_Atomic_Bomb  
+OverDrive Summary:  
+>The definitive history of nuclear weapons—from the turn-of-the-century discovery of nuclear energy to J. Robert Oppenheimer and the Manhattan Project—this epic work details the science, the people, and the sociopolitical realities that led to the development of the atomic bomb...  
+
+</details>
+
+
+<details>
+<summary>Arsenals of Folly -- The Making of the Nuclear Arms Race. By Richard Rhodes. 2007 </summary>
+
+### Arsenals of Folly.  
+Audio: https://www.overdrive.com/media/138702/arsenals-of-folly  
+eBook: https://www.overdrive.com/media/148008/arsenals-of-folly  
+By [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)  (1937 – )  
+886 pages (hardcover)  
+
+Reading Notes:  
+
+Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://www.c-span.org/video/?202128-1/arsenals-folly)  
+OverDrive Summary:  
+>In a narrative that moves like a thriller, Rhodes sheds light on the Reagan administration’s unprecedented arms buildup in the early 1980s, as well as the arms-reduction campaign that followed, and Reagan’s famous 1986 summit meeting with Gorbachev. Rhodes’s detailed exploration of events of this time constitutes a prehistory of the neoconservatives, demonstrating that the manipulation of government and public opinion with fake intelligence and threat inflation that the administration of George W. Bush has used to justify the current “war on terror” and the disastrous invasion of Iraq were developed and applied in the Reagan era and even before.  Drawing on personal interviews with both Soviet and U.S. participants, and on a wealth of new documentation, memoir literature, and oral history that has become available only in the past ten years, Rhodes recounts what actually happened in the final years of the Cold War that led to its dramatic end. The story is new, compelling, and continually surprising–a revelatory re-creation of a hugely important era of our recent history.  
+
+</details>
+
+
+
+
+
+<details>
+<summary>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
+
+### Light Years From Home -- A Novel.  
+Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
+eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
+By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
+
+Reading Notes:  
+
+Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
+
+
+</details>
+
+
+
 Also Look at:  
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
 
-
-
-<details>
-<summary>The Knights of Arthur. By Frederik Pohl. 1958 </summary>
-
-### The Knights of Arthur (1:44)  
-Audio: https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/  
-eBook: https://www.gutenberg.org/ebooks/32004  
-By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013)  
-
-Reading Notes: Another post-WWII / post-apocalypse story filled with fairly wooden characters and dialog... The pacing and economy of Pohl's writing may place this short story above some other writing in this category, but you may need to be involved in a study of this period to find joy in reading/listening to "Knights of Arthur."    
-
-Librivox Summary:  
->Pohl takes us into the future in this quirky and funny story, where the population of the United States is less than 10,000 people ... total. Yes you guessed it, there was a war; but the 'clean' bombs killed people and left most everything else intact. Our trio of 'Knights' are not very talented or smart or brave, but they have survived very well and now are taking on New York City to fulfill a quest of Arthur. You see, Arthur has no legs. Or arms. Or body. But he is very opinionated nevertheless. Listen to this fascinating story that is full of humor and human nature as only Pohl can do it. (Summary by [Phil Chenevert](https://librivox.org/the-knights-of-arthur-by-frederik-pohl-2/))  
-
-</details>
 
 
 <details>
