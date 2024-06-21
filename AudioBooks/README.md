@@ -2473,6 +2473,19 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 </details>
 
 
+<details><summary>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
+
+### The 6:20 Man -- A Thriller. (10:00)  
+Audio: https://www.overdrive.com/media/7728272/the-620-man  
+eBook: https://www.overdrive.com/media/8732186/the-620-man  
+By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
+
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
+
+</details>
+
+
+
 -----
 
 ## Pending or Currently Underway:  
@@ -2507,18 +2520,6 @@ Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)
 </details>
 
 
-
-<details>
-<summary>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
-
-### The 6:20 Man -- A Thriller. (10:00)  
-Audio: https://www.overdrive.com/media/7728272/the-620-man  
-eBook: https://www.overdrive.com/media/8732186/the-620-man  
-By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
-
-Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
-
-</details>
 
 
 <details>
