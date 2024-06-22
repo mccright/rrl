@@ -436,8 +436,7 @@ Author's Summary: http://anitaamirrezvani.com/bloodofflowers.html
 </details>
 
 
-<details>
-<summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
+<details><summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
 
 ### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
 https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
@@ -445,6 +444,20 @@ By [various]()
 
 Librivox Summary:  
 >These two publications put out by the U.S. government are about the [Trinity site](https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm) in New Mexico where in 1945 the [first atomic bomb was tested](https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/). Each publication (about 1984 and about 1995) complements the other, though there is some duplication. These are descriptions of the test itself and of the planning and organization leading up to the test. They also tell what was done with the site after the test and how it became a national historic landmark. - ([Summary by David Wales](https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/))  
+
+</details>
+
+
+<details><summary>The Bomber Mafia -- A Dream, a Temptation, and the Longest Night of the Second World War. By Malcolm Gladwell. 2021 </summary>
+
+### The Bomber Mafia -- A Story Set in War. (5:14)  
+Audio: https://www.overdrive.com/media/6256542/the-bomber-mafia  
+eBook: https://www.overdrive.com/media/6170312/the-bomber-mafia  
+By [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell)  (1963 – )  
+
+Reading Notes: This is an excellent AUDIO book by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) and  [Pushkin Industries](https://en.wikipedia.org/wiki/Pushkin_Industries).  Gladwell created it as an audio experience first, only then building a written book. It incorporates lots of recorded, first person voices of major characters in his story about the invention of modern high-altitude precision bombing, sound effects and music.  He explores the birth of this idea in the 1930s as a response to the immoral slaughter of millions in WWI.  Technology and culture got in the way of its implementation in WWII, but it has become a "normal" part of war-fighting more recently.  The author argues that its existance forces a range of moral and ethical questions onto decision-makers.  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/The_Bomber_Mafia](https://en.wikipedia.org/wiki/The_Bomber_Mafia)  
 
 </details>
 
@@ -2583,21 +2596,6 @@ Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-ass
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
 
 Reading Notes: Improbable all around.  You need to be in the mood for an action story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
-
-</details>
-
-
-<details>
-<summary>The Bomber Mafia -- A Dream, a Temptation, and the Longest Night of the Second World War. By Malcolm Gladwell. 2021 </summary>
-
-### The Bomber Mafia -- A Story Set in War. (5:00)  
-Audio: https://www.overdrive.com/media/6256542/the-bomber-mafia  
-eBook: https://www.overdrive.com/media/6170312/the-bomber-mafia  
-By [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell)  (1963 – )  
-
-Reading Notes:  
-
-Wikipedia summary: [https://en.wikipedia.org/wiki/The_Bomber_Mafia](https://en.wikipedia.org/wiki/The_Bomber_Mafia)  
 
 </details>
 
