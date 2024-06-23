@@ -1975,6 +1975,21 @@ Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [http
 </details>
 
 
+<details><summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
+
+### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
+Audio: https://www.overdrive.com/media/3081680/raven-rock  
+eBook: https://www.overdrive.com/media/2260620/raven-rock  
+
+By [Garrett M. Graff](https://en.wikipedia.org/wiki/Garrett_Graff)  (1981 – )  
+
+Reading Notes: Somebody, somewhere in government will remain available to *fight* the next *war*. So says the U.S. CoG (Continuity of Government) program. [Raven Rock Mountain Complex](https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex) also known as "Site R," and has been called an "underground Pentagon," is a foundational *character* in Graff's exploration of this topic from the 1940s through 2015.  This should be required reading for all U.S. citizens.  
+  
+[https://openlibrary.org/works/OL20058439W/Raven_Rock](https://openlibrary.org/works/OL20058439W/Raven_Rock)  
+
+</details>
+
+
 <details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
@@ -2533,22 +2548,6 @@ Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)
 </details>
 
 
-
-
-<details>
-<summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
-
-### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
-Audio: https://www.overdrive.com/media/3081680/raven-rock  
-eBook: https://www.overdrive.com/media/2260620/raven-rock  
-
-By [Garrett M. Graff](https://en.wikipedia.org/wiki/Garrett_Graff)  (1981 – )  
-
-Reading Notes: Somebody, somewhere in government will remain available to *fight* the next *war*. So says the U.S. CoG (Continuity of Government) program. [Raven Rock Mountain Complex](https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex) also known as "Site R," and has been called an "underground Pentagon," is a foundational *character* in Graff's exploration of this topic from the 1940s through 2015.  This should be required reading for all U.S. citizens.  
-  
-[https://openlibrary.org/works/OL20058439W/Raven_Rock](https://openlibrary.org/works/OL20058439W/Raven_Rock)  
-
-</details>
 
 
 <details>
