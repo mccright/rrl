@@ -2541,7 +2541,7 @@ Audio: https://www.overdrive.com/media/5978287/harrow
 eBook: https://www.overdrive.com/media/5979335/harrow  
 By [Joy Williams](https://en.wikipedia.org/wiki/Joy_Williams_(American_writer))  (1944 – )  
 
-Reading Notes: "...after an environmental apocalypse, a world in which only the man-made has value..."  
+Reading Notes: "...after an environmental apocalypse, a world in which only the man-made has value..." I don't know what to think about this book.  For me, it is an odd, wandering exploration of absurd situations that might occur as the environment and society collapse around us.  
 
 Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)  
 
