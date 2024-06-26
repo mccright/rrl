@@ -1153,6 +1153,20 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 </details>
 
 
+<details><summary>Harrow -- A novel. By Joy Williams. 2021 </summary>
+
+### Harrow -- A novel. (7:00)  
+Audio: https://www.overdrive.com/media/5978287/harrow  
+eBook: https://www.overdrive.com/media/5979335/harrow  
+By [Joy Williams](https://en.wikipedia.org/wiki/Joy_Williams_(American_writer))  (1944 – )  
+
+Reading Notes: "...after an environmental apocalypse, a world in which only the man-made has value..." I don't know what to think about this book.  For me, it is an odd, wandering exploration of absurd situations that might occur as the environment and society collapse around us.  
+
+Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)  
+
+</details>
+
+
 <details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
 
 ### The Harvester (16:48)  
@@ -2531,21 +2545,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary>Harrow -- A novel. By Joy Williams. 2021 </summary>
-
-### Harrow -- A novel. (7:00)  
-Audio: https://www.overdrive.com/media/5978287/harrow  
-eBook: https://www.overdrive.com/media/5979335/harrow  
-By [Joy Williams](https://en.wikipedia.org/wiki/Joy_Williams_(American_writer))  (1944 – )  
-
-Reading Notes: "...after an environmental apocalypse, a world in which only the man-made has value..." I don't know what to think about this book.  For me, it is an odd, wandering exploration of absurd situations that might occur as the environment and society collapse around us.  
-
-Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)  
-
-</details>
 
 
 
