@@ -2615,12 +2615,12 @@ Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipe
 <details>
 <summary>All Systems Red -- The Murderbot Diaries. By Martha Wells. 2017 </summary>
 
-### All Systems Red -- The Murderbot Diaries.   
+### All Systems Red -- The Murderbot Diaries.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
 eBook: https://www.overdrive.com/media/3845098/all-systems-red  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
 
-Reading Notes:  
+Reading Notes: This story is expertly told from the perspective of a fully sentient android whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
 [OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
