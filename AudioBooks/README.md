@@ -2593,7 +2593,7 @@ eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin
 Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
 
-Reading Notes: Improbable all around.  You need to be in the mood for an action story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
+Reading Notes: Improbable all around.  You need to be in the mood for a formulaic action story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
 
 </details>
 
@@ -2620,13 +2620,21 @@ Audio: https://www.overdrive.com/media/3783062/all-systems-red
 eBook: https://www.overdrive.com/media/3845098/all-systems-red  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
 
-Reading Notes: This story is expertly told from the perspective of a fully sentient android whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
 [OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
 >The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn't a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid - a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.  
 
 </details>
+
+See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):  
+* Artificial Condition   (May 8, 2018)  
+* Rogue Protocol         (August 7, 2018)  
+* Exit Strategy          (October 2, 2018)  
+* Fugitive Telemetry     (April 27, 2021)  
+* [Network Effect](https://en.wikipedia.org/wiki/Network_Effect_(novel))     (May 2, 2020)  
+* System Collapse        (November 14, 2023)  
 
 
 <details>
