@@ -1751,7 +1751,7 @@ Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea
 eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
 By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
 
-Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
+Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? Technology always results in unintended consequences, "a creature emerging out of our need to invent..." And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
 * Remote Vietnamese archipelago of [Côn Đảo](https://www.google.com/maps/place/C%C3%B4n+%C4%90%E1%BA%A3o/@8.6944336,106.6398703,12z/data=!3m1!4b1!4m6!3m5!1s0x3198a9186b2f6e91:0xe0a6ec6a3d538a81!8m2!3d8.7009282!4d106.6114474!16zL20vMDVzaDBw?authuser=0&hl=en&entry=ttu), recently purchased by the DIANIMA corporation.  
 * Dr. Ha Nguyen, marine scientist, leading studies of cephalopod intelligence, and author of "How Oceans Think."  
 * Altantsetse, security guard.  
@@ -2546,6 +2546,21 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+
+### The Keeper of Hidden Books. (11:00)  
+Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
+eBook: https://www.overdrive.com/media/9194470/the-keeper-of-hidden-books  
+By [Madeline Martin]()  ( – )  
+
+Reading Notes:  The narrative is set in Poland from 1939 to 1944 and follows the campaign to eliminate Jews. ... inspired by the true story of the underground library in WWII Warsaw.
+
+OverDrive Summary: [https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books](https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books)  
+
+</details>
+
+
 
 
 
@@ -2694,15 +2709,16 @@ OverDrive Summary:
 <details>
 <summary>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
 
-### Light Years From Home -- A Novel.  
+### Light Years From Home -- A Novel.  (12:00)
 Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
 eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
 By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
 
-Reading Notes:  
+Reading Notes:  Evie Shao and her elder siblings twins Kass and Jakob Shao, mom and dad...  Family drama, trauma, action, science fiction, aliens and intergalactic war, FBI and cops, and much more.  See the reviews...
 
 Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
-
+Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
+Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
 
 </details>
 
