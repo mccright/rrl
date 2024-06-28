@@ -1153,6 +1153,20 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 </details>
 
 
+<details><summary>Harrow -- A novel. By Joy Williams. 2021 </summary>
+
+### Harrow -- A novel. (7:00)  
+Audio: https://www.overdrive.com/media/5978287/harrow  
+eBook: https://www.overdrive.com/media/5979335/harrow  
+By [Joy Williams](https://en.wikipedia.org/wiki/Joy_Williams_(American_writer))  (1944 – )  
+
+Reading Notes: "...after an environmental apocalypse, a world in which only the man-made has value..." I don't know what to think about this book.  For me, it is an odd, wandering exploration of absurd situations that might occur as the environment and society collapse around us.  
+
+Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)  
+
+</details>
+
+
 <details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
 
 ### The Harvester (16:48)  
@@ -1975,6 +1989,21 @@ Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [http
 </details>
 
 
+<details><summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
+
+### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
+Audio: https://www.overdrive.com/media/3081680/raven-rock  
+eBook: https://www.overdrive.com/media/2260620/raven-rock  
+
+By [Garrett M. Graff](https://en.wikipedia.org/wiki/Garrett_Graff)  (1981 – )  
+
+Reading Notes: Somebody, somewhere in government will remain available to *fight* the next *war*. So says the U.S. CoG (Continuity of Government) program. [Raven Rock Mountain Complex](https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex) also known as "Site R," and has been called an "underground Pentagon," is a foundational *character* in Graff's exploration of this topic from the 1940s through 2015.  This should be required reading for all U.S. citizens.  
+  
+[https://openlibrary.org/works/OL20058439W/Raven_Rock](https://openlibrary.org/works/OL20058439W/Raven_Rock)  
+
+</details>
+
+
 <details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
@@ -2518,37 +2547,6 @@ Reading Notes:
 
 
 
-<details>
-<summary>Harrow -- A novel. By Joy Williams. 2021 </summary>
-
-### Harrow -- A novel. (7:00)  
-Audio: https://www.overdrive.com/media/5978287/harrow  
-eBook: https://www.overdrive.com/media/5979335/harrow  
-By [Joy Williams](https://en.wikipedia.org/wiki/Joy_Williams_(American_writer))  (1944 – )  
-
-Reading Notes: "...after an environmental apocalypse, a world in which only the man-made has value..."  
-
-Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)  
-
-</details>
-
-
-
-
-<details>
-<summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
-
-### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
-Audio: https://www.overdrive.com/media/3081680/raven-rock  
-eBook: https://www.overdrive.com/media/2260620/raven-rock  
-
-By [Garrett M. Graff](https://en.wikipedia.org/wiki/Garrett_Graff)  (1981 – )  
-
-Reading Notes: Somebody, somewhere in government will remain available to *fight* the next *war*. So says the U.S. CoG (Continuity of Government) program. [Raven Rock Mountain Complex](https://en.wikipedia.org/wiki/Raven_Rock_Mountain_Complex) also known as "Site R," and has been called an "underground Pentagon," is a foundational *character* in Graff's exploration of this topic from the 1940s through 2015.  This should be required reading for all U.S. citizens.  
-  
-[https://openlibrary.org/works/OL20058439W/Raven_Rock](https://openlibrary.org/works/OL20058439W/Raven_Rock)  
-
-</details>
 
 
 <details>
@@ -2595,7 +2593,7 @@ eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin
 Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
 
-Reading Notes: Improbable all around.  You need to be in the mood for an action story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
+Reading Notes: Improbable all around.  You need to be in the mood for a formulaic action story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
 
 </details>
 
@@ -2617,18 +2615,26 @@ Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipe
 <details>
 <summary>All Systems Red -- The Murderbot Diaries. By Martha Wells. 2017 </summary>
 
-### All Systems Red -- The Murderbot Diaries.   
+### All Systems Red -- The Murderbot Diaries.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
 eBook: https://www.overdrive.com/media/3845098/all-systems-red  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
 
-Reading Notes:  
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
 [OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
 >The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn't a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid - a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.  
 
 </details>
+
+See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):  
+* Artificial Condition   (May 8, 2018)  
+* Rogue Protocol         (August 7, 2018)  
+* Exit Strategy          (October 2, 2018)  
+* Fugitive Telemetry     (April 27, 2021)  
+* [Network Effect](https://en.wikipedia.org/wiki/Network_Effect_(novel))     (May 2, 2020)  
+* System Collapse        (November 14, 2023)  
 
 
 <details>
