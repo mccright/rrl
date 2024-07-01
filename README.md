@@ -11,8 +11,7 @@
 This is where I maintain a list of the books that I am reading or have read or are considering reading since 25 July 2022 (*when I started tracking my reading*).  
 
 
-### Reading [Out-of-Copywrite - Open-Access eBooks](OpenSourceTexts/)  
-* Sources:  
+### Sources for [Out-of-Copywrite - Open-Access eBooks](OpenSourceTexts/)  
   * Project Gutenberg  [https://www.gutenberg.org/](https://www.gutenberg.org/)  
   * The Univ. Penn. Online Books Page at  [https://onlinebooks.library.upenn.edu/](https://onlinebooks.library.upenn.edu/) (An index of over three million online books freely readable on the Internet)  
   * Standard Ebooks  [https://standardebooks.org/](https://standardebooks.org/)  
@@ -25,8 +24,7 @@ This is where I maintain a list of the books that I am reading or have read or a
   * Smashwords [https://www.smashwords.com/shelves/home/1/free/any](https://www.smashwords.com/shelves/home/1/free/any)  
 
 
-### *Reading* [Audio Books](AudioBooks/)  
-* Sources:  
+### Sources for [Audio Books](AudioBooks/)  
   * All free at [https://librivox.org/](https://librivox.org/)  This is an all-volunteer effort.  The quality of the recordings varies, but a large percentage are excellent.  
   * Project Gutenberg Audio Books,  
     * Human-read  [https://www.gutenberg.org/browse/categories/1](https://www.gutenberg.org/browse/categories/1)  
@@ -41,8 +39,7 @@ This is where I maintain a list of the books that I am reading or have read or a
 	5. You can browse or search for books/audiobooks on Overdrive at [https://www.overdrive.com/explore](https://www.overdrive.com/explore)  
 
 
-### Reading [Commercial and "Open Access" Books](Books/)  
-* Sources:  
+### Sources for [Commercial and "Open Access" Books](Books/)  
   * Ebooks via Overdrive/Libby from my local public library.  You can browse or search for books/audiobooks on Overdrive at [https://www.overdrive.com/explore](https://www.overdrive.com/explore)  (*see the OverDrive/Libby bullet above for more information*).  
   * Directory of Open Access Books https://www.doabooks.org](https://directory.doabooks.org) and [https://directory.doabooks.org/discover](https://directory.doabooks.org/discover).  DOAB is a community-driven discovery service that indexes and provides access to scholarly, peer-reviewed open access books and helps users to find trusted open access book publishers. All DOAB services are free of charge and all data is freely available.  
     * [History of engineering & technology on DOAB](https://directory.doabooks.org/discover?query=history&filtertype=classification_text&filter_relational_operator=equals&filter=History+of+engineering+%26+technology)  
@@ -67,4 +64,4 @@ This is where I maintain a list of the books that I am reading or have read or a
 
 
 ### Repository History Notes and Testing [Page](repohistory.md)  
-Just a short history of this site and a file for temporary markdown testing.
+Just a [short history](repohistory.md) of this site and a file for temporary markdown testing.
