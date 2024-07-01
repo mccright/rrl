@@ -1332,7 +1332,7 @@ eBook: https://www.overdrive.com/media/9935544/james
 By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
 
 Reading Notes: This story is enhanced by [Dominic Hoffman](https://en.wikipedia.org/wiki/Dominic_Hoffman)'s excellent audio acting/narration.  
-The [historical fiction] is, in part, a retelling of "[Adventures of Huckleberry Finn](https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn)" from the perspective and voice of enslaved [Jim](https://en.wikipedia.org/wiki/Jim_(Huckleberry_Finn)).  
+The [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) is, in part, a retelling of "[Adventures of Huckleberry Finn](https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn)" from the perspective and voice of enslaved [Jim](https://en.wikipedia.org/wiki/Jim_(Huckleberry_Finn)).  
 It explores entrenched attitudes about race, slavery, freedom , particularly racism and freedom.  It is also about language: "`White folks expect us to sound a certain way and it can only help if we don’t disappoint them... The better they feel, the safer we are.`" Jim, treated with violence and humiliation, rarely meets violence with violence, yet retains his goodness, honor, and wisdom.  
 
 For easy access to a number of Percival Everett's other books, try Libby/Overdrive: [https://www.overdrive.com/search?f-contentCreatorNames=Percival%20Everett](https://www.overdrive.com/search?f-contentCreatorNames=Percival%20Everett)  
@@ -1751,15 +1751,15 @@ Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea
 eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
 By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
 
-Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
+Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? Technology always results in unintended consequences, "a creature emerging out of our need to invent..." And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
 * Remote Vietnamese archipelago of [Côn Đảo](https://www.google.com/maps/place/C%C3%B4n+%C4%90%E1%BA%A3o/@8.6944336,106.6398703,12z/data=!3m1!4b1!4m6!3m5!1s0x3198a9186b2f6e91:0xe0a6ec6a3d538a81!8m2!3d8.7009282!4d106.6114474!16zL20vMDVzaDBw?authuser=0&hl=en&entry=ttu), recently purchased by the DIANIMA corporation.  
 * Dr. Ha Nguyen, marine scientist, leading studies of cephalopod intelligence, and author of "How Oceans Think."  
-* Altantsetse, security guard.  
+* Altantsetse, security guard on Côn Đảo.  
 * Evrim, the world’s first android.  
 * Rustem, *master* AI/neural network hacker.  
 * Sea Wolf, automated deep sea fishing ship.  
-* Eiko, enslaved man on the automated fishing ship.  
-* Dr. Arnkatla Minervudóttir-Chan, Eiko's creator and the leader of the DIANIMA corporation.  
+* Eiko, enslaved man on the automated fishing ship Sea Wolf.  
+* Dr. Arnkatla Minervudóttir-Chan, Evrim's creator and the leader of the DIANIMA corporation.  
 
 [Overdrive Summary](https://www.overdrive.com/media/8557446/the-mountain-in-the-sea):  
 Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future.  The transnational tech corporation DIANIMA has sealed off the remote Con Dao Archipelago, where a species of octopus has been discovered that may have developed its own language and culture. The marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. She travels to the islands to join DIANIMA's team: a battle-scarred securityagent and the world's first (and possibly last) android.  The octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence. As Dr. Nguyen struggles to communicate with the newly discovered species, forces larger than DIANIMA close in to seize the octopuses for themselves.But no one has yet asked the octopuses what they think. Or what they might do about it.  A near-future thriller, a meditation on the nature of consciousness, and an ecological call to arms, Ray Nayler's dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind's legacy.
@@ -2546,6 +2546,27 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+
+### The Keeper of Hidden Books. (11:00)  
+Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
+eBook: https://www.overdrive.com/media/9194470/the-keeper-of-hidden-books  
+By [Madeline Martin](https://madelinemartin.com/bio/)  ( – )  
+
+Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) novel is told from the perspective of Zofia Nowak, who is 18 years old when the Germans invade and loot Poland. After quickly losing her brother and father to the invading Nazis, Zofia and her friends play a number of roles in Polish attempts to resist extinction (*including Jewish extinction -- her best friend Janina is confined in the Jewish ghetto*), maintain an *Hitler-banned Book Club* (*later, the "Bandit Book Club"*), participate in local resistance efforts, work in the Warsaw library system to save books that Nazis attempt to confiscated and destroy, and support families torn apart and left destitute by the multi-faceted violence of the war. The narrative is set in Poland from 1939 to 1944 and follows the campaign to eliminate Jews and to destroy all non-German culture in Poland. ... inspired by the true story of the underground library/libraries in WWII Warsaw.  
+
+OverDrive Summary: [https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books](https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books)  
+[Book Club Guide by the author](https://madelinemartin.com/wp-content/uploads/2024/03/2524-no-code-THE-KEEPER-OF-HIDDEN-BOOKS-Reader-s-Guide.pdf)  
+Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://historicalnovelsociety.org/reviews/the-keeper-of-hidden-books/)  
+Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
+Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
+
+
+
+</details>
+
+
 
 
 
@@ -2694,15 +2715,16 @@ OverDrive Summary:
 <details>
 <summary>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
 
-### Light Years From Home -- A Novel.  
+### Light Years From Home -- A Novel.  (12:00)
 Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
 eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
 By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
 
-Reading Notes:  
+Reading Notes:  Evie Shao and her elder siblings twins Kass and Jakob Shao, mom and dad...  Family drama, trauma, action, science fiction, aliens and intergalactic war, FBI and cops, and much more.  See the reviews...
 
 Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
-
+Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
+Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
 
 </details>
 
