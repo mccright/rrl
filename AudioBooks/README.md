@@ -1196,6 +1196,21 @@ Summary from Librivox:
 
 
 <details>
+<summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
+
+### Henry, Himself. -- A Novel. (12:00)  
+Audio: https://www.overdrive.com/media/4197479/henry-himself  
+eBook: https://www.overdrive.com/media/4187798/henry-himself  
+By [Stewart O'Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan) (1961 - )  
+
+Reading Notes:  Human, humain, life through the lens of retired engineer, Henry.  
+
+Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-himself/](https://stewart-onan.com/fiction/henry-himself/)  
+
+</details>
+
+
+<details>
 <summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
@@ -2723,23 +2738,6 @@ Reading Notes:  Evie Shao and her elder siblings, twins Kass and Jakob Shao, mom
 Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
 Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
 Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
-
-</details>
-
-
-
-<details>
-<summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
-
-### Henry, Himself. -- A Novel. (12:00)
-Audio: https://www.overdrive.com/media/4197479/henry-himself  
-eBook: https://www.overdrive.com/media/4187798/henry-himself  
-By [Stewart O'Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan) (1961 - )  
-
-Reading Notes:  Human, humain, life through the lens of retired engineer, Henry.  
-
-Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-himself/](https://stewart-onan.com/fiction/henry-himself/)  
-
 
 </details>
 
