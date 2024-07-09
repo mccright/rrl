@@ -1196,6 +1196,21 @@ Summary from Librivox:
 
 
 <details>
+<summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
+
+### Henry, Himself. -- A Novel. (12:00)  
+Audio: https://www.overdrive.com/media/4197479/henry-himself  
+eBook: https://www.overdrive.com/media/4187798/henry-himself  
+By [Stewart O'Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan) (1961 - )  
+
+Reading Notes:  Human, humain, life through the lens of retired engineer, Henry.  
+
+Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-himself/](https://stewart-onan.com/fiction/henry-himself/)  
+
+</details>
+
+
+<details>
 <summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
@@ -1332,7 +1347,7 @@ eBook: https://www.overdrive.com/media/9935544/james
 By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
 
 Reading Notes: This story is enhanced by [Dominic Hoffman](https://en.wikipedia.org/wiki/Dominic_Hoffman)'s excellent audio acting/narration.  
-The [historical fiction] is, in part, a retelling of "[Adventures of Huckleberry Finn](https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn)" from the perspective and voice of enslaved [Jim](https://en.wikipedia.org/wiki/Jim_(Huckleberry_Finn)).  
+The [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) is, in part, a retelling of "[Adventures of Huckleberry Finn](https://en.wikipedia.org/wiki/Adventures_of_Huckleberry_Finn)" from the perspective and voice of enslaved [Jim](https://en.wikipedia.org/wiki/Jim_(Huckleberry_Finn)).  
 It explores entrenched attitudes about race, slavery, freedom , particularly racism and freedom.  It is also about language: "`White folks expect us to sound a certain way and it can only help if we don’t disappoint them... The better they feel, the safer we are.`" Jim, treated with violence and humiliation, rarely meets violence with violence, yet retains his goodness, honor, and wisdom.  
 
 For easy access to a number of Percival Everett's other books, try Libby/Overdrive: [https://www.overdrive.com/search?f-contentCreatorNames=Percival%20Everett](https://www.overdrive.com/search?f-contentCreatorNames=Percival%20Everett)  
@@ -1751,15 +1766,15 @@ Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea
 eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
 By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
 
-Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
+Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? Technology always results in unintended consequences, "a creature emerging out of our need to invent..." And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
 * Remote Vietnamese archipelago of [Côn Đảo](https://www.google.com/maps/place/C%C3%B4n+%C4%90%E1%BA%A3o/@8.6944336,106.6398703,12z/data=!3m1!4b1!4m6!3m5!1s0x3198a9186b2f6e91:0xe0a6ec6a3d538a81!8m2!3d8.7009282!4d106.6114474!16zL20vMDVzaDBw?authuser=0&hl=en&entry=ttu), recently purchased by the DIANIMA corporation.  
 * Dr. Ha Nguyen, marine scientist, leading studies of cephalopod intelligence, and author of "How Oceans Think."  
-* Altantsetse, security guard.  
+* Altantsetse, security guard on Côn Đảo.  
 * Evrim, the world’s first android.  
 * Rustem, *master* AI/neural network hacker.  
 * Sea Wolf, automated deep sea fishing ship.  
-* Eiko, enslaved man on the automated fishing ship.  
-* Dr. Arnkatla Minervudóttir-Chan, Eiko's creator and the leader of the DIANIMA corporation.  
+* Eiko, enslaved man on the automated fishing ship Sea Wolf.  
+* Dr. Arnkatla Minervudóttir-Chan, Evrim's creator and the leader of the DIANIMA corporation.  
 
 [Overdrive Summary](https://www.overdrive.com/media/8557446/the-mountain-in-the-sea):  
 Humankind discovers intelligent life in an octopus species with its own language and culture, and sets off a high-stakes global competition to dominate the future.  The transnational tech corporation DIANIMA has sealed off the remote Con Dao Archipelago, where a species of octopus has been discovered that may have developed its own language and culture. The marine biologist Dr. Ha Nguyen, who has spent her life researching cephalopod intelligence, will do anything for the chance to study them. She travels to the islands to join DIANIMA's team: a battle-scarred securityagent and the world's first (and possibly last) android.  The octopuses hold the key to unprecedented breakthroughs in extrahuman intelligence. As Dr. Nguyen struggles to communicate with the newly discovered species, forces larger than DIANIMA close in to seize the octopuses for themselves.But no one has yet asked the octopuses what they think. Or what they might do about it.  A near-future thriller, a meditation on the nature of consciousness, and an ecological call to arms, Ray Nayler's dazzling literary debut The Mountain in the Sea is a mind-blowing dive into the treasure and wreckage of humankind's legacy.
@@ -2546,6 +2561,27 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+
+### The Keeper of Hidden Books. (11:00)  
+Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
+eBook: https://www.overdrive.com/media/9194470/the-keeper-of-hidden-books  
+By [Madeline Martin](https://madelinemartin.com/bio/)  ( – )  
+
+Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) novel is told from the perspective of Zofia Nowak, who is 18 years old when the Germans invade and loot Poland. After quickly losing her brother and father to the invading Nazis, Zofia and her friends play a number of roles in Polish attempts to resist extinction (*including Jewish extinction -- her best friend Janina is confined in the Jewish ghetto*), maintain an *Hitler-banned Book Club* (*later, the "Bandit Book Club"*), participate in local resistance efforts, work in the Warsaw library system to save books that Nazis attempt to confiscated and destroy, and support families torn apart and left destitute by the multi-faceted violence of the war. The narrative is set in Poland from 1939 to 1944 and follows the campaign to eliminate Jews and to destroy all non-German culture in Poland. ... inspired by the true story of the underground library/libraries in WWII Warsaw.  
+
+OverDrive Summary: [https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books](https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books)  
+[Book Club Guide by the author](https://madelinemartin.com/wp-content/uploads/2024/03/2524-no-code-THE-KEEPER-OF-HIDDEN-BOOKS-Reader-s-Guide.pdf)  
+Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://historicalnovelsociety.org/reviews/the-keeper-of-hidden-books/)  
+Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
+Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
+
+
+
+</details>
+
+
 
 
 
@@ -2673,47 +2709,46 @@ OverDrive Summary:
 <details>
 <summary>Arsenals of Folly -- The Making of the Nuclear Arms Race. By Richard Rhodes. 2007 </summary>
 
-### Arsenals of Folly.  
+### Arsenals of Folly. (14:11)  
 Audio: https://www.overdrive.com/media/138702/arsenals-of-folly  
 eBook: https://www.overdrive.com/media/148008/arsenals-of-folly  
 By [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)  (1937 – )  
 886 pages (hardcover)  
 
-Reading Notes:  
+Reading Notes: I lived through the period covered in this book and was reminded of the many ways individuals coveting power lied about non-existant "*secrets*" and then exaggerated *threats* to justify their actions. I think it should be required reading for anyone who finds themselves believing political or military actors who use lies and/or fear to motivate their followers and justify their actions. There is [a lot of science supporting the negative impacts of lying and dishonesty on the human brain](https://duckduckgo.com/?q=what+lying+does+to+the+brain&t=h_&ia=web) and this book appears to illustrate some critical outcomes when leaders (*at many levels*) make lying and exaggerating threats a habit.  At the end of the book, Rhodes argued that the the military investments driven by the repeated fake intelligence and threat inflation displaced  *trillions of dollars* in social and infrastructure investments, leaving the U.S. much worse off than it would have been.  Many of the same *characters* repeatedly appear through the Reagan, Bush *senior* and Bush (*junior*) adminstrations.  Some of them also helped create academic *research* and public and private policy organizations to nurture new generations to carry on and evolve their ideas and practices.  Their progeny remain influential today.  Richard Rhodes shares a *lot* of detail throughout this historical nonfiction book.  Unless you have an interest in Nuclear Weapons and their proliferation from the 1960s through the early 1990s this book might be a slog.  
 
 Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://www.c-span.org/video/?202128-1/arsenals-folly)  
-OverDrive Summary:  
->In a narrative that moves like a thriller, Rhodes sheds light on the Reagan administration’s unprecedented arms buildup in the early 1980s, as well as the arms-reduction campaign that followed, and Reagan’s famous 1986 summit meeting with Gorbachev. Rhodes’s detailed exploration of events of this time constitutes a prehistory of the neoconservatives, demonstrating that the manipulation of government and public opinion with fake intelligence and threat inflation that the administration of George W. Bush has used to justify the current “war on terror” and the disastrous invasion of Iraq were developed and applied in the Reagan era and even before.  Drawing on personal interviews with both Soviet and U.S. participants, and on a wealth of new documentation, memoir literature, and oral history that has become available only in the past ten years, Rhodes recounts what actually happened in the final years of the Cold War that led to its dramatic end. The story is new, compelling, and continually surprising–a revelatory re-creation of a hugely important era of our recent history.  
+[OverDrive Summary](https://www.overdrive.com/media/148008/arsenals-of-folly):  
+>In a narrative that moves like a thriller, Rhodes sheds light on the Reagan administration’s unprecedented arms buildup in the early 1980s, as well as the arms-reduction campaign that followed, and Reagan’s famous 1986 summit meeting with Gorbachev. Rhodes’s detailed exploration of events of this time constitutes a prehistory of the neoconservatives, demonstrating that the manipulation of government and public opinion with fake intelligence and threat inflation that the administration of George W. Bush has used to justify the current “war on terror” and the disastrous invasion of Iraq were developed and applied in the Reagan era and even before.  Drawing on personal interviews with both Soviet and U.S. participants, and on a wealth of new documentation, memoir literature, and oral history that has become available only in the past ten years, Rhodes recounts what actually happened in the final years of the Cold War that led to its dramatic end. The story is new, compelling, and continually surprising -– a revelatory re-creation of a hugely important era of our recent history.  
 
 </details>
-
-
 
 
 
 <details>
 <summary>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
 
-### Light Years From Home -- A Novel.  
+### Light Years From Home -- A Novel.  (12:00)
 Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
 eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
 By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
 
-Reading Notes:  
+Reading Notes:  Evie Shao and her elder siblings, twins Kass and Jakob Shao, mom and dad...  Family drama, trauma, action, science fiction, aliens and intergalactic war, FBI and cops, and much more.  See the reviews...
 
 Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
-
+Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
+Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
 
 </details>
 
 
-
-Also Look at:  
+<details>
+<summary>Also Look at:  </summary>
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
 
-
+</details>
 
 
 <details>
