@@ -2562,6 +2562,50 @@ Reading Notes:
 
 
 <details>
+<summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
+
+### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
+Audio: https://www.overdrive.com/media/7345871/collateral-damage  
+eBook: https://www.overdrive.com/media/7454232/collateral-damage  
+By [J.A. Jance](https://en.wikipedia.org/wiki/J._A._Jance)  (1944 – )  
+
+Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction) Ali Reynolds and the staff of High Noon Enterprises (*high tech security company*) face the consequences of crooked cop Frank Muñoz's program of revenge... See the [OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage). (*this is one of the [Ali Reynolds](https://www.overdrive.com/series/ali-reynolds) series*)  
+
+[OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage)  
+
+</details>
+
+
+<details>
+<summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+
+### Code Name Sapphire. (13:00)  
+Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
+eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
+By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
+
+### On Writing -- A Memoir Of The Craft.  
+Audio: https://www.overdrive.com/media/143949/on-writing  
+eBook: https://www.overdrive.com/media/13779/on-writing  
+By [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)  (1947 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft](https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft)  
+
+</details>
+
+
+
+<details>
 <summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
 
 ### The Keeper of Hidden Books. (11:00)  
