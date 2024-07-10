@@ -1379,6 +1379,26 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+
+### The Keeper of Hidden Books. (11:00)  
+Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
+eBook: https://www.overdrive.com/media/9194470/the-keeper-of-hidden-books  
+By [Madeline Martin](https://madelinemartin.com/bio/)  ( – )  
+
+Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) novel is told from the perspective of Zofia Nowak, who is 18 years old when the Germans invade and loot Poland. After quickly losing her brother and father to the invading Nazis, Zofia and her friends play a number of roles in Polish attempts to resist extinction (*including Jewish extinction -- her best friend Janina is confined in the Jewish ghetto*), maintain an *Hitler-banned Book Club* (*later, the "Bandit Book Club"*), participate in local resistance efforts, work in the Warsaw library system to save books that Nazis attempt to confiscated and destroy, and support families torn apart and left destitute by the multi-faceted violence of the war. The narrative is set in Poland from 1939 to 1944 and follows the campaign to eliminate Jews and to destroy all non-German culture in Poland. ... inspired by the true story of the underground library/libraries in WWII Warsaw.  
+
+OverDrive Summary: [https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books](https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books)  
+[Book Club Guide by the author](https://madelinemartin.com/wp-content/uploads/2024/03/2524-no-code-THE-KEEPER-OF-HIDDEN-BOOKS-Reader-s-Guide.pdf)  
+Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://historicalnovelsociety.org/reviews/the-keeper-of-hidden-books/)  
+Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
+Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
+
+
+</details>
+
+
 <details><summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
 
 ### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
@@ -2562,26 +2582,46 @@ Reading Notes:
 
 
 <details>
-<summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+<summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
 
-### The Keeper of Hidden Books. (11:00)  
-Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
-eBook: https://www.overdrive.com/media/9194470/the-keeper-of-hidden-books  
-By [Madeline Martin](https://madelinemartin.com/bio/)  ( – )  
+### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
+Audio: https://www.overdrive.com/media/7345871/collateral-damage  
+eBook: https://www.overdrive.com/media/7454232/collateral-damage  
+By [J.A. Jance](https://en.wikipedia.org/wiki/J._A._Jance)  (1944 – )  
 
-Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) novel is told from the perspective of Zofia Nowak, who is 18 years old when the Germans invade and loot Poland. After quickly losing her brother and father to the invading Nazis, Zofia and her friends play a number of roles in Polish attempts to resist extinction (*including Jewish extinction -- her best friend Janina is confined in the Jewish ghetto*), maintain an *Hitler-banned Book Club* (*later, the "Bandit Book Club"*), participate in local resistance efforts, work in the Warsaw library system to save books that Nazis attempt to confiscated and destroy, and support families torn apart and left destitute by the multi-faceted violence of the war. The narrative is set in Poland from 1939 to 1944 and follows the campaign to eliminate Jews and to destroy all non-German culture in Poland. ... inspired by the true story of the underground library/libraries in WWII Warsaw.  
+Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction) Ali Reynolds and the staff of High Noon Enterprises (*high tech security company*) face the consequences of crooked cop Frank Muñoz's program of revenge... See the [OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage). (*this is one of the [Ali Reynolds](https://www.overdrive.com/series/ali-reynolds) series*)  
 
-OverDrive Summary: [https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books](https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books)  
-[Book Club Guide by the author](https://madelinemartin.com/wp-content/uploads/2024/03/2524-no-code-THE-KEEPER-OF-HIDDEN-BOOKS-Reader-s-Guide.pdf)  
-Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://historicalnovelsociety.org/reviews/the-keeper-of-hidden-books/)  
-Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
-Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
-
-
+[OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage)  
 
 </details>
 
 
+<details>
+<summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+
+### Code Name Sapphire. (13:00)  
+Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
+eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
+By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
+
+### On Writing -- A Memoir Of The Craft.  
+Audio: https://www.overdrive.com/media/143949/on-writing  
+eBook: https://www.overdrive.com/media/13779/on-writing  
+By [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)  (1947 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft](https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft)  
+
+</details>
 
 
 
