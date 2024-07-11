@@ -2604,7 +2604,7 @@ Audio: https://www.overdrive.com/media/9015660/code-name-sapphire
 eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
 By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
 
-Reading Notes:  
+Reading Notes: [Historical fiction](), [suspense](), [romance]() novel set largely in WWII Belgium. See the [OverDrive Summary](https://www.overdrive.com/media/8905063/code-name-sapphire)...  
 
 </details>
 
