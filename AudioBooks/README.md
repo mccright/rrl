@@ -735,6 +735,20 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
+<details><summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
+
+### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
+Audio: https://www.overdrive.com/media/7345871/collateral-damage  
+eBook: https://www.overdrive.com/media/7454232/collateral-damage  
+By [J.A. Jance](https://en.wikipedia.org/wiki/J._A._Jance)  (1944 – )  
+
+Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction) Ali Reynolds and the staff of High Noon Enterprises (*high tech security company*) face the consequences of crooked cop Frank Muñoz's program of revenge... See the [OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage). (*this is one of the [Ali Reynolds](https://www.overdrive.com/series/ali-reynolds) series*)  
+
+[OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage)  
+
+</details>
+
+
 <details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
@@ -2577,21 +2591,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
-
-### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
-Audio: https://www.overdrive.com/media/7345871/collateral-damage  
-eBook: https://www.overdrive.com/media/7454232/collateral-damage  
-By [J.A. Jance](https://en.wikipedia.org/wiki/J._A._Jance)  (1944 – )  
-
-Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction) Ali Reynolds and the staff of High Noon Enterprises (*high tech security company*) face the consequences of crooked cop Frank Muñoz's program of revenge... See the [OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage). (*this is one of the [Ali Reynolds](https://www.overdrive.com/series/ali-reynolds) series*)  
-
-[OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage)  
 
 </details>
 
