@@ -3,7 +3,8 @@
 
 ## Completed:  
 
-<details><summary>Advance Agent. By Christopher Anvil.  1957</summary>
+<details>
+<summary>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
 https://librivox.org/advance-agent-by-christopher-anvil/  
@@ -90,8 +91,7 @@ Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www
 </details>
 
 
-<details>
-<summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
+<details><summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
 Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
@@ -142,8 +142,7 @@ Summary from [the author's book website](https://veronicarothbooks.com/books/arc
 </details>
 
 
-<details>
-<summary>An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) · The Liberation Trilogy. By Rick Atkinson. 2002 </summary>
+<details><summary>An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) · The Liberation Trilogy. By Rick Atkinson. 2002 </summary>
 
 ### An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) (7:00)  
 Audio: https://www.overdrive.com/media/76360/an-army-at-dawn-the-war-in-north-africa-1942-1943  
@@ -493,8 +492,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_
 </details>
 
 
-<details>
-<summary>Booth. By Karen Joy Fowler. 2022 </summary>
+<details><summary>Booth. By Karen Joy Fowler. 2022 </summary>
 
 ### Booth (13:42, 470 pages)  
 Audio: https://www.overdrive.com/media/6328747/booth  
@@ -605,8 +603,7 @@ Librivox Summary:
 
 <a name="caste_isabel_wilkerson"></a>
 
-<details>
-<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
+<details><summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
 ### Caste -- The Origins of Our Discontent. (15:00)  
 Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog)  
@@ -735,6 +732,20 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
+<details><summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
+
+### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
+Audio: https://www.overdrive.com/media/7345871/collateral-damage  
+eBook: https://www.overdrive.com/media/7454232/collateral-damage  
+By [J.A. Jance](https://en.wikipedia.org/wiki/J._A._Jance)  (1944 – )  
+
+Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction) Ali Reynolds and the staff of High Noon Enterprises (*high tech security company*) face the consequences of crooked cop Frank Muñoz's program of revenge... See the [OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage). (*this is one of the [Ali Reynolds](https://www.overdrive.com/series/ali-reynolds) series*)  
+
+[OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage)  
+
+</details>
+
+
 <details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
@@ -849,8 +860,7 @@ Summary from Librivox:
 </details>
 
 
-<details>
-<summary>Eifelheim. By Michael Flynn. 2006 </summary>
+<details><summary>Eifelheim. By Michael Flynn. 2006 </summary>
 
 ### Eifelheim. (17:15)  
 Audio: https://www.overdrive.com/media/137097/eifelheim  
@@ -889,8 +899,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
+<details><summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
 
 ### Emily Eternal.  (9:00)  
 Audio: https://www.overdrive.com/media/4547905/emily-eternal  
@@ -902,8 +911,7 @@ Reading Notes: This is a sifi novel about how humanity and Emily - an artificial
 </details>
 
 
-<details>
-<summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
+<details><summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  (1:06)  
 https://librivox.org/the-farmers-bride-by-charlotte-mew/  
@@ -1037,8 +1045,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+<details><summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
 
 ### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
   
@@ -1053,8 +1060,7 @@ Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate som
 </details>
 
 
-<details>
-<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+<details><summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
 
 ### The Giver of Stars. (13:52)  
 [https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
@@ -1064,8 +1070,7 @@ Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en
 
 </details>
 
-<details>
-<summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
+<details><summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
 
 ### The God of Endings. (17:00)  
 Audio: https://www.overdrive.com/media/8916800/the-god-of-endings  
@@ -1195,8 +1200,7 @@ Summary from Librivox:
 </details>
 
 
-<details>
-<summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
+<details><summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
 
 ### Henry, Himself. -- A Novel. (12:00)  
 Audio: https://www.overdrive.com/media/4197479/henry-himself  
@@ -1210,8 +1214,7 @@ Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-h
 </details>
 
 
-<details>
-<summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
+<details><summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
 Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
@@ -1225,8 +1228,7 @@ Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html
 </details>
 
 
-<details>
-<summary>Horse. By Geraldine Brooks. 2022</summary>
+<details><summary>Horse. By Geraldine Brooks. 2022</summary>
 
 ### Horse. (14:06)  
 Audio: https://www.overdrive.com/media/6955174/horse  
@@ -1379,8 +1381,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+<details><summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
 
 ### The Keeper of Hidden Books. (11:00)  
 Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
@@ -1467,8 +1468,7 @@ https://www.jsdewes.com/about
 </details>
 
 
-<details>
-<summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
+<details><summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
 
 ### Leave the World Behind. (7:26)  
 Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
@@ -1581,8 +1581,7 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
-<details>
-<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+<details><summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
 
 ### The Longest Letsgoboy. (00:08)  
 Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
@@ -1623,8 +1622,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
+<details><summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
 
 ### The Lost Book of Adana Moreau.  
 Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau  
@@ -1882,8 +1880,7 @@ Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-b
 </details>
 
 
-<details>
-<summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
+<details><summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
 
 ### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
 Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
@@ -2006,8 +2003,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
-<details>
-<summary>The Quick. By Lauren Owen. 2014 </summary>
+<details><summary>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
 Audio: https://www.overdrive.com/media/1330874/the-quick  
@@ -2285,8 +2281,7 @@ Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/heather-morris/the-ta
 </details>
 
 
-<details>
-<summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
+<details><summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
 
 ### Tell Me an Ending.  
 Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending  
@@ -2303,8 +2298,7 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details>
-<summary>The Terraformers. By Annalee Newitz. 2023</summary>
+<details><summary>The Terraformers. By Annalee Newitz. 2023</summary>
 
 ### The Terraformers. (13:18)  
 Audio: https://www.overdrive.com/media/8916828/the-terraformers  
@@ -2399,8 +2393,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)
 </details>
 
 
-<details>
-<summary>VALIS. By Philip K. Dick. 1981 </summary>
+<details><summary>VALIS. By Philip K. Dick. 1981 </summary>
 
 ### VALIS. (9:00)  
 Audio: https://www.overdrive.com/media/265695/valis  
@@ -2447,8 +2440,7 @@ By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 -  )
 </details>
 
 
-<details>
-<summary>Weyward.  By Emilia Hart. 2023</summary>
+<details><summary>Weyward.  By Emilia Hart. 2023</summary>
 
 ### Weyward. (11:00)  
 Audio: https://www.overdrive.com/media/8916843/weyward  
@@ -2494,8 +2486,7 @@ Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_
 </details>
 
 
-<details>
-<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
+<details><summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
 
 ### Winter in the Blood. (5:00)  
 Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
@@ -2577,21 +2568,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
-
-### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
-Audio: https://www.overdrive.com/media/7345871/collateral-damage  
-eBook: https://www.overdrive.com/media/7454232/collateral-damage  
-By [J.A. Jance](https://en.wikipedia.org/wiki/J._A._Jance)  (1944 – )  
-
-Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction) Ali Reynolds and the staff of High Noon Enterprises (*high tech security company*) face the consequences of crooked cop Frank Muñoz's program of revenge... See the [OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage). (*this is one of the [Ali Reynolds](https://www.overdrive.com/series/ali-reynolds) series*)  
-
-[OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage)  
 
 </details>
 
