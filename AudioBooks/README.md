@@ -2717,12 +2717,12 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red
 </details>
 
 See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):  
-* Artificial Condition   (May 8, 2018)  
-* Rogue Protocol         (August 7, 2018)  
-* Exit Strategy          (October 2, 2018)  
-* Fugitive Telemetry     (April 27, 2021)  
-* [Network Effect](https://en.wikipedia.org/wiki/Network_Effect_(novel))     (May 2, 2020)  
-* System Collapse        (November 14, 2023)  
+* [Artificial Condition](https://www.overdrive.com/media/3954857/artificial-condition)   (May 8, 2018)  
+* [Rogue Protocol](https://www.overdrive.com/media/4200634/rogue-protocol)         (August 7, 2018)  
+* [Exit Strategy](https://www.overdrive.com/media/4294677/exit-strategy)          (October 2, 2018)  
+* [Fugitive Telemetry](https://www.overdrive.com/media/5821063/fugitive-telemetry)     (April 27, 2021)  
+* [Network Effect](https://www.overdrive.com/media/5329911/network-effect) & *[Wikipedia](https://en.wikipedia.org/wiki/Network_Effect_(novel))*     (May 2, 2020)  
+* [System Collapse](https://www.overdrive.com/media/9765114/system-collapse)        (November 14, 2023)  
 
 
 <details>
