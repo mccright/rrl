@@ -2573,6 +2573,41 @@ Reading Notes:
 
 
 <details>
+<summary>Twilight Territory -- A Novel. By Andrew X. Pham. 2024 </summary>
+
+### Twilight Territory -- A Novel. (12:00)  
+Audio: https://www.overdrive.com/media/10383176/twilight-territory  
+eBook: https://www.overdrive.com/media/9937219/twilight-territory (400 pages)  
+By [Andrew X. Pham](https://en.wikipedia.org/wiki/Andrew_X._Pham) and [https://www.andrewxpham.com/](https://www.andrewxpham.com/)  (1967 – )  
+
+Reading Notes: This novel is an entertaining view into a slice of Vietnamese history.  The book opens in 1942, Japanese occupation of what was French Indochina and ends in 1951 during the first Indochina War. Le Tuyet, a divorced single mother in the southern province of Phan Thiet.  Maj. Yamazaki Takeshi, an officer at a nearby air base. French colonial official Gaspar Feraud. Tuyet's aunt and daughter.  
+  
+
+Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
+Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
+
+</details>
+
+
+<details>
+<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
+
+### Prequel -- An American Fight Against Fascism. (13:00)  
+Audio: https://www.overdrive.com/media/9893186/prequel  
+eBook: https://www.overdrive.com/media/9893244/prequel  
+By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
+
+Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
+
+Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
+Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
+A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
+
+
+</details>
+
+
+<details>
 <summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
 
 ### Code Name Sapphire. (13:00)  
