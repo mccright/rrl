@@ -3,7 +3,8 @@
 
 ## Completed:  
 
-<details><summary>Advance Agent. By Christopher Anvil.  1957</summary>
+<details>
+<summary>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
 https://librivox.org/advance-agent-by-christopher-anvil/  
@@ -90,8 +91,7 @@ Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www
 </details>
 
 
-<details>
-<summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
+<details><summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
 Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
@@ -142,8 +142,7 @@ Summary from [the author's book website](https://veronicarothbooks.com/books/arc
 </details>
 
 
-<details>
-<summary>An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) · The Liberation Trilogy. By Rick Atkinson. 2002 </summary>
+<details><summary>An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) · The Liberation Trilogy. By Rick Atkinson. 2002 </summary>
 
 ### An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) (7:00)  
 Audio: https://www.overdrive.com/media/76360/an-army-at-dawn-the-war-in-north-africa-1942-1943  
@@ -493,8 +492,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_
 </details>
 
 
-<details>
-<summary>Booth. By Karen Joy Fowler. 2022 </summary>
+<details><summary>Booth. By Karen Joy Fowler. 2022 </summary>
 
 ### Booth (13:42, 470 pages)  
 Audio: https://www.overdrive.com/media/6328747/booth  
@@ -605,8 +603,7 @@ Librivox Summary:
 
 <a name="caste_isabel_wilkerson"></a>
 
-<details>
-<summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
+<details><summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
 ### Caste -- The Origins of Our Discontent. (15:00)  
 Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog)  
@@ -735,6 +732,20 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
+<details><summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
+
+### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
+Audio: https://www.overdrive.com/media/7345871/collateral-damage  
+eBook: https://www.overdrive.com/media/7454232/collateral-damage  
+By [J.A. Jance](https://en.wikipedia.org/wiki/J._A._Jance)  (1944 – )  
+
+Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction) Ali Reynolds and the staff of High Noon Enterprises (*high tech security company*) face the consequences of crooked cop Frank Muñoz's program of revenge... See the [OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage). (*this is one of the [Ali Reynolds](https://www.overdrive.com/series/ali-reynolds) series*)  
+
+[OverDrive Summary](https://www.overdrive.com/media/7454232/collateral-damage)  
+
+</details>
+
+
 <details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
@@ -849,8 +860,7 @@ Summary from Librivox:
 </details>
 
 
-<details>
-<summary>Eifelheim. By Michael Flynn. 2006 </summary>
+<details><summary>Eifelheim. By Michael Flynn. 2006 </summary>
 
 ### Eifelheim. (17:15)  
 Audio: https://www.overdrive.com/media/137097/eifelheim  
@@ -889,8 +899,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
+<details><summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
 
 ### Emily Eternal.  (9:00)  
 Audio: https://www.overdrive.com/media/4547905/emily-eternal  
@@ -902,8 +911,7 @@ Reading Notes: This is a sifi novel about how humanity and Emily - an artificial
 </details>
 
 
-<details>
-<summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
+<details><summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  (1:06)  
 https://librivox.org/the-farmers-bride-by-charlotte-mew/  
@@ -1037,8 +1045,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+<details><summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
 
 ### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
   
@@ -1053,8 +1060,7 @@ Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate som
 </details>
 
 
-<details>
-<summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+<details><summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
 
 ### The Giver of Stars. (13:52)  
 [https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
@@ -1064,8 +1070,7 @@ Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en
 
 </details>
 
-<details>
-<summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
+<details><summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
 
 ### The God of Endings. (17:00)  
 Audio: https://www.overdrive.com/media/8916800/the-god-of-endings  
@@ -1195,8 +1200,7 @@ Summary from Librivox:
 </details>
 
 
-<details>
-<summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
+<details><summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
 
 ### Henry, Himself. -- A Novel. (12:00)  
 Audio: https://www.overdrive.com/media/4197479/henry-himself  
@@ -1210,8 +1214,7 @@ Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-h
 </details>
 
 
-<details>
-<summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
+<details><summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
 Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
@@ -1225,8 +1228,7 @@ Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html
 </details>
 
 
-<details>
-<summary>Horse. By Geraldine Brooks. 2022</summary>
+<details><summary>Horse. By Geraldine Brooks. 2022</summary>
 
 ### Horse. (14:06)  
 Audio: https://www.overdrive.com/media/6955174/horse  
@@ -1379,6 +1381,25 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+
+### The Keeper of Hidden Books. (11:00)  
+Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
+eBook: https://www.overdrive.com/media/9194470/the-keeper-of-hidden-books  
+By [Madeline Martin](https://madelinemartin.com/bio/)  ( – )  
+
+Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) novel is told from the perspective of Zofia Nowak, who is 18 years old when the Germans invade and loot Poland. After quickly losing her brother and father to the invading Nazis, Zofia and her friends play a number of roles in Polish attempts to resist extinction (*including Jewish extinction -- her best friend Janina is confined in the Jewish ghetto*), maintain an *Hitler-banned Book Club* (*later, the "Bandit Book Club"*), participate in local resistance efforts, work in the Warsaw library system to save books that Nazis attempt to confiscated and destroy, and support families torn apart and left destitute by the multi-faceted violence of the war. The narrative is set in Poland from 1939 to 1944 and follows the campaign to eliminate Jews and to destroy all non-German culture in Poland. ... inspired by the true story of the underground library/libraries in WWII Warsaw.  
+
+OverDrive Summary: [https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books](https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books)  
+[Book Club Guide by the author](https://madelinemartin.com/wp-content/uploads/2024/03/2524-no-code-THE-KEEPER-OF-HIDDEN-BOOKS-Reader-s-Guide.pdf)  
+Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://historicalnovelsociety.org/reviews/the-keeper-of-hidden-books/)  
+Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
+Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
+
+
+</details>
+
+
 <details><summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
 
 ### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
@@ -1447,8 +1468,7 @@ https://www.jsdewes.com/about
 </details>
 
 
-<details>
-<summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
+<details><summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
 
 ### Leave the World Behind. (7:26)  
 Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
@@ -1561,8 +1581,7 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
-<details>
-<summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+<details><summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
 
 ### The Longest Letsgoboy. (00:08)  
 Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
@@ -1603,8 +1622,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
+<details><summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
 
 ### The Lost Book of Adana Moreau.  
 Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau  
@@ -1862,8 +1880,7 @@ Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-b
 </details>
 
 
-<details>
-<summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
+<details><summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
 
 ### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
 Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
@@ -1986,8 +2003,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
-<details>
-<summary>The Quick. By Lauren Owen. 2014 </summary>
+<details><summary>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
 Audio: https://www.overdrive.com/media/1330874/the-quick  
@@ -2265,8 +2281,7 @@ Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/heather-morris/the-ta
 </details>
 
 
-<details>
-<summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
+<details><summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
 
 ### Tell Me an Ending.  
 Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending  
@@ -2283,8 +2298,7 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details>
-<summary>The Terraformers. By Annalee Newitz. 2023</summary>
+<details><summary>The Terraformers. By Annalee Newitz. 2023</summary>
 
 ### The Terraformers. (13:18)  
 Audio: https://www.overdrive.com/media/8916828/the-terraformers  
@@ -2379,8 +2393,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)
 </details>
 
 
-<details>
-<summary>VALIS. By Philip K. Dick. 1981 </summary>
+<details><summary>VALIS. By Philip K. Dick. 1981 </summary>
 
 ### VALIS. (9:00)  
 Audio: https://www.overdrive.com/media/265695/valis  
@@ -2427,8 +2440,7 @@ By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 -  )
 </details>
 
 
-<details>
-<summary>Weyward.  By Emilia Hart. 2023</summary>
+<details><summary>Weyward.  By Emilia Hart. 2023</summary>
 
 ### Weyward. (11:00)  
 Audio: https://www.overdrive.com/media/8916843/weyward  
@@ -2474,8 +2486,7 @@ Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_
 </details>
 
 
-<details>
-<summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
+<details><summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
 
 ### Winter in the Blood. (5:00)  
 Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
@@ -2562,26 +2573,67 @@ Reading Notes:
 
 
 <details>
-<summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+<summary>Twilight Territory -- A Novel. By Andrew X. Pham. 2024 </summary>
 
-### The Keeper of Hidden Books. (11:00)  
-Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
-eBook: https://www.overdrive.com/media/9194470/the-keeper-of-hidden-books  
-By [Madeline Martin](https://madelinemartin.com/bio/)  ( – )  
+### Twilight Territory -- A Novel. (12:00)  
+Audio: https://www.overdrive.com/media/10383176/twilight-territory  
+eBook: https://www.overdrive.com/media/9937219/twilight-territory (400 pages)  
+By [Andrew X. Pham](https://en.wikipedia.org/wiki/Andrew_X._Pham) and [https://www.andrewxpham.com/](https://www.andrewxpham.com/)  (1967 – )  
 
-Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction) novel is told from the perspective of Zofia Nowak, who is 18 years old when the Germans invade and loot Poland. After quickly losing her brother and father to the invading Nazis, Zofia and her friends play a number of roles in Polish attempts to resist extinction (*including Jewish extinction -- her best friend Janina is confined in the Jewish ghetto*), maintain an *Hitler-banned Book Club* (*later, the "Bandit Book Club"*), participate in local resistance efforts, work in the Warsaw library system to save books that Nazis attempt to confiscated and destroy, and support families torn apart and left destitute by the multi-faceted violence of the war. The narrative is set in Poland from 1939 to 1944 and follows the campaign to eliminate Jews and to destroy all non-German culture in Poland. ... inspired by the true story of the underground library/libraries in WWII Warsaw.  
+Reading Notes: This novel is an entertaining view into a slice of Vietnamese history.  The book opens in 1942, Japanese occupation of what was French Indochina and ends in 1951 during the first Indochina War. Le Tuyet, a divorced single mother in the southern province of Phan Thiet.  Maj. Yamazaki Takeshi, an officer at a nearby air base. French colonial official Gaspar Feraud. Tuyet's aunt and daughter.  
+  
 
-OverDrive Summary: [https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books](https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books)  
-[Book Club Guide by the author](https://madelinemartin.com/wp-content/uploads/2024/03/2524-no-code-THE-KEEPER-OF-HIDDEN-BOOKS-Reader-s-Guide.pdf)  
-Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://historicalnovelsociety.org/reviews/the-keeper-of-hidden-books/)  
-Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
-Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
+Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
+Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
 
+</details>
+
+
+<details>
+<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
+
+### Prequel -- An American Fight Against Fascism. (13:00)  
+Audio: https://www.overdrive.com/media/9893186/prequel  
+eBook: https://www.overdrive.com/media/9893244/prequel  
+By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
+
+Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
+
+Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
+Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
+A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
 
 
 </details>
 
 
+<details>
+<summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+
+### Code Name Sapphire. (13:00)  
+Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
+eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
+By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
+
+Reading Notes: [Historical fiction](https://en.wikipedia.org/wiki/Historical_fiction), [suspense](https://en.wikipedia.org/wiki/Thriller_(genre)#Suspense), [romance](https://en.wikipedia.org/wiki/Romance_novel) novel set largely in WWII Belgium. See the [OverDrive Summary](https://www.overdrive.com/media/8905063/code-name-sapphire)...  
+
+</details>
+
+
+<details>
+<summary>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
+
+### On Writing -- A Memoir Of The Craft.  
+Audio: https://www.overdrive.com/media/143949/on-writing  
+eBook: https://www.overdrive.com/media/13779/on-writing  
+By [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)  (1947 – )  
+
+Reading Notes:  If you enjoy learning what creative people think about their art and craft, this is an excellent book -- the kind that after listening to it you find yourself searching out the book to read at your own pace, taking notes along the way.  If you just enjoy learning about people, this also seems like a good fit.  Give it a listen.  In addition to enjoying the content, King's reading style and pacing was an added joy.  The [OverDrive version](https://www.overdrive.com/media/143949/on-writing) is the twentieth-anniversary audio edition that includes some additional content, so don't just stop listening at the end of the book...  
+I am not a reader of Stephen King's fiction because every time I tried (*in the 1980s and 1990s*) it cost me too many sleepless nights and too much discomfort about __ (*the scary everyday scene most recently seeded into my imagination*) __.  Unlike any other author I have read, his writing has a near perfect fit for whatever part of my brain generates/remembers/emits fear in its many forms and life seems too short to give up the volume of energy required to deal with that long-lived response.  After listening to him read this book I may again try to find some fiction of his that my psyche and my day-to-day living can tolerate.  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft](https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft)  
+
+</details>
 
 
 
