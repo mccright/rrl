@@ -3,7 +3,7 @@
 
 ## TLDR:  
 * [Audio Books](AudioBooks/)  
-* [Out-of-Copywrite - Open-Access eBooks](OpenSourceTexts/)  
+* [Out-of-Copyright - Open-Access eBooks](OpenSourceTexts/)  
 * [Commercial and "Open Access" Books](Books/)  
 
 
@@ -11,7 +11,7 @@
 This is where I maintain a list of the books that I am reading or have read or are considering reading since 25 July 2022 (*when I started tracking my reading*).  
 
 
-### Sources for [Out-of-Copywrite - Open-Access eBooks](OpenSourceTexts/)  
+### Sources for [Out-of-Copyright - Open-Access eBooks](OpenSourceTexts/)  
   * Project Gutenberg  [https://www.gutenberg.org/](https://www.gutenberg.org/)  
   * The Univ. Penn. Online Books Page at  [https://onlinebooks.library.upenn.edu/](https://onlinebooks.library.upenn.edu/) (An index of over three million online books freely readable on the Internet)  
   * Standard Ebooks  [https://standardebooks.org/](https://standardebooks.org/)  
