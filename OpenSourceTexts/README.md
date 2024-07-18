@@ -1,4 +1,4 @@
-# rrl / Recreational Reading Log: Out-of-Copywrite - Open-Access eBooks  
+# rrl / Recreational Reading Log: Out-of-Copyright - Open-Access eBooks  
 (*started 2022 July 25*)  
 
 ## Completed:  
@@ -900,4 +900,3 @@ https://www.gutenberg.org/ebooks/70052
 By [Emmeline M. Plunket]()  
 [alibris Summary](https://www.alibris.com/Calendars-and-Constellations-of-the-Ancient-World-Emmeline-Plunket/book/886454):  
 >The great temple of Amen-Ra at Thebes... is oriented to the setting sun of the season so important to Egyptians, that of the summer solstice, and this fact strengthens the opinion that Amen was considered to be a god in some way presiding over the course of the year and its right measurement. -from "Amen and the Egyptian Year" First published in 1903 as Ancient Calendars and Constellations, this overview of early astronomical observations and how they influenced the belief systems and religions of early civilizations quickly became a resource later scholars looked to for guidance. From the very beginnings of astronomy, nearly 8,000 years ago, to the more "modern" ancient astronomies of Greece, Egypt, India, Persia, and China, this charming and erudite book will fascinate students of science, history, and mythology as well as lovers of the night sky.  
-
