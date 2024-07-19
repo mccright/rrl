@@ -1310,6 +1310,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Inspector French and the Cheyne Mystery. 1926 </summary>
+
+### Inspector French and the Cheyne Mystery. (8:53:55)  
+Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
+eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
+By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
+
+Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction) good enough to entertain while working in the yard...  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
+Librivox summary:  
+>A railway engineer by training, Freeman Wills Crofts often relied on railway themes for his plots, with careful attention to details and schedules. Having retired from the railway in 1929 to devote himself full time to writing, he is considered part of the golden age of detective fiction, along with Raymond Chandler and Agatha Christie. Until his death in 1957, he produced more than 30 novels, short-stories, and plays. In his fifth book in 1924, he introduced the character of Inspector Joseph French, a Scotland Yard detective whose approach to crime was far more workman-like than most other fictional sleuths. In this book, he tells the story of Maxwell Cheyne, who is mysteriously drugged in a country inn and awakens to find that his home has been burgled, although nothing is missing. As Cheyne is pursued by a gang of relentless criminals, Inspector French of Scotland Yard must untangle their mysterious conspiracy. - [Summary by ASharma](https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/)  
+
+</details>
+
+
 <details><summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>
 
 ### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
@@ -1986,6 +2002,24 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
+
+### Prequel -- An American Fight Against Fascism. (13:00)  
+Audio: https://www.overdrive.com/media/9893186/prequel  
+eBook: https://www.overdrive.com/media/9893244/prequel  
+By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
+
+Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
+
+Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
+Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
+A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
+
+
+</details>
+
+
 <details><summary>The President is Missing.  2018 </summary>
 
 ### The President is Missing.  (13:00)  
@@ -2590,24 +2624,6 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 
 
 <details>
-<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
-
-### Prequel -- An American Fight Against Fascism. (13:00)  
-Audio: https://www.overdrive.com/media/9893186/prequel  
-eBook: https://www.overdrive.com/media/9893244/prequel  
-By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
-
-Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
-
-Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
-Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
-A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
-
-
-</details>
-
-
-<details>
 <summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
 
 ### Code Name Sapphire. (13:00)  
@@ -2837,23 +2853,6 @@ Librivox summary:
 
 
 <details>
-<summary>Inspector French and the Cheyne Mystery. 1926 </summary>
-
-### Inspector French and the Cheyne Mystery. (8:53:55)  
-Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
-eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
-By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
-
-Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction) good enough to entertain while working in the yard...  
-
-Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
-Librivox summary:  
->A railway engineer by training, Freeman Wills Crofts often relied on railway themes for his plots, with careful attention to details and schedules. Having retired from the railway in 1929 to devote himself full time to writing, he is considered part of the golden age of detective fiction, along with Raymond Chandler and Agatha Christie. Until his death in 1957, he produced more than 30 novels, short-stories, and plays. In his fifth book in 1924, he introduced the character of Inspector Joseph French, a Scotland Yard detective whose approach to crime was far more workman-like than most other fictional sleuths. In this book, he tells the story of Maxwell Cheyne, who is mysteriously drugged in a country inn and awakens to find that his home has been burgled, although nothing is missing. As Cheyne is pursued by a gang of relentless criminals, Inspector French of Scotland Yard must untangle their mysterious conspiracy. - [Summary by ASharma](https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/)  
-
-</details>
-
-
-<details>
 <summary>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
 
 ### Stanton White: A Romance of the New South. (5:31:26)  
@@ -2862,7 +2861,7 @@ Online text: https://books.google.com/books?id=iMpDAQAAMAAJ
 By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
 297 pages.
 
-Reading Notes:  
+Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
 
 Librivox Summary:  
 >In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
