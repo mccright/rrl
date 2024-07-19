@@ -2002,6 +2002,24 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
+
+### Prequel -- An American Fight Against Fascism. (13:00)  
+Audio: https://www.overdrive.com/media/9893186/prequel  
+eBook: https://www.overdrive.com/media/9893244/prequel  
+By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
+
+Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
+
+Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
+Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
+A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
+
+
+</details>
+
+
 <details><summary>The President is Missing.  2018 </summary>
 
 ### The President is Missing.  (13:00)  
@@ -2601,24 +2619,6 @@ Reading Notes: This novel is an entertaining view into a slice of Vietnamese his
 
 Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
 Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
-
-</details>
-
-
-<details>
-<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
-
-### Prequel -- An American Fight Against Fascism. (13:00)  
-Audio: https://www.overdrive.com/media/9893186/prequel  
-eBook: https://www.overdrive.com/media/9893244/prequel  
-By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
-
-Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
-
-Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
-Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
-A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
-
 
 </details>
 
