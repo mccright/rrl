@@ -732,6 +732,18 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
+<details><summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+
+### Code Name Sapphire. (13:00)  
+Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
+eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
+By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
+
+Reading Notes: [Historical fiction](https://en.wikipedia.org/wiki/Historical_fiction), [suspense](https://en.wikipedia.org/wiki/Thriller_(genre)#Suspense), [romance](https://en.wikipedia.org/wiki/Romance_novel) novel set largely in WWII Belgium. See the [OverDrive Summary](https://www.overdrive.com/media/8905063/code-name-sapphire)...  
+
+</details>
+
+
 <details><summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
 
 ### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
@@ -2615,23 +2627,9 @@ eBook: https://www.overdrive.com/media/9937219/twilight-territory (400 pages)
 By [Andrew X. Pham](https://en.wikipedia.org/wiki/Andrew_X._Pham) and [https://www.andrewxpham.com/](https://www.andrewxpham.com/)  (1967 – )  
 
 Reading Notes: This novel is an entertaining view into a slice of Vietnamese history.  The book opens in 1942, Japanese occupation of what was French Indochina and ends in 1951 during the first Indochina War. Le Tuyet, a divorced single mother in the southern province of Phan Thiet.  Maj. Yamazaki Takeshi, an officer at a nearby air base. French colonial official Gaspar Feraud. Tuyet's aunt and daughter.  
-  
 
 Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
 Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
-
-</details>
-
-
-<details>
-<summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
-
-### Code Name Sapphire. (13:00)  
-Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
-eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
-By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
-
-Reading Notes: [Historical fiction](https://en.wikipedia.org/wiki/Historical_fiction), [suspense](https://en.wikipedia.org/wiki/Thriller_(genre)#Suspense), [romance](https://en.wikipedia.org/wiki/Romance_novel) novel set largely in WWII Belgium. See the [OverDrive Summary](https://www.overdrive.com/media/8905063/code-name-sapphire)...  
 
 </details>
 
