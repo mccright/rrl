@@ -2439,6 +2439,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)
 </details>
 
 
+<details><summary>Twilight Territory -- A Novel. By Andrew X. Pham. 2024 </summary>
+
+### Twilight Territory -- A Novel. (12:00)  
+Audio: https://www.overdrive.com/media/10383176/twilight-territory  
+eBook: https://www.overdrive.com/media/9937219/twilight-territory (400 pages)  
+By [Andrew X. Pham](https://en.wikipedia.org/wiki/Andrew_X._Pham) and [https://www.andrewxpham.com/](https://www.andrewxpham.com/)  (1967 – )  
+
+Reading Notes: This novel is an entertaining view into a slice of Vietnamese history.  The book opens in 1942, Japanese occupation of what was French Indochina and ends in 1951 during the first Indochina War. Le Tuyet, a divorced single mother in the southern province of Phan Thiet.  Maj. Yamazaki Takeshi, an officer at a nearby air base. French colonial official Gaspar Feraud. Tuyet's aunt and children.  
+
+Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
+Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
+
+</details>
+
+
 <details><summary>VALIS. By Philip K. Dick. 1981 </summary>
 
 ### VALIS. (9:00)  
@@ -2614,22 +2629,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Twilight Territory -- A Novel. By Andrew X. Pham. 2024 </summary>
-
-### Twilight Territory -- A Novel. (12:00)  
-Audio: https://www.overdrive.com/media/10383176/twilight-territory  
-eBook: https://www.overdrive.com/media/9937219/twilight-territory (400 pages)  
-By [Andrew X. Pham](https://en.wikipedia.org/wiki/Andrew_X._Pham) and [https://www.andrewxpham.com/](https://www.andrewxpham.com/)  (1967 – )  
-
-Reading Notes: This novel is an entertaining view into a slice of Vietnamese history.  The book opens in 1942, Japanese occupation of what was French Indochina and ends in 1951 during the first Indochina War. Le Tuyet, a divorced single mother in the southern province of Phan Thiet.  Maj. Yamazaki Takeshi, an officer at a nearby air base. French colonial official Gaspar Feraud. Tuyet's aunt and daughter.  
-
-Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
-Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
 
 </details>
 
