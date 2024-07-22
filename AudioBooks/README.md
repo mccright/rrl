@@ -732,6 +732,18 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
+<details><summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+
+### Code Name Sapphire. (13:00)  
+Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
+eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
+By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
+
+Reading Notes: [Historical fiction](https://en.wikipedia.org/wiki/Historical_fiction), [suspense](https://en.wikipedia.org/wiki/Thriller_(genre)#Suspense), [romance](https://en.wikipedia.org/wiki/Romance_novel) novel set largely in WWII Belgium. See the [OverDrive Summary](https://www.overdrive.com/media/8905063/code-name-sapphire)...  
+
+</details>
+
+
 <details><summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
 
 ### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
@@ -1306,6 +1318,22 @@ Reading Notes:  Published in 1899, this seems like an important contribution to 
 
 Librivox Summary:  
 >Imperium in Imperio is a historical fiction novel by Sutton Griggs, published in 1899. The novel covers the life of Belton Piedmont, a highly educated and disciplined black man in the Jim Crow south and his role in a shadow government of black men operated out of a college in Waco, Texas.  
+
+</details>
+
+
+<details><summary>Inspector French and the Cheyne Mystery. 1926 </summary>
+
+### Inspector French and the Cheyne Mystery. (8:53:55)  
+Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
+eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
+By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
+
+Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction) good enough to entertain while working in the yard...  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
+Librivox summary:  
+>A railway engineer by training, Freeman Wills Crofts often relied on railway themes for his plots, with careful attention to details and schedules. Having retired from the railway in 1929 to devote himself full time to writing, he is considered part of the golden age of detective fiction, along with Raymond Chandler and Agatha Christie. Until his death in 1957, he produced more than 30 novels, short-stories, and plays. In his fifth book in 1924, he introduced the character of Inspector Joseph French, a Scotland Yard detective whose approach to crime was far more workman-like than most other fictional sleuths. In this book, he tells the story of Maxwell Cheyne, who is mysteriously drugged in a country inn and awakens to find that his home has been burgled, although nothing is missing. As Cheyne is pursued by a gang of relentless criminals, Inspector French of Scotland Yard must untangle their mysterious conspiracy. - [Summary by ASharma](https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/)  
 
 </details>
 
@@ -1986,6 +2014,24 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
+
+### Prequel -- An American Fight Against Fascism. (13:00)  
+Audio: https://www.overdrive.com/media/9893186/prequel  
+eBook: https://www.overdrive.com/media/9893244/prequel  
+By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
+
+Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
+
+Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
+Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
+A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
+
+
+</details>
+
+
 <details><summary>The President is Missing.  2018 </summary>
 
 ### The President is Missing.  (13:00)  
@@ -2393,6 +2439,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)
 </details>
 
 
+<details><summary>Twilight Territory -- A Novel. By Andrew X. Pham. 2024 </summary>
+
+### Twilight Territory -- A Novel. (12:00)  
+Audio: https://www.overdrive.com/media/10383176/twilight-territory  
+eBook: https://www.overdrive.com/media/9937219/twilight-territory (400 pages)  
+By [Andrew X. Pham](https://en.wikipedia.org/wiki/Andrew_X._Pham) and [https://www.andrewxpham.com/](https://www.andrewxpham.com/)  (1967 – )  
+
+Reading Notes: This novel is an entertaining view into a slice of Vietnamese history.  The book opens in 1942, Japanese occupation of what was French Indochina and ends in 1951 during the first Indochina War. Le Tuyet, a divorced single mother in the southern province of Phan Thiet.  Maj. Yamazaki Takeshi, an officer at a nearby air base. French colonial official Gaspar Feraud. Tuyet's aunt and children.  
+
+Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
+Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
+
+</details>
+
+
 <details><summary>VALIS. By Philip K. Dick. 1981 </summary>
 
 ### VALIS. (9:00)  
@@ -2563,8 +2624,8 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 <summary>Empty_Template </summary>
 
 ### Empty_Template  
-Audio:  
-eBook:  
+Audio:   
+eBook:   
 By []()  ( – )  
 
 Reading Notes:  
@@ -2573,49 +2634,37 @@ Reading Notes:
 
 
 <details>
-<summary>Twilight Territory -- A Novel. By Andrew X. Pham. 2024 </summary>
+<summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
 
-### Twilight Territory -- A Novel. (12:00)  
-Audio: https://www.overdrive.com/media/10383176/twilight-territory  
-eBook: https://www.overdrive.com/media/9937219/twilight-territory (400 pages)  
-By [Andrew X. Pham](https://en.wikipedia.org/wiki/Andrew_X._Pham) and [https://www.andrewxpham.com/](https://www.andrewxpham.com/)  (1967 – )  
+### The Original. (3:24)  
+Audio: https://www.overdrive.com/media/5612235/the-original  
+By [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) & [his site](https://www.brandonsanderson.com/about-brandon/) (1975 – ) and [Mary Robinette Kowal](https://en.wikipedia.org/wiki/Mary_Robinette_Kowal) & [her site](https://maryrobinettekowal.com/)  (1969 – )  
 
-Reading Notes: This novel is an entertaining view into a slice of Vietnamese history.  The book opens in 1942, Japanese occupation of what was French Indochina and ends in 1951 during the first Indochina War. Le Tuyet, a divorced single mother in the southern province of Phan Thiet.  Maj. Yamazaki Takeshi, an officer at a nearby air base. French colonial official Gaspar Feraud. Tuyet's aunt and daughter.  
-  
+Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If now she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
 
-Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
-Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
-
-</details>
-
-
-<details>
-<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
-
-### Prequel -- An American Fight Against Fascism. (13:00)  
-Audio: https://www.overdrive.com/media/9893186/prequel  
-eBook: https://www.overdrive.com/media/9893244/prequel  
-By [Rachel Maddow](https://en.wikipedia.org/wiki/Rachel_Maddow)  (1973 – )  
-
-Reading Notes: This is an entertaining presentation of varied threads of isolationism, antisemitism, racism, and fascism in the U.S. in the 1930s into the 1940s -- sometimes with material financial and intellectual assistance from Hitler and his team and other times contributing to to Nazi planning and goals... See the reviews if you need to know more.  
-
-Review by [Jeff Shesol](https://en.wikipedia.org/wiki/Jeff_Shesol): [https://www.nytimes.com/2023/10/15/books/review/prequel...](https://www.nytimes.com/2023/10/15/books/review/prequel-rachel-maddow-democracy-awakening-heather-cox-richardson.html).  
-Review by [Kathleen Belew](https://en.wikipedia.org/wiki/Kathleen_Belew): [https://www.washingtonpost.com/...rachel-maddow-prequel...](https://www.washingtonpost.com/books/2023/10/17/rachel-maddow-prequel-fascism-book-review/)  
-A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuck.com/): [https://reason.com/2023/10/31/rachel-maddows-prequel.../](https://reason.com/2023/10/31/rachel-maddows-prequel-is-a-deceptively-framed-history-of-the-radical-right/).  
+[OverDrive Summary](https://www.overdrive.com/media/5612235/the-original).  
 
 
 </details>
 
 
 <details>
-<summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+<summary>Poverty, by America. By Matthew Desmond. 2023 </summary>
 
-### Code Name Sapphire. (13:00)  
-Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
-eBook: https://www.overdrive.com/media/8905063/code-name-sapphire  
-By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
+### Poverty, by America. (6:00)  
+Audio: https://www.overdrive.com/media/9090325/poverty-by-america  
+eBook: https://www.overdrive.com/media/9080553/poverty-by-america  
+By [Matthew Desmond](https://en.wikipedia.org/wiki/Matthew_Desmond)  (1979 or 1980 – )  
 
-Reading Notes: [Historical fiction](https://en.wikipedia.org/wiki/Historical_fiction), [suspense](https://en.wikipedia.org/wiki/Thriller_(genre)#Suspense), [romance](https://en.wikipedia.org/wiki/Romance_novel) novel set largely in WWII Belgium. See the [OverDrive Summary](https://www.overdrive.com/media/8905063/code-name-sapphire)...  
+Reading Notes: This non-fiction book is an analysis of poverty and its causes in the United States, plus recommendations for addressing it.  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Poverty,_by_America](https://en.wikipedia.org/wiki/Poverty,_by_America)  
+Summary from Overdrive:  
+  "The United States, the richest country on earth, has more poverty than any other advanced democracy. Why? Why does this land of plenty allow one in every eight of its children to go without basic necessities, permit scores of its citizens to live and die on the streets, and authorize its corporations to pay poverty wages?"  
+  "In this landmark book, acclaimed sociologist Matthew Desmond draws on history, research, and original reporting to show how affluent Americans knowingly and unknowingly keep poor people poor. Those of us who are financially secure exploit the poor, driving down their wages while forcing them to overpay for housing and access to cash and credit. We prioritize the subsidization of our wealth over the alleviation of poverty, designing a welfare state that gives the most to those who need the least. And we stockpile opportunity in exclusive communities, creating zones of concentrated riches alongside those of concentrated despair. Some lives are made small so that others may grow. Elegantly written and fiercely argued, this compassionate book gives us new ways of thinking about a morally urgent problem. It also helps us imagine solutions. Desmond builds a startlingly original and ambitious case for ending poverty. He calls on us all to become poverty abolitionists, engaged in a politics of collective belonging to usher in a new age of shared prosperity and, at last, true freedom."  
+
+Review by [Alec MacGillis](): [https://www.nytimes.com/...poverty-by-america-matthew-desmond.html](https://www.nytimes.com/2023/03/13/books/review/poverty-by-america-matthew-desmond.html)  
+Review by [Jennifer Ludden](): [https://www.npr.org/...poverty-by-america-book-review...](https://www.npr.org/2023/03/17/1158230630/poverty-by-america-book-review-matthew-desmond-evicted)  
 
 </details>
 
@@ -2653,8 +2702,6 @@ Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/ab
 
 
 </details>
-
-
 
 
 <details>
@@ -2837,23 +2884,6 @@ Librivox summary:
 
 
 <details>
-<summary>Inspector French and the Cheyne Mystery. 1926 </summary>
-
-### Inspector French and the Cheyne Mystery. (8:53:55)  
-Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
-eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
-By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
-
-Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction) good enough to entertain while working in the yard...  
-
-Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
-Librivox summary:  
->A railway engineer by training, Freeman Wills Crofts often relied on railway themes for his plots, with careful attention to details and schedules. Having retired from the railway in 1929 to devote himself full time to writing, he is considered part of the golden age of detective fiction, along with Raymond Chandler and Agatha Christie. Until his death in 1957, he produced more than 30 novels, short-stories, and plays. In his fifth book in 1924, he introduced the character of Inspector Joseph French, a Scotland Yard detective whose approach to crime was far more workman-like than most other fictional sleuths. In this book, he tells the story of Maxwell Cheyne, who is mysteriously drugged in a country inn and awakens to find that his home has been burgled, although nothing is missing. As Cheyne is pursued by a gang of relentless criminals, Inspector French of Scotland Yard must untangle their mysterious conspiracy. - [Summary by ASharma](https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/)  
-
-</details>
-
-
-<details>
 <summary>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
 
 ### Stanton White: A Romance of the New South. (5:31:26)  
@@ -2862,7 +2892,7 @@ Online text: https://books.google.com/books?id=iMpDAQAAMAAJ
 By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
 297 pages.
 
-Reading Notes:  
+Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
 
 Librivox Summary:  
 >In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
@@ -3376,4 +3406,5 @@ https://www.overdrive.com/media/7617512/his-name-is-george-floyd
 By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
 
 </details>
+
 
