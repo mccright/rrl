@@ -2634,6 +2634,21 @@ Reading Notes:
 
 
 <details>
+<summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
+
+### The Original. (3:24)  
+Audio: https://www.overdrive.com/media/5612235/the-original  
+By [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) & [his site](https://www.brandonsanderson.com/about-brandon/) (1975 – ) and [Mary Robinette Kowal](https://en.wikipedia.org/wiki/Mary_Robinette_Kowal) & [her site](https://maryrobinettekowal.com/)  (1969 – )  
+
+Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If now she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
+
+[OverDrive Summary](https://www.overdrive.com/media/5612235/the-original).  
+
+
+</details>
+
+
+<details>
 <summary>Poverty, by America. By Matthew Desmond. 2023 </summary>
 
 ### Poverty, by America. (6:00)  
