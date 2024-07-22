@@ -2624,11 +2624,32 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 <summary>Empty_Template </summary>
 
 ### Empty_Template  
-Audio:  
-eBook:  
+Audio:   
+eBook:   
 By []()  ( – )  
 
 Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Poverty, by America. By Matthew Desmond. 2023 </summary>
+
+### Poverty, by America. (6:00)  
+Audio: https://www.overdrive.com/media/9090325/poverty-by-america  
+eBook: https://www.overdrive.com/media/9080553/poverty-by-america  
+By [Matthew Desmond](https://en.wikipedia.org/wiki/Matthew_Desmond)  (1979 or 1980 – )  
+
+Reading Notes: This non-fiction book is an analysis of poverty and its causes in the United States, plus recommendations for addressing it.  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/Poverty,_by_America](https://en.wikipedia.org/wiki/Poverty,_by_America)  
+Summary from Overdrive:  
+  "The United States, the richest country on earth, has more poverty than any other advanced democracy. Why? Why does this land of plenty allow one in every eight of its children to go without basic necessities, permit scores of its citizens to live and die on the streets, and authorize its corporations to pay poverty wages?"  
+  "In this landmark book, acclaimed sociologist Matthew Desmond draws on history, research, and original reporting to show how affluent Americans knowingly and unknowingly keep poor people poor. Those of us who are financially secure exploit the poor, driving down their wages while forcing them to overpay for housing and access to cash and credit. We prioritize the subsidization of our wealth over the alleviation of poverty, designing a welfare state that gives the most to those who need the least. And we stockpile opportunity in exclusive communities, creating zones of concentrated riches alongside those of concentrated despair. Some lives are made small so that others may grow. Elegantly written and fiercely argued, this compassionate book gives us new ways of thinking about a morally urgent problem. It also helps us imagine solutions. Desmond builds a startlingly original and ambitious case for ending poverty. He calls on us all to become poverty abolitionists, engaged in a politics of collective belonging to usher in a new age of shared prosperity and, at last, true freedom."  
+
+Review by [Alec MacGillis](): [https://www.nytimes.com/...poverty-by-america-matthew-desmond.html](https://www.nytimes.com/2023/03/13/books/review/poverty-by-america-matthew-desmond.html)  
+Review by [Jennifer Ludden](): [https://www.npr.org/...poverty-by-america-book-review...](https://www.npr.org/2023/03/17/1158230630/poverty-by-america-book-review-matthew-desmond-evicted)  
 
 </details>
 
@@ -2666,8 +2687,6 @@ Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/ab
 
 
 </details>
-
-
 
 
 <details>
@@ -3372,4 +3391,5 @@ https://www.overdrive.com/media/7617512/his-name-is-george-floyd
 By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
 
 </details>
+
 
