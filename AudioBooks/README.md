@@ -2621,6 +2621,53 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 
 
 <details>
+<summary>Work through some of the Jack Ryan series. 1988-today </summary>
+
+### The Jack Ryan series  
+
+OverDrive: [https://www.overdrive.com/series/jack-ryan](https://www.overdrive.com/series/jack-ryan)  
+Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wikipedia.org/wiki/Jack_Ryan_(character))  
+* The Hunt for Red October (1984)  
+* Patriot Games (1987)  
+* The Cardinal of the Kremlin (1988)  
+* Clear and Present Danger (1989)  
+* The Sum of All Fears (1991)  
+* Debt of Honor (1994)  
+* Executive Orders (1996)  
+* The Bear and the Dragon (2000)  
+* Red Rabbit (2002)  
+* The Teeth of the Tiger (2003)  
+* Dead or Alive (2010)  
+* Locked On (2011)  
+* Threat Vector (2012)  
+* Command Authority (2013)  
+* Support and Defend (2014)  
+* Full Force and Effect (2014)  
+* Under Fire (2015)  
+* Commander in Chief (2015)  
+* Duty and Honor (2016)  
+* True Faith and Allegiance (2016)  
+* Point of Contact (2017)  
+* Power and Empire (2017)  
+* Line of Sight (2018)  
+* Oath of Office (2018)  
+* Enemy Contact (2019)  
+* Code of Honor (2019)  
+* Firing Point (2020)  
+* Shadow of The Dragon (2020)  
+* Target Acquired (2021)  
+* Chain of Command (2021)  
+* Zero Hour (2022)  
+* Red Winter (2022)  
+* Flash Point (2023)  
+* Weapons Grade (2023)  
+* Command and Control (2023)  
+* Act of Defiance (2024)
+
+</details>
+
+
+<details>
 <summary>Empty_Template </summary>
 
 ### Empty_Template  
