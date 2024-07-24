@@ -2634,6 +2634,86 @@ Reading Notes:
 
 
 <details>
+<summary>The Inheritance of Loss. By Kiran Desai. 2007  
+ </summary>
+
+### The Inheritance of Loss. (12:00)  
+Audio: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
+eBook: https://www.overdrive.com/media/1273752/the-inheritance-of-loss  
+By [Kiran Desai](https://en.wikipedia.org/wiki/Kiran_Desai)  (1971 – )  
+
+Reading Notes:  In a crumbling, isolated house at the foot of Mount Kanchenjunga in the Himalayas...  characters.  Examines impacts of colonialism, globalism, religion, race, and nationalism...
+
+
+OverDrive Summary: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
+
+</details>
+
+
+<details>
+<summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
+
+### Church of Marvels (11:00)  
+Audio: https://www.overdrive.com/media/2192024/church-of-marvels  
+eBook: https://www.overdrive.com/media/1914017/church-of-marvels  
+By [Leslie Parry](https://www.leslieparry.com/about)  ( – )  
+
+Reading Notes: This is a great turn-of-the-century New York City history study.  Odile and Belle Church take different paths when their mother's Church of Marvels burns down.  Belle is taken to Blackwell’s Lunatic Asylum, where she meets Alphie -- again.  Sylvan Threadgill, working on one of the lowest levels of the work-world, finds an abandoned newborn baby in the muck below a tenement house privy.  These characters' lives converge and we are taken on a journey through late nineteenth century New York City.  Leslie Parry is a skilled artisan and novelist building characters that latch onto the reader, propelling her story forward, looping back when needed, and building a world any reader can empathize with.  Some have criticized the structure and even the content of this novel -- I recommend that you ignore them and judge it for yourself. (*if you want to know more, see her summary at: https://www.leslieparry.com/books *)  
+
+Review by [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel): [https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html](https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html)  
+
+</details>
+
+
+
+<details>
+<summary>Work through some of the Jack Ryan series. 1988-today </summary>
+
+### The Jack Ryan series  
+
+OverDrive: [https://www.overdrive.com/series/jack-ryan](https://www.overdrive.com/series/jack-ryan)  
+Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wikipedia.org/wiki/Jack_Ryan_(character))  
+* The Hunt for Red October (1984)  
+* Patriot Games (1987)  
+* The Cardinal of the Kremlin (1988)  
+* Clear and Present Danger (1989)  
+* The Sum of All Fears (1991)  
+* Debt of Honor (1994)  
+* Executive Orders (1996)  
+* The Bear and the Dragon (2000)  
+* Red Rabbit (2002)  
+* The Teeth of the Tiger (2003)  
+* Dead or Alive (2010)  
+* Locked On (2011)  
+* Threat Vector (2012)  
+* Command Authority (2013)  
+* Support and Defend (2014)  
+* Full Force and Effect (2014)  
+* Under Fire (2015)  
+* Commander in Chief (2015)  
+* Duty and Honor (2016)  
+* True Faith and Allegiance (2016)  
+* Point of Contact (2017)  
+* Power and Empire (2017)  
+* Line of Sight (2018)  
+* Oath of Office (2018)  
+* Enemy Contact (2019)  
+* Code of Honor (2019)  
+* Firing Point (2020)  
+* Shadow of The Dragon (2020)  
+* Target Acquired (2021)  
+* Chain of Command (2021)  
+* Zero Hour (2022)  
+* Red Winter (2022)  
+* Flash Point (2023)  
+* Weapons Grade (2023)  
+* Command and Control (2023)  
+* Act of Defiance (2024)
+
+</details>
+
+
+<details>
 <summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
 
 ### The Original. (3:24)  
