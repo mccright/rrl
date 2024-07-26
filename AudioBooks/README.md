@@ -2634,18 +2634,22 @@ Reading Notes:
 
 
 <details>
-<summary>The Inheritance of Loss. By Kiran Desai. 2007  
- </summary>
+<summary>The Inheritance of Loss. By Kiran Desai. 2007 </summary>
 
 ### The Inheritance of Loss. (12:00)  
 Audio: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
 eBook: https://www.overdrive.com/media/1273752/the-inheritance-of-loss  
 By [Kiran Desai](https://en.wikipedia.org/wiki/Kiran_Desai)  (1971 – )  
 
-Reading Notes:  In a crumbling, isolated house at the foot of Mount Kanchenjunga in the Himalayas...  characters.  Examines impacts of colonialism, globalism, religion, race, and nationalism...
+Reading Notes:  Read or listen to it.  It seems like an important book.  Much of the core action occurs in a crumbling, isolated house at the foot of Mount Kanchenjunga Kachenjunga, the world’s third-highest mountain, in the Himalayas (Sai, Retired judge Jemubhai Patel and cook) and in a series of restaurants in New York (Biju) in the middle 1980s.  The author examines impacts of colonialism/post-colonialism, globalism, multiculturalism, economic inequality, religion, race, and nationalism.  See any of the summaries or reviews below (especially the [review](https://www.nytimes.com/2006/02/09/arts/review-the-inheritance-of-loss.html) by [Pankaj Mishra](https://en.wikipedia.org/wiki/Pankaj_Mishra)).  
 
 
 OverDrive Summary: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Inheritance_of_Loss  
+
+Review by [Pankaj Mishra](https://en.wikipedia.org/wiki/Pankaj_Mishra): https://www.nytimes.com/2006/02/09/arts/review-the-inheritance-of-loss.html  
+Review by [James Whitmore](https://jameshwhitmorereviews.com/author/jameshwhitmore/): https://jameshwhitmorereviews.com/2022/07/17/review-the-inheritance-of-loss-by-kiran-desai/  
+Review by the [BookBrowse Team](): https://www.bookbrowse.com/reviews/index.cfm/book_number/1881/the-inheritance-of-loss  
 
 </details>
 
