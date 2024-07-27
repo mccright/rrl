@@ -2653,6 +2653,35 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary>The Warehouse. By Rob Hart. 2019 </summary>
+
+### The Warehouse. (13:00)  
+Audio: https://www.overdrive.com/media/4414586/the-warehouse  
+eBook: https://www.overdrive.com/media/4857124/the-warehouse  
+By [Rob Hart](https://en.wikipedia.org/wiki/Rob_Hart_(author))  (1982 – )  
+
+Reading Notes: Set in the near future, Hart's "Cloud" company seems loosely constructed on the *real life* Amazon constellation of corporations.  The author constructed *Cloud* founder using some of history's most dehumanizing authoritarian ideas and tendencies.  Bent on organizing his businesses around right wing social and economic freedom for the ultra-wealthy and evil assumptions about planned *communities*, managerial hierarchy, humans as just another corporate *consumable*, building corporate systems and measures to optimize profit at the expense of worker health and dignity the Cloud founder markets himself as a beneficient force for good.  The story is centered around corporate spy-for-hire "Zinnia" and struggling worker Paxton, who is a new member of the *Cloud* security staff.  This a dark suspense novel about a chain of privately built communities-for-profit -- citizens be damned...  
+
+</details>
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template (11:00)  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+
+
 <details>
 <summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
 
