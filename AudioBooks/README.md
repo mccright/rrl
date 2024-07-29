@@ -1322,6 +1322,26 @@ Librivox Summary:
 </details>
 
 
+<details><summary>The Inheritance of Loss. By Kiran Desai. 2007 </summary>
+
+### The Inheritance of Loss. (12:00)  
+Audio: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
+eBook: https://www.overdrive.com/media/1273752/the-inheritance-of-loss  
+By [Kiran Desai](https://en.wikipedia.org/wiki/Kiran_Desai)  (1971 – )  
+
+Reading Notes:  Read or listen to it.  It seems like an important book.  Much of the core action occurs in a crumbling, isolated house at the foot of Mount Kanchenjunga Kachenjunga, the world’s third-highest mountain, in the Himalayas (Sai, Retired judge Jemubhai Patel and cook) and in a series of restaurants in New York (Biju) in the middle 1980s.  The author examines impacts of colonialism/post-colonialism, globalism, multiculturalism, economic inequality, religion, race, and nationalism.  See any of the summaries or reviews below (especially the [review](https://www.nytimes.com/2006/02/09/arts/review-the-inheritance-of-loss.html) by [Pankaj Mishra](https://en.wikipedia.org/wiki/Pankaj_Mishra)).  
+
+
+OverDrive Summary: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Inheritance_of_Loss  
+
+Review by [Pankaj Mishra](https://en.wikipedia.org/wiki/Pankaj_Mishra): https://www.nytimes.com/2006/02/09/arts/review-the-inheritance-of-loss.html  
+Review by [James Whitmore](https://jameshwhitmorereviews.com/author/jameshwhitmore/): https://jameshwhitmorereviews.com/2022/07/17/review-the-inheritance-of-loss-by-kiran-desai/  
+Review by the [BookBrowse Team](): https://www.bookbrowse.com/reviews/index.cfm/book_number/1881/the-inheritance-of-loss  
+
+</details>
+
+
 <details><summary>Inspector French and the Cheyne Mystery. 1926 </summary>
 
 ### Inspector French and the Cheyne Mystery. (8:53:55)  
@@ -2633,21 +2653,38 @@ Reading Notes:
 </details>
 
 
+
 <details>
-<summary>The Inheritance of Loss. By Kiran Desai. 2007  
- </summary>
+<summary>The Warehouse. By Rob Hart. 2019 </summary>
 
-### The Inheritance of Loss. (12:00)  
-Audio: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
-eBook: https://www.overdrive.com/media/1273752/the-inheritance-of-loss  
-By [Kiran Desai](https://en.wikipedia.org/wiki/Kiran_Desai)  (1971 – )  
+### The Warehouse. (13:00)  
+Audio: https://www.overdrive.com/media/4414586/the-warehouse  
+eBook: https://www.overdrive.com/media/4857124/the-warehouse  
+By [Rob Hart](https://en.wikipedia.org/wiki/Rob_Hart_(author)) and [https://robwhart.com/](https://robwhart.com/)  (1982 – )  
 
-Reading Notes:  In a crumbling, isolated house at the foot of Mount Kanchenjunga in the Himalayas...  characters.  Examines impacts of colonialism, globalism, religion, race, and nationalism...
+Reading Notes: Set in the near future, Hart's "Cloud" company seems loosely constructed on the *real life* Amazon constellation of corporations.  The author constructed *Cloud* founder using some of history's most dehumanizing authoritarian ideas and tendencies.  Bent on organizing his businesses around right wing social and economic freedom for the ultra-wealthy and evil assumptions about planned *communities*, managerial hierarchy, humans as just another corporate *consumable*, building corporate systems and measures to optimize profit at the expense of worker health and dignity the Cloud founder markets himself as a beneficient force for good.  The story is centered around corporate spy-for-hire "Zinnia" and struggling worker Paxton, who is a new member of the *Cloud* security staff.  This a dark suspense novel about a chain of privately built communities-for-profit -- citizens be damned...  Some reviews suggest this story is a satire, but after a long career in Corporate America, the author seemed to me to be writing about categories and tactics of management employed throughout large-scale tech-centric organizations *in real life* for years already (*with the exception of some extreme Federal legislation that the Cloud founder was able to get passed... IRL corporate titans have not yet achieved the level of freedom-to-be-evil described in this book, but not for want of trying*).  At a key point in the novel, the Cloud founder describes how he employed [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) as a core component of personnel management...  
 
-
-OverDrive Summary: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
+Review by [Gerald Bartell](): [https://www.washingtonpost.com/...an-online-warehouse-gone-rogue-driverless-cars-hijacked-fiction-that-feels-eerily-possible/...](https://www.washingtonpost.com/entertainment/books/an-online-warehouse-gone-rogue-driverless-cars-hijacked-fiction-that-feels-eerily-possible/2019/10/08/5d6f75a0-b7b1-11e9-a091-6a96e67d9cce_story.html)  
 
 </details>
+
+
+<details>
+<summary>Exhalation. By Ted Chiang. 2019 </summary>
+
+### Exhalation. (11:00)  
+Audio: https://www.overdrive.com/media/4238776/exhalation  
+eBook: https://www.overdrive.com/media/4387263/exhalation  
+By [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)  (1967 – )  
+
+Reading Notes: This is a collection of nine short stories.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Exhalation:_Stories) for more detail.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Exhalation:_Stories  
+
+
+</details>
+
+
 
 
 <details>
