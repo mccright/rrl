@@ -2674,6 +2674,38 @@ Reading Notes:
 
 
 
+
+
+<details>
+<summary>Abigail Adams. By Woody Holton.  2009 </summary>
+
+### Abigail Adams.   
+Audio: https://www.overdrive.com/media/257554/abigail-adams  
+eBook: https://www.overdrive.com/media/345973/abigail-adams  
+By [Woody Holton]()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+
+<details>
+<summary>Letters of Mrs. Adams, the Wife of John Adams, Vol. 1. By Abigail Adams.  1840 </summary>
+
+### Letters of Mrs. Adams, the Wife of John Adams, Vol. 1. (7:41)  
+Audio: https://librivox.org/letters-of-mrs-adams-the-wife-of-john-adams-vol-1-by-abigail-adams/  
+eBook: https://books.google.com/books?id=1EUEAAAAYAAJ&dq=letters%20of%20mrs%20adams&pg=PR4#v=onepage&q&f;=false  
+By [Abigail Adams](http://en.wikipedia.org/wiki/Abigail_Adams)  (1744 - 1818)  
+
+Reading Notes:  
+
+</details>
+
+Letters of Mrs. Adams, the Wife of John Adams, Vol. 1
+
+
+
 <details>
 <summary>The Warehouse. By Rob Hart. 2019 </summary>
 
