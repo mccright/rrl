@@ -2541,6 +2541,21 @@ By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 -  )
 </details>
 
 
+<details>
+<summary>The Warehouse. By Rob Hart. 2019 </summary>
+
+### The Warehouse. (13:00)  
+Audio: https://www.overdrive.com/media/4414586/the-warehouse  
+eBook: https://www.overdrive.com/media/4857124/the-warehouse  
+By [Rob Hart](https://en.wikipedia.org/wiki/Rob_Hart_(author)) and [https://robwhart.com/](https://robwhart.com/)  (1982 – )  
+
+Reading Notes: Set in the near future, Hart's "Cloud" company seems loosely constructed on the *real life* Amazon constellation of corporations.  The author constructed *Cloud* founder using some of history's most dehumanizing authoritarian ideas and tendencies.  Bent on organizing his businesses around right wing social and economic freedom for the ultra-wealthy and evil assumptions about planned *communities*, managerial hierarchy, humans as just another corporate *consumable*, building corporate systems and measures to optimize profit at the expense of worker health and dignity the Cloud founder markets himself as a beneficient force for good.  The story is centered around corporate spy-for-hire "Zinnia" and struggling worker Paxton, who is a new member of the *Cloud* security staff.  This a dark suspense novel about a chain of privately built communities-for-profit -- citizens be damned...  Some reviews suggest this story is a satire, but after a long career in Corporate America, the author seemed to me to be writing about categories and tactics of management employed throughout large-scale tech-centric organizations *in real life* for years already (*with the exception of some extreme Federal legislation that the Cloud founder was able to get passed... IRL corporate titans have not yet achieved the level of freedom-to-be-evil described in this book, but not for want of trying*).  At a key point in the novel, the Cloud founder describes how he employed [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) as a core component of personnel management...  
+
+Review by [Gerald Bartell](): [https://www.washingtonpost.com/...an-online-warehouse-gone-rogue-driverless-cars-hijacked-fiction-that-feels-eerily-possible/...](https://www.washingtonpost.com/entertainment/books/an-online-warehouse-gone-rogue-driverless-cars-hijacked-fiction-that-feels-eerily-possible/2019/10/08/5d6f75a0-b7b1-11e9-a091-6a96e67d9cce_story.html)  
+
+</details>
+
+
 <details><summary>Weyward.  By Emilia Hart. 2023</summary>
 
 ### Weyward. (11:00)  
@@ -2675,16 +2690,102 @@ Reading Notes:
 
 
 <details>
-<summary>The Warehouse. By Rob Hart. 2019 </summary>
+<summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
 
-### The Warehouse. (13:00)  
-Audio: https://www.overdrive.com/media/4414586/the-warehouse  
-eBook: https://www.overdrive.com/media/4857124/the-warehouse  
-By [Rob Hart](https://en.wikipedia.org/wiki/Rob_Hart_(author)) and [https://robwhart.com/](https://robwhart.com/)  (1982 – )  
+### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
+Audio: https://www.overdrive.com/media/5273720/rise-to-rebellion  
+eBook: https://www.overdrive.com/media/52939/rise-to-rebellion  
+By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )  
 
-Reading Notes: Set in the near future, Hart's "Cloud" company seems loosely constructed on the *real life* Amazon constellation of corporations.  The author constructed *Cloud* founder using some of history's most dehumanizing authoritarian ideas and tendencies.  Bent on organizing his businesses around right wing social and economic freedom for the ultra-wealthy and evil assumptions about planned *communities*, managerial hierarchy, humans as just another corporate *consumable*, building corporate systems and measures to optimize profit at the expense of worker health and dignity the Cloud founder markets himself as a beneficient force for good.  The story is centered around corporate spy-for-hire "Zinnia" and struggling worker Paxton, who is a new member of the *Cloud* security staff.  This a dark suspense novel about a chain of privately built communities-for-profit -- citizens be damned...  Some reviews suggest this story is a satire, but after a long career in Corporate America, the author seemed to me to be writing about categories and tactics of management employed throughout large-scale tech-centric organizations *in real life* for years already (*with the exception of some extreme Federal legislation that the Cloud founder was able to get passed... IRL corporate titans have not yet achieved the level of freedom-to-be-evil described in this book, but not for want of trying*).  At a key point in the novel, the Cloud founder describes how he employed [learned helplessness](https://en.wikipedia.org/wiki/Learned_helplessness) as a core component of personnel management...  
+Reading Notes: Covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
 
-Review by [Gerald Bartell](): [https://www.washingtonpost.com/...an-online-warehouse-gone-rogue-driverless-cars-hijacked-fiction-that-feels-eerily-possible/...](https://www.washingtonpost.com/entertainment/books/an-online-warehouse-gone-rogue-driverless-cars-hijacked-fiction-that-feels-eerily-possible/2019/10/08/5d6f75a0-b7b1-11e9-a091-6a96e67d9cce_story.html)  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
+
+</details>
+
+
+
+
+<details>
+<summary>"The Glass Hotel." By Emily St. John Mandel. 2020 </summary>
+
+### The Glass Hotel. (10:00)  
+Audio: https://www.overdrive.com/media/4715842/the-glass-hotel  
+eBook: https://www.overdrive.com/media/5080920/the-glass-hotel  
+By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Glass_Hotel  
+
+</details>
+
+
+<details>
+<summary>"Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). By Toshikazu Kawaguchi 2020 </summary>
+
+### Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). (19:00)  
+Audio:   
+eBook:   
+By [Toshikazu Kawaguchi](https://www.panmacmillan.com/authors/toshikazu-kawaguchi/28093)  (1971 – )  
+
+Reading Notes: Includes: "Before the Coffee Gets Cold" (2015), "Tales from the Café." (2022) and "Before Your Memory Fades." (2022)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Before_the_Coffee_Gets_Cold  
+Review by [Antonia Hitchens](https://muckrack.com/antonia-hitchens/articles): [https://www.nytimes.com/...toshikazu-kawaguchi-tales-from-the-cafe.html](https://www.nytimes.com/2022/01/14/books/review/as-you-were-elaine-feeney-sara-stridsberg-the-antarctica-of-love-toshikazu-kawaguchi-tales-from-the-cafe.html)  
+https://apa.si.edu/bookdragon/before-the-coffee-gets-cold-by-toshikazu-kawaguchi-translated-by-geoffrey-trousselot-in-christian-science-monitor/  
+https://www.bookseriesinorder.com/toshikazu-kawaguchi/  
+https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-kawaguchi-book-set-toshikazu-kawaguchi?variant=41049284083746  
+
+</details>
+
+
+
+<details>
+<summary>1984. By George Orwell. 1949 </summary>
+
+### 1984. (11:00)  
+Audio: https://www.overdrive.com/media/71105/1984  
+eBook: https://www.overdrive.com/media/625352/1984  
+By [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)  (1903 – 1950)  
+
+Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four  
+
+</details>
+
+
+<details>
+<summary>Abigail Adams. By Woody Holton.  2009 </summary>
+
+### Abigail Adams.   
+Audio: https://www.overdrive.com/media/257554/abigail-adams  
+eBook: https://www.overdrive.com/media/345973/abigail-adams  
+By [Woody Holton](https://en.wikipedia.org/wiki/Woody_Holton)  (1959 – )  
+
+Reading Notes:  
+You might also see:  
+* "[The Unexpected Abigail Adams -- A Woman "Not Apt to Be Intimidated](https://www.overdrive.com/media/10977600/the-unexpected-abigail-adams)." By John L. Smith, Jr. 2024  
+* "[Abigail Adams -- (Early America) Primary Source Readers](https://www.overdrive.com/media/1048228/abigail-adams)." By Jill K. Mulhall. 2012  
+* "[Abigail Adams -- A Biography](https://www.overdrive.com/media/1423911/abigail-adams)." By Phyllis Lee Levin. 2013.  
+
+OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):  
+>Abigail Adams offers a fresh perspective on the famous events of Adams's life, and along the way, Woody Holton, a renowned historian of the American Revolution, takes on numerous myths about the men and women of the founding era. But the book also demonstrates that domestic dramas-from unplanned pregnancies to untimely deaths-could be just as heartbreaking, significant, and inspiring as the actions of statesmen and soldiers. A special focus of the book is Adams's complex relationships: with her mother, sisters, and children; with her husband's famous contemporaries; and with Phoebe, one of her father's slaves. At the same time that John exhibited his own diplomatic skills on a better-known canvas, Abigail struggled to prevent the charitable gifts she gave her sisters from coming between them. In a departure from the persistently upbeat tone of most Adams biographies, Holton's work shows how frequently her life was marred by tragedy, making this the deepest, most humanistic portrayal ever published. Using the matchless trove of Adams family manuscripts, the author steps back to allow Abigail to respond to her many losses in her own words. Holton reveals that Abigail Adams sharply disagreed with her husband's financial decisions and assumed control of the family's money herself-earning them a tidy fortune through her shrewd speculations (this during a time when married women were not permitted to own property). And he shows that her commitment to women's equality and education was intense and explicitly expressed and practical, from the more than two thousand letters she wrote over her lifetime to her final will (written in defiance of legislation prohibiting married women from bequeathing property). Alternately witty, poignant, and uplifting, Holton's narrative sheds new light on one of America's best-loved but least-understood icons.  
+
+</details>
+
+
+
+<details>
+<summary>Letters of Mrs. Adams, the Wife of John Adams, Vol. 1. By Abigail Adams.  1840 </summary>
+
+### Letters of Mrs. Adams, the Wife of John Adams, Vol. 1. (7:41)  
+Audio: https://librivox.org/letters-of-mrs-adams-the-wife-of-john-adams-vol-1-by-abigail-adams/  
+eBook: https://books.google.com/books?id=1EUEAAAAYAAJ&dq=letters%20of%20mrs%20adams&pg=PR4#v=onepage&q&f;=false  
+By [Abigail Adams](http://en.wikipedia.org/wiki/Abigail_Adams)  (1744 - 1818)  
+
+Reading Notes:  
 
 </details>
 
