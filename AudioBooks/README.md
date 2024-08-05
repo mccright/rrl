@@ -2148,6 +2148,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
+<details>
+<summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
+
+### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
+Audio: https://www.overdrive.com/media/5273720/rise-to-rebellion  
+eBook: https://www.overdrive.com/media/52939/rise-to-rebellion  
+By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )  
+
+Reading Notes: This long book is probably not for everyone...  It covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
+
+</details>
+
+
 <details><summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
@@ -2686,23 +2701,6 @@ By []()  ( – )
 Reading Notes:  
 
 </details>
-
-
-
-<details>
-<summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
-
-### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
-Audio: https://www.overdrive.com/media/5273720/rise-to-rebellion  
-eBook: https://www.overdrive.com/media/52939/rise-to-rebellion  
-By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )  
-
-Reading Notes: Covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
-
-</details>
-
 
 
 
