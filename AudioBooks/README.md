@@ -1959,6 +1959,19 @@ Librivox Summary:
 </details>  
 
 
+<details><summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
+
+### The Original. (3:24)  
+Audio: https://www.overdrive.com/media/5612235/the-original  
+By [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) & [his site](https://www.brandonsanderson.com/about-brandon/) (1975 – ) and [Mary Robinette Kowal](https://en.wikipedia.org/wiki/Mary_Robinette_Kowal) & [her site](https://maryrobinettekowal.com/)  (1969 – )  
+
+Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If now she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
+
+[OverDrive Summary](https://www.overdrive.com/media/5612235/the-original).  
+
+</details>
+
+
 <details><summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
@@ -2144,6 +2157,21 @@ By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 --  )
 Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)  
+
+</details>
+
+
+<details>
+<summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
+
+### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
+Audio: https://www.overdrive.com/media/5273720/rise-to-rebellion  
+eBook: https://www.overdrive.com/media/52939/rise-to-rebellion  
+By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )  
+
+Reading Notes: This long book is probably not for everyone...  It covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
 
 </details>
 
@@ -2690,23 +2718,6 @@ Reading Notes:
 
 
 <details>
-<summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
-
-### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
-Audio: https://www.overdrive.com/media/5273720/rise-to-rebellion  
-eBook: https://www.overdrive.com/media/52939/rise-to-rebellion  
-By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )  
-
-Reading Notes: Covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
-
-</details>
-
-
-
-
-<details>
 <summary>"The Glass Hotel." By Emily St. John Mandel. 2020 </summary>
 
 ### The Glass Hotel. (10:00)  
@@ -2798,10 +2809,9 @@ Audio: https://www.overdrive.com/media/4238776/exhalation
 eBook: https://www.overdrive.com/media/4387263/exhalation  
 By [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)  (1967 – )  
 
-Reading Notes: This is a collection of nine short stories.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Exhalation:_Stories) for more detail.  
+Reading Notes: This is a collection of nine short stories. I started listening, but the story and/or the narration was not for me at the time and I returned the book.  Maybe I'll try it again later.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Exhalation:_Stories) for more detail.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Exhalation:_Stories  
-
 
 </details>
 
@@ -2867,21 +2877,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 * Weapons Grade (2023)  
 * Command and Control (2023)  
 * Act of Defiance (2024)
-
-</details>
-
-
-<details>
-<summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
-
-### The Original. (3:24)  
-Audio: https://www.overdrive.com/media/5612235/the-original  
-By [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) & [his site](https://www.brandonsanderson.com/about-brandon/) (1975 – ) and [Mary Robinette Kowal](https://en.wikipedia.org/wiki/Mary_Robinette_Kowal) & [her site](https://maryrobinettekowal.com/)  (1969 – )  
-
-Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If now she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
-
-[OverDrive Summary](https://www.overdrive.com/media/5612235/the-original).  
-
 
 </details>
 
