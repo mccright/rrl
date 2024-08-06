@@ -1959,6 +1959,19 @@ Librivox Summary:
 </details>  
 
 
+<details><summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
+
+### The Original. (3:24)  
+Audio: https://www.overdrive.com/media/5612235/the-original  
+By [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) & [his site](https://www.brandonsanderson.com/about-brandon/) (1975 – ) and [Mary Robinette Kowal](https://en.wikipedia.org/wiki/Mary_Robinette_Kowal) & [her site](https://maryrobinettekowal.com/)  (1969 – )  
+
+Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If now she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
+
+[OverDrive Summary](https://www.overdrive.com/media/5612235/the-original).  
+
+</details>
+
+
 <details><summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
@@ -2796,10 +2809,9 @@ Audio: https://www.overdrive.com/media/4238776/exhalation
 eBook: https://www.overdrive.com/media/4387263/exhalation  
 By [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)  (1967 – )  
 
-Reading Notes: This is a collection of nine short stories.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Exhalation:_Stories) for more detail.  
+Reading Notes: This is a collection of nine short stories. I started listening, but the story and/or the narration was not for me at the time and I returned the book.  Maybe I'll try it again later.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Exhalation:_Stories) for more detail.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Exhalation:_Stories  
-
 
 </details>
 
@@ -2865,21 +2877,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 * Weapons Grade (2023)  
 * Command and Control (2023)  
 * Act of Defiance (2024)
-
-</details>
-
-
-<details>
-<summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
-
-### The Original. (3:24)  
-Audio: https://www.overdrive.com/media/5612235/the-original  
-By [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) & [his site](https://www.brandonsanderson.com/about-brandon/) (1975 – ) and [Mary Robinette Kowal](https://en.wikipedia.org/wiki/Mary_Robinette_Kowal) & [her site](https://maryrobinettekowal.com/)  (1969 – )  
-
-Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If now she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
-
-[OverDrive Summary](https://www.overdrive.com/media/5612235/the-original).  
-
 
 </details>
 
