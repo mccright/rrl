@@ -659,6 +659,20 @@ Summary on Librivox:
 </details>  
 
 
+<details><summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
+
+### Church of Marvels (11:00)  
+Audio: https://www.overdrive.com/media/2192024/church-of-marvels  
+eBook: https://www.overdrive.com/media/1914017/church-of-marvels  
+By [Leslie Parry](https://www.leslieparry.com/about)  ( – )  
+
+Reading Notes: This is a great turn-of-the-century New York City history study.  Odile and Belle Church take different paths when their mother's Church of Marvels burns down.  Belle is taken to Blackwell’s Lunatic Asylum, where she meets Alphie -- again.  Sylvan Threadgill, working on one of the lowest levels of the work-world, finds an abandoned newborn baby in the muck below a tenement house privy.  These characters' lives converge and we are taken on a journey through late nineteenth century New York City.  Leslie Parry is a skilled artisan and novelist building characters that latch onto the reader, propelling her story forward, looping back when needed, and building a world any reader can empathize with.  Some have criticized the structure and even the content of this novel -- I recommend that you ignore them and judge it for yourself. (*if you want to know more, see her summary at: https://www.leslieparry.com/books *)  
+
+Review by [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel): [https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html](https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html)  
+
+</details>
+
+
 <details><summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>
 
 ### The City at World's End.  (7:06)  
@@ -2716,7 +2730,6 @@ Reading Notes:
 </details>
 
 
-
 <details>
 <summary>"The Glass Hotel." By Emily St. John Mandel. 2020 </summary>
 
@@ -2815,22 +2828,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Exhalation:_Stories
 
 </details>
 
-
-
-
-<details>
-<summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
-
-### Church of Marvels (11:00)  
-Audio: https://www.overdrive.com/media/2192024/church-of-marvels  
-eBook: https://www.overdrive.com/media/1914017/church-of-marvels  
-By [Leslie Parry](https://www.leslieparry.com/about)  ( – )  
-
-Reading Notes: This is a great turn-of-the-century New York City history study.  Odile and Belle Church take different paths when their mother's Church of Marvels burns down.  Belle is taken to Blackwell’s Lunatic Asylum, where she meets Alphie -- again.  Sylvan Threadgill, working on one of the lowest levels of the work-world, finds an abandoned newborn baby in the muck below a tenement house privy.  These characters' lives converge and we are taken on a journey through late nineteenth century New York City.  Leslie Parry is a skilled artisan and novelist building characters that latch onto the reader, propelling her story forward, looping back when needed, and building a world any reader can empathize with.  Some have criticized the structure and even the content of this novel -- I recommend that you ignore them and judge it for yourself. (*if you want to know more, see her summary at: https://www.leslieparry.com/books *)  
-
-Review by [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel): [https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html](https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html)  
-
-</details>
 
 
 
