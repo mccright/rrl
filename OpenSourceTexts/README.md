@@ -262,6 +262,18 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>Herbert Hoover: The Man and His Work. By Vernon L. Kellogg. 1920 </summary>
+
+### Herbert Hoover: The Man and His Work.  
+eBook: https://www.gutenberg.org/ebooks/29489  
+By [Vernon L. Kellogg](https://en.wikipedia.org/wiki/Vernon_Lyman_Kellogg)  (1867 - 1937)  
+
+Reading Notes:  This is a short biography and then the focus is on Hoover's role in the post-WWI "Relief of Belgium" and the "American Food Administration."  
+
+</details>
+
+
  
 <details>
 <summary>Tar and feathers: An entrancing post-war romance in which the Ku Klux Klan, its principles and activities figure prominently, based on fact. By Victor Rubin. (1892- ) 1923</summary>
