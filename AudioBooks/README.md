@@ -659,6 +659,20 @@ Summary on Librivox:
 </details>  
 
 
+<details><summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
+
+### Church of Marvels (11:00)  
+Audio: https://www.overdrive.com/media/2192024/church-of-marvels  
+eBook: https://www.overdrive.com/media/1914017/church-of-marvels  
+By [Leslie Parry](https://www.leslieparry.com/about)  ( – )  
+
+Reading Notes: This is a great turn-of-the-century New York City history study.  Odile and Belle Church take different paths when their mother's Church of Marvels burns down.  Belle is taken to Blackwell’s Lunatic Asylum, where she meets Alphie -- again.  Sylvan Threadgill, working on one of the lowest levels of the work-world, finds an abandoned newborn baby in the muck below a tenement house privy.  These characters' lives converge and we are taken on a journey through late nineteenth century New York City.  Leslie Parry is a skilled artisan and novelist building characters that latch onto the reader, propelling her story forward, looping back when needed, and building a world any reader can empathize with.  Some have criticized the structure and even the content of this novel -- I recommend that you ignore them and judge it for yourself. (*if you want to know more, see her summary at: https://www.leslieparry.com/books *)  
+
+Review by [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel): [https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html](https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html)  
+
+</details>
+
+
 <details><summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>
 
 ### The City at World's End.  (7:06)  
@@ -2716,6 +2730,52 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>12 Months to Live (*Jane Smith*). By James Patterson and Mike Lupica. 2023 </summary>
+
+### 12 Months to Live (*Jane Smith*)  (9:32)
+Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
+eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Argylle. By Elly Conway. 2024 </summary>
+
+### Argylle (14:00)  
+Audio: https://www.overdrive.com/media/9381882/argylle  
+eBook: https://www.overdrive.com/media/10043420/argylle  
+By [Elizabeth "Elly" Conway](https://en.wikipedia.org/wiki/Terry_Hayes), an author pseudonym for the writing team of [Terry Hayes](https://en.wikipedia.org/wiki/Terry_Hayes) and [Tammy Cohen](https://tammycohen.co.uk)  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>The Grays.  By Whitley Strieber. 2006 </summary>
+
+### The Grays. (11:15)  
+Audio: https://www.overdrive.com/media/109706/the-grays  
+eBook: https://www.overdrive.com/media/514303/the-grays  
+By [Whitley Strieber](https://en.wikipedia.org/wiki/Whitley_Strieber)  (1945 – )  
+
+Reading Notes: This is not a great book. It incorporates a lot of stale *alien*, *UFO* and *corrupt global capitalists* vinettes linked by a story-line about Conner Callaghn & his family in small-town Kentucky and Lauren Glass & members of secret military organizations that cover up *alien* and *UFO* related information.  
+
+From [OverDrive](https://www.overdrive.com/media/109706/the-grays)  
+>"The Grays is a mind-bending journey behind the curtain of secrecy that surrounds the subject of aliens, written by the field's great master, Whitley Strieber. If you've never so much as thought about the subject before, this book will make you think deeply, not only about the mystery of who the Grays are, but who exactly we are."  
+
+
+[Here](https://web.archive.org/web/20060822210220/https://www.unknowncountry.com/journal/?id=243) is some context written by the author.  
+A list of reviews highlighted by the author: http://www.beyondcommunion.com/grays/reviews.html  
+Review by [Ed Walsh](): https://educate-yourself.org/cn/walshwhitleystreibergraysreview15mar09.shtml  
+
+</details>
+
 
 <details>
 <summary>"The Glass Hotel." By Emily St. John Mandel. 2020 </summary>
@@ -2725,7 +2785,7 @@ Audio: https://www.overdrive.com/media/4715842/the-glass-hotel
 eBook: https://www.overdrive.com/media/5080920/the-glass-hotel  
 By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
 
-Reading Notes:  
+Reading Notes: This story builds upon the crimes of [Bernie Madoff](https://en.wikipedia.org/wiki/Bernie_Madoff).  Siblings Paul and Vincent, and ponzie scheme originator and engine Jonathan Alkaitis are the central characters.  See the Wikipedia Summary for more and links to reviews.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Glass_Hotel  
 
@@ -2760,7 +2820,7 @@ Audio: https://www.overdrive.com/media/71105/1984
 eBook: https://www.overdrive.com/media/625352/1984  
 By [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)  (1903 – 1950)  
 
-Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  
+Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  This is still excellence in writing and as relevant as ever.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four  
 
@@ -2815,22 +2875,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Exhalation:_Stories
 
 </details>
 
-
-
-
-<details>
-<summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
-
-### Church of Marvels (11:00)  
-Audio: https://www.overdrive.com/media/2192024/church-of-marvels  
-eBook: https://www.overdrive.com/media/1914017/church-of-marvels  
-By [Leslie Parry](https://www.leslieparry.com/about)  ( – )  
-
-Reading Notes: This is a great turn-of-the-century New York City history study.  Odile and Belle Church take different paths when their mother's Church of Marvels burns down.  Belle is taken to Blackwell’s Lunatic Asylum, where she meets Alphie -- again.  Sylvan Threadgill, working on one of the lowest levels of the work-world, finds an abandoned newborn baby in the muck below a tenement house privy.  These characters' lives converge and we are taken on a journey through late nineteenth century New York City.  Leslie Parry is a skilled artisan and novelist building characters that latch onto the reader, propelling her story forward, looping back when needed, and building a world any reader can empathize with.  Some have criticized the structure and even the content of this novel -- I recommend that you ignore them and judge it for yourself. (*if you want to know more, see her summary at: https://www.leslieparry.com/books *)  
-
-Review by [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel): [https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html](https://www.nytimes.com/2015/05/31/books/review/church-of-marvels-by-leslie-parry.html)  
-
-</details>
 
 
 
