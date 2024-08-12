@@ -2731,6 +2731,53 @@ Reading Notes:
 
 
 <details>
+<summary>12 Months to Live (*Jane Smith*). By James Patterson and Mike Lupica. 2023 </summary>
+
+### 12 Months to Live (*Jane Smith*)  (9:32)
+Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
+eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Argylle. By Elly Conway. 2024 </summary>
+
+### Argylle (14:00)  
+Audio: https://www.overdrive.com/media/9381882/argylle  
+eBook: https://www.overdrive.com/media/10043420/argylle  
+By [Elizabeth "Elly" Conway](https://en.wikipedia.org/wiki/Terry_Hayes), an author pseudonym for the writing team of [Terry Hayes](https://en.wikipedia.org/wiki/Terry_Hayes) and [Tammy Cohen](https://tammycohen.co.uk)  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>The Grays.  By Whitley Strieber. 2006 </summary>
+
+### The Grays. (11:15)  
+Audio: https://www.overdrive.com/media/109706/the-grays  
+eBook: https://www.overdrive.com/media/514303/the-grays  
+By [Whitley Strieber](https://en.wikipedia.org/wiki/Whitley_Strieber)  (1945 – )  
+
+Reading Notes: This is not a great book. It incorporates a lot of stale *alien*, *UFO* and *corrupt global capitalists* vinettes linked by a story-line about Conner Callaghn & his family in small-town Kentucky and Lauren Glass & members of secret military organizations that cover up *alien* and *UFO* related information.  
+
+From [OverDrive](https://www.overdrive.com/media/109706/the-grays)  
+>"The Grays is a mind-bending journey behind the curtain of secrecy that surrounds the subject of aliens, written by the field's great master, Whitley Strieber. If you've never so much as thought about the subject before, this book will make you think deeply, not only about the mystery of who the Grays are, but who exactly we are."  
+
+
+[Here](https://web.archive.org/web/20060822210220/https://www.unknowncountry.com/journal/?id=243) is some context written by the author.  
+A list of reviews highlighted by the author: http://www.beyondcommunion.com/grays/reviews.html  
+Review by [Ed Walsh](): https://educate-yourself.org/cn/walshwhitleystreibergraysreview15mar09.shtml  
+
+</details>
+
+
+<details>
 <summary>"The Glass Hotel." By Emily St. John Mandel. 2020 </summary>
 
 ### The Glass Hotel. (10:00)  
@@ -2738,7 +2785,7 @@ Audio: https://www.overdrive.com/media/4715842/the-glass-hotel
 eBook: https://www.overdrive.com/media/5080920/the-glass-hotel  
 By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
 
-Reading Notes:  
+Reading Notes: This story builds upon the crimes of [Bernie Madoff](https://en.wikipedia.org/wiki/Bernie_Madoff).  Siblings Paul and Vincent, and ponzie scheme originator and engine Jonathan Alkaitis are the central characters.  See the Wikipedia Summary for more and links to reviews.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Glass_Hotel  
 
@@ -2773,7 +2820,7 @@ Audio: https://www.overdrive.com/media/71105/1984
 eBook: https://www.overdrive.com/media/625352/1984  
 By [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)  (1903 – 1950)  
 
-Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  
+Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  This is still excellence in writing and as relevant as ever.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four  
 
