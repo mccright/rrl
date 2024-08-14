@@ -1151,6 +1151,26 @@ Review by [Manuel Roig-Franzia](https://www.linkedin.com/in/manuel-roig-franzia-
 </details>
 
 
+<details><summary>The Grays.  By Whitley Strieber. 2006 </summary>
+
+### The Grays. (11:15)  
+Audio: https://www.overdrive.com/media/109706/the-grays  
+eBook: https://www.overdrive.com/media/514303/the-grays  
+By [Whitley Strieber](https://en.wikipedia.org/wiki/Whitley_Strieber)  (1945 – )  
+
+Reading Notes: This is not a great book. It incorporates a lot of stale *alien*, *UFO* and *corrupt global capitalists* vinettes linked by a story-line about Conner Callaghn & his family in small-town Kentucky and Lauren Glass & members of secret military organizations that cover up *alien* and *UFO* related information.  
+
+From [OverDrive](https://www.overdrive.com/media/109706/the-grays)  
+>"The Grays is a mind-bending journey behind the curtain of secrecy that surrounds the subject of aliens, written by the field's great master, Whitley Strieber. If you've never so much as thought about the subject before, this book will make you think deeply, not only about the mystery of who the Grays are, but who exactly we are."  
+
+
+[Here](https://web.archive.org/web/20060822210220/https://www.unknowncountry.com/journal/?id=243) is some context written by the author.  
+A list of reviews highlighted by the author: http://www.beyondcommunion.com/grays/reviews.html  
+Review by [Ed Walsh](): https://educate-yourself.org/cn/walshwhitleystreibergraysreview15mar09.shtml  
+
+</details>
+
+
 <details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
@@ -2752,27 +2772,6 @@ eBook: https://www.overdrive.com/media/10043420/argylle
 By [Elizabeth "Elly" Conway](https://en.wikipedia.org/wiki/Terry_Hayes), an author pseudonym for the writing team of [Terry Hayes](https://en.wikipedia.org/wiki/Terry_Hayes) and [Tammy Cohen](https://tammycohen.co.uk)  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Grays.  By Whitley Strieber. 2006 </summary>
-
-### The Grays. (11:15)  
-Audio: https://www.overdrive.com/media/109706/the-grays  
-eBook: https://www.overdrive.com/media/514303/the-grays  
-By [Whitley Strieber](https://en.wikipedia.org/wiki/Whitley_Strieber)  (1945 – )  
-
-Reading Notes: This is not a great book. It incorporates a lot of stale *alien*, *UFO* and *corrupt global capitalists* vinettes linked by a story-line about Conner Callaghn & his family in small-town Kentucky and Lauren Glass & members of secret military organizations that cover up *alien* and *UFO* related information.  
-
-From [OverDrive](https://www.overdrive.com/media/109706/the-grays)  
->"The Grays is a mind-bending journey behind the curtain of secrecy that surrounds the subject of aliens, written by the field's great master, Whitley Strieber. If you've never so much as thought about the subject before, this book will make you think deeply, not only about the mystery of who the Grays are, but who exactly we are."  
-
-
-[Here](https://web.archive.org/web/20060822210220/https://www.unknowncountry.com/journal/?id=243) is some context written by the author.  
-A list of reviews highlighted by the author: http://www.beyondcommunion.com/grays/reviews.html  
-Review by [Ed Walsh](): https://educate-yourself.org/cn/walshwhitleystreibergraysreview15mar09.shtml  
 
 </details>
 
