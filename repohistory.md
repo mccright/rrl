@@ -78,7 +78,7 @@ Wikipedia Summary/Review: [https://en.wikipedia.org/wiki/Shaman_(novel)](https:/
 </details>
 
 
-<details><summary>Aurora, By Kim Stanley Robinson. 2015 </summary>
+<details><summary><a name="aurora_kim_stanley_robinson"></a>Aurora, By Kim Stanley Robinson. 2015 </summary>
 
 ### Aurora (17:00)  
 [https://www.overdrive.com/media/2234713/aurora](https://www.overdrive.com/media/2234713/aurora)  
