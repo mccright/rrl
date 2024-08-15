@@ -142,6 +142,18 @@ Summary from [the author's book website](https://veronicarothbooks.com/books/arc
 </details>
 
 
+<details><summary>Argylle. By Elly Conway. 2024 </summary>
+
+### Argylle (14:00)  
+Audio: https://www.overdrive.com/media/9381882/argylle  
+eBook: https://www.overdrive.com/media/10043420/argylle  
+By [Elizabeth "Elly" Conway](https://en.wikipedia.org/wiki/Terry_Hayes) is an author pseudonym for the writing team of [Terry Hayes](https://en.wikipedia.org/wiki/Terry_Hayes) and [Tammy Cohen](https://tammycohen.co.uk)  ( – )  
+
+Reading Notes: If you are looking for an action story, this seems like a good option. A young agent with a complex back story exhibits *super* skills in a mission to defang a rising Russian autocrat.  
+
+</details>
+
+
 <details><summary>An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) · The Liberation Trilogy. By Rick Atkinson. 2002 </summary>
 
 ### An Army at Dawn: The War in North Africa, 1942-1943 (Abridged) (7:00)  
@@ -2757,19 +2769,6 @@ Reading Notes:
 Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
 eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
-
-Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Argylle. By Elly Conway. 2024 </summary>
-
-### Argylle (14:00)  
-Audio: https://www.overdrive.com/media/9381882/argylle  
-eBook: https://www.overdrive.com/media/10043420/argylle  
-By [Elizabeth "Elly" Conway](https://en.wikipedia.org/wiki/Terry_Hayes), an author pseudonym for the writing team of [Terry Hayes](https://en.wikipedia.org/wiki/Terry_Hayes) and [Tammy Cohen](https://tammycohen.co.uk)  ( – )  
 
 Reading Notes:  
 
