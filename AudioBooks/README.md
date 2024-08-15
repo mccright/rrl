@@ -3,8 +3,7 @@
 
 ## Completed:  
 
-<details>
-<summary>Advance Agent. By Christopher Anvil.  1957</summary>
+<details><summary>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
 https://librivox.org/advance-agent-by-christopher-anvil/  
@@ -268,9 +267,8 @@ Librivox Summary:
 
 </details>
 
-<a name="aurora"></a>
 
-<details><summary>Aurora, By Kim Stanley Robinson. 2015 </summary>
+<details><summary><a name="aurora"></a>Aurora, By Kim Stanley Robinson. 2015 </summary>
 
 ### Aurora (17:00)  
 https://www.overdrive.com/media/2234713/aurora  
@@ -613,9 +611,7 @@ Librivox Summary:
 </details>
 
 
-<a name="caste_isabel_wilkerson"></a>
-
-<details><summary>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
+<details><summary><a name="caste_isabel_wilkerson"></a>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
 ### Caste -- The Origins of Our Discontent. (15:00)  
 Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog)  
@@ -1800,9 +1796,7 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
-<details><summary>Matrix.  By Lauren Groff. 2021</summary>
-
-<a name="matrix"></a>
+<details><summary><a name="matrix"></a>Matrix.  By Lauren Groff. 2021</summary>
 
 ### Matrix.  
 Audio: https://www.overdrive.com/media/6294943/matrix  
@@ -1817,9 +1811,8 @@ Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed t
 
 </details>
 
-<a name="ministry_for_the_future"></a>
 
-<details><summary>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
+<details><summary><a name="ministry_for_the_future"></a>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
 
 ### The Ministry for the Future  (20:42)  
 Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
@@ -1913,9 +1906,8 @@ Librivox Summary:
 
 </details>
 
-<a name="new_york_2140"></a>
 
-<details><summary>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
+<details><summary><a name="new_york_2140"></a>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
 ### New York 2140 (22:35)  
 Audio: https://www.overdrive.com/media/3007194/new-york-2140  
@@ -2295,9 +2287,8 @@ Librivox Summary:
 
 </details>
 
-<a name="shaman"></a>
 
-<details><summary>Shaman, By Kim Stanley Robinson. 2013 </summary>
+<details><summary><a name="shaman"></a>Shaman, By Kim Stanley Robinson. 2013 </summary>
 
 ### Shaman (15:00)  
 https://www.overdrive.com/media/1372669/shaman  
