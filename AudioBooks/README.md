@@ -3,7 +3,22 @@
 
 ## Completed:  
 
-<details><summary>Advance Agent. By Christopher Anvil.  1957</summary>
+
+<details><summary><a name="1984_george_orwell"></a>1984. By George Orwell. 1949 </summary>
+
+### 1984. (11:00)  
+Audio: https://www.overdrive.com/media/71105/1984  
+eBook: https://www.overdrive.com/media/625352/1984  
+By [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)  (1903 – 1950)  
+
+Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  This is still excellence in writing and as relevant as ever. See [Wikipedia](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) for a more detailed summary.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four  
+
+</details>
+
+
+<details><summary><a name="advance_agent_christopher_anvil"></a>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
 https://librivox.org/advance-agent-by-christopher-anvil/  
@@ -11,15 +26,15 @@ Text: https://gutenberg.org/ebooks/51273
 By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
 (published in "Galaxy Science Fiction." February 1957)  
 
-Reader's Notes:  
-This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
+Reader's Notes:  This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
+
 Librivox Summary:  
 >Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
 
 </details>
 
 
-<details><summary>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
+<details><summary><a name="age_of_elizabeth_mandell_creighton"></a>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
 
 ### The Age of Elizabeth. (07:35)  
 https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/  
@@ -34,7 +49,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
+<details><summary><a name="the_age_of_innocence_edith_wharton"></a>The Age of Innocence.  By Edith Wharton.  1920 </summary>
 
 ### The Age of Innocence.  By Edith Wharton.  (9:57)  
 https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
@@ -47,7 +62,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
+<details><summary><a name="the_alice_network_kate_quinn"></a>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
 Audio: https://www.overdrive.com/media/2985766/the-alice-network  
@@ -61,7 +76,7 @@ Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-net
 </details>
 
 
-<details><summary>The Ambassadors. By Henry James, 1903</summary>
+<details><summary><a name="the_ambassadors_henry_james"></a>The Ambassadors. By Henry James, 1903</summary>
 
 ### The Ambassadors (16:46)  
 https://librivox.org/the-ambassadors-by-henry-james/  
@@ -2796,22 +2811,6 @@ Review by [Antonia Hitchens](https://muckrack.com/antonia-hitchens/articles): [h
 https://apa.si.edu/bookdragon/before-the-coffee-gets-cold-by-toshikazu-kawaguchi-translated-by-geoffrey-trousselot-in-christian-science-monitor/  
 https://www.bookseriesinorder.com/toshikazu-kawaguchi/  
 https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-kawaguchi-book-set-toshikazu-kawaguchi?variant=41049284083746  
-
-</details>
-
-
-
-<details>
-<summary>1984. By George Orwell. 1949 </summary>
-
-### 1984. (11:00)  
-Audio: https://www.overdrive.com/media/71105/1984  
-eBook: https://www.overdrive.com/media/625352/1984  
-By [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)  (1903 – 1950)  
-
-Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  This is still excellence in writing and as relevant as ever.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four  
 
 </details>
 
