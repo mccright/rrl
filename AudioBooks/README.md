@@ -3,7 +3,22 @@
 
 ## Completed:  
 
-<details><summary>Advance Agent. By Christopher Anvil.  1957</summary>
+
+<details><summary><a name="1984_george_orwell"></a>1984. By George Orwell. 1949 </summary>
+
+### 1984. (11:00)  
+Audio: https://www.overdrive.com/media/71105/1984  
+eBook: https://www.overdrive.com/media/625352/1984  
+By [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)  (1903 – 1950)  
+
+Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  This is still excellence in writing and as relevant as ever. See [Wikipedia](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four) for a more detailed summary.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four  
+
+</details>
+
+
+<details><summary><a name="advance_agent_christopher_anvil"></a>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
 https://librivox.org/advance-agent-by-christopher-anvil/  
@@ -11,15 +26,15 @@ Text: https://gutenberg.org/ebooks/51273
 By [Christopher Anvil](https://en.wikipedia.org/wiki/Christopher_Anvil) (1925 - 2009)  
 (published in "Galaxy Science Fiction." February 1957)  
 
-Reader's Notes:  
-This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
+Reader's Notes:  This story starts with the assumption that all resources of the universe are targets for human exploitation and consumption.  Add worm holes for faster-than-light travel, formalized *survival-of-the-fittest* population control, and engineering/re-engineering of humans, and you have a story that can be read on many levels and might meet the interests of many Science Fiction listeners.  
+
 Librivox Summary:  
 >Raveling Porcy's systematized enigma, Dan found himself with a spy's worst break—he was saddled with the guise of a famed man! A masterful science fiction tale told by one of the greats. - [Summary by Paul Hampton](https://librivox.org/advance-agent-by-christopher-anvil/).  
 
 </details>
 
 
-<details><summary>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
+<details><summary><a name="age_of_elizabeth_mandell_creighton"></a>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
 
 ### The Age of Elizabeth. (07:35)  
 https://librivox.org/the-age-of-elizabeth-by-mandell-creighton/  
@@ -34,7 +49,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Age of Innocence.  By Edith Wharton.  1920 </summary>
+<details><summary><a name="the_age_of_innocence_edith_wharton"></a>The Age of Innocence.  By Edith Wharton.  1920 </summary>
 
 ### The Age of Innocence.  By Edith Wharton.  (9:57)  
 https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/  
@@ -47,7 +62,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Alice Network.  By Kate Quinn.  2017</summary>  
+<details><summary><a name="the_alice_network_kate_quinn"></a>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
 Audio: https://www.overdrive.com/media/2985766/the-alice-network  
@@ -61,7 +76,7 @@ Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-net
 </details>
 
 
-<details><summary>The Ambassadors. By Henry James, 1903</summary>
+<details><summary><a name="the_ambassadors_henry_james"></a>The Ambassadors. By Henry James, 1903</summary>
 
 ### The Ambassadors (16:46)  
 https://librivox.org/the-ambassadors-by-henry-james/  
@@ -973,7 +988,7 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen
 </details>
 
 
-<details><summary>First Lensman. (Second book in the Lensman Series) By E. E. Smith, 1950</summary>
+<details><summary><a name="first_lensman_e_e_smith"></a>First Lensman. (Second book in the Lensman Series) By E. E. Smith, 1950</summary>
 
 ### First Lensman (*Second book in the Lensman Series*) (11:12)  
 https://librivox.org/first-lensman-by-e-e-smith/  
@@ -986,7 +1001,7 @@ Reading Notes: (*see 'Triplanetary' below*)
 </details>
 
 
-<details><summary>FLUX, By Jinwoo Chong. 2023 </summary>
+<details><summary><a name="flux_jinwoo_chong"></a>FLUX, By Jinwoo Chong. 2023 </summary>
 
 ### FLUX.  (9:00)  
 Audio: https://www.overdrive.com/media/9584404/flux  
@@ -1032,7 +1047,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The French Art of Living Well -- Finding Joie de Vivre in the Everyday World. By Cathy Yandell. 2023</summary>
+<details><summary><a name="the_french_art_of_living_well"></a>The French Art of Living Well -- Finding Joie de Vivre in the Everyday World. By Cathy Yandell. 2023</summary>
 
 ### The French Art of Living Well -- Finding Joie de Vivre in the Everyday World. (7:00)  
 audio: https://www.overdrive.com/media/9693125/the-french-art-of-living-well  
@@ -1048,7 +1063,7 @@ Reader Notes: It seems obvious that C.Yandell loves France and French culture. S
 </details>
 
 
-<details><summary>From From. By Monica Youn. 2023 </summary>
+<details><summary><a name="from_from_monica_youn"></a>From From. By Monica Youn. 2023 </summary>
 
 ### From From. (3:00)  
 Audio: https://www.overdrive.com/media/10162973/from-from  
@@ -1060,7 +1075,7 @@ Reading Notes: This collection of poetry received [accolades from a range of ins
 </details>
 
 
-<details><summary>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
+<details><summary><a name="the_gettysburg_address_abraham_lincoln"></a>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
 ### The Gettysburg Address (0:02:41)  
 Four Librivox versions available:  
@@ -1079,7 +1094,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
+<details><summary><a name="ghosts_of_honolulu"></a>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
 
 ### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
   
@@ -1413,7 +1428,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Invisible_Life_of_Addie_LaR
 </details>
 
 
-<details><summary>The Iron Heel. By Jack London. 1908</summary>
+<details><summary><a name="the_iron_heel_jack_london"></a>The Iron Heel. By Jack London. 1908</summary>
 
 ### The Iron Heel. (08:17)  
 https://librivox.org/the-iron-heel-by-jack-london/  
@@ -1431,7 +1446,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>James. By Percival Everett. 2024 </summary>
+<details><summary><a name="james_percival_everett"></a>James. By Percival Everett. 2024 </summary>
 
 ### James.  (8:00)  
 Audio: https://www.overdrive.com/media/9951347/james  
@@ -1454,7 +1469,7 @@ Review by [Anthony Cummins](https://intelligentrelations.com/journalist/anthony-
 </details>
 
 
-<details><summary>Jane Austen's Sailor Brothers.  1906 </summary>
+<details><summary><a name="jane_austens_sailor_brothers_edith_hubback_brown"></a>Jane Austen's Sailor Brothers. By Edith Hubback Brown. 1906 </summary>
 
 ### Jane Austen's Sailor Brothers -- Being the Adventures of Sir Francis Austen, G.C.B., Admiral of the Fleet and Rear-Admiral Charles Austen.  (7:16)  
 https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/  
@@ -1503,7 +1518,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>Klara and the Sun. By Kazuo Ishiguro. 2021</summary>  
+<details><summary><a name="klara_and_the_sun_kazuo_ishiguro"></a>Klara and the Sun. By Kazuo Ishiguro. 2021</summary>  
 
 ### Klara and the Sun (10:16).  
 https://www.overdrive.com/media/5558574/klara-and-the-sun  
@@ -1545,7 +1560,7 @@ By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (19
 </details>
 
 
-<details><summary>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary>
+<details><summary><a name="the_last_watch_j_s_dewes"></a>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary>
 
 ### The Last Watch.  (17:00)  
 https://www.overdrive.com/media/5418299/the-last-watch  
@@ -1558,7 +1573,7 @@ https://www.jsdewes.com/about
 </details>
 
 
-<details><summary>Leave the World Behind. By Rumaan Alam. 2020 </summary>
+<details><summary><a name="leave_the_world_behind_rumaan_alam"></a>Leave the World Behind. By Rumaan Alam. 2020 </summary>
 
 ### Leave the World Behind. (7:26)  
 Audio: https://www.overdrive.com/media/5233415/leave-the-world-behind  
@@ -1592,7 +1607,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Librarianist. By Patrick deWitt. 2023 </summary>
+<details><summary><a name="the_librarianist_patrick_dewitt"></a>The Librarianist. By Patrick deWitt. 2023 </summary>
 
 ### The Librarianist. (10:02)  
 Audio: https://www.overdrive.com/media/9267855/the-librarianist 
@@ -1608,7 +1623,7 @@ Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [ht
 </details>
 
 
-<details><summary>Life and Writings of Amelia Bloomer. By Dexter C. Bloomer.  1895 </summary>
+<details><summary><a name="life_and_writings_of_amelia_bloomer_dexter_c_bloomer"></a>Life and Writings of Amelia Bloomer. By Dexter C. Bloomer.  1895 </summary>
 
 ### Life and Writings of Amelia Bloomer (10:22:42)  
 https://librivox.org/life-and-writings-of-amelia-bloomer-by-dexter-c-bloomer/  
@@ -1624,19 +1639,20 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
+<details><summary><a name="life_of_henry_david_thoreau_henry_salt"></a>Life of Henry David Thoreau. By Henry Salt, 1890</summary>
 
 ### Life of Henry David Thoreau (7:44)  
 https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/  
 Text: https://archive.org/details/lifeofhenrydavid00saltuoft  
 By [Henry Salt](https://en.wikipedia.org/wiki/Henry_Stephens_Salt) (1851 - 1939)  published 1890  
+
 Summary from Librivox:  
 >Henry David Thoreau was a laborer, philosopher, abolitionist, anarchist, environmentalist(?), writer, poet, and more. In popular culture he is best known for his book 'Walden', and his essay on 'Civil Disobedience.' [Phyllis Vincelli](https://librivox.org/life-of-henry-david-thoreau-by-henry-salt/) reports that this early biography by Henry Salt is highly regarded by Thoreau scholars. Be aware that this is a late 19th century biography -- little wandering and uneven.  If you can forgive that, I believe it is a useful introduction to Thoreau well read by "[PhyllisV](https://librivox.org/reader/13055?primary_key=13055&search_category=reader&search_page=1&search_form=get_results)."  
 
 </details>
 
 
-<details><summary>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
+<details><summary><a name="the_light_pirate"></a>The Light Pirate. By Lily Brooks-Dalton. 2022 </summary>
 
 ### The Light Pirate.  
 Book: https://search.worldcat.org/search?qt=wikipedia&q=isbn%3A9781538708279  
@@ -1657,13 +1673,13 @@ Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...li
 </details>
 
 
-<details><summary>The Lincoln Highway by Amor Towles.  2021</summary>
+<details><summary><a name="the_lincoln_highway_amor_towles"></a>The Lincoln Highway. By Amor Towles.  2021</summary>
 
 ### The Lincoln Highway (17:00)  
 https://www.overdrive.com/media/6079650/the-lincoln-highway  
 By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 -  )  
 
-This is great story!  Mid-1950s juvenile work farm inmates just free after doing some hard time.  A rural farm family is abandoned by its mother and then reduce again by the father's death leaving two sons homeless and rootless.  The brothers set off on a search for their mother in California, but are forced into a harrowing detour to New York.  Amor Towles expertly tells the story from multiple characters' points of view.  See [Bill Gates' review](https://www.gatesnotes.com/The-Lincoln-Highway) below for a proper summary.  
+Reading Notes: This is great story!  Mid-1950s juvenile work farm inmates just free after doing some hard time.  A rural farm family is abandoned by its mother and then reduce again by the father's death leaving two sons homeless and rootless.  The brothers set off on a search for their mother in California, but are forced into a harrowing detour to New York.  Amor Towles expertly tells the story from multiple characters' points of view.  See [Bill Gates' review](https://www.gatesnotes.com/The-Lincoln-Highway) below for a proper summary.  
 
 GateNotes' Summary: [https://www.gatesnotes.com/The-Lincoln-Highway](https://www.gatesnotes.com/The-Lincoln-Highway)  
 Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the-lincoln-highway-review  
@@ -1685,7 +1701,7 @@ Reading Notes: An eight minute read aimed at the very young.  The story warrants
 </details>
 
 
-<details><summary>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
+<details><summary><a name="longitude_dava_sobel"></a>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
 
 ### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
 Audio: https://www.overdrive.com/media/82629/longitude  
@@ -1699,7 +1715,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)
 </details>
 
 
-<details><summary>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
+<details><summary><a name="lorelei_of_the_red_mist"></a>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
 
 ### Lorelei of the Red Mist.  (2:51)  
 https://librivox.org/lorelei-of-the-red-mist-by-leigh-douglass-brackett-2/  
@@ -1712,7 +1728,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
+<details><summary><a name="the_lost_book_of_adana_moreau"></a>The Lost Book of Adana Moreau. By Michael Zapata. 2020 </summary>
 
 ### The Lost Book of Adana Moreau.  
 Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau  
@@ -1746,7 +1762,7 @@ Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* s
 </details>
 
 
-<details><summary>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
+<details><summary><a name="the_making_of_another_major_motion_picture_masterpiece"></a>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
 
 ### The Making of Another Major Motion Picture Masterpiece (16:00)  
 Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motion-picture-masterpiece  
@@ -2510,7 +2526,7 @@ https://www.publishersweekly.com/978-0-312-65545-7
 </details>
 
 
-<details><summary>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>
+<details><summary><a name="triplanetary_e_e_smith"></a>Triplanetary, First in the Lensman Series. By E. E. Smith, 1948</summary>
 
 ### Triplanetary, First in the Lensman Series (10:31)  
 https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/  
@@ -2531,7 +2547,7 @@ Summary:
 </details>
 
 
-<details><summary>Trust. By Hernan Diaz. 2022</summary>
+<details><summary><a name="trust_hernan_diaz"></a>Trust. By Hernan Diaz. 2022</summary>
 
 ### Trust. (10:20)  
 Audio: https://www.overdrive.com/media/6491296/trust-pulitzer-prize-winner  
@@ -2559,7 +2575,7 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details><summary>VALIS. By Philip K. Dick. 1981 </summary>
+<details><summary><a name="valis_philip_k_dick"></a>VALIS. By Philip K. Dick. 1981 </summary>
 
 ### VALIS. (9:00)  
 Audio: https://www.overdrive.com/media/265695/valis  
@@ -2606,8 +2622,7 @@ By [Ronan Farrow](https://en.wikipedia.org/wiki/Ronan_Farrow), 2018  (1987 -  )
 </details>
 
 
-<details>
-<summary>The Warehouse. By Rob Hart. 2019 </summary>
+<details><summary><a name="the_warehouse_rob_hart"></a>The Warehouse. By Rob Hart. 2019 </summary>
 
 ### The Warehouse. (13:00)  
 Audio: https://www.overdrive.com/media/4414586/the-warehouse  
@@ -2621,7 +2636,7 @@ Review by [Gerald Bartell](): [https://www.washingtonpost.com/...an-online-wareh
 </details>
 
 
-<details><summary>Weyward.  By Emilia Hart. 2023</summary>
+<details><summary><a name="weyward_emilia_hart"></a>Weyward.  By Emilia Hart. 2023</summary>
 
 ### Weyward. (11:00)  
 Audio: https://www.overdrive.com/media/8916843/weyward  
@@ -2651,7 +2666,7 @@ Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-
 </details>
 
 
-<details><summary>William the Third.  1888 </summary>
+<details><summary><a name="william_the_third_henry_duff_traill"></a>William the Third. By Henry Duff Traill.  1888 </summary>
 
 ### William the Third. (6:21)  
 https://librivox.org/william-the-third-by-henry-duff-traill/  
@@ -2667,7 +2682,7 @@ Wikipedia history of William the III: https://en.wikipedia.org/wiki/William_III_
 </details>
 
 
-<details><summary>Winter in the Blood. By James Welch. 1974 (2008) </summary>
+<details><summary><a name="winter_in_the_blood_james_welch"></a>Winter in the Blood. By James Welch. 1974 (2008) </summary>
 
 ### Winter in the Blood. (5:00)  
 Audio: https://www.overdrive.com/media/5637322/winter-in-the-blood  
@@ -2693,7 +2708,7 @@ Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned 
 </details>
 
 
-<details><summary>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
+<details><summary><a name="the_wordy_shipmates_sarah_vowell"></a>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
 
 ### The Wordy Shipmates (07:15)  
 Audio: https://www.overdrive.com/media/167421/the-wordy-shipmates  
@@ -2707,7 +2722,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 </details>
 
 
-<details><summary>A Wrinkle In Time. By Madeleine L'Engle 2012 (1962)</summary>
+<details><summary><a name="a_wrinkle_in_time"></a>A Wrinkle In Time. By Madeleine L'Engle 2012 (1962)</summary>
 
 ### A Wrinkle In Time. (6:00)  
 Audio: https://www.overdrive.com/media/567026/a-wrinkle-in-time  
@@ -2761,7 +2776,7 @@ Audio: https://www.overdrive.com/media/9529708/12-months-to-live
 eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
 
-Reading Notes:  
+Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An action, *who dunnit*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
 
 </details>
 
@@ -2800,26 +2815,10 @@ https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-k
 </details>
 
 
-
-<details>
-<summary>1984. By George Orwell. 1949 </summary>
-
-### 1984. (11:00)  
-Audio: https://www.overdrive.com/media/71105/1984  
-eBook: https://www.overdrive.com/media/625352/1984  
-By [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)  (1903 – 1950)  
-
-Reading Notes:  Working for the Ministry of Truth, Winston Smith quietly hates the Party and dreams of rebellion.  This is still excellence in writing and as relevant as ever.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four  
-
-</details>
-
-
 <details>
 <summary>Abigail Adams. By Woody Holton.  2009 </summary>
 
-### Abigail Adams.   
+### Abigail Adams.  (20:00)   
 Audio: https://www.overdrive.com/media/257554/abigail-adams  
 eBook: https://www.overdrive.com/media/345973/abigail-adams  
 By [Woody Holton](https://en.wikipedia.org/wiki/Woody_Holton)  (1959 – )  
