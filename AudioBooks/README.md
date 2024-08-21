@@ -91,7 +91,7 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 </details>
 
 
-<details><summary>American Spy. By Lauren Wilkinson. 2019 </summary>
+<details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
 Audio: https://www.overdrive.com/media/3994888/american-spy  
@@ -105,7 +105,7 @@ Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www
 </details>
 
 
-<details><summary>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
+<details><summary><a name="the_andromeda_evolution_daniel_h_wilson"></a>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
 Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
@@ -127,7 +127,7 @@ See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/
 </details>
 
 
-<details><summary>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
+<details><summary><a name="the_anomaly_herve_le_tellier"></a>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
 
 ### The Anomaly. (10:00)  
 Audio: https://www.overdrive.com/media/6104021/the-anomaly  
@@ -141,7 +141,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)
 </details>
 
 
-<details><summary>Arch-Conspirator. By Veronica Roth. 2023 </summary>
+<details><summary><a name="arch_conspirator_veronica_roth"></a>Arch-Conspirator. By Veronica Roth. 2023 </summary>
 
 ### Arch-Conspirator (3:00)  
 Audio: https://www.overdrive.com/media/8958964/arch-conspirator  
@@ -156,7 +156,7 @@ Summary from [the author's book website](https://veronicarothbooks.com/books/arc
 </details>
 
 
-<details><summary>Argylle. By Elly Conway. 2024 </summary>
+<details><summary><a name="argylle_elly_conway"></a>Argylle. By Elly Conway. 2024 </summary>
 
 ### Argylle (14:00)  
 Audio: https://www.overdrive.com/media/9381882/argylle  
