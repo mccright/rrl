@@ -4,6 +4,19 @@
 ## Completed:  
 
 
+
+<details><summary><a name="12_months_to_live"></a>12 Months to Live (*Jane Smith*). By James Patterson and Mike Lupica. 2023 </summary>
+
+### 12 Months to Live (*Jane Smith*)  (9:32)
+Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
+eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+
+Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An action, *who dunnit*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
+
+</details>
+
+
 <details><summary><a name="1984_george_orwell"></a>1984. By George Orwell. 1949 </summary>
 
 ### 1984. (11:00)  
@@ -2783,25 +2796,12 @@ Reading Notes:
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
-
-Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Empty_Template </summary>
-
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
+Audio: https://www.overdrive.com/media/5295464/1939  
+eBook: https://www.overdrive.com/media/5077155/1939  
+By [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Taylor_(historian))  (1947 – )  
 
 Reading Notes:  
 
@@ -2809,14 +2809,14 @@ Reading Notes:
 
 
 <details>
-<summary>12 Months to Live (*Jane Smith*). By James Patterson and Mike Lupica. 2023 </summary>
+<summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
 
-### 12 Months to Live (*Jane Smith*)  (9:32)
-Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
-eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+### Here, Right Matters -- An American Story. (7:00)  
+Audio: https://www.overdrive.com/media/6158937/here-right-matters  
+eBook: https://www.overdrive.com/media/5810372/here-right-matters  
+By [Alexander Vindman](https://en.wikipedia.org/wiki/Alexander_Vindman)  (1975 – )  
 
-Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An action, *who dunnit*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
+Reading Notes: This is a biography of Alexander S. Vindman.  
 
 </details>
 
