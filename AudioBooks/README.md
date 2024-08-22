@@ -2414,6 +2414,20 @@ Some might be turned off by how the author ignores oppression built around the c
 </details>
 
 
+<details><summary>The Strange. By Nathan Ballingrud. 2023 </summary>
+
+### The Strange.  (10:00)  
+Audio: https://www.overdrive.com/media/6384202/the-strange  
+eBook: https://www.overdrive.com/media/9065014/the-strange  
+By [Nathan Ballingrud](https://en.wikipedia.org/wiki/Nathan_Ballingrud)  (1970 – )  
+
+Reading Notes: Written as if it were authored in the late 1920s or early 1930s, earthlings emigrate to Mars, but Mars is not as it had initially seemed.  This is a dark science fiction/fantasy story.  See the [OverDrive Summary](https://www.overdrive.com/media/6384202/the-strange) for more.  
+
+[OverDrive Summary](https://www.overdrive.com/media/6384202/the-strange) 
+
+</details>
+
+
 <details><summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
 
 ### The Sun Also Rises.  (6:43)  
@@ -2753,6 +2767,32 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 -----
 
 ## Pending or Currently Underway:  
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
 
 
 <details>
