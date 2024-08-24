@@ -1296,6 +1296,18 @@ Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-h
 </details>
 
 
+<details><summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
+
+### Here, Right Matters -- An American Story. (7:00)  
+Audio: https://www.overdrive.com/media/6158937/here-right-matters  
+eBook: https://www.overdrive.com/media/5810372/here-right-matters  
+By [Alexander Vindman](https://en.wikipedia.org/wiki/Alexander_Vindman)  (1975 – )  
+
+Reading Notes: This is largely an autobiography of Alexander S. Vindman wrapped by his coming to national attention in October 2019 when he testified before the United States Congress regarding the [Trump–Ukraine scandal](https://en.wikipedia.org/wiki/Trump%E2%80%93Ukraine_scandal).  He has an interesting, for some, inspiring life story.  Recurrnign message: ...*reinvent yourself again*...  
+
+</details>
+
+
 <details><summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
@@ -2804,19 +2816,6 @@ eBook: https://www.overdrive.com/media/5077155/1939
 By [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Taylor_(historian))  (1947 – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
-
-### Here, Right Matters -- An American Story. (7:00)  
-Audio: https://www.overdrive.com/media/6158937/here-right-matters  
-eBook: https://www.overdrive.com/media/5810372/here-right-matters  
-By [Alexander Vindman](https://en.wikipedia.org/wiki/Alexander_Vindman)  (1975 – )  
-
-Reading Notes: This is largely an autobiography of Alexander S. Vindman wrapped by his coming to national attention in October 2019 when he testified before the United States Congress regarding the [Trump–Ukraine scandal](https://en.wikipedia.org/wiki/Trump%E2%80%93Ukraine_scandal).  He has an interesting, for some, inspiring life story.  Recurrnign message: ...*reinvent yourself again*...  
 
 </details>
 
