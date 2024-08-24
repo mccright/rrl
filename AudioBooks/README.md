@@ -2816,7 +2816,7 @@ Audio: https://www.overdrive.com/media/6158937/here-right-matters
 eBook: https://www.overdrive.com/media/5810372/here-right-matters  
 By [Alexander Vindman](https://en.wikipedia.org/wiki/Alexander_Vindman)  (1975 – )  
 
-Reading Notes: This is a biography of Alexander S. Vindman.  
+Reading Notes: This is largely an autobiography of Alexander S. Vindman wrapped by his coming to national attention in October 2019 when he testified before the United States Congress regarding the [Trump–Ukraine scandal](https://en.wikipedia.org/wiki/Trump%E2%80%93Ukraine_scandal).  He has an interesting, for some, inspiring life story.  Recurrnign message: ...*reinvent yourself again*...  
 
 </details>
 
