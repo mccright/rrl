@@ -1051,8 +1051,7 @@ https://librivox.org/freelands-by-john-galsworthy/
 Text: https://www.gutenberg.org/ebooks/2309  
 By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
 
-Reader's Notes:  
-This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
+Reader's Notes:  This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
 
 Librivox Summary:  
 >The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
@@ -3690,4 +3689,31 @@ By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible
 
 </details>
 
+</details>
+
+<details><summary>Recommended Books 2000 - 2010. By Francine Prose, Washington Post.  2022</summary>
+
+From: "As this millennium began, books reflected tragedies and anxieties." Guest column by Francine Prose, Washington Post, August 24, 2024  
+https://www.washingtonpost.com/books/2024/08/24/national-book-awards-2000s/  
+
+* Jim Dwyer and Kevin Flynn’s “102 Minutes: The Untold Story of the Fight to Survive Inside the Twin Towers”  
+* Lawrence Wright’s “The Looming Tower: Al-Qaeda and the Road to 9/11” — it reckons with the event that unofficially began that decade and so utterly influenced everything that has subsequently occurred.  
+* Colum McCann, author of "Let the Great World Spin," in 2009.  
+* Colum McCann’s “Let the Great World Spin” ...a central thread: the daredevil crossing between the twin towers performed by tightrope walker Philippe Petit in 1974.  
+* Jennifer Egan’s “Look at Me,” published Sept. 18, 2000 ...has an eerily prescient section about a terrorist sleeper cell in New Jersey.  
+* Annette Gordon-Reed’s “The Hemingses of Monticello: An American Family.”  
+* Tim Weiner’s “Legacy of Ashes: The History of the CIA.”
+* “The Vixen.” by Francine Prose  
+* Joan Didion’s “The Year of Magical Thinking.”  
+* Jonathan Franzen’s “The Corrections.”  
+* Mary Gaitskill’s “Veronica.”  
+* Scott Spencer’s “A Ship Made of Paper.”  
+* “Tree of Smoke,” by Denis Johnson  
+* Joshua Ferris’s “Then We Came to the End.”  
+* Mischa Berlinski’s “Fieldwork.”  
+* Lydia Davis’s “Varieties of Disturbance.”  
+* Suketu Mehta's “Maximum City: Bombay Lost and Found.”  
+* Philip Roth’s “The Plot Against America”  
+
+</details>
 
