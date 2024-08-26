@@ -17,6 +17,18 @@ Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tou
 </details>
 
 
+<details><summary><a name="1939"></a>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
+
+### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
+Audio: https://www.overdrive.com/media/5295464/1939  
+eBook: https://www.overdrive.com/media/5077155/1939  
+By [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Taylor_(historian))  (1947 – )  
+
+Reading Notes: Anyone interested in the early stages of [WWII](https://en.wikipedia.org/wiki/World_War_II) should consider this book.  Largely assembled using newspaper and diary content from Germany, [Czechoslovakia](https://en.wikipedia.org/wiki/Second_Czechoslovak_Republic), Poland and England, Taylor builds a broad view into "*people's*" interests and focus as [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) [and his senior team led *his country* into the last moves leading to war with neighbors](https://en.wikipedia.org/wiki/Causes_of_World_War_II).  
+
+</details>
+
+
 <details><summary><a name="1984_george_orwell"></a>1984. By George Orwell. 1949 </summary>
 
 ### 1984. (11:00)  
@@ -2806,15 +2818,21 @@ Reading Notes:
 </details>
 
 
-<details>
-<summary>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
 
-### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
-Audio: https://www.overdrive.com/media/5295464/1939  
-eBook: https://www.overdrive.com/media/5077155/1939  
-By [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Taylor_(historian))  (1947 – )  
+<details>
+<summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
+
+### The Hemingses of Monticello -- An American Family.  (31:00)  
+Audio: https://www.overdrive.com/media/201740/the-hemingses-of-monticello  
+eBook: https://www.overdrive.com/media/2308374/the-hemingses-of-monticello  
+By [Annette Gordon-Reed](https://en.wikipedia.org/wiki/Annette_Gordon-Reed)  (1958 – )  
 
 Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello  
+
+[OverDrive Summary](https://www.overdrive.com/media/201740/the-hemingses-of-monticello):  
+>This epic work tells the story of the Hemingses, whose close blood ties to our third president had been systematically expunged from American history until very recently. Now, historian and legal scholar Annette Gordon-Reed traces the Hemings family from its origins in Virginia in the 1700s to the family's dispersal after Jefferson's death in 1826. It brings to life not only Sally Hemings and Thomas Jefferson but also their children and Hemings's siblings, who shared a father with Jefferson's wife, Martha. The Hemingses of Monticello sets the family's compelling saga against the backdrop of Revolutionary America, Paris on the eve of its own revolution, 1790s Philadelphia, and plantation life at Monticello. Much anticipated, this book promises to be the most important history of an American slave family ever written.  
 
 </details>
 
@@ -3693,8 +3711,7 @@ By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible
 
 <details><summary>Recommended Books 2000 - 2010. By Francine Prose, Washington Post.  2022</summary>
 
-From: "As this millennium began, books reflected tragedies and anxieties." Guest column by Francine Prose, Washington Post, August 24, 2024  
-https://www.washingtonpost.com/books/2024/08/24/national-book-awards-2000s/  
+From: "As this millennium began, books reflected tragedies and anxieties." Guest column by Francine Prose, Washington Post, August 24, 2024  https://www.washingtonpost.com/books/2024/08/24/national-book-awards-2000s/  
 
 * Jim Dwyer and Kevin Flynn’s “102 Minutes: The Untold Story of the Fight to Survive Inside the Twin Towers”  
 * Lawrence Wright’s “The Looming Tower: Al-Qaeda and the Road to 9/11” — it reckons with the event that unofficially began that decade and so utterly influenced everything that has subsequently occurred.  
