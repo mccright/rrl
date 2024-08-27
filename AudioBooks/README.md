@@ -2820,6 +2820,56 @@ Reading Notes:
 
 
 <details>
+<summary>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
+
+### The Three-Body Problem -- Remembrance of Earth's Past.  (13:00)  
+Audio: https://www.overdrive.com/media/2001573/the-three-body-problem  
+eBook: https://www.overdrive.com/media/1582288/the-three-body-problem  
+By [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)  
+
+</details>
+
+
+<details>
+<summary>Far North -- A Novel.  By Marcel Theroux. 2009 </summary>
+
+### Far North.  (9:00)  
+Audio: https://www.overdrive.com/media/301444/far-north  
+eBook: https://www.overdrive.com/media/511748/far-north  
+By [Marcel Theroux](https://en.wikipedia.org/wiki/Marcel_Theroux)  (1968 – )  
+
+Reading Notes: Makepeace and *Ping*...  
+
+Author's Summary: https://thisworldofdew.com/novels/far-north/  
+
+</details>
+
+
+
+<details>
+<summary>The Spymaster of Baghdad -- A True Story of Bravery, Family, and Patriotism in the Battle Against ISIS. By Margaret Coker 2021 </summary>
+
+### The Spymaster of Baghdad -- A True Story of Bravery, Family, and Patriotism in the Battle Against ISIS. (11:00)  
+Audio: https://www.overdrive.com/media/5512591/the-spymaster-of-baghdad  
+eBook: https://www.overdrive.com/media/5185874/the-spymaster-of-baghdad  
+By [Margaret Coker]()  ( – )  
+
+Reading Notes: This book narrates a couple threads of activity lead by Abu Ali al-Basri, the leader of a cell within Iraqi intelligence known as al-Suquor, or the Falcons during the period defined by the U.S. invation through 2017 (*with an epilog that extends the story out to 2019, when Islamic State leader Abu Bakr al-Baghdadi along with 2 wives and guards were killed in northern Syria*).
+. Coker follows two threads of a story about Shia Harith and Munaf al-Sudani who join the security services in hopes of saving Iraqi lives, and Sunni Abrar al-Kubai-si who attempts to join ISIS in order to kill Iraqi Shia.  See the reviews below for more information.  
+
+Review by Sonya Lim (former CIA Chief of Station): https://www.thecipherbrief.com/book-review/the-spymaster-of-baghdad  
+And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Operations officer)[Center for the Study of Intelligence. Volume 65, No. 2 (June 2021)](https://www.cia.gov/resources/csi/studies-in-intelligence/volume-65-no-2-june-2021/the-spymaster-of-baghdad-a-true-story-of-bravery-family-and-patriotism-in-the-battle-against-isis/):  then follow the [link](https://www.cia.gov/resources/csi/static/aa0d27942e680a113715328e1a93e68c/Review-TheSpymasterofBaghdad.pdf)  
+
+</details>
+
+
+
+
+<details>
 <summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
 ### The Hemingses of Monticello -- An American Family.  (31:00)  
