@@ -4,6 +4,31 @@
 ## Completed:  
 
 
+
+<details><summary><a name="12_months_to_live"></a>12 Months to Live (*Jane Smith*). By James Patterson and Mike Lupica. 2023 </summary>
+
+### 12 Months to Live (*Jane Smith*)  (9:32)
+Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
+eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+
+Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An action, *who dunnit*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
+
+</details>
+
+
+<details><summary><a name="1939"></a>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
+
+### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
+Audio: https://www.overdrive.com/media/5295464/1939  
+eBook: https://www.overdrive.com/media/5077155/1939  
+By [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Taylor_(historian))  (1947 – )  
+
+Reading Notes: Anyone interested in the early stages of [WWII](https://en.wikipedia.org/wiki/World_War_II) should consider this book.  Largely assembled using newspaper and diary content from Germany, [Czechoslovakia](https://en.wikipedia.org/wiki/Second_Czechoslovak_Republic), Poland and England, Taylor builds a broad view into "*people's*" interests and focus as [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) [and his senior team led *his country* into the last moves leading to war with neighbors](https://en.wikipedia.org/wiki/Causes_of_World_War_II).  
+
+</details>
+
+
 <details><summary><a name="1984_george_orwell"></a>1984. By George Orwell. 1949 </summary>
 
 ### 1984. (11:00)  
@@ -1038,8 +1063,7 @@ https://librivox.org/freelands-by-john-galsworthy/
 Text: https://www.gutenberg.org/ebooks/2309  
 By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
 
-Reader's Notes:  
-This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
+Reader's Notes:  This was an enjoyable story about a range of character *types*, family dynamics, class struggle/conflict, and more in the context of 19th/early 20th century England.  
 
 Librivox Summary:  
 >The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
@@ -1279,6 +1303,18 @@ By [Stewart O'Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan) (1961 - )
 Reading Notes:  Human, humain, life through the lens of retired engineer, Henry.  
 
 Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-himself/](https://stewart-onan.com/fiction/henry-himself/)  
+
+</details>
+
+
+<details><summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
+
+### Here, Right Matters -- An American Story. (7:00)  
+Audio: https://www.overdrive.com/media/6158937/here-right-matters  
+eBook: https://www.overdrive.com/media/5810372/here-right-matters  
+By [Alexander Vindman](https://en.wikipedia.org/wiki/Alexander_Vindman)  (1975 – )  
+
+Reading Notes: This is largely an autobiography of Alexander S. Vindman wrapped by his coming to national attention in October 2019 when he testified before the United States Congress regarding the [Trump–Ukraine scandal](https://en.wikipedia.org/wiki/Trump%E2%80%93Ukraine_scandal).  He has an interesting, for some, inspiring life story.  Recurrnign message: ...*reinvent yourself again*...  
 
 </details>
 
@@ -2414,6 +2450,20 @@ Some might be turned off by how the author ignores oppression built around the c
 </details>
 
 
+<details><summary>The Strange. By Nathan Ballingrud. 2023 </summary>
+
+### The Strange.  (10:00)  
+Audio: https://www.overdrive.com/media/6384202/the-strange  
+eBook: https://www.overdrive.com/media/9065014/the-strange  
+By [Nathan Ballingrud](https://en.wikipedia.org/wiki/Nathan_Ballingrud)  (1970 – )  
+
+Reading Notes: Written as if it were authored in the late 1920s or early 1930s, earthlings emigrate to Mars, but Mars is not as it had initially seemed.  This is a dark science fiction/fantasy story.  See the [OverDrive Summary](https://www.overdrive.com/media/6384202/the-strange) for more.  
+
+[OverDrive Summary](https://www.overdrive.com/media/6384202/the-strange) 
+
+</details>
+
+
 <details><summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
 
 ### The Sun Also Rises.  (6:43)  
@@ -2768,15 +2818,71 @@ Reading Notes:
 </details>
 
 
+
 <details>
-<summary>12 Months to Live (*Jane Smith*). By James Patterson and Mike Lupica. 2023 </summary>
+<summary>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
 
-### 12 Months to Live (*Jane Smith*)  (9:32)
-Audio: https://www.overdrive.com/media/9529708/12-months-to-live  
-eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
+### The Three-Body Problem -- Remembrance of Earth's Past.  (13:00)  
+Audio: https://www.overdrive.com/media/2001573/the-three-body-problem  
+eBook: https://www.overdrive.com/media/1582288/the-three-body-problem  
+By [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
 
-Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An action, *who dunnit*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)  
+
+</details>
+
+
+<details>
+<summary>Far North -- A Novel.  By Marcel Theroux. 2009 </summary>
+
+### Far North.  (9:00)  
+Audio: https://www.overdrive.com/media/301444/far-north  
+eBook: https://www.overdrive.com/media/511748/far-north  
+By [Marcel Theroux](https://en.wikipedia.org/wiki/Marcel_Theroux)  (1968 – )  
+
+Reading Notes: Makepeace and *Ping*...  
+
+Author's Summary: https://thisworldofdew.com/novels/far-north/  
+
+</details>
+
+
+
+<details>
+<summary>The Spymaster of Baghdad -- A True Story of Bravery, Family, and Patriotism in the Battle Against ISIS. By Margaret Coker 2021 </summary>
+
+### The Spymaster of Baghdad -- A True Story of Bravery, Family, and Patriotism in the Battle Against ISIS. (11:00)  
+Audio: https://www.overdrive.com/media/5512591/the-spymaster-of-baghdad  
+eBook: https://www.overdrive.com/media/5185874/the-spymaster-of-baghdad  
+By [Margaret Coker]()  ( – )  
+
+Reading Notes: This book narrates a couple threads of activity lead by Abu Ali al-Basri, the leader of a cell within Iraqi intelligence known as al-Suquor, or the Falcons during the period defined by the U.S. invation through 2017 (*with an epilog that extends the story out to 2019, when Islamic State leader Abu Bakr al-Baghdadi along with 2 wives and guards were killed in northern Syria*).
+. Coker follows two threads of a story about Shia Harith and Munaf al-Sudani who join the security services in hopes of saving Iraqi lives, and Sunni Abrar al-Kubai-si who attempts to join ISIS in order to kill Iraqi Shia.  See the reviews below for more information.  
+
+Review by Sonya Lim (former CIA Chief of Station): https://www.thecipherbrief.com/book-review/the-spymaster-of-baghdad  
+And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Operations officer)[Center for the Study of Intelligence. Volume 65, No. 2 (June 2021)](https://www.cia.gov/resources/csi/studies-in-intelligence/volume-65-no-2-june-2021/the-spymaster-of-baghdad-a-true-story-of-bravery-family-and-patriotism-in-the-battle-against-isis/):  then follow the [link](https://www.cia.gov/resources/csi/static/aa0d27942e680a113715328e1a93e68c/Review-TheSpymasterofBaghdad.pdf)  
+
+</details>
+
+
+
+
+<details>
+<summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
+
+### The Hemingses of Monticello -- An American Family.  (31:00)  
+Audio: https://www.overdrive.com/media/201740/the-hemingses-of-monticello  
+eBook: https://www.overdrive.com/media/2308374/the-hemingses-of-monticello  
+By [Annette Gordon-Reed](https://en.wikipedia.org/wiki/Annette_Gordon-Reed)  (1958 – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello  
+
+[OverDrive Summary](https://www.overdrive.com/media/201740/the-hemingses-of-monticello):  
+>This epic work tells the story of the Hemingses, whose close blood ties to our third president had been systematically expunged from American history until very recently. Now, historian and legal scholar Annette Gordon-Reed traces the Hemings family from its origins in Virginia in the 1700s to the family's dispersal after Jefferson's death in 1826. It brings to life not only Sally Hemings and Thomas Jefferson but also their children and Hemings's siblings, who shared a father with Jefferson's wife, Martha. The Hemingses of Monticello sets the family's compelling saga against the backdrop of Revolutionary America, Paris on the eve of its own revolution, 1790s Philadelphia, and plantation life at Monticello. Much anticipated, this book promises to be the most important history of an American slave family ever written.  
 
 </details>
 
@@ -3651,4 +3757,30 @@ By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible
 
 </details>
 
+</details>
+
+<details><summary>Recommended Books 2000 - 2010. By Francine Prose, Washington Post.  2022</summary>
+
+From: "As this millennium began, books reflected tragedies and anxieties." Guest column by Francine Prose, Washington Post, August 24, 2024  https://www.washingtonpost.com/books/2024/08/24/national-book-awards-2000s/  
+
+* Jim Dwyer and Kevin Flynn’s “102 Minutes: The Untold Story of the Fight to Survive Inside the Twin Towers”  
+* Lawrence Wright’s “The Looming Tower: Al-Qaeda and the Road to 9/11” — it reckons with the event that unofficially began that decade and so utterly influenced everything that has subsequently occurred.  
+* Colum McCann, author of "Let the Great World Spin," in 2009.  
+* Colum McCann’s “Let the Great World Spin” ...a central thread: the daredevil crossing between the twin towers performed by tightrope walker Philippe Petit in 1974.  
+* Jennifer Egan’s “Look at Me,” published Sept. 18, 2000 ...has an eerily prescient section about a terrorist sleeper cell in New Jersey.  
+* Annette Gordon-Reed’s “The Hemingses of Monticello: An American Family.”  
+* Tim Weiner’s “Legacy of Ashes: The History of the CIA.”
+* “The Vixen.” by Francine Prose  
+* Joan Didion’s “The Year of Magical Thinking.”  
+* Jonathan Franzen’s “The Corrections.”  
+* Mary Gaitskill’s “Veronica.”  
+* Scott Spencer’s “A Ship Made of Paper.”  
+* “Tree of Smoke,” by Denis Johnson  
+* Joshua Ferris’s “Then We Came to the End.”  
+* Mischa Berlinski’s “Fieldwork.”  
+* Lydia Davis’s “Varieties of Disturbance.”  
+* Suketu Mehta's “Maximum City: Bombay Lost and Found.”  
+* Philip Roth’s “The Plot Against America”  
+
+</details>
 
