@@ -43,6 +43,18 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 </details>
 
 
+<details><summary><a name="620_man_david_baldacci"></a>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
+
+### The 6:20 Man -- A Thriller. (10:00)  
+Audio: https://www.overdrive.com/media/7728272/the-620-man  
+eBook: https://www.overdrive.com/media/8732186/the-620-man  
+By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
+
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
+
+</details>
+
+
 <details><summary><a name="advance_agent_christopher_anvil"></a>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
@@ -981,6 +993,20 @@ eBook: https://www.overdrive.com/media/4500529/emily-eternal
 By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
 
 Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
+<details><summary>Far North -- A Novel.  By Marcel Theroux. 2009 </summary>
+
+### Far North.  (9:00)  
+Audio: https://www.overdrive.com/media/301444/far-north  
+eBook: https://www.overdrive.com/media/511748/far-north  
+By [Marcel Theroux](https://en.wikipedia.org/wiki/Marcel_Theroux)  (1968 – )  
+
+Reading Notes: *Adventures,* hardships and trials of an often-loner *Makepeace* in a Northern region of failed states in a failed world...  
+
+Author's Summary: https://thisworldofdew.com/novels/far-north/  
 
 </details>
 
@@ -2804,18 +2830,6 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 </details>
 
 
-<details><summary>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
-
-### The 6:20 Man -- A Thriller. (10:00)  
-Audio: https://www.overdrive.com/media/7728272/the-620-man  
-eBook: https://www.overdrive.com/media/8732186/the-620-man  
-By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
-
-Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
-
-</details>
-
-
 
 -----
 
@@ -2847,21 +2861,6 @@ By [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )
 Reading Notes:  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)  
-
-</details>
-
-
-<details>
-<summary>Far North -- A Novel.  By Marcel Theroux. 2009 </summary>
-
-### Far North.  (9:00)  
-Audio: https://www.overdrive.com/media/301444/far-north  
-eBook: https://www.overdrive.com/media/511748/far-north  
-By [Marcel Theroux](https://en.wikipedia.org/wiki/Marcel_Theroux)  (1968 – )  
-
-Reading Notes: Makepeace and *Ping*...  
-
-Author's Summary: https://thisworldofdew.com/novels/far-north/  
 
 </details>
 
