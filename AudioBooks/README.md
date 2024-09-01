@@ -1169,6 +1169,21 @@ Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en
 
 </details>
 
+
+<details><summary>The Glass Hotel. By Emily St. John Mandel. 2020 </summary>
+
+### The Glass Hotel. (10:00)  
+Audio: https://www.overdrive.com/media/4715842/the-glass-hotel  
+eBook: https://www.overdrive.com/media/5080920/the-glass-hotel  
+By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
+
+Reading Notes: This story builds upon the crimes of [Bernie Madoff](https://en.wikipedia.org/wiki/Bernie_Madoff).  Siblings Paul and Vincent, and ponzie scheme originator and engine Jonathan Alkaitis are the central characters.  See the Wikipedia Summary for more and links to reviews.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Glass_Hotel  
+
+</details>
+
+
 <details><summary>The God of Endings. By Jacqueline Holland. 2023 </summary>
 
 ### The God of Endings. (17:00)  
@@ -2880,21 +2895,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello
 
 [OverDrive Summary](https://www.overdrive.com/media/201740/the-hemingses-of-monticello):  
 >This epic work tells the story of the Hemingses, whose close blood ties to our third president had been systematically expunged from American history until very recently. Now, historian and legal scholar Annette Gordon-Reed traces the Hemings family from its origins in Virginia in the 1700s to the family's dispersal after Jefferson's death in 1826. It brings to life not only Sally Hemings and Thomas Jefferson but also their children and Hemings's siblings, who shared a father with Jefferson's wife, Martha. The Hemingses of Monticello sets the family's compelling saga against the backdrop of Revolutionary America, Paris on the eve of its own revolution, 1790s Philadelphia, and plantation life at Monticello. Much anticipated, this book promises to be the most important history of an American slave family ever written.  
-
-</details>
-
-
-<details>
-<summary>"The Glass Hotel." By Emily St. John Mandel. 2020 </summary>
-
-### The Glass Hotel. (10:00)  
-Audio: https://www.overdrive.com/media/4715842/the-glass-hotel  
-eBook: https://www.overdrive.com/media/5080920/the-glass-hotel  
-By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
-
-Reading Notes: This story builds upon the crimes of [Bernie Madoff](https://en.wikipedia.org/wiki/Bernie_Madoff).  Siblings Paul and Vincent, and ponzie scheme originator and engine Jonathan Alkaitis are the central characters.  See the Wikipedia Summary for more and links to reviews.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Glass_Hotel  
 
 </details>
 
