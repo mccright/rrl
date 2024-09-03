@@ -2198,8 +2198,7 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
+<details><summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
 
 ### Prequel -- An American Fight Against Fascism. (13:00)  
 Audio: https://www.overdrive.com/media/9893186/prequel  
@@ -2444,6 +2443,21 @@ See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B
 also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
 >Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
+
+</details>
+
+
+<details><summary>Spacemen Lost. By George O. Smith. 1954 </summary>
+
+### Spacemen Lost. (3:56:53)  
+Audio: https://librivox.org/spacemen-lost-by-george-o-smith/  
+eBook: https://www.gutenberg.org/ebooks/69393    
+By [George O. Smith (George Oliver)](https://en.wikipedia.org/wiki/George_O._Smith)  (1911-1981)  
+
+Reading Notes: This is more 1950s, post-WWII [space opera](https://en.wikipedia.org/wiki/Space_opera) that may edge into juvenile/young adult fiction.  
+
+Librivox Summary:  
+>It was the greatest man hunt in history — and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
 
 </details>
 
@@ -2873,7 +2887,7 @@ Audio: https://www.overdrive.com/media/2001573/the-three-body-problem
 eBook: https://www.overdrive.com/media/1582288/the-three-body-problem  
 By [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
 
-Reading Notes:  
+Reading Notes: This story is told as a [nonlinear narrative](https://en.wikipedia.org/wiki/Nonlinear_narrative). In that context, it's central character is Ye Wenjie, an astrophysics graduate who saw her father get beaten to death during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) (1966-1976) and she was also identified as a traitor, sent to a labor camp and later sentenced to prison. Because of her training and the content of a paper she published while attending university, she was recruited to participate in a secret Chinese military project involving high powered radio transmissions and monitoring.  Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) if you want to know more*...)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)  
 
@@ -3244,22 +3258,6 @@ Reading Notes: There is little good to say about this novel other than it seems 
 Librivox Summary:  
 >In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
 >This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
-
-</details>
-
-
-<details>
-<summary>Spacemen Lost. By George O. Smith. 1954 </summary>
-
-### Spacemen Lost. (3:56:53)  
-Audio: https://librivox.org/spacemen-lost-by-george-o-smith/  
-eBook: https://www.gutenberg.org/ebooks/69393    
-By [George O. Smith (George Oliver)](https://en.wikipedia.org/wiki/George_O._Smith)  (1911-1981)  
-
-Reading Notes: This is more 1950s, post-WWII [space opera](https://en.wikipedia.org/wiki/Space_opera) that may edge into juvenile/young adult fiction.  
-
-Librivox Summary:  
->It was the greatest man hunt in history — and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
 
 </details>
 
