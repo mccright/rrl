@@ -2601,6 +2601,21 @@ Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): http
 </details>
 
 
+<details>
+<summary>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
+
+### The Three-Body Problem -- Remembrance of Earth's Past.  (13:26)  
+Audio: https://www.overdrive.com/media/2001573/the-three-body-problem  
+eBook: https://www.overdrive.com/media/1582288/the-three-body-problem  
+By [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
+
+Reading Notes: This story is told as a [nonlinear narrative](https://en.wikipedia.org/wiki/Nonlinear_narrative). In that context, it's central character is Ye Wenjie, an astrophysics graduate who saw her father get beaten to death during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) (1966-1976) and she was also identified as a traitor, sent to a labor camp and later sentenced to prison. Because of her training and the content of a paper she published while attending university, she was recruited to participate in a secret Chinese military project involving high powered radio transmissions and monitoring.  Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) if you want to know more*...)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)  
+
+</details>
+
+
 <details><summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
 
 ### The Torrents of Spring.  (2:10)
@@ -2880,22 +2895,6 @@ Reading Notes:
 
 
 <details>
-<summary>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
-
-### The Three-Body Problem -- Remembrance of Earth's Past.  (13:00)  
-Audio: https://www.overdrive.com/media/2001573/the-three-body-problem  
-eBook: https://www.overdrive.com/media/1582288/the-three-body-problem  
-By [Cixin Liu](https://en.wikipedia.org/wiki/Liu_Cixin)  (1963 – )  
-
-Reading Notes: This story is told as a [nonlinear narrative](https://en.wikipedia.org/wiki/Nonlinear_narrative). In that context, it's central character is Ye Wenjie, an astrophysics graduate who saw her father get beaten to death during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution) (1966-1976) and she was also identified as a traitor, sent to a labor camp and later sentenced to prison. Because of her training and the content of a paper she published while attending university, she was recruited to participate in a secret Chinese military project involving high powered radio transmissions and monitoring.  Then it gets both interesting and confusing (*see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) if you want to know more*...)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)  
-
-</details>
-
-
-
-<details>
 <summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
 ### The Hemingses of Monticello -- An American Family.  (31:00)  
@@ -2903,12 +2902,15 @@ Audio: https://www.overdrive.com/media/201740/the-hemingses-of-monticello
 eBook: https://www.overdrive.com/media/2308374/the-hemingses-of-monticello  
 By [Annette Gordon-Reed](https://en.wikipedia.org/wiki/Annette_Gordon-Reed)  (1958 – )  
 
-Reading Notes:  
+Reading Notes: Wow!  Using primary resources throughout, Gordon-Reed outlined and analyzes the "four generations of the African-American Hemings family, from their African and Virginia origins until the 1826 death of Thomas Jefferson, their master and the father of Sally Hemings' children." [*[Wikipedia](https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello)*]  It reads like a long series of excellent university or graduate history lectures.  This seems like an especially challenging topic given the often skeletal nature of the available primary resources, the depth & breath of scholarly Jefferson historical research, and the potentcy of some facets of research and writing about white supremacy and racial power (*for example, [critical race theory](https://en.wikipedia.org/wiki/Critical_race_theory)*) -- all of which the author grapples with...  Because I view this work as a series of college lectures, the repetition that appears throughout is simply *what you do* because of the time lapse between sessions, or because the connection(s) to the current focus are so important as to warrant it.  There has been some criticism of the author's repeated "unnecessary pronouncements about human nature" which I attribute to a thorough review of specific situations as well as attempting to provide context to a readership (*or student group*) made of individuals having wildly varying backgrounds and understandings of *how the world works.*  Thirtyone hours might initially seem like a slog, but give it a chance -- it is worth the investment.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello  
 
 [OverDrive Summary](https://www.overdrive.com/media/201740/the-hemingses-of-monticello):  
 >This epic work tells the story of the Hemingses, whose close blood ties to our third president had been systematically expunged from American history until very recently. Now, historian and legal scholar Annette Gordon-Reed traces the Hemings family from its origins in Virginia in the 1700s to the family's dispersal after Jefferson's death in 1826. It brings to life not only Sally Hemings and Thomas Jefferson but also their children and Hemings's siblings, who shared a father with Jefferson's wife, Martha. The Hemingses of Monticello sets the family's compelling saga against the backdrop of Revolutionary America, Paris on the eve of its own revolution, 1790s Philadelphia, and plantation life at Monticello. Much anticipated, this book promises to be the most important history of an American slave family ever written.  
+
+Review by Eric Foner: https://www.nytimes.com/2008/10/05/books/review/Foner-t.html  
+A list of reviews at: https://bookmarks.reviews/reviews/all/the-hemingses-of-monticello-an-american-family-2/  
 
 </details>
 
