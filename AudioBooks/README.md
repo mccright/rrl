@@ -55,6 +55,26 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 </details>
 
 
+<details><summary><a name="abigail_adams_by_woody_holton"></a>Abigail Adams. By Woody Holton.  2009 </summary>
+
+### Abigail Adams.  (20:00)   
+Audio: https://www.overdrive.com/media/257554/abigail-adams  
+eBook: https://www.overdrive.com/media/345973/abigail-adams  
+By [Woody Holton](https://en.wikipedia.org/wiki/Woody_Holton)  (1959 – )  
+
+Reading Notes: This biography emphasizes many ways that Abigail Adams employed her legal rights and norms to play a material role in managing her family's finances and wealth accumulation.  See the [OverDrive summary](https://www.overdrive.com/media/257554/abigail-adams) for more detail.
+  
+You might also see:  
+* "[The Unexpected Abigail Adams -- A Woman "Not Apt to Be Intimidated](https://www.overdrive.com/media/10977600/the-unexpected-abigail-adams)." By John L. Smith, Jr. 2024  
+* "[Abigail Adams -- (Early America) Primary Source Readers](https://www.overdrive.com/media/1048228/abigail-adams)." By Jill K. Mulhall. 2012  
+* "[Abigail Adams -- A Biography](https://www.overdrive.com/media/1423911/abigail-adams)." By Phyllis Lee Levin. 2013.  
+
+OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):  
+>Abigail Adams offers a fresh perspective on the famous events of Adams's life, and along the way, Woody Holton, a renowned historian of the American Revolution, takes on numerous myths about the men and women of the founding era. But the book also demonstrates that domestic dramas-from unplanned pregnancies to untimely deaths-could be just as heartbreaking, significant, and inspiring as the actions of statesmen and soldiers. A special focus of the book is Adams's complex relationships: with her mother, sisters, and children; with her husband's famous contemporaries; and with Phoebe, one of her father's slaves. At the same time that John exhibited his own diplomatic skills on a better-known canvas, Abigail struggled to prevent the charitable gifts she gave her sisters from coming between them. In a departure from the persistently upbeat tone of most Adams biographies, Holton's work shows how frequently her life was marred by tragedy, making this the deepest, most humanistic portrayal ever published. Using the matchless trove of Adams family manuscripts, the author steps back to allow Abigail to respond to her many losses in her own words. Holton reveals that Abigail Adams sharply disagreed with her husband's financial decisions and assumed control of the family's money herself-earning them a tidy fortune through her shrewd speculations (this during a time when married women were not permitted to own property). And he shows that her commitment to women's equality and education was intense and explicitly expressed and practical, from the more than two thousand letters she wrote over her lifetime to her final will (written in defiance of legislation prohibiting married women from bequeathing property). Alternately witty, poignant, and uplifting, Holton's narrative sheds new light on one of America's best-loved but least-understood icons.  
+
+</details>
+
+
 <details><summary><a name="advance_agent_christopher_anvil"></a>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
@@ -2932,26 +2952,6 @@ Review by [Antonia Hitchens](https://muckrack.com/antonia-hitchens/articles): [h
 https://apa.si.edu/bookdragon/before-the-coffee-gets-cold-by-toshikazu-kawaguchi-translated-by-geoffrey-trousselot-in-christian-science-monitor/  
 https://www.bookseriesinorder.com/toshikazu-kawaguchi/  
 https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-kawaguchi-book-set-toshikazu-kawaguchi?variant=41049284083746  
-
-</details>
-
-
-<details>
-<summary>Abigail Adams. By Woody Holton.  2009 </summary>
-
-### Abigail Adams.  (20:00)   
-Audio: https://www.overdrive.com/media/257554/abigail-adams  
-eBook: https://www.overdrive.com/media/345973/abigail-adams  
-By [Woody Holton](https://en.wikipedia.org/wiki/Woody_Holton)  (1959 – )  
-
-Reading Notes:  
-You might also see:  
-* "[The Unexpected Abigail Adams -- A Woman "Not Apt to Be Intimidated](https://www.overdrive.com/media/10977600/the-unexpected-abigail-adams)." By John L. Smith, Jr. 2024  
-* "[Abigail Adams -- (Early America) Primary Source Readers](https://www.overdrive.com/media/1048228/abigail-adams)." By Jill K. Mulhall. 2012  
-* "[Abigail Adams -- A Biography](https://www.overdrive.com/media/1423911/abigail-adams)." By Phyllis Lee Levin. 2013.  
-
-OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):  
->Abigail Adams offers a fresh perspective on the famous events of Adams's life, and along the way, Woody Holton, a renowned historian of the American Revolution, takes on numerous myths about the men and women of the founding era. But the book also demonstrates that domestic dramas-from unplanned pregnancies to untimely deaths-could be just as heartbreaking, significant, and inspiring as the actions of statesmen and soldiers. A special focus of the book is Adams's complex relationships: with her mother, sisters, and children; with her husband's famous contemporaries; and with Phoebe, one of her father's slaves. At the same time that John exhibited his own diplomatic skills on a better-known canvas, Abigail struggled to prevent the charitable gifts she gave her sisters from coming between them. In a departure from the persistently upbeat tone of most Adams biographies, Holton's work shows how frequently her life was marred by tragedy, making this the deepest, most humanistic portrayal ever published. Using the matchless trove of Adams family manuscripts, the author steps back to allow Abigail to respond to her many losses in her own words. Holton reveals that Abigail Adams sharply disagreed with her husband's financial decisions and assumed control of the family's money herself-earning them a tidy fortune through her shrewd speculations (this during a time when married women were not permitted to own property). And he shows that her commitment to women's equality and education was intense and explicitly expressed and practical, from the more than two thousand letters she wrote over her lifetime to her final will (written in defiance of legislation prohibiting married women from bequeathing property). Alternately witty, poignant, and uplifting, Holton's narrative sheds new light on one of America's best-loved but least-understood icons.  
 
 </details>
 
