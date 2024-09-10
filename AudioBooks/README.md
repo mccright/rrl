@@ -2062,6 +2062,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details><summary><a name="on_writing_by_stephen_king"></a>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
+
+### On Writing -- A Memoir Of The Craft.  
+Audio: https://www.overdrive.com/media/143949/on-writing  
+eBook: https://www.overdrive.com/media/13779/on-writing  
+By [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)  (1947 – )  
+
+Reading Notes:  If you enjoy learning what creative people think about their art and craft, this is an excellent book -- the kind that after listening to it you find yourself searching out the book to read at your own pace, taking notes along the way.  If you just enjoy learning about people, this also seems like a good fit.  Give it a listen.  In addition to enjoying the content, King's reading style and pacing was an added joy.  The [OverDrive version](https://www.overdrive.com/media/143949/on-writing) is the twentieth-anniversary audio edition that includes some additional content, so don't just stop listening at the end of the book...  
+I am not a reader of Stephen King's fiction because every time I tried (*in the 1980s and 1990s*) it cost me too many sleepless nights and too much discomfort about __ (*the scary everyday scene most recently seeded into my imagination*) __.  Unlike any other author I have read, his writing has a near perfect fit for whatever part of my brain generates/remembers/emits fear in its many forms and life seems too short to give up the volume of energy required to deal with that long-lived response.  After listening to him read this book I may again try to find some fiction of his that my psyche and my day-to-day living can tolerate.  
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft](https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft)  
+
+</details>
+
+
 <details><summary>The One. By John Marrs. 2018 </summary>
 
 ### The One. (11:00)  
@@ -2914,6 +2929,33 @@ Reading Notes:
 
 
 
+
+<details>
+<summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+
+### Veronica Ruiz Breaks the Bank. (2:27)  
+Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
+eBook: https://www.overdrive.com/media/10012654/veronica-ruiz-breaks-the-bank  
+By [Elle Cosimano](https://ellecosimano.com/about/)  ( – )  
+
+Reading Notes: This is a light, quick story about a young down-on-her-luck woman who attempts (*successfully*) to land her starting-over job.  
+
+</details>
+
+
+<details>
+<summary>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
+
+### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
+Audio: https://www.overdrive.com/media/1358286/the-precipice  
+eBook: https://www.overdrive.com/media/514927/the-precipice  
+By [Ben Bova](https://en.wikipedia.org/wiki/Ben_Bova) and another [Ben Bova biography](http://benbova.com/biography/)  (1932 – 2020)  
+
+Reading Notes: This is a near-future story about some attempts deal with impacts of climate change.  The story involves kind of fanciful nano-technology, miniturized fusion power plants, privatized lunar settlement, and corporate & governmental intrigue.  
+
+</details>
+
+
 <details>
 <summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
@@ -3030,22 +3072,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 * Weapons Grade (2023)  
 * Command and Control (2023)  
 * Act of Defiance (2024)
-
-</details>
-
-
-<details>
-<summary>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
-
-### On Writing -- A Memoir Of The Craft.  
-Audio: https://www.overdrive.com/media/143949/on-writing  
-eBook: https://www.overdrive.com/media/13779/on-writing  
-By [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)  (1947 – )  
-
-Reading Notes:  If you enjoy learning what creative people think about their art and craft, this is an excellent book -- the kind that after listening to it you find yourself searching out the book to read at your own pace, taking notes along the way.  If you just enjoy learning about people, this also seems like a good fit.  Give it a listen.  In addition to enjoying the content, King's reading style and pacing was an added joy.  The [OverDrive version](https://www.overdrive.com/media/143949/on-writing) is the twentieth-anniversary audio edition that includes some additional content, so don't just stop listening at the end of the book...  
-I am not a reader of Stephen King's fiction because every time I tried (*in the 1980s and 1990s*) it cost me too many sleepless nights and too much discomfort about __ (*the scary everyday scene most recently seeded into my imagination*) __.  Unlike any other author I have read, his writing has a near perfect fit for whatever part of my brain generates/remembers/emits fear in its many forms and life seems too short to give up the volume of energy required to deal with that long-lived response.  After listening to him read this book I may again try to find some fiction of his that my psyche and my day-to-day living can tolerate.  
-
-Wikipedia Summary: [https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft](https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Craft)  
 
 </details>
 
