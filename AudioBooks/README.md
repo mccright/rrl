@@ -2928,6 +2928,22 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
+
+### Carol. (*first published as "The Price of Salt, or Carol" in 1952*) (11:00)  
+Audio: https://www.overdrive.com/media/2310419/carol  
+eBook: https://www.overdrive.com/media/2464940/carol-movie-tie-in-edition  
+1952 version - eBook: https://www.overdrive.com/media/2314033/the-price-of-salt-or-carol  
+By [Patricia Highsmith](https://en.wikipedia.org/wiki/Patricia_Highsmith)  (1921 – 1995)  
+
+Reading Notes: 19 year old Therese Belivet meets 30-something Carol Aird.  Both have complex back stories.  They take a road trip and...  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Price_of_Salt) for a detailed summary.  
+
+[Wikipedia summary](https://en.wikipedia.org/wiki/The_Price_of_Salt)  
+
+</details>
+
+
 
 
 <details>
@@ -3161,20 +3177,6 @@ See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The
 * [Fugitive Telemetry](https://www.overdrive.com/media/5821063/fugitive-telemetry)     (April 27, 2021)  
 * [Network Effect](https://www.overdrive.com/media/5329911/network-effect) & *[Wikipedia](https://en.wikipedia.org/wiki/Network_Effect_(novel))*     (May 2, 2020)  
 * [System Collapse](https://www.overdrive.com/media/9765114/system-collapse)        (November 14, 2023)  
-
-
-<details>
-<summary>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
-
-### On Writing -- A Memoir Of The Craft.  
-Audio: https://www.overdrive.com/media/143949/on-writing  
-eBook: https://www.overdrive.com/media/13779/on-writing  
-By [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)  (1947 – )  
-
-Reading Notes:  
-
-</details>
-
 
 
 
