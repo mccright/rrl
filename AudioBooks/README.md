@@ -2929,6 +2929,33 @@ Reading Notes:
 
 
 
+
+<details>
+<summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+
+### Veronica Ruiz Breaks the Bank. (2:27)  
+Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
+eBook: https://www.overdrive.com/media/10012654/veronica-ruiz-breaks-the-bank  
+By [Elle Cosimano](https://ellecosimano.com/about/)  ( – )  
+
+Reading Notes: This is a light, quick story about a young down-on-her-luck woman who attempts (*successfully*) to land her starting-over job.  
+
+</details>
+
+
+<details>
+<summary>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
+
+### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
+Audio: https://www.overdrive.com/media/1358286/the-precipice  
+eBook: https://www.overdrive.com/media/514927/the-precipice  
+By [Ben Bova](https://en.wikipedia.org/wiki/Ben_Bova) and another [Ben Bova biography](http://benbova.com/biography/)  (1932 – 2020)  
+
+Reading Notes: This is a near-future story about some attempts deal with impacts of climate change.  The story involves kind of fanciful nano-technology, miniturized fusion power plants, privatized lunar settlement, and corporate & governmental intrigue.  
+
+</details>
+
+
 <details>
 <summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
