@@ -2929,6 +2929,21 @@ Reading Notes:
 
 
 <details>
+<summary>Frontier Ballads. By Joseph Mills Hanson. </summary>
+
+### Frontier Ballads. (:)  
+Audio: https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3  
+eBook: https://www.gutenberg.org/ebooks/45240  
+By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and  his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
+
+Reading Notes:  
+
+Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-
+
+</details>
+
+
+<details>
 <summary>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
 
 ### Carol. (*first published as "The Price of Salt, or Carol" in 1952*) (11:00)  
