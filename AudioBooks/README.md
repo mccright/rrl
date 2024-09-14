@@ -2929,6 +2929,52 @@ Reading Notes:
 
 
 <details>
+<summary>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
+
+### Oscar Wilde, His Life and Confessions. Volume 1 (of 2) (7:00)  
+Audio: https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3  
+eBook: https://www.gutenberg.org/ebooks/16894  
+By [Frank Harris](https://en.wikipedia.org/wiki/Frank_Harris)  (1855 - 1931)  
+
+Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (1854 - 1900) written by a friend and editor in 1916.  It is shallow and choppy, but the first-person content made the listen worth while.  
+
+</details>
+
+<details>
+<summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
+
+### Okewood of the Secret Service. (8:40)  
+Audio: https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3  
+eBook: https://www.gutenberg.org/ebooks/2417  
+By [Valentine Williams](https://en.wikipedia.org/wiki/Valentine_Williams)  (1883 – 1946)  
+
+Reading Notes:  
+Arthur Mackwayte
+Barbara Mackwayte, MI5 Chief's secretary
+Maurice Strangwise, Captain -- “Captain Strangwise has escaped from a prisoners’ of war camp in Germany, Major,” he said, “we’ve been trying to get hold of him for days! He’s the talk of London!” ..."I got rather struck on the lady (*Nur-el-Din*) when she was touring in Canada some years ago, and in fact I spent so much more money than I could afford on her that I had to discontinue the acquaintance. Then I met her here when I got away from Germany a month ago; she was lonely, so I took her about a bit. Okewood, I’m afraid I was rather indiscreet."  
+Desmond Okewood, Brigade Major as gunner officer with Anglo-Irish parentage. The Secret Service arranged to have him 'killed in action' so he can become Basil Bellward/Wolfgang Bruhl.
+Desmond's brother Francis Okewood. "...serving on a German Staff somewhere at the back of Jerusalem the Golden."
+Nur-el-Din (...along with Madame’s maid, a trim Frenchwoman, Madame’s business manager 'Lazarro,  alias Sacchetti alias Le Tardenois,' a fat, voluble Italian, Madame’s secretary, an olive-skinned South American youth in an evening coat with velvet collar, and Madame’s principal male dancer in a scanty Egyptian dress with grotesquely painted face.)
+Retired English business man, alias Basil Bellward, is a German named Wolfgang Bruhl.
+
+</details>
+ 
+
+<details>
+<summary>The Life of Oscar Wilde. By Robert Sherard.  </summary>
+
+### The Life of Oscar Wilde (11:38)  
+Audio: https://librivox.org/the-life-of-oscar-wilde-by-robert-sherard/  
+eBook: https://archive.org/details/lifeofoscarwilde00sher  
+By [Robert Sherard](http://en.wikipedia.org/wiki/Robert_Sherard)  (1861 - 1943)  
+
+Reading Notes:  
+
+</details>
+
+
+
+<details>
 <summary>Frontier Ballads. By Joseph Mills Hanson. </summary>
 
 ### Frontier Ballads. (:)  
