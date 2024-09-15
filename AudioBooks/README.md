@@ -2944,11 +2944,26 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary>Playground. By Richard Powers. 2024 </summary>
+
+### Playground. (:)  
+Audio: https://www.overdrive.com/media/10590127/playground  
+eBook: https://www.overdrive.com/media/10480327/playground  
+By [Richard Powers](https://en.wikipedia.org/wiki/Richard_Powers)  (1957 – )  
+
+Reading Notes:  
+
+</details>
+
+
+
 <details>
 <summary>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
 
 ### Oscar Wilde, His Life and Confessions. Volume 1 (of 2) (7:00)  
-Audio: https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3  
+Audio: [https://archive.org/.../oscar_wilde_his_life_and_confessions_vol.mp3](https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3)  
 eBook: https://www.gutenberg.org/ebooks/16894  
 By [Frank Harris](https://en.wikipedia.org/wiki/Frank_Harris)  (1855 - 1931)  
 
@@ -2960,18 +2975,18 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 <summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
 
 ### Okewood of the Secret Service. (8:40)  
-Audio: https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3  
+Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
 eBook: https://www.gutenberg.org/ebooks/2417  
 By [Valentine Williams](https://en.wikipedia.org/wiki/Valentine_Williams)  (1883 – 1946)  
 
-Reading Notes:  
-Arthur Mackwayte
-Barbara Mackwayte, MI5 Chief's secretary
-Maurice Strangwise, Captain -- “Captain Strangwise has escaped from a prisoners’ of war camp in Germany, Major,” he said, “we’ve been trying to get hold of him for days! He’s the talk of London!” ..."I got rather struck on the lady (*Nur-el-Din*) when she was touring in Canada some years ago, and in fact I spent so much more money than I could afford on her that I had to discontinue the acquaintance. Then I met her here when I got away from Germany a month ago; she was lonely, so I took her about a bit. Okewood, I’m afraid I was rather indiscreet."  
-Desmond Okewood, Brigade Major as gunner officer with Anglo-Irish parentage. The Secret Service arranged to have him 'killed in action' so he can become Basil Bellward/Wolfgang Bruhl.
-Desmond's brother Francis Okewood. "...serving on a German Staff somewhere at the back of Jerusalem the Golden."
-Nur-el-Din (...along with Madame’s maid, a trim Frenchwoman, Madame’s business manager 'Lazarro,  alias Sacchetti alias Le Tardenois,' a fat, voluble Italian, Madame’s secretary, an olive-skinned South American youth in an evening coat with velvet collar, and Madame’s principal male dancer in a scanty Egyptian dress with grotesquely painted face.)
-Retired English business man, alias Basil Bellward, is a German named Wolfgang Bruhl.
+Reading Notes: This is another WWI British spy novel that screams its age and culture. The dialog is wooden and formulaic throughout. This genera is an acquired taste... Some of the key characters include:  
+  * Arthur Mackwayte, dies early in the story...  
+  * Barbara Mackwayte, daughter of Arthur Mackwayte and the Secret Service Chief's secretary.  
+  * Maurice Strangwise, Captain -- *Who is he really?* “Captain Strangwise has escaped from a prisoners’ of war camp in Germany, Major,” he said, “we’ve been trying to get hold of him for days! He’s the talk of London!” ..."I got rather struck on the lady (*Nur-el-Din*) when she was touring in Canada some years ago, and in fact I spent so much more money than I could afford on her that I had to discontinue the acquaintance. Then I met her here when I got away from Germany a month ago; she was lonely, so I took her about a bit. Okewood, I’m afraid I was rather indiscreet."  
+  * Desmond Okewood, Brigade Major as gunner officer with Anglo-Irish parentage. The Secret Service arranged to have him 'killed in action' so he can *become*/impersonate Basil Bellward/Wolfgang Bruhl and hunt for German spies along with other targets of the British Secret Service.  
+  * Desmond's brother Francis Okewood. "...serving on a German Staff somewhere at the back of Jerusalem the Golden."  
+  * Nur-el-Din, spying for the Germans (*...along with her maid, a trim Frenchwoman, Nur-el-Din’s business manager 'Lazarro, alias Sacchetti alias Le Tardenois,' a fat, voluble Italian, Nur-el-Din's secretary, an olive-skinned South American youth in an evening coat with velvet collar, and Nur-el-Din's principal male dancer in a scanty Egyptian dress with grotesquely painted face.*)  
+  * Retired English business man, alias Basil Bellward, is a German spy named Wolfgang Bruhl.
 
 </details>
  
@@ -2994,7 +3009,7 @@ Reading Notes:
 <summary>Frontier Ballads. By Joseph Mills Hanson. </summary>
 
 ### Frontier Ballads. (:)  
-Audio: https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3  
+Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3}  
 eBook: https://www.gutenberg.org/ebooks/45240  
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and  his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
 
