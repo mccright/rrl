@@ -1102,6 +1102,22 @@ Reader Notes: Unless you are interested in first person histories of mid-19th ce
 </details>
 
 
+<details><summary><a name="the_four_winds_by_kristin_hannah"></a>The Four Winds. By Kristin Hannah. 2021 </summary>
+
+### The Four Winds. (15:00)  
+Audio: https://www.overdrive.com/media/5895019/the-four-winds  
+eBook: https://www.overdrive.com/media/5443902/the-four-winds  
+By [Kristin Hannah](https://en.wikipedia.org/wiki/Kristin_Hannah) and on [her site](https://kristinhannah.com/about-kristin-bio/) (1960 – )  
+
+Reading Notes: This is an emotion-heavy family drama, love story, and historical fiction constructed around the 1930s depression, Southwest Dust Bowl, agricultural Calfornia and desperate poverty labor & some attempts to resist exploitation of workers.  The writing did a good job drawing me in and keeping me interested throughout.  
+
+Review by Ron Charles: [https://www.washingtonpost.com/.../four-winds-book-review/...](https://www.washingtonpost.com/entertainment/books/four-winds-book-review/2021/01/28/6c3afed8-6165-11eb-9061-07abcc1f9229_story.html)  
+Review by Elisabeth Egan: [https://www.nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html](https://www.nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html)  
+Review by : [https://the-bibliofile.com/the-four-winds/](https://the-bibliofile.com/the-four-winds/)  
+
+</details>
+
+
 <details><summary>The Freelands. By John Galsworthy. 1914 </summary>
 
 ### The Freelands  (9:51)  
@@ -2924,19 +2940,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Four Winds. By Kristin Hannah. 2021 </summary>
-
-### The Four Winds. (9:00)  
-Audio: https://www.overdrive.com/media/5895019/the-four-winds  
-eBook: https://www.overdrive.com/media/5443902/the-four-winds  
-By [Kristin Hannah](https://en.wikipedia.org/wiki/Kristin_Hannah) and on [her site](https://kristinhannah.com/about-kristin-bio/) (1960 – )  
-
-Reading Notes: This is an emotion-heavy family drama, love story, and historical fiction constructed around the 1930s depression, South West Dust Bowl, and agricultural Calfornia.  The writing did a good job drawing me in and keeping me interested throughout.  
 
 </details>
 
