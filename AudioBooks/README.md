@@ -2929,6 +2929,19 @@ Reading Notes:
 
 
 <details>
+<summary>The Four Winds. By Kristin Hannah. 2021 </summary>
+
+### The Four Winds. (9:00)  
+Audio: https://www.overdrive.com/media/5895019/the-four-winds  
+eBook: https://www.overdrive.com/media/5443902/the-four-winds  
+By [Kristin Hannah](https://en.wikipedia.org/wiki/Kristin_Hannah) and on [her site](https://kristinhannah.com/about-kristin-bio/) (1960 – )  
+
+Reading Notes: This is an emotion-heavy family drama, love story, and historical fiction constructed around the 1930s depression, South West Dust Bowl, and agricultural Calfornia.  The writing did a good job drawing me in and keeping me interested throughout.  
+
+</details>
+
+
+<details>
 <summary>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
 
 ### Oscar Wilde, His Life and Confessions. Volume 1 (of 2) (7:00)  
