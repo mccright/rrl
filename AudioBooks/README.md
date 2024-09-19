@@ -683,6 +683,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
+
+### Carol. (*first published as "The Price of Salt, or Carol" in 1952*) (11:00)  
+Audio: https://www.overdrive.com/media/2310419/carol  
+eBook: https://www.overdrive.com/media/2464940/carol-movie-tie-in-edition  
+1952 version - eBook: https://www.overdrive.com/media/2314033/the-price-of-salt-or-carol  
+By [Patricia Highsmith](https://en.wikipedia.org/wiki/Patricia_Highsmith)  (1921 – 1995)  
+
+Reading Notes: 19 year old Therese Belivet meets 30-something Carol Aird.  Both have complex back stories.  They take a road trip and...  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Price_of_Salt) for a detailed summary.  
+
+[Wikipedia summary](https://en.wikipedia.org/wiki/The_Price_of_Salt)  
+
+</details>
+
+
 <details><summary><a name="caste_isabel_wilkerson"></a>Caste -- The Origins of Our Discontent. By Isabel Wilkerson 2020/2022</summary>
 
 ### Caste -- The Origins of Our Discontent. (15:00)  
@@ -1098,6 +1113,22 @@ Reader Notes: Unless you are interested in first person histories of mid-19th ce
 
 [Librivox Summary](https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/):  
 >The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage — the mouth of the wild Suwanee River — which was the terminus of his "VOYAGE OF THE PAPER CANOE." Summary by Nathaniel H. Bishop.  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and associated derogatory terms. It is LibriVox's policy to record texts as written.  
+
+</details>
+
+
+<details><summary><a name="the_four_winds_by_kristin_hannah"></a>The Four Winds. By Kristin Hannah. 2021 </summary>
+
+### The Four Winds. (15:00)  
+Audio: https://www.overdrive.com/media/5895019/the-four-winds  
+eBook: https://www.overdrive.com/media/5443902/the-four-winds  
+By [Kristin Hannah](https://en.wikipedia.org/wiki/Kristin_Hannah) and on [her site](https://kristinhannah.com/about-kristin-bio/) (1960 – )  
+
+Reading Notes: This is an emotion-heavy family drama, love story, and historical fiction constructed around the 1930s depression, Southwest Dust Bowl, agricultural Calfornia and desperate poverty labor & some attempts to resist exploitation of workers.  The writing did a good job drawing me in and keeping me interested throughout.  
+
+Review by Ron Charles: [https://www.washingtonpost.com/.../four-winds-book-review/...](https://www.washingtonpost.com/entertainment/books/four-winds-book-review/2021/01/28/6c3afed8-6165-11eb-9061-07abcc1f9229_story.html)  
+Review by Elisabeth Egan: [https://www.nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html](https://www.nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html)  
+Review by : [https://the-bibliofile.com/the-four-winds/](https://the-bibliofile.com/the-four-winds/)  
 
 </details>
 
@@ -2928,24 +2959,42 @@ Reading Notes:
 </details>
 
 
+
 <details>
-<summary>The Four Winds. By Kristin Hannah. 2021 </summary>
+<summary>Rebecca. By Daphne du Maurier.  1938 </summary>
 
-### The Four Winds. (9:00)  
-Audio: https://www.overdrive.com/media/5895019/the-four-winds  
-eBook: https://www.overdrive.com/media/5443902/the-four-winds  
-By [Kristin Hannah](https://en.wikipedia.org/wiki/Kristin_Hannah) and on [her site](https://kristinhannah.com/about-kristin-bio/) (1960 – )  
+### Rebecca.  (15:28)  
+Audio: https://www.overdrive.com/media/1979697/rebecca  
+eBook: https://www.overdrive.com/media/1311754/rebecca  
+By [Daphne du Maurier](https://en.wikipedia.org/wiki/Daphne_du_Maurier)  (1907 – 1989)  
 
-Reading Notes: This is an emotion-heavy family drama, love story, and historical fiction constructed around the 1930s depression, South West Dust Bowl, and agricultural Calfornia.  The writing did a good job drawing me in and keeping me interested throughout.  
+Reading Notes: If you like [gothic novels](https://en.wikipedia.org/wiki/Gothic_literature) slow, then pace building, and dark, this is a good one... See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rebecca_(novel)) for more.  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)  
 
 </details>
+
+
+
+<details>
+<summary>Playground. By Richard Powers. 2024 </summary>
+
+### Playground. (:)  
+Audio: https://www.overdrive.com/media/10590127/playground  
+eBook: https://www.overdrive.com/media/10480327/playground  
+By [Richard Powers](https://en.wikipedia.org/wiki/Richard_Powers)  (1957 – )  
+
+Reading Notes:  
+
+</details>
+
 
 
 <details>
 <summary>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
 
 ### Oscar Wilde, His Life and Confessions. Volume 1 (of 2) (7:00)  
-Audio: https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3  
+Audio: [https://archive.org/.../oscar_wilde_his_life_and_confessions_vol.mp3](https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3)  
 eBook: https://www.gutenberg.org/ebooks/16894  
 By [Frank Harris](https://en.wikipedia.org/wiki/Frank_Harris)  (1855 - 1931)  
 
@@ -2957,18 +3006,18 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 <summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
 
 ### Okewood of the Secret Service. (8:40)  
-Audio: https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3  
+Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
 eBook: https://www.gutenberg.org/ebooks/2417  
 By [Valentine Williams](https://en.wikipedia.org/wiki/Valentine_Williams)  (1883 – 1946)  
 
-Reading Notes:  
-Arthur Mackwayte
-Barbara Mackwayte, MI5 Chief's secretary
-Maurice Strangwise, Captain -- “Captain Strangwise has escaped from a prisoners’ of war camp in Germany, Major,” he said, “we’ve been trying to get hold of him for days! He’s the talk of London!” ..."I got rather struck on the lady (*Nur-el-Din*) when she was touring in Canada some years ago, and in fact I spent so much more money than I could afford on her that I had to discontinue the acquaintance. Then I met her here when I got away from Germany a month ago; she was lonely, so I took her about a bit. Okewood, I’m afraid I was rather indiscreet."  
-Desmond Okewood, Brigade Major as gunner officer with Anglo-Irish parentage. The Secret Service arranged to have him 'killed in action' so he can become Basil Bellward/Wolfgang Bruhl.
-Desmond's brother Francis Okewood. "...serving on a German Staff somewhere at the back of Jerusalem the Golden."
-Nur-el-Din (...along with Madame’s maid, a trim Frenchwoman, Madame’s business manager 'Lazarro,  alias Sacchetti alias Le Tardenois,' a fat, voluble Italian, Madame’s secretary, an olive-skinned South American youth in an evening coat with velvet collar, and Madame’s principal male dancer in a scanty Egyptian dress with grotesquely painted face.)
-Retired English business man, alias Basil Bellward, is a German named Wolfgang Bruhl.
+Reading Notes: This is another WWI British spy novel that screams its age and culture. The dialog is wooden and formulaic throughout. This genera is an acquired taste... Some of the key characters include:  
+  * Arthur Mackwayte, dies early in the story...  
+  * Barbara Mackwayte, daughter of Arthur Mackwayte and the Secret Service Chief's secretary.  
+  * Maurice Strangwise, Captain -- *Who is he really?* “Captain Strangwise has escaped from a prisoners’ of war camp in Germany, Major,” he said, “we’ve been trying to get hold of him for days! He’s the talk of London!” ..."I got rather struck on the lady (*Nur-el-Din*) when she was touring in Canada some years ago, and in fact I spent so much more money than I could afford on her that I had to discontinue the acquaintance. Then I met her here when I got away from Germany a month ago; she was lonely, so I took her about a bit. Okewood, I’m afraid I was rather indiscreet."  
+  * Desmond Okewood, Brigade Major as gunner officer with Anglo-Irish parentage. The Secret Service arranged to have him 'killed in action' so he can *become*/impersonate Basil Bellward/Wolfgang Bruhl and hunt for German spies along with other targets of the British Secret Service.  
+  * Desmond's brother Francis Okewood. "...serving on a German Staff somewhere at the back of Jerusalem the Golden."  
+  * Nur-el-Din, spying for the Germans (*...along with her maid, a trim Frenchwoman, Nur-el-Din’s business manager 'Lazarro, alias Sacchetti alias Le Tardenois,' a fat, voluble Italian, Nur-el-Din's secretary, an olive-skinned South American youth in an evening coat with velvet collar, and Nur-el-Din's principal male dancer in a scanty Egyptian dress with grotesquely painted face.*)  
+  * Retired English business man, alias Basil Bellward, is a German spy named Wolfgang Bruhl.
 
 </details>
  
@@ -2991,29 +3040,13 @@ Reading Notes:
 <summary>Frontier Ballads. By Joseph Mills Hanson. </summary>
 
 ### Frontier Ballads. (:)  
-Audio: https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3  
+Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3}  
 eBook: https://www.gutenberg.org/ebooks/45240  
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and  his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
 
 Reading Notes:  
 
 Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-
-
-</details>
-
-
-<details>
-<summary>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
-
-### Carol. (*first published as "The Price of Salt, or Carol" in 1952*) (11:00)  
-Audio: https://www.overdrive.com/media/2310419/carol  
-eBook: https://www.overdrive.com/media/2464940/carol-movie-tie-in-edition  
-1952 version - eBook: https://www.overdrive.com/media/2314033/the-price-of-salt-or-carol  
-By [Patricia Highsmith](https://en.wikipedia.org/wiki/Patricia_Highsmith)  (1921 – 1995)  
-
-Reading Notes: 19 year old Therese Belivet meets 30-something Carol Aird.  Both have complex back stories.  They take a road trip and...  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Price_of_Salt) for a detailed summary.  
-
-[Wikipedia summary](https://en.wikipedia.org/wiki/The_Price_of_Salt)  
 
 </details>
 
