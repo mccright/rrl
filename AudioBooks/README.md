@@ -2961,6 +2961,22 @@ Reading Notes:
 
 
 <details>
+<summary>Rebecca. By Daphne du Maurier.  1938 </summary>
+
+### Rebecca.  (15:28)  
+Audio: https://www.overdrive.com/media/1979697/rebecca  
+eBook: https://www.overdrive.com/media/1311754/rebecca  
+By [Daphne du Maurier](https://en.wikipedia.org/wiki/Daphne_du_Maurier)  (1907 – 1989)  
+
+Reading Notes: If you like [gothic novels](https://en.wikipedia.org/wiki/Gothic_literature) slow, then pace building, and dark, this is a good one... See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rebecca_(novel)) for more.  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)  
+
+</details>
+
+
+
+<details>
 <summary>Playground. By Richard Powers. 2024 </summary>
 
 ### Playground. (:)  
