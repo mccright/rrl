@@ -2959,6 +2959,51 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>The Exchange: After the Firm. By John Grisham. 2023 </summary>
+
+### The Exchange: After the Firm. (9:00)  
+Audio: https://www.overdrive.com/media/9703516/the-exchange  
+eBook: https://www.overdrive.com/media/9704022/the-exchange  
+By [John Grisham](https://en.wikipedia.org/wiki/John_Grisham)  (1955 – )  
+
+Reading Notes:  Sequel of ‘[The Firm](https://en.wikipedia.org/wiki/The_Firm_(novel))’ (1991). 
+
+Review by Karin Tanabe: [https://www.washingtonpost.com/...john-grisham-the-firm-sequel/](https://www.washingtonpost.com/books/2023/10/18/john-grisham-the-firm-sequel/)  
+Wikipedia summary: https://en.wikipedia.org/wiki/The_Exchange:_After_The_Firm  
+BookMarks' summary of reviews: https://bookmarks.reviews/reviews/the-exchange-after-the-firm/  
+
+</details>
+
+
+<details>
+<summary>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
+
+### Private Moscow. (9:00)  
+Audio: https://www.overdrive.com/media/9267936/private-moscow  
+eBook: https://www.overdrive.com/media/9267686/private-moscow  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947– ) and [Adam Hamdy](https://en.wikipedia.org/wiki/Adam_Hamdy) (1974 - )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Dead Fall. By Brad Thor. 2023 </summary>
+
+### Dead Fall. (12:00)  
+Audio: https://www.overdrive.com/media/9296107/dead-fall  
+eBook: https://www.overdrive.com/media/9313790/dead-fall  
+By [Brad Thor](https://en.wikipedia.org/wiki/Brad_Thor)  (1969 – )  
+
+Reading Notes: Former Navy SEAL now private counterterrorism operative, Scot Harvath, is assigned to rescue an American citizen *kidnapped* in Ukraine, held by the worst of the Russian invaders. He fights constantly (and often improbably) during his time in North Eastern Ukraine and succeeds in his mission.  Meanwhile, corruption in Washington and a spy in Kiev. Close to non-stop action.  
+
+Review/Summary by Ryan Steck: [https://therealbookspy.com/...dead-fall-by-brad-thor/](https://therealbookspy.com/2023/06/28/featured-review-dead-fall-by-brad-thor/)  
+
+</details>
+
+
 
 <details>
 <summary>Rebecca. By Daphne du Maurier.  1938 </summary>
