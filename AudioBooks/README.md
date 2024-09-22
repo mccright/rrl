@@ -2960,14 +2960,18 @@ Reading Notes:
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary>The Exchange: After the Firm. By John Grisham. 2023 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### The Exchange: After the Firm. (9:00)  
+Audio: https://www.overdrive.com/media/9703516/the-exchange  
+eBook: https://www.overdrive.com/media/9704022/the-exchange  
+By [John Grisham](https://en.wikipedia.org/wiki/John_Grisham)  (1955 – )  
 
-Reading Notes:  
+Reading Notes:  Sequel of ‘[The Firm](https://en.wikipedia.org/wiki/The_Firm_(novel))’ (1991). 
+
+Review by Karin Tanabe: [https://www.washingtonpost.com/...john-grisham-the-firm-sequel/](https://www.washingtonpost.com/books/2023/10/18/john-grisham-the-firm-sequel/)  
+Wikipedia summary: https://en.wikipedia.org/wiki/The_Exchange:_After_The_Firm  
+BookMarks' summary of reviews: https://bookmarks.reviews/reviews/the-exchange-after-the-firm/  
 
 </details>
 
