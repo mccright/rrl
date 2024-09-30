@@ -2974,6 +2974,38 @@ Reading Notes:
 
 
 <details>
+<summary>The Magic Mountain. By Thomas Mann  1927 </summary>
+
+### The Magic Mountain. (34:56)  
+Audio: (Volume One, 16:20) https://librivox.org/the-magic-mountain-vol1-by-thomas-mann/ and  https://librivox.org/the-magic-mountain-volume-two-by-thomas-mann/ (Volume Two, 18:36)  
+eBook: https://archive.org/details/magicmountainder1946mann/page/n7/mode/2up  
+By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann)  (1875 - 1955)  
+Translated by [Helen Tracy Lowe-Porter](https://en.wikipedia.org/wiki/Helen_Tracy_Lowe-Porter) (1876 - 1963)  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Magic_Mountain  
+
+</details>
+
+
+<details>
+<summary>Buddenbrooks. By Thomas Mann  1901 </summary>
+
+### Buddenbrooks.  (29:09)    
+Audio: https://librivox.org/buddenbrooks-by-thomas-mann/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=mdp.39015015389532&view=1up&seq=2&skin=2021  
+By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann)  (1875 - 1955)  
+Translated by [Helen Tracy Lowe-Porter](https://en.wikipedia.org/wiki/Helen_Tracy_Lowe-Porter) (1876 - 1963)  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Buddenbrooks  
+
+</details>
+
+
+<details>
 <summary>The Exchange: After the Firm. By John Grisham. 2023 </summary>
 
 ### The Exchange: After the Firm. (9:00)  
