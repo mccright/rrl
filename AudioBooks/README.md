@@ -2312,6 +2312,18 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
+<details><summary>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
+
+### Private Moscow. (9:00)  
+Audio: https://www.overdrive.com/media/9267936/private-moscow  
+eBook: https://www.overdrive.com/media/9267686/private-moscow  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947– ) and [Adam Hamdy](https://en.wikipedia.org/wiki/Adam_Hamdy) (1974 - )  
+
+Reading Notes: Another impossible mission, fast-paced action, Russians, sleeper agents and more...  
+
+</details>
+
+
 <details><summary>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
@@ -3020,20 +3032,6 @@ Wikipedia summary: https://en.wikipedia.org/wiki/The_Exchange:_After_The_Firm
 BookMarks' summary of reviews: https://bookmarks.reviews/reviews/the-exchange-after-the-firm/  
 
 </details>
-
-
-<details>
-<summary>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
-
-### Private Moscow. (9:00)  
-Audio: https://www.overdrive.com/media/9267936/private-moscow  
-eBook: https://www.overdrive.com/media/9267686/private-moscow  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947– ) and [Adam Hamdy](https://en.wikipedia.org/wiki/Adam_Hamdy) (1974 - )  
-
-Reading Notes:  
-
-</details>
-
 
 
 <details>
