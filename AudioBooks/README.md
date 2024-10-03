@@ -2986,6 +2986,79 @@ Reading Notes:
 
 
 <details>
+<summary>Stone Blind. By Natalie Haynes. 2023 </summary>
+
+### Stone Blind. (9:00)  
+Audio: https://www.overdrive.com/media/8986923/stone-blind  
+eBook: https://www.overdrive.com/media/8999083/stone-blind  
+By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
+
+Reading Notes: This is a humorous retelling of the Greek myth of the [gorgon](https://en.wikipedia.org/wiki/Gorgons) [Medusa](https://en.wikipedia.org/wiki/Medusa). I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Stone_Blind) for a more thorough summary.  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/Stone_Blind](https://en.wikipedia.org/wiki/Stone_Blind)  
+
+Review By Lucinda Rosenfeld: https://www.nytimes.com/2023/02/05/books/review/stone-blind-natalie-haynes.html  
+
+</details>
+
+
+<details>
+<summary>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
+
+### A Thousand Ships. (9:00)  
+Audio: https://www.overdrive.com/media/5512578/a-thousand-ships  
+eBook: https://www.overdrive.com/media/4570319/a-thousand-ships  
+By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
+
+Reading Notes: This is a humorous retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/A_Thousand_Ships  
+
+Review By Claire Jarvis: [https://www.nytimes.com/...thousand-ships-natalie-haynes...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
+
+</details>
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
 <summary>The Magic Mountain. By Thomas Mann  1927 </summary>
 
 ### The Magic Mountain. (34:56)  
