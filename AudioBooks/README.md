@@ -2584,6 +2584,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Stone Blind. By Natalie Haynes. 2023 </summary>
+
+### Stone Blind. (9:00)  
+Audio: https://www.overdrive.com/media/8986923/stone-blind  
+eBook: https://www.overdrive.com/media/8999083/stone-blind  
+By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
+
+Reading Notes: This is a humorous retelling of the Greek myth of the [gorgon](https://en.wikipedia.org/wiki/Gorgons) [Medusa](https://en.wikipedia.org/wiki/Medusa). I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Stone_Blind) for a more thorough overview.  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/Stone_Blind](https://en.wikipedia.org/wiki/Stone_Blind)  
+
+Review By Lucinda Rosenfeld: https://www.nytimes.com/2023/02/05/books/review/stone-blind-natalie-haynes.html  
+
+</details>
+
+
 <details><summary>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
 
 ### The Storm before the Storm -- The Beginning of the End of the Roman Republic. (10:00)  
@@ -2986,23 +3002,6 @@ Reading Notes:
 
 
 <details>
-<summary>Stone Blind. By Natalie Haynes. 2023 </summary>
-
-### Stone Blind. (9:00)  
-Audio: https://www.overdrive.com/media/8986923/stone-blind  
-eBook: https://www.overdrive.com/media/8999083/stone-blind  
-By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
-
-Reading Notes: This is a humorous retelling of the Greek myth of the [gorgon](https://en.wikipedia.org/wiki/Gorgons) [Medusa](https://en.wikipedia.org/wiki/Medusa). I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Stone_Blind) for a more thorough summary.  
-
-Wikipedia summary: [https://en.wikipedia.org/wiki/Stone_Blind](https://en.wikipedia.org/wiki/Stone_Blind)  
-
-Review By Lucinda Rosenfeld: https://www.nytimes.com/2023/02/05/books/review/stone-blind-natalie-haynes.html  
-
-</details>
-
-
-<details>
 <summary>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
 
 ### A Thousand Ships. (9:00)  
@@ -3020,12 +3019,44 @@ Review By Claire Jarvis: [https://www.nytimes.com/...thousand-ships-natalie-hayn
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### 2034 -- A Novel of the Next World War. (:)  
+Audio: https://www.overdrive.com/media/5558540/2034  
+eBook: https://www.overdrive.com/media/5558752/2034  
+By [Elliot Ackerman](https://en.wikipedia.org/wiki/Elliot_Ackerman)  (1980 – )  and [Adm. James Stavridis](https://en.wikipedia.org/wiki/James_G._Stavridis)  (1955 - )  
+
+Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre)): On March 12, 2034, China starts a war with the United States that quickly escalates into WWIII...  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
+
+Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-stavridis...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
+
+</details>
+
+
+<details>
+<summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
+
+### Code Name Edelweiss. (9:00)  
+Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
+eBook: https://www.overdrive.com/media/9082158/code-name-edelweiss  
+By [Stephanie Landsem](https://stephanielandsem.com/)  ( – )  
+
+Reading Notes: This story is one approach to examining Nazi and Nazi supporter's activity in Southern California as well as local resistance to that cancer.   It might be aimed at young adults...maybe younger.  For an overview see the [author's summary](https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/).  If you want a more historically accurate examination of this period you might consider [Steven J. Ross](https://en.wikipedia.org/wiki/Steven_J._Ross_(historian))’s book, "[Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America](https://www.smithsonianmag.com/history/stopping-nazi-plots-1930s-los-angeles-180966961/)."  
+
+Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/  
+
+</details>
+
+
+<details>
+<summary>Loving the Dead and Gone. By Judith Turner-Yamamoto. 2022 </summary>
+
+### Loving the Dead and Gone. (:)  
+Audio: https://www.overdrive.com/media/9101292/loving-the-dead-and-gone  
+eBook: https://www.overdrive.com/media/8092507/loving-the-dead-and-gone  
+By [Judith Turner-Yamamoto](https://turneryamamoto.com/about/)  ( – )  
 
 Reading Notes:  
 
@@ -3033,12 +3064,12 @@ Reading Notes:
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### The Lindbergh Nanny.  
+Audio: https://www.overdrive.com/media/9127508/the-lindbergh-nanny  
+eBook: https://www.overdrive.com/media/8328761/the-lindbergh-nanny  
+By [Mariah Fredericks](https://en.wikipedia.org/wiki/Mariah_Fredericks)  ( – )  
 
 Reading Notes:  
 
@@ -3046,14 +3077,18 @@ Reading Notes:
 
 
 <details>
-<summary>Empty_Template </summary>
+<summary>Learned by Heart. By Emma Donoghue. 2023 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+### Learned by Heart (9:00)   
+Audio: https://www.overdrive.com/media/9452137/learned-by-heart  
+eBook: https://www.overdrive.com/media/9474862/learned-by-heart  
+By [Emma Donoghue](https://en.wikipedia.org/wiki/Emma_Donoghue)  (1969 – )  
 
-Reading Notes:  
+Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction)/[romance](https://en.wikipedia.org/wiki/Romance_novel) "is about Eliza Raine, an orphan heiress sent from India to England at age six, and Anne Lister, a brilliant, troublesome tomboy, who meet at the Manor School for young ladies in York in 1805 when they are both fourteen."  
+
+Review by Chris Bohjalian:  https://www.washingtonpost.com/books/2023/08/17/emma-donoghue-historical-novel/  
+Review by Chris Vognar: https://www.latimes.com/entertainment-arts/books/story/2023-08-25/life-after-room-emma-donoghue-on-her-new-novel-learned-by-heart  
+
 
 </details>
 
