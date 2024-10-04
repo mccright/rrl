@@ -2584,6 +2584,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Stone Blind. By Natalie Haynes. 2023 </summary>
+
+### Stone Blind. (9:00)  
+Audio: https://www.overdrive.com/media/8986923/stone-blind  
+eBook: https://www.overdrive.com/media/8999083/stone-blind  
+By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
+
+Reading Notes: This is a humorous retelling of the Greek myth of the [gorgon](https://en.wikipedia.org/wiki/Gorgons) [Medusa](https://en.wikipedia.org/wiki/Medusa). I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Stone_Blind) for a more thorough overview.  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/Stone_Blind](https://en.wikipedia.org/wiki/Stone_Blind)  
+
+Review By Lucinda Rosenfeld: https://www.nytimes.com/2023/02/05/books/review/stone-blind-natalie-haynes.html  
+
+</details>
+
+
 <details><summary>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
 
 ### The Storm before the Storm -- The Beginning of the End of the Roman Republic. (10:00)  
@@ -2986,23 +3002,6 @@ Reading Notes:
 
 
 <details>
-<summary>Stone Blind. By Natalie Haynes. 2023 </summary>
-
-### Stone Blind. (9:00)  
-Audio: https://www.overdrive.com/media/8986923/stone-blind  
-eBook: https://www.overdrive.com/media/8999083/stone-blind  
-By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
-
-Reading Notes: This is a humorous retelling of the Greek myth of the [gorgon](https://en.wikipedia.org/wiki/Gorgons) [Medusa](https://en.wikipedia.org/wiki/Medusa). I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Stone_Blind) for a more thorough summary.  
-
-Wikipedia summary: [https://en.wikipedia.org/wiki/Stone_Blind](https://en.wikipedia.org/wiki/Stone_Blind)  
-
-Review By Lucinda Rosenfeld: https://www.nytimes.com/2023/02/05/books/review/stone-blind-natalie-haynes.html  
-
-</details>
-
-
-<details>
 <summary>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
 
 ### A Thousand Ships. (9:00)  
@@ -3039,12 +3038,12 @@ Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-
 <details>
 <summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
 
-### Code Name Edelweiss. (:)  
+### Code Name Edelweiss. (9:00)  
 Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
 eBook: https://www.overdrive.com/media/9082158/code-name-edelweiss  
 By [Stephanie Landsem](https://stephanielandsem.com/)  ( – )  
 
-Reading Notes: This story is one way to examine Nazi and Nazi supporter's activity in Southern California and local resistance to that cancer.  If you want a more historically accurate examination of this period you might consider [Steven J. Ross](https://en.wikipedia.org/wiki/Steven_J._Ross_(historian))’s book, "[Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America](https://www.smithsonianmag.com/history/stopping-nazi-plots-1930s-los-angeles-180966961/)."  
+Reading Notes: This story is one approach to examining Nazi and Nazi supporter's activity in Southern California as well as local resistance to that cancer.   It might be aimed at young adults...maybe younger.  For an overview see the [author's summary](https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/).  If you want a more historically accurate examination of this period you might consider [Steven J. Ross](https://en.wikipedia.org/wiki/Steven_J._Ross_(historian))’s book, "[Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America](https://www.smithsonianmag.com/history/stopping-nazi-plots-1930s-los-angeles-180966961/)."  
 
 Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/  
 
