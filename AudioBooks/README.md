@@ -1829,6 +1829,21 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
+<details><summary>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
+
+### The Lindbergh Nanny. (12:19)  
+Audio: https://www.overdrive.com/media/9127508/the-lindbergh-nanny  
+eBook: https://www.overdrive.com/media/8328761/the-lindbergh-nanny  
+By [Mariah Fredericks](https://en.wikipedia.org/wiki/Mariah_Fredericks)  ( – )  
+
+Reading Notes: Excellent historical fiction novel -- the [Lindbergh kidnapping](https://en.wikipedia.org/wiki/Lindbergh_kidnapping) from the perspective of the *nurse* (now called a "nanny") [Betty Gow](). 
+
+Summary: [https://www.mariahfredericksbooks.com/...introducing-betty-gow-the-lindbergh-nanny](https://www.mariahfredericksbooks.com/blog-1/2022/3/30/introducing-betty-gow-the-lindbergh-nanny)  
+NYT Learning Resource on this topic: https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/big/0301.html  
+
+</details>
+
+
 <details><summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
 
 ### The Longest Letsgoboy. (00:08)  
@@ -3057,19 +3072,6 @@ Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-
 Audio: https://www.overdrive.com/media/9101292/loving-the-dead-and-gone  
 eBook: https://www.overdrive.com/media/8092507/loving-the-dead-and-gone  
 By [Judith Turner-Yamamoto](https://turneryamamoto.com/about/)  ( – )  
-
-Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
-
-### The Lindbergh Nanny.  
-Audio: https://www.overdrive.com/media/9127508/the-lindbergh-nanny  
-eBook: https://www.overdrive.com/media/8328761/the-lindbergh-nanny  
-By [Mariah Fredericks](https://en.wikipedia.org/wiki/Mariah_Fredericks)  ( – )  
 
 Reading Notes:  
 
