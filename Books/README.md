@@ -154,6 +154,21 @@ Summary:
 </details>
 
 
+<details>
+<summary>The Inner Game of Tennis.  By Timothy Gallwey  1974</summary>
+
+### The Inner Game of Tennis.  
+https://archive.org/details/innergameoftenni00gall  
+By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1974  
+
+Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us too often struggle with nervousness, self doubt, and fear of failure while participating in activities we hope(d) to love and excel at. This book is about ways to strip away some (*and for some, a lot*) of that unproductive thinking while learning about the type of concentration that can support a new level of excellence. This book uses tennis as a vehicle to explore these processes, but it seems useful to those involved in any sport as well as appreciative spectators.  
+
+[Review on Gates Notes](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis):  
+>"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
+
+</details>
+
+
 <details><summary>The Myth of Seneca Falls.  By Lisa Tetrault  2014</summary>
 
 ### The Myth of Seneca Falls -- Memory and the Women's Suffrage Movement, 1848-1898.  
@@ -219,6 +234,25 @@ Summary:
 </details>
 
 
+<details><summary>The White Lady -- A British Historical Mystery. By Jacqueline Winspear. 2023 </summary>
+
+### The White Lady -- A British Historical Mystery.  
+eBook: https://www.overdrive.com/media/9080904/the-white-lady  
+Audio: https://www.overdrive.com/media/9068653/the-white-lady  
+By [Jacqueline Winspear](https://en.wikipedia.org/wiki/Jacqueline_Winspear) (1955 - )  
+Bio on her own web site: https://jacquelinewinspear.com/about/  
+Also a bio on Wikiwand: https://www.wikiwand.com/en/Jacqueline_Winspear  
+  
+Reading Notes: Set in Post WWII Britain in 1947, 40-something former spy Elinor White, veteran of two wars, faces an organized crime gang in London, exposes corruption from Scotland Yard (*and beyond, to the highest levels of government*).  As the story opens, a very private White lives in a "grace and favor" property just outside Shacklehurst, in rural Kent.  Londoners, Jim Mackie, wife Rose, and their toddler Susie move in next door -- when Jim takes a job as a farm worker.  Mackie's are trying to *escape* from their infamous London crime family, but that family has other plans...  White is drawn into conflict and the story begins...  
+
+Review by Carol Memmott in the Washington Post: https://www.washingtonpost.com/books/2023/03/16/jacqueline-winspear-white-lady/  
+Review by Laury A. Egan in the New York Journal of Books: https://www.nyjournalofbooks.com/book-review/white-lady-novel  
+2021 Interview with Jacqueline Winspear: https://crimereads.com/jacqueline-winspear-how-i-became-a-mystery-writer-while-breaking-every-rule/  
+A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/  
+
+</details>
+
+
 <details><summary>The Woman's Hour -- The great Fight to Win the Vote.  By Elaine Weiss  2019</summary>
 
 ### The Woman's Hour -- The great Fight to Win the Vote.  
@@ -246,26 +280,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)
 -----
 
 ## Pending or Currently Underway:  
-
-<details>
-<summary>The White Lady -- A British Historical Mystery. By Jacqueline Winspear. 2023 </summary>
-
-### The White Lady -- A British Historical Mystery.  
-eBook: https://www.overdrive.com/media/9080904/the-white-lady  
-Audio: https://www.overdrive.com/media/9068653/the-white-lady  
-By [Jacqueline Winspear](https://en.wikipedia.org/wiki/Jacqueline_Winspear) (1955 - )  
-Bio on her own web site: https://jacquelinewinspear.com/about/  
-Also a bio on Wikiwand: https://www.wikiwand.com/en/Jacqueline_Winspear  
-  
-Reading Notes: Set in Post WWII Britain in 1947, 40-something former spy Elinor White, veteran of two wars, faces an organized crime gang in London, exposes corruption from Scotland Yard (*and beyond, to the highest levels of government*).  As the story opens, a very private White lives in a "grace and favor" property just outside Shacklehurst, in rural Kent.  Londoners, Jim Mackie, wife Rose, and their toddler Susie move in next door -- when Jim takes a job as a farm worker.  Mackie's are trying to *escape* from their infamous London crime family, but that family has other plans...  White is drawn into conflict and the story begins...  
-
-Review by Carol Memmott in the Washington Post: https://www.washingtonpost.com/books/2023/03/16/jacqueline-winspear-white-lady/  
-Review by Laury A. Egan in the New York Journal of Books: https://www.nyjournalofbooks.com/book-review/white-lady-novel  
-2021 Interview with Jacqueline Winspear: https://crimereads.com/jacqueline-winspear-how-i-became-a-mystery-writer-while-breaking-every-rule/  
-A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/  
-
-</details>
-
 
 <details>
 <summary>Woman Running in the Mountains.  By Yuko Tsushima. 1980 (translation 2022)</summary>
@@ -435,6 +449,7 @@ Review by [Lee Billings](http://leebillings.com/bio/): [https://www.scientificam
 Ebook: https://www.overdrive.com/media/2950318/requiem-for-the-american-dream  
 Audio: https://www.overdrive.com/media/3783918/requiem-for-the-american-dream  
 By [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  (1928 - __)  
+
 [Wikipedia Summary](https://en.wikipedia.org/wiki/Requiem_for_the_American_Dream):  
 >(*This is*) a book by political activist and linguist Noam Chomsky. It was created and edited by Peter Hutchinson, Kelly Nyks, and Jared P. Scott. It lays out Chomsky's analysis of [neoliberalism](https://en.wikipedia.org/wiki/Neoliberalism).  It focuses on the concentration of wealth and power in United States over the past forty years, analyzing the [income inequality](https://en.wikipedia.org/wiki/Economic_inequality).  The book was published by Seven Stories Press in 2017.  
 >The book charts Chomsky's analysis of the concentration of wealth from the 1970s to now. Chomsky analyzes the way in which power relations shifted from the late 1940s to today, in the name of "plutocratic interests".[2] This shift in power relations ends up being an assault "on lower- and middle-class people, which has escalated in recent decades during the ascendancy of what is known as 'neoliberalism' – with fiscal austerity for the poor and tax cuts and other subsidies for the wealthy minority."[3] Chomsky is most interested in how the rise of financialization, which "is a process whereby financial markets, financial institutions, and financial elites gain greater influence over economic policy and economic outcomes,"[4] and how it affects and shapes public life in America, leading to a concentration of wealth and power to elite persons and institutions. This has been shown to lead to phenomena like the richest people in the world having as much wealth as the bottom half of the world.  
@@ -641,21 +656,6 @@ By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  Published 201
 >"What would the world be like, Alderman asks, if all the women on Earth suddenly developed the ability to discharge massive electric shocks from their bodies? She takes this single idea and explores how it changes the dynamic between men and women, and among women. In doing so, she reveals a lot about how power and gender work today. (The word “power" in the title has multiple meanings.)"  From [Bill Gates](https://www.gatesnotes.com/Books/The-Power)  
 
 </details>
-
-<details>
-<summary>The Inner Game of Tennis.  By Timothy Gallwey  1974</summary>
-
-### The Inner Game of Tennis.  
-https://archive.org/details/innergameoftenni00gall  
-By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1974  
-
-Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us too often struggle with nervousness, self doubt, and fear of failure while participating in activities we hope(d) to love and excel at. This book is about ways to strip away some (*and for some, a lot*) of that unproductive thinking while learning about the type of concentration that can support a new level of excellence. This book uses tennis as a vehicle to explore these processes, but it seems useful to those involved in any sport as well as appreciative spectators.  
-
-[Review on Gates Notes](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis):  
->"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
-
-</details>
-
 
 
 <details>

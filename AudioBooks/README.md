@@ -841,6 +841,20 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
+<details><summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
+
+### Code Name Edelweiss. (9:00)  
+Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
+eBook: https://www.overdrive.com/media/9082158/code-name-edelweiss  
+By [Stephanie Landsem](https://stephanielandsem.com/)  ( – )  
+
+Reading Notes: This story is one approach to examining Nazi and Nazi supporter's activity in Southern California as well as local resistance to that cancer.   It might be aimed at young adults...maybe younger.  It also, in my reading, incorporates material Christian themes and dialog.  For an overview see the [author's summary](https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/).  If you want a more historically accurate examination of this period you might consider [Steven J. Ross](https://en.wikipedia.org/wiki/Steven_J._Ross_(historian))’s book, "[Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America](https://www.smithsonianmag.com/history/stopping-nazi-plots-1930s-los-angeles-180966961/)."  
+
+Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/  
+
+</details>
+
+
 <details><summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
 
 ### Code Name Sapphire. (13:00)  
@@ -3017,6 +3031,21 @@ Reading Notes:
 
 
 <details>
+<summary>Fractal Noise -- Fractalverse. By Christopher Paolini. 2023 </summary>
+
+### Fractal Noise  (10:00)  
+Audio: https://www.overdrive.com/media/9296630/fractal-noise  
+eBook: https://www.overdrive.com/media/9254635/fractal-noise  
+By [Christopher Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)  (1983 – )  
+
+Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly."  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Fractal_Noise  
+
+</details>
+
+	
+<details>
 <summary>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
 
 ### A Thousand Ships. (9:00)  
@@ -3046,21 +3075,6 @@ Reading Notes: [Speculative fiction](https://en.wikipedia.org/wiki/Speculative_f
 Wikipedia summary: https://en.wikipedia.org/wiki/2034:_A_Novel_of_the_Next_World_War  
 
 Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-stavridis...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
-
-</details>
-
-
-<details>
-<summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
-
-### Code Name Edelweiss. (9:00)  
-Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
-eBook: https://www.overdrive.com/media/9082158/code-name-edelweiss  
-By [Stephanie Landsem](https://stephanielandsem.com/)  ( – )  
-
-Reading Notes: This story is one approach to examining Nazi and Nazi supporter's activity in Southern California as well as local resistance to that cancer.   It might be aimed at young adults...maybe younger.  For an overview see the [author's summary](https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/).  If you want a more historically accurate examination of this period you might consider [Steven J. Ross](https://en.wikipedia.org/wiki/Steven_J._Ross_(historian))’s book, "[Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America](https://www.smithsonianmag.com/history/stopping-nazi-plots-1930s-los-angeles-180966961/)."  
-
-Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/  
 
 </details>
 
