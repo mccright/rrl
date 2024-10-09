@@ -3031,6 +3031,21 @@ Reading Notes:
 
 
 <details>
+<summary>Fractal Noise -- Fractalverse. By Christopher Paolini. 2023 </summary>
+
+### Fractal Noise  (10:00)  
+Audio: https://www.overdrive.com/media/9296630/fractal-noise  
+eBook: https://www.overdrive.com/media/9254635/fractal-noise  
+By [Christopher Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)  (1983 – )  
+
+Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly."  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Fractal_Noise  
+
+</details>
+
+	
+<details>
 <summary>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
 
 ### A Thousand Ships. (9:00)  
