@@ -841,6 +841,20 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
+<details><summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
+
+### Code Name Edelweiss. (9:00)  
+Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
+eBook: https://www.overdrive.com/media/9082158/code-name-edelweiss  
+By [Stephanie Landsem](https://stephanielandsem.com/)  ( – )  
+
+Reading Notes: This story is one approach to examining Nazi and Nazi supporter's activity in Southern California as well as local resistance to that cancer.   It might be aimed at young adults...maybe younger.  It also, in my reading, incorporates material Christian themes and dialog.  For an overview see the [author's summary](https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/).  If you want a more historically accurate examination of this period you might consider [Steven J. Ross](https://en.wikipedia.org/wiki/Steven_J._Ross_(historian))’s book, "[Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America](https://www.smithsonianmag.com/history/stopping-nazi-plots-1930s-los-angeles-180966961/)."  
+
+Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/  
+
+</details>
+
+
 <details><summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
 
 ### Code Name Sapphire. (13:00)  
@@ -1825,6 +1839,21 @@ Reading Notes: This is great story!  Mid-1950s juvenile work farm inmates just f
 
 GateNotes' Summary: [https://www.gatesnotes.com/The-Lincoln-Highway](https://www.gatesnotes.com/The-Lincoln-Highway)  
 Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the-lincoln-highway-review  
+
+</details>
+
+
+<details><summary>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
+
+### The Lindbergh Nanny. (12:19)  
+Audio: https://www.overdrive.com/media/9127508/the-lindbergh-nanny  
+eBook: https://www.overdrive.com/media/8328761/the-lindbergh-nanny  
+By [Mariah Fredericks](https://en.wikipedia.org/wiki/Mariah_Fredericks)  ( – )  
+
+Reading Notes: Excellent historical fiction novel -- the [Lindbergh kidnapping](https://en.wikipedia.org/wiki/Lindbergh_kidnapping) from the perspective of the *nurse* (now called a "nanny") [Betty Gow](). 
+
+Summary: [https://www.mariahfredericksbooks.com/...introducing-betty-gow-the-lindbergh-nanny](https://www.mariahfredericksbooks.com/blog-1/2022/3/30/introducing-betty-gow-the-lindbergh-nanny)  
+NYT Learning Resource on this topic: https://archive.nytimes.com/www.nytimes.com/learning/general/onthisday/big/0301.html  
 
 </details>
 
@@ -3002,6 +3031,21 @@ Reading Notes:
 
 
 <details>
+<summary>Fractal Noise -- Fractalverse. By Christopher Paolini. 2023 </summary>
+
+### Fractal Noise  (10:00)  
+Audio: https://www.overdrive.com/media/9296630/fractal-noise  
+eBook: https://www.overdrive.com/media/9254635/fractal-noise  
+By [Christopher Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)  (1983 – )  
+
+Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly."  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Fractal_Noise  
+
+</details>
+
+	
+<details>
 <summary>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
 
 ### A Thousand Ships. (9:00)  
@@ -3036,40 +3080,12 @@ Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-
 
 
 <details>
-<summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
-
-### Code Name Edelweiss. (9:00)  
-Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
-eBook: https://www.overdrive.com/media/9082158/code-name-edelweiss  
-By [Stephanie Landsem](https://stephanielandsem.com/)  ( – )  
-
-Reading Notes: This story is one approach to examining Nazi and Nazi supporter's activity in Southern California as well as local resistance to that cancer.   It might be aimed at young adults...maybe younger.  For an overview see the [author's summary](https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/).  If you want a more historically accurate examination of this period you might consider [Steven J. Ross](https://en.wikipedia.org/wiki/Steven_J._Ross_(historian))’s book, "[Hitler in Los Angeles: How Jews Foiled Nazi Plots Against Hollywood and America](https://www.smithsonianmag.com/history/stopping-nazi-plots-1930s-los-angeles-180966961/)."  
-
-Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-name-edelweiss/  
-
-</details>
-
-
-<details>
 <summary>Loving the Dead and Gone. By Judith Turner-Yamamoto. 2022 </summary>
 
 ### Loving the Dead and Gone. (:)  
 Audio: https://www.overdrive.com/media/9101292/loving-the-dead-and-gone  
 eBook: https://www.overdrive.com/media/8092507/loving-the-dead-and-gone  
 By [Judith Turner-Yamamoto](https://turneryamamoto.com/about/)  ( – )  
-
-Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
-
-### The Lindbergh Nanny.  
-Audio: https://www.overdrive.com/media/9127508/the-lindbergh-nanny  
-eBook: https://www.overdrive.com/media/8328761/the-lindbergh-nanny  
-By [Mariah Fredericks](https://en.wikipedia.org/wiki/Mariah_Fredericks)  ( – )  
 
 Reading Notes:  
 
