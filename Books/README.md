@@ -83,7 +83,7 @@ Some Quotes from the book:
 
 
 <details>
-<summary>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
+<summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
 
 ### The Big Sky.  
 Book: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  (*It seems [widely available](https://duckduckgo.com/?t=h_&q=the+big+sky+by+a.b.+guthrie+jr&ia=web) in libraries and commercially.*)  
@@ -387,7 +387,7 @@ https://books.google.com/books?id=LKZPEAAAQBAJ&printsec=frontcover#v=onepage&q&f
 
 
 <details>
-<summary>The Way West. By A. B. Guthrie, Jr.</summary>
+<summary><a name="the_way_west_by_a_b_guthrie"></a>The Way West. By A. B. Guthrie, Jr.  1949 </summary>
 
 ### The Way West.  
 This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
@@ -397,9 +397,13 @@ Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-a
       and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
 
 Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  
+It begins in the 1840s and is told largely through a focus on Lije Evans and Dick Summers (who had been farming in Missouri) as they set out with a group on one of the earliest traverses of the [Oregon Trail](https://en.wikipedia.org/wiki/Oregon_Trail).  That said, Guthrie excells at building scenes and sub-plots through the eyes of others along the way.  His writing about heroic (*as well as the less-than heroic*) men and women that explored and "*settled*" the American West is a fantastic example of [Western Fiction](https://en.wikipedia.org/wiki/Western_fiction) at its best.  In their pursuit of "*free*" land in Oregon, Guthrie's characters seem less concerned about the land and resource *theft* and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century than some of central personalities of his earlier "[The Big Sky](#the_big_sky_by_a_b_guthrie)."  While he references some negative outcomes of colonization, cultural and literal genocide -- the value of indigenous peoples is generally outside the scope of his narrative.  The impacts of that colonization continue through today. He also incorporates references to slavery & derogatory terms for the enslaved.  This book may be hurtful to some.
+
+My copy of this book was a loan from a brother-in-law.  It was printed in 2002 and included three helpful maps.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
+This is the second book in a series that also includes: "The Big Sky." and "Fair Land, Fair Land." (*[see their entries on this page](#the_big_sky_by_a_b_guthrie)*)  
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Way_West  
 ENotes Summary: https://www.enotes.com/topics/way-west  
-This is the second book in a series that also includes: "The Big Sky." and "Fair Land, Fair Land." (*see their entries on this page*)  
 
 </details>
 
