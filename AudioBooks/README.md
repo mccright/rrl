@@ -2079,7 +2079,7 @@ A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-moun
 </details>
 
 
-<details><summary>Napoleon The First, An Intimate Biography. 1921 </summary>
+<details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
 https://librivox.org/napoleon-the-first-biography-by-walter-geer/  
@@ -3038,7 +3038,7 @@ Audio: https://www.overdrive.com/media/9296630/fractal-noise
 eBook: https://www.overdrive.com/media/9254635/fractal-noise  
 By [Christopher Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)  (1983 – )  
 
-Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly."  
+Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly."  The author successfully builds uncertainty and stress as the story progresses. See the [Wikipedia summary](https://en.wikipedia.org/wiki/Fractal_Noise) for more.
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Fractal_Noise  
 
