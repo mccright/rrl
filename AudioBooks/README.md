@@ -1161,6 +1161,20 @@ Review by : [https://the-bibliofile.com/the-four-winds/](https://the-bibliofile.
 </details>
 
 
+<details><summary><a name="fractal_noise_by_christopher_paolini"></a>Fractal Noise -- Fractalverse. By Christopher Paolini. 2023 </summary>
+
+### Fractal Noise  (10:00)  
+Audio: https://www.overdrive.com/media/9296630/fractal-noise  
+eBook: https://www.overdrive.com/media/9254635/fractal-noise  
+By [Christopher Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)  (1983 – )  
+
+Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly" -- high energy, low frequency sound exhibiting evidence of intelligence coming from an enormous cylindrical hole in an unexplored planet.  The author successfully builds uncertainty and stress as the story progresses. See the [Wikipedia summary](https://en.wikipedia.org/wiki/Fractal_Noise) for more.
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Fractal_Noise  
+
+</details>
+
+
 <details><summary>The Freelands. By John Galsworthy. 1914 </summary>
 
 ### The Freelands  (9:51)  
@@ -3026,21 +3040,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Fractal Noise -- Fractalverse. By Christopher Paolini. 2023 </summary>
-
-### Fractal Noise  (10:00)  
-Audio: https://www.overdrive.com/media/9296630/fractal-noise  
-eBook: https://www.overdrive.com/media/9254635/fractal-noise  
-By [Christopher Paolini](https://en.wikipedia.org/wiki/Christopher_Paolini)  (1983 – )  
-
-Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly."  The author successfully builds uncertainty and stress as the story progresses. See the [Wikipedia summary](https://en.wikipedia.org/wiki/Fractal_Noise) for more.
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Fractal_Noise  
 
 </details>
 
