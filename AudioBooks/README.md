@@ -3052,7 +3052,7 @@ Audio: https://www.overdrive.com/media/5512578/a-thousand-ships
 eBook: https://www.overdrive.com/media/4570319/a-thousand-ships  
 By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
 
-Reading Notes: This is a humorous retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
+Reading Notes: This is a humorous novel retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/A_Thousand_Ships  
 
