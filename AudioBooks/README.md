@@ -2751,6 +2751,22 @@ Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): http
 
 </details>
 
+	
+<details><summary><a name="a_thousand_ships_by_natalie_haynes"></a>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
+
+### A Thousand Ships. (9:00)  
+Audio: https://www.overdrive.com/media/5512578/a-thousand-ships  
+eBook: https://www.overdrive.com/media/4570319/a-thousand-ships  
+By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
+
+Reading Notes: This is a humorous novel retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
+
+Wikipedia summary: https://en.wikipedia.org/wiki/A_Thousand_Ships  
+
+Review By Claire Jarvis: [https://www.nytimes.com/...thousand-ships-natalie-haynes...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
+
+</details>
+
 
 <details>
 <summary>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
@@ -3043,22 +3059,26 @@ Reading Notes:
 
 </details>
 
-	
+
 <details>
-<summary>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
+<summary>Translation State. By Ann Leckie. 2023 </summary>
 
-### A Thousand Ships. (9:00)  
-Audio: https://www.overdrive.com/media/5512578/a-thousand-ships  
-eBook: https://www.overdrive.com/media/4570319/a-thousand-ships  
-By [Natalie Haynes](https://en.wikipedia.org/wiki/Natalie_Haynes)  (1974 – )  
+### Translation State.  
+Audio: https://www.overdrive.com/media/9267960/translation-state  
+Ebook: https://www.overdrive.com/media/9267753/translation-state  
+By [Ann Leckie](https://en.wikipedia.org/wiki/Ann_Leckie)  (1966 – )  
 
-Reading Notes: This is a humorous novel retells the mythology of the Trojan war from the perspective of women involved.  I strongly recommend listening to this book because of the author's narration/performance.  She is simply fantastic!  She must love telling this story.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/A_Thousand_Ships) for a more thorough summary.  
+Reading Notes: Enae an "*orphaned*" diplomat, Reet an adopted mechanic who has an uncomfortable internal life, and Qven, in training to be a Presger translator, but rebels...  This story is about relationships and belonging, wrapped in a space mystery about a translator missing for 200 years...  
 
-Wikipedia summary: https://en.wikipedia.org/wiki/A_Thousand_Ships  
-
-Review By Claire Jarvis: [https://www.nytimes.com/...thousand-ships-natalie-haynes...](https://www.nytimes.com/2021/03/09/books/review/2034-elliot-ackerman-james-stavridis-thousand-ships-natalie-haynes-slash-and-burn-claudia-hernandez.html)  
+Review on GoodReads: https://www.goodreads.com/book/show/62873999-translation-state  
 
 </details>
+
+
+Translation State. By Ann Leckie  
+Audio: https://www.overdrive.com/media/9267960/translation-state  
+Ebook: https://www.overdrive.com/media/9267753/translation-state  
+https://www.goodreads.com/book/show/62873999-translation-state  
 
 
 <details>
@@ -3877,11 +3897,6 @@ https://www.goodreads.com/book/show/58727132-eversion
 
 Infinity Gate. By M.R. Carey  
 https://www.goodreads.com/book/show/61237044-infinity-gate  
-
-Translation State. By Ann Leckie  
-Audio: https://www.overdrive.com/media/9267960/translation-state  
-Ebook: https://www.overdrive.com/media/9267753/translation-state  
-https://www.goodreads.com/book/show/62873999-translation-state  
 
 Inhibitor Phase. By Alastair Reynolds  
 Audio: https://www.overdrive.com/media/9108777/inhibitor-phase  
