@@ -3061,6 +3061,35 @@ Reading Notes:
 
 
 <details>
+<summary>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
+
+### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War.  
+Audio: https://www.overdrive.com/media/4754334/imperfect-union  
+eBook: https://www.overdrive.com/media/4754075/imperfect-union  
+By [Steve Inskeep](https://en.wikipedia.org/wiki/Steve_Inskeep)  (1968 – )  
+
+Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  
+
+</details>
+
+
+
+<details>
+<summary>The Tourist. By Robert Dickinson. 2016 </summary>
+
+### The Tourist.  (10:00)  
+Audio: https://www.overdrive.com/media/2890301/the-tourist  
+eBook: https://www.overdrive.com/media/2619827/the-tourist  
+By [Robert Dickinson](https://sf-encyclopedia.com/entry/dickinson_robert)  (1962 – )  
+
+Reading Notes: I couldn't persist my interest in this story and returned the book to Libby/OverDrive...  
+
+See a November 4, 2016 review by Stevie Kincade on: https://www.goodreads.com/book/show/29467314-the-tourist  
+
+</details>
+
+
+<details>
 <summary>Translation State. By Ann Leckie. 2023 </summary>
 
 ### Translation State.  
@@ -3073,12 +3102,6 @@ Reading Notes: Enae an "*orphaned*" diplomat, Reet an adopted mechanic who has a
 Review on GoodReads: https://www.goodreads.com/book/show/62873999-translation-state  
 
 </details>
-
-
-Translation State. By Ann Leckie  
-Audio: https://www.overdrive.com/media/9267960/translation-state  
-Ebook: https://www.overdrive.com/media/9267753/translation-state  
-https://www.goodreads.com/book/show/62873999-translation-state  
 
 
 <details>
