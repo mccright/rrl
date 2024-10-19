@@ -2567,7 +2567,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Small_Bachelor
 </details>
 
 
-<details><summary>Soldiers' Pay.  By William Faulkner, 1926</summary>
+<details><summary><a name="soldiers_pay_by_william_faulkner"></a>Soldiers' Pay.  By William Faulkner. 1926</summary>
 
 ### Soldiers' Pay (9:33)  
 https://librivox.org/soldiers-pay-by-william-faulkner/  
@@ -2582,7 +2582,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Spacemen Lost. By George O. Smith. 1954 </summary>
+<details><summary><a name="spacemen_lost_by_george_o_smith"></a>Spacemen Lost. By George O. Smith. 1954 </summary>
 
 ### Spacemen Lost. (3:56:53)  
 Audio: https://librivox.org/spacemen-lost-by-george-o-smith/  
@@ -2597,7 +2597,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Spymaster of Baghdad -- A True Story of Bravery, Family, and Patriotism in the Battle Against ISIS. By Margaret Coker 2021 </summary>
+<details><summary><a name="the_spymaster_of_baghdad"></a>The Spymaster of Baghdad -- A True Story of Bravery, Family, and Patriotism in the Battle Against ISIS. By Margaret Coker 2021 </summary>
 
 ### The Spymaster of Baghdad -- A True Story of Bravery, Family, and Patriotism in the Battle Against ISIS. (11:00)  
 Audio: https://www.overdrive.com/media/5512591/the-spymaster-of-baghdad  
@@ -2614,7 +2614,7 @@ And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Opera
 </details>
 
 
-<details><summary>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
+<details><summary><a name="the_stars_my_brothers"></a>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
 
 ### The Stars, My Brothers. (01:23)  
 https://librivox.org/the-stars-my-brothers-by-edmond-hamilton/  
@@ -2627,7 +2627,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Stone Blind. By Natalie Haynes. 2023 </summary>
+<details><summary><a name="stone_blind_by_natalie_haynes"></a>Stone Blind. By Natalie Haynes. 2023 </summary>
 
 ### Stone Blind. (9:00)  
 Audio: https://www.overdrive.com/media/8986923/stone-blind  
@@ -2643,7 +2643,7 @@ Review By Lucinda Rosenfeld: https://www.nytimes.com/2023/02/05/books/review/sto
 </details>
 
 
-<details><summary>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
+<details><summary><a name="the_storm_before_the_storm"></a>The Storm before the Storm -- The Beginning of the End of the Roman Republic. By Mike Duncan. 2017 </summary>
 
 ### The Storm before the Storm -- The Beginning of the End of the Roman Republic. (10:00)  
 Audio: https://www.overdrive.com/media/3375678/the-storm-before-the-storm  
@@ -2656,7 +2656,7 @@ Wikipedia Summary: [https://en.wikipedia.org/...The_Storm_Before_the_Storm](http
 
 </details>
 
-<details><summary>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
+<details><summary><a name="the_story_of_geographical_discovery"></a>The Story of Geographical Discovery: How the World Became Known. 1897</summary>
 
 ### The Story of Geographical Discovery: How the World Became Known. (4:51)  
 https://librivox.org/the-story-of-geographical-discovery-how-the-world-became-known-by-joseph-jacobs/  
@@ -2673,7 +2673,7 @@ Some might be turned off by how the author ignores oppression built around the c
 </details>
 
 
-<details><summary>The Strange. By Nathan Ballingrud. 2023 </summary>
+<details><summary><a name="the_strange_by_nathan_ballingrud"></a>The Strange. By Nathan Ballingrud. 2023 </summary>
 
 ### The Strange.  (10:00)  
 Audio: https://www.overdrive.com/media/6384202/the-strange  
@@ -2687,7 +2687,7 @@ Reading Notes: Written as if it were authored in the late 1920s or early 1930s, 
 </details>
 
 
-<details><summary>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
+<details><summary><a name="the_sun_also_rises"></a>The Sun Also Rises. By Ernest Hemingway.  1926 </summary>
 
 ### The Sun Also Rises.  (6:43)  
 https://librivox.org/the-sun-also-rises-by-ernest-hemingway/  
@@ -2705,7 +2705,7 @@ https://en.wikipedia.org/wiki/The_Sun_Also_Rises
 </details>
 
 
-<details><summary>The Tattooist of Auschwitz. By Heather Morris. 2018 </summary>
+<details><summary><a name="the_tattooist_of_auschwitz"></a>The Tattooist of Auschwitz. By Heather Morris. 2018 </summary>
 
 ### The Tattooist of Auschwitz. (7:25)  
 https://www.overdrive.com/media/3728660/the-tattooist-of-auschwitz  
@@ -2721,7 +2721,7 @@ Kirkus Reviews: https://www.kirkusreviews.com/book-reviews/heather-morris/the-ta
 </details>
 
 
-<details><summary>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
+<details><summary><a name="tell_me_an_ending"></a>Tell Me an Ending. -- By Jo Harkin. 2022 </summary>
 
 ### Tell Me an Ending.  
 Audio: https://www.overdrive.com/media/8266180/tell-me-an-ending  
@@ -2738,7 +2738,7 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details><summary>The Terraformers. By Annalee Newitz. 2023</summary>
+<details><summary><a name="the_terraformers"></a>The Terraformers. By Annalee Newitz. 2023</summary>
 
 ### The Terraformers. (13:18)  
 Audio: https://www.overdrive.com/media/8916828/the-terraformers  
@@ -2768,8 +2768,7 @@ Review By Claire Jarvis: [https://www.nytimes.com/...thousand-ships-natalie-hayn
 </details>
 
 
-<details>
-<summary>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
+<details><summary><a name="the_three_body_problem"></a>The Three-Body Problem -- Remembrance of Earth's Past. By Cixin Liu. 2014 </summary>
 
 ### The Three-Body Problem -- Remembrance of Earth's Past.  (13:26)  
 Audio: https://www.overdrive.com/media/2001573/the-three-body-problem  
@@ -2783,7 +2782,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
-<details><summary>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
+<details><summary><a name="the_torrents_of_spring"></a>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
 
 ### The Torrents of Spring.  (2:10)
 https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
@@ -2800,7 +2799,7 @@ https://en.wikipedia.org/wiki/The_Torrents_of_Spring
 </details>
 
 
-<details><summary>A Town is Drowning.  By Frederik Pohl and C. M. Kornbluth. 1955 </summary>
+<details><summary><a name="a_town_is_drowning"></a>A Town is Drowning.  By Frederik Pohl and C. M. Kornbluth. 1955 </summary>
 
 ### A Town is Drowning. (4:35)  
 Audio: https://librivox.org/a-town-is-drowning-by-frederik-pohl/  
@@ -2814,7 +2813,21 @@ Learn more about the story in the [Librivox Summary](https://librivox.org/a-town
 </details>
 
 
-<details><summary>Trick of the Light.  By Louise Penny. 2011 </summary>
+<details><summary><a name="translation_state"></a>Translation State. By Ann Leckie. 2023 </summary>
+
+### Translation State.  (12:00)  
+Audio: https://www.overdrive.com/media/9267960/translation-state  
+Ebook: https://www.overdrive.com/media/9267753/translation-state  
+By [Ann Leckie](https://en.wikipedia.org/wiki/Ann_Leckie)  (1966 – )  
+
+Reading Notes: Enae an "*orphaned*" diplomat, Reet an adopted mechanic who has an uncomfortable internal life, and Qven, in training to be a Presger translator, but rebels...  This story is about relationships and belonging, wrapped in a space mystery about a translator missing for 200 years...  
+
+Review on GoodReads: https://www.goodreads.com/book/show/62873999-translation-state  
+
+</details>
+
+
+<details><summary><a name="trick_of_the_light"></a>Trick of the Light.  By Louise Penny. 2011 </summary>
 
 ### A Trick of the Light. (9:00)  
 https://www.overdrive.com/media/628804/a-trick-of-the-light  
@@ -3073,7 +3086,6 @@ Reading Notes: This book outlines the lives of [John Charles Frémont](https://e
 </details>
 
 
-
 <details>
 <summary>The Tourist. By Robert Dickinson. 2016 </summary>
 
@@ -3085,21 +3097,6 @@ By [Robert Dickinson](https://sf-encyclopedia.com/entry/dickinson_robert)  (1962
 Reading Notes: I couldn't persist my interest in this story and returned the book to Libby/OverDrive...  
 
 See a November 4, 2016 review by Stevie Kincade on: https://www.goodreads.com/book/show/29467314-the-tourist  
-
-</details>
-
-
-<details>
-<summary>Translation State. By Ann Leckie. 2023 </summary>
-
-### Translation State.  
-Audio: https://www.overdrive.com/media/9267960/translation-state  
-Ebook: https://www.overdrive.com/media/9267753/translation-state  
-By [Ann Leckie](https://en.wikipedia.org/wiki/Ann_Leckie)  (1966 – )  
-
-Reading Notes: Enae an "*orphaned*" diplomat, Reet an adopted mechanic who has an uncomfortable internal life, and Qven, in training to be a Presger translator, but rebels...  This story is about relationships and belonging, wrapped in a space mystery about a translator missing for 200 years...  
-
-Review on GoodReads: https://www.goodreads.com/book/show/62873999-translation-state  
 
 </details>
 
