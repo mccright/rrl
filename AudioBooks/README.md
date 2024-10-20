@@ -1743,6 +1743,22 @@ https://www.jsdewes.com/about
 </details>
 
 
+<details><summary><a name="learned_by_heart"></a>Learned by Heart. By Emma Donoghue. 2023 </summary>
+
+### Learned by Heart (9:00)   
+Audio: https://www.overdrive.com/media/9452137/learned-by-heart  
+eBook: https://www.overdrive.com/media/9474862/learned-by-heart  
+By [Emma Donoghue](https://en.wikipedia.org/wiki/Emma_Donoghue)  (1969 – )  
+
+Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction)/[romance](https://en.wikipedia.org/wiki/Romance_novel) "is about Eliza Raine, an orphan heiress sent from India to England at age six, and Anne Lister, a brilliant, troublesome tomboy, who meet at the Manor School for young ladies in York in 1805 when they are both fourteen."  
+
+Review by Chris Bohjalian:  https://www.washingtonpost.com/books/2023/08/17/emma-donoghue-historical-novel/  
+Review by Chris Vognar: https://www.latimes.com/entertainment-arts/books/story/2023-08-25/life-after-room-emma-donoghue-on-her-new-novel-learned-by-heart  
+
+
+</details>
+
+
 <details><summary><a name="leave_the_world_behind_rumaan_alam"></a>Leave the World Behind. By Rumaan Alam. 2020 </summary>
 
 ### Leave the World Behind. (7:26)  
@@ -3127,23 +3143,6 @@ eBook: https://www.overdrive.com/media/8092507/loving-the-dead-and-gone
 By [Judith Turner-Yamamoto](https://turneryamamoto.com/about/)  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Learned by Heart. By Emma Donoghue. 2023 </summary>
-
-### Learned by Heart (9:00)   
-Audio: https://www.overdrive.com/media/9452137/learned-by-heart  
-eBook: https://www.overdrive.com/media/9474862/learned-by-heart  
-By [Emma Donoghue](https://en.wikipedia.org/wiki/Emma_Donoghue)  (1969 – )  
-
-Reading Notes: This [historical fiction](https://en.wikipedia.org/wiki/Historical_fiction)/[romance](https://en.wikipedia.org/wiki/Romance_novel) "is about Eliza Raine, an orphan heiress sent from India to England at age six, and Anne Lister, a brilliant, troublesome tomboy, who meet at the Manor School for young ladies in York in 1805 when they are both fourteen."  
-
-Review by Chris Bohjalian:  https://www.washingtonpost.com/books/2023/08/17/emma-donoghue-historical-novel/  
-Review by Chris Vognar: https://www.latimes.com/entertainment-arts/books/story/2023-08-25/life-after-room-emma-donoghue-on-her-new-novel-learned-by-heart  
-
 
 </details>
 
