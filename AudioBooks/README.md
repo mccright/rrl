@@ -3097,7 +3097,8 @@ Audio: https://www.overdrive.com/media/4754334/imperfect-union
 eBook: https://www.overdrive.com/media/4754075/imperfect-union  
 By [Steve Inskeep](https://en.wikipedia.org/wiki/Steve_Inskeep)  (1968 – )  
 
-Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  
+Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  This is a great introduction to a number of mid-19th century U.S. social and political movements through the writings of these two key actors.  For me, it is a fantastic popular history book -- hurray! for Steve Inskeep author and narrator.  
+
 
 </details>
 
