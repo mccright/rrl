@@ -3089,15 +3089,32 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary>Station Eleven. By Emily St. John Mandel. 2014 </summary>
+
+### Station Eleven.  (10:40)  
+Audio: https://www.overdrive.com/media/1499830/station-eleven  
+eBook: https://www.overdrive.com/media/1638062/station-eleven  
+By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
+
+Reading Notes:  
+
+Overdrive Summary:  
+>Kirsten Raymonde will never forget the night Arthur Leander, the famous Hollywood actor, had a heart attack on stage during a production of King Lear. That was the night when a devastating flu pandemic arrived in the city, and within weeks, civilization as we know it came to an end.  Twenty years later, Kirsten moves between the settlements of the altered world with a small troupe of actors and musicians. They call themselves The Traveling Symphony, and they have dedicated themselves to keeping the remnants of art and humanity alive. But when they arrive in St. Deborah by the Water, they encounter a violent prophet who will threaten the tiny band’s existence. And as the story takes off, moving back and forth in time, and vividly depicting life before and after the pandemic, the strange twist of fate that connects them all will be revealed.  
+
+</details>
+
+
 <details>
 <summary>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
 
-### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War.  
+### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. (14:00)  
 Audio: https://www.overdrive.com/media/4754334/imperfect-union  
 eBook: https://www.overdrive.com/media/4754075/imperfect-union  
 By [Steve Inskeep](https://en.wikipedia.org/wiki/Steve_Inskeep)  (1968 – )  
 
-Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  
+Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  This is a great introduction to a number of mid-19th century U.S. social and political movements through the writings of these two key actors.  For me, it is a fantastic popular history book -- hurray! for Steve Inskeep author and narrator.  
 
 </details>
 
