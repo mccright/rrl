@@ -2643,6 +2643,27 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="station_eleven"></a>Station Eleven. By Emily St. John Mandel. 2014 </summary>
+
+### Station Eleven.  (10:40)  
+Audio: https://www.overdrive.com/media/1499830/station-eleven  
+eBook: https://www.overdrive.com/media/1638062/station-eleven  
+By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
+
+Reading Notes: As I write this, the global COVID-19 pandemic started only four and a half years ago in early 2020. I assume that Emily St. John  Mandel wrote this story in the years leading up to its 2014 publish date. That context made it hard for me to resist hearing this story as something humanity just very narrowly dodged...  
+This novel explores how a range of creative, empathetic people choose to live after surviving an *end-of-the-world-as-we-know-it* pandemic. Not everyone chose that path, which sets up threads of conflict that help drive this excellent story forward. The author introduces a number of characters by exploring their *before-time* and how their lives intersect and influence each other and some of those around them. The main characters are written as "*humans*" -- surrounded by some less fleshed-out charactures -- in a way that drew me into their stories and into the novel that brought them together. The *mechanics* of that writing stood out as a member of a small, expertly executed category that I don't often have the opportunity to read.  See the reviews below for more thorough summaries and analyses of this book.  
+
+[Overdrive Summary](https://www.overdrive.com/media/1499830/station-eleven):  
+>Kirsten Raymonde will never forget the night Arthur Leander, the famous Hollywood actor, had a heart attack on stage during a production of King Lear. That was the night when a devastating flu pandemic arrived in the city, and within weeks, civilization as we know it came to an end.  Twenty years later, Kirsten moves between the settlements of the altered world with a small troupe of actors and musicians. They call themselves The Traveling Symphony, and they have dedicated themselves to keeping the remnants of art and humanity alive. But when they arrive in St. Deborah by the Water, they encounter a violent prophet who will threaten the tiny band’s existence. And as the story takes off, moving back and forth in time, and vividly depicting life before and after the pandemic, the strange twist of fate that connects them all will be revealed.  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Station_Eleven  
+
+Review by [David Barnett](https://en.wikipedia.org/wiki/David_Barnett_(writer)): [https://www.independent.co.uk/...station-eleven-by-emily-st-john-mandel...](https://www.independent.co.uk/arts-entertainment/books/reviews/station-eleven-by-emily-st-john-mandel-book-review-hope-amidst-an-apocalypse-9773270.html)   
+Review by [Sigrid Nunez](https://en.wikipedia.org/wiki/Sigrid_Nunez): [https://www.nytimes.com/...station-eleven-by-emily-st-john-mandel...](https://www.nytimes.com/2014/09/14/books/review/station-eleven-by-emily-st-john-mandel.html)  
+Review by [Primo](https://owlcation.com/@primosaktyawansugiharto): [https://owlcation.com/...station-eleven-by-emily-st-john-mandel](https://owlcation.com/humanities/book-review-station-eleven-by-emily-st-john-mandel)  
+
+</details>
+
+
 <details><summary><a name="stone_blind_by_natalie_haynes"></a>Stone Blind. By Natalie Haynes. 2023 </summary>
 
 ### Stone Blind. (9:00)  
@@ -3088,28 +3109,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="station_eleven"></a>Station Eleven. By Emily St. John Mandel. 2014 </summary>
-
-### Station Eleven.  (10:40)  
-Audio: https://www.overdrive.com/media/1499830/station-eleven  
-eBook: https://www.overdrive.com/media/1638062/station-eleven  
-By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
-
-Reading Notes: As I write this, the global COVID-19 pandemic started only four and a half years ago in early 2020. I assume that Emily St. John  Mandel wrote this story in the years leading up to its 2014 publish date. That context made it hard for me to resist hearing this story as something humanity just very narrowly dodged...  
-This novel explores how a range of creative, empathetic people choose to live after surviving an *end-of-the-world-as-we-know-it* pandemic. Not everyone chose that path, which sets up threads of conflict that help drive this excellent story forward. The author introduces a number of characters by exploring their *before-time* and how their lives intersect and influence each other and some of those around them. The main characters are written as "*humans*" -- surrounded by some less fleshed-out charactures -- in a way that drew me into their stories and into the novel that brought them together. The *mechanics* of that writing stood out as a member of a small, expertly executed category that I don't often have the opportunity to read.  See the reviews below for more thorough summaries and analyses of this book.  
-
-[Overdrive Summary](https://www.overdrive.com/media/1499830/station-eleven):  
->Kirsten Raymonde will never forget the night Arthur Leander, the famous Hollywood actor, had a heart attack on stage during a production of King Lear. That was the night when a devastating flu pandemic arrived in the city, and within weeks, civilization as we know it came to an end.  Twenty years later, Kirsten moves between the settlements of the altered world with a small troupe of actors and musicians. They call themselves The Traveling Symphony, and they have dedicated themselves to keeping the remnants of art and humanity alive. But when they arrive in St. Deborah by the Water, they encounter a violent prophet who will threaten the tiny band’s existence. And as the story takes off, moving back and forth in time, and vividly depicting life before and after the pandemic, the strange twist of fate that connects them all will be revealed.  
-Wikipedia Summary: https://en.wikipedia.org/wiki/Station_Eleven  
-
-Review by [David Barnett](https://en.wikipedia.org/wiki/David_Barnett_(writer)): [https://www.independent.co.uk/...station-eleven-by-emily-st-john-mandel...](https://www.independent.co.uk/arts-entertainment/books/reviews/station-eleven-by-emily-st-john-mandel-book-review-hope-amidst-an-apocalypse-9773270.html)   
-Review by [Sigrid Nunez](https://en.wikipedia.org/wiki/Sigrid_Nunez): [https://www.nytimes.com/...station-eleven-by-emily-st-john-mandel...](https://www.nytimes.com/2014/09/14/books/review/station-eleven-by-emily-st-john-mandel.html)  
-Review by [Primo](https://owlcation.com/@primosaktyawansugiharto): [https://owlcation.com/...station-eleven-by-emily-st-john-mandel](https://owlcation.com/humanities/book-review-station-eleven-by-emily-st-john-mandel)  
-
-</details>
 
 
 <details>
