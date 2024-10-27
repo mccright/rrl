@@ -3105,9 +3105,8 @@ This novel explores how a range of creative, empathetic people choose to live af
 >Kirsten Raymonde will never forget the night Arthur Leander, the famous Hollywood actor, had a heart attack on stage during a production of King Lear. That was the night when a devastating flu pandemic arrived in the city, and within weeks, civilization as we know it came to an end.  Twenty years later, Kirsten moves between the settlements of the altered world with a small troupe of actors and musicians. They call themselves The Traveling Symphony, and they have dedicated themselves to keeping the remnants of art and humanity alive. But when they arrive in St. Deborah by the Water, they encounter a violent prophet who will threaten the tiny band’s existence. And as the story takes off, moving back and forth in time, and vividly depicting life before and after the pandemic, the strange twist of fate that connects them all will be revealed.  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Station_Eleven  
 
-Review by [David Barnett](): [https://www.independent.co.uk/...station-eleven-by-emily-st-john-mandel...](https://www.independent.co.uk/arts-entertainment/books/reviews/station-eleven-by-emily-st-john-mandel-book-review-hope-amidst-an-apocalypse-9773270.html)   
-Review by [Sigrid Nunez](): [https://www.nytimes.com/...station-eleven-by-emily-st-john-mandel...](https://www.nytimes.com/2014/09/14/books/review/station-eleven-by-emily-st-john-mandel.html)  
-
+Review by [David Barnett](https://en.wikipedia.org/wiki/David_Barnett_(writer)): [https://www.independent.co.uk/...station-eleven-by-emily-st-john-mandel...](https://www.independent.co.uk/arts-entertainment/books/reviews/station-eleven-by-emily-st-john-mandel-book-review-hope-amidst-an-apocalypse-9773270.html)   
+Review by [Sigrid Nunez](https://en.wikipedia.org/wiki/Sigrid_Nunez): [https://www.nytimes.com/...station-eleven-by-emily-st-john-mandel...](https://www.nytimes.com/2014/09/14/books/review/station-eleven-by-emily-st-john-mandel.html)  
 Review by [Primo](https://owlcation.com/@primosaktyawansugiharto): [https://owlcation.com/...station-eleven-by-emily-st-john-mandel](https://owlcation.com/humanities/book-review-station-eleven-by-emily-st-john-mandel)  
 
 </details>
