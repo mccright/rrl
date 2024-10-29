@@ -3111,6 +3111,25 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary>Artificial Condition -- The Murderbot Diaries. By Martha Wells. 2018 </summary>
+
+### All Systems Red -- The Murderbot Diaries.  (3:21)  
+Audio: https://www.overdrive.com/media/3954857/artificial-condition  
+eBook: https://www.overdrive.com/media/3469914/artificial-condition  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+[OverDrive Summary](https://www.overdrive.com/media/3954857/artificial-condition):  
+>The follow-up to the hugely popular science fiction action-adventure All Systems Red Artificial Condition continues The Murderbot Diaries, a science fiction series that tackles questions of the ethics of sentient robotics. It appeals to fans of Westworld, Ex Machina, Ann Leckie's Imperial Raadch series, or Iain M. Banks' Culture novels. The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. "As a heartless killing machine, I was a complete failure." It has a dark past-one in which a number of humans were killed. A past that caused it to christen itself "Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don't want to know what the "A" stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.  
+
+Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artificial-condition-and-rogue-protocol-by-martha-wells/  
+</details>
+
+
 <details>
 <summary><a name="america_before"></a>America Before -- The Key to Earth's Lost Civilization. By Graham Hancock. 2019 </summary>
 
