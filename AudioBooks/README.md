@@ -2650,11 +2650,12 @@ Audio: https://www.overdrive.com/media/1499830/station-eleven
 eBook: https://www.overdrive.com/media/1638062/station-eleven  
 By [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_Mandel)  (1979 – )  
 
-Reading Notes: As I write this, the global COVID-19 pandemic started only four and a half years ago in early 2020. I assume that Emily St. John  Mandel wrote this story in the years leading up to its 2014 publish date. That context made it hard for me to resist hearing this story as something humanity just very narrowly dodged...  
-This novel explores how a range of creative, empathetic people choose to live after surviving an *end-of-the-world-as-we-know-it* pandemic. Not everyone chose that path, which sets up threads of conflict that help drive this excellent story forward. The author introduces a number of characters by exploring their *before-time* and how their lives intersect and influence each other and some of those around them. The main characters are written as "*humans*" -- surrounded by some less fleshed-out charactures -- in a way that drew me into their stories and into the novel that brought them together. The *mechanics* of that writing stood out as a member of a small, expertly executed category that I don't often have the opportunity to read.  See the reviews below for more thorough summaries and analyses of this book.  
+Reading Notes: As I write this, the global COVID-19 pandemic started only four and a half years ago in early 2020. I assume that Emily St. John  Mandel wrote this story in the years leading up to its 2014 publish date. That context made it hard for me to resist hearing this story as something humanity just very narrowly dodged...    
+This novel explores how a range of creative, empathetic people choose to live after surviving an *end-of-the-world-as-we-know-it* pandemic. Not everyone chose that path, which sets up threads of conflict that help drive this excellent story forward. The author introduces a number of characters by exploring their *before-time* and how their lives intersect and influence each other and some of those around them. The main characters are written as "*humans*" -- surrounded by some less fleshed-out charactures -- in a way that drew me into their stories and into the novel that brought them together. The *mechanics* of that writing/story telling stood out as a member of a small, expertly executed category that I don't often have the opportunity to read.  See the reviews below for more thorough summaries and analyses of this book.  
 
 [Overdrive Summary](https://www.overdrive.com/media/1499830/station-eleven):  
 >Kirsten Raymonde will never forget the night Arthur Leander, the famous Hollywood actor, had a heart attack on stage during a production of King Lear. That was the night when a devastating flu pandemic arrived in the city, and within weeks, civilization as we know it came to an end.  Twenty years later, Kirsten moves between the settlements of the altered world with a small troupe of actors and musicians. They call themselves The Traveling Symphony, and they have dedicated themselves to keeping the remnants of art and humanity alive. But when they arrive in St. Deborah by the Water, they encounter a violent prophet who will threaten the tiny band’s existence. And as the story takes off, moving back and forth in time, and vividly depicting life before and after the pandemic, the strange twist of fate that connects them all will be revealed.  
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/Station_Eleven  
 
 Review by [David Barnett](https://en.wikipedia.org/wiki/David_Barnett_(writer)): [https://www.independent.co.uk/...station-eleven-by-emily-st-john-mandel...](https://www.independent.co.uk/arts-entertainment/books/reviews/station-eleven-by-emily-st-john-mandel-book-review-hope-amidst-an-apocalypse-9773270.html)   
@@ -3106,6 +3107,45 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
+
+</details>
+
+
+
+<details>
+<summary>Artificial Condition -- The Murderbot Diaries. By Martha Wells. 2018 </summary>
+
+### All Systems Red -- The Murderbot Diaries.  (3:21)  
+Audio: https://www.overdrive.com/media/3954857/artificial-condition  
+eBook: https://www.overdrive.com/media/3469914/artificial-condition  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+[OverDrive Summary](https://www.overdrive.com/media/3954857/artificial-condition):  
+>The follow-up to the hugely popular science fiction action-adventure All Systems Red Artificial Condition continues The Murderbot Diaries, a science fiction series that tackles questions of the ethics of sentient robotics. It appeals to fans of Westworld, Ex Machina, Ann Leckie's Imperial Raadch series, or Iain M. Banks' Culture novels. The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. "As a heartless killing machine, I was a complete failure." It has a dark past-one in which a number of humans were killed. A past that caused it to christen itself "Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don't want to know what the "A" stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.  
+
+Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artificial-condition-and-rogue-protocol-by-martha-wells/  
+</details>
+
+
+<details>
+<summary><a name="america_before"></a>America Before -- The Key to Earth's Lost Civilization. By Graham Hancock. 2019 </summary>
+
+### America Before -- The Key to Earth's Lost Civilization. (17:00)  
+Audio: https://www.overdrive.com/media/4248087/america-before  
+eBook: https://www.overdrive.com/media/4334563/america-before  
+By [Graham Hancock](https://en.wikipedia.org/wiki/Graham_Hancock)  (1950 – )  
+
+Reading Notes:   
+
+Author's Summary: [https://grahamhancock.com/america-before/](https://grahamhancock.com/america-before/?trk=public_post_comment-text)  
+
+[Overdrive Summary](https://www.overdrive.com/media/4248087/america-before): 
+>We've been taught that North and South America were empty of humans until around 13,000 years ago—amongst the last great landmasses on earth to have been settled by our ancestors. But new discoveries have radically reshaped this long-established picture and we know now that the Americas were first peopled more than 130,000 years ago—many tens of thousands of years before human settlements became established elsewhere.  Hancock's research takes us on a series of journeys and encounters with the scientists responsible for the recent extraordinary breakthroughs. In the process, from the Mississippi Valley to the Amazon rainforest, he reveals that ancient "New World" cultures share a legacy of advanced scientific knowledge and sophisticated spiritual beliefs with supposedly unconnected "Old World" cultures. Have archaeologists focused for too long only on the "Old World" in their search for the origins of civilization while failing to consider the revolutionary possibility that those origins might in fact be found in the "New World"?America Before: The Key to Earth's Lost Civilization is the culmination of everything that millions of listeners have loved in Hancock's body of work over the past decades, namely a mind-dilating exploration of the mysteries of the past, amazing archaeological discoveries and profound implications for how we lead our lives today.  
+
+Review by [Hung Truong](): https://somuchscifi.com/america-before-key-to-earths-lost-civilization-graham-hancock/  
 
 </details>
 
