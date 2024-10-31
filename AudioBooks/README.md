@@ -2133,7 +2133,7 @@ Audio: https://www.overdrive.com/media/3954857/artificial-condition
 eBook: https://www.overdrive.com/media/3469914/artificial-condition  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
 
-Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*). This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
+Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*) while attempting to learn about some of the activities that have been erased from his memory. The OverDrive summary below covers the rest.  
 
 Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
 [OverDrive Summary](https://www.overdrive.com/media/3954857/artificial-condition):  
