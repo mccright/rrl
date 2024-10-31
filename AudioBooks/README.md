@@ -2109,6 +2109,40 @@ A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-moun
 </details>
 
 
+<details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
+
+### All Systems Red -- The Murderbot Diaries.  (3:17)  
+Audio: https://www.overdrive.com/media/3783062/all-systems-red  
+eBook: https://www.overdrive.com/media/3845098/all-systems-red  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
+[OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
+>The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn't a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid - a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.  
+
+</details>
+
+
+<details><summary><a name="murderbot_artificial condition"></a>The Murderbot Diaries -- Artificial Condition. By Martha Wells. 2018 </summary>
+
+### The Murderbot Diaries -- Artificial Condition.  (3:21)  
+Audio: https://www.overdrive.com/media/3954857/artificial-condition  
+eBook: https://www.overdrive.com/media/3469914/artificial-condition  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*). This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+[OverDrive Summary](https://www.overdrive.com/media/3954857/artificial-condition):  
+>The follow-up to the hugely popular science fiction action-adventure All Systems Red, Artificial Condition continues The Murderbot Diaries, a science fiction series that tackles questions of the ethics of sentient robotics. It appeals to fans of Westworld, Ex Machina, Ann Leckie's Imperial Raadch series, or Iain M. Banks' Culture novels. The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. "As a heartless killing machine, I was a complete failure." It has a dark past-one in which a number of humans were killed. A past that caused it to christen itself "Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don't want to know what the "A" stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.  
+
+Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artificial-condition-and-rogue-protocol-by-martha-wells/  
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -3113,24 +3147,6 @@ Reading Notes:
 
 
 <details>
-<summary>Artificial Condition -- The Murderbot Diaries. By Martha Wells. 2018 </summary>
-
-### All Systems Red -- The Murderbot Diaries.  (3:21)  
-Audio: https://www.overdrive.com/media/3954857/artificial-condition  
-eBook: https://www.overdrive.com/media/3469914/artificial-condition  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
-
-Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
-[OverDrive Summary](https://www.overdrive.com/media/3954857/artificial-condition):  
->The follow-up to the hugely popular science fiction action-adventure All Systems Red Artificial Condition continues The Murderbot Diaries, a science fiction series that tackles questions of the ethics of sentient robotics. It appeals to fans of Westworld, Ex Machina, Ann Leckie's Imperial Raadch series, or Iain M. Banks' Culture novels. The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. "As a heartless killing machine, I was a complete failure." It has a dark past-one in which a number of humans were killed. A past that caused it to christen itself "Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don't want to know what the "A" stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.  
-
-Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artificial-condition-and-rogue-protocol-by-martha-wells/  
-</details>
-
-
-<details>
 <summary><a name="america_before"></a>America Before -- The Key to Earth's Lost Civilization. By Graham Hancock. 2019 </summary>
 
 ### America Before -- The Key to Earth's Lost Civilization. (17:00)  
@@ -3555,23 +3571,6 @@ The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on N
 By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
 
 Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
-
-</details>
-
-
-<details>
-<summary>All Systems Red -- The Murderbot Diaries. By Martha Wells. 2017 </summary>
-
-### All Systems Red -- The Murderbot Diaries.  (3:17)  
-Audio: https://www.overdrive.com/media/3783062/all-systems-red  
-eBook: https://www.overdrive.com/media/3845098/all-systems-red  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
-[OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
->The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn't a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid - a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.  
 
 </details>
 
