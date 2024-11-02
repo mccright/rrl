@@ -3154,7 +3154,7 @@ Audio: https://www.overdrive.com/media/4248087/america-before
 eBook: https://www.overdrive.com/media/4334563/america-before  
 By [Graham Hancock](https://en.wikipedia.org/wiki/Graham_Hancock)  (1950 – )  
 
-Reading Notes:   
+Reading Notes: An overly-long, but interesting argument about a theorized ancient civilization that seeded the cultures that followed across the globe. The author includes a lot of "what if" speculation that may not mix well with the "*sciency*" stuff for some.  
 
 Author's Summary: [https://grahamhancock.com/america-before/](https://grahamhancock.com/america-before/?trk=public_post_comment-text)  
 
