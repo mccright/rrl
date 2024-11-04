@@ -148,6 +148,25 @@ Reading Notes: I recommend this excellent 19th century novel to anyone who has t
 </details>
 
 
+<details><summary><a name="america_before"></a>America Before -- The Key to Earth's Lost Civilization. By Graham Hancock. 2019 </summary>
+
+### America Before -- The Key to Earth's Lost Civilization. (17:00)  
+Audio: https://www.overdrive.com/media/4248087/america-before  
+eBook: https://www.overdrive.com/media/4334563/america-before  
+By [Graham Hancock](https://en.wikipedia.org/wiki/Graham_Hancock)  (1950 – )  
+
+Reading Notes: An overly-long, but interesting argument about a theorized ancient civilization that seeded the cultures across the globe that followed. The author includes a lot of "what if" speculation that may not mix well with the "*sciency*" stuff for some.  
+
+Author's Summary: [https://grahamhancock.com/america-before/](https://grahamhancock.com/america-before/?trk=public_post_comment-text)  
+
+[Overdrive Summary](https://www.overdrive.com/media/4248087/america-before): 
+>We've been taught that North and South America were empty of humans until around 13,000 years ago—amongst the last great landmasses on earth to have been settled by our ancestors. But new discoveries have radically reshaped this long-established picture and we know now that the Americas were first peopled more than 130,000 years ago—many tens of thousands of years before human settlements became established elsewhere.  Hancock's research takes us on a series of journeys and encounters with the scientists responsible for the recent extraordinary breakthroughs. In the process, from the Mississippi Valley to the Amazon rainforest, he reveals that ancient "New World" cultures share a legacy of advanced scientific knowledge and sophisticated spiritual beliefs with supposedly unconnected "Old World" cultures. Have archaeologists focused for too long only on the "Old World" in their search for the origins of civilization while failing to consider the revolutionary possibility that those origins might in fact be found in the "New World"?America Before: The Key to Earth's Lost Civilization is the culmination of everything that millions of listeners have loved in Hancock's body of work over the past decades, namely a mind-dilating exploration of the mysteries of the past, amazing archaeological discoveries and profound implications for how we lead our lives today.  
+
+Review by [Hung Truong](): https://somuchscifi.com/america-before-key-to-earths-lost-civilization-graham-hancock/  
+
+</details>
+
+
 <details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
@@ -2109,6 +2128,40 @@ A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-moun
 </details>
 
 
+<details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
+
+### All Systems Red -- The Murderbot Diaries.  (3:17)  
+Audio: https://www.overdrive.com/media/3783062/all-systems-red  
+eBook: https://www.overdrive.com/media/3845098/all-systems-red  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
+[OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
+>The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn't a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid - a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.  
+
+</details>
+
+
+<details><summary><a name="murderbot_artificial condition"></a>The Murderbot Diaries -- Artificial Condition. By Martha Wells. 2018 </summary>
+
+### The Murderbot Diaries -- Artificial Condition.  (3:21)  
+Audio: https://www.overdrive.com/media/3954857/artificial-condition  
+eBook: https://www.overdrive.com/media/3469914/artificial-condition  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*) while attempting to learn about some of the activities that have been erased from his memory. The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+[OverDrive Summary](https://www.overdrive.com/media/3954857/artificial-condition):  
+>The follow-up to the hugely popular science fiction action-adventure All Systems Red, Artificial Condition continues The Murderbot Diaries, a science fiction series that tackles questions of the ethics of sentient robotics. It appeals to fans of Westworld, Ex Machina, Ann Leckie's Imperial Raadch series, or Iain M. Banks' Culture novels. The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. "As a heartless killing machine, I was a complete failure." It has a dark past-one in which a number of humans were killed. A past that caused it to christen itself "Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don't want to know what the "A" stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.  
+
+Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artificial-condition-and-rogue-protocol-by-martha-wells/  
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -3112,47 +3165,9 @@ Reading Notes:
 
 
 
-<details>
-<summary>Artificial Condition -- The Murderbot Diaries. By Martha Wells. 2018 </summary>
-
-### All Systems Red -- The Murderbot Diaries.  (3:21)  
-Audio: https://www.overdrive.com/media/3954857/artificial-condition  
-eBook: https://www.overdrive.com/media/3469914/artificial-condition  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
-
-Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
-[OverDrive Summary](https://www.overdrive.com/media/3954857/artificial-condition):  
->The follow-up to the hugely popular science fiction action-adventure All Systems Red Artificial Condition continues The Murderbot Diaries, a science fiction series that tackles questions of the ethics of sentient robotics. It appeals to fans of Westworld, Ex Machina, Ann Leckie's Imperial Raadch series, or Iain M. Banks' Culture novels. The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. "As a heartless killing machine, I was a complete failure." It has a dark past-one in which a number of humans were killed. A past that caused it to christen itself "Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don't want to know what the "A" stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.  
-
-Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artificial-condition-and-rogue-protocol-by-martha-wells/  
-</details>
-
 
 <details>
-<summary><a name="america_before"></a>America Before -- The Key to Earth's Lost Civilization. By Graham Hancock. 2019 </summary>
-
-### America Before -- The Key to Earth's Lost Civilization. (17:00)  
-Audio: https://www.overdrive.com/media/4248087/america-before  
-eBook: https://www.overdrive.com/media/4334563/america-before  
-By [Graham Hancock](https://en.wikipedia.org/wiki/Graham_Hancock)  (1950 – )  
-
-Reading Notes:   
-
-Author's Summary: [https://grahamhancock.com/america-before/](https://grahamhancock.com/america-before/?trk=public_post_comment-text)  
-
-[Overdrive Summary](https://www.overdrive.com/media/4248087/america-before): 
->We've been taught that North and South America were empty of humans until around 13,000 years ago—amongst the last great landmasses on earth to have been settled by our ancestors. But new discoveries have radically reshaped this long-established picture and we know now that the Americas were first peopled more than 130,000 years ago—many tens of thousands of years before human settlements became established elsewhere.  Hancock's research takes us on a series of journeys and encounters with the scientists responsible for the recent extraordinary breakthroughs. In the process, from the Mississippi Valley to the Amazon rainforest, he reveals that ancient "New World" cultures share a legacy of advanced scientific knowledge and sophisticated spiritual beliefs with supposedly unconnected "Old World" cultures. Have archaeologists focused for too long only on the "Old World" in their search for the origins of civilization while failing to consider the revolutionary possibility that those origins might in fact be found in the "New World"?America Before: The Key to Earth's Lost Civilization is the culmination of everything that millions of listeners have loved in Hancock's body of work over the past decades, namely a mind-dilating exploration of the mysteries of the past, amazing archaeological discoveries and profound implications for how we lead our lives today.  
-
-Review by [Hung Truong](): https://somuchscifi.com/america-before-key-to-earths-lost-civilization-graham-hancock/  
-
-</details>
-
-
-
-<details>
-<summary>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
+<summary><a name="imperfect_union"></a>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
 
 ### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. (14:00)  
 Audio: https://www.overdrive.com/media/4754334/imperfect-union  
@@ -3555,23 +3570,6 @@ The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on N
 By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
 
 Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
-
-</details>
-
-
-<details>
-<summary>All Systems Red -- The Murderbot Diaries. By Martha Wells. 2017 </summary>
-
-### All Systems Red -- The Murderbot Diaries.  (3:17)  
-Audio: https://www.overdrive.com/media/3783062/all-systems-red  
-eBook: https://www.overdrive.com/media/3845098/all-systems-red  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to protect a group of scientists researching part of an unexplored planet. This short novella seems like episode one of a series and left me wanting access to episode two... The OverDrive summary below covers the rest.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red  
-[OverDrive Summary](https://www.overdrive.com/media/3783062/all-systems-red):  
->The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn't a primary concern. On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied 'droid - a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as "Murderbot." Scornful of humans, all it really wants is to be left alone long enough to figure out who it is. But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.  
 
 </details>
 
