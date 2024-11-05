@@ -3179,6 +3179,20 @@ Reading Notes:
 
 
 
+<details>
+<summary>Let's Not Do That Again. By Grant Ginder. 2022 </summary>
+
+### Let's Not Do That Again. (11:30)  
+Audio: https://www.overdrive.com/media/6241648/lets-not-do-that-again  
+eBook: https://www.overdrive.com/media/6211560/lets-not-do-that-again  
+By [Grant Ginder](https://en.wikipedia.org/wiki/Grant_Ginder)  (1982 – )  
+
+Reading Notes: This story has been described as "viciously funny" but I found it more often a slog.  The characters were evolved, efficiently rendered caricatures, but didn't reach human status. It has a propulsive quality -- always moving the story forward -- that is comforting, and is what kept me from giving up and returning the book.  
+
+Author's Summary: https://www.grantginder.com/lets-not-do-that-again  
+
+</details>
+
 
 <details>
 <summary><a name="imperfect_union"></a>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
