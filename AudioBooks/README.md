@@ -499,7 +499,7 @@ eBook: http://www.gutenberg.org/ebooks/68811
 By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
 250 pages.
 
-Reading Notes: This satire is filled with stereotypical characters and seems deeply pessimistic.  Written in the late 1920s or 1930 about race in the U.S., it uses terms for African Americans that are likely objectionable to many readers today. Read the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More) if you want to know more...  Also, this audio book suffers from a *flat* reading that may draw attention from the story -- it might be a better [read](http://www.gutenberg.org/ebooks/68811).  
+Reading Notes: This satire is filled with stereotypical characters and seems deeply pessimistic.  Written in the late 1920s or 1930 about race in the U.S., it uses terms for African Americans that are likely objectionable to many readers today -- the whole story may offend some... Read the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More) if you want to know more...  Also, this audio book suffers from a *flat* reading that may draw attention from the story -- it might be a better [read](http://www.gutenberg.org/ebooks/68811).  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
 
@@ -2468,6 +2468,20 @@ Reading Notes: Somebody, somewhere in government will remain available to *fight
 </details>
 
 
+<details><summary>Rebecca. By Daphne du Maurier.  1938 </summary>
+
+### Rebecca.  (15:28)  
+Audio: https://www.overdrive.com/media/1979697/rebecca  
+eBook: https://www.overdrive.com/media/1311754/rebecca  
+By [Daphne du Maurier](https://en.wikipedia.org/wiki/Daphne_du_Maurier)  (1907 – 1989)  
+
+Reading Notes: If you like [gothic novels](https://en.wikipedia.org/wiki/Gothic_literature) slow, then pace building, and dark, this is a good one... See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rebecca_(novel)) for more.  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)  
+
+</details>
+
+
 <details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
@@ -3269,21 +3283,6 @@ Reading Notes:  Sequel of ‘[The Firm](https://en.wikipedia.org/wiki/The_Firm_(
 Review by Karin Tanabe: [https://www.washingtonpost.com/...john-grisham-the-firm-sequel/](https://www.washingtonpost.com/books/2023/10/18/john-grisham-the-firm-sequel/)  
 Wikipedia summary: https://en.wikipedia.org/wiki/The_Exchange:_After_The_Firm  
 BookMarks' summary of reviews: https://bookmarks.reviews/reviews/the-exchange-after-the-firm/  
-
-</details>
-
-
-<details>
-<summary>Rebecca. By Daphne du Maurier.  1938 </summary>
-
-### Rebecca.  (15:28)  
-Audio: https://www.overdrive.com/media/1979697/rebecca  
-eBook: https://www.overdrive.com/media/1311754/rebecca  
-By [Daphne du Maurier](https://en.wikipedia.org/wiki/Daphne_du_Maurier)  (1907 – 1989)  
-
-Reading Notes: If you like [gothic novels](https://en.wikipedia.org/wiki/Gothic_literature) slow, then pace building, and dark, this is a good one... See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rebecca_(novel)) for more.  
-
-Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)  
 
 </details>
 
