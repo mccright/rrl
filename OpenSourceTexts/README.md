@@ -240,6 +240,21 @@ By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (17
 
 </details>
 
+
+<details><summary>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
+
+### The Souls of Black Folk: Essays and Sketches.  
+eBook: https://www.gutenberg.org/ebooks/408  
+ 
+By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
+
+Reading Notes: This is a series of essays on race by Du Bois.  The [Wikipedia summary]() says that it is also "holds an important place in social science as one of the early works in the field of sociology."  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk  
+
+</details>
+
+
 -----
 
 
@@ -260,6 +275,7 @@ Reading Notes:
 
 </details>
 </details>
+
 
 
 <details>
@@ -820,11 +836,6 @@ By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shi
 ### The Woman of Mystery  
 https://www.gutenberg.org/ebooks/69149  
 By [Georges Ohnet](https://en.wikipedia.org/wiki/Georges_Ohnet) (1848-1918) published 1904  
-
-### The Souls of Black Folk  
-https://www.gutenberg.org/ebooks/408  
-https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk  
-By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)   published 1903  
 
 ### John Brown  
 https://www.gutenberg.org/ebooks/62799  
