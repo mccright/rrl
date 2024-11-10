@@ -1573,6 +1573,18 @@ Reading notes: This is a *thin* story with mostly *wooden* characters, with just
 </details>
 
 
+<details><summary><a name="imperfect_union"></a>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
+
+### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. (14:00)  
+Audio: https://www.overdrive.com/media/4754334/imperfect-union  
+eBook: https://www.overdrive.com/media/4754075/imperfect-union  
+By [Steve Inskeep](https://en.wikipedia.org/wiki/Steve_Inskeep)  (1968 – )  
+
+Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  This is a great introduction to a number of mid-19th century U.S. social and political movements through the writings of these two key actors.  For me, it is a fantastic popular history book -- hurray! for Steve Inskeep author and narrator.  
+
+</details>
+
+
 <details><summary>Imperium in Imperio: A Study of the Negro Race Problem. By Sutton Griggs, 1899</summary>
 
 ### Imperium in Imperio: A Study of the Negro Race Problem (5:23)  
@@ -3212,19 +3224,6 @@ By [Grant Ginder](https://en.wikipedia.org/wiki/Grant_Ginder)  (1982 – )
 Reading Notes: This story has been described as "viciously funny" but I found it more often a slog.  The characters were evolved, efficiently rendered caricatures, but didn't reach human status. It has a propulsive quality -- always moving the story forward -- that is comforting, and is what kept me from giving up and returning the book.  
 
 Author's Summary: https://www.grantginder.com/lets-not-do-that-again  
-
-</details>
-
-
-<details>
-<summary><a name="imperfect_union"></a>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
-
-### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. (14:00)  
-Audio: https://www.overdrive.com/media/4754334/imperfect-union  
-eBook: https://www.overdrive.com/media/4754075/imperfect-union  
-By [Steve Inskeep](https://en.wikipedia.org/wiki/Steve_Inskeep)  (1968 – )  
-
-Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  This is a great introduction to a number of mid-19th century U.S. social and political movements through the writings of these two key actors.  For me, it is a fantastic popular history book -- hurray! for Steve Inskeep author and narrator.  
 
 </details>
 
