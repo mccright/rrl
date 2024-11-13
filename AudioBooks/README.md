@@ -499,7 +499,7 @@ eBook: http://www.gutenberg.org/ebooks/68811
 By [George Schuyler](https://en.wikipedia.org/wiki/George_Schuyler)  (1895 - 1977)  
 250 pages.
 
-Reading Notes: This satire is filled with stereotypical characters and seems deeply pessimistic.  Written in the late 1920s or 1930 about race in the U.S., it uses terms for African Americans that are likely objectionable to many readers today. Read the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More) if you want to know more...  Also, this audio book suffers from a *flat* reading that may draw attention from the story -- it might be a better [read](http://www.gutenberg.org/ebooks/68811).  
+Reading Notes: This satire is filled with stereotypical characters and seems deeply pessimistic.  Written in the late 1920s or 1930 about race in the U.S., it uses terms for African Americans that are likely objectionable to many readers today -- the whole story may offend some... Read the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/Black_No_More) if you want to know more...  Also, this audio book suffers from a *flat* reading that may draw attention from the story -- it might be a better [read](http://www.gutenberg.org/ebooks/68811).  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More  
 
@@ -1446,6 +1446,28 @@ Summary from Librivox:
 </details>
 
 
+<details><summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
+
+### The Hemingses of Monticello -- An American Family.  (31:00)  
+Audio: https://www.overdrive.com/media/201740/the-hemingses-of-monticello  
+eBook: https://www.overdrive.com/media/2308374/the-hemingses-of-monticello  
+By [Annette Gordon-Reed](https://en.wikipedia.org/wiki/Annette_Gordon-Reed)  (1958 – )  
+
+Reading Notes: Wow!  Using primary resources throughout, Gordon-Reed outlined and analyzes the "four generations of the African-American Hemings family, from their African and Virginia origins until the 1826 death of [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson), their master and the father of [Sally Hemings](https://en.wikipedia.org/wiki/Sally_Hemings)' children." [*[Wikipedia](https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello)*]  It reads like a long series of excellent university or graduate history lectures.  This seems like an especially challenging topic given the often skeletal nature of the available primary resources, the depth & breath of scholarly Jefferson historical research, and the potentcy of some facets of research and writing about white supremacy and racial power (*for example, [critical race theory](https://en.wikipedia.org/wiki/Critical_race_theory)*) -- all of which the author grapples with...  Because I view this work as a series of college lectures, the repetition that appears throughout is simply *what you do* because of the time lapse between sessions, or because the connection(s) to the current focus are so important as to warrant it.  There has been some criticism of the author's repeated "unnecessary pronouncements about human nature" which I attribute to a thorough review of specific situations as well as attempting to provide context to a readership (*or student group*) made of individuals having wildly varying backgrounds and understandings of *how the world works.*  Thirtyone hours might initially seem like a slog, but give it a chance -- it is worth the investment.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello  
+Wikipedia on Sally Hemings: https://en.wikipedia.org/wiki/Sally_Hemings  
+Wikipedia on Thomas Jefferson: https://en.wikipedia.org/wiki/Thomas_Jefferson  
+
+[OverDrive Summary](https://www.overdrive.com/media/201740/the-hemingses-of-monticello):  
+>This epic work tells the story of the Hemingses, whose close blood ties to our third president had been systematically expunged from American history until very recently. Now, historian and legal scholar Annette Gordon-Reed traces the Hemings family from its origins in Virginia in the 1700s to the family's dispersal after Jefferson's death in 1826. It brings to life not only Sally Hemings and Thomas Jefferson but also their children and Hemings's siblings, who shared a father with Jefferson's wife, Martha. The Hemingses of Monticello sets the family's compelling saga against the backdrop of Revolutionary America, Paris on the eve of its own revolution, 1790s Philadelphia, and plantation life at Monticello. Much anticipated, this book promises to be the most important history of an American slave family ever written.  
+
+Review by Eric Foner: https://www.nytimes.com/2008/10/05/books/review/Foner-t.html  
+A list of reviews at: https://bookmarks.reviews/reviews/all/the-hemingses-of-monticello-an-american-family-2/  
+
+</details>
+
+
 <details><summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
 
 ### Henry, Himself. -- A Novel. (12:00)  
@@ -1547,6 +1569,18 @@ Reading notes: This is a *thin* story with mostly *wooden* characters, with just
 
 [Summary by Book Review Digest, v.12 (1916-1917)](https://librivox.org/i-spy-by-natalie-sumner-lincoln/):  
 >Here is a novel whose pregnant caption suits these parlous times. . . . It's all about a German spy plot to steal two American inventions deemed of inestimable value for war use. One is a camera for taking a map of the country from an airship. The other is a process for making glass armor—coats of mail of interwoven mica and glass that Mauser bullets cannot penetrate. Washington, D. C., is the locale. . . . Almost everybody turns out to be a bit of a spy, and the last unraveling chapter certainly carries the element of complete surprise.  
+
+</details>
+
+
+<details><summary><a name="imperfect_union"></a>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
+
+### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. (14:00)  
+Audio: https://www.overdrive.com/media/4754334/imperfect-union  
+eBook: https://www.overdrive.com/media/4754075/imperfect-union  
+By [Steve Inskeep](https://en.wikipedia.org/wiki/Steve_Inskeep)  (1968 – )  
+
+Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  This is a great introduction to a number of mid-19th century U.S. social and political movements through the writings of these two key actors.  For me, it is a fantastic popular history book -- hurray! for Steve Inskeep author and narrator.  
 
 </details>
 
@@ -2468,6 +2502,20 @@ Reading Notes: Somebody, somewhere in government will remain available to *fight
 </details>
 
 
+<details><summary>Rebecca. By Daphne du Maurier.  1938 </summary>
+
+### Rebecca.  (15:28)  
+Audio: https://www.overdrive.com/media/1979697/rebecca  
+eBook: https://www.overdrive.com/media/1311754/rebecca  
+By [Daphne du Maurier](https://en.wikipedia.org/wiki/Daphne_du_Maurier)  (1907 – 1989)  
+
+Reading Notes: If you like [gothic novels](https://en.wikipedia.org/wiki/Gothic_literature) slow, then pace building, and dark, this is a good one... See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rebecca_(novel)) for more.  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)  
+
+</details>
+
+
 <details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
@@ -3165,16 +3213,30 @@ Reading Notes:
 
 
 
+<details>
+<summary>Twilight Company -- Star Wars: Battlefront. By Alexander Freed. 2015 </summary>
+
+### Twilight Company -- Star Wars: Battlefront. (14:00)  
+Audio: https://www.overdrive.com/media/2232375/twilight-company  
+eBook: https://www.overdrive.com/media/2201929/twilight-company  
+By [Alexander Freed](https://www.alexanderfreed.com/about-the-author/) and [here](https://datebook.sfchronicle.com/books/how-a-self-taught-sf-author-gets-to-write-the-latest-chapters-of-star-wars)  (1981 – )  
+
+Reading Notes: There is an action shooter video game based on the Star Wars film franchise that was developed by DICE and published by Electronic Arts in 2015 called "[Star Wars Battlefront](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game))." Author Alexander Freed is a former developer from Electronic Arts subsidiary BioWare. This book was [his debut novel](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)#Tie-in_novel).  
+
+</details>
+
 
 <details>
-<summary><a name="imperfect_union"></a>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
+<summary>Let's Not Do That Again. By Grant Ginder. 2022 </summary>
 
-### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. (14:00)  
-Audio: https://www.overdrive.com/media/4754334/imperfect-union  
-eBook: https://www.overdrive.com/media/4754075/imperfect-union  
-By [Steve Inskeep](https://en.wikipedia.org/wiki/Steve_Inskeep)  (1968 – )  
+### Let's Not Do That Again. (11:30)  
+Audio: https://www.overdrive.com/media/6241648/lets-not-do-that-again  
+eBook: https://www.overdrive.com/media/6211560/lets-not-do-that-again  
+By [Grant Ginder](https://en.wikipedia.org/wiki/Grant_Ginder)  (1982 – )  
 
-Reading Notes: This book outlines the lives of [John Charles Frémont](https://en.wikipedia.org/wiki/John_C._Fr%C3%A9mont) (1813 – 1890) an American explorer, military officer, and politician and his wife [Jessie Ann Benton Frémont](https://en.wikipedia.org/wiki/Jessie_Benton_Fr%C3%A9mont) (1824 – 1902) an American writer and political activist.  This is a great introduction to a number of mid-19th century U.S. social and political movements through the writings of these two key actors.  For me, it is a fantastic popular history book -- hurray! for Steve Inskeep author and narrator.  
+Reading Notes: This story has been described as "viciously funny" but I found it more often a slog.  The characters were evolved, efficiently rendered caricatures, but didn't reach human status. It has a propulsive quality -- always moving the story forward -- that is comforting, and is what kept me from giving up and returning the book.  
+
+Author's Summary: https://www.grantginder.com/lets-not-do-that-again  
 
 </details>
 
@@ -3269,21 +3331,6 @@ Reading Notes:  Sequel of ‘[The Firm](https://en.wikipedia.org/wiki/The_Firm_(
 Review by Karin Tanabe: [https://www.washingtonpost.com/...john-grisham-the-firm-sequel/](https://www.washingtonpost.com/books/2023/10/18/john-grisham-the-firm-sequel/)  
 Wikipedia summary: https://en.wikipedia.org/wiki/The_Exchange:_After_The_Firm  
 BookMarks' summary of reviews: https://bookmarks.reviews/reviews/the-exchange-after-the-firm/  
-
-</details>
-
-
-<details>
-<summary>Rebecca. By Daphne du Maurier.  1938 </summary>
-
-### Rebecca.  (15:28)  
-Audio: https://www.overdrive.com/media/1979697/rebecca  
-eBook: https://www.overdrive.com/media/1311754/rebecca  
-By [Daphne du Maurier](https://en.wikipedia.org/wiki/Daphne_du_Maurier)  (1907 – 1989)  
-
-Reading Notes: If you like [gothic novels](https://en.wikipedia.org/wiki/Gothic_literature) slow, then pace building, and dark, this is a good one... See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rebecca_(novel)) for more.  
-
-Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)  
 
 </details>
 
@@ -3388,29 +3435,6 @@ eBook: https://www.overdrive.com/media/514927/the-precipice
 By [Ben Bova](https://en.wikipedia.org/wiki/Ben_Bova) and another [Ben Bova biography](http://benbova.com/biography/)  (1932 – 2020)  
 
 Reading Notes: This is a near-future story about some attempts deal with impacts of climate change.  The story involves kind of fanciful nano-technology, miniturized fusion power plants, privatized lunar settlement, and corporate & governmental intrigue.  
-
-</details>
-
-
-<details>
-<summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
-
-### The Hemingses of Monticello -- An American Family.  (31:00)  
-Audio: https://www.overdrive.com/media/201740/the-hemingses-of-monticello  
-eBook: https://www.overdrive.com/media/2308374/the-hemingses-of-monticello  
-By [Annette Gordon-Reed](https://en.wikipedia.org/wiki/Annette_Gordon-Reed)  (1958 – )  
-
-Reading Notes: Wow!  Using primary resources throughout, Gordon-Reed outlined and analyzes the "four generations of the African-American Hemings family, from their African and Virginia origins until the 1826 death of [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson), their master and the father of [Sally Hemings](https://en.wikipedia.org/wiki/Sally_Hemings)' children." [*[Wikipedia](https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello)*]  It reads like a long series of excellent university or graduate history lectures.  This seems like an especially challenging topic given the often skeletal nature of the available primary resources, the depth & breath of scholarly Jefferson historical research, and the potentcy of some facets of research and writing about white supremacy and racial power (*for example, [critical race theory](https://en.wikipedia.org/wiki/Critical_race_theory)*) -- all of which the author grapples with...  Because I view this work as a series of college lectures, the repetition that appears throughout is simply *what you do* because of the time lapse between sessions, or because the connection(s) to the current focus are so important as to warrant it.  There has been some criticism of the author's repeated "unnecessary pronouncements about human nature" which I attribute to a thorough review of specific situations as well as attempting to provide context to a readership (*or student group*) made of individuals having wildly varying backgrounds and understandings of *how the world works.*  Thirtyone hours might initially seem like a slog, but give it a chance -- it is worth the investment.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Hemingses_of_Monticello  
-Wikipedia on Sally Hemings: https://en.wikipedia.org/wiki/Sally_Hemings  
-Wikipedia on Thomas Jefferson: https://en.wikipedia.org/wiki/Thomas_Jefferson  
-
-[OverDrive Summary](https://www.overdrive.com/media/201740/the-hemingses-of-monticello):  
->This epic work tells the story of the Hemingses, whose close blood ties to our third president had been systematically expunged from American history until very recently. Now, historian and legal scholar Annette Gordon-Reed traces the Hemings family from its origins in Virginia in the 1700s to the family's dispersal after Jefferson's death in 1826. It brings to life not only Sally Hemings and Thomas Jefferson but also their children and Hemings's siblings, who shared a father with Jefferson's wife, Martha. The Hemingses of Monticello sets the family's compelling saga against the backdrop of Revolutionary America, Paris on the eve of its own revolution, 1790s Philadelphia, and plantation life at Monticello. Much anticipated, this book promises to be the most important history of an American slave family ever written.  
-
-Review by Eric Foner: https://www.nytimes.com/2008/10/05/books/review/Foner-t.html  
-A list of reviews at: https://bookmarks.reviews/reviews/all/the-hemingses-of-monticello-an-american-family-2/  
 
 </details>
 
