@@ -279,6 +279,32 @@ Reading Notes:
 
 
 <details>
+<summary>Beautiful Stories from Shakespeare. By E. Nesbit and William Shakespeare. 1907 </summary>
+
+### Beautiful Stories from Shakespeare. (5:17)  
+Audio: https://librivox.org/beautiful-stories-from-shakespeare-version-2-by-e-nesbit/ and https://librivox.org/beautiful-stories-from-shakespeare-by-edith-nesbit/  
+eBook: https://www.gutenberg.org/ebooks/1430  
+By [E. (Edith) Nesbit ](https://en.wikipedia.org/wiki/E._Nesbit) (1858-1924) and By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 – 1616)  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Beautiful_Stories_from_Shakespeare  
+
+</details>
+
+<details>
+<summary>The Radio Amateur's Handbook. by A. Frederick Collins. 1922 </summary>
+
+### The Radio Amateur's Handbook.  
+eBook: https://www.gutenberg.org/ebooks/6934  
+By [A. Frederick Collins](https://en.wikipedia.org/wiki/Archie_Frederick_Collins)  (1869 – 1952)  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
 <summary>Herbert Hoover: The Man and His Work. By Vernon L. Kellogg. 1920 </summary>
 
 ### Herbert Hoover: The Man and His Work.  
