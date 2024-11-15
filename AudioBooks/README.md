@@ -3212,6 +3212,48 @@ Reading Notes:
 </details>
 
 
+The Mimicking of Known Successes
+audiobook (Unabridged)
+By Malka Older
+
+
+<details>
+<summary>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
+
+### The Mimicking of Known Successes. (4:27)  
+Audio: https://www.overdrive.com/media/9267150/the-mimicking-of-known-successes  
+eBook: https://www.overdrive.com/media/8906457/the-mimicking-of-known-successes  
+By [Malka Older](https://en.wikipedia.org/wiki/Malka_Older)  ( – )  
+
+Reading Notes: This was a fun novella.  Read the excellent [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleit) for more.  
+
+Short Summary on Wikipedia:  
+>A man has arrived at a rail terminus, but never taken a rail car back from there. There is no evidence that he left the terminus by any means. His reported state of mind made it unlikely he committed suicide by jumping off. Mossa asks for Pleiti's help, since the man was a colleague at Valdegeld. Soon there is a murder, the victim seeming to be in the wrong place at the wrong time. Continuing the investigation may put Pleiti and Mossa themselves in danger.  [from here](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleiti#The_Mimicking_of_Known_Successes)  
+
+[Wikipedia Summary:](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleit)  
+
+</details>
+
+
+<details>
+<summary>The Secret Agent: A Simple Tale. By Joseph Conrad. 1907 </summary>
+
+### The Secret Agent: A Simple Tale.  
+Audio: https://librivox.org/the-secret-agent-by-joseph-conrad/ (9:53)  
+Audio (version 2): https://librivox.org/the-secret-agent-by-joseph-conrad-2/ (9:49)  
+Audio (version 3): https://librivox.org/the-secret-agent-version-3-by-joseph-conrad/ (10:14)  
+eBook: https://www.gutenberg.org/ebooks/974  
+By [Joseph Conrad](https://en.wikipedia.org/wiki/Joseph_Conrad)  (1857 – 1924)  
+
+Reading Notes:  
+
+Short summary on Wikipedia:  
+>Mr. Verloc, The Secret Agent (1906) of divided loyalties, attempts a bombing, to be blamed on terrorists, that accidentally kills his mentally defective brother-in-law Stevie, and Verloc himself is killed by his distraught wife, who drowns herself by jumping overboard from a channel steamer. [From this section](https://en.wikipedia.org/wiki/Joseph_Conrad#Themes_and_style)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent
+
+</details>
+
 
 <details>
 <summary>Twilight Company -- Star Wars: Battlefront. By Alexander Freed. 2015 </summary>
