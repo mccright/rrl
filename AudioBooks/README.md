@@ -3490,7 +3490,7 @@ Reading Notes:
 <summary>Frontier Ballads. By Joseph Mills Hanson. </summary>
 
 ### Frontier Ballads. (:)  
-Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3}  
+Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
 eBook: https://www.gutenberg.org/ebooks/45240  
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and  his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
 
