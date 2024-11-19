@@ -12,7 +12,7 @@ Audio: https://www.overdrive.com/media/9529708/12-months-to-live
 eBook: https://www.overdrive.com/media/9529554/12-months-to-live  
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )) and [Mike Lupica](https://en.wikipedia.org/wiki/Mike_Lupica)  (1952 – )  
 
-Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An action, *who dunnit*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
+Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tough one.  She finds out she has advanced-stage cancer and has a year to live...  An [action](https://en.wikipedia.org/wiki/Action_fiction), *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*, mystery and trial rolled into this story.  It is entertaining-enough to warrant 9.5 hours of your life.  
 
 </details>
 
@@ -239,7 +239,7 @@ Audio: https://www.overdrive.com/media/9381882/argylle
 eBook: https://www.overdrive.com/media/10043420/argylle  
 By [Elizabeth "Elly" Conway](https://en.wikipedia.org/wiki/Terry_Hayes) is an author pseudonym for the writing team of [Terry Hayes](https://en.wikipedia.org/wiki/Terry_Hayes) and [Tammy Cohen](https://tammycohen.co.uk)  ( – )  
 
-Reading Notes: If you are looking for an action story, this seems like a good option. A young agent with a complex back story exhibits *super* skills in a mission to defang a rising Russian autocrat.  
+Reading Notes: If you are looking for an [action](https://en.wikipedia.org/wiki/Action_fiction) story, this seems like a good option. A young agent with a complex back story exhibits *super* skills in a mission to defang a rising Russian autocrat.  
 
 </details>
 
@@ -939,6 +939,22 @@ Review/Summary by Ryan Steck: [https://therealbookspy.com/...dead-fall-by-brad-t
 </details>
 
 
+<details><summary>The Deep Sky. By Yume Kitasei. 2023 </summary>
+
+### The Deep Sky. (12:00)  
+Audio: https://www.overdrive.com/media/9267812/the-deep-sky  
+eBook: https://www.overdrive.com/media/9174909/the-deep-sky  
+By [Yume Kitasei](https://www.yumekitasei.com/)  ( – )  
+
+Reading Notes: While this is an interesting story about one path for dealing with our near future climate/societl catastrophe -- sending ~80 young women on a voyage to a nearby star with a habital planet -- it is a little too *[young adult (YA)](https://en.wikipedia.org/wiki/Young_adult_literature)* for me.  Much of the storyline involves Asuka and some others working through relatively common human challenges for the first time during their unprecedented "escape" from earth.  Because these pioneers were the top picks from a global competitive process and extensive training, their difficulties dealing with the challenges of isolation from their families & friends on earth as well as working with their team at they meet the challenges of long term space flight seem like a mismatch. I stuck with the story through the end, but it left me with no joy for having done so.  If you are or know a 12 to 18 year old, this may be a much more positive experience.  
+
+Overdrive Summary:  
+>Yume Kitasei's The Deep Sky is an enthralling sci fi thriller debut about a mission into deep space that begins with a lethal explosion that leaves the survivors questioning the loyalty of the crew. They left Earth to save humanity. They'll have to save themselves first.  It is the eve of Earth's environmental collapse. A single ship carries humanity's last hope: eighty elite graduates of a competitive program, who will give birth to a generation of children in deep space. But halfway to a distant but livable planet, a lethal bomb kills three of the crew and knocks The Phoenix off course. Asuka, the only surviving witness, is an immediate suspect.  As the mystery unfolds on the ship, poignant flashbacks reveal how Asuka came to be picked for the mission. Despite struggling through training back on Earth, she was chosen to represent Japan, a country she only partly knows as a half-Japanese girl raised in America. But estranged from her mother back home, The Phoenix is all she has left.With the crew turning on each other, Asuka is determined to find the culprit before they all lose faith in the mission—or worse, the bomber strikes again.  
+
+
+</details>
+
+
 <details><summary>The Demi-Gods, By James Stephens. 1914</summary>
 
 ### The Demi-Gods (4:37)  
@@ -992,7 +1008,7 @@ Audio: https://www.overdrive.com/media/9127507/the-double-agent
 ebook: https://www.overdrive.com/media/8728536/the-double-agent  
 By [William Christie](https://williamchristieauthor.com/contactmeandbiography) (aka: [F.J. Chase and Keith Douglass](https://williamchristieauthor.com/contactmeandbiography))  
 
-Reader notes: If you like spy, action, WWII novels, this might be a good fit.  The author keeps the tension high throughout much of this story.  We follow a *super-spy* through roughly a year of his life as he guts through one unlucky turn after another. I especially enjoyed the author's dry humor and an excellent audio performance by Pete Cross.  
+Reader notes: If you like spy, [action](https://en.wikipedia.org/wiki/Action_fiction), WWII novels, this might be a good fit.  The author keeps the tension high throughout much of this story.  We follow a *super-spy* through roughly a year of his life as he guts through one unlucky turn after another. I especially enjoyed the author's dry humor and an excellent audio performance by Pete Cross.  
 [OverDrive Summary](https://www.overdrive.com/media/9127507/the-double-agent):  
 >"Alexsi Smirnoff - a Russian orphan - was trained as an agent by the Russian Secret Service and inserted into Nazi Germany, where he rose to a position in German intelligence services. As the war grinds on, trapped between two brutal dictatorships, Alexsi betrays both sides in a desperate ploy that succeeds...and fails. His false identities burned, his life at risk, Alexsi attempts to disappear in the hills - but is caught by the British.  Recruited by the SIS, and by "C" himself, Alexsi is once again a double agent. Initially betrayed by a Soviet agent inside the SIS (Kim Philby), Alexsi is sent beyond the reach of the Soviets, into Italy with a new identity as a sergeant in the German army. Settled into the headquarters of Field Marshall Albert Kesselring, Alexsi finds himself at the nexus at a critical point in World War II, balancing between the various forces vying for control in the Vatican, the Italian resistance, and the brutal German Army determined to maintain control of Northern Italy. And Alexsi, finally forced to choose sides over his own survival.Sequel to the well-regarded A Single Spy, The Double Agent is a fast-paced, compelling novel of espionage in the most momentous and dangerous of times."  
 
@@ -1788,7 +1804,7 @@ By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (19
 ### The Last Watch.  (17:00)  
 https://www.overdrive.com/media/5418299/the-last-watch  
 By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
-Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *space opera*.  It is also a ready-for-streaming novel.  
+Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *[space opera](https://en.wikipedia.org/wiki/Space_opera)*.  It is also a ready-for-streaming novel.  
 Throughout, the scene setup is just enough to create a skeletal environment so that the action, character development and dialog can keep the pace thumping along -- not timeless prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than what some called *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can dive in and have the author reveal character details throughout the story, this book might be a good fit.  Overall, the story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals unexpected abilities given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable-enough*" most of the time.  Close-quarter combat, governmental/military misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
 https://www.goodreads.com/book/show/53205794-the-last-watch  
 https://www.jsdewes.com/about  
@@ -2078,6 +2094,23 @@ Reading Notes: This excellent story begin as newly orphaned, seventeen-year-old 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Matrix_(Groff_novel)  
 Review by [Constance Grady](https://www.vox.com/authors/constance-grady/): https://www.vox.com/culture/22727057/matrix-lauren-groff-book-review  
 Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, seventeen-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease. At first taken aback by the severity of her new life, Marie finds focus and love in collective life with her singular and mercurial sisters. In this crucible, Marie steadily supplants her desire for family, for her homeland, for the passions of her youth with something new to her: devotion to her sisters, and a conviction in her own divine visions...  
+
+</details>
+
+
+<details><summary>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
+
+### The Mimicking of Known Successes. (4:27)  
+Audio: https://www.overdrive.com/media/9267150/the-mimicking-of-known-successes  
+eBook: https://www.overdrive.com/media/8906457/the-mimicking-of-known-successes  
+By [Malka Older](https://en.wikipedia.org/wiki/Malka_Older)  ( – )  
+
+Reading Notes: This was a fun novella.  Read the excellent [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleit) for more.  
+
+Short Summary on Wikipedia:  
+>A man has arrived at a rail terminus, but never taken a rail car back from there. There is no evidence that he left the terminus by any means. His reported state of mind made it unlikely he committed suicide by jumping off. Mossa asks for Pleiti's help, since the man was a colleague at Valdegeld. Soon there is a murder, the victim seeming to be in the wrong place at the wrong time. Continuing the investigation may put Pleiti and Mossa themselves in danger.  [from here](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleiti#The_Mimicking_of_Known_Successes)  
+
+[Wikipedia Summary:](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleit)  
 
 </details>
 
@@ -3212,27 +3245,42 @@ Reading Notes:
 </details>
 
 
-The Mimicking of Known Successes
-audiobook (Unabridged)
-By Malka Older
 
 
 <details>
-<summary>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
+<summary>The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World. By Suzie Sheehy. 2023 </summary>
 
-### The Mimicking of Known Successes. (4:27)  
-Audio: https://www.overdrive.com/media/9267150/the-mimicking-of-known-successes  
-eBook: https://www.overdrive.com/media/8906457/the-mimicking-of-known-successes  
-By [Malka Older](https://en.wikipedia.org/wiki/Malka_Older)  ( – )  
+### The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World.  
+Audio: https://www.overdrive.com/media/8957224/the-matter-of-everything  
+eBook: https://www.overdrive.com/media/8916696/the-matter-of-everything  
+By [Suzie Sheehy](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
 
-Reading Notes: This was a fun novella.  Read the excellent [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleit) for more.  
-
-Short Summary on Wikipedia:  
->A man has arrived at a rail terminus, but never taken a rail car back from there. There is no evidence that he left the terminus by any means. His reported state of mind made it unlikely he committed suicide by jumping off. Mossa asks for Pleiti's help, since the man was a colleague at Valdegeld. Soon there is a murder, the victim seeming to be in the wrong place at the wrong time. Continuing the investigation may put Pleiti and Mossa themselves in danger.  [from here](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleiti#The_Mimicking_of_Known_Successes)  
-
-[Wikipedia Summary:](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleit)  
+Reading Notes:  
 
 </details>
+
+
+
+<details>
+<summary>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
+
+### Dickens and Prince -- A Particular Kind of Genius. (3:07)  
+Audio: https://www.overdrive.com/media/8795278/dickens-and-prince  
+eBook: https://www.overdrive.com/media/8796425/dickens-and-prince  
+By [Nick Hornby](https://en.wikipedia.org/wiki/Nick_Hornby)  (1957 – )  
+
+Reading Notes: The author explores the lives of two prolific creative geniuses, [Prince](https://en.wikipedia.org/wiki/Prince_(musician)) and [Dickens](https://en.wikipedia.org/wiki/Charles_Dickens).  It is an essay about two creative giants by a creative professional. This is a good listen.  
+
+From the Overdrive Summary:  
+>Examining the two artists’ personal tragedies, social statuses, boundless productivity, and other parallels, both humorous and haunting, Hornby shows how these two unlikely men from different centuries “lit up the world.” In the process, he creates a lively, stimulating rumination on the creativity, flamboyance, discipline, and soul it takes to produce great art.  
+
+
+</details>
+
+
+
+
+
 
 
 <details>
@@ -3263,7 +3311,7 @@ Audio: https://www.overdrive.com/media/2232375/twilight-company
 eBook: https://www.overdrive.com/media/2201929/twilight-company  
 By [Alexander Freed](https://www.alexanderfreed.com/about-the-author/) and [here](https://datebook.sfchronicle.com/books/how-a-self-taught-sf-author-gets-to-write-the-latest-chapters-of-star-wars)  (1981 – )  
 
-Reading Notes: There is an action shooter video game based on the Star Wars film franchise that was developed by DICE and published by Electronic Arts in 2015 called "[Star Wars Battlefront](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game))." Author Alexander Freed is a former developer from Electronic Arts subsidiary BioWare. This book was [his debut novel](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)#Tie-in_novel).  
+Reading Notes: There is an action shooter video game based on the Star Wars film franchise that was developed by DICE and published by Electronic Arts in 2015 called "[Star Wars Battlefront](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game))." Author Alexander Freed is a former developer from Electronic Arts subsidiary BioWare. This book was [his debut novel](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)#Tie-in_novel).  If you are a [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) fan or looking for some [action](https://en.wikipedia.org/wiki/Action_fiction) fiction or a [space opera](https://en.wikipedia.org/wiki/Space_opera) this might be a good fit.  
 
 </details>
 
@@ -3621,7 +3669,7 @@ eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin
 Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
 
-Reading Notes: Improbable all around.  You need to be in the mood for a formulaic action story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
+Reading Notes: Improbable all around.  You need to be in the mood for a formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
 
 </details>
 
