@@ -939,6 +939,22 @@ Review/Summary by Ryan Steck: [https://therealbookspy.com/...dead-fall-by-brad-t
 </details>
 
 
+<details><summary>The Deep Sky. By Yume Kitasei. 2023 </summary>
+
+### The Deep Sky. (12:00)  
+Audio: https://www.overdrive.com/media/9267812/the-deep-sky  
+eBook: https://www.overdrive.com/media/9174909/the-deep-sky  
+By [Yume Kitasei](https://www.yumekitasei.com/)  ( – )  
+
+Reading Notes: While this is an interesting story about one path for dealing with our near future climate/societl catastrophe -- sending ~80 young women on a voyage to a nearby star with a habital planet -- it is a little too *[young adult (YA)](https://en.wikipedia.org/wiki/Young_adult_literature)* for me.  Much of the storyline involves Asuka and some others working through relatively common human challenges for the first time during their unprecedented "escape" from earth.  Because these pioneers were the top picks from a global competitive process and extensive training, their difficulties dealing with the challenges of isolation from their families & friends on earth as well as working with their team at they meet the challenges of long term space flight seem like a mismatch. I stuck with the story through the end, but it left me with no joy for having done so.  If you are or know a 12 to 18 year old, this may be a much more positive experience.  
+
+Overdrive Summary:  
+>Yume Kitasei's The Deep Sky is an enthralling sci fi thriller debut about a mission into deep space that begins with a lethal explosion that leaves the survivors questioning the loyalty of the crew. They left Earth to save humanity. They'll have to save themselves first.  It is the eve of Earth's environmental collapse. A single ship carries humanity's last hope: eighty elite graduates of a competitive program, who will give birth to a generation of children in deep space. But halfway to a distant but livable planet, a lethal bomb kills three of the crew and knocks The Phoenix off course. Asuka, the only surviving witness, is an immediate suspect.  As the mystery unfolds on the ship, poignant flashbacks reveal how Asuka came to be picked for the mission. Despite struggling through training back on Earth, she was chosen to represent Japan, a country she only partly knows as a half-Japanese girl raised in America. But estranged from her mother back home, The Phoenix is all she has left.With the crew turning on each other, Asuka is determined to find the culprit before they all lose faith in the mission—or worse, the bomber strikes again.  
+
+
+</details>
+
+
 <details><summary>The Demi-Gods, By James Stephens. 1914</summary>
 
 ### The Demi-Gods (4:37)  
@@ -3232,20 +3248,36 @@ Reading Notes:
 
 
 <details>
-<summary>The Deep Sky. By Yume Kitasei. 2023 </summary>
+<summary>The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World. By Suzie Sheehy. 2023 </summary>
 
-### The Deep Sky. (12:00)  
-Audio: https://www.overdrive.com/media/9267812/the-deep-sky  
-eBook: https://www.overdrive.com/media/9174909/the-deep-sky  
-By [Yume Kitasei](https://www.yumekitasei.com/)  ( – )  
+### The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World.  
+Audio: https://www.overdrive.com/media/8957224/the-matter-of-everything  
+eBook: https://www.overdrive.com/media/8916696/the-matter-of-everything  
+By [Suzie Sheehy](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
 
 Reading Notes:  
 
-Overdrive Summary:  
->Yume Kitasei's The Deep Sky is an enthralling sci fi thriller debut about a mission into deep space that begins with a lethal explosion that leaves the survivors questioning the loyalty of the crew.They left Earth to save humanity. They'll have to save themselves first.  It is the eve of Earth's environmental collapse. A single ship carries humanity's last hope: eighty elite graduates of a competitive program, who will give birth to a generation of children in deep space. But halfway to a distant but livable planet, a lethal bomb kills three of the crew and knocks The Phoenix off course. Asuka, the only surviving witness, is an immediate suspect.  As the mystery unfolds on the ship, poignant flashbacks reveal how Asuka came to be picked for the mission. Despite struggling through training back on Earth, she was chosen to represent Japan, a country she only partly knows as a half-Japanese girl raised in America. But estranged from her mother back home, The Phoenix is all she has left.With the crew turning on each other, Asuka is determined to find the culprit before they all lose faith in the mission—or worse, the bomber strikes again.  
+</details>
+
+
+
+<details>
+<summary>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
+
+### Dickens and Prince -- A Particular Kind of Genius. (3:07)  
+Audio: https://www.overdrive.com/media/8795278/dickens-and-prince  
+eBook: https://www.overdrive.com/media/8796425/dickens-and-prince  
+By [Nick Hornby](https://en.wikipedia.org/wiki/Nick_Hornby)  (1957 – )  
+
+Reading Notes: The author explores the lives of two prolific creative geniuses, [Prince](https://en.wikipedia.org/wiki/Prince_(musician)) and [Dickens](https://en.wikipedia.org/wiki/Charles_Dickens).  It is an essay about two creative giants by a creative professional. This is a good listen.  
+
+From the Overdrive Summary:  
+>Examining the two artists’ personal tragedies, social statuses, boundless productivity, and other parallels, both humorous and haunting, Hornby shows how these two unlikely men from different centuries “lit up the world.” In the process, he creates a lively, stimulating rumination on the creativity, flamboyance, discipline, and soul it takes to produce great art.  
 
 
 </details>
+
+
 
 
 
