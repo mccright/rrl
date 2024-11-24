@@ -2362,6 +2362,18 @@ Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now
 </details>
 
 
+<details><summary>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
+
+### Oscar Wilde, His Life and Confessions. Volume 1 (of 2) (7:00)  
+Audio: [https://archive.org/.../oscar_wilde_his_life_and_confessions_vol.mp3](https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3)  
+eBook: https://www.gutenberg.org/ebooks/16894  
+By [Frank Harris](https://en.wikipedia.org/wiki/Frank_Harris)  (1855 - 1931)  
+
+Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (1854 - 1900) written by a friend and editor in 1916.  It is shallow and choppy, but the first-person content made the listen worth while.  
+
+</details>
+
+
 <details><summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
@@ -3438,19 +3450,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
-
-### Oscar Wilde, His Life and Confessions. Volume 1 (of 2) (7:00)  
-Audio: [https://archive.org/.../oscar_wilde_his_life_and_confessions_vol.mp3](https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3)  
-eBook: https://www.gutenberg.org/ebooks/16894  
-By [Frank Harris](https://en.wikipedia.org/wiki/Frank_Harris)  (1855 - 1931)  
-
-Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (1854 - 1900) written by a friend and editor in 1916.  It is shallow and choppy, but the first-person content made the listen worth while.  
-
-</details>
 
 <details>
 <summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
