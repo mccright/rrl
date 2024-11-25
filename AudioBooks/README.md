@@ -2647,6 +2647,23 @@ Summary from Librivox:
 </details>
 
 
+<details><summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
+
+### The Searcher -- A Novel · Cal Hooper. (15:00)  
+Audio: https://www.overdrive.com/media/5376676/the-searcher  
+eBook: https://www.overdrive.com/media/5359752/the-searcher  
+By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
+Viking. 464pp.  
+
+Reading Notes: Cal Hooper, a recently retired Chicago cop with a worn Irish cottage purchased on the Internet takes on an *assistant*, 13 year old Trey Reddy, to help with repairs. Soon, Hooper is sucked into Reddy's hunt for her disappeared older brother. See any of the reviews below if you want to know more... The story is worth your time.  
+
+Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
+Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
+Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
+
+</details>
+
+
 <details><summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
@@ -3096,6 +3113,19 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wiki
 </details>
 
 
+<details><summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+
+### Veronica Ruiz Breaks the Bank. (2:27)  
+Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
+eBook: https://www.overdrive.com/media/10012654/veronica-ruiz-breaks-the-bank  
+By [Elle Cosimano](https://ellecosimano.com/about/)  ( – )  
+
+Reading Notes: This is a light, quick story about a young down-on-her-luck woman who attempts (*successfully*) to land her starting-over job.  
+
+</details>
+
+
+
 <details><summary>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
@@ -3501,20 +3531,6 @@ Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/boo
 
 
 
-
-<details>
-<summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
-
-### Veronica Ruiz Breaks the Bank. (2:27)  
-Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
-eBook: https://www.overdrive.com/media/10012654/veronica-ruiz-breaks-the-bank  
-By [Elle Cosimano](https://ellecosimano.com/about/)  ( – )  
-
-Reading Notes: This is a light, quick story about a young down-on-her-luck woman who attempts (*successfully*) to land her starting-over job.  
-
-</details>
-
-
 <details>
 <summary>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
 
@@ -3806,24 +3822,6 @@ Reading Notes: There is little good to say about this novel other than it seems 
 Librivox Summary:  
 >In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
 >This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
-
-</details>
-
-
-<details>
-<summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
-
-### The Searcher -- A Novel · Cal Hooper. (15:00)  
-Audio: https://www.overdrive.com/media/5376676/the-searcher  
-eBook: https://www.overdrive.com/media/5359752/the-searcher  
-By [Tana French](https://en.wikipedia.org/wiki/Tana_French) (1973 - )  
-Viking. 464pp.  
-
-Reading Notes: Cal Hooper, a recently retired Chicago cop with a worn Irish cottage purchased on the Internet takes on an *assistant*, 13 year old Trey Reddy, to help with repairs. Soon, Hooper is sucked into Reddy's hunt for her disappeared older brother. See any of the reviews below if you want to know more... The story is worth your time.  
-
-Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [https://www.washingtonpost.com/books/tana-frenchs-the-searcher...](https://www.washingtonpost.com/entertainment/books/tana-frenchs-the-searcher-nods-to-john-fords-famous-western-with-the-story-of-a-loner-on-the-hunt-for-a-lost-teen/2020/10/05/17de293a-06a4-11eb-a166-dc429b380d10_story.html)  
-Review by [Steph Cha](https://en.wikipedia.org/wiki/Steph_Cha): [https://www.latimes.com/.../2020-10-13/tana-french-the-searchers-review](https://www.latimes.com/entertainment-arts/books/story/2020-10-13/tana-french-the-searchers-review)  
-Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/.../review/tana-french-the-searcher](https://www.nytimes.com/2020/10/05/books/review/tana-french-the-searcher.html)  
 
 </details>
 
