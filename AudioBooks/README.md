@@ -3286,7 +3286,41 @@ Reading Notes:
 
 </details>
 
+ 
 
+
+
+
+<details>
+<summary>The Later Middle Ages: A History of Western Europe 1254-1494. By Robert Balmain Mowat. 1917 </summary>
+
+### The Later Middle Ages: A History of Western Europe 1254-1494. (11:42)  
+Audio: https://librivox.org/the-later-middle-ages-a-history-of-western-europe-1254-1494-by-robert-balmain-mowat/  
+eBook: https://archive.org/details/latermiddleagesh00mowa  
+By [Robert Balmain Mowat (*Mowat, R. B. (Robert Balmain)*)](https://www.oxforddnb.com/search?q=Robert+Mowat&searchBtn=Search&isQuickSearch=true) or [here](https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/527359)  (1883 - 1941)  
+Other works by R.B. Mowat at the U.Penn. Online Books Page: http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Mowat%2C%20R%2E%20B%2E%20%28Robert%20Balmain%29%2C%201883%2D1941  
+
+Reading Notes:  
+
+Librivox Summary: 
+>The Scottish historian, Robert Balmain Mowat writes, “When this period opens one of the finest epochs in German history had just closed, and a time of confusion begun.” With the death of the Emperor Frederick II, Germany’s many feudal territories became practically hereditary sovereignties, her Free Imperial Cities almost independent states. But within the walls of these city-states, as in their Italian counterparts, commercial life flourished. During this period the Great Schism divided Christendom and was with infinite difficulty resolved. This was the age of Dante, Boccaccio, and Petrarch, of the Hundred Years’ War, of the rise of Spain, and of the Turkish conquest of Constantinople. (Summary by Pamela Nagami, M.D.)  
+
+</details>
+
+
+<details>
+<summary>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
+
+### An Outline History of Japan. (15:40)  
+Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
+By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
+
+Reading Notes:  
+
+Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
+
+</details>
 
 
 <details>
@@ -3295,9 +3329,13 @@ Reading Notes:
 ### The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World.  
 Audio: https://www.overdrive.com/media/8957224/the-matter-of-everything  
 eBook: https://www.overdrive.com/media/8916696/the-matter-of-everything  
-By [Suzie Sheehy](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
+By [Suzie Sheehy](https://findanexpert.unimelb.edu.au/profile/99747-suzie-sheehy) or [Wikipedia](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
 
-Reading Notes:  
+Reading Notes: Also titled: "The Matter of Everything -- Twelve Experiments That Changed Our World."  This is *popular science* at its best!  This book *outlines* a lot about the practice of particle/high-energy/accelerator physics experiments in the last ~125 years as a way to explain how we know what we know about the working of our world and how knowledge gained along the way has tranformed our world.  And she does so in a way that is understandable, even exciting, to someone who has never had first-hand involvement in real science of any kind.  Sheehy emphasises importance of asking *good*/the right questions, seeking and nurturing collaboration (...a necessity as the scale and scope of high-energy physics experiments required enormous and extended funding as well as increasingly diverse skillsets), nurturing *pure* science (...partly because the process so often results in unexpected material benefits).  She also highlights some of the individuals (*often women*) whose contributions were too often overlooked by their contemporaries and by professional historians.  I listened to the audio book.  Dr. Sheehy is the narrator and her obvious interest and excitement about this topic is a huge asset in the presentation of this already pretty exciting story (*I can imagine her being an excellent teacher/collaborator*).  See the reviews below for more information about this fantastic book.  
+
+Author's Summary: https://www.suziesheehy.com/book  
+Review by Michael Janezic: [https://openlettersreview.com/posts/the-matter-of-everything...](https://openlettersreview.com/posts/the-matter-of-everything-by-suzie-sheehy)  
+Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/...the-matter-of-everything...](https://www.newscientist.com/article/mg25433840-400-the-matter-of-everything-review-a-pacy-look-at-20th-century-physics/)  
 
 </details>
 
