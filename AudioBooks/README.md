@@ -2286,6 +2286,26 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details>
+<summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
+
+### Okewood of the Secret Service. (8:40)  
+Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
+eBook: https://www.gutenberg.org/ebooks/2417  
+By [Valentine Williams](https://en.wikipedia.org/wiki/Valentine_Williams)  (1883 – 1946)  
+
+Reading Notes: This is another WWI British spy novel that screams its age and culture. The dialog is wooden and formulaic throughout. This genera is an acquired taste... Some of the key characters include:  
+  * Arthur Mackwayte, dies early in the story...  
+  * Barbara Mackwayte, daughter of Arthur Mackwayte and the Secret Service Chief's secretary.  
+  * Maurice Strangwise, Captain -- *Who is he really?* “Captain Strangwise has escaped from a prisoners’ of war camp in Germany, Major,” he said, “we’ve been trying to get hold of him for days! He’s the talk of London!” ..."I got rather struck on the lady (*Nur-el-Din*) when she was touring in Canada some years ago, and in fact I spent so much more money than I could afford on her that I had to discontinue the acquaintance. Then I met her here when I got away from Germany a month ago; she was lonely, so I took her about a bit. Okewood, I’m afraid I was rather indiscreet."  
+  * Desmond Okewood, Brigade Major as gunner officer with Anglo-Irish parentage. The Secret Service arranged to have him 'killed in action' so he can *become*/impersonate Basil Bellward/Wolfgang Bruhl and hunt for German spies along with other targets of the British Secret Service.  
+  * Desmond's brother Francis Okewood. "...serving on a German Staff somewhere at the back of Jerusalem the Golden."  
+  * Nur-el-Din, spying for the Germans (*...along with her maid, a trim Frenchwoman, Nur-el-Din’s business manager 'Lazarro, alias Sacchetti alias Le Tardenois,' a fat, voluble Italian, Nur-el-Din's secretary, an olive-skinned South American youth in an evening coat with velvet collar, and Nur-el-Din's principal male dancer in a scanty Egyptian dress with grotesquely painted face.*)  
+  * Retired English business man, alias Basil Bellward, is a German spy named Wolfgang Bruhl.
+
+</details>
+ 
+
 <details><summary><a name="on_writing_by_stephen_king"></a>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
 
 ### On Writing -- A Memoir Of The Craft.  
@@ -2370,6 +2390,39 @@ eBook: https://www.gutenberg.org/ebooks/16894
 By [Frank Harris](https://en.wikipedia.org/wiki/Frank_Harris)  (1855 - 1931)  
 
 Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wikipedia.org/wiki/Oscar_Wilde) (1854 - 1900) written by a friend and editor in 1916.  It is shallow and choppy, but the first-person content made the listen worth while.  
+
+</details>
+
+
+<details><summary>Our Changing Constitution. By Charles Wheeler Pierson. 1922 </summary>
+
+### Our Changing Constitution. By Charles Wheeler Pierson. (3:56)  
+Audio: https://archive.org/download/synapseml_gutenberg_our_changing_constitution_by_charles_w_p/our_changing_constitution_by_charles_w_p.mp3  
+eBook: https://digilibraries.com/book/our-changing-constitution  
+By [Charles Wheeler Pierson]()  (1864 - 1934)  
+
+Reading Notes: I found this an interesting examination of 19th and early 20th century constitutional law -- about which I am not an expert.  
+Notable quote from the book: 
+>"As students of the science of government they would realize that the most fundamental change which can overtake a free people is a change in their frame of mind, for to that everything else must sooner or later conform." (*page 36, in the chapter on the 18th ammendment to the United States Constitution, Prohibition (1920-1933)*)   
+For more see the [Google books summary](https://books.google.com/books/about/Our_Changing_Constitution.html?id=-7KKEAAAQBAJ) about [the original publication of this work](https://books.google.com/books/about/Our_Changing_Constitution.html?id=X-5IAAAAIAAJ).  
+
+Chapters:  
+The Salient Feature Of The Constitution		1  
+The Supreme Court Of The United States	8  
+Our Changing Constitution	20  
+The Eighteenth Or Prohibition Ammendment	35  
+The Nineteenth Or Woman Suffrage Amendment 49
+Congress Versus The Supreme Court -- THE CHILD LABOR LAWS	59  
+State Rights And The Supreme Court	69  
+The Federal Taxing Power And The Income Tax Ammendment	85  
+Can Congress Tax The Income From State And Municipal Bonds?	97  
+Is The Federal Corporation Tax Constitutional?	106  
+The Corporation Tax Decision	122  
+The Federal Government And The Trusts	129  
+What Of The Future? 	143  
+
+Google Books Summary: https://books.google.com/books/about/Our_Changing_Constitution.html?id=-7KKEAAAQBAJ  
+>In "Our Changing Constitution," Charles W. Pierson delves into the intricate evolution of the United States Constitution amidst changing societal norms. Through a combination of legal analysis and historical context, Pierson explores how amendments and judicial interpretations have shaped the Constitution to adapt to modern challenges. The book offers a scholarly examination of landmark cases and debates that have influenced constitutional law, making it a valuable resource for legal scholars and students alike. Pierson's clear and concise writing style makes complex legal concepts accessible to readers, creating an informative and thought-provoking narrative. This book provides a comprehensive overview of the dynamic nature of constitutional law and the ongoing relevance of the Constitution in today's society. Drawing on his background as a constitutional law expert, Charles W. Pierson brings a wealth of knowledge and experience to his analysis of the evolving Constitution. His expertise in legal theory and historical precedent informs the book's insightful commentary on the interpretations and applications of constitutional principles. Pierson's passion for constitutional law shines through in his writing, making "Our Changing Constitution" a compelling and enlightening read. I highly recommend this book to anyone interested in understanding the complexities of constitutional law and its impact on contemporary legal issues.  
 
 </details>
 
@@ -3287,6 +3340,55 @@ Reading Notes:
 </details>
 
 
+
+<details>
+<summary>On the Duty of Civil Disobedience </summary>
+
+### On the Duty of Civil Disobedience. (1:07)  
+Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
+eBook: https://www.gutenberg.org/ebooks/71  
+By [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)  (1817 - 1862)  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)  
+
+</details>
+
+
+<details>
+<summary>The After House. By Mary Roberts Rinehart. 1914 </summary>
+
+### The After House.  (5:52)  
+Audio: https://librivox.org/the-after-house-by-mary-roberts-rinehart/  
+eBook: https://www.gutenberg.org/ebooks/2358  
+By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  
+
+Reading Notes:  
+
+Project Gutenberg [Automated Summary](https://www.gutenberg.org/ebooks/2358):  
+>"The After House" by Mary Roberts Rinehart is a mystery novel penned in the early 20th century. The story revolves around the character (Ralph) Leslie, who finds himself on a yacht named Ella shortly after recovering from a serious illness. As the narrative unfolds, readers are drawn into a web of suspense surrounding the ship and its crew, highlighting both personal ambitions and darker human emotions, culminating in a series of tragic events. At the start of the novel, Leslie introduces himself as a newly graduated medical student who, after enduring a bout of typhoid fever, is drawn to the adventurous life at sea. With a background as a deck-steward and an ambition for adventure, he is introduced to the Ella, a transformed coasting-vessel now serving as a yacht. His time on board showcases not only his interactions with the crew, including the enigmatic Miss Lee, but also hints at a brewing conflict that suggests an ominous undercurrent aboard the ship. As tensions rise, occurrences hinting at mystery and danger begin to emerge, setting the stage for a suspenseful voyage that promises intrigue and peril in equal measure.  
+
+</details>
+
+
+<details>
+<summary>1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors. By Mark Twain. 1880 </summary>
+
+### 1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors.  (1:22)
+Audio: https://librivox.org/1601-conversation-as-it-was-by-the-social-fireside-in-the-time-of-the-tudors-version-2-by-mark-twain/  
+eBook: https://www.gutenberg.org/ebooks/3190  
+By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
+
+Reading Notes: This recording includes an excellent 40 minute history of the story and its publication.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
+Librivox Summary:  
+>Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
+
+</details>
+
+
 <details>
 <summary>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
 
@@ -3302,10 +3404,6 @@ Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey)
 Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
  
 </details>
-
-
-
-
 
 
 <details>
@@ -3375,8 +3473,41 @@ From the Overdrive Summary:
 </details>
 
 
+<details>
+<summary>Billy Budd. By Herman Melville. 1924 </summary>
+
+### Billy Budd. (3:07)  
+Audio: https://librivox.org/billy-budd-by-herman-melville/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=uc1.b3549801&view=1up&seq=7  
+By [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville)  (1819 - 1891)  
+
+Reading Notes:  
 
 
+Wikipedia Summary: https://en.wikipedia.org/wiki/Billy_Budd  
+[Librivox Summary](https://librivox.org/billy-budd-by-herman-melville/):  
+>Young naive sailor Billy Budd is impressed into military service with the British navy in the 1790s, framed for conspiracy to mutiny, summarily convicted in a drum-head court martial, and hanged. Billy Budd is the final published work by Herman Melville, discovered in his personal papers three decades after his death. (Summary by ScientificMethodist)  
+
+</details>
+
+
+<details>
+<summary>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
+
+### Toilers of the Sea. (17:05)  
+Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=2021  
+By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
+Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
+
+Reading Notes:  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea  
+[Librivox Summary](https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/):  
+>The book is dedicated to the island of Guernsey, where Victor Hugo spent 15 years in exile. Hugo uses the setting of a small island community to convert seemingly mundane events into drama of the highest caliber. Set just after the Napoleonic Wars, Toilers of the Sea deals with the impact of the Industrial Revolution upon the island. The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations, as well as the undeserved disapproval of his neighbors. This is a recording of the Isabel Hapgood translation, long considered the best of early translations of the work. - Summary by John Greenman.  
+
+</details>
 
 
 
@@ -3537,26 +3668,6 @@ Reading Notes:
 
 
 <details>
-<summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
-
-### Okewood of the Secret Service. (8:40)  
-Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
-eBook: https://www.gutenberg.org/ebooks/2417  
-By [Valentine Williams](https://en.wikipedia.org/wiki/Valentine_Williams)  (1883 – 1946)  
-
-Reading Notes: This is another WWI British spy novel that screams its age and culture. The dialog is wooden and formulaic throughout. This genera is an acquired taste... Some of the key characters include:  
-  * Arthur Mackwayte, dies early in the story...  
-  * Barbara Mackwayte, daughter of Arthur Mackwayte and the Secret Service Chief's secretary.  
-  * Maurice Strangwise, Captain -- *Who is he really?* “Captain Strangwise has escaped from a prisoners’ of war camp in Germany, Major,” he said, “we’ve been trying to get hold of him for days! He’s the talk of London!” ..."I got rather struck on the lady (*Nur-el-Din*) when she was touring in Canada some years ago, and in fact I spent so much more money than I could afford on her that I had to discontinue the acquaintance. Then I met her here when I got away from Germany a month ago; she was lonely, so I took her about a bit. Okewood, I’m afraid I was rather indiscreet."  
-  * Desmond Okewood, Brigade Major as gunner officer with Anglo-Irish parentage. The Secret Service arranged to have him 'killed in action' so he can *become*/impersonate Basil Bellward/Wolfgang Bruhl and hunt for German spies along with other targets of the British Secret Service.  
-  * Desmond's brother Francis Okewood. "...serving on a German Staff somewhere at the back of Jerusalem the Golden."  
-  * Nur-el-Din, spying for the Germans (*...along with her maid, a trim Frenchwoman, Nur-el-Din’s business manager 'Lazarro, alias Sacchetti alias Le Tardenois,' a fat, voluble Italian, Nur-el-Din's secretary, an olive-skinned South American youth in an evening coat with velvet collar, and Nur-el-Din's principal male dancer in a scanty Egyptian dress with grotesquely painted face.*)  
-  * Retired English business man, alias Basil Bellward, is a German spy named Wolfgang Bruhl.
-
-</details>
- 
-
-<details>
 <summary>The Life of Oscar Wilde. By Robert Sherard.  </summary>
 
 ### The Life of Oscar Wilde (11:38)  
@@ -3573,7 +3684,7 @@ Reading Notes:
 <details>
 <summary>Frontier Ballads. By Joseph Mills Hanson. </summary>
 
-### Frontier Ballads. (:)  
+### Frontier Ballads. (5:02)  
 Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
 eBook: https://www.gutenberg.org/ebooks/45240  
 By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and  his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
