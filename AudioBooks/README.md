@@ -985,6 +985,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
+
+### Dickens and Prince -- A Particular Kind of Genius. (3:07)  
+Audio: https://www.overdrive.com/media/8795278/dickens-and-prince  
+eBook: https://www.overdrive.com/media/8796425/dickens-and-prince  
+By [Nick Hornby](https://en.wikipedia.org/wiki/Nick_Hornby)  (1957 – )  
+
+Reading Notes: The author explores the lives of two prolific creative geniuses, [Prince](https://en.wikipedia.org/wiki/Prince_(musician)) and [Dickens](https://en.wikipedia.org/wiki/Charles_Dickens).  It is an essay about two creative giants by a creative professional. This is a good listen.  
+
+From the Overdrive Summary:  
+>Examining the two artists’ personal tragedies, social statuses, boundless productivity, and other parallels, both humorous and haunting, Hornby shows how these two unlikely men from different centuries “lit up the world.” In the process, he creates a lively, stimulating rumination on the creativity, flamboyance, discipline, and soul it takes to produce great art.  
+
+</details>
+
+
 <details><summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>
 
 ### The Disciplinary Circuit.  (1:36)  
@@ -2286,8 +2301,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
-<details>
-<summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
+<details><summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
 
 ### Okewood of the Secret Service. (8:40)  
 Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
@@ -2407,19 +2421,19 @@ Notable quote from the book:
 For more see the [Google books summary](https://books.google.com/books/about/Our_Changing_Constitution.html?id=-7KKEAAAQBAJ) about [the original publication of this work](https://books.google.com/books/about/Our_Changing_Constitution.html?id=X-5IAAAAIAAJ).  
 
 Chapters:  
-The Salient Feature Of The Constitution		1  
-The Supreme Court Of The United States	8  
-Our Changing Constitution	20  
-The Eighteenth Or Prohibition Ammendment	35  
-The Nineteenth Or Woman Suffrage Amendment 49
-Congress Versus The Supreme Court -- THE CHILD LABOR LAWS	59  
-State Rights And The Supreme Court	69  
-The Federal Taxing Power And The Income Tax Ammendment	85  
-Can Congress Tax The Income From State And Municipal Bonds?	97  
-Is The Federal Corporation Tax Constitutional?	106  
-The Corporation Tax Decision	122  
-The Federal Government And The Trusts	129  
-What Of The Future? 	143  
+The Salient Feature Of The Constitution	.... 1  
+The Supreme Court Of The United States	.... 8  
+Our Changing Constitution	.... 20  
+The Eighteenth Or Prohibition Ammendment	.... 35  
+The Nineteenth Or Woman Suffrage Amendment  .... 49  
+Congress Versus The Supreme Court -- The Child Labor Laws	.... 59  
+State Rights And The Supreme Court	.... 69  
+The Federal Taxing Power And The Income Tax Ammendment	.... 85  
+Can Congress Tax The Income From State And Municipal Bonds?	.... 97  
+Is The Federal Corporation Tax Constitutional?	.... 106  
+The Corporation Tax Decision	.... 122  
+The Federal Government And The Trusts	.... 129  
+What Of The Future? 	.... 143  
 
 Google Books Summary: https://books.google.com/books/about/Our_Changing_Constitution.html?id=-7KKEAAAQBAJ  
 >In "Our Changing Constitution," Charles W. Pierson delves into the intricate evolution of the United States Constitution amidst changing societal norms. Through a combination of legal analysis and historical context, Pierson explores how amendments and judicial interpretations have shaped the Constitution to adapt to modern challenges. The book offers a scholarly examination of landmark cases and debates that have influenced constitutional law, making it a valuable resource for legal scholars and students alike. Pierson's clear and concise writing style makes complex legal concepts accessible to readers, creating an informative and thought-provoking narrative. This book provides a comprehensive overview of the dynamic nature of constitutional law and the ongoing relevance of the Constitution in today's society. Drawing on his background as a constitutional law expert, Charles W. Pierson brings a wealth of knowledge and experience to his analysis of the evolving Constitution. His expertise in legal theory and historical precedent informs the book's insightful commentary on the interpretations and applications of constitutional principles. Pierson's passion for constitutional law shines through in his writing, making "Our Changing Constitution" a compelling and enlightening read. I highly recommend this book to anyone interested in understanding the complexities of constitutional law and its impact on contemporary legal issues.  
@@ -3454,23 +3468,6 @@ Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/
 
 </details>
 
-
-
-<details>
-<summary>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
-
-### Dickens and Prince -- A Particular Kind of Genius. (3:07)  
-Audio: https://www.overdrive.com/media/8795278/dickens-and-prince  
-eBook: https://www.overdrive.com/media/8796425/dickens-and-prince  
-By [Nick Hornby](https://en.wikipedia.org/wiki/Nick_Hornby)  (1957 – )  
-
-Reading Notes: The author explores the lives of two prolific creative geniuses, [Prince](https://en.wikipedia.org/wiki/Prince_(musician)) and [Dickens](https://en.wikipedia.org/wiki/Charles_Dickens).  It is an essay about two creative giants by a creative professional. This is a good listen.  
-
-From the Overdrive Summary:  
->Examining the two artists’ personal tragedies, social statuses, boundless productivity, and other parallels, both humorous and haunting, Hornby shows how these two unlikely men from different centuries “lit up the world.” In the process, he creates a lively, stimulating rumination on the creativity, flamboyance, discipline, and soul it takes to produce great art.  
-
-
-</details>
 
 
 <details>
