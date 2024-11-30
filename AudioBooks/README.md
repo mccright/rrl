@@ -985,6 +985,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
+
+### Dickens and Prince -- A Particular Kind of Genius. (3:07)  
+Audio: https://www.overdrive.com/media/8795278/dickens-and-prince  
+eBook: https://www.overdrive.com/media/8796425/dickens-and-prince  
+By [Nick Hornby](https://en.wikipedia.org/wiki/Nick_Hornby)  (1957 – )  
+
+Reading Notes: The author explores the lives of two prolific creative geniuses, [Prince](https://en.wikipedia.org/wiki/Prince_(musician)) and [Dickens](https://en.wikipedia.org/wiki/Charles_Dickens).  It is an essay about two creative giants by a creative professional. This is a good listen.  
+
+From the Overdrive Summary:  
+>Examining the two artists’ personal tragedies, social statuses, boundless productivity, and other parallels, both humorous and haunting, Hornby shows how these two unlikely men from different centuries “lit up the world.” In the process, he creates a lively, stimulating rumination on the creativity, flamboyance, discipline, and soul it takes to produce great art.  
+
+</details>
+
+
 <details><summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>
 
 ### The Disciplinary Circuit.  (1:36)  
@@ -2286,8 +2301,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
-<details>
-<summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
+<details><summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
 
 ### Okewood of the Secret Service. (8:40)  
 Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
@@ -2407,19 +2421,19 @@ Notable quote from the book:
 For more see the [Google books summary](https://books.google.com/books/about/Our_Changing_Constitution.html?id=-7KKEAAAQBAJ) about [the original publication of this work](https://books.google.com/books/about/Our_Changing_Constitution.html?id=X-5IAAAAIAAJ).  
 
 Chapters:  
-The Salient Feature Of The Constitution		1  
-The Supreme Court Of The United States	8  
-Our Changing Constitution	20  
-The Eighteenth Or Prohibition Ammendment	35  
-The Nineteenth Or Woman Suffrage Amendment 49
-Congress Versus The Supreme Court -- THE CHILD LABOR LAWS	59  
-State Rights And The Supreme Court	69  
-The Federal Taxing Power And The Income Tax Ammendment	85  
-Can Congress Tax The Income From State And Municipal Bonds?	97  
-Is The Federal Corporation Tax Constitutional?	106  
-The Corporation Tax Decision	122  
-The Federal Government And The Trusts	129  
-What Of The Future? 	143  
+The Salient Feature Of The Constitution	.... 1  
+The Supreme Court Of The United States	.... 8  
+Our Changing Constitution	.... 20  
+The Eighteenth Or Prohibition Ammendment	.... 35  
+The Nineteenth Or Woman Suffrage Amendment  .... 49  
+Congress Versus The Supreme Court -- The Child Labor Laws	.... 59  
+State Rights And The Supreme Court	.... 69  
+The Federal Taxing Power And The Income Tax Ammendment	.... 85  
+Can Congress Tax The Income From State And Municipal Bonds?	.... 97  
+Is The Federal Corporation Tax Constitutional?	.... 106  
+The Corporation Tax Decision	.... 122  
+The Federal Government And The Trusts	.... 129  
+What Of The Future? 	.... 143  
 
 Google Books Summary: https://books.google.com/books/about/Our_Changing_Constitution.html?id=-7KKEAAAQBAJ  
 >In "Our Changing Constitution," Charles W. Pierson delves into the intricate evolution of the United States Constitution amidst changing societal norms. Through a combination of legal analysis and historical context, Pierson explores how amendments and judicial interpretations have shaped the Constitution to adapt to modern challenges. The book offers a scholarly examination of landmark cases and debates that have influenced constitutional law, making it a valuable resource for legal scholars and students alike. Pierson's clear and concise writing style makes complex legal concepts accessible to readers, creating an informative and thought-provoking narrative. This book provides a comprehensive overview of the dynamic nature of constitutional law and the ongoing relevance of the Constitution in today's society. Drawing on his background as a constitutional law expert, Charles W. Pierson brings a wealth of knowledge and experience to his analysis of the evolving Constitution. His expertise in legal theory and historical precedent informs the book's insightful commentary on the interpretations and applications of constitutional principles. Pierson's passion for constitutional law shines through in his writing, making "Our Changing Constitution" a compelling and enlightening read. I highly recommend this book to anyone interested in understanding the complexities of constitutional law and its impact on contemporary legal issues.  
@@ -3341,6 +3355,40 @@ Reading Notes:
 
 
 
+
+<details>
+<summary>The Future -- A Novel. By Naomi Alderman. 2023 </summary>
+
+### The Future  (13:00)
+Audio: https://www.overdrive.com/media/9496631/the-future  
+eBook: https://www.overdrive.com/media/9511829/the-future  
+By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  (1974 – )  
+
+Reading Notes: The author jumps back and forth in time and across what for a good chunk of this book seem like relatively independent threads of activity. Stick with her. It is worth the effort. This seems like an important *near future*, *current-trends-could-result-in-the-end-of-societies-across-the-globe* novel (*with a hopeful message that we could choose to wise-up*).  It posits, among other ideas, that a small number of corporate insiders at leading organizations could, with grit, courage, creativity and a relentless focus on goals targeting a better future for all, overcome the *current* wasteful, devisive and destructive momentum wrought by narcissistic *billionaire/business leaders*, and populations manipulated into world-destroying behaviors.  
+* The story assumes that a vanishingly small number of tech giants control too much (*stuff, business activity, people, thought...*) and do so in a morality vaccum, for short term profit growth and personal power over others, without regard for the short or long term health of earth or any of the living beings, institutions or cultures existing upon it -- "all the while loudly claiming to benefit humanity](https://www.latimes.com/entertainment-arts/books/story/2023-11-07/in-the-future-its-billionaires-vs-cult-leaders-vs-survivalist-influencers-and-more)".  In this story, there are three primary brands within which that activity is driven: Fantail (*Facebook*), Anvil (*Amazon*) and Medlar Technologies (*Apple/Microsoft??*). The individuals *leading* these enterprises also seem to represent the broader "[unaccountable billionaire class](https://www.nytimes.com/2023/11/07/books/review/the-future-naomi-alderman.html) sowing and nurturing division, amplifying zero-sum tribalism and boosting *waste-enhancing overconsumption* by preying on and exploiting every kind of human [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) in the hunt for greater financial and personal power returns."  
+Some core characters:  
+* Martha Einkorn -- who grew up in an end-times cult, the daughter of its leader, but escaped as a teenager -- has become second in command in the role of assistant to Lenk Sketlish, founder of the social network Fantail.  
+* Lai Zhen -- a top tier on-line survivalist influencer -- meets Martha Einkorn at conference and the two build a complicated pairing.  
+* Selah Nommik, who wrote the foundational code for data-driven purchasing giant Anvil, founded by Zimri Nommik.  
+* Badger Bywater, youngest child of Ellen Bywater head of Medlar Technologies, earth's leading personal-computing corporation.  
+* Albert ____, the founder of Medlar, forced out by more ambitious *and tyranical* leaders.  
+A key thread of this story leads to Martha, Lai, Shelah, Badger, and Albert trying to save the world by re-working the strategic goals of their organizations and then operationalizing those goals.  How could a small group of powerful individuals get to the point where this could occur? Naomi Alderman takes us on that journey.  
+
+Is it overly simplistic? Sure. But it is also adult, complex and dense enough to be an enjoyable read -- and maybe it will seed some alternative thinking in leaders or leaders-to-be in our most powerful tech industries.  
+
+If you have the opportunity to listen to the audio version of this book, I strongly recommend that you do so.  It is an excellent performance by a cast and crew devoted to the story as well as the listener.  
+
+Review By [Ian Wang](): [https://www.nytimes.com/2023/11/07/books/review/the-future-naomi-alderman.html](https://www.nytimes.com/2023/11/07/books/review/the-future-naomi-alderman.html)  
+Review By [Elizabeth Hand](): [https://www.washingtonpost.com/books/2023/11/05/naomi-alderman-future-review/](https://www.washingtonpost.com/books/2023/11/05/naomi-alderman-future-review/)  
+Reviews on BookMarks: [https://bookmarks.reviews/reviews/the-future/](https://bookmarks.reviews/reviews/the-future/)  
+Review By [Lacy Baugher Milas](): [https://www.pastemagazine.com/...the-future...](https://www.pastemagazine.com/books/naomi-alderman/the-future-review-hopeful-dystopian-fiction)  
+Review By [Ilana Masad](): [https://www.latimes.com/...the-future...](https://www.latimes.com/entertainment-arts/books/story/2023-11-07/in-the-future-its-billionaires-vs-cult-leaders-vs-survivalist-influencers-and-more)  
+
+</details>
+
+
+
+
 <details>
 <summary>On the Duty of Civil Disobedience </summary>
 
@@ -3454,23 +3502,6 @@ Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/
 
 </details>
 
-
-
-<details>
-<summary>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
-
-### Dickens and Prince -- A Particular Kind of Genius. (3:07)  
-Audio: https://www.overdrive.com/media/8795278/dickens-and-prince  
-eBook: https://www.overdrive.com/media/8796425/dickens-and-prince  
-By [Nick Hornby](https://en.wikipedia.org/wiki/Nick_Hornby)  (1957 – )  
-
-Reading Notes: The author explores the lives of two prolific creative geniuses, [Prince](https://en.wikipedia.org/wiki/Prince_(musician)) and [Dickens](https://en.wikipedia.org/wiki/Charles_Dickens).  It is an essay about two creative giants by a creative professional. This is a good listen.  
-
-From the Overdrive Summary:  
->Examining the two artists’ personal tragedies, social statuses, boundless productivity, and other parallels, both humorous and haunting, Hornby shows how these two unlikely men from different centuries “lit up the world.” In the process, he creates a lively, stimulating rumination on the creativity, flamboyance, discipline, and soul it takes to produce great art.  
-
-
-</details>
 
 
 <details>
