@@ -3355,6 +3355,40 @@ Reading Notes:
 
 
 
+
+<details>
+<summary>The Future -- A Novel. By Naomi Alderman. 2023 </summary>
+
+### The Future  (13:00)
+Audio: https://www.overdrive.com/media/9496631/the-future  
+eBook: https://www.overdrive.com/media/9511829/the-future  
+By [Naomi Alderman](https://en.wikipedia.org/wiki/Naomi_Alderman)  (1974 – )  
+
+Reading Notes: The author jumps back and forth in time and across what for a good chunk of this book seem like relatively independent threads of activity. Stick with her. It is worth the effort. This seems like an important *near future*, *current-trends-could-result-in-the-end-of-societies-across-the-globe* novel (*with a hopeful message that we could choose to wise-up*).  It posits, among other ideas, that a small number of corporate insiders at leading organizations could, with grit, courage, creativity and a relentless focus on goals targeting a better future for all, overcome the *current* wasteful, devisive and destructive momentum wrought by narcissistic *billionaire/business leaders*, and populations manipulated into world-destroying behaviors.  
+* The story assumes that a vanishingly small number of tech giants control too much (*stuff, business activity, people, thought...*) and do so in a morality vaccum, for short term profit growth and personal power over others, without regard for the short or long term health of earth or any of the living beings, institutions or cultures existing upon it -- "all the while loudly claiming to benefit humanity](https://www.latimes.com/entertainment-arts/books/story/2023-11-07/in-the-future-its-billionaires-vs-cult-leaders-vs-survivalist-influencers-and-more)".  In this story, there are three primary brands within which that activity is driven: Fantail (*Facebook*), Anvil (*Amazon*) and Medlar Technologies (*Apple/Microsoft??*). The individuals *leading* these enterprises also seem to represent the broader "[unaccountable billionaire class](https://www.nytimes.com/2023/11/07/books/review/the-future-naomi-alderman.html) sowing and nurturing division, amplifying zero-sum tribalism and boosting *waste-enhancing overconsumption* by preying on and exploiting every kind of human [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) in the hunt for greater financial and personal power returns."  
+Some core characters:  
+* Martha Einkorn -- who grew up in an end-times cult, the daughter of its leader, but escaped as a teenager -- has become second in command in the role of assistant to Lenk Sketlish, founder of the social network Fantail.  
+* Lai Zhen -- a top tier on-line survivalist influencer -- meets Martha Einkorn at conference and the two build a complicated pairing.  
+* Selah Nommik, who wrote the foundational code for data-driven purchasing giant Anvil, founded by Zimri Nommik.  
+* Badger Bywater, youngest child of Ellen Bywater head of Medlar Technologies, earth's leading personal-computing corporation.  
+* Albert ____, the founder of Medlar, forced out by more ambitious *and tyranical* leaders.  
+A key thread of this story leads to Martha, Lai, Shelah, Badger, and Albert trying to save the world by re-working the strategic goals of their organizations and then operationalizing those goals.  How could a small group of powerful individuals get to the point where this could occur? Naomi Alderman takes us on that journey.  
+
+Is it overly simplistic? Sure. But it is also adult, complex and dense enough to be an enjoyable read -- and maybe it will seed some alternative thinking in leaders or leaders-to-be in our most powerful tech industries.  
+
+If you have the opportunity to listen to the audio version of this book, I strongly recommend that you do so.  It is an excellent performance by a cast and crew devoted to the story as well as the listener.  
+
+Review By [Ian Wang](): [https://www.nytimes.com/2023/11/07/books/review/the-future-naomi-alderman.html](https://www.nytimes.com/2023/11/07/books/review/the-future-naomi-alderman.html)  
+Review By [Elizabeth Hand](): [https://www.washingtonpost.com/books/2023/11/05/naomi-alderman-future-review/](https://www.washingtonpost.com/books/2023/11/05/naomi-alderman-future-review/)  
+Reviews on BookMarks: [https://bookmarks.reviews/reviews/the-future/](https://bookmarks.reviews/reviews/the-future/)  
+Review By [Lacy Baugher Milas](): [https://www.pastemagazine.com/...the-future...](https://www.pastemagazine.com/books/naomi-alderman/the-future-review-hopeful-dystopian-fiction)  
+Review By [Ilana Masad](): [https://www.latimes.com/...the-future...](https://www.latimes.com/entertainment-arts/books/story/2023-11-07/in-the-future-its-billionaires-vs-cult-leaders-vs-survivalist-influencers-and-more)  
+
+</details>
+
+
+
+
 <details>
 <summary>On the Duty of Civil Disobedience </summary>
 
