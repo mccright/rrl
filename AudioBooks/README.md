@@ -2702,6 +2702,24 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion
 </details>
 
 
+<details>
+<summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
+
+### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
+Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
+eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: [*correct these*] Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*) while attempting to learn about some of the activities that have been erased from his memory. The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
+[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
+>...The case against the too-big-to-fail GrayCris Corporation is floundering, and more importantly, authorities are beginning to ask more questions about where Dr. Mensah's SecUnit is. And Murderbot would rather those questions went away.  
+
+</details>
+
+
 <details><summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
@@ -3386,24 +3404,6 @@ Reading Notes:
 </details>
 
  
-
-<details>
-<summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
-
-### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
-Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
-eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: [*correct these*] Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*) while attempting to learn about some of the activities that have been erased from his memory. The OverDrive summary below covers the rest.  
-
-Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
-Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
-[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
->...The case against the too-big-to-fail GrayCris Corporation is floundering, and more importantly, authorities are beginning to ask more questions about where Dr. Mensah's SecUnit is. And Murderbot would rather those questions went away.  
-
-</details>
-
 
 
 <details>
