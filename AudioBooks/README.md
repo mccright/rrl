@@ -1859,6 +1859,22 @@ https://www.jsdewes.com/about
 </details>
 
 
+<details><summary>The Later Middle Ages: A History of Western Europe 1254-1494. By Robert Balmain Mowat. 1917 </summary>
+
+### The Later Middle Ages: A History of Western Europe 1254-1494. (11:42)  
+Audio: https://librivox.org/the-later-middle-ages-a-history-of-western-europe-1254-1494-by-robert-balmain-mowat/  
+eBook: https://archive.org/details/latermiddleagesh00mowa  
+By [Robert Balmain Mowat (*Mowat, R. B. (Robert Balmain)*)](https://www.oxforddnb.com/search?q=Robert+Mowat&searchBtn=Search&isQuickSearch=true) or [here](https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/527359)  (1883 - 1941)  
+Other works by R.B. Mowat at the U.Penn. Online Books Page: http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Mowat%2C%20R%2E%20B%2E%20%28Robert%20Balmain%29%2C%201883%2D1941  
+
+Reading Notes: A narrowly focussed history of select leaders and select wars primarily in Germany, Italy, France and Constantinople between 1254-1494. Within its limited scope, it is an easy way to get a little context about some of the major "political" personalities and conflicts during this period in Western Europe.  It is not a resource for learning much about "life on the ground" for the overwhelming majority of people in this period.  As an audio experience, this book is also a pleasure thanks to the excellent narration by Dr. Pamela Nagami.  
+
+Librivox Summary: 
+>The Scottish historian, Robert Balmain Mowat writes, “When this period opens one of the finest epochs in German history had just closed, and a time of confusion begun.” With the death of the Emperor Frederick II, Germany’s many feudal territories became practically hereditary sovereignties, her Free Imperial Cities almost independent states. But within the walls of these city-states, as in their Italian counterparts, commercial life flourished. During this period the Great Schism divided Christendom and was with infinite difficulty resolved. This was the age of Dante, Boccaccio, and Petrarch, of the Hundred Years’ War, of the rise of Spain, and of the Turkish conquest of Constantinople. (Summary by Pamela Nagami, M.D.)  
+
+</details>
+
+
 <details><summary><a name="learned_by_heart"></a>Learned by Heart. By Emma Donoghue. 2023 </summary>
 
 ### Learned by Heart (9:00)   
@@ -2702,6 +2718,24 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion
 </details>
 
 
+<details>
+<summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
+
+### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
+Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
+eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: [*correct these*] Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*) while attempting to learn about some of the activities that have been erased from his memory. The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
+[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
+>...The case against the too-big-to-fail GrayCris Corporation is floundering, and more importantly, authorities are beginning to ask more questions about where Dr. Mensah's SecUnit is. And Murderbot would rather those questions went away.  
+
+</details>
+
+
 <details><summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
@@ -3387,24 +3421,6 @@ Reading Notes:
 
  
 
-<details>
-<summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
-
-### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
-Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
-eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: [*correct these*] Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*) while attempting to learn about some of the activities that have been erased from his memory. The OverDrive summary below covers the rest.  
-
-Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
-Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
-[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
->...The case against the too-big-to-fail GrayCris Corporation is floundering, and more importantly, authorities are beginning to ask more questions about where Dr. Mensah's SecUnit is. And Murderbot would rather those questions went away.  
-
-</details>
-
-
 
 <details>
 <summary>On the Duty of Civil Disobedience </summary>
@@ -3468,23 +3484,6 @@ Review by [Terry W. Hartle](): [https://www.csmonitor.com/...paris-in-ruins...](
 Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey): [https://www.nytimes.com/...paris-in-ruins...](https://www.nytimes.com/2024/09/13/books/review/paris-in-ruins-sebastian-smee.html)  
 Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
  
-</details>
-
-
-<details>
-<summary>The Later Middle Ages: A History of Western Europe 1254-1494. By Robert Balmain Mowat. 1917 </summary>
-
-### The Later Middle Ages: A History of Western Europe 1254-1494. (11:42)  
-Audio: https://librivox.org/the-later-middle-ages-a-history-of-western-europe-1254-1494-by-robert-balmain-mowat/  
-eBook: https://archive.org/details/latermiddleagesh00mowa  
-By [Robert Balmain Mowat (*Mowat, R. B. (Robert Balmain)*)](https://www.oxforddnb.com/search?q=Robert+Mowat&searchBtn=Search&isQuickSearch=true) or [here](https://archivesearch.lib.cam.ac.uk/repositories/2/archival_objects/527359)  (1883 - 1941)  
-Other works by R.B. Mowat at the U.Penn. Online Books Page: http://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Mowat%2C%20R%2E%20B%2E%20%28Robert%20Balmain%29%2C%201883%2D1941  
-
-Reading Notes:  
-
-Librivox Summary: 
->The Scottish historian, Robert Balmain Mowat writes, “When this period opens one of the finest epochs in German history had just closed, and a time of confusion begun.” With the death of the Emperor Frederick II, Germany’s many feudal territories became practically hereditary sovereignties, her Free Imperial Cities almost independent states. But within the walls of these city-states, as in their Italian counterparts, commercial life flourished. During this period the Great Schism divided Christendom and was with infinite difficulty resolved. This was the age of Dante, Boccaccio, and Petrarch, of the Hundred Years’ War, of the rise of Spain, and of the Turkish conquest of Constantinople. (Summary by Pamela Nagami, M.D.)  
-
 </details>
 
 
