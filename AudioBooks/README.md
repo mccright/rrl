@@ -1322,7 +1322,8 @@ Librivox Summary:
 <details><summary><a name="ghosts_of_honolulu"></a>Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor. By Mark Harmon and Leon Carroll, Jr. 2023 </summary>
 
 ### Ghosts of Honolulu -- A Japanese Spy, A Japanese American Spy Hunter, and the Untold Story of Pearl Harbor.  
-  
+Audio: https://www.overdrive.com/media/9703970/ghosts-of-honolulu  
+eBook: https://www.overdrive.com/media/9704090/ghosts-of-honolulu    
 By [Mark Harmon](https://en.wikipedia.org/wiki/Mark_Harmon) (1951 – ) and [Leon Carroll, Jr.]()  ( – )  
 
 Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate some of the early days of what would become the Naval Criminal Investigative Service (NCIS) — known in the 1940s as the Office of Naval Intelligence (ONI) through the experiences of a real-life character, Douglas Wada, a Hawaiian born to Japanese immigrant parents at the start of WWII in the Pacific.  It is an interesting story.  
@@ -1334,12 +1335,15 @@ Reading Notes: Harmon and (*retired NCIS Special Agent*) Carroll investigate som
 </details>
 
 
-<details><summary>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
+<details><summary><a name="giver_of_stars_jojo_moyes"></a>The Giver of Stars.  By Jojo Moyes.  2019 </summary>
 
 ### The Giver of Stars. (13:52)  
-[https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
+Audio: [https://www.overdrive.com/media/4581755/the-giver-of-stars](https://www.overdrive.com/media/4581755/the-giver-of-stars)  
+eBook: https://www.overdrive.com/media/4570450/the-giver-of-stars  
 By [Jojo Moyes](https://en.wikipedia.org/wiki/Jojo_Moyes)  (1969 -- __ )  
+
 Reader's notes: This is a period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians).  The story follows British Alice Wright, who marries American Bennet Van Cleve hoping to escape a highly constrained life in England.  She finds herself in another controlling environment and joins a newly forming traveling library to escape an unhappy situation, and finds herself a member of what became a small group of close friends who share a challenging job riding books throughout an extremely poor, isolated, mountainous part of Eastern Kentucky, long exploited by families who own and operate coal mining companies (one of whom is the Van Cleve family).  I am not very familiar with the [Romance genre](https://en.wikipedia.org/wiki/Romance_novel), but this story seemed to evolve from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
+
 Wikipedia summary: [https://en.wikipedia.org/wiki/The_Giver_of_Stars](https://en.wikipedia.org/wiki/The_Giver_of_Stars)  
 
 </details>
@@ -2703,8 +2707,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details>
-<summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
+<details><summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
 
 ### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
 Audio: https://www.overdrive.com/media/5273720/rise-to-rebellion  
@@ -2718,20 +2721,18 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion
 </details>
 
 
-<details>
-<summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
+<details><summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
 
 ### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
 Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
 eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
 
-Reading Notes: [*correct these*] Once again, this story is expertly told from the perspective of a fully sentient cyborg who teams up with a sentient *robot* pilot and then chooses to protect a group of researchers on a mining planet (*where murderbot was accused of killing all his clients, and where the events were covered up*) while attempting to learn about some of the activities that have been erased from his memory. The OverDrive summary below covers the rest.  
+Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who decides to find evidence of illegal activity by GrayCris Corp.  Finds his way to an out-of-the-way, failing "terraforming" operation and then (*as a way to advance his own investigation*) chooses to protect a group of workers tasked with determining the current status of the technology that supported the defunct operations.  In the process, he becomes the friend of another sentient robot, Miki.  Murderbot repeatedly faces choices that involve commitments to others that conflict with the desire to achieve individual goals or for simple "comfort." The OverDrive summary below covers the rest.  
 
 Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
 Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
 [OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
->...The case against the too-big-to-fail GrayCris Corporation is floundering, and more importantly, authorities are beginning to ask more questions about where Dr. Mensah's SecUnit is. And Murderbot would rather those questions went away.  
 
 </details>
 

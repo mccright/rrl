@@ -16,10 +16,8 @@ Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-net
 
 </details>
 
-<a name="anathem_neal_stephenson"></a>
 
-<details>
-<summary>Anathem. By Neal Stephenson  2008 (I strongly recommend reading this book)</summary>
+<details><summary><a name="anathem_neal_stephenson"></a>Anathem. By Neal Stephenson  2008 (I strongly recommend reading this book)</summary>
 
 ### Anathem.  
 eBook: https://www.overdrive.com/media/171066/anathem  
@@ -27,6 +25,7 @@ Audio: https://www.overdrive.com/media/180366/anathem
 https://www.nealstephenson.com/anathem.html  
 By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
 Published 2008, 937 pages.  
+
 See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
 
@@ -82,8 +81,7 @@ Some Quotes from the book:
 </details>
 
 
-<details>
-<summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
+<details><summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
 
 ### The Big Sky.  
 Book: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  (*It seems [widely available](https://duckduckgo.com/?t=h_&q=the+big+sky+by+a.b.+guthrie+jr&ia=web) in libraries and commercially.*)  
@@ -121,8 +119,7 @@ https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&
 </details>
 
 
-<details>
-<summary>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
+<details><summary><a name="devil_in_the_white_city"></a>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
 
 ### The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America.  
 https://www.penguinrandomhouse.com/books/98115/the-devil-in-the-white-city-by-erik-larson/  
@@ -139,8 +136,8 @@ https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/
 
 </details>
 
-<details>
-<summary>The Diamond Age or, A Young Lady's Illustrated Primer.  By Neal Stephenson  1995</summary>
+
+<details><summary><a name="the_diamond_age_neal_stephenson"></a>The Diamond Age or, A Young Lady's Illustrated Primer.  By Neal Stephenson  1995</summary>
 
 ### The Diamond Age or, A Young Lady's Illustrated Primer  
 eBook: https://www.overdrive.com/media/36903/the-diamond-age  
@@ -154,8 +151,7 @@ Summary:
 </details>
 
 
-<details>
-<summary>The Inner Game of Tennis.  By Timothy Gallwey  1974</summary>
+<details><summary><a name="inner_game_of_tennis_timothy_gallwey"></a>The Inner Game of Tennis.  By Timothy Gallwey  1974</summary>
 
 ### The Inner Game of Tennis.  
 https://archive.org/details/innergameoftenni00gall  
@@ -180,7 +176,7 @@ Explores some of the core myth-making establishing the widely-accepted narrative
 </details>
 
 
-<details><summary>NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg.  By Irin Carmon  2015</summary>
+<details><summary><a name="notorious_rbg"></a>NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg.  By Irin Carmon  2015</summary>
 
 ### Notorious RBG: The Life and Times of Ruth Bader Ginsburg  
 Audio: https://www.overdrive.com/media/2396486/notorious-rbg  
@@ -205,7 +201,7 @@ This is a useful and entertaining (*fictional*) history about the WWII cryptogra
 </details>
 
 
-<details><summary>Still Life.  By Sarah Winman 2021  </summary>
+<details><summary><a name="still_life_sarah_winman"></a>Still Life.  By Sarah Winman 2021  </summary>
 
 ### Still Life.  
 https://www.penguinrandomhouse.com/books/670069/still-life-by-sarah-winman/  
@@ -255,7 +251,7 @@ ENotes Summary: https://www.enotes.com/topics/way-west
 </details>
 
 
-<details><summary>The White Lady -- A British Historical Mystery. By Jacqueline Winspear. 2023 </summary>
+<details><summary><a name="white_lady_jacqueline_winspear"></a>The White Lady -- A British Historical Mystery. By Jacqueline Winspear. 2023 </summary>
 
 ### The White Lady -- A British Historical Mystery.  
 eBook: https://www.overdrive.com/media/9080904/the-white-lady  
@@ -285,7 +281,7 @@ This is a close-up on Nashville and the people working there in the summer of 19
 </details>
 
 
-<details><summary>The Wright Brothers. By David McCullough. 2015</summary>
+<details><summary><a name="wright_brothers_david_mccullough"></a>The Wright Brothers. By David McCullough. 2015</summary>
 
 ### The Wright Brothers.  
 Audio: https://www.overdrive.com/media/1815407/the-wright-brothers  
