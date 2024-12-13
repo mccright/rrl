@@ -276,6 +276,19 @@ Reading Notes:
 </details>
 </details>
 
+<details>
+<summary>Woodcraft and Camping. By George Washington Sears. 1920 (1884) </summary>
+
+### Woodcraft and Camping.  
+eBook: https://www.gutenberg.org/ebooks/34607    
+By [George Washington Sears](https://en.wikipedia.org/wiki/George_W._Sears)  (1821 - 1890)  
+
+Reading Notes:  
+
+Gutenberg Summary:  
+>"Woodcraft and Camping" by George Washington Sears is a practical outdoor guide written in the early 20th century. The text focuses on woodcrafting and camping techniques, offering insights for those seeking to enjoy nature and improve their outdoor skills. The author draws from extensive personal experience to provide readers with valuable tips and suggestions for successful camping and outdoor living. The beginning of the book delves into the importance of recreation for overworked individuals, stressing the necessity for meaningful rest and relaxation away from urban life. Sears addresses the inequalities in outdoor experiences where many people return from vacations feeling unsatisfied. He shares a variety of practical advice for aspiring campers, including how to pack lightly, the essentials of camping gear, and efficient techniques for setting up a campsite. Through his engaging and straightforward writing style, he aims to equip readers with the knowledge to make their outdoor adventures enjoyable and fulfilling. (This is an automatically generated summary.)  
+
+</details>
 
 
 <details>
