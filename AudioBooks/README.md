@@ -2404,7 +2404,7 @@ Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-b
 </details>
 
 
-<details><summary>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
+<details><summary><a name="one_person_one_vote_nick_seabrook"></a>One Person, One Vote - A Surprising History of Gerrymandering in America. By Nick Seabrook. 2022 </summary>
 
 ### One Person, One Vote - A Surprising History of Gerrymandering in America. (12:30)  
 Audio: https://www.overdrive.com/media/7973563/one-person-one-vote  
@@ -2420,7 +2420,7 @@ BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-on
 </details>
 
 
-<details><summary>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
+<details><summary><a name="opening_the_west_edwin_l_sabin"></a>Opening the West with Lewis and Clark.  By Edwin L. Sabin.  1917</summary>
 
 ### Opening the West with Lewis and Clark (7:06)  
 https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/  
@@ -2441,14 +2441,14 @@ Librivox Summary:
 Audio: https://www.overdrive.com/media/5612235/the-original  
 By [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson) & [his site](https://www.brandonsanderson.com/about-brandon/) (1975 – ) and [Mary Robinette Kowal](https://en.wikipedia.org/wiki/Mary_Robinette_Kowal) & [her site](https://maryrobinettekowal.com/)  (1969 – )  
 
-Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If now she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
+Reading Notes: Holly Winseed "wakes up" in a hospital room and learns she is now a *Provisional Replica*. She has 4 days to find and kill her Original for the murder of her husband, Jonathan Winseed. Upon success she can replace her Original. If not she dies.  See the [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original) for more.  
 
 [OverDrive Summary](https://www.overdrive.com/media/5612235/the-original).  
 
 </details>
 
 
-<details><summary>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
+<details><summary><a name="oscar_wilde_vol_1_frank_harris"></a>Oscar Wilde, His Life and Confessions. Volume 1 (of 2) by Frank Harris. 1916 </summary>
 
 ### Oscar Wilde, His Life and Confessions. Volume 1 (of 2) (7:00)  
 Audio: [https://archive.org/.../oscar_wilde_his_life_and_confessions_vol.mp3](https://archive.org/download/synapseml_gutenberg_oscar_wilde_his_life_and_confessions_vol/oscar_wilde_his_life_and_confessions_vol.mp3)  
@@ -2460,7 +2460,7 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 </details>
 
 
-<details><summary>Our Changing Constitution. By Charles Wheeler Pierson. 1922 </summary>
+<details><summary><a name="our_changing_constitution_charles_wheeler_pierson"></a>Our Changing Constitution. By Charles Wheeler Pierson. 1922 </summary>
 
 ### Our Changing Constitution. By Charles Wheeler Pierson. (3:56)  
 Audio: https://archive.org/download/synapseml_gutenberg_our_changing_constitution_by_charles_w_p/our_changing_constitution_by_charles_w_p.mp3  
@@ -2493,7 +2493,7 @@ Google Books Summary: https://books.google.com/books/about/Our_Changing_Constitu
 </details>
 
 
-<details><summary>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
+<details><summary><a name="pagan_n_christian_creeds_their_origin_and_meaning_edward_carpenter"></a>Pagan & Christian Creeds: Their Origin and Meaning. By Edward Carpenter, 1921</summary>
 
 ### Pagan & Christian Creeds: Their Origin and Meaning  (10:42)  
 https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/  
@@ -2510,7 +2510,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>Pierre Curie. By Marie Curie.  1923 </summary>
+<details><summary><a name="pierre_curie_marie_curie"></a>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
 https://librivox.org/pierre-curie-by-marie-curie/  
@@ -2539,7 +2539,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>Poverty, by America. By Matthew Desmond. 2023 </summary>
+<details><summary><a name="poverty_by_america_matthew_desmond"></a>Poverty, by America. By Matthew Desmond. 2023 </summary>
 
 ### Poverty, by America. (6:00)  
 Audio: https://www.overdrive.com/media/9090325/poverty-by-america  
@@ -2559,7 +2559,7 @@ Review by [Jennifer Ludden](): [https://www.npr.org/...poverty-by-america-book-r
 </details>
 
 
-<details><summary>The Prefect. By Alastair Reynolds. 2011</summary>
+<details><summary><a name="the_prefect_alastair_reynolds"></a>The Prefect. By Alastair Reynolds. 2011</summary>
 
 ### The Prefect. (20:00)  
 Audio: https://www.overdrive.com/media/1556214/the-prefect  
@@ -2567,6 +2567,7 @@ Ebook: https://www.overdrive.com/media/613444/the-prefect
 By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 -  )  
 
 Reader Notes: This is book 7 in the [Revelation Series](https://www.overdrive.com/series/revelation-space), but my first exposure to this collection.  It stands-alone well and I didn't have the urge to stop and read the prior volumes.  It is, in part, a story about a set of highly *small-d* democratic, yet diverse utopian societies 400 years in the future (?) being attacked for the stated purpose of imposing a strict authoritarian *government* (*or simply, as has happened with authoritarian leaders throughout history, taking over simply for their personal security, pleasure and longevity*).  It has been [described as](https://www.publishersweekly.com/9780441015917) "hybrid of [space opera](https://en.wikipedia.org/wiki/Space_opera), [police procedural](https://en.wikipedia.org/wiki/Police_procedural) and [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study)," and I agree.  The story follows Tom Dreyfus, law enforcement officer as he is repeatedly confronted with challenges to his sense of commitment to the rule of law, to the democracy he is sworn to protect, and to his relationships with peers in law enforcement.  There is a lot more to this story, but it is worth reading/listening to simply for the inner and outer dialog of officer Tom Dreyfus.  This is also science fiction and includes industrial human slaughter in an environment composed of an interesting range of future space habitats, modes of computing, medicine, communication, of transportation and much more.  
+
 Publisher Summary:  
 >Tom Dreyfus is a Prefect, a law enforcement officer with the Panoply. His beat is the multifaceted utopian society of the Glitter Band, that vast swirl of space habitats orbiting the planet Yellowstone, the teeming hub of a human interstellar empire spanning many worlds. His current case: investigating a murderous attack against one of the habitats that left 900 people dead, a crime that appalls even a hardened cop like Dreyfus. But then his investigation uncovers something far more serious than mass slaughter -- a covert plot by an enigmatic entity who seeks nothing less than total control of the Glitter Band. Before long, the Panoply detectives are fighting against something worse than tyranny, in a struggle that will lead to more devastation and more death. And Dreyfus will discover that to save what is precious, you may have to destroy it.  
 
@@ -2588,7 +2589,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
+<details><summary><a name="prequel_an_american_fight_against_fascism_rachel_maddow"></a>Prequel -- An American Fight Against Fascism. By Rachel Maddow. 2023 </summary>
 
 ### Prequel -- An American Fight Against Fascism. (13:00)  
 Audio: https://www.overdrive.com/media/9893186/prequel  
@@ -2605,7 +2606,7 @@ A fairly hostile and opinionated review by [Brandan P. Buck](https://brandanpbuc
 </details>
 
 
-<details><summary>The President is Missing.  2018 </summary>
+<details><summary><a name="the_president_is_missing"></a>The President is Missing. By Bill Clinton and James Paterson. 2018 </summary>
 
 ### The President is Missing.  (13:00)  
 https://www.overdrive.com/media/3603621/the-president-is-missing  
@@ -2651,7 +2652,7 @@ Review by [Megumi Chou](https://uk.linkedin.com/in/megumi-chou-256581176): [http
 </details>
 
 
-<details><summary>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
+<details><summary><a name="raven_rock_garrett_m_graff"></a>Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself. By Garrett M. Graff. 2017 </summary>
 
 ### Raven Rock --  The Story of the U.S. Government's Secret Plan to Save Itself (18:00)  
 Audio: https://www.overdrive.com/media/3081680/raven-rock  
@@ -2666,7 +2667,7 @@ Reading Notes: Somebody, somewhere in government will remain available to *fight
 </details>
 
 
-<details><summary>Rebecca. By Daphne du Maurier.  1938 </summary>
+<details><summary><a name="rebecca_daphne_du_maurier"></a>Rebecca. By Daphne du Maurier.  1938 </summary>
 
 ### Rebecca.  (15:28)  
 Audio: https://www.overdrive.com/media/1979697/rebecca  
@@ -2680,7 +2681,7 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)
 </details>
 
 
-<details><summary>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
+<details><summary><a name="red_winter_by_marc_cameron"></a>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
 https://www.overdrive.com/media/8822188/red-winter  
@@ -2694,7 +2695,7 @@ Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikiped
 </details>
 
 
-<details><summary>Remote Control. By Nnedi Okorafor.  2021 </summary>
+<details><summary><a name="remote_control_by_nnedi_okorafor"></a>Remote Control. By Nnedi Okorafor.  2021 </summary>
 
 ### Remote Control (4:07)  
 [https://www.overdrive.com/media/5431603/remote-control](https://www.overdrive.com/media/5431603/remote-control)  
@@ -2707,7 +2708,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details><summary>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
+<details><summary><a name="rise_to_rebellion_jeff_shaara"></a>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
 
 ### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
 Audio: https://www.overdrive.com/media/5273720/rise-to-rebellion  
@@ -2737,7 +2738,7 @@ Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot
 </details>
 
 
-<details><summary>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
+<details><summary><a name="saint_joan_preface_by_george_bernard_shaw"></a>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
 https://librivox.org/saint-joan-preface-by-george-bernard-shaw/  
@@ -3073,7 +3074,28 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details><summary><a name="the_terraformers"></a>The Terraformers. By Annalee Newitz. 2023</summary>
+<details>
+<summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
+
+### Termination Shock. (23:00) (720 pages)  
+Audio: https://www.overdrive.com/media/6270840/termination-shock  
+eBook: https://www.overdrive.com/media/6071337/termination-shock  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+
+Reading Notes: We should all read this book.  It is not Kim Stanley Robinson's *World Government*/*World Management* approach to (*finally*) dealing with the effects and causes of climate change.  Neal Stephenson builds a near-future world where entrepreneur's and *the super rich* act before governments find the will to do so. That results in governments acting in their sometimes immediate and sometimes strategic interests spanning a continuum from active cooperation to pointed overwhelming violence (central actors in that thread are China and India). From [stick-fighting](https://en.wikipedia.org/wiki/Stick-fighting) (*more specifically, [Gatka](https://en.wikipedia.org/wiki/Gatka)*) in the [Himalayas](https://en.wikipedia.org/wiki/Himalayas) (see: [LAC](https://en.wikipedia.org/wiki/Line_of_Actual_Control)), to geoengineering projects in West Texas, the Mediterranean and New Guinea, to tsunami attacks on the Netherlands and Great Britian, Stephenson knits an engaging story that develops characters, science & technology, top tier political action and one path to climate action.  
+
+Some characters:  Frederika Mathilde Louisa Saskia (Queen of the Netherlands), Rufus "Red" Grant (ex-soldier, Black-White-Mexican-Osage-Comanche), T.R. Schmidt/"McHooligan" (Texas billionaire), Deep "Laks" Singh (young [Punjabi Canadian](https://en.wikipedia.org/wiki/Punjabi_Canadians) [Sikh](https://en.wikipedia.org/wiki/Sikh)), 
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Termination_Shock_(novel)  
+
+Review by [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad): [https://www.nytimes.com/...neal-stephenson-termination-shock.html](https://www.nytimes.com/2021/11/16/books/review/neal-stephenson-termination-shock.html)  
+Review by [by Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): [https://www.washingtonpost.com/...neal-stephenson-termination-shock-review...](https://www.washingtonpost.com/entertainment/books/neal-stephenson-termination-shock-review/2021/11/22/967cb7bc-4bcb-11ec-b0b0-766bbbe79347_story.html)  
+Review by [Peter Suderman](https://reason.org/author/peter-suderman/): [https://reason.com/...neal-stephensons-termination-shock...](https://reason.com/2021/11/16/neal-stephensons-termination-shock-is-a-glorious-sci-fi-vision-of-how-to-respond-to-global-warming-one-geoengineering-problem-at-a-time/)  
+
+</details>
+
+
+<details><summary><a name="the_terraformers_annalee_newitz"></a>The Terraformers. By Annalee Newitz. 2023</summary>
 
 ### The Terraformers. (13:18)  
 Audio: https://www.overdrive.com/media/8916828/the-terraformers  
@@ -3148,7 +3170,7 @@ Learn more about the story in the [Librivox Summary](https://librivox.org/a-town
 </details>
 
 
-<details><summary><a name="translation_state"></a>Translation State. By Ann Leckie. 2023 </summary>
+<details><summary><a name="translation_state_ann_leckie"></a>Translation State. By Ann Leckie. 2023 </summary>
 
 ### Translation State.  (12:00)  
 Audio: https://www.overdrive.com/media/9267960/translation-state  
@@ -3162,7 +3184,7 @@ Review on GoodReads: https://www.goodreads.com/book/show/62873999-translation-st
 </details>
 
 
-<details><summary><a name="trick_of_the_light"></a>Trick of the Light.  By Louise Penny. 2011 </summary>
+<details><summary><a name="trick_of_the_light_louise_penny"></a>Trick of the Light.  By Louise Penny. 2011 </summary>
 
 ### A Trick of the Light. (9:00)  
 https://www.overdrive.com/media/628804/a-trick-of-the-light  
@@ -3420,27 +3442,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
-
-### Termination Shock. (23:00) (720 pages)  
-Audio: https://www.overdrive.com/media/6270840/termination-shock  
-eBook: https://www.overdrive.com/media/6071337/termination-shock  
-By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
-
-Reading Notes: We should all read this book.  It is not Kim Stanley Robinson's *World Government*/*World Management* approach to (*finally*) dealing with the effects and causes of climate change.  Neal Stephenson builds a near-future world where entrepreneur's and *the super rich* act before governments find the will to do so. That results in governments acting in their sometimes immediate and sometimes strategic interests spanning a continuum from active cooperation to pointed overwhelming violence (central actors in that thread are China and India). From [stick-fighting](https://en.wikipedia.org/wiki/Stick-fighting) (*more specifically, [Gatka](https://en.wikipedia.org/wiki/Gatka)*) in the [Himalayas](https://en.wikipedia.org/wiki/Himalayas) (see: [LAC](https://en.wikipedia.org/wiki/Line_of_Actual_Control)), to geoengineering projects in West Texas, the Mediterranean and New Guinea, to tsunami attacks on the Netherlands and Great Britian, Stephenson knits an engaging story that develops characters, science & technology, top tier political action and one path to climate action.  
-
-Some characters:  Frederika Mathilde Louisa Saskia (Queen of the Netherlands), Rufus "Red" Grant (ex-soldier, Black-White-Mexican-Osage-Comanche), T.R. Schmidt/"McHooligan" (Texas billionaire), Deep "Laks" Singh (young [Punjabi Canadian](https://en.wikipedia.org/wiki/Punjabi_Canadians) [Sikh](https://en.wikipedia.org/wiki/Sikh)), 
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Termination_Shock_(novel)  
-
-Review by [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad): [https://www.nytimes.com/...neal-stephenson-termination-shock.html](https://www.nytimes.com/2021/11/16/books/review/neal-stephenson-termination-shock.html)  
-Review by [by Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): [https://www.washingtonpost.com/...neal-stephenson-termination-shock-review...](https://www.washingtonpost.com/entertainment/books/neal-stephenson-termination-shock-review/2021/11/22/967cb7bc-4bcb-11ec-b0b0-766bbbe79347_story.html)  
-Review by [Peter Suderman](https://reason.org/author/peter-suderman/): [https://reason.com/...neal-stephensons-termination-shock...](https://reason.com/2021/11/16/neal-stephensons-termination-shock-is-a-glorious-sci-fi-vision-of-how-to-respond-to-global-warming-one-geoengineering-problem-at-a-time/)  
-
-</details>
 
  
 
