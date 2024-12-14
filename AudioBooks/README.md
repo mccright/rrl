@@ -3438,6 +3438,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Termination_Shock_(novel)
 
 Review by [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad): [https://www.nytimes.com/...neal-stephenson-termination-shock.html](https://www.nytimes.com/2021/11/16/books/review/neal-stephenson-termination-shock.html)  
 Review by [by Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): [https://www.washingtonpost.com/...neal-stephenson-termination-shock-review...](https://www.washingtonpost.com/entertainment/books/neal-stephenson-termination-shock-review/2021/11/22/967cb7bc-4bcb-11ec-b0b0-766bbbe79347_story.html)  
+Review by [Peter Suderman](https://reason.org/author/peter-suderman/): [https://reason.com/...neal-stephensons-termination-shock...](https://reason.com/2021/11/16/neal-stephensons-termination-shock-is-a-glorious-sci-fi-vision-of-how-to-respond-to-global-warming-one-geoengineering-problem-at-a-time/)  
 
 </details>
 
