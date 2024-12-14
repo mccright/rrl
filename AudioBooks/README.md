@@ -3420,6 +3420,27 @@ Reading Notes:
 
 </details>
 
+
+
+<details>
+<summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
+
+### Termination Shock. (23:00) (720 pages)  
+Audio: https://www.overdrive.com/media/6270840/termination-shock  
+eBook: https://www.overdrive.com/media/6071337/termination-shock  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+
+Reading Notes: We should all read this book.  It is not Kim Stanley Robinson's *World Government*/*World Management* approach to (*finally*) dealing with the effects and causes of climate change.  Neal Stephenson builds a near-future world where entrepreneur's and *the super rich* act before governments find the will to do so. That results in governments acting in their sometimes immediate and sometimes strategic interests spanning a continuum from active cooperation to pointed overwhelming violence (central actors in that thread are China and India). From [stick-fighting](https://en.wikipedia.org/wiki/Stick-fighting) (*more specifically, [Gatka](https://en.wikipedia.org/wiki/Gatka)*) in the [Himalayas](https://en.wikipedia.org/wiki/Himalayas) (see: [LAC](https://en.wikipedia.org/wiki/Line_of_Actual_Control)), to geoengineering projects in West Texas, the Mediterranean and New Guinea, to tsunami attacks on the Netherlands and Great Britian, Stephenson knits an engaging story that develops characters, science & technology, top tier political action and one path to climate action.  
+
+Some characters:  Frederika Mathilde Louisa Saskia (Queen of the Netherlands), Rufus "Red" Grant (ex-soldier, Black-White-Mexican-Osage-Comanche), T.R. Schmidt/"McHooligan" (Texas billionaire), Deep "Laks" Singh (young [Punjabi Canadian](https://en.wikipedia.org/wiki/Punjabi_Canadians) [Sikh](https://en.wikipedia.org/wiki/Sikh)), 
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Termination_Shock_(novel)  
+
+Review by [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad): [https://www.nytimes.com/...neal-stephenson-termination-shock.html](https://www.nytimes.com/2021/11/16/books/review/neal-stephenson-termination-shock.html)  
+Review by [by Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): [https://www.washingtonpost.com/...neal-stephenson-termination-shock-review...](https://www.washingtonpost.com/entertainment/books/neal-stephenson-termination-shock-review/2021/11/22/967cb7bc-4bcb-11ec-b0b0-766bbbe79347_story.html)  
+
+</details>
+
  
 
 
