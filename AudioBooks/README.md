@@ -2234,7 +2234,7 @@ Kirkus Reviews Summary: [https://www.kirkusreviews.com/book-reviews/julia-seales
 </details>
 
 
-<details><summary>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
+<details><summary><a name="the_mountain_in_the_sea_by_ray_nayler"></a>The Mountain in the Sea. By Ray Nayler. 2022  </summary>
 
 ### The Mountain in the Sea.  
 Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea  
@@ -2258,6 +2258,19 @@ A review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)):
 Review of the audio book by [Marlene Harris](https://www.readingreality.net/about-marlene-harris/): https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/  
 Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2022/11/gary-k-wolfe-reviews-the-mountain-in-the-sea-by-ray-nayler/  
 A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-mountain-in-the-sea-by-ray-nayler-e3911ca111ce  
+
+</details>
+
+
+<details><summary><a name="the_municipalists_by_seth_fried"></a>The Municipalists. By Seth Fried. 2019 </summary>
+
+### The Municipalists. (7:00)  
+Audio: https://www.overdrive.com/media/4197541/the-municipalists  
+eBook: https://www.overdrive.com/media/4146671/the-municipalists  
+By [Seth Fried](https://www.sethfried.com/#h.oyqbc23u7xa8)  ( – )  
+
+Reading Notes: Sam Lipsyte, author of THE ASK [wrote a recommendation](https://www.sethfried.com/#h.f0dcdgy9ymt) that matches my feelings about this book -- as says it much more effectively than could I:  
+>"A thinking person’s comic thriller, The Municipalists is a joy ride and a meditation both. Seth Fried is the consummate urban planner of a novelist, providing us with exciting thoroughfares of action as well as quiet gardens of feeling. And the story stars, among other characters, a drunk and vain (but ultimately loveable) computer. What else could a fiction dweller ask for? A wonderful debut novel."  
 
 </details>
 
@@ -3441,7 +3454,6 @@ By []()  ( – )
 Reading Notes:  
 
 </details>
-
 
  
 
