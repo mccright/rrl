@@ -2267,7 +2267,7 @@ A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-moun
 ### The Municipalists. (7:00)  
 Audio: https://www.overdrive.com/media/4197541/the-municipalists  
 eBook: https://www.overdrive.com/media/4146671/the-municipalists  
-By [Seth Fried](https://www.sethfried.com/#h.oyqbc23u7xa8)  ( – )  
+By [Seth Fried](https://www.sethfried.com/#h.oyqbc23u7xa8) and [here](https://www.writingclasses.com/faculty/profile/seth-fried)  ( – )  
 
 Reading Notes: Sam Lipsyte, author of THE ASK [wrote a recommendation](https://www.sethfried.com/#h.f0dcdgy9ymt) that matches my feelings about this book -- as says it much more effectively than could I:  
 >"A thinking person’s comic thriller, The Municipalists is a joy ride and a meditation both. Seth Fried is the consummate urban planner of a novelist, providing us with exciting thoroughfares of action as well as quiet gardens of feeling. And the story stars, among other characters, a drunk and vain (but ultimately loveable) computer. What else could a fiction dweller ask for? A wonderful debut novel."  
