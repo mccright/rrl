@@ -2272,6 +2272,9 @@ By [Seth Fried](https://www.sethfried.com/#h.oyqbc23u7xa8) and [here](https://ww
 Reading Notes: Sam Lipsyte, author of THE ASK [wrote a recommendation](https://www.sethfried.com/#h.f0dcdgy9ymt) that matches my feelings about this book -- as says it much more effectively than could I:  
 >"A thinking person’s comic thriller, The Municipalists is a joy ride and a meditation both. Seth Fried is the consummate urban planner of a novelist, providing us with exciting thoroughfares of action as well as quiet gardens of feeling. And the story stars, among other characters, a drunk and vain (but ultimately loveable) computer. What else could a fiction dweller ask for? A wonderful debut novel."  
 
+OverDrive Summary: https://www.overdrive.com/media/4197541/the-municipalists  
+
+
 </details>
 
 
