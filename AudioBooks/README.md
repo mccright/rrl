@@ -2312,6 +2312,22 @@ Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artif
 </details>
 
 
+<details><summary><a name="murderbot_rogue_protocol"></a>#3 of The Murderbot Diaries --Rogue Protocol. By Martha Wells. 2018 </summary>
+
+### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
+Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
+eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who decides to find evidence of illegal activity by GrayCris Corp.  Finds his way to an out-of-the-way, failing "terraforming" operation and then (*as a way to advance his own investigation*) chooses to protect a group of workers tasked with determining the current status of the technology that supported the defunct operations.  In the process, he becomes the friend of another sentient robot, Miki.  Murderbot repeatedly faces choices that involve commitments to others that conflict with the desire to achieve individual goals or for simple "comfort." The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
+[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
+
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -2734,22 +2750,6 @@ By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )
 Reading Notes: This long book is probably not for everyone...  It covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
-
-</details>
-
-
-<details><summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
-
-### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
-Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
-eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who decides to find evidence of illegal activity by GrayCris Corp.  Finds his way to an out-of-the-way, failing "terraforming" operation and then (*as a way to advance his own investigation*) chooses to protect a group of workers tasked with determining the current status of the technology that supported the defunct operations.  In the process, he becomes the friend of another sentient robot, Miki.  Murderbot repeatedly faces choices that involve commitments to others that conflict with the desire to achieve individual goals or for simple "comfort." The OverDrive summary below covers the rest.  
-
-Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
-Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
-[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
 
 </details>
 
