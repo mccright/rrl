@@ -2542,6 +2542,22 @@ Summary from Librivox:
 </details>
 
 
+<details><summary><a name="paris_in_ruins_by_sebastian_smee"></a>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
+
+### Paris in Ruins -- Love, War, and the Birth of Impressionism. (:)  
+Audio: https://www.overdrive.com/media/11170682/paris-in-ruins  
+eBook: https://www.overdrive.com/media/10480325/paris-in-ruins  
+By [Sebastian Smee](https://en.wikipedia.org/wiki/Sebastian_Smee)  ( – )  
+
+Reading Notes: This story invests much of its narrative effort into examining impacts of the [Franco-Prussian war](https://en.wikipedia.org/wiki/Franco-Prussian_War) (July 1870-January 1871) and the turmoil that followed on [Édouard Manet](https://en.wikipedia.org/wiki/%C3%89douard_Manet), [Berthe Morisot](https://en.wikipedia.org/wiki/Berthe_Morisot) and [Edgar Degas](https://en.wikipedia.org/wiki/Edgar_Degas) who stayed in Paris as most other early impressionists fled to safer locations.  
+
+Review by [Terry W. Hartle](): [https://www.csmonitor.com/...paris-in-ruins...](https://www.csmonitor.com/Books/Book-Reviews/2024/1008/paris-in-ruins-impressionism-sebastian-smee)  
+Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey): [https://www.nytimes.com/...paris-in-ruins...](https://www.nytimes.com/2024/09/13/books/review/paris-in-ruins-sebastian-smee.html)  
+Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
+ 
+</details>
+
+
 <details><summary><a name="pierre_curie_marie_curie"></a>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -3506,23 +3522,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)
 Librivox Summary:  
 >Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
 
-</details>
-
-
-<details>
-<summary>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
-
-### Paris in Ruins -- Love, War, and the Birth of Impressionism. (:)  
-Audio: https://www.overdrive.com/media/11170682/paris-in-ruins  
-eBook: https://www.overdrive.com/media/10480325/paris-in-ruins  
-By [Sebastian Smee](https://en.wikipedia.org/wiki/Sebastian_Smee)  ( – )  
-
-Reading Notes: This story invests much of its narrative effort into examining impacts of the [Franco-Prussian war](https://en.wikipedia.org/wiki/Franco-Prussian_War) (July 1870-January 1871) and the turmoil that followed on [Édouard Manet](https://en.wikipedia.org/wiki/%C3%89douard_Manet), [Berthe Morisot](https://en.wikipedia.org/wiki/Berthe_Morisot) and [Edgar Degas](https://en.wikipedia.org/wiki/Edgar_Degas) who stayed in Paris as most other early impressionists fled to safer locations.  
-
-Review by [Terry W. Hartle](): [https://www.csmonitor.com/...paris-in-ruins...](https://www.csmonitor.com/Books/Book-Reviews/2024/1008/paris-in-ruins-impressionism-sebastian-smee)  
-Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey): [https://www.nytimes.com/...paris-in-ruins...](https://www.nytimes.com/2024/09/13/books/review/paris-in-ruins-sebastian-smee.html)  
-Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
- 
 </details>
 
 
