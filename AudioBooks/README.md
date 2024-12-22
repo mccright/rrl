@@ -2165,6 +2165,22 @@ Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed t
 </details>
 
 
+<details><summary><a name="the_matter_of_everything_by_suzie_sheehy"></a>The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World. By Suzie Sheehy. 2023 </summary>
+
+### The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World.  
+Audio: https://www.overdrive.com/media/8957224/the-matter-of-everything  
+eBook: https://www.overdrive.com/media/8916696/the-matter-of-everything  
+By [Suzie Sheehy](https://findanexpert.unimelb.edu.au/profile/99747-suzie-sheehy) or [Wikipedia](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
+
+Reading Notes: Also titled: "The Matter of Everything -- Twelve Experiments That Changed Our World."  This is *popular science* at its best!  This book *outlines* a lot about the practice of particle/high-energy/accelerator physics experiments in the last ~125 years as a way to explain how we know what we know about the working of our world and how knowledge gained along the way has tranformed our world.  And she does so in a way that is understandable, even exciting, to someone who has never had first-hand involvement in real science of any kind.  Sheehy emphasises importance of asking *good*/the right questions, seeking and nurturing collaboration (...a necessity as the scale and scope of high-energy physics experiments required enormous and extended funding as well as increasingly diverse skillsets), nurturing *pure* science (...partly because the process so often results in unexpected material benefits).  She also highlights some of the individuals (*often women*) whose contributions were too often overlooked by their contemporaries and by professional historians.  I listened to the audio book.  Dr. Sheehy is the narrator and her obvious interest and excitement about this topic is a huge asset in the presentation of this already pretty exciting story (*I can imagine her being an excellent teacher/collaborator*).  See the reviews below for more information about this fantastic book.  
+
+Author's Summary: https://www.suziesheehy.com/book  
+Review by Michael Janezic: [https://openlettersreview.com/posts/the-matter-of-everything...](https://openlettersreview.com/posts/the-matter-of-everything-by-suzie-sheehy)  
+Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/...the-matter-of-everything...](https://www.newscientist.com/article/mg25433840-400-the-matter-of-everything-review-a-pacy-look-at-20th-century-physics/)  
+
+</details>
+
+
 <details><summary>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
 
 ### The Mimicking of Known Successes. (4:27)  
@@ -2544,7 +2560,7 @@ Summary from Librivox:
 
 <details><summary><a name="paris_in_ruins_by_sebastian_smee"></a>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
 
-### Paris in Ruins -- Love, War, and the Birth of Impressionism. (:)  
+### Paris in Ruins -- Love, War, and the Birth of Impressionism. (12:00)  
 Audio: https://www.overdrive.com/media/11170682/paris-in-ruins  
 eBook: https://www.overdrive.com/media/10480325/paris-in-ruins  
 By [Sebastian Smee](https://en.wikipedia.org/wiki/Sebastian_Smee)  ( – )  
@@ -3533,29 +3549,11 @@ Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/
 eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
 By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
 
-Reading Notes:  
+Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
 
 Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
 
 </details>
-
-
-<details>
-<summary>The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World. By Suzie Sheehy. 2023 </summary>
-
-### The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World.  
-Audio: https://www.overdrive.com/media/8957224/the-matter-of-everything  
-eBook: https://www.overdrive.com/media/8916696/the-matter-of-everything  
-By [Suzie Sheehy](https://findanexpert.unimelb.edu.au/profile/99747-suzie-sheehy) or [Wikipedia](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
-
-Reading Notes: Also titled: "The Matter of Everything -- Twelve Experiments That Changed Our World."  This is *popular science* at its best!  This book *outlines* a lot about the practice of particle/high-energy/accelerator physics experiments in the last ~125 years as a way to explain how we know what we know about the working of our world and how knowledge gained along the way has tranformed our world.  And she does so in a way that is understandable, even exciting, to someone who has never had first-hand involvement in real science of any kind.  Sheehy emphasises importance of asking *good*/the right questions, seeking and nurturing collaboration (...a necessity as the scale and scope of high-energy physics experiments required enormous and extended funding as well as increasingly diverse skillsets), nurturing *pure* science (...partly because the process so often results in unexpected material benefits).  She also highlights some of the individuals (*often women*) whose contributions were too often overlooked by their contemporaries and by professional historians.  I listened to the audio book.  Dr. Sheehy is the narrator and her obvious interest and excitement about this topic is a huge asset in the presentation of this already pretty exciting story (*I can imagine her being an excellent teacher/collaborator*).  See the reviews below for more information about this fantastic book.  
-
-Author's Summary: https://www.suziesheehy.com/book  
-Review by Michael Janezic: [https://openlettersreview.com/posts/the-matter-of-everything...](https://openlettersreview.com/posts/the-matter-of-everything-by-suzie-sheehy)  
-Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/...the-matter-of-everything...](https://www.newscientist.com/article/mg25433840-400-the-matter-of-everything-review-a-pacy-look-at-20th-century-physics/)  
-
-</details>
-
 
 
 <details>
