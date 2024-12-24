@@ -2165,6 +2165,22 @@ Overdrive Summary: Cast out of the royal court by Eleanor of Aquitaine, deemed t
 </details>
 
 
+<details><summary><a name="the_matter_of_everything_by_suzie_sheehy"></a>The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World. By Suzie Sheehy. 2023 </summary>
+
+### The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World.  
+Audio: https://www.overdrive.com/media/8957224/the-matter-of-everything  
+eBook: https://www.overdrive.com/media/8916696/the-matter-of-everything  
+By [Suzie Sheehy](https://findanexpert.unimelb.edu.au/profile/99747-suzie-sheehy) or [Wikipedia](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
+
+Reading Notes: Also titled: "The Matter of Everything -- Twelve Experiments That Changed Our World."  This is *popular science* at its best!  This book *outlines* a lot about the practice of particle/high-energy/accelerator physics experiments in the last ~125 years as a way to explain how we know what we know about the working of our world and how knowledge gained along the way has tranformed our world.  And she does so in a way that is understandable, even exciting, to someone who has never had first-hand involvement in real science of any kind.  Sheehy emphasises importance of asking *good*/the right questions, seeking and nurturing collaboration (...a necessity as the scale and scope of high-energy physics experiments required enormous and extended funding as well as increasingly diverse skillsets), nurturing *pure* science (...partly because the process so often results in unexpected material benefits).  She also highlights some of the individuals (*often women*) whose contributions were too often overlooked by their contemporaries and by professional historians.  I listened to the audio book.  Dr. Sheehy is the narrator and her obvious interest and excitement about this topic is a huge asset in the presentation of this already pretty exciting story (*I can imagine her being an excellent teacher/collaborator*).  See the reviews below for more information about this fantastic book.  
+
+Author's Summary: https://www.suziesheehy.com/book  
+Review by Michael Janezic: [https://openlettersreview.com/posts/the-matter-of-everything...](https://openlettersreview.com/posts/the-matter-of-everything-by-suzie-sheehy)  
+Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/...the-matter-of-everything...](https://www.newscientist.com/article/mg25433840-400-the-matter-of-everything-review-a-pacy-look-at-20th-century-physics/)  
+
+</details>
+
+
 <details><summary>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
 
 ### The Mimicking of Known Successes. (4:27)  
@@ -2309,6 +2325,22 @@ Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki
 >The follow-up to the hugely popular science fiction action-adventure All Systems Red, Artificial Condition continues The Murderbot Diaries, a science fiction series that tackles questions of the ethics of sentient robotics. It appeals to fans of Westworld, Ex Machina, Ann Leckie's Imperial Raadch series, or Iain M. Banks' Culture novels. The main character is a deadly security droid that has bucked its restrictive programming and is balanced between contemplative self-discovery and an idle instinct to kill all humans. "As a heartless killing machine, I was a complete failure." It has a dark past-one in which a number of humans were killed. A past that caused it to christen itself "Murderbot." But it has only vague memories of the massacre that spawned that title, and it wants to know more. Teaming up with a Research Transport vessel named ART (you don't want to know what the "A" stands for), Murderbot heads to the mining facility where it went rogue. What it discovers will forever change the way it thinks.  
 
 Review by [Liz Bourke]():  https://locusmag.com/2018/04/liz-bourke-reviews-artificial-condition-and-rogue-protocol-by-martha-wells/  
+</details>
+
+
+<details><summary><a name="murderbot_rogue_protocol"></a>#3 of The Murderbot Diaries --Rogue Protocol. By Martha Wells. 2018 </summary>
+
+### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
+Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
+eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who decides to find evidence of illegal activity by GrayCris Corp.  Finds his way to an out-of-the-way, failing "terraforming" operation and then (*as a way to advance his own investigation*) chooses to protect a group of workers tasked with determining the current status of the technology that supported the defunct operations.  In the process, he becomes the friend of another sentient robot, Miki.  Murderbot repeatedly faces choices that involve commitments to others that conflict with the desire to achieve individual goals or for simple "comfort." The OverDrive summary below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
+[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
+
 </details>
 
 
@@ -2526,6 +2558,22 @@ Summary from Librivox:
 </details>
 
 
+<details><summary><a name="paris_in_ruins_by_sebastian_smee"></a>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
+
+### Paris in Ruins -- Love, War, and the Birth of Impressionism. (12:00)  
+Audio: https://www.overdrive.com/media/11170682/paris-in-ruins  
+eBook: https://www.overdrive.com/media/10480325/paris-in-ruins  
+By [Sebastian Smee](https://en.wikipedia.org/wiki/Sebastian_Smee)  ( – )  
+
+Reading Notes: This story invests much of its narrative effort into examining impacts of the [Franco-Prussian war](https://en.wikipedia.org/wiki/Franco-Prussian_War) (July 1870-January 1871) and the turmoil that followed on [Édouard Manet](https://en.wikipedia.org/wiki/%C3%89douard_Manet), [Berthe Morisot](https://en.wikipedia.org/wiki/Berthe_Morisot) and [Edgar Degas](https://en.wikipedia.org/wiki/Edgar_Degas) who stayed in Paris as most other early impressionists fled to safer locations.  
+
+Review by [Terry W. Hartle](): [https://www.csmonitor.com/...paris-in-ruins...](https://www.csmonitor.com/Books/Book-Reviews/2024/1008/paris-in-ruins-impressionism-sebastian-smee)  
+Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey): [https://www.nytimes.com/...paris-in-ruins...](https://www.nytimes.com/2024/09/13/books/review/paris-in-ruins-sebastian-smee.html)  
+Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
+ 
+</details>
+
+
 <details><summary><a name="pierre_curie_marie_curie"></a>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -2734,22 +2782,6 @@ By [Jeff Shaara](https://en.wikipedia.org/wiki/Jeff_Shaara)  (1952 – )
 Reading Notes: This long book is probably not for everyone...  It covers some key characters and events in the lead-up to the American Revolutionary War (1770–1776).  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rise_to_Rebellion)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion  
-
-</details>
-
-
-<details><summary><a name="murderbot_rogue_protocol"></a>Rogue Protocol -- #3 of The Murderbot Diaries. By Martha Wells. 2018 </summary>
-
-### #3 of The Murderbot Diaries -- Rogue Protocol. (3:45)  
-Audio: https://www.overdrive.com/media/4200634/rogue-protocol  
-eBook: https://www.overdrive.com/media/3462640/rogue-protocol  
-By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
-
-Reading Notes: Once again, this story is expertly told from the perspective of a fully sentient cyborg who decides to find evidence of illegal activity by GrayCris Corp.  Finds his way to an out-of-the-way, failing "terraforming" operation and then (*as a way to advance his own investigation*) chooses to protect a group of workers tasked with determining the current status of the technology that supported the defunct operations.  In the process, he becomes the friend of another sentient robot, Miki.  Murderbot repeatedly faces choices that involve commitments to others that conflict with the desire to achieve individual goals or for simple "comfort." The OverDrive summary below covers the rest.  
-
-Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
-Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot_Diaries#Rogue_Protocol_(2018)  
-[OverDrive Summary](https://www.overdrive.com/media/4200634/rogue-protocol):  
 
 </details>
 
@@ -3510,23 +3542,6 @@ Librivox Summary:
 
 
 <details>
-<summary>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
-
-### Paris in Ruins -- Love, War, and the Birth of Impressionism. (:)  
-Audio: https://www.overdrive.com/media/11170682/paris-in-ruins  
-eBook: https://www.overdrive.com/media/10480325/paris-in-ruins  
-By [Sebastian Smee](https://en.wikipedia.org/wiki/Sebastian_Smee)  ( – )  
-
-Reading Notes: This story invests much of its narrative effort into examining impacts of the [Franco-Prussian war](https://en.wikipedia.org/wiki/Franco-Prussian_War) (July 1870-January 1871) and the turmoil that followed on [Édouard Manet](https://en.wikipedia.org/wiki/%C3%89douard_Manet), [Berthe Morisot](https://en.wikipedia.org/wiki/Berthe_Morisot) and [Edgar Degas](https://en.wikipedia.org/wiki/Edgar_Degas) who stayed in Paris as most other early impressionists fled to safer locations.  
-
-Review by [Terry W. Hartle](): [https://www.csmonitor.com/...paris-in-ruins...](https://www.csmonitor.com/Books/Book-Reviews/2024/1008/paris-in-ruins-impressionism-sebastian-smee)  
-Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey): [https://www.nytimes.com/...paris-in-ruins...](https://www.nytimes.com/2024/09/13/books/review/paris-in-ruins-sebastian-smee.html)  
-Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
- 
-</details>
-
-
-<details>
 <summary>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
 
 ### An Outline History of Japan. (15:40)  
@@ -3534,29 +3549,11 @@ Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/
 eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
 By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
 
-Reading Notes:  
+Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
 
 Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
 
 </details>
-
-
-<details>
-<summary>The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World. By Suzie Sheehy. 2023 </summary>
-
-### The Matter of Everything -- How Curiosity, Physics, and Improbable Experiments Changed the World.  
-Audio: https://www.overdrive.com/media/8957224/the-matter-of-everything  
-eBook: https://www.overdrive.com/media/8916696/the-matter-of-everything  
-By [Suzie Sheehy](https://findanexpert.unimelb.edu.au/profile/99747-suzie-sheehy) or [Wikipedia](https://en.wikipedia.org/wiki/Suzie_Sheehy)  (1984 – )  
-
-Reading Notes: Also titled: "The Matter of Everything -- Twelve Experiments That Changed Our World."  This is *popular science* at its best!  This book *outlines* a lot about the practice of particle/high-energy/accelerator physics experiments in the last ~125 years as a way to explain how we know what we know about the working of our world and how knowledge gained along the way has tranformed our world.  And she does so in a way that is understandable, even exciting, to someone who has never had first-hand involvement in real science of any kind.  Sheehy emphasises importance of asking *good*/the right questions, seeking and nurturing collaboration (...a necessity as the scale and scope of high-energy physics experiments required enormous and extended funding as well as increasingly diverse skillsets), nurturing *pure* science (...partly because the process so often results in unexpected material benefits).  She also highlights some of the individuals (*often women*) whose contributions were too often overlooked by their contemporaries and by professional historians.  I listened to the audio book.  Dr. Sheehy is the narrator and her obvious interest and excitement about this topic is a huge asset in the presentation of this already pretty exciting story (*I can imagine her being an excellent teacher/collaborator*).  See the reviews below for more information about this fantastic book.  
-
-Author's Summary: https://www.suziesheehy.com/book  
-Review by Michael Janezic: [https://openlettersreview.com/posts/the-matter-of-everything...](https://openlettersreview.com/posts/the-matter-of-everything-by-suzie-sheehy)  
-Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/...the-matter-of-everything...](https://www.newscientist.com/article/mg25433840-400-the-matter-of-everything-review-a-pacy-look-at-20th-century-physics/)  
-
-</details>
-
 
 
 <details>
