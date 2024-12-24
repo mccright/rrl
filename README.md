@@ -180,6 +180,70 @@ Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www
 </details>
 
 
+<details><summary><a name="anathem_neal_stephenson"></a>Anathem. By Neal Stephenson  2008 (I strongly recommend reading this book)</summary>
+
+### Anathem.  
+eBook: https://www.overdrive.com/media/171066/anathem  
+Audio: https://www.overdrive.com/media/180366/anathem  
+https://www.nealstephenson.com/anathem.html  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+Published 2008, 937 pages.  
+
+See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
+When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
+
+<details>
+<summary>Reading Notes: </summary>
+
+This story has enormous scope, incorporating a broad spectrum of [science fiction](https://en.wikipedia.org/wiki/List_of_science_fiction_themes) and [religious](https://en.wikipedia.org/wiki/List_of_religious_ideas_in_science_fiction) themes as it builds out science, technology, religion, and secular societies across multiple worlds.  
+Some Quotes from the book:  
+>Its general import is that one should never believe a thing only because one wishes that it were true.  
+
+>They knew many things but had no idea why.  And strangely this made them more, rather than less, certain that they were right.  
+
+>"That is the kind of beauty that I was trying to get you to see," Orolo told me. "Nothing is more important than that you see and love the beauty that is right in front of you, or else you will have no defense against the ugliness that will hem you in and come at you in so many ways."  
+
+>Thousands of years ago, the work that people did had been broken down into jobs that were the same every day, in organizations where people were interchangeable parts.  All of the story had been bled out of their lives.  That was how it had to be; it was how you got a productive economy.  But it would be easy to see a will at work behind this: not exactly an evil will, but a selfish will.  The people who made this system thus were jealous, not of money and not of power but of story.  If their employees came home at day's end with interesting stories to tell, it meant something had gone wrong...  
+
+>There is no longer superposition.  No wavefunction collapse.  Just a lot of copies of me -- of my brain -- each really existing in a different parallel cosmos.  The cosmos model residing in each of those parallel brains is really, definitely in one state or another.  And they interfere with one another.  
+
+>Quantum interference -- the crosstalk among similar quantum states -- knits the different versions of your brain together.  
+
+>Hearing was worse than useless; I was sorry I'd been born with ears.  
+
+>And it happened all the time that the compromise between two perfectly rational altrnatives was something that made no sense at all.  
+
+>There is one universe, by the definition of *universe*. It is not the cosmos we see through our eyes and our telescopes -- *that* is but a single Narrative, a thread winding through a Hemm space shared by many other Narratives besides ours.  Each Narrative looks like a cosmos alone, to any consciousness that partakes of it.  
+
+>...the only way to determine the direction of time's arrow was to measure the amount of disorder in a system. The cosmos seems oblivious to time.  It only matters to us.  Consciousness is time-constituting.  We build time up out of instantaneous impressions that flow in through our sensory organs at each moment.  
+
+>We don't give our consciousness sufficient credit for its ability to take in noisy, ambiguous, contradictory givens from the senses, and sort it out... to confer *thisness* on what we perceive.  ...absolutely necessary from an evolutionary standpoint...  
+
+>The full cosmos consists of the physical stuff and consciousness.  Take away the consciouness and it's only dust; add consciousness and you get things, ideas, and time.  
+
+>"All right, already!  I get it! The Hylaean Flow brings about convergent development of consciousness-bearing systems across worldtracks!  But where is the payoff?  There's got to be more to it than this big ship roaming from cosmos to cosmos collecting sample populations and embalming them in spheres."  
+
+>I thought that I was like a man lame in one leg, who learned to move about well enough that all awareness of his disability had passed out of his mind.  And yet, when he tried to go on a journey, he kept finding himself back where he had started, since his weak leg made him go in circles.  But if he found a partner who was weak in the other leg, and the two of them set out as companions...  
+
+>Then I happened to glance down at the coffin beside my knee, and wondered... Who had given the order...  
+
+>There are certain worldtracks -- certain states of affairs -- that are only compatible with certain persons' being...absent.  
+
+>Upsight: A sudden, usually unlooked-for moment of clear understanding.  
+
+>The mystic nails a symbol to one meaning that was true for a moment but soon becomes false.  The poet, on the other hand, sees that truth *while it's true* but understands that symbols are always in flux and that their meanings are fleeting.... Anyway, my point is that guys like Flec have a weakness, almost a kind of addiction, for the mystical, as opposed to poetic, way of using their minds.  
+
+>...the evolution of our minds from bits of inanimate matter was more beautiful and more extraordinary than any of the miracles cataloged down through the ages by the religions of our world. And so he had an instinctive skepticism of any system of thought, religious or theorical, that pretended to encompass that miracle, and in so doing sought to draw limits around it.  
+
+>I was an adjunct professor, which means that I was given the most unpleasant and unrewarding teaching assignments with no opportunity for university-supported research, no job security, and no benefits.  Also the pay was terrible...  
+
+>Well, that would challenge certain assumptions about the nature of reality that I did not even know I had.  
+
+</details>
+
+</details>
+
+
 <details><summary><a name="the_andromeda_evolution_daniel_h_wilson"></a>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
@@ -454,6 +518,27 @@ By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.h
 Reading Notes:  This is an *odd,* short book, that includes the reading of representative sections of roughly 30 hymns.  I enjoyed listening to the sometimes clever and sometimes magical rhymes and word-play represented in some of the best.  
 Librivox Summary:  
 >This 1898 book is the result of a survey of 107 hymn-books. The thirty-two hymns are ranked in order of popularity. The texts in this recording are said only, not sung, along with a few explanatory notes for each hymn (some footnotes, not all, here recorded). The texts are preceded by two essays concerning hymns and their standards. Benson (1855-1930) was an American Presbyterian minister who edited several hymnals. - ([Summary by David Wales](https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/))  
+
+</details>
+
+
+<details><summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
+
+### The Big Sky.  
+Book: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  (*It seems [widely available](https://duckduckgo.com/?t=h_&q=the+big+sky+by+a.b.+guthrie+jr&ia=web) in libraries and commercially.*)  
+Audio: https://www.overdrive.com/media/1222142/the-big-sky (14:24)  
+By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
+
+Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  It begins in the 1830s about Boone Caudill, Jim Deakins, and Dick Summers.  
+After a fight with his father, *Boone* takes his unconscious father's rifle and runs away to *the West* and *the mountains*.  Boone starts his flight as a scared child, but as he overcomes numerous challenges facing him as a penniless runaway he gains confidence in himself and in his *plan* to head *West*.  Jim Deakins joins *Boone* along the road in Kentucky. In St. Louis they join a [keelboat](https://en.wikipedia.org/wiki/Keelboat) team that includes Dick Summers heading up the Missouri River -- headed West. After their keelboat meets with disaster, they stick together trapping and hunting in the mountains for years.  When Dick Summers *goes back East* as an *old man*, Boone and Jim continue together and spend time with the Blackfeet Piegan Indians. Then Boone travels back to Kentucky after receiving a letter from his mother.  Finally, Boone begins a journey West again, stopping to talk with Dick Summers, now farming in Missouri, and coming to a vague *understanding* that *The West* of his dreams is gone and his behavior has left him unmoored and without a sense of his future.  
+The story's central character Boone Caudill learns to be an expert trapper, hunter, and tracker -- *joining* nature and observing his environment with all his senses.  He is able to endure enormous suffering from long travel on horseback and on foot and camping in melting heat and sharp cold, from injury, and from lack of food.  As far as that goes, he is a classic, maybe even heroic "[mountain man](https://en.wikipedia.org/wiki/Mountain_man)."  But from many perspectives, Boone Caudill also seems like an anti-hero.  He steals a gun, steals a boat, steals horses, murders repeatedly without remorse.  He is often ill-tempered, unfriendly, even hostile.  He is inarticulate in speech and thought.  This combination often makes him a rough, sporatically dangerous, even malicious character.  
+A.B.Guthrie's writing is the hero of this story.  He drew me in and took me on repeated journeys through the mountains, plains and rivers of the 1830s American mountain West.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land and resource *theft*, the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  
+If you are interested in the topic of *mountain men* in the 19th century but want non-fiction, you might try the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), "[Eleven Years in the Rocky Mountains and Life on the Frontier](https://mccright.github.io/rrl/AudioBooks/)." By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor), 1870.  Audio: https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/ (13:39) and text: https://www.gutenberg.org/ebooks/39465  
+My copy of this book was a loan from a brother-in-law.  It was printed in 1980 and included a helpful map in the front.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
+This is the first book in a series that also includes: "The Way West." and "Fair Land, Fair Land." (*see their entries on this page*)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  
+Additional Resources: https://westernamericanliterature.com/a-b-guithre/  
 
 </details>
 
@@ -924,6 +1009,23 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
+
+### Darwin's Ghosts: In Search of the First Evolutionists.  
+https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
+By [Stott, Rebecca](https://en.wikipedia.org/wiki/Rebecca_Stott)  (1964 - ___)  
+
+Reader's Notes: From the highest level, "Darwin's Ghosts" is "[2,200-year history of Darwin's predecessors](https://en.wikipedia.org/wiki/Rebecca_Stott)" along with investigating how the work of those individuals on the origins of life influenced the arts and popular culture.  The author investigates the idea of "transmutation" [more thoroughly than did Darwin](https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review). Example... While Europe drug through the middle ages Viking long boats were invading Britain, in Basra and Bagdad, elites paid for the expansion and distribution of knwoledge...  Ninth century Abbasid empire scholar called [al-Jāḥiẓ](https://en.wikipedia.org/wiki/Al-Jahiz) was part of a corp of translators, translating earlier manuscripts while also creating new books.  al-Jāḥiẓ, "to fulfil his moral obligation to God, an obligation enjoined by the [Quran](https://en.wikipedia.org/wiki/Quran) to look closely and search for understanding," wrote about nature's interconnectedness, ecosystems and survival of the fittest in his unfinished, 7-volume book of "Living Beings"...  Stott moves on through contributions of [Aristotle](https://en.wikipedia.org/wiki/Aristotle), [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci), [Benoît de Maillet (Telliamed)](https://en.wikipedia.org/wiki/Beno%C3%AEt_de_Maillet), [Bernard Palissy](https://en.wikipedia.org/wiki/Bernard_Palissy), [Abraham Tremblay](https://en.wikipedia.org/wiki/Abraham_Trembley), [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot), [Jean-Baptiste Lamarck](https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck), [Constantine Samuel Rafinesque](https://en.wikipedia.org/wiki/Constantine_Samuel_Rafinesque), [Robert Edmond Grant](https://en.wikipedia.org/wiki/Robert_Edmond_Grant), [Robert Chambers](https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)), [Alfred Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) and more.  Many of them performed their investigations and built their arguments/explanations in the context of "governing" bodies and accompanying systems which demanded conformance with the idea that "[everything was presumed to have been created perfectly by God](https://www.bookbrowse.com/reviews/index.cfm/book_number/2721/darwins-ghosts)" -- sometimes under threat of death.  
+
+Third Party Reviews / Summaries:  
+"Darwin's Ghosts by Rebecca Stott – review." By Richard Fortey, Fri 1 Jun 2012. (accessed 2023-09-19)  [https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review](https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review)  
+https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
+>A NEW YORK TIMES NOTABLE BOOK "[An] extraordinarily wide-ranging and engaging book [about] the men who shaped the work of Charles Darwin . . . a book that enriches our understanding of how the struggle to think new thoughts is shared across time and space and people."-- The Sunday Telegraph (London) Soon after the publication of On the Origin of Species, Charles Darwin received an unsettling letter that accused him of taking credit for a theory that had already been discovered by others. Realizing his error of omission, Darwin tried to trace all of the natural philosophers who had laid the groundwork for his theory, but he found that history had already forgotten many of them. Rebecca Stott goes in search of these ghosts, telling the epic story of the discovery of evolution and natural selection from Aristotle to the ninth-century Arab writer Al-Jahiz to Leonardo da Vinci to the brilliant naturalists of the Jardin des Plantes to Alfred Wallace and Erasmus Darwin, and finally to Charles Darwin himself. Evolution was not discovered single-handedly. It was an idea that was advanced over centuries by daring individuals across the globe who had the imagination to speculate on nature's extraordinary ways--and the courage to articulate such speculations at a time when to do so was often considered heresy. Praise for Darwin's Ghosts "Absorbing . . . Stott captures the breathless excitement of an investigation on the cusp of the unknown. . . . A lively, original book."-- The New York Times Book Review "Stott's research is broad and unerring; her book is wonderful. . . . An exhilarating romp through 2,000 years of fascinating scientific history."-- Nature "Stott brings Darwin himself to life. . . . [She] writes with a novelist's flair. . . . Darwin and the 'ghosts' so richly described in Ms. Stott's enjoyable book are the descendants of Aristotle and Bacon and the ancestors of today's scientists."-- The Wall Street Journal "Riveting . . . Stott has done a wonderful job in showing just how many extraordinary people had speculated on where we came from before the great theorist dispelled all doubts."-- The Guardian (U.K.)  
+
+</details>
+
+
 <details><summary>Dead Fall. By Brad Thor. 2023 </summary>
 
 ### Dead Fall. (12:00)  
@@ -980,6 +1082,38 @@ By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918
 Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
 >"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+
+</details>
+
+
+<details><summary><a name="devil_in_the_white_city"></a>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
+
+### The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America.  
+https://www.penguinrandomhouse.com/books/98115/the-devil-in-the-white-city-by-erik-larson/  
+By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 - ), Published 2004, Vintage, 447 pages.  
+
+Reading Notes:  An interesting investigation of the 1893 Chicago World's Fair, and the serial murderer [Herman Webster Mudgett](https://en.wikipedia.org/wiki/H._H._Holmes) (a.k.a. Dr. Henry Howard Holmes or H. H. Holmes) who took advantage of those attracted to the city during its construction and run-time. See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Devil_in_the_White_City) for a more thorough review.  
+
+3rd Party Summaries:  
+https://en.wikipedia.org/wiki/The_Devil_in_the_White_City  
+https://www.nytimes.com/2003/02/10/books/books-of-the-times-add-a-serial-murderer-to-1893-chicago-s-opulent-overkill.html  
+https://www.readinggroupguides.com/reviews/the-devil-in-the-white-city/guide  
+https://www.sparknotes.com/lit/the-devil-in-the-white-city/summary/  
+
+
+</details>
+
+
+<details><summary><a name="the_diamond_age_neal_stephenson"></a>The Diamond Age or, A Young Lady's Illustrated Primer.  By Neal Stephenson  1995</summary>
+
+### The Diamond Age or, A Young Lady's Illustrated Primer  
+eBook: https://www.overdrive.com/media/36903/the-diamond-age  
+https://en.wikipedia.org/wiki/The_Diamond_Age  
+https://search.worldcat.org/formats-editions/30894530  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _)  
+Published 1995  pages 455  
+Summary:  
+..."nanotechnology made nearly anything possible, and so the cultural role in deciding what *should* be done with it had become far more important than imagining what *could* be done with it." (page 37)  This book [covers a lot of territory](https://en.wikipedia.org/wiki/The_Diamond_Age).  Written in the early 1990s, Stephenson created a world in the 3rd or 4th decade of the 21st century where nanotechnology had changed *everything* and humanity was characterized by extreme tribalism.  
 
 </details>
 
@@ -1688,6 +1822,20 @@ Review by the [BookBrowse Team](): https://www.bookbrowse.com/reviews/index.cfm/
 </details>
 
 
+<details><summary><a name="inner_game_of_tennis_timothy_gallwey"></a>The Inner Game of Tennis.  By Timothy Gallwey  1974</summary>
+
+### The Inner Game of Tennis.  
+https://archive.org/details/innergameoftenni00gall  
+By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1974  
+
+Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us too often struggle with nervousness, self doubt, and fear of failure while participating in activities we hope(d) to love and excel at. This book is about ways to strip away some (*and for some, a lot*) of that unproductive thinking while learning about the type of concentration that can support a new level of excellence. This book uses tennis as a vehicle to explore these processes, but it seems useful to those involved in any sport as well as appreciative spectators.  
+
+[Review on Gates Notes](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis):  
+>"Tennis has evolved over the years. The best players in the world today play a very different style from the champions of 50 years ago. But The Inner Game of Tennis is just as relevant today as it was in 1974. Even as the outer game has changed, the inner game has remained the same." From [Bill Gates](https://www.gatesnotes.com/Books/The-Inner-Game-of-Tennis)  
+
+</details>
+
+
 <details><summary>Inspector French and the Cheyne Mystery. 1926 </summary>
 
 ### Inspector French and the Cheyne Mystery. (8:53:55)  
@@ -2071,7 +2219,7 @@ Audio: https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau
 eBook: https://www.overdrive.com/media/4729940/the-lost-book-of-adana-moreau  
 By [Michael Zapata](https://www.michaelzapata.com/about.html), on the [Shipman Agency site](https://www.theshipmanagency.com/michael-zapata) and on [LinkedIn](https://www.linkedin.com/in/michael-zapata-0754914)  ( – )  
 
-Reading Notes:  This book is another huge winner --> you should read it.  I started this book yesterday morning and am writing this text after having finished around noon today -- it is the kind of book that quickly drew me in and kept me engaged with the characters -- and engaged with the writing itself. As this story crosses centuries and cultures I thought initially it did so via elements of what I believe is often called *[magical realism](https://en.wikipedia.org/wiki/Magic_realism)*. Zapata builds each sub-plot around a dense structure of realistic detail while injecting what at first seemed like *magical or fantastical elements.*  But the more that I thought about the details, I now believe that he just has *magical* skills -- hugging complex and diverse realities as a master story-teller and a master literary craftsman. As a reader the book seems to *argue* that the reality that our decisions result in impacts far, far beyond their immediate context.  The story incorporates themes of family, diaspora, immigration, exile, and the way we characterize cultures/societies not our own and how we treat each other first-hand, as well as ideas that support the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*).  Jason Heller's review of this book, "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)" is better than anything that I could write about this book -- see it if you want to know more.  This is my second book after listening to "[Caste](#caste_isabel_wilkerson)" by [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson) and I think her research and writing is an excellent preparation for reading Zapata's novel, which explores some of the same social territory across generations.  
+Reading Notes:  This book is another huge winner --> you should read it.  I started this book yesterday morning and am writing this text after having finished around noon today -- it is the kind of book that quickly drew me in and kept me engaged with the characters -- and engaged with the writing itself. As this story crosses centuries and cultures I thought initially it did so via elements of what I believe is often called *[magical realism](https://en.wikipedia.org/wiki/Magic_realism)*. Zapata builds each sub-plot around a dense structure of realistic detail while injecting what at first seemed like *magical or fantastical elements.*  But the more that I thought about the details, I now believe that he just has *magical* skills -- hugging complex and diverse realities as a master story-teller and a master literary craftsman. As a reader the book seems to *argue* that the reality that our decisions result in impacts far, far beyond their immediate context.  The story incorporates themes of family, diaspora, immigration, exile, and the way we characterize cultures/societies not our own and how we treat each other first-hand, as well as ideas that support the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*).  Jason Heller's review of this book, "[Multiple Universes Fill The Pages Of 'The Lost Book Of Adana Moreau'](https://www.npr.org/2020/02/05/802654221/multiple-universes-fill-the-pages-of-the-lost-book-of-adana-moreau)" is better than anything that I could write about this book -- see it if you want to know more.  This is my second book after listening to "[Caste](#caste_isabel_wilkerson)" by [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson) and I think her research and writing is an excellent preparation for reading Zapata's novel, which explores some of the same social territory across generations.  
 
 [Overdrive Summary](https://www.overdrive.com/media/4866858/the-lost-book-of-adana-moreau):  
 >In 1929 in New Orleans, a Dominican immigrant named Adana Moreau writes a science fiction novel. The novel earns rave reviews, and Adana begins a sequel. Then she falls gravely ill. Just before she dies, she destroys the only copy of the manuscript.
