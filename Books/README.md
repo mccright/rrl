@@ -171,7 +171,8 @@ Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us
 https://www.overdrive.com/media/3347264/the-myth-of-seneca-falls  
 https://uncpress.org/book/9781469633503/the-myth-of-seneca-falls/  
 By [Lisa Tetrault](https://www.cmu.edu/dietrich/history/people/faculty/tetrault.html), 2014, The University of North Carolina Press  
-Explores some of the core myth-making establishing the widely-accepted narrative of the women's suffrage movement in the U.S.  
+
+Reading notes: Explores some of the core myth-making establishing the widely-accepted narrative of the women's suffrage movement in the U.S.  
   
 </details>
 
@@ -187,7 +188,7 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
 </details>
 
 
-<details><summary>The Rose Code. By Kate Quinn  2021</summary>
+<details><summary><a name="rose_code_kate_quinn"></a>The Rose Code. By Kate Quinn  2021</summary>
 
 ### The Rose Code.  
 Audio: https://www.overdrive.com/media/5761753/the-rose-code  
@@ -195,8 +196,8 @@ Ebook: https://www.overdrive.com/media/5537221/the-rose-code
 [https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/searchresults.aspx?ctx=3.1033.0.0.3&type=Keyword&term=the%20rose%20code&by=TI&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=3)  
 https://www.katequinnauthor.com/books/the-rose-code/  
 By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
-Reading Notes:  
-This is a useful and entertaining (*fictional*) history about the WWII cryptographers (*and others*) of Bletchley Park -- the operators and mathematicians that play a material role in the history of computers and code-breaking.  
+
+Reading Notes:  This is a useful and entertaining (*fictional*) history about the WWII cryptographers (*and others*) of Bletchley Park -- the operators and mathematicians that play a material role in the history of computers and code-breaking.  
 
 </details>
 
@@ -219,7 +220,7 @@ This is an excellent story about a collection of kind people starting with a cha
 </details>
 
 
-<details><summary>Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  By Ellen Carol Dubois  2020</summary>
+<details><summary><a name="suffrage_movement_notes_ellen_carol_dubois"></a>Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  By Ellen Carol Dubois  2020</summary>
 
 ### Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  
 https://www.simonandschuster.com/books/Suffrage/Ellen-Carol-DuBois/9781501165184  
@@ -230,8 +231,7 @@ Summary:
 </details>
 
 
-<details>
-<summary><a name="the_way_west_by_a_b_guthrie"></a>The Way West. By A. B. Guthrie, Jr.  1949 </summary>
+<details><summary><a name="the_way_west_by_a_b_guthrie"></a>The Way West. By A. B. Guthrie, Jr.  1949 </summary>
 
 ### The Way West.  
 This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
@@ -270,14 +270,16 @@ A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/
 </details>
 
 
-<details><summary>The Woman's Hour -- The great Fight to Win the Vote.  By Elaine Weiss  2019</summary>
+<details><summary><a name="womans_hour_elaine_weiss"></a>The Woman's Hour -- The great Fight to Win the Vote.  By Elaine Weiss  2019</summary>
 
 ### The Woman's Hour -- The great Fight to Win the Vote.  
 Audio: https://www.overdrive.com/media/3359963/the-womans-hour  
 Ebook: https://www.overdrive.com/media/3348755/the-womans-hour  
 https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/  
 By [Elaine Weiss](https://elaineweiss.com/bio/), 2019, Penguin Random House  
-This is a close-up on Nashville and the people working there in the summer of 1920 as Tennessee becomes the final ratification of the 19th Amendment.  
+
+Reading notes: This is a close-up on Nashville and the people working there in the summer of 1920 as Tennessee becomes the final ratification of the 19th Amendment.  
+
 </details>
 
 
@@ -288,7 +290,9 @@ Audio: https://www.overdrive.com/media/1815407/the-wright-brothers
 Ebook: https://www.overdrive.com/media/2145785/the-wright-brothers  
 By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (July 7, 1933 – August 7, 2022)  
 [https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=178265)  
+
 Readers Notes:  Author David McCullough describes the unique, courageous brothers, Wilbur and Orville Wright, who did the science, engineering, and construction leading to the first powered, heavier-than-air machine to achieve controlled, sustained flight with a pilot aboard on December 17, 1903 at Kitty Hawk, North Carolina.  McCullough carries the story through the brother's *perfection* of their machine and its marketing to a sometimes flight-crazed world, their efforts to protect their patents -- all the while providing context by weaving in the brother's family life.  
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)  
 
 </details>
