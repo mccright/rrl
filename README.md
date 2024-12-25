@@ -2491,6 +2491,18 @@ Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot
 </details>
 
 
+<details><summary><a name="myth_of_seneca_falls_by_lisa_tetrault"></a>The Myth of Seneca Falls.  By Lisa Tetrault  2014</summary>
+
+### The Myth of Seneca Falls -- Memory and the Women's Suffrage Movement, 1848-1898.  
+https://www.overdrive.com/media/3347264/the-myth-of-seneca-falls  
+https://uncpress.org/book/9781469633503/the-myth-of-seneca-falls/  
+By [Lisa Tetrault](https://www.cmu.edu/dietrich/history/people/faculty/tetrault.html), 2014, The University of North Carolina Press  
+
+Reading notes: Explores some of the core myth-making establishing a widely-accepted narrative of the women's suffrage movement in the U.S.  
+  
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -2544,6 +2556,17 @@ See the Wikipedia summary.  It was worth its runtime to me.
 Librivox Summary:  
 >A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+
+
+<details><summary><a name="notorious_rbg"></a>NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg.  By Irin Carmon  2015</summary>
+
+### Notorious RBG: The Life and Times of Ruth Bader Ginsburg  
+Audio: https://www.overdrive.com/media/2396486/notorious-rbg  
+Ebook: https://www.overdrive.com/media/2122662/notorious-rbg  
+This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
+By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
 
 </details>
 
@@ -2684,6 +2707,20 @@ What Of The Future? 	.... 143
 
 Google Books Summary: https://books.google.com/books/about/Our_Changing_Constitution.html?id=-7KKEAAAQBAJ  
 >In "Our Changing Constitution," Charles W. Pierson delves into the intricate evolution of the United States Constitution amidst changing societal norms. Through a combination of legal analysis and historical context, Pierson explores how amendments and judicial interpretations have shaped the Constitution to adapt to modern challenges. The book offers a scholarly examination of landmark cases and debates that have influenced constitutional law, making it a valuable resource for legal scholars and students alike. Pierson's clear and concise writing style makes complex legal concepts accessible to readers, creating an informative and thought-provoking narrative. This book provides a comprehensive overview of the dynamic nature of constitutional law and the ongoing relevance of the Constitution in today's society. Drawing on his background as a constitutional law expert, Charles W. Pierson brings a wealth of knowledge and experience to his analysis of the evolving Constitution. His expertise in legal theory and historical precedent informs the book's insightful commentary on the interpretations and applications of constitutional principles. Pierson's passion for constitutional law shines through in his writing, making "Our Changing Constitution" a compelling and enlightening read. I highly recommend this book to anyone interested in understanding the complexities of constitutional law and its impact on contemporary legal issues.  
+
+</details>
+
+
+<details><summary><a name="an_outline_history_of_japan_herbert_henry_gowen"></a>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
+
+### An Outline History of Japan. (15:40)  
+Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
+By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
+
+Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
+
+Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
 
 </details>
 
@@ -2933,6 +2970,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion
 </details>
 
 
+<details><summary><a name="rose_code_kate_quinn"></a>The Rose Code. By Kate Quinn  2021</summary>
+
+### The Rose Code.  
+Audio: https://www.overdrive.com/media/5761753/the-rose-code  
+Ebook: https://www.overdrive.com/media/5537221/the-rose-code  
+[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/searchresults.aspx?ctx=3.1033.0.0.3&type=Keyword&term=the%20rose%20code&by=TI&sort=RELEVANCE&limit=TOM=*&query=&page=0&searchid=3)  
+https://www.katequinnauthor.com/books/the-rose-code/  
+By [Kate Quinn](https://en.wikipedia.org/wiki/Kate_Quinn).  
+
+Reading Notes:  This is a useful and entertaining (*fictional*) history about the WWII cryptographers (*and others*) of Bletchley Park -- the operators and mathematicians that play a material role in the history of computers and code-breaking.  
+
+</details>
+
+
 <details><summary><a name="saint_joan_preface_by_george_bernard_shaw"></a>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
@@ -3158,6 +3209,24 @@ Review by [Primo](https://owlcation.com/@primosaktyawansugiharto): [https://owlc
 </details>
 
 
+<details><summary><a name="still_life_sarah_winman"></a>Still Life.  By Sarah Winman 2021  </summary>
+
+### Still Life.  
+https://www.penguinrandomhouse.com/books/670069/still-life-by-sarah-winman/  
+By [Sarah Winman](https://en.wikipedia.org/wiki/Sarah_Winman) and [and interview here](https://www.abc.net.au/news/2022-08-06/sarah-winman-still-life-book-interview/101300474) (1964 - ),  G.P. Putnam's Sons, Publication date: November 2, 2021; 464 pages  
+
+Reading Notes:  
+Quote:  
+>A meager stain in the corridors of history, that's all we are. A little mark of scuff.  
+
+This is an excellent story about a collection of kind people starting with a chance meeting in 1940s wartime Italy, then a neighborhood bar in London after the war, and a neighborhood in Florence in the 1950s, 60s, and into the 70s.  *see the either or both of the reviews below...*  
+
+3rd Party Summaries:  
+[NYT Review By Lauren Fox](https://www.nytimes.com/2021/11/02/books/review/still-life-sarah-winman.html), and [Washington Post Review By Ron Charles](https://www.washingtonpost.com/entertainment/books/still-life-sarah-winman-book-review/2021/11/22/2eb81bca-4bcc-11ec-b0b0-766bbbe79347_story.html)  
+
+</details>
+
+
 <details><summary><a name="stone_blind_by_natalie_haynes"></a>Stone Blind. By Natalie Haynes. 2023 </summary>
 
 ### Stone Blind. (9:00)  
@@ -3215,6 +3284,17 @@ Reading Notes: Written as if it were authored in the late 1920s or early 1930s, 
 
 [OverDrive Summary](https://www.overdrive.com/media/6384202/the-strange) 
 
+</details>
+
+
+<details><summary><a name="suffrage_movement_notes_ellen_carol_dubois"></a>Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  By Ellen Carol Dubois  2020</summary>
+
+### Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  
+https://www.simonandschuster.com/books/Suffrage/Ellen-Carol-DuBois/9781501165184  
+By [Ellen Carol Dubois](https://ellencaroldubois.com/about/), 2020, Simon & Schuster.  
+Summary:  
+...explores 75 years of suffrage struggle, Organized into four episodes:  first, "universal suffrage" -- the vote for all U.S. citizens; second, Gilded Age expansion of suffrage support and intersections with other organizations, especially the WTCU; third, highlighting the states that were able to enfranchise four million women by 1914; and finally, the final push for the Nineteenth Amendment in 1920.  
+  
 </details>
 
 
@@ -3518,6 +3598,26 @@ Review by [Gerald Bartell](): [https://www.washingtonpost.com/...an-online-wareh
 </details>
 
 
+<details><summary><a name="the_way_west_by_a_b_guthrie"></a>The Way West. By A. B. Guthrie, Jr.  1949 </summary>
+
+### The Way West.  
+This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
+Audio: https://www.overdrive.com/media/9005495/the-way-west  
+By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
+Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-at-90-won-pulitzer-for-the-way-west.html  
+      and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
+
+Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  It begins in the 1840s and is told largely through a focus on Lije Evans and Dick Summers (who had been farming in Missouri) as they set out with a group on one of the earliest traverses of the [Oregon Trail](https://en.wikipedia.org/wiki/Oregon_Trail).  That said, Guthrie excells at building scenes and sub-plots through the eyes of others along the way.  His writing about heroic (*as well as the less-than heroic*) men and women that explored and "*settled*" the American West is an example of [Western Fiction](https://en.wikipedia.org/wiki/Western_fiction) at its best.  In their pursuit of "*free*" land in Oregon, Guthrie's characters seem less concerned about the land and resource *theft* and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century than some of central personalities of his earlier "[The Big Sky](#the_big_sky_by_a_b_guthrie)."  While he references some negative outcomes of colonization, cultural and literal genocide -- the value of indigenous peoples is generally outside the scope of his narrative.  The impacts of that colonization continue through today. He also incorporates references to slavery & derogatory terms for the enslaved.  This book may be hurtful to some.
+
+My copy of this book was a loan from a brother-in-law.  It was printed in 2002 and included three helpful maps.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
+This is the second book in a series that also includes: "The Big Sky." and "Fair Land, Fair Land." (*[see their entries on this page](#the_big_sky_by_a_b_guthrie)*)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Way_West  
+ENotes Summary: https://www.enotes.com/topics/way-west  
+
+</details>
+
+
 <details><summary><a name="weyward_emilia_hart"></a>Weyward.  By Emilia Hart. 2023</summary>
 
 ### Weyward. (11:00)  
@@ -3544,6 +3644,25 @@ Text: https://www.gutenberg.org/ebooks/25166
 By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
 
 Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/): The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
+
+</details>
+
+
+<details><summary><a name="white_lady_jacqueline_winspear"></a>The White Lady -- A British Historical Mystery. By Jacqueline Winspear. 2023 </summary>
+
+### The White Lady -- A British Historical Mystery.  
+eBook: https://www.overdrive.com/media/9080904/the-white-lady  
+Audio: https://www.overdrive.com/media/9068653/the-white-lady  
+By [Jacqueline Winspear](https://en.wikipedia.org/wiki/Jacqueline_Winspear) (1955 - )  
+Bio on her own web site: https://jacquelinewinspear.com/about/  
+Also a bio on Wikiwand: https://www.wikiwand.com/en/Jacqueline_Winspear  
+  
+Reading Notes: Set in Post WWII Britain in 1947, 40-something former spy Elinor White, veteran of two wars, faces an organized crime gang in London, exposes corruption from Scotland Yard (*and beyond, to the highest levels of government*).  As the story opens, a very private White lives in a "grace and favor" property just outside Shacklehurst, in rural Kent.  Londoners, Jim Mackie, wife Rose, and their toddler Susie move in next door -- when Jim takes a job as a farm worker.  Mackie's are trying to *escape* from their infamous London crime family, but that family has other plans...  White is drawn into conflict and the story begins...  
+
+Review by Carol Memmott in the Washington Post: https://www.washingtonpost.com/books/2023/03/16/jacqueline-winspear-white-lady/  
+Review by Laury A. Egan in the New York Journal of Books: https://www.nyjournalofbooks.com/book-review/white-lady-novel  
+2021 Interview with Jacqueline Winspear: https://crimereads.com/jacqueline-winspear-how-i-became-a-mystery-writer-while-breaking-every-rule/  
+A list of other reviews: https://bookmarks.reviews/reviews/all/the-white-lady/  
 
 </details>
 
@@ -3590,6 +3709,19 @@ Reading Notes: Laura "Lo" Blacklock, who works for a travel journal is assigned 
 </details>
 
 
+<details><summary><a name="womans_hour_elaine_weiss"></a>The Woman's Hour -- The great Fight to Win the Vote.  By Elaine Weiss  2019</summary>
+
+### The Woman's Hour -- The great Fight to Win the Vote.  
+Audio: https://www.overdrive.com/media/3359963/the-womans-hour  
+Ebook: https://www.overdrive.com/media/3348755/the-womans-hour  
+https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/  
+By [Elaine Weiss](https://elaineweiss.com/bio/), 2019, Penguin Random House  
+
+Reading notes: This is a close-up on Nashville and the people working there in the summer of 1920 as Tennessee becomes the final ratification of the 19th Amendment.  
+
+</details>
+
+
 <details><summary><a name="the_wordy_shipmates_sarah_vowell"></a>The Wordy Shipmates. By Sarah Vowell, 2008</summary>
 
 ### The Wordy Shipmates (07:15)  
@@ -3604,6 +3736,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 </details>
 
 
+<details><summary><a name="wright_brothers_david_mccullough"></a>The Wright Brothers. By David McCullough. 2015</summary>
+
+### The Wright Brothers.  
+Audio: https://www.overdrive.com/media/1815407/the-wright-brothers  
+Ebook: https://www.overdrive.com/media/2145785/the-wright-brothers  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (July 7, 1933 – August 7, 2022)  
+[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=178265)  
+
+Readers Notes:  Author David McCullough describes the unique, courageous brothers, Wilbur and Orville Wright, who did the science, engineering, and construction leading to the first powered, heavier-than-air machine to achieve controlled, sustained flight with a pilot aboard on December 17, 1903 at Kitty Hawk, North Carolina.  McCullough carries the story through the brother's *perfection* of their machine and its marketing to a sometimes flight-crazed world, their efforts to protect their patents -- all the while providing context by weaving in the brother's family life.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)  
+
+</details>
+
+
 <details><summary><a name="a_wrinkle_in_time"></a>A Wrinkle In Time. By Madeleine L'Engle 2012 (1962)</summary>
 
 ### A Wrinkle In Time. (6:00)  
@@ -3612,6 +3759,7 @@ Ebook: https://www.overdrive.com/media/703174/a-wrinkle-in-time
 By [Madeleine L'Engle](https://en.wikipedia.org/wiki/Madeleine_L%27Engle) (1918 -- 2007)  
 
 Reader Notes: This is a [young adult](https://en.wikipedia.org/wiki/Young_adult_fiction) [science fantasy](https://en.wikipedia.org/wiki/Science_fantasy) novel written in the *late 1950s*.  Four kids - Meg Murry, Charles Wallace Murry, and Calvin O'Keefe jump space and time on a galacies-long quest to find and rescue the Murrys' father.  The story explores *growing up*, *being yourself*, courage, physics, spiritual life, evil and good in a way that I think works for adults as well as the 12 to 18 crowd.  
+
 Review by Mari Ness: https://www.tor.com/2011/12/15/there-is-such-a-thing-as-a-tesseract-a-wrinkle-in-time/  
 Wikipedia Summary: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Plot_summary  
 Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Reception  
@@ -3684,21 +3832,6 @@ Reading Notes: This recording includes an excellent 40 minute history of the sto
 Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
 Librivox Summary:  
 >Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
-
-</details>
-
-
-<details>
-<summary>An Outline History of Japan. By Herbert Henry Gowen. 1927 </summary>
-
-### An Outline History of Japan. (15:40)  
-Audio: https://librivox.org/an-outline-history-of-japan-by-herbert-henry-gowen/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=wu.89096212220&view=1up&seq=7  
-By [Herbert Henry Gowen ](https://en.wikipedia.org/wiki/Herbert_Henry_Gowen) (1864 - 1960)  
-
-Reading Notes: Without much context (*from gaps in my education and experience*) I assume that I did not understand material portions of this history.  That said, it is a broad sweep of many events in Japanese history and should help provide context for my next exploration of the topic.  It was written in the 1920s and may not be a good fit for everyone because it incorporates some of the Western racism that -- for many -- characterized the time.  
-
-Librivox Summary: "A history of Japan from its origins to the early 20th century. - Summary by Kazbek"
 
 </details>
 
