@@ -90,6 +90,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="after_house_by_mary_roberts_rinehart"></a>The After House. By Mary Roberts Rinehart. 1914 </summary>
+
+### The After House.  (5:52)  
+Audio: https://librivox.org/the-after-house-by-mary-roberts-rinehart/  
+eBook: https://www.gutenberg.org/ebooks/2358  
+By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  
+
+Reading Notes: The characters are a little shallow and one-dimensional, but the story regularly moves forward with some energy -- saving it for me.  NOTE: This story was written just before WWI in the U.S. and incorporates some racist assumptions and behaviors.  As a result, here are issues of racial stereotypes, derogatory race-related terms and dehumanizing language about African American characters in the text of "The After House."  
+  
+
+Project Gutenberg [Automated Summary](https://www.gutenberg.org/ebooks/2358):  
+>"The After House" by Mary Roberts Rinehart is a mystery novel penned in the early 20th century. The story revolves around the character (Ralph) Leslie, who finds himself on a yacht named Ella shortly after recovering from a serious illness. As the narrative unfolds, readers are drawn into a web of suspense surrounding the ship and its crew, highlighting both personal ambitions and darker human emotions, culminating in a series of tragic events. At the start of the novel, Leslie introduces himself as a newly graduated medical student who, after enduring a bout of typhoid fever, is drawn to the adventurous life at sea. With a background as a deck-steward and an ambition for adventure, he is introduced to the Ella, a transformed coasting-vessel now serving as a yacht. His time on board showcases not only his interactions with the crew, including the enigmatic Miss Lee, but also hints at a brewing conflict that suggests an ominous undercurrent aboard the ship. As tensions rise, occurrences hinting at mystery and danger begin to emerge, setting the stage for a suspenseful voyage that promises intrigue and peril in equal measure.  
+
+</details>
+
+
 <details><summary><a name="age_of_elizabeth_mandell_creighton"></a>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
 
 ### The Age of Elizabeth. (07:35)  
@@ -3820,22 +3836,6 @@ By [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)  (18
 Reading Notes:  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)  
-
-</details>
-
-
-<details>
-<summary>The After House. By Mary Roberts Rinehart. 1914 </summary>
-
-### The After House.  (5:52)  
-Audio: https://librivox.org/the-after-house-by-mary-roberts-rinehart/  
-eBook: https://www.gutenberg.org/ebooks/2358  
-By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  
-
-Reading Notes:  
-
-Project Gutenberg [Automated Summary](https://www.gutenberg.org/ebooks/2358):  
->"The After House" by Mary Roberts Rinehart is a mystery novel penned in the early 20th century. The story revolves around the character (Ralph) Leslie, who finds himself on a yacht named Ella shortly after recovering from a serious illness. As the narrative unfolds, readers are drawn into a web of suspense surrounding the ship and its crew, highlighting both personal ambitions and darker human emotions, culminating in a series of tragic events. At the start of the novel, Leslie introduces himself as a newly graduated medical student who, after enduring a bout of typhoid fever, is drawn to the adventurous life at sea. With a background as a deck-steward and an ambition for adventure, he is introduced to the Ella, a transformed coasting-vessel now serving as a yacht. His time on board showcases not only his interactions with the crew, including the enigmatic Miss Lee, but also hints at a brewing conflict that suggests an ominous undercurrent aboard the ship. As tensions rise, occurrences hinting at mystery and danger begin to emerge, setting the stage for a suspenseful voyage that promises intrigue and peril in equal measure.  
 
 </details>
 
