@@ -90,6 +90,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="after_house_by_mary_roberts_rinehart"></a>The After House. By Mary Roberts Rinehart. 1914 </summary>
+
+### The After House.  (5:52)  
+Audio: https://librivox.org/the-after-house-by-mary-roberts-rinehart/  
+eBook: https://www.gutenberg.org/ebooks/2358  
+By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  
+
+Reading Notes: The characters are a little shallow and one-dimensional, but the story regularly moves forward with some energy -- saving it for me.  NOTE: This story was written just before WWI in the U.S. and incorporates some racist assumptions and behaviors.  As a result, here are issues of racial stereotypes, derogatory race-related terms and dehumanizing language about African American characters in the text of "The After House."  
+  
+
+Project Gutenberg [Automated Summary](https://www.gutenberg.org/ebooks/2358):  
+>"The After House" by Mary Roberts Rinehart is a mystery novel penned in the early 20th century. The story revolves around the character (Ralph) Leslie, who finds himself on a yacht named Ella shortly after recovering from a serious illness. As the narrative unfolds, readers are drawn into a web of suspense surrounding the ship and its crew, highlighting both personal ambitions and darker human emotions, culminating in a series of tragic events. At the start of the novel, Leslie introduces himself as a newly graduated medical student who, after enduring a bout of typhoid fever, is drawn to the adventurous life at sea. With a background as a deck-steward and an ambition for adventure, he is introduced to the Ella, a transformed coasting-vessel now serving as a yacht. His time on board showcases not only his interactions with the crew, including the enigmatic Miss Lee, but also hints at a brewing conflict that suggests an ominous undercurrent aboard the ship. As tensions rise, occurrences hinting at mystery and danger begin to emerge, setting the stage for a suspenseful voyage that promises intrigue and peril in equal measure.  
+
+</details>
+
+
 <details><summary><a name="age_of_elizabeth_mandell_creighton"></a>The Age of Elizabeth. By Mandell Creighton. 1876</summary>
 
 ### The Age of Elizabeth. (07:35)  
@@ -3110,6 +3126,27 @@ The interesting biography of William Falconer was more enjoyable than the extens
 </details>
 
 
+<details><summary><a name="sixth_extinction_elizabeth_kolbert"></a>"The Sixth Extinction -- An Unnatural History." By Elizabeth Kolbert 2014</summary>
+
+### "The Sixth Extinction -- An Unnatural History."  
+Audio: https://www.overdrive.com/media/1395942/the-sixth-extinction  
+Ebook: https://www.overdrive.com/media/1378076/the-sixth-extinction  
+By [Elizabeth Kolbert](https://en.wikipedia.org/wiki/Elizabeth_Kolbert)  (1961 - )  
+
+Reading Notes: This book examines a broad swath of history and science associated with human understanding of life (*and death*) on earth.  Its focus is on five past mass (*global scale*) extinctions plus the sixth that we are currently living within.  It is a useful resource for learning about some of the natural sciences and how some categories of scientists **do** their science.  It might help provide parts of a foundation for climate change reading.  See any of the reviews below for more about this book.  
+
+[OverDrive Summary](https://www.overdrive.com/media/1378076/the-sixth-extinction):  
+>A major book about the future of the world, blending intellectual and natural history and field reporting into a powerful account of the mass extinction unfolding before our eyes.  
+>Over the last half a billion years, there have been five mass extinctions, when the diversity of life on earth suddenly and dramatically contracted. Scientists around the world are currently monitoring the sixth extinction, predicted to be the most devastating extinction event since the asteroid impact that wiped out the dinosaurs. This time around, the cataclysm is us.  
+>In The Sixth Extinction, two-time winner of the National Magazine Award and New Yorker writer Elizabeth Kolbert draws on the work of scores of researchers in half a dozen disciplines, accompanying many of them into the field: geologists who study deep ocean cores, botanists who follow the tree line as it climbs up the Andes, marine biologists who dive off the Great Barrier Reef. She introduces us to a dozen species, some already gone, others facing extinction, including the Panamian golden frog, staghorn coral, the great auk, and the Sumatran rhino. Through these stories, Kolbert provides a moving account of the disappearances occurring all around us and traces the evolution of extinction as concept, from its first articulation by Georges Cuvier in revolutionary Paris up through the present day. The sixth extinction is likely to be mankind's most lasting legacy; as Kolbert observes, it compels us to rethink the fundamental question of what it means to be human.  
+
+Review by [Al Gore](https://en.wikipedia.org/wiki/Al_Gore): [https://www.nytimes.com/.../the-sixth-extinction-by-elizabeth-kolbert](https://www.nytimes.com/2014/02/16/books/review/the-sixth-extinction-by-elizabeth-kolbert.html?ugrp=u&unlocked_article_code=1.fk0.fmcm.GoPWPOA_9_DO&smid=url-share) 
+Review by [Robin McKie](https://en.wikipedia.org/wiki/Robin_McKie): [https://www.theguardian.com/...sixth-extinction-unnatural-history...](https://www.theguardian.com/books/2014/feb/16/sixth-extinction-unnatural-history-elizabeth-kolbert-review) 
+Review by [Lee Billings](http://leebillings.com/bio/): [https://www.scientificamerican.com/...book-review-the-sixth-extinction/](https://www.scientificamerican.com/article/book-review-the-sixth-extinction/) 
+
+</details>
+
+
 <details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
 
 ### The Small Bachelor  (6:36)  
@@ -3799,22 +3836,6 @@ By [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)  (18
 Reading Notes:  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)  
-
-</details>
-
-
-<details>
-<summary>The After House. By Mary Roberts Rinehart. 1914 </summary>
-
-### The After House.  (5:52)  
-Audio: https://librivox.org/the-after-house-by-mary-roberts-rinehart/  
-eBook: https://www.gutenberg.org/ebooks/2358  
-By [Mary Roberts Rinehart](https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart) (1876 - 1958)  
-
-Reading Notes:  
-
-Project Gutenberg [Automated Summary](https://www.gutenberg.org/ebooks/2358):  
->"The After House" by Mary Roberts Rinehart is a mystery novel penned in the early 20th century. The story revolves around the character (Ralph) Leslie, who finds himself on a yacht named Ella shortly after recovering from a serious illness. As the narrative unfolds, readers are drawn into a web of suspense surrounding the ship and its crew, highlighting both personal ambitions and darker human emotions, culminating in a series of tragic events. At the start of the novel, Leslie introduces himself as a newly graduated medical student who, after enduring a bout of typhoid fever, is drawn to the adventurous life at sea. With a background as a deck-steward and an ambition for adventure, he is introduced to the Ella, a transformed coasting-vessel now serving as a yacht. His time on board showcases not only his interactions with the crew, including the enigmatic Miss Lee, but also hints at a brewing conflict that suggests an ominous undercurrent aboard the ship. As tensions rise, occurrences hinting at mystery and danger begin to emerge, setting the stage for a suspenseful voyage that promises intrigue and peril in equal measure.  
 
 </details>
 
