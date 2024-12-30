@@ -1,5 +1,5 @@
 # My Recreational Reading Log  
-This is where I maintain a list of the books that I [have read](#completed_reading) or [are reading or are considering reading](#pending_or_currently_underway) since 25 July 2022 (*when I started tracking my reading*).  
+This is where I maintain a list of the books that I [have read](#completed_reading) or [are reading or are considering reading](#pending-or-currently-underway) since 25 July 2022 (*when I started tracking my reading*).  
 This information is also organized by [Audio Books](https://mccright.github.io/rrl_staging/AudioBooks/), [Out-of-Copyright - Open-Access eBooks](https://mccright.github.io/rrl_staging/OpenSourceTexts/) or [Commercial and "Open Access" Books](https://mccright.github.io/rrl_staging/Books/), along with some notes about [where I get reading materials on-line](https://mccright.github.io/rrl_staging/) in my *staging* area...  
 
 
@@ -3829,7 +3829,7 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 ## Pending or Currently Underway:  
 
 <details>
-<summary><a "pending_or_currently_underway"></a>Empty_Template </summary>
+<summary>Empty_Template </summary>
 
 ### Empty_Template  
 Audio:   
@@ -3841,6 +3841,7 @@ Reading Notes:
 </details>
 
  
+<a "the_queue"></a>
 
 <details>
 <summary>On the Duty of Civil Disobedience </summary>
