@@ -3860,6 +3860,25 @@ Reading Notes: This is a virtually free graduate-level seminar in writing and re
 
 
 <details>
+<summary>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson.  2022 </summary>
+
+### Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication.  
+eBook: https://direct.mit.edu/books/oa-monograph/5281/Social-EngineeringHow-Crowdmasters-Phreaks-Hackers  
+and https://www.overdrive.com/media/6271554/social-engineering  
+and https://directory.doabooks.org/handle/20.500.12854/84609  
+By [Robert W. Gehl]() and [Sean T. Lawson]()  2022, 342 pages  
+
+Reading notes:  
+
+Summary from MIT Press:
+>Manipulative communication—from early twentieth-century propaganda to today's online con artistry—examined through the lens of social engineering.  
+>The United States is awash in manipulated information about everything from election results to the effectiveness of medical treatments. Corporate social media is an especially good channel for manipulative communication, with Facebook a particularly willing vehicle for it. In Social Engineering, Robert Gehl and Sean Lawson show that online misinformation has its roots in earlier techniques: mass social engineering of the early twentieth century and interpersonal hacker social engineering of the 1970s, converging today into what they call “masspersonal social engineering.” As Gehl and Lawson trace contemporary manipulative communication back to earlier forms of social engineering, possibilities for amelioration become clearer.  
+>The authors show how specific manipulative communication practices are a mixture of information gathering, deception, and truth-indifferent statements, all with the instrumental goal of getting people to take actions the social engineer wants them to. Yet the term “fake news,” they claim, reduces everything to a true/false binary that fails to encompass the complexity of manipulative communication or to map onto many of its practices. They pay special attention to concepts and terms used by hacker social engineers, including the hacker concept of “bullshitting,” which the authors describe as a truth-indifferent mix of deception, accuracy, and sociability. They conclude with recommendations for how society can undermine masspersonal social engineering and move toward healthier democratic deliberation.  
+
+</details>
+
+
+<details>
 <summary>On the Duty of Civil Disobedience </summary>
 
 ### On the Duty of Civil Disobedience. (1:07)  
