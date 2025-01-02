@@ -1,6 +1,6 @@
 # My Recreational Reading Log  
 This is where I maintain a list of the books that I [have read](#completed_reading) or [are reading or are considering reading](#pending-or-currently-underway) since 25 July 2022 (*when I started tracking my reading*).  
-This information is also organized by [Audio Books](https://mccright.github.io/rrl_staging/AudioBooks/), [Out-of-Copyright - Open-Access eBooks](https://mccright.github.io/rrl_staging/OpenSourceTexts/) or [Commercial and "Open Access" Books](https://mccright.github.io/rrl_staging/Books/), along with some notes about [where I get reading materials on-line](https://mccright.github.io/rrl_staging/) in my *staging* area...  
+This information is also organized by [Audio Books](https://mccright.github.io/rrl_staging/AudioBooks/), [Out-of-Copyright - Open-Access eBooks](https://mccright.github.io/rrl_staging/OpenSourceTexts/) or [Commercial and "Open Access" Books](https://mccright.github.io/rrl_staging/Books/), along with some notes about [where I get reading materials on-line](https://mccright.github.io/rrl_staging/#supporting-material) in my *staging* area...  
 
 
 <a name="completed_reading"></a>
@@ -3854,6 +3854,9 @@ Reading Notes: This is a virtually free graduate-level seminar in writing and re
 [Overdrive Summary](https://www.overdrive.com/media/5545891/a-swim-in-a-pond-in-the-rain):  
 >For the last twenty years, George Saunders has been teaching a class on the Russian short story to his MFA students at Syracuse University. In A Swim in a Pond in the Rain, he shares a version of that class with us, offering some of what he and his students have discovered together over the years. Paired with iconic short stories by Chekhov, Turgenev, Tolstoy, and Gogol, the seven essays in this book are intended for anyone interested in how fiction works and why it’s more relevant than ever in these turbulent times. In his introduction, Saunders writes, “We’re going to enter seven fastidiously constructed scale models of the world, made for a specific purpose that our time maybe doesn’t fully endorse but that these writers accepted implicitly as the aim of art—namely, to ask the big questions, questions like, How are we supposed to be living down here? What were we put here to accomplish? What should we value? What is truth, anyway, and how might we recognize it?” He approaches the stories technically yet accessibly, and through them explains how narrative functions; why we stay immersed in a story and why we resist it; and the bedrock virtues a writer must foster. The process of writing, Saunders reminds us, is a technical craft, but also a way of training oneself to see the world with new openness and curiosity. A Swim in a Pond in the Rain is a deep exploration not just of how great writing works but of how the mind itself works while reading, and of how the reading and writing of stories make genuine connection possible.  
 
+Review by [Parul Sehgal](https://en.wikipedia.org/wiki/Parul_Sehgal): [https://www.nytimes.com/...review-swim-pond-rain-george-saunders](https://www.nytimes.com/2021/01/12/books/review-swim-pond-rain-george-saunders.html?unlocked_article_code=1.mE4.aUIY.4LtgD9qGZ-Kd&smid=url-share)  
+Review by [Lisa Zeidner](https://lisazeidner.com/bio): [https://wapo.st/3ZYx2oi](https://wapo.st/3ZYx2oi)  
+Review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)): [https://slate.com/.../george-saunders-chekhov-swim-pond-rain-review](https://slate.com/culture/2021/01/george-saunders-chekhov-swim-pond-rain-review.html)  
 
 </details>
 
@@ -3866,7 +3869,7 @@ Reading Notes: This is a virtually free graduate-level seminar in writing and re
 eBook: https://direct.mit.edu/books/oa-monograph/5281/Social-EngineeringHow-Crowdmasters-Phreaks-Hackers  
 and https://www.overdrive.com/media/6271554/social-engineering  
 and https://directory.doabooks.org/handle/20.500.12854/84609  
-By [Robert W. Gehl]() and [Sean T. Lawson]()  2022, 342 pages  
+By [Robert W. Gehl](https://www.robertwgehl.org/?styleSheetSelection=default) and [Sean T. Lawson](https://faculty.utah.edu/u0620099-SEAN_T_LAWSON/hm/index.hml)  2022, 342 pages  
 
 Reading notes:  
 
