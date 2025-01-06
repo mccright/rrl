@@ -3372,6 +3372,25 @@ https://en.wikipedia.org/wiki/The_Sun_Also_Rises
 </details>
 
 
+<details><summary><a name="a_swim_in_a_pond_in_the_rain_george_saunders"></a>A Swim in a Pond in the Rain -- In Which Four Russians Give a Master Class on Writing, Reading, and Life. By George Saunders 2021 </summary>
+
+### A Swim in a Pond in the Rain -- In Which Four Russians Give a Master Class on Writing, Reading, and Life. (15:00)  
+Audio: https://www.overdrive.com/media/5545891/a-swim-in-a-pond-in-the-rain  
+eBook: https://www.overdrive.com/media/5403796/a-swim-in-a-pond-in-the-rain  
+By [George Saunders](https://en.wikipedia.org/wiki/George_Saunders)  (1985 – )  
+
+Reading Notes: This is a virtually free graduate-level seminar in writing and reading by an individual who must be an outstanding teacher (*to learn why, I recommend listening to the audio book performed by Prof. Saunders* -- a supremely positive experience). Using examples of short stories by [Anton Chekhov](https://en.wikipedia.org/wiki/Anton_Chekhov), [Ivan Turgenev](https://en.wikipedia.org/wiki/Ivan_Turgenev), [Leo Tolstoy](https://en.wikipedia.org/wiki/Leo_Tolstoy), and [Nikolai Gogol](https://en.wikipedia.org/wiki/Nikolai_Gogol) Saunders guides us through an exploration of active reading and *professional* writing. Prof. Saunders deserves reader's attention -- this is not a book for *background* listening while concentrating on something else (*garden, traffic, exercise, etc.*). If you are interested in writing, or in becoming a better reader (*maybe even a better person*) this is for you.  
+
+[Overdrive Summary](https://www.overdrive.com/media/5545891/a-swim-in-a-pond-in-the-rain):  
+>For the last twenty years, George Saunders has been teaching a class on the Russian short story to his MFA students at Syracuse University. In A Swim in a Pond in the Rain, he shares a version of that class with us, offering some of what he and his students have discovered together over the years. Paired with iconic short stories by Chekhov, Turgenev, Tolstoy, and Gogol, the seven essays in this book are intended for anyone interested in how fiction works and why it’s more relevant than ever in these turbulent times. In his introduction, Saunders writes, “We’re going to enter seven fastidiously constructed scale models of the world, made for a specific purpose that our time maybe doesn’t fully endorse but that these writers accepted implicitly as the aim of art—namely, to ask the big questions, questions like, How are we supposed to be living down here? What were we put here to accomplish? What should we value? What is truth, anyway, and how might we recognize it?” He approaches the stories technically yet accessibly, and through them explains how narrative functions; why we stay immersed in a story and why we resist it; and the bedrock virtues a writer must foster. The process of writing, Saunders reminds us, is a technical craft, but also a way of training oneself to see the world with new openness and curiosity. A Swim in a Pond in the Rain is a deep exploration not just of how great writing works but of how the mind itself works while reading, and of how the reading and writing of stories make genuine connection possible.  
+
+Review by [Parul Sehgal](https://en.wikipedia.org/wiki/Parul_Sehgal): [https://www.nytimes.com/...review-swim-pond-rain-george-saunders](https://www.nytimes.com/2021/01/12/books/review-swim-pond-rain-george-saunders.html?unlocked_article_code=1.mE4.aUIY.4LtgD9qGZ-Kd&smid=url-share)  
+Review by [Lisa Zeidner](https://lisazeidner.com/bio): [https://wapo.st/3ZYx2oi](https://wapo.st/3ZYx2oi)  
+Review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)): [https://slate.com/.../george-saunders-chekhov-swim-pond-rain-review](https://slate.com/culture/2021/01/george-saunders-chekhov-swim-pond-rain-review.html)  
+
+</details>
+
+
 <details><summary><a name="the_tattooist_of_auschwitz"></a>The Tattooist of Auschwitz. By Heather Morris. 2018 </summary>
 
 ### The Tattooist of Auschwitz. (7:25)  
