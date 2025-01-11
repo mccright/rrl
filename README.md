@@ -3861,6 +3861,21 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+
+### Winter World -- Long Winter. (11:00)  
+Audio: https://www.overdrive.com/media/4496399/winter-world  
+eBook:   
+By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
+
+Reading Notes:  
+
+
+Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
+
+
+</details>
 
 
 <details>
@@ -3871,12 +3886,13 @@ Audio: https://www.overdrive.com/media/9907011/the-other-valley
 eBook: https://www.overdrive.com/media/9919960/the-other-valley  
 By [Scott Alexander Howard](https://scottalexanderhoward.com/about)  ( – )  
 
-Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...    
+Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...  Okile's home town has two "twins" -- one direction, East, the *twin* was **the same** town 20 years earlier and in the other direction, West, the *twin* was **the same** town 20 years later.  A lot could go wrong with a society in this configuration, so there were organizations and rules to mitigate key risks.  Odile sees to *visitors* from the *future* and the story begins.  
 Some characters:  
     Odile Ozanne a bright and introverted sixteen-year-old  
     Odile’s school teacher Pichegru  
     Odile's friend Edme, a student musician
     Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
+	The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
     Odile's apprenticeship Conseil teacher conseiller Ivret  
 
 Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
@@ -3886,6 +3902,7 @@ Review by Zara Garcia: [https://frictionlit.org/a-review-of-the-other-valley...]
 Review by Primo Saktyawan Sugiharto: [https://owlcation.com/humanities/the-other-valley...](https://owlcation.com/humanities/the-other-valley-by-scott-alexander-howard-book-review)  
 
 </details>
+
 
 
 
