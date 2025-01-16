@@ -3772,6 +3772,21 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://e
 </details>
 
 
+<details>
+<summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+
+### Winter World -- Long Winter. (11:00)  
+Audio: https://www.overdrive.com/media/4496399/winter-world  
+eBook:   
+By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
+
+Reading Notes: Oversimplification of leading large, diverse organizations; *magic* science and technology, tremendous exaggerations, physics-be-damned, nearly one-dimensional characters, and unwavering optimism about the people of the world working together toward common goals...  But action throughout.  If you like science fiction aaction 'B' movies, maybe this story will be for you.  I am confident that it is not for everyone.  
+
+Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
+
+</details>
+
+
 <details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
@@ -3857,23 +3872,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
-
-### Winter World -- Long Winter. (11:00)  
-Audio: https://www.overdrive.com/media/4496399/winter-world  
-eBook:   
-By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
-
-Reading Notes:  
-
-
-Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
-
 
 </details>
 
