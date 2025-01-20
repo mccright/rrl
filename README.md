@@ -2874,6 +2874,18 @@ Review by [Jennifer Ludden](): [https://www.npr.org/...poverty-by-america-book-r
 </details>
 
 
+<details><summary><a name="precipice_the_grand_tour_by_ben_bova"></a>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
+
+### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
+Audio: https://www.overdrive.com/media/1358286/the-precipice  
+eBook: https://www.overdrive.com/media/514927/the-precipice  
+By [Ben Bova](https://en.wikipedia.org/wiki/Ben_Bova) and another [Ben Bova biography](http://benbova.com/biography/)  (1932 – 2020)  
+
+Reading Notes: This is a near-future story about some attempts deal with impacts of climate change.  The story involves fanciful nano-technology and miniturized fusion power plants, along with privatized lunar settlement, and corporate & governmental intrigue.  
+
+</details>
+
+
 <details><summary><a name="the_prefect_alastair_reynolds"></a>The Prefect. By Alastair Reynolds. 2011</summary>
 
 ### The Prefect. (20:00)  
@@ -4190,19 +4202,6 @@ Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/boo
 
 </details>
 
-
-
-<details>
-<summary>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
-
-### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
-Audio: https://www.overdrive.com/media/1358286/the-precipice  
-eBook: https://www.overdrive.com/media/514927/the-precipice  
-By [Ben Bova](https://en.wikipedia.org/wiki/Ben_Bova) and another [Ben Bova biography](http://benbova.com/biography/)  (1932 – 2020)  
-
-Reading Notes: This is a near-future story about some attempts deal with impacts of climate change.  The story involves kind of fanciful nano-technology, miniturized fusion power plants, privatized lunar settlement, and corporate & governmental intrigue.  
-
-</details>
 
 
 <details>
