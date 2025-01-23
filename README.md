@@ -2363,7 +2363,7 @@ Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/
 </details>
 
 
-<details><summary>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
+<details><summary><a name="mimicking_of_known_successes_by_malka_older"></a>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
 
 ### The Mimicking of Known Successes. (4:27)  
 Audio: https://www.overdrive.com/media/9267150/the-mimicking-of-known-successes  
@@ -2376,6 +2376,21 @@ Short Summary on Wikipedia:
 >A man has arrived at a rail terminus, but never taken a rail car back from there. There is no evidence that he left the terminus by any means. His reported state of mind made it unlikely he committed suicide by jumping off. Mossa asks for Pleiti's help, since the man was a colleague at Valdegeld. Soon there is a murder, the victim seeming to be in the wrong place at the wrong time. Continuing the investigation may put Pleiti and Mossa themselves in danger.  [from here](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleiti#The_Mimicking_of_Known_Successes)  
 
 [Wikipedia Summary:](https://en.wikipedia.org/wiki/The_Investigations_of_Mossa_and_Pleit)  
+
+</details>
+
+
+<details><summary><a name="ministry_of_truth_by_steve_benen"></a>Ministry of Truth -- Democracy, Reality, and the Republicans' War on the Recent Past. By Steve Benen. 2024 </summary>
+
+### Ministry of Truth -- Democracy, Reality, and the Republicans' War on the Recent Past.  (5:38)  
+Audio: https://www.overdrive.com/media/10638161/ministry-of-truth  
+eBook: https://www.overdrive.com/media/10644645/ministry-of-truth  
+By [Steve Benen](https://en.wikipedia.org/wiki/Steve_Benen)  (1973 – )  
+
+Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s), Trump's activities, Republican's activities, and the conditions of the United States of America under their leadership*.  This book was a sad reminder of how successful they will be at these tasks...  
+
+OverDrive Summary [https://www.overdrive.com/media/10638161/ministry-of-truth](https://www.overdrive.com/media/10638161/ministry-of-truth): 
+>For as long as historical records have existed, authoritarian regimes have tried to rewrite history to suit their purposes, using their dictatorial powers to create myths, spread propaganda, justify decisions, erase opponents, and even dispose of crimes.  Today, as America's Republican Party becomes increasingly radicalized, it's not surprising to see the GOP read from a similarly despotic script. Indeed, the party is taking dangerous, aggressive steps to rewrite history—and not just from generations past. Unable to put a positive spin on Trump-era scandals and fiascos, GOP voices and their allies have grown determined to rewrite the stories of the last few years—from the 2020 election results and the horror of January 6th to their own legislative record—treating the recent past as an enemy to be overpowered, crushed, and conquered. The consequences for our future, in turn, are dramatic.  Extraordinarily timely and undeniably important, Steve Benen's new book tells the staggering chronicle of the Republican party's unsettling attempts at historical revisionism. It reveals not only how dependent they have grown on the tactic, but also how dangerous the consequences are if we allow the party to continue. The stakes, Benen argues, couldn't be higher: the future of democracy hinges on both our accurate understanding of events and the end of alternative narratives that challenge reality.
 
 </details>
 
@@ -2870,6 +2885,18 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Poverty,_by_America](https://e
 
 Review by [Alec MacGillis](): [https://www.nytimes.com/...poverty-by-america-matthew-desmond.html](https://www.nytimes.com/2023/03/13/books/review/poverty-by-america-matthew-desmond.html)  
 Review by [Jennifer Ludden](): [https://www.npr.org/...poverty-by-america-book-review...](https://www.npr.org/2023/03/17/1158230630/poverty-by-america-book-review-matthew-desmond-evicted)  
+
+</details>
+
+
+<details><summary><a name="precipice_the_grand_tour_by_ben_bova"></a>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
+
+### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
+Audio: https://www.overdrive.com/media/1358286/the-precipice  
+eBook: https://www.overdrive.com/media/514927/the-precipice  
+By [Ben Bova](https://en.wikipedia.org/wiki/Ben_Bova) and another [Ben Bova biography](http://benbova.com/biography/)  (1932 – 2020)  
+
+Reading Notes: This is a near-future story about some attempts deal with impacts of climate change.  The story involves fanciful nano-technology and miniturized fusion power plants, along with privatized lunar settlement, and corporate & governmental intrigue.  
 
 </details>
 
@@ -4190,19 +4217,6 @@ Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/boo
 
 </details>
 
-
-
-<details>
-<summary>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
-
-### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
-Audio: https://www.overdrive.com/media/1358286/the-precipice  
-eBook: https://www.overdrive.com/media/514927/the-precipice  
-By [Ben Bova](https://en.wikipedia.org/wiki/Ben_Bova) and another [Ben Bova biography](http://benbova.com/biography/)  (1932 – 2020)  
-
-Reading Notes: This is a near-future story about some attempts deal with impacts of climate change.  The story involves kind of fanciful nano-technology, miniturized fusion power plants, privatized lunar settlement, and corporate & governmental intrigue.  
-
-</details>
 
 
 <details>
