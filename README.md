@@ -3992,31 +3992,6 @@ Reading Notes:
 </details>
 
 
-<details>
-<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
-
-### The Other Valley -- A Novel.  (11:00)  
-Audio: https://www.overdrive.com/media/9907011/the-other-valley  
-eBook: https://www.overdrive.com/media/9919960/the-other-valley  
-By [Scott Alexander Howard](https://scottalexanderhoward.com/about)  ( – )  
-
-Reading Notes: This book explores fate, free will, obligations to oneself and to the broader community, *time travel*, and more...  Okile's home town has two "twins" -- one direction, East, the *twin* was **the same** town 20 years earlier and in the other direction, West, the *twin* was **the same** town 20 years later.  A lot could go wrong with a society in this configuration, so there were organizations and rules to mitigate key risks.  Odile sees to *visitors* from the *future* and the story begins.  
-Some characters:  
-    Odile Ozanne a bright and introverted sixteen-year-old  
-    Odile’s school teacher Pichegru  
-    Odile's friend Edme, a student musician
-    Conseils safeguard reality by deciding who can travel to the *past village* or the *future village*  
-	The gendarmerie safeguards the physical boundary as well as policing travel between the towns.  
-    Odile's apprenticeship Conseil teacher conseiller Ivret  
-
-Press and Awards for "The Other Valley." https://scottalexanderhoward.com/the-other-valley-1  
-Review by Robert J. Wiersema: [https://www.thestar.com/...the-debut-thriller-thatll-change-your-philosophy-on-the-world...](https://www.thestar.com/entertainment/books/the-debut-thriller-thatll-change-your-philosophy-on-the-world/article_ff8c4f80-d00b-11ee-b676-f7a465322da7.html)  
-Review by Brett Josef Grubisic: [https://quillandquire.com/review/the-other-valley/](https://quillandquire.com/review/the-other-valley/)  
-Review by Zara Garcia: [https://frictionlit.org/a-review-of-the-other-valley...](https://frictionlit.org/a-review-of-the-other-valley-by-scott-alexander-howard/)  
-Review by Primo Saktyawan Sugiharto: [https://owlcation.com/humanities/the-other-valley...](https://owlcation.com/humanities/the-other-valley-by-scott-alexander-howard-book-review)  
-
-</details>
-
 
 <details>
 <summary>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson.  2022 </summary>
