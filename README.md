@@ -3993,6 +3993,23 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="the_9th_man_by_steve_berry"></a>The 9th Man -- Luke Daniels. By Steve Berry. 2023 </summary>
+
+### The 9th Man -- Luke Daniels Series. (12:00)  
+Audio: https://www.overdrive.com/media/9384241/the-9th-man  
+eBook: https://www.overdrive.com/media/9384268/the-9th-man  
+By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 – )  
+
+Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story some will kill anyone to keep others from knowing the truth.  
+
+Luke Daniels ex-Army Ranger, now with the Magellan Billet.  
+Jillian Stein ex-Army, now with *some private security organization*.  
+Thomas Rowland, a Washington insider, corrupt ex-CIA.  
+
+</details>
+
+
 
 <details>
 <summary>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson.  2022 </summary>
