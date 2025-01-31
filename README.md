@@ -3122,6 +3122,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion
 </details>
 
 
+<details><summary><a name="robopocalypse_daniel_h_wilson"></a>Robopocalypse -- A Novel. By Daniel H. Wilson. 2011 </summary>
+
+### Robopocalypse. (13:00)  
+Audio: https://www.overdrive.com/media/460387/robopocalypse  
+eBook: https://www.overdrive.com/media/504806/robopocalypse  
+By [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson)  (1978 â€“ )  
+
+Reading Notes: This is another near-future story about the pairing of robots and AI turning on humankind.  The author exhibits his creativity in the myriad ways that AI and robots were bound to serve human needs and desires, along with equal creativity in detailing a broad range of ways that robots and AI are joined to attack humans. The bulk of the story is a future history about pockets of humans who resisted.  
+In 2014, Doubleday published the official sequel to Robopocalypse: [Robogenesis](https://en.wikipedia.org/wiki/Robogenesis).  
+
+Wikipedia Summary of this book: https://en.wikipedia.org/wiki/Robopocalypse  
+
+</details>
+
+
 <details><summary><a name="rose_code_kate_quinn"></a>The Rose Code. By Kate Quinn  2021</summary>
 
 ### The Rose Code.  
@@ -4003,9 +4018,10 @@ By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 â€
 
 Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story some will kill anyone to keep others from knowing the truth.  
 
+Some Central Characters:  
 Luke Daniels ex-Army Ranger, now with the Magellan Billet.  
 Jillian Stein ex-Army, now with *some private security organization*.  
-Thomas Rowland, a Washington insider, corrupt ex-CIA.  
+Thomas Rowland, a 90-something year old Washington insider, corrupt ex-CIA.  
 
 </details>
 
