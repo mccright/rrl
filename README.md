@@ -72,6 +72,24 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 </details>
 
 
+<details><summary><a name="the_9th_man_by_steve_berry"></a>The 9th Man -- Luke Daniels. By Steve Berry. 2023 </summary>
+
+### The 9th Man -- Luke Daniels Series. (12:00)  
+Audio: https://www.overdrive.com/media/9384241/the-9th-man  
+eBook: https://www.overdrive.com/media/9384268/the-9th-man  
+By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 – )  
+
+Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story one man will kill anyone to keep others from knowing the truth. "The 9th Man" is an easy-to-follow [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action fiction](https://en.wikipedia.org/wiki/Action_fiction) story filled with high-stakes, high-energy, and fast-paced events. The action sequences in this novel are more entertaining than the *research and analysis* sections between them.  Most of the characters are relatively flat/2D even though some include extensive back stories. The action is filled and fueled with unlimited resources (*private on one side and government on the other*) and main characters who embody improbable physical and mental resilience in the face of frequent extreme stress and violence.  
+
+Some Central Characters:  
+- Luke Daniels ex-Army Ranger, now with the Justice Department’s Magellan Billet.  
+- Jillian Greenfield Stein ex-Marine, now with *some private security organization*.  
+- Thomas Henry Rowland, a 90-something year old Washington insider, corrupt ex-CIA.  
+- Jack Talley, ex-Army, now leading Thomas Rowland's private security crew.  
+
+</details>
+
+
 <details><summary><a name="abigail_adams_by_woody_holton"></a>Abigail Adams. By Woody Holton.  2009 </summary>
 
 ### Abigail Adams.  (20:00)   
@@ -148,6 +166,22 @@ By [Edith Wharton](https://en.wikipedia.org/wiki/Edith_Wharton) (1862 - 1937)
 Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Age_of_Innocence  
 Librivox Summary:  
 >Edith Wharton became the first woman to win the Pulitzer Prize for fiction with this 1920 novel about Old New York society. Newland Archer is wealthy, well-bred, and engaged to the beautiful May Welland. But he finds himself drawn to May's cousin Ellen Olenska, who has been living in Europe and who has returned following a scandalous separation from her husband. [Introduction by Elizabeth Klett](https://librivox.org/the-age-of-innocence-version-2-by-edith-wharton/)  
+
+</details>
+
+
+<details><summary><a name="age_of_magical_overthinking_by_amanda_montell"></a>The Age of Magical Overthinking -- Notes on Modern Irrationality. By Amanda Montell. 2024 </summary>
+
+### The Age of Magical Overthinking -- Notes on Modern Irrationality. (6:00)  
+Audio: https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking  
+eBook: https://www.overdrive.com/media/9919782/the-age-of-magical-overthinking  
+By [Amanda Montell](https://en.wikipedia.org/wiki/Amanda_Montell)  (1992 – )  
+
+Reading Notes: I think that the life-long presence of the Internet has so impacted the author's intellectual/cultural *framework* that she and I are distantly out of phase.  That said, she reviews a number of [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias) that are important to all of us -- making this book a useful read, or listen.  
+
+[OverDrive Summary](https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking):  
+
+Review by [Lauren Puckett-Pope](): [https://www.elle.com/...amanda-montell-the-age-of-magical-overthinking-interview/](https://www.elle.com/culture/books/a60433148/amanda-montell-the-age-of-magical-overthinking-interview/)  
 
 </details>
 
@@ -4004,25 +4038,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary><a name="the_9th_man_by_steve_berry"></a>The 9th Man -- Luke Daniels. By Steve Berry. 2023 </summary>
-
-### The 9th Man -- Luke Daniels Series. (12:00)  
-Audio: https://www.overdrive.com/media/9384241/the-9th-man  
-eBook: https://www.overdrive.com/media/9384268/the-9th-man  
-By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 – )  
-
-Reading Notes: What happened on November 22, 1963 in Dallas, Texas? In this story one man will kill anyone to keep others from knowing the truth. "The 9th Man" is an easy-to-follow [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action fiction](https://en.wikipedia.org/wiki/Action_fiction) story filled with high-stakes, high-energy, and fast-paced events. The action sequences in this novel are more entertaining than the *research and analysis* sections between them.  Most of the characters are relatively flat/2D even though some include extensive back stories. The action is filled and fueled with unlimited resources (*private on one side and government on the other*) and main characters who embody improbable physical and mental resilience in the face of frequent extreme stress and violence.  
-
-Some Central Characters:  
-- Luke Daniels ex-Army Ranger, now with the Justice Department’s Magellan Billet.  
-- Jillian Greenfield Stein ex-Marine, now with *some private security organization*.  
-- Thomas Henry Rowland, a 90-something year old Washington insider, corrupt ex-CIA.  
-- Jack Talley, ex-Army, now leading Thomas Rowland's private security crew.  
 
 </details>
 
