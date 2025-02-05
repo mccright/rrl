@@ -170,6 +170,22 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="age_of_magical_overthinking_by_amanda_montell"></a>The Age of Magical Overthinking -- Notes on Modern Irrationality. By Amanda Montell. 2024 </summary>
+
+### The Age of Magical Overthinking -- Notes on Modern Irrationality. (6:00)  
+Audio: https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking  
+eBook: https://www.overdrive.com/media/9919782/the-age-of-magical-overthinking  
+By [Amanda Montell](https://en.wikipedia.org/wiki/Amanda_Montell)  (1992 – )  
+
+Reading Notes: I think that the life-long presence of the Internet has so impacted the author's intellectual/cultural *framework* that she and I are distantly out of phase.  That said, she reviews a number of [cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias) that are important to all of us -- making this book a useful read, or listen.  
+
+[OverDrive Summary](https://www.overdrive.com/media/10108419/the-age-of-magical-overthinking):  
+
+Review by [Lauren Puckett-Pope](): [https://www.elle.com/...amanda-montell-the-age-of-magical-overthinking-interview/](https://www.elle.com/culture/books/a60433148/amanda-montell-the-age-of-magical-overthinking-interview/)  
+
+</details>
+
+
 <details><summary><a name="the_alice_network_kate_quinn"></a>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
