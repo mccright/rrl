@@ -4042,6 +4042,20 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+
+### Cue for Quiet.  
+eBook: https://www.gutenberg.org/ebooks/32889  
+Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
+(*from "Space Science Fiction." May and July 1953*)  
+By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
+
+Reading Notes:  
+
+</details>
+
+
 
 <details>
 <summary>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson.  2022 </summary>
