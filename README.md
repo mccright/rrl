@@ -1279,6 +1279,23 @@ Review by [Martha Southgate](https://en.wikipedia.org/wiki/Martha_Southgate): [h
 </details>
 
 
+<details><summary><a name="eagles_at_war_by_ben_kane"></a>Eagles of Rome, Book 1 -- Eagles at War. By Ben Kane. 2015 </summary>
+
+### Eagles at War. (14:00)  
+Audio: https://www.overdrive.com/media/3032002/eagles-at-war  
+eBook: https://www.overdrive.com/media/2074113/eagles-at-war  
+By [Ben Kane](https://en.wikipedia.org/wiki/Ben_Kane)  (1970 – )  
+
+Reading Notes: Based on historical events when in A.D. 9, a charismatic chieftain and trusted ally of Rome, Arminius, leads a vast attack against the Roman armiesin Germania to drive them back to West of the Rhine.  Arminius organized a range of *Germanic* tribes to build up a resistance force large enough to destroy Roman forces on tribal lands.  
+[Hunting the Eagles](https://www.overdrive.com/media/2636451/hunting-the-eagles), Book 2 and [Eagles in the Storm](https://www.overdrive.com/media/3221220/eagles-in-the-storm), Book 3 are the next books in this series.  
+
+[OverDrive Summary](https://www.overdrive.com/media/3032002/eagles-at-war):  
+>Only the gods can save the romans now.  AD 9, Germania. East of the river Rhine, tribes hostile to Rome prepare a deadly ambush.  Their leader is the charismatic chieftain and trusted ally of Rome, Arminius, whose dream is to drive out the brutal invaders of his land.  Pitted against him are veteran centurion Lucius Tullus and the Roman provincial governor, Varus.Together with three local legions, they leave their summer camp to begin the march back to the Roman forts on the Rhine.They have no idea that in the forests and bog of the Teutoburg, mud, slaughter and bloody death await ...'This is historical fiction at its best' Sunday Express'Held me spellbound to its spectacular bloody end' Manda Scott'Gripping, brutal, brilliant' Giles Kristian.  
+
+
+</details>
+
+
 <details><summary>Edward III. By William Parsons Warburton, 1908</summary>
 
 ### Edward III (9:40)  
@@ -4036,6 +4053,20 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 Audio:   
 eBook:   
 By []()  ( – )  
+
+Reading Notes:  
+
+</details>
+
+
+<details>
+<summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
+
+### Cue for Quiet.  
+eBook: https://www.gutenberg.org/ebooks/32889  
+Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
+(*from "Space Science Fiction." May and July 1953*)  
+By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
 
 Reading Notes:  
 
