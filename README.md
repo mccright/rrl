@@ -4060,6 +4060,36 @@ Reading Notes:
 
 
 <details>
+<summary><a name="secret_war_of_julia_child_by_diana_r_chambers"></a>The Secret War of Julia Child -- A Novel. By Diana R. Chambers. 2024 </summary>
+
+### The Secret War of Julia Child. (13:00)  
+Audio: https://www.overdrive.com/media/11154984/the-secret-war-of-julia-child  
+eBook: https://www.overdrive.com/media/10390431/the-secret-war-of-julia-child  
+By [Diana R. Chambers](https://dianarchambers.com/about-diana/)  ( – )  
+
+Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/).  
+
+Author's page about the book: https://dianarchambers.com/books/the-secret-war-of-julia-child/  
+
+</details>
+
+
+<details>
+<summary><a name="catalyst_by_james_luceno"></a>Catalyst -- A Rogue One Novel · Star Wars Cannon. By James Luceno. 2016 </summary>
+
+### Catalyst -- A Rogue One Novel · Star Wars Cannon (11:00)  
+Audio: https://www.overdrive.com/media/2637691/catalyst  
+eBook: https://www.overdrive.com/media/2663780/catalyst  
+By [James Luceno](https://en.wikipedia.org/wiki/James_Luceno)  (1947 – )  
+
+Reading Notes: This story is a [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)-inspired novel set as the war between the Republic and Separatists builds to a head and ends, the Republic/then Empire *victorius*. The story introduces *military climber/opportunist* Orson Krennic, scientist Galen Erso, Erso's wife Lyra and their child Jyn. It also details the creation of the superweapon that integral to the original construction of Chancellor/Emperor Palpatine’s top-secret [Death Star](https://en.wikipedia.org/wiki/Death_Star), and how Krennic manipulates Erso into contributing to its success.  This is not *great literature* but the [action](https://en.wikipedia.org/wiki/Action_fiction) propels the story forward and is interesting-enough listening while doing chores. See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Catalyst:_A_Rogue_One_Novel) for much more context.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Catalyst:_A_Rogue_One_Novel  
+
+</details>
+
+
+<details>
 <summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
 
 ### Cue for Quiet.  
