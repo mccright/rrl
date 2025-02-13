@@ -3794,6 +3794,18 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Trust_(novel)
 </details>
 
 
+<details><summary>Twilight Company -- Star Wars: Battlefront. By Alexander Freed. 2015 </summary>
+
+### Twilight Company -- Star Wars: Battlefront. (14:00)  
+Audio: https://www.overdrive.com/media/2232375/twilight-company  
+eBook: https://www.overdrive.com/media/2201929/twilight-company  
+By [Alexander Freed](https://www.alexanderfreed.com/about-the-author/) and [here](https://datebook.sfchronicle.com/books/how-a-self-taught-sf-author-gets-to-write-the-latest-chapters-of-star-wars)  (1981 – )  
+
+Reading Notes: There is an action shooter video game based on the Star Wars film franchise that was developed by DICE and published by Electronic Arts in 2015 called "[Star Wars Battlefront](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game))." Author Alexander Freed is a former developer from Electronic Arts subsidiary BioWare. This book was [his debut novel](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)#Tie-in_novel).  If you are a [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) fan or looking for some [action](https://en.wikipedia.org/wiki/Action_fiction) fiction or a [space opera](https://en.wikipedia.org/wiki/Space_opera) this might be a good fit.  
+
+</details>
+
+
 <details><summary>Twilight Territory -- A Novel. By Andrew X. Pham. 2024 </summary>
 
 ### Twilight Territory -- A Novel. (12:00)  
@@ -4221,19 +4233,6 @@ Short summary on Wikipedia:
 >Mr. Verloc, The Secret Agent (1906) of divided loyalties, attempts a bombing, to be blamed on terrorists, that accidentally kills his mentally defective brother-in-law Stevie, and Verloc himself is killed by his distraught wife, who drowns herself by jumping overboard from a channel steamer. [From this section](https://en.wikipedia.org/wiki/Joseph_Conrad#Themes_and_style)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent
-
-</details>
-
-
-<details>
-<summary>Twilight Company -- Star Wars: Battlefront. By Alexander Freed. 2015 </summary>
-
-### Twilight Company -- Star Wars: Battlefront. (14:00)  
-Audio: https://www.overdrive.com/media/2232375/twilight-company  
-eBook: https://www.overdrive.com/media/2201929/twilight-company  
-By [Alexander Freed](https://www.alexanderfreed.com/about-the-author/) and [here](https://datebook.sfchronicle.com/books/how-a-self-taught-sf-author-gets-to-write-the-latest-chapters-of-star-wars)  (1981 – )  
-
-Reading Notes: There is an action shooter video game based on the Star Wars film franchise that was developed by DICE and published by Electronic Arts in 2015 called "[Star Wars Battlefront](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game))." Author Alexander Freed is a former developer from Electronic Arts subsidiary BioWare. This book was [his debut novel](https://en.wikipedia.org/wiki/Star_Wars_Battlefront_(2015_video_game)#Tie-in_novel).  If you are a [Star Wars](https://en.wikipedia.org/wiki/Star_Wars) fan or looking for some [action](https://en.wikipedia.org/wiki/Action_fiction) fiction or a [space opera](https://en.wikipedia.org/wiki/Space_opera) this might be a good fit.  
 
 </details>
 
