@@ -3290,6 +3290,20 @@ Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://w
 </details>
 
 
+<details><summary><a name="secret_war_of_julia_child_by_diana_r_chambers"></a>The Secret War of Julia Child -- A Novel. By Diana R. Chambers. 2024 </summary>
+
+### The Secret War of Julia Child. (13:00)  
+Audio: https://www.overdrive.com/media/11154984/the-secret-war-of-julia-child  
+eBook: https://www.overdrive.com/media/10390431/the-secret-war-of-julia-child  
+By [Diana R. Chambers](https://dianarchambers.com/about-diana/)  ( – )  
+
+Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/). It moves along and the combination of a hot war, spying, and the rigors of travel (*and just living*) in war-time South Asia make this an enjoyable read. See the [author's page about the book](https://dianarchambers.com/books/the-secret-war-of-julia-child/) to learn more about the story and its writing.  
+
+Author's page about the book: https://dianarchambers.com/books/the-secret-war-of-julia-child/  
+
+</details>
+
+
 <details><summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
@@ -4094,21 +4108,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary><a name="secret_war_of_julia_child_by_diana_r_chambers"></a>The Secret War of Julia Child -- A Novel. By Diana R. Chambers. 2024 </summary>
-
-### The Secret War of Julia Child. (13:00)  
-Audio: https://www.overdrive.com/media/11154984/the-secret-war-of-julia-child  
-eBook: https://www.overdrive.com/media/10390431/the-secret-war-of-julia-child  
-By [Diana R. Chambers](https://dianarchambers.com/about-diana/)  ( – )  
-
-Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/).  
-
-Author's page about the book: https://dianarchambers.com/books/the-secret-war-of-julia-child/  
 
 </details>
 
