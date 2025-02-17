@@ -3297,7 +3297,7 @@ Audio: https://www.overdrive.com/media/11154984/the-secret-war-of-julia-child
 eBook: https://www.overdrive.com/media/10390431/the-secret-war-of-julia-child  
 By [Diana R. Chambers](https://dianarchambers.com/about-diana/)  ( – )  
 
-Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/). It moves along and the combination of a hot war, spying, and the rigors of travel (*and just living*) in war-time South Asia make this an enjoyable read. See the [author's page about the book](https://dianarchambers.com/books/the-secret-war-of-julia-child/) to learn more about the story and its writing.  
+Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/). It moves along and the combination of a hot war, spying, and the rigors of travel (*and just living*) in war-time South Asia make this an enjoyable read. See the [author's page about the book](https://dianarchambers.com/books/the-secret-war-of-julia-child/) to learn more about the story and its writing.  See this CIA history page ["Julia Child: Cooking Up Spy Ops for OSS"](https://www.cia.gov/stories/story/julia-child-cooking-up-spy-ops-for-oss/) and [her Wikipedia page](https://en.wikipedia.org/wiki/Julia_Child#Second_World_War) and even her [U.S. government personnel file](https://nara-media-001.s3.amazonaws.com/arcmedia/oss/McWilliams_Child_Julia.pdf) (*which, oddly, was hosted on an AWS S3 bucket when I accessed it 2025-02-16*) for some non-fiction about her experiences in the OSS.  
 
 Author's page about the book: https://dianarchambers.com/books/the-secret-war-of-julia-child/  
 
