@@ -1838,6 +1838,23 @@ Author's Site for this Book: https://candicemillard.com/hero-of-the-empire.html
 </details>
 
 
+<details><summary><a name="his_majestys_airship_by_s_c_gwynne"></a>His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. By S. C. Gwynne. 2023 </summary>
+
+### His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. (9:05)  
+Audio: https://www.overdrive.com/media/9296055/his-majestys-airship  
+eBook: https://www.overdrive.com/media/9311313/his-majestys-airship  
+By [S. C. Gwynne (Samuel C. Gwynne III)](https://en.wikipedia.org/wiki/S._C._Gwynne)  ( – )  
+
+Reading Notes: Using the story of British airship R101, Gwynne outlines the history of 20th century lighter-than-air [airships](https://en.wikipedia.org/wiki/Airship) (dirigibles). It is an interesting story well told.  
+
+Review by [John Lancaster](https://www.nytimes.com/2022/11/15/books/review/the-great-air-race-john-lancaster.html): [https://www.nytimes.com/.../his-majestys-airship...](https://www.nytimes.com/2023/05/01/books/review/his-majestys-airship-s-c-gwynne.html)  
+ 
+Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/about-me/): [https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/](https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/)  
+
+
+</details>
+
+
 <details><summary>Horse. By Geraldine Brooks. 2022</summary>
 
 ### Horse. (14:06)  
@@ -3297,7 +3314,7 @@ Audio: https://www.overdrive.com/media/11154984/the-secret-war-of-julia-child
 eBook: https://www.overdrive.com/media/10390431/the-secret-war-of-julia-child  
 By [Diana R. Chambers](https://dianarchambers.com/about-diana/)  ( – )  
 
-Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/). It moves along and the combination of a hot war, spying, and the rigors of travel (*and just living*) in war-time South Asia make this an enjoyable read. See the [author's page about the book](https://dianarchambers.com/books/the-secret-war-of-julia-child/) to learn more about the story and its writing.  
+Reading Notes: This story "[was inspired by Julia’s OSS service in WWII India, Ceylon (Sri Lanka), and China]"(https://dianarchambers.com/about-diana/). It moves along and the combination of a hot war, spying, and the rigors of travel (*and just living*) in war-time South Asia make this an enjoyable read. See the [author's page about the book](https://dianarchambers.com/books/the-secret-war-of-julia-child/) to learn more about the story and its writing.  See this CIA history page ["Julia Child: Cooking Up Spy Ops for OSS"](https://www.cia.gov/stories/story/julia-child-cooking-up-spy-ops-for-oss/) and [her Wikipedia page](https://en.wikipedia.org/wiki/Julia_Child#Second_World_War) and even her [U.S. government personnel file](https://nara-media-001.s3.amazonaws.com/arcmedia/oss/McWilliams_Child_Julia.pdf) (*which, oddly, was hosted on an AWS S3 bucket when I accessed it 2025-02-16*) for some non-fiction about her experiences in the OSS.  
 
 Author's page about the book: https://dianarchambers.com/books/the-secret-war-of-julia-child/  
 
@@ -4453,24 +4470,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 </details>
 
-
-
-<details>
-<summary>His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. By S. C. Gwynne. 2023 </summary>
-
-### His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. (9:05)  
-Audio: https://www.overdrive.com/media/9296055/his-majestys-airship  
-eBook: https://www.overdrive.com/media/9311313/his-majestys-airship  
-By [S. C. Gwynne (Samuel C. Gwynne III)](https://en.wikipedia.org/wiki/S._C._Gwynne)  ( – )  
-
-Reading Notes: Using the story of British airship R101, Gwynne outlines the history of 20th century lighter-than-air [airships](https://en.wikipedia.org/wiki/Airship) (dirigibles). It is an interesting story well told.  
-
-Review by [John Lancaster](https://www.nytimes.com/2022/11/15/books/review/the-great-air-race-john-lancaster.html): [https://www.nytimes.com/.../his-majestys-airship...](https://www.nytimes.com/2023/05/01/books/review/his-majestys-airship-s-c-gwynne.html)  
- 
-Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/about-me/): [https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/](https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/)  
-
-
-</details>
 
 
 <details>
