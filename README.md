@@ -3307,6 +3307,20 @@ Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://w
 </details>
 
 
+<details><summary><a name="secret_history_of_vladimir_nabokov_by_andrea_pitzer"></a>Secret History of Vladimir Nabokov. By Andrea Pitzer. 2013 </summary>
+
+### Secret History of Vladimir Nabokov.  (15:00)  
+Audio: https://www.overdrive.com/media/1372713/the-secret-history-of-vladimir-nabokov  
+eBook: https://www.overdrive.com/media/1231863/secret-history-of-vladimir-nabokov  
+By [By Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Her website](https://andreapitzer.com/bio/)  (1968 – )  
+
+Reading Notes: A biography of [Vladimir Vladimirovich Nabokov](https://en.wikipedia.org/wiki/Vladimir_Nabokov) (1899 - 1977) by an analysis of his writing as it had addressed Russian & Soviet inhumanity to its citizens.  
+
+[https://andreapitzer.com/nabokov/](https://andreapitzer.com/nabokov/)  
+
+</details>
+
+
 <details><summary><a name="secret_war_of_julia_child_by_diana_r_chambers"></a>The Secret War of Julia Child -- A Novel. By Diana R. Chambers. 2024 </summary>
 
 ### The Secret War of Julia Child. (13:00)  
@@ -4467,22 +4481,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 * Weapons Grade (2023)  
 * Command and Control (2023)  
 * Act of Defiance (2024)
-
-</details>
-
-
-
-<details>
-<summary>Secret History of Vladimir Nabokov. By Andrea Pitzer. 2013 </summary>
-
-### Secret History of Vladimir Nabokov.  (15:00)  
-Audio: https://www.overdrive.com/media/1372713/the-secret-history-of-vladimir-nabokov  
-eBook: https://www.overdrive.com/media/1231863/secret-history-of-vladimir-nabokov  
-By [By Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Her website](https://andreapitzer.com/bio/)  (1968 – )  
-
-Reading Notes: A biography of [Vladimir Vladimirovich Nabokov](https://en.wikipedia.org/wiki/Vladimir_Nabokov) (1899 - 1977) by an analysis of his writing as it had addressed Russian & Soviet inhumanity to its citizens.  
-
-[https://andreapitzer.com/nabokov/](https://andreapitzer.com/nabokov/)  
 
 </details>
 
