@@ -4473,24 +4473,6 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 
 <details>
-<summary>His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. By S. C. Gwynne. 2023 </summary>
-
-### His Majesty's Airship -- The Life and Tragic Death of the World's Largest Flying Machine. (9:05)  
-Audio: https://www.overdrive.com/media/9296055/his-majestys-airship  
-eBook: https://www.overdrive.com/media/9311313/his-majestys-airship  
-By [S. C. Gwynne (Samuel C. Gwynne III)](https://en.wikipedia.org/wiki/S._C._Gwynne)  ( – )  
-
-Reading Notes: Using the story of British airship R101, Gwynne outlines the history of 20th century lighter-than-air [airships](https://en.wikipedia.org/wiki/Airship) (dirigibles). It is an interesting story well told.  
-
-Review by [John Lancaster](https://www.nytimes.com/2022/11/15/books/review/the-great-air-race-john-lancaster.html): [https://www.nytimes.com/.../his-majestys-airship...](https://www.nytimes.com/2023/05/01/books/review/his-majestys-airship-s-c-gwynne.html)  
- 
-Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/about-me/): [https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/](https://libraryoftortuga.com/2023/11/07/book-review-his-majestys-airship-by-s-c-gwynne/)  
-
-
-</details>
-
-
-<details>
 <summary>Secret History of Vladimir Nabokov. By Andrea Pitzer. 2013 </summary>
 
 ### Secret History of Vladimir Nabokov.  (15:00)  
