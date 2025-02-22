@@ -578,6 +578,25 @@ If you like this series or are considering starting it there is a site that has 
 </details>
 
 
+<details>
+<summary><a name="before_the_coffee_gets_cold_by_toshikazu_kawaguchi"></a>"Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). By Toshikazu Kawaguchi 2020 </summary>
+
+### Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). (19:00)  
+Audio: https://www.overdrive.com/media/5431622/before-the-coffee-gets-cold  
+eBook: https://www.overdrive.com/media/4838030/before-the-coffee-gets-cold  
+By [Toshikazu Kawaguchi](https://www.panmacmillan.com/authors/toshikazu-kawaguchi/28093)  (1971 – )  
+
+Reading Notes: Includes: "Before the Coffee Gets Cold" (2015), "Tales from the Café." (2022) and "Before Your Memory Fades." (2022)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Before_the_Coffee_Gets_Cold  
+Review by [Antonia Hitchens](https://muckrack.com/antonia-hitchens/articles): [https://www.nytimes.com/...toshikazu-kawaguchi-tales-from-the-cafe.html](https://www.nytimes.com/2022/01/14/books/review/as-you-were-elaine-feeney-sara-stridsberg-the-antarctica-of-love-toshikazu-kawaguchi-tales-from-the-cafe.html)  
+https://apa.si.edu/bookdragon/before-the-coffee-gets-cold-by-toshikazu-kawaguchi-translated-by-geoffrey-trousselot-in-christian-science-monitor/  
+https://www.bookseriesinorder.com/toshikazu-kawaguchi/  
+https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-kawaguchi-book-set-toshikazu-kawaguchi?variant=41049284083746  
+
+</details>
+
+
 <details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
@@ -4385,27 +4404,6 @@ Reading Notes:
 Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-
 
 </details>
-
-
-
-<details>
-<summary>"Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). By Toshikazu Kawaguchi 2020 </summary>
-
-### Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). (19:00)  
-Audio:   
-eBook:   
-By [Toshikazu Kawaguchi](https://www.panmacmillan.com/authors/toshikazu-kawaguchi/28093)  (1971 – )  
-
-Reading Notes: Includes: "Before the Coffee Gets Cold" (2015), "Tales from the Café." (2022) and "Before Your Memory Fades." (2022)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Before_the_Coffee_Gets_Cold  
-Review by [Antonia Hitchens](https://muckrack.com/antonia-hitchens/articles): [https://www.nytimes.com/...toshikazu-kawaguchi-tales-from-the-cafe.html](https://www.nytimes.com/2022/01/14/books/review/as-you-were-elaine-feeney-sara-stridsberg-the-antarctica-of-love-toshikazu-kawaguchi-tales-from-the-cafe.html)  
-https://apa.si.edu/bookdragon/before-the-coffee-gets-cold-by-toshikazu-kawaguchi-translated-by-geoffrey-trousselot-in-christian-science-monitor/  
-https://www.bookseriesinorder.com/toshikazu-kawaguchi/  
-https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-kawaguchi-book-set-toshikazu-kawaguchi?variant=41049284083746  
-
-</details>
-
 
 
 <details>
