@@ -3504,6 +3504,30 @@ And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Opera
 </details>
 
 
+<details><summary><a name="the_stars_like_dust_by_isaac_asimov"></a>The Stars, Like Dust -- Galactic Empire Series. By Isaac Asimov. 1951 </summary>
+
+### The Stars, Like Dust.  (7:00)  
+Audio: https://www.overdrive.com/media/180421/the-stars-like-dust  
+eBook: https://www.overdrive.com/media/515094/the-stars-like-dust  
+By [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)  (1920 – 1992)  
+
+Reading Notes: This is an interesting example of Post WWII & cold war influenced science fiction.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Stars,_Like_Dust) for an outline (*but be aware that it reveals some of the story's suprises...*)  
+**Some Key Characters:**  
+Biron Farrill - son of the recently executed "Lord Rancher of Widemos" -- a nobleman -- on planet Nephelos.  
+Sander Jonti - (*no spoiler here...*)  
+Hinriad(?) - Director of Rhodia  
+Gillbret - The Director's cousin  
+Artemisia of Hinriad - The Director's daughter  
+Autarch of Lingane - "King" or dictator of planet Lingane  
+Simok Aratap - a Tyrannian Commissioner  
+Tedor Rizzet -- the Autarch's aide  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Stars,_Like_Dust  
+
+
+</details>
+
+
 <details><summary><a name="the_stars_my_brothers"></a>The Stars, My Brothers. By Edmond Hamilton. 1962</summary>
 
 ### The Stars, My Brothers. (01:23)  
@@ -4180,7 +4204,6 @@ Review by Russell Letson: https://locusmag.com/2019/04/russell-letson-reviews-an
 Review by Russ Brown: https://sfbook.com/ancestral-night.htm  
 Lots of reviews on GoodReads: https://www.goodreads.com/book/show/26159745-ancestral-night  
 Reviews on Bookmarks: https://bookmarks.reviews/reviews/ancestral-night/  
-
 
 </details>
 
