@@ -4187,6 +4187,24 @@ Reading Notes:
 
 
 <details>
+<summary><a name="barsk_by_lawrence_m_schoen"></a>Barsk -- The Elephants' Graveyard. By Lawrence M. Schoen. 2015  </summary>
+
+### Barsk -- The Elephants' Graveyard. (12:00)  
+Audio: https://www.overdrive.com/media/2557117/barsk  
+eBook: https://www.overdrive.com/media/2229358/barsk  
+By [By Lawrence M. Schoen](https://en.wikipedia.org/wiki/Lawrence_M._Schoen) and on [lawrencemschoen.com](http://www.lawrencemschoen.com/biography/)  (1959 – )  
+
+Reading Notes:   
+
+Author's Summary: http://www.lawrencemschoen.com/the-universe-of-barsk/  
+Review by Bill Capossere and Marion Deeds: https://fantasyliterature.com/reviews/barsk/  
+Review on [elitistbookreviews.com](https://elitistbookreviews.com/) by "[Dan](https://elitistbookreviews.com/ebr-team/dan/): https://elitistbookreviews.com/2016/11/03/barsk-the-elephants-graveyard/  
+Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-elephants-graveyard  
+
+</details>
+
+
+<details>
 <summary><a name="ancestral_night_by_elizabeth_bear"></a>Ancestral Night -- A White Space Novel. By Elizabeth Bear. 2019
  </summary>
 
