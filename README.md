@@ -4187,6 +4187,26 @@ Reading Notes:
 
 
 <details>
+<summary><a name="the_lesson_by_cadwell_turnbull"></a>The Lesson -- A Novel.  By Cadwell Turnbull. 2019 </summary>
+
+### The Lesson -- A Novel.  (9:00)  
+Audio: https://www.overdrive.com/media/4238728/the-lesson  
+eBook: https://www.overdrive.com/media/4709768/the-lesson-a-novel  
+By [Cadwell Turnbull](https://en.wikipedia.org/wiki/Cadwell_Turnbull)  (1987 – )  
+
+Reading Notes:   
+
+[Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson): 
+An alien ship rests over Water Island. For five years the people of the US Virgin Islands have lived with the Ynaa, a race of superadvanced aliens on a research mission they will not fully disclose. They are benevolent in many ways but meet any act of aggression with disproportional wrath. This has led to a strained relationship between the Ynaa and the local Virgin Islanders and a peace that cannot last.  A year after the death of a young boy at the hands of an Ynaa, three families find themselves at the center of the inevitable conflict, witnesses and victims to events that will touch everyone and teach a terrible lesson. [https://www.overdrive.com/media/4238728/the-lesson](https://www.overdrive.com/media/4238728/the-lesson)  
+
+Review by [Katharine Coldiron](https://kcoldiron.com/about/): https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/  
+Review by [Peter Mack](https://petermackpresents.com/#about-author): https://therumpus.net/2019/11/27/the-lesson-by-cadwell-turnbull/  
+
+
+</details>
+
+
+<details>
 <summary><a name="barsk_by_lawrence_m_schoen"></a>Barsk -- The Elephants' Graveyard. By Lawrence M. Schoen. 2015  </summary>
 
 ### Barsk -- The Elephants' Graveyard. (12:00)  
