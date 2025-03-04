@@ -343,6 +343,27 @@ Some Quotes from the book:
 </details>
 
 
+<details><summary><a name="ancestral_night_by_elizabeth_bear"></a>Ancestral Night -- A White Space Novel. By Elizabeth Bear. 2019
+ </summary>
+
+### Ancestral Night.  (17:00)  
+Audio: https://www.overdrive.com/media/4256700/ancestral-night  
+eBook: https://www.overdrive.com/media/4245835/ancestral-night  
+By [Elizabeth Bear](https://en.wikipedia.org/wiki/Elizabeth_Bear)  (1971 – )  
+
+Reading Notes: This is thoroughly satisfying [science fiction](https://en.wikipedia.org/wiki/Science_fiction) / [space opera](https://en.wikipedia.org/wiki/Space_opera) / [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study). Interstellar salvage ship crew Haimey, Singer, and Connla (*and their two cats*) operate within the Synarche republic (*most of the of the Milky Way galaxy*) as treasure hunters.  They find a wreck on the edge of inhabited space only to discover it was used to manufacture drugs using *people* as a major raw material. Central character "[Haimey, like most of the Synarche’s citizens, has implants that allow her to interface with technology as easily as most of us breathe. These implants also allow her to turn emotions on and off and even alter her personality and psychological makeup at will](https://www.goodreads.com/review/show/2471851762)."  While exploring the wreck, Haimey is infected with an alien (Koregoi) substance (*living aliens*?) that give her new senses.  This salvage *discovery* was actually organized by revolutionaries and their partner pirates to lure Haimey into revealing secrets from her past -- a past that has been buried in the recesses of her pharmaceutically maintained consciousness. Pirate Farweather -- the image of unrestrained self-interest (*think Trump?*) -- battles with Haimey, who fights to maintain her chosen *moral compass* and altruism as they travel the galaxy.  Although speeding along at [faster-than-light](https://en.wikipedia.org/wiki/Faster-than-light) velocity using "whitespace" technology (*created and managed "ripples" in space-time*), space remains gigantic, so there is a lot of time for character interactions and (*for Haimey*) personal reflection.  They *discover* ancient -- yet advanced -- civilization-disrupting technology and...  
+
+[Overdrive Summary](https://www.overdrive.com/media/4245835/ancestral-night):  
+>A space salvager and her partner make the discovery of a lifetime that just might change the universe in this wild, big-ideas space opera from Hugo Award-winning author Elizabeth Bear.  Halmey Dz and her partner Connla Kurucz are salvage operators, living just on the inside of the law...usually. Theirs is the perilous and marginal existence—with barely enough chance of striking it fantastically big—just once—to keep them coming back for more. They pilot their tiny ship into the scars left by unsuccessful White Transitions, searching for the relics of lost human and alien vessels. But when they make a shocking discovery about an alien species that has been long thought dead.  
+
+Review by Russell Letson: https://locusmag.com/2019/04/russell-letson-reviews-ancestral-night-by-elizabeth-bear/  
+Review by Russ Brown: https://sfbook.com/ancestral-night.htm  
+Lots of reviews on GoodReads: https://www.goodreads.com/book/show/26159745-ancestral-night  
+Reviews on Bookmarks: https://bookmarks.reviews/reviews/ancestral-night/  
+
+</details>
+
+
 <details><summary><a name="the_andromeda_evolution_daniel_h_wilson"></a>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
@@ -4187,25 +4208,59 @@ Reading Notes:
 
 
 <details>
-<summary><a name="ancestral_night_by_elizabeth_bear"></a>Ancestral Night -- A White Space Novel. By Elizabeth Bear. 2019
- </summary>
+<summary><a name="the_lesson_by_cadwell_turnbull"></a>The Lesson -- A Novel.  By Cadwell Turnbull. 2019 </summary>
 
-### Ancestral Night.  (17:00)  
-Audio: https://www.overdrive.com/media/4256700/ancestral-night  
-eBook: https://www.overdrive.com/media/4245835/ancestral-night  
-By [Elizabeth Bear](https://en.wikipedia.org/wiki/Elizabeth_Bear)  (1971 – )  
+### The Lesson -- A Novel.  (9:00)  
+Audio: https://www.overdrive.com/media/4238728/the-lesson  
+eBook: https://www.overdrive.com/media/4709768/the-lesson-a-novel  
+By [Cadwell Turnbull](https://en.wikipedia.org/wiki/Cadwell_Turnbull)  (1987 – )  
 
-Reading Notes: This is thoroughly satisfying [science fiction](https://en.wikipedia.org/wiki/Science_fiction) / [space opera](https://en.wikipedia.org/wiki/Space_opera) / [character study](https://writing.stackexchange.com/questions/38272/what-exactly-is-a-character-study). Interstellar salvage ship crew Haimey, Singer, and Connla operate within the Synarche republic (*most of the of the Milky Way galaxy*) as treasure hunters.  They find a wreck on the edge of inhabited space only to discover it was used to manufacture drugs using *people* as a major raw material. Central character "[Haimey, like most of the Synarche’s citizens, has implants that allow her to interface with technology as easily as most of us breathe. These implants also allow her to turn emotions on and off and even alter her personality and psychological makeup at will](https://www.goodreads.com/review/show/2471851762)."  While exploring the wreck, Haimey is infected with an alien (Koregoi) substance (*living aliens*?) that give her new senses.  This salvage *discovery* was actually organized by revolutionaries and their partner pirates to lure Haimey into revealing secrets from her past -- a past that has been buried in the recesses of her pharmaceutically maintained consciousness. Pirate Farweather -- the image of unrestrained self-interest (*think Trump?*) -- battles with Haimey, who fights to maintain her chosen *moral compass* and altruism as they travel the galaxy.  Although speeding along at [faster-than-light](https://en.wikipedia.org/wiki/Faster-than-light) velocity using "whitespace" technology (*created and managed "ripples" in space-time*), space remains gigantic, so there is a lot of time for character interactions and (*for Haimey*) personal reflection.  They *discover* ancient -- yet advanced -- civilization-disrupting technology and...   
+Reading Notes: This story involves an interesting interspecies *racism.*  Katharine Coldiron says that it is [an allegory for white interference in Black cultures](https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/). That seems like a good bet. There are aliens, space ships, and a broad cast of characters.  See either or both reviews below for more.  
 
-[Overdrive Summary](https://www.overdrive.com/media/4245835/ancestral-night):  
->A space salvager and her partner make the discovery of a lifetime that just might change the universe in this wild, big-ideas space opera from Hugo Award-winning author Elizabeth Bear.  Halmey Dz and her partner Connla Kurucz are salvage operators, living just on the inside of the law...usually. Theirs is the perilous and marginal existence—with barely enough chance of striking it fantastically big—just once—to keep them coming back for more. They pilot their tiny ship into the scars left by unsuccessful White Transitions, searching for the relics of lost human and alien vessels. But when they make a shocking discovery about an alien species that has been long thought dead.  
+[Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson):  
+An alien ship rests over Water Island. For five years the people of the US Virgin Islands have lived with the Ynaa, a race of superadvanced aliens on a research mission they will not fully disclose. They are benevolent in many ways but meet any act of aggression with disproportional wrath. This has led to a strained relationship between the Ynaa and the local Virgin Islanders and a peace that cannot last.  A year after the death of a young boy at the hands of an Ynaa, three families find themselves at the center of the inevitable conflict, witnesses and victims to events that will touch everyone and teach a terrible lesson. [https://www.overdrive.com/media/4238728/the-lesson](https://www.overdrive.com/media/4238728/the-lesson)  
 
-Review by Russell Letson: https://locusmag.com/2019/04/russell-letson-reviews-ancestral-night-by-elizabeth-bear/  
-Review by Russ Brown: https://sfbook.com/ancestral-night.htm  
-Lots of reviews on GoodReads: https://www.goodreads.com/book/show/26159745-ancestral-night  
-Reviews on Bookmarks: https://bookmarks.reviews/reviews/ancestral-night/  
+Review by [Katharine Coldiron](https://kcoldiron.com/about/): https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/  
+Review by [Peter Mack](https://petermackpresents.com/#about-author): https://therumpus.net/2019/11/27/the-lesson-by-cadwell-turnbull/  
+
 
 </details>
+
+
+<details>
+<summary><a name="barsk_by_lawrence_m_schoen"></a>Barsk -- The Elephants' Graveyard. By Lawrence M. Schoen. 2015  </summary>
+
+### Barsk -- The Elephants' Graveyard. (12:00)  
+Audio: https://www.overdrive.com/media/2557117/barsk  
+eBook: https://www.overdrive.com/media/2229358/barsk  
+By [By Lawrence M. Schoen](https://en.wikipedia.org/wiki/Lawrence_M._Schoen) and on [lawrencemschoen.com](http://www.lawrencemschoen.com/biography/)  (1959 – )  
+
+Reading Notes: This is an interesting story that occurs in a sci-fi wrapper (*the storyline depends on some well-integrated sci-fi "science"*), but it also probes the nature of prejudice, greed, hate, friendship, self-awareness, ethics, culture & social norms and much more. The author's *story-telling* drew me in and kept me engaged.  In the distant future "the Alliance" -- a hundred or more different highly advanced anthropomorphic mammal species (*think: elephant, otter, domestic dog, cheetah, bear, prairie dog, panda, sloth, yak, etc.*) -- elephants or "Fants" occupy planet Barsk and are an outcast race.  Fants control the secret manufacture of "koph" a drug that enables a small minority of users (*Speakers*) to converse with the dead. The storyline starts as we learn that someone or some peoples are attempting to learn how to make koph and are willing to use extreme measures to gain that knowledge. On Barsk, Fant Jorl ben Tral is a historian and a Speaker knows his best friend Arlo recently committed suicide.  Jorl is a mentor/friend of his dead friend's 6 year old son Pizlo ben Arlo, who is shunned as an “abomination” by the rest of the Fants because of his albinism & other health issues.  Fant discovers that some people who where thought to be recently dead cannot summoned by a Speaker -- which should not be...  If you want to learn more about the story -- including spoilers -- see the reviews linked below.  
+
+Author's Summary: http://www.lawrencemschoen.com/the-universe-of-barsk/  
+Review by Bill Capossere and Marion Deeds: https://fantasyliterature.com/reviews/barsk/  
+Review on [elitistbookreviews.com](https://elitistbookreviews.com/) by "[Dan](https://elitistbookreviews.com/ebr-team/dan/): https://elitistbookreviews.com/2016/11/03/barsk-the-elephants-graveyard/  
+Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-elephants-graveyard  
+
+</details>
+
+
+
+<details>
+<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
+
+### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
+Audio: https://www.overdrive.com/media/5761819/unwell-women  
+eBook: https://www.overdrive.com/media/5745440/unwell-women  
+By [Elinor Cleghorn](https://lithub.com/author/elinorcleghorn/) and [on Instagram](https://www.instagram.com/elinorcleghorn/)  ( – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Unwell_Women  
+Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/15887/unwell-women#reviews)  
+
+</details>
+
 
 
 <details>
