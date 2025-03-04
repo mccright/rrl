@@ -4215,9 +4215,9 @@ Audio: https://www.overdrive.com/media/4238728/the-lesson
 eBook: https://www.overdrive.com/media/4709768/the-lesson-a-novel  
 By [Cadwell Turnbull](https://en.wikipedia.org/wiki/Cadwell_Turnbull)  (1987 – )  
 
-Reading Notes:   
+Reading Notes: This story involves an interesting interspecies *racism.*  Katharine Coldiron says that it is [an allegory for white interference in Black cultures](https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/). That seems like a good bet. There are aliens, space ships, and a broad cast of characters.  See either or both reviews below for more.  
 
-[Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson): 
+[Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson):  
 An alien ship rests over Water Island. For five years the people of the US Virgin Islands have lived with the Ynaa, a race of superadvanced aliens on a research mission they will not fully disclose. They are benevolent in many ways but meet any act of aggression with disproportional wrath. This has led to a strained relationship between the Ynaa and the local Virgin Islanders and a peace that cannot last.  A year after the death of a young boy at the hands of an Ynaa, three families find themselves at the center of the inevitable conflict, witnesses and victims to events that will touch everyone and teach a terrible lesson. [https://www.overdrive.com/media/4238728/the-lesson](https://www.overdrive.com/media/4238728/the-lesson)  
 
 Review by [Katharine Coldiron](https://kcoldiron.com/about/): https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/  
@@ -4243,6 +4243,24 @@ Review on [elitistbookreviews.com](https://elitistbookreviews.com/) by "[Dan](ht
 Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-elephants-graveyard  
 
 </details>
+
+
+
+<details>
+<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
+
+### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
+Audio: https://www.overdrive.com/media/5761819/unwell-women  
+eBook: https://www.overdrive.com/media/5745440/unwell-women  
+By [Elinor Cleghorn](https://lithub.com/author/elinorcleghorn/) and [on Instagram](https://www.instagram.com/elinorcleghorn/)  ( – )  
+
+Reading Notes:  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Unwell_Women  
+Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/15887/unwell-women#reviews)  
+
+</details>
+
 
 
 <details>
