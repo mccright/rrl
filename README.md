@@ -674,7 +674,7 @@ The story's central character Boone Caudill learns to be an expert trapper, hunt
 A.B.Guthrie's writing is the hero of this story.  He drew me in and took me on repeated journeys through the mountains, plains and rivers of the 1830s American mountain West.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land and resource *theft*, the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  
 If you are interested in the topic of *mountain men* in the 19th century but want non-fiction, you might try the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), "[Eleven Years in the Rocky Mountains and Life on the Frontier](https://mccright.github.io/rrl/AudioBooks/)." By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor), 1870.  Audio: https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/ (13:39) and text: https://www.gutenberg.org/ebooks/39465  
 My copy of this book was a loan from a brother-in-law.  It was printed in 1980 and included a helpful map in the front.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
-This is the first book in a series that also includes: "The Way West." and "Fair Land, Fair Land." (*see their entries on this page*)  
+This is the first book in a series that also includes: "[The Way West](#the_way_west_by_a_b_guthrie)." and "[Fair Land, Fair Land](#fair_land_fair_land_by_a_b_guthrie_jr)." (*see their entries on this page*)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  
 Additional Resources: https://westernamericanliterature.com/a-b-guithre/  
@@ -1409,6 +1409,29 @@ eBook: https://www.overdrive.com/media/4500529/emily-eternal
 By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
 
 Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
+<details>
+<summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
+
+### Fair Land, Fair Land.  
+This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
+Audio: https://www.overdrive.com/media/2700419/fair-land-fair-land  
+By [A.B.Guthrie, Jr. (Alfred Bertram Guthrie, Jr.)](https://en.wikipedia.org/wiki/A._B._Guthrie_Jr.) (1901 - 1991)  
+Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-at-90-won-pulitzer-for-the-way-west.html  
+      and  https://timesmachine.nytimes.com/timesmachine/1991/04/27/148192.html?pageNumber=13  
+
+Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel. If you are wanting to read a Western, this is a great book.  
+This is the third book in a series that also includes: "[The Big Sky](#the_big_sky_by_a_b_guthrie)." and "[The Way West](#the_way_west_by_a_b_guthrie)." (*see their entries on this page*)
+Again, we meet Dick Summers, who just left a group of *settlers* he led across the West to Oregon, Boone Caudill and Teal Eye.  Dick Summers complains the destruction of his wild way of life and the natural world of the North American mountain West.  
+As with the previous two books in this series, A.B.Guthrie's writing is the hero of this story.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land, about *right living*, natural resource *theft*, and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  He also incorporates references to slavery & derogatory terms for the enslaved and indigenous Americans.  This book may be hurtful to some.  
+
+NYT book review of 'Fair Land, Fair Land.': "[For Guthrie, 'Fair Land' Was A Finishing Touch.](https://www.nytimes.com/1983/03/03/books/for-guthrie-fair-land-was-a-finishing-touch.html?unlocked_article_code=1.yU4.YYW9.VKkBa7vSRddx&smid=url-share)" March 3, 1983. page 66.  
+
+Goodreads Reviews: https://www.goodreads.com/book/show/202032.Fair_Land_Fair_Land  
+
 
 </details>
 
@@ -4016,7 +4039,7 @@ Obituary:  https://www.nytimes.com/1991/04/27/obituaries/ab-guthrie-jr-is-dead-a
 Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre)) novel.  It begins in the 1840s and is told largely through a focus on Lije Evans and Dick Summers (who had been farming in Missouri) as they set out with a group on one of the earliest traverses of the [Oregon Trail](https://en.wikipedia.org/wiki/Oregon_Trail).  That said, Guthrie excells at building scenes and sub-plots through the eyes of others along the way.  His writing about heroic (*as well as the less-than heroic*) men and women that explored and "*settled*" the American West is an example of [Western Fiction](https://en.wikipedia.org/wiki/Western_fiction) at its best.  In their pursuit of "*free*" land in Oregon, Guthrie's characters seem less concerned about the land and resource *theft* and the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century than some of central personalities of his earlier "[The Big Sky](#the_big_sky_by_a_b_guthrie)."  While he references some negative outcomes of colonization, cultural and literal genocide -- the value of indigenous peoples is generally outside the scope of his narrative.  The impacts of that colonization continue through today. He also incorporates references to slavery & derogatory terms for the enslaved.  This book may be hurtful to some.
 
 My copy of this book was a loan from a brother-in-law.  It was printed in 2002 and included three helpful maps.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
-This is the second book in a series that also includes: "The Big Sky." and "Fair Land, Fair Land." (*[see their entries on this page](#the_big_sky_by_a_b_guthrie)*)  
+This is the second book in a series that also includes: "[The Big Sky](#the_big_sky_by_a_b_guthrie)." and "[Fair Land, Fair Land](#fair_land_fair_land_by_a_b_guthrie_jr)." (*see their entries on this page*)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Way_West  
 ENotes Summary: https://www.enotes.com/topics/way-west  
@@ -4215,7 +4238,7 @@ Audio: https://www.overdrive.com/media/4238728/the-lesson
 eBook: https://www.overdrive.com/media/4709768/the-lesson-a-novel  
 By [Cadwell Turnbull](https://en.wikipedia.org/wiki/Cadwell_Turnbull)  (1987 – )  
 
-Reading Notes: This story involves an interesting interspecies *racism.*  Katharine Coldiron says that it is [an allegory for white interference in Black cultures](https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/). That seems like a good bet. There are aliens, space ships, and a broad cast of characters.  See either or both reviews below for more.  
+Reading Notes: This story involves an interesting interspecies *racism* theme.  Katharine Coldiron says that it is [an allegory for white interference in Black cultures](https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/). That seems like a good bet -- and discomforting.  As a [science fiction](https://en.wikipedia.org/wiki/Science_fiction) novel, the story includes aliens, space ships, and a broad cast of characters.  See the Overdrive Summary below and either or both reviews below for more.  
 
 [Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson):  
 An alien ship rests over Water Island. For five years the people of the US Virgin Islands have lived with the Ynaa, a race of superadvanced aliens on a research mission they will not fully disclose. They are benevolent in many ways but meet any act of aggression with disproportional wrath. This has led to a strained relationship between the Ynaa and the local Virgin Islanders and a peace that cannot last.  A year after the death of a young boy at the hands of an Ynaa, three families find themselves at the center of the inevitable conflict, witnesses and victims to events that will touch everyone and teach a terrible lesson. [https://www.overdrive.com/media/4238728/the-lesson](https://www.overdrive.com/media/4238728/the-lesson)  
@@ -4245,7 +4268,6 @@ Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-e
 </details>
 
 
-
 <details>
 <summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
@@ -4254,9 +4276,15 @@ Audio: https://www.overdrive.com/media/5761819/unwell-women
 eBook: https://www.overdrive.com/media/5745440/unwell-women  
 By [Elinor Cleghorn](https://lithub.com/author/elinorcleghorn/) and [on Instagram](https://www.instagram.com/elinorcleghorn/)  ( – )  
 
-Reading Notes:  
+Reading Notes:  The author argues that stained with the residue of myth, bias and structural racism, populations have used "medicine" and the treatment(s) of pain to manage women into "*their place*" for virtually all of written history.  "*Who deserves health*," she writes, tends to align with deep-seated gender and racial cultural assumptions -- to the detriment of women & cultural minorities.  This was especially mytholigized by men who blamed the uterus (*or "womb"*) for most health issues of women.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Unwell_Women  
+Review by By [Janice P. Nimura](https://en.wikipedia.org/wiki/Janice_P._Nimura): [https://www.nytimes.com/.../unwell-women...](https://www.nytimes.com/2021/06/08/books/review/unwell-women-elinor-cleghorn.html)  
+Review by Julia Buckley: [https://inews.co.uk/...unwell-women...](https://inews.co.uk/culture/books/unwell-women-by-elinor-cleghorn-review-feminist-history-1081736)  
+Review by Joan M. Burda: [https://www.nyjournalofbooks.com/.../unwell-women...](https://www.nyjournalofbooks.com/book-review/unwell-women-misdiagnosis)  
+Review by Stephanie Merritt: [https://www.theguardian.com/.../unwell-women...](https://www.theguardian.com/books/2021/jun/07/unwell-women-by-elinor-cleghorn-review-battle-for-the-female-body)  
+Review by [Corinne Purtill](https://www.corinnepurtill.net/about): [https://www.nytimes.com/.../periods-history-medicine-science...](https://www.nytimes.com/2021/07/12/us/periods-history-medicine-science.html)  
+Review by Raza S Hoda, MD and and Syed A Hoda, MD: [https://academic.oup.com/ajcp/article/157/5/799/6458827](https://academic.oup.com/ajcp/article/157/5/799/6458827)  
 Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/15887/unwell-women#reviews)  
 
 </details>
@@ -4266,13 +4294,13 @@ Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](htt
 <details>
 <summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
 
-### Cue for Quiet.  
+### Cue for Quiet.  (2:40)  
 eBook: https://www.gutenberg.org/ebooks/32889  
 Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
 (*from "Space Science Fiction." May and July 1953*)  
 By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
 
-Reading Notes:  
+Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he has the power to wreck things using only his mind.  He would like to monitize this power, and orchestrates a demonstration for the U.S. military.  U.S. military/government Cold Warriors "take" Mr. Miller, run tests to define the scope of his powers, and the story joins its post-WWII American Science Fiction peers...  
 
 </details>
 
