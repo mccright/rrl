@@ -4268,7 +4268,6 @@ Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-e
 </details>
 
 
-
 <details>
 <summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
@@ -4277,9 +4276,15 @@ Audio: https://www.overdrive.com/media/5761819/unwell-women
 eBook: https://www.overdrive.com/media/5745440/unwell-women  
 By [Elinor Cleghorn](https://lithub.com/author/elinorcleghorn/) and [on Instagram](https://www.instagram.com/elinorcleghorn/)  ( – )  
 
-Reading Notes:  
+Reading Notes:  The author argues that stained with the residue of myth, bias and structural racism, populations have used "medicine" and the treatment(s) of pain to manage women into "*their place*" for virtually all of written history.  "*Who deserves health*," she writes, tends to align with deep-seated gender and racial cultural assumptions -- to the detriment of women & cultural minorities.  This was especially mytholigized by men who blamed the uterus (*or "womb"*) for most health issues of women.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Unwell_Women  
+Review by By [Janice P. Nimura](https://en.wikipedia.org/wiki/Janice_P._Nimura): [https://www.nytimes.com/.../unwell-women...](https://www.nytimes.com/2021/06/08/books/review/unwell-women-elinor-cleghorn.html)  
+Review by Julia Buckley: [https://inews.co.uk/...unwell-women...](https://inews.co.uk/culture/books/unwell-women-by-elinor-cleghorn-review-feminist-history-1081736)  
+Review by Joan M. Burda: [https://www.nyjournalofbooks.com/.../unwell-women...](https://www.nyjournalofbooks.com/book-review/unwell-women-misdiagnosis)  
+Review by Stephanie Merritt: [https://www.theguardian.com/.../unwell-women...](https://www.theguardian.com/books/2021/jun/07/unwell-women-by-elinor-cleghorn-review-battle-for-the-female-body)  
+Review by [Corinne Purtill](https://www.corinnepurtill.net/about): [https://www.nytimes.com/.../periods-history-medicine-science...](https://www.nytimes.com/2021/07/12/us/periods-history-medicine-science.html)  
+Review by Raza S Hoda, MD and and Syed A Hoda, MD: [https://academic.oup.com/ajcp/article/157/5/799/6458827](https://academic.oup.com/ajcp/article/157/5/799/6458827)  
 Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/15887/unwell-women#reviews)  
 
 </details>
@@ -4289,13 +4294,13 @@ Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](htt
 <details>
 <summary>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
 
-### Cue for Quiet.  
+### Cue for Quiet.  (2:40)  
 eBook: https://www.gutenberg.org/ebooks/32889  
 Audio: https://librivox.org/cue-for-quiet-by-thomas-l-sherred/  
 (*from "Space Science Fiction." May and July 1953*)  
 By [Thomas L. Sherred](https://en.wikipedia.org/wiki/T._L._Sherred) (1915 - 1985)  
 
-Reading Notes:  
+Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he has the power to wreck things using only his mind.  He would like to monitize this power, and orchestrates a demonstration for the U.S. military.  U.S. military/government Cold Warriors "take" Mr. Miller, run tests to define the scope of his powers, and the story joins its post-WWII American Science Fiction peers...  
 
 </details>
 
