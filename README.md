@@ -2299,6 +2299,25 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="the_lesson_by_cadwell_turnbull"></a>The Lesson -- A Novel.  By Cadwell Turnbull. 2019 </summary>
+
+### The Lesson -- A Novel.  (9:00)  
+Audio: https://www.overdrive.com/media/4238728/the-lesson  
+eBook: https://www.overdrive.com/media/4709768/the-lesson-a-novel  
+By [Cadwell Turnbull](https://en.wikipedia.org/wiki/Cadwell_Turnbull)  (1987 – )  
+
+Reading Notes: This story involves an interesting interspecies *racism* theme.  Katharine Coldiron says that it is [an allegory for white interference in Black cultures](https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/). That seems like a good bet -- and discomforting.  As a [science fiction](https://en.wikipedia.org/wiki/Science_fiction) novel, the story includes aliens, space ships, and a broad cast of characters.  See the [Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson) below and either or both reviews below for more.  
+
+[Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson):  
+An alien ship rests over Water Island. For five years the people of the US Virgin Islands have lived with the Ynaa, a race of superadvanced aliens on a research mission they will not fully disclose. They are benevolent in many ways but meet any act of aggression with disproportional wrath. This has led to a strained relationship between the Ynaa and the local Virgin Islanders and a peace that cannot last.  A year after the death of a young boy at the hands of an Ynaa, three families find themselves at the center of the inevitable conflict, witnesses and victims to events that will touch everyone and teach a terrible lesson. [https://www.overdrive.com/media/4238728/the-lesson](https://www.overdrive.com/media/4238728/the-lesson)  
+
+Review by [Katharine Coldiron](https://kcoldiron.com/about/): https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/  
+Review by [Peter Mack](https://petermackpresents.com/#about-author): https://therumpus.net/2019/11/27/the-lesson-by-cadwell-turnbull/  
+
+
+</details>
+
+
 <details><summary><a name="lets_not_do_that_again_by_grant_ginder"></a>Let's Not Do That Again. By Grant Ginder. 2022 </summary>
 
 ### Let's Not Do That Again. (11:30)  
@@ -4239,26 +4258,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary><a name="the_lesson_by_cadwell_turnbull"></a>The Lesson -- A Novel.  By Cadwell Turnbull. 2019 </summary>
-
-### The Lesson -- A Novel.  (9:00)  
-Audio: https://www.overdrive.com/media/4238728/the-lesson  
-eBook: https://www.overdrive.com/media/4709768/the-lesson-a-novel  
-By [Cadwell Turnbull](https://en.wikipedia.org/wiki/Cadwell_Turnbull)  (1987 – )  
-
-Reading Notes: This story involves an interesting interspecies *racism* theme.  Katharine Coldiron says that it is [an allegory for white interference in Black cultures](https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/). That seems like a good bet -- and discomforting.  As a [science fiction](https://en.wikipedia.org/wiki/Science_fiction) novel, the story includes aliens, space ships, and a broad cast of characters.  See the Overdrive Summary below and either or both reviews below for more.  
-
-[Overdrive Summary](https://www.overdrive.com/media/4238728/the-lesson):  
-An alien ship rests over Water Island. For five years the people of the US Virgin Islands have lived with the Ynaa, a race of superadvanced aliens on a research mission they will not fully disclose. They are benevolent in many ways but meet any act of aggression with disproportional wrath. This has led to a strained relationship between the Ynaa and the local Virgin Islanders and a peace that cannot last.  A year after the death of a young boy at the hands of an Ynaa, three families find themselves at the center of the inevitable conflict, witnesses and victims to events that will touch everyone and teach a terrible lesson. [https://www.overdrive.com/media/4238728/the-lesson](https://www.overdrive.com/media/4238728/the-lesson)  
-
-Review by [Katharine Coldiron](https://kcoldiron.com/about/): https://locusmag.com/2019/05/katharine-coldiron-reviews-the-lesson-by-cadwell-turnbull/  
-Review by [Peter Mack](https://petermackpresents.com/#about-author): https://therumpus.net/2019/11/27/the-lesson-by-cadwell-turnbull/  
-
 
 </details>
 
