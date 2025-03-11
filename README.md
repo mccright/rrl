@@ -561,11 +561,30 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 <details><summary>The Awakening. By Kate Chopin, 1900</summary>
 
 ### The Awakening (5:14)  
-https://librivox.org/the-awakening-by-kate-chopin/  
+Audio: https://librivox.org/the-awakening-by-kate-chopin/  
+Audio: https://www.gutenberg.org/ebooks/23724  
+eBook: https://www.gutenberg.org/ebooks/160  
 By [Kate Chopin](https://en.wikipedia.org/wiki/Kate_Chopin) (1850 - 1904)  
 Publication date: 22 April 1900 (first edition was 1899 or earlier)  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)  
+
+</details>
+
+
+<details><summary><a name="barsk_by_lawrence_m_schoen"></a>Barsk -- The Elephants' Graveyard. By Lawrence M. Schoen. 2015  </summary>
+
+### Barsk -- The Elephants' Graveyard. (12:00)  
+Audio: https://www.overdrive.com/media/2557117/barsk  
+eBook: https://www.overdrive.com/media/2229358/barsk  
+By [By Lawrence M. Schoen](https://en.wikipedia.org/wiki/Lawrence_M._Schoen) and on [lawrencemschoen.com](http://www.lawrencemschoen.com/biography/)  (1959 – )  
+
+Reading Notes: This is an interesting story that occurs in a sci-fi wrapper (*the storyline depends on some well-integrated sci-fi "science"*), but it also probes the nature of prejudice, greed, hate, friendship, self-awareness, ethics, culture & social norms and much more. The author's *story-telling* drew me in and kept me engaged.  In the distant future "the Alliance" -- a hundred or more different highly advanced anthropomorphic mammal species (*think: elephant, otter, domestic dog, cheetah, bear, prairie dog, panda, sloth, yak, etc.*) -- elephants or "Fants" occupy planet Barsk and are an outcast race.  Fants control the secret manufacture of "koph" a drug that enables a small minority of users (*Speakers*) to converse with the dead. The storyline starts as we learn that someone or some peoples are attempting to learn how to make koph and are willing to use extreme measures to gain that knowledge. On Barsk, Fant Jorl ben Tral is a historian and a Speaker knows his best friend Arlo recently committed suicide.  Jorl is a mentor/friend of his dead friend's 6 year old son Pizlo ben Arlo, who is shunned as an “abomination” by the rest of the Fants because of his albinism & other health issues.  Fant discovers that some people who where thought to be recently dead cannot summoned by a Speaker -- which should not be...  If you want to learn more about the story -- including spoilers -- see the reviews linked below.  
+
+Author's Summary: http://www.lawrencemschoen.com/the-universe-of-barsk/  
+Review by Bill Capossere and Marion Deeds: https://fantasyliterature.com/reviews/barsk/  
+Review on [elitistbookreviews.com](https://elitistbookreviews.com/) by "[Dan](https://elitistbookreviews.com/ebr-team/dan/): https://elitistbookreviews.com/2016/11/03/barsk-the-elephants-graveyard/  
+Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-elephants-graveyard  
 
 </details>
 
@@ -2608,7 +2627,7 @@ Audio: https://www.overdrive.com/media/10638161/ministry-of-truth
 eBook: https://www.overdrive.com/media/10644645/ministry-of-truth  
 By [Steve Benen](https://en.wikipedia.org/wiki/Steve_Benen)  (1973 – )  
 
-Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s), *January 6th*, charges against Trump, Trump's pardoning/releasing of violent Jan. 6th participants - even those who attacked police, Trump's activities, Republican's activities, and the conditions of the United States of America under their leadership*.  This book was a sad reminder of how successful they might be at these tasks...  
+Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s): "*winning*" the 2020 presidential election, casting *January 6th* insurrection as a spontaneous peaceful protest, charges against Trump, Trump's pardoning/releasing of violent Jan. 6th participants - even those who attacked police, Trump's activities/behaviors, Republican's activities/behaviors, their *obligation* to *deal with* with what they characterize as hateful opponents who misuse the levers of government, and the social & economic conditions of the United States of America under their *leadership*.  At the time -- late January 2025 -- this book was a sad reminder of how successful they might be at these tasks...  
 
 OverDrive Summary [https://www.overdrive.com/media/10638161/ministry-of-truth](https://www.overdrive.com/media/10638161/ministry-of-truth): 
 >For as long as historical records have existed, authoritarian regimes have tried to rewrite history to suit their purposes, using their dictatorial powers to create myths, spread propaganda, justify decisions, erase opponents, and even dispose of crimes.  Today, as America's Republican Party becomes increasingly radicalized, it's not surprising to see the GOP read from a similarly despotic script. Indeed, the party is taking dangerous, aggressive steps to rewrite history—and not just from generations past. Unable to put a positive spin on Trump-era scandals and fiascos, GOP voices and their allies have grown determined to rewrite the stories of the last few years—from the 2020 election results and the horror of January 6th to their own legislative record—treating the recent past as an enemy to be overpowered, crushed, and conquered. The consequences for our future, in turn, are dramatic.  Extraordinarily timely and undeniably important, Steve Benen's new book tells the staggering chronicle of the Republican party's unsettling attempts at historical revisionism. It reveals not only how dependent they have grown on the tactic, but also how dangerous the consequences are if we allow the party to continue. The stakes, Benen argues, couldn't be higher: the future of democracy hinges on both our accurate understanding of events and the end of alternative narratives that challenge reality.
@@ -2651,7 +2670,7 @@ Audio: https://www.overdrive.com/media/6508251/a-prayer-for-the-crown-shy
 eBook: https://www.overdrive.com/media/6492883/a-prayer-for-the-crown-shy  
 By [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)  (1985 – )  
 
-Reading Notes: This was my second exposure to [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk). Again, the story and characters are kind, and generally optimistic.  The main character, Dex, a tea-serving monk who, in [part 1](#psalm_for_the_wild_built_by_becky_chambers) of this series left his order to become a travelling *tea monk* and after some years impulsively goes searching for an abandoned monastary in *the wilderness* -- meeting a robot -- Mosscap -- who is beginning a quest to determine "what people need."  In part 2 of this story, they "journey together in a world where humans have abandoned most forms of greed and exploitation](https://www.washingtonpost.com/books/2022/11/17/best-sci-fi-fantasy/)."  Chambers builds an engaging world where people have tampped down most greed and exploitation (*without resorting to satire or comedy*) -- which seems like a sign of master storytelling.  
+Reading Notes: This was my second exposure to [Solarpunk](https://en.wikipedia.org/wiki/Solarpunk). Again, the story and characters are kind, and generally optimistic.  The main character, Dex, a tea-serving monk who, in [part 1](#psalm_for_the_wild_built_by_becky_chambers) of this series left his order to become a travelling *tea monk* and after some years impulsively goes searching for an abandoned monastary in *the wilderness* -- meeting a robot -- Mosscap -- who is beginning a quest to determine "what people need."  In part 2 of this story, they "[journey together in a world where humans have abandoned most forms of greed and exploitation](https://www.washingtonpost.com/books/2022/11/17/best-sci-fi-fantasy/)."  Chambers builds an engaging world where people have tampped down most greed and exploitation (*without resorting to satire or comedy*) -- which seems like a sign of master storytelling.  
 Again, narrator Em Grosland is a huge part of making this story a positive experience.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/A_Prayer_for_the_Crown-Shy  
@@ -2705,7 +2724,7 @@ Kirkus Reviews Summary: [https://www.kirkusreviews.com/book-reviews/julia-seales
 ### The Mountain in the Sea.  
 Audio: https://www.overdrive.com/media/8557446/the-mountain-in-the-sea  
 eBook: https://www.overdrive.com/media/8672845/the-mountain-in-the-sea  
-By [Ray Nayler](https://www.raynayler.net/bio-and-bibliography.html)  ( – )  
+By [Ray Nayler](https://www.raynayler.net)  ( – )  
 
 Reading Notes: In addition to this story being about discovering intelligent (*non-human*) beings with their own language and culture, it is also about our world transformed by AI (*of varying levels of sophistication*) creeping into most industries across the globe, and some of the risks associated with extreme concentration of economic and technological power.  Along the way Ray Nayler explores ways that individuals relate to each other, and the influence of power (*broadly defined*) in human relations. What is consciousness?  What makes a given human valuable?  How could we identify a complex, symbolic system of communication in an *alien* species? Technology always results in unintended consequences, "a creature emerging out of our need to invent..." And much, much more.  See [Laura Miller's](https://en.wikipedia.org/wiki/Laura_Miller_(writer)) [review](https://slate.com/culture/2022/10/mountain-in-the-sea-ray-nayler-octopus-intelligence-review.html) and/or [Marlene Harris'](https://www.readingreality.net/about-marlene-harris/) [review](https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/) for more about this book.  
 * Remote Vietnamese archipelago of [Côn Đảo](https://www.google.com/maps/place/C%C3%B4n+%C4%90%E1%BA%A3o/@8.6944336,106.6398703,12z/data=!3m1!4b1!4m6!3m5!1s0x3198a9186b2f6e91:0xe0a6ec6a3d538a81!8m2!3d8.7009282!4d106.6114474!16zL20vMDVzaDBw?authuser=0&hl=en&entry=ttu), recently purchased by the DIANIMA corporation.  
@@ -2724,6 +2743,7 @@ A review by [Laura Miller](https://en.wikipedia.org/wiki/Laura_Miller_(writer)):
 Review of the audio book by [Marlene Harris](https://www.readingreality.net/about-marlene-harris/): https://www.readingreality.net/2022/10/review-the-mountain-in-the-sea-by-ray-naylor/  
 Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2022/11/gary-k-wolfe-reviews-the-mountain-in-the-sea-by-ray-nayler/  
 A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-mountain-in-the-sea-by-ray-nayler-e3911ca111ce  
+Review by Steven Poole: [https://www.theguardian.com/...the-mountain-in-the-sea...](https://www.theguardian.com/books/2023/feb/18/the-mountain-in-the-sea-by-ray-nayler-how-to-speak-octopus) 
 
 </details>
 
@@ -4258,24 +4278,6 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
-
-</details>
-
-
-<details>
-<summary><a name="barsk_by_lawrence_m_schoen"></a>Barsk -- The Elephants' Graveyard. By Lawrence M. Schoen. 2015  </summary>
-
-### Barsk -- The Elephants' Graveyard. (12:00)  
-Audio: https://www.overdrive.com/media/2557117/barsk  
-eBook: https://www.overdrive.com/media/2229358/barsk  
-By [By Lawrence M. Schoen](https://en.wikipedia.org/wiki/Lawrence_M._Schoen) and on [lawrencemschoen.com](http://www.lawrencemschoen.com/biography/)  (1959 – )  
-
-Reading Notes: This is an interesting story that occurs in a sci-fi wrapper (*the storyline depends on some well-integrated sci-fi "science"*), but it also probes the nature of prejudice, greed, hate, friendship, self-awareness, ethics, culture & social norms and much more. The author's *story-telling* drew me in and kept me engaged.  In the distant future "the Alliance" -- a hundred or more different highly advanced anthropomorphic mammal species (*think: elephant, otter, domestic dog, cheetah, bear, prairie dog, panda, sloth, yak, etc.*) -- elephants or "Fants" occupy planet Barsk and are an outcast race.  Fants control the secret manufacture of "koph" a drug that enables a small minority of users (*Speakers*) to converse with the dead. The storyline starts as we learn that someone or some peoples are attempting to learn how to make koph and are willing to use extreme measures to gain that knowledge. On Barsk, Fant Jorl ben Tral is a historian and a Speaker knows his best friend Arlo recently committed suicide.  Jorl is a mentor/friend of his dead friend's 6 year old son Pizlo ben Arlo, who is shunned as an “abomination” by the rest of the Fants because of his albinism & other health issues.  Fant discovers that some people who where thought to be recently dead cannot summoned by a Speaker -- which should not be...  If you want to learn more about the story -- including spoilers -- see the reviews linked below.  
-
-Author's Summary: http://www.lawrencemschoen.com/the-universe-of-barsk/  
-Review by Bill Capossere and Marion Deeds: https://fantasyliterature.com/reviews/barsk/  
-Review on [elitistbookreviews.com](https://elitistbookreviews.com/) by "[Dan](https://elitistbookreviews.com/ebr-team/dan/): https://elitistbookreviews.com/2016/11/03/barsk-the-elephants-graveyard/  
-Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-elephants-graveyard  
 
 </details>
 
