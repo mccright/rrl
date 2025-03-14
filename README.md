@@ -4283,6 +4283,23 @@ Reading Notes:
 
 
 <details>
+<summary><a name="cold_storage_by_david_koepp"></a>Cold Storage -- A Novel. By David Koepp. 2019 </summary>
+
+### Cold Storage -- A Novel.  (8:00)  
+Audio: https://www.overdrive.com/media/4455228/cold-storage  
+eBook: https://www.overdrive.com/media/4455251/cold-storage  
+By [David Koepp](https://en.wikipedia.org/wiki/David_Koepp)  (1963 – )  
+
+Reading Notes: What a cool story and excellent characters. And a fantastic performance by narrator [Rupert Friend](https://en.wikipedia.org/wiki/Rupert_Friend). I recommend this story (*and performance*) to everyone.  
+
+[Overdrive Summary](https://www.overdrive.com/media/4455228/cold-storage):  
+>When Pentagon bioterror operative Roberto Diaz was sent to investigate a suspected biochemical attack, he found something far worse: a highly mutative organism capable of extinction-level destruction. He contained it and buried it in cold storage deep beneath a little-used military repository. Now, after decades of festering in a forgotten sub-basement, the specimen has found its way out and is on a lethal feeding frenzy. Only Diaz knows how to stop it.  He races across the country to help two unwitting security guards—one an ex-con, the other a single mother. Over one harrowing night, the unlikely trio must figure out how to quarantine this horror again. All they have is luck, fearlessness, and a mordant sense of humor. Will that be enough to save all of humanity?  
+
+
+</details>
+
+
+<details>
 <summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
 ### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
