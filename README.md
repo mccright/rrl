@@ -719,6 +719,25 @@ Librivox Summary:
 </details>  
 
 
+<details><summary><a name="billy_budd_by_herman_melville"></a>Billy Budd. By Herman Melville. 1924 </summary>
+
+### Billy Budd. (3:07)  
+Audio: https://librivox.org/billy-budd-by-herman-melville/  
+eBook1: https://melville.electroniclibrary.org/versions-of-billy-budd  
+eBook2: https://babel.hathitrust.org/cgi/pt?id=uc1.b3549801&view=1up&seq=7  
+By [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville)  (1819 - 1891)  
+
+Reading Notes: This is an interesting story. After listening to it I went back and read it to ensure that I caught as much of the text as possible.  I don't know what to think about "Billy Budd" other than it strikes me as an excellent story well told.  There are [a range of interpretations](https://en.wikipedia.org/wiki/Billy_Budd#Literary_significance_and_reception).  
+```NOTE:``` *I'm now veering off into strongly opinionated territory which may not be useful in helping you decide to read this book but satisfies my need to scratch a particular itch*... The story includes a couple of what my life experiences leads me to believe are *universal* characters.  First, the extraordinarly good looking and socially successful Billy Budd, described by Captain Vere as "the young fellow who seems so popular with the men -- Billy, the Handsome Sailor."  And second, the Master-at-arms John Claggart characterized by Melville as driven by his "spiritual depravity" and "envy," seems like a *type* too often encountered in any long life, and currently (*Spring 2025*) headlined by *example #1* Donald J. Trump, and to a lessor extent a tribe of his sycophantic minions...  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Billy_Budd  
+[Librivox Summary](https://librivox.org/billy-budd-by-herman-melville/):  
+>Young naive sailor Billy Budd is impressed into military service with the British navy in the 1790s, framed for conspiracy to mutiny [*who strikes and inadvertently kills his false accuser, Master-at-arms John Claggart,"the direct reverse of a saint" and envious of Billy*], summarily convicted in a drum-head court martial, and hanged. Billy Budd is the final published work by Herman Melville, discovered in his personal papers three decades after his death. (Summary by [ScientificMethodist](https://librivox.org/billy-budd-by-herman-melville/))  
+
+</details>
+
+
 <details><summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
 
 ### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
@@ -2627,7 +2646,7 @@ Audio: https://www.overdrive.com/media/10638161/ministry-of-truth
 eBook: https://www.overdrive.com/media/10644645/ministry-of-truth  
 By [Steve Benen](https://en.wikipedia.org/wiki/Steve_Benen)  (1973 – )  
 
-Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s): "*winning*" the 2020 presidential election, casting *January 6th* insurrection as a spontaneous peaceful protest, charges against Trump, Trump's pardoning/releasing of violent Jan. 6th participants - even those who attacked police, Trump's activities/behaviors, Republican's activities/behaviors, their *obligation* to *deal with* with what they characterize as hateful opponents who misuse the levers of government, and the social & economic conditions of the United States of America under their *leadership*.  At the time -- late January 2025 -- this book was a sad reminder of how successful they might be at these tasks...  
+Reading Notes: I listened to this book shortly after Trump's Jan. 2025 inauguration. He and his enablers were in full accelleration mode for re-writing recent history of Trumps big lie(s): "*winning*" the 2020 presidential election, casting *January 6th* insurrection as a spontaneous peaceful protest, charges against Trump, Trump's pardoning/releasing of violent Jan. 6th participants - even those who attacked police, Trump's activities/behaviors, Republican's activities/behaviors, their *obligation* to *deal with* with what they characterize as hateful opponents who misuse the levers of government (*an unsubtle program to dehumanize those with whom they disagree*), and the social & economic conditions of the United States of America under their *leadership*.  At the time -- late January 2025 -- this book was a sad reminder of how successful they might be at these tasks...  
 
 OverDrive Summary [https://www.overdrive.com/media/10638161/ministry-of-truth](https://www.overdrive.com/media/10638161/ministry-of-truth): 
 >For as long as historical records have existed, authoritarian regimes have tried to rewrite history to suit their purposes, using their dictatorial powers to create myths, spread propaganda, justify decisions, erase opponents, and even dispose of crimes.  Today, as America's Republican Party becomes increasingly radicalized, it's not surprising to see the GOP read from a similarly despotic script. Indeed, the party is taking dangerous, aggressive steps to rewrite history—and not just from generations past. Unable to put a positive spin on Trump-era scandals and fiascos, GOP voices and their allies have grown determined to rewrite the stories of the last few years—from the 2020 election results and the horror of January 6th to their own legislative record—treating the recent past as an enemy to be overpowered, crushed, and conquered. The consequences for our future, in turn, are dramatic.  Extraordinarily timely and undeniably important, Steve Benen's new book tells the staggering chronicle of the Republican party's unsettling attempts at historical revisionism. It reveals not only how dependent they have grown on the tactic, but also how dangerous the consequences are if we allow the party to continue. The stakes, Benen argues, couldn't be higher: the future of democracy hinges on both our accurate understanding of events and the end of alternative narratives that challenge reality.
@@ -4283,6 +4302,23 @@ Reading Notes:
 
 
 <details>
+<summary><a name="cold_storage_by_david_koepp"></a>Cold Storage -- A Novel. By David Koepp. 2019 </summary>
+
+### Cold Storage -- A Novel.  (8:00)  
+Audio: https://www.overdrive.com/media/4455228/cold-storage  
+eBook: https://www.overdrive.com/media/4455251/cold-storage  
+By [David Koepp](https://en.wikipedia.org/wiki/David_Koepp)  (1963 – )  
+
+Reading Notes: What a cool story and excellent characters. And a fantastic performance by narrator [Rupert Friend](https://en.wikipedia.org/wiki/Rupert_Friend). I recommend this story (*and performance*) to everyone.  
+
+[Overdrive Summary](https://www.overdrive.com/media/4455228/cold-storage):  
+>When Pentagon bioterror operative Roberto Diaz was sent to investigate a suspected biochemical attack, he found something far worse: a highly mutative organism capable of extinction-level destruction. He contained it and buried it in cold storage deep beneath a little-used military repository. Now, after decades of festering in a forgotten sub-basement, the specimen has found its way out and is on a lethal feeding frenzy. Only Diaz knows how to stop it.  He races across the country to help two unwitting security guards—one an ex-con, the other a single mother. Over one harrowing night, the unlikely trio must figure out how to quarantine this horror again. All they have is luck, fearlessness, and a mordant sense of humor. Will that be enough to save all of humanity?  
+
+
+</details>
+
+
+<details>
 <summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
 ### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
@@ -4353,24 +4389,6 @@ Reading Notes: This recording includes an excellent 40 minute history of the sto
 Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
 Librivox Summary:  
 >Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
-
-</details>
-
-
-<details>
-<summary>Billy Budd. By Herman Melville. 1924 </summary>
-
-### Billy Budd. (3:07)  
-Audio: https://librivox.org/billy-budd-by-herman-melville/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=uc1.b3549801&view=1up&seq=7  
-By [Herman Melville](https://en.wikipedia.org/wiki/Herman_Melville)  (1819 - 1891)  
-
-Reading Notes:  
-
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Billy_Budd  
-[Librivox Summary](https://librivox.org/billy-budd-by-herman-melville/):  
->Young naive sailor Billy Budd is impressed into military service with the British navy in the 1790s, framed for conspiracy to mutiny, summarily convicted in a drum-head court martial, and hanged. Billy Budd is the final published work by Herman Melville, discovered in his personal papers three decades after his death. (Summary by ScientificMethodist)  
 
 </details>
 
