@@ -2265,6 +2265,10 @@ https://www.overdrive.com/media/5418299/the-last-watch
 By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
 Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *[space opera](https://en.wikipedia.org/wiki/Space_opera)*.  It is also a ready-for-streaming novel.  
 Throughout, the scene setup is just enough to create a skeletal environment so that the action, character development and dialog can keep the pace thumping along -- not timeless prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than what some called *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can dive in and have the author reveal character details throughout the story, this book might be a good fit.  Overall, the story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals unexpected abilities given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable-enough*" most of the time.  Close-quarter combat, governmental/military misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
+
+Next book in The Divide series: [The Exiled Fleet](#exiled_fleet_by_j_s_dewes)  
+
+Reviews:  
 https://www.goodreads.com/book/show/53205794-the-last-watch  
 https://www.jsdewes.com/about  
 
@@ -4299,6 +4303,24 @@ By []()  ( – )
 Reading Notes:  
 
 </details>
+
+
+<details>
+<summary><a name="exiled_fleet_by_j_s_dewes"></a>The Exiled Fleet -- The Divide.  By J. S. Dewes. 2021 </summary>
+
+### The Exiled Fleet -- The Divide. (19:00)  
+Audio: https://www.overdrive.com/media/5697184/the-exiled-fleet  
+eBook: https://www.overdrive.com/media/5704714/the-exiled-fleet  
+By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
+
+Reading Notes: Think the "The Expanse."  This isn't as fast-paced as the first book in "The Divide" [sci-fi](https://en.wikipedia.org/wiki/Science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) series.  Its science/*sciencey* and technology/*techy* facts and ideas depend a lot on your having read "[The Last Watch](#the_last_watch_j_s_dewes)." Cavalon Mercer, the *over-educated* grandson of an *evil monarch*, who can build a warp drive from scratch... and Adequin Rake, former commander of the Argus, led efforts to find the materials and talent that they escape the edge of the universe.  
+
+...This is also another ready-for-streaming novel.  
+
+Links to reviews: https://www.jsdewes.com/news  
+
+</details>
+
 
 
 <details>
