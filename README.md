@@ -4313,7 +4313,7 @@ Audio: https://www.overdrive.com/media/5697184/the-exiled-fleet
 eBook: https://www.overdrive.com/media/5704714/the-exiled-fleet  
 By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
 
-Reading Notes: Think the "The Expanse."  This isn't as fast-paced as the first book in "The Divide" [sci-fi](https://en.wikipedia.org/wiki/Science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) series.  Its science/*sciencey* and technology/*techy* facts and ideas depend a lot on your having read "[The Last Watch](#the_last_watch_j_s_dewes)." Cavalon Mercer, the *over-educated* grandson of an *evil monarch*, who can build a warp drive from scratch... and Adequin Rake, former commander of the Argus, led efforts to find the materials and talent that they escape the edge of the universe.  
+Reading Notes: Think the "The Expanse."  The first quarter of this book isn't as fast-paced as the first volume of "The Divide" [sci-fi](https://en.wikipedia.org/wiki/Science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) series.  A lot of its science/*sciencey* and technology/*techy* facts and ideas depend a lot on your having read "[The Last Watch](#the_last_watch_j_s_dewes)." Cavalon Mercer, the *over-educated* grandson of an *evil monarch*, who can build a start-powered power plant for a jump drive from scratch... and Adequin Rake, former commander of the Argus, led efforts to find the materials and talent that they use to escape The Edge of the universe. This story adds a lot to what we know about a suite of core characters in this series. They search/fight for fuel and escape for the 4000 lives on their 300 year old ship, finding unexpected allies along the way.  
 
 ...This is also another ready-for-streaming novel.  
 
