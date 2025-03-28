@@ -1464,6 +1464,22 @@ Reading Notes: This is a sifi novel about how humanity and Emily - an artificial
 </details>
 
 
+<details><summary><a name="exiled_fleet_by_j_s_dewes"></a>The Exiled Fleet -- The Divide.  By J. S. Dewes. 2021 </summary>
+
+### The Exiled Fleet -- The Divide. (19:00)  
+Audio: https://www.overdrive.com/media/5697184/the-exiled-fleet  
+eBook: https://www.overdrive.com/media/5704714/the-exiled-fleet  
+By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
+
+Reading Notes: Think the "The Expanse."  The first quarter of this book isn't as fast-paced as the first volume of "The Divide" [sci-fi](https://en.wikipedia.org/wiki/Science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) series.  A lot of its science/*sciencey* and technology/*techy* facts and ideas depend a lot on your having read "[The Last Watch](#the_last_watch_j_s_dewes)." Cavalon Mercer, the *over-educated* grandson of an *evil monarch*, who can build a start-powered power plant for a jump drive from scratch... and Adequin Rake, former commander of the Argus, led efforts to find the materials and talent that they use to escape The Edge of the universe. This story adds a lot to what we know about a suite of core characters in this series. They search/fight for fuel and escape for the 4000 lives on their 300 year old ship, finding unexpected allies along the way.  
+
+...This is also another ready-for-streaming novel.  
+
+Links to reviews: https://www.jsdewes.com/news  
+
+</details>
+
+
 <details>
 <summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
 
@@ -2265,6 +2281,10 @@ https://www.overdrive.com/media/5418299/the-last-watch
 By [J.S. (Jenny) Dewes](https://www.jsdewes.com/about)  
 Reading Notes: Think the best of "The Expanse."  This is a fast-paced sci-fi adventure.  It combines enough real science/*sciencey* and technology/*techy* facts and ideas with a universe of creative *additions* to make this a *believeable* story of the far future.  It includes the conflict, heroics, and romance required for *[space opera](https://en.wikipedia.org/wiki/Space_opera)*.  It is also a ready-for-streaming novel.  
 Throughout, the scene setup is just enough to create a skeletal environment so that the action, character development and dialog can keep the pace thumping along -- not timeless prose.  Some [GoodReads reviewers](https://www.goodreads.com/book/show/53205794-the-last-watch) have been critical of character development -- I just viewed the pacing and scope of character development as part of writing an action-centric novel that is prepped for screen-writers, rather than what some called *thin* or *under-emphasized*.  If you require deep character development concentrated in the opening chapters of your books, "The Last Watch" may not be happiness for you...  If you can dive in and have the author reveal character details throughout the story, this book might be a good fit.  Overall, the story is told from two perspectives:  Adequin Rake, commander of the Argus (what appears to be all but a prison ship) stationed at "The Divide" -- the edge of the universe.  And Cavalon Mercer, recent arrival, the *over-educated* grandson of an *evil monarch*, who incrementally reveals unexpected abilities given his introduction into the Argus.  Changes in the expected behaviors of the known universe, warp drive maintenance and repair, controlled fusion, fantastic technology *left behind* by an ancient civilization, genetically engineered and cloned warriors, dark matter, anti-matter, and much more have *Sci-Fi-reasonable* associations with broadly *understood* physics and technology concepts that this fiction seems "*believeable-enough*" most of the time.  Close-quarter combat, governmental/military misdeeds, and corrupt monarchs & oligarchs add interest to the story.  
+
+Next book in The Divide series: [The Exiled Fleet](#exiled_fleet_by_j_s_dewes)  
+
+Reviews:  
 https://www.goodreads.com/book/show/53205794-the-last-watch  
 https://www.jsdewes.com/about  
 
@@ -4289,7 +4309,7 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 ## Pending or Currently Underway:  
 
 <details>
-<summary>Empty_Template </summary>
+<summary><a name=""></a>Empty_Template </summary>
 
 ### Empty_Template  
 Audio:   
@@ -4299,6 +4319,44 @@ By []()  ( – )
 Reading Notes:  
 
 </details>
+
+
+
+
+<details>
+<summary><a name="book_and_dagger_by_elyse_graham"></a>Book and Dagger -- How Scholars and Librarians Became the Unlikely Spies of World War II. By Elyse Graham. 2024 </summary>
+
+### Book and Dagger  (11:00)  
+Audio: https://www.overdrive.com/media/10358695/book-and-dagger  
+eBook: https://www.overdrive.com/media/10382397/book-and-dagger  
+By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )  
+
+Reading Notes: "Graham described how academics and other 'bookworms' helped the Allied cause through scholarly work instrumental to the Office of Strategic Services, the precursor to the Central Intelligence Agency: “The war may have been fought in the battlefields, but it was won in the libraries”. She delved into examples including Joseph Curtiss, Adele Kibre and Sherman Kent."  
+
+CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
+Review by By Ben Macintyre: [https://www.nytimes.com/.../book-and-dagger-elyse-graham](https://www.nytimes.com/2024/09/24/books/review/book-and-dagger-elyse-graham.html)  
+
+</details>
+
+
+
+<details>
+<summary>
+<a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+
+### Op-Center -- Op-Center Series.  (9:00)  
+Audio: https://www.overdrive.com/media/567041/op-center  
+eBook: https://www.overdrive.com/media/584529/op-center  
+[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
+
+Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
+
+This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
+
+</details>
+
 
 
 <details>
