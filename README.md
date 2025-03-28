@@ -4309,7 +4309,7 @@ Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#R
 ## Pending or Currently Underway:  
 
 <details>
-<summary>Empty_Template </summary>
+<summary><a name=""></a>Empty_Template </summary>
 
 ### Empty_Template  
 Audio:   
@@ -4317,6 +4317,43 @@ eBook:
 By []()  ( – )  
 
 Reading Notes:  
+
+</details>
+
+
+
+
+<details>
+<summary><a name="book_and_dagger_by_elyse_graham"></a>Book and Dagger -- How Scholars and Librarians Became the Unlikely Spies of World War II. By Elyse Graham. 2024 </summary>
+
+### Book and Dagger  (11:00)  
+Audio: https://www.overdrive.com/media/10358695/book-and-dagger  
+eBook: https://www.overdrive.com/media/10382397/book-and-dagger  
+By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )  
+
+Reading Notes: "Graham described how academics and other 'bookworms' helped the Allied cause through scholarly work instrumental to the Office of Strategic Services, the precursor to the Central Intelligence Agency: “The war may have been fought in the battlefields, but it was won in the libraries”. She delved into examples including Joseph Curtiss, Adele Kibre and Sherman Kent."  
+
+CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
+Review by By Ben Macintyre: [https://www.nytimes.com/.../book-and-dagger-elyse-graham](https://www.nytimes.com/2024/09/24/books/review/book-and-dagger-elyse-graham.html)  
+
+</details>
+
+
+
+<details>
+<summary>
+<a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+
+### Op-Center -- Op-Center Series.  (9:00)  
+Audio: https://www.overdrive.com/media/567041/op-center  
+eBook: https://www.overdrive.com/media/584529/op-center  
+[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
+
+Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
+
+This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
 
 </details>
 
