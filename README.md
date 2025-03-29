@@ -823,6 +823,24 @@ Wikipedia summary: [https://en.wikipedia.org/wiki/The_Bomber_Mafia](https://en.w
 </details>
 
 
+<details><summary><a name="book_and_dagger_by_elyse_graham"></a>Book and Dagger -- How Scholars and Librarians Became the Unlikely Spies of World War II. By Elyse Graham. 2024 </summary>
+
+### Book and Dagger  (11:00)  
+Audio: https://www.overdrive.com/media/10358695/book-and-dagger  
+eBook: https://www.overdrive.com/media/10382397/book-and-dagger  
+By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )  
+
+Reading Notes:  This is good story-telling about important issues of protecting Democracy using our brains as well as our might.  "At the start of WWII, the U.S. found itself in desperate need of an intelligence agency. The Office of Strategic Services (OSS), a precursor to today's CIA, was quickly formed -- and, in an effort to fill its ranks with experts, the OSS turned to academia for recruits. Suddenly, literature professors, librarians, and historians were training to perform undercover operations and investigative work -- and these surprising spies would go on to profoundly shape both the course of the war and our cultural institutions with their efforts." ([Overdrive](https://www.overdrive.com/media/10358695/book-and-dagger))  
+
+Academic experts and other academics who were broadly-educated humanities generalists helped the Allied cause through scholarly work now called "*intelligence analysis*," as well as data collection (often incorporated into on-the-ground *spying* & its accompanying physical risks), spy-hunting, and, sometimes, even assassination in this collection of *true* stories about academics who were critically important to Allied efforts to defeat the Nazis.  The author argues -- I think convincingly -- that her telling of these stories "reveals the indelible power of the humanities to change the world."  
+
+
+CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
+Review by By Ben Macintyre: [https://www.nytimes.com/.../book-and-dagger-elyse-graham](https://www.nytimes.com/2024/09/24/books/review/book-and-dagger-elyse-graham.html)  
+
+</details>
+
+
 <details><summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>
 
 ### The Book of Tea.  (2:09)  
@@ -4321,25 +4339,6 @@ Reading Notes:
 </details>
 
 
-
-
-<details>
-<summary><a name="book_and_dagger_by_elyse_graham"></a>Book and Dagger -- How Scholars and Librarians Became the Unlikely Spies of World War II. By Elyse Graham. 2024 </summary>
-
-### Book and Dagger  (11:00)  
-Audio: https://www.overdrive.com/media/10358695/book-and-dagger  
-eBook: https://www.overdrive.com/media/10382397/book-and-dagger  
-By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )  
-
-Reading Notes:  This is good story-telling about important issues of protecting Democracy using our brains as well as our might.  "At the start of WWII, the U.S. found itself in desperate need of an intelligence agency. The Office of Strategic Services (OSS), a precursor to today's CIA, was quickly formed -- and, in an effort to fill its ranks with experts, the OSS turned to academia for recruits. Suddenly, literature professors, librarians, and historians were training to perform undercover operations and investigative work -- and these surprising spies would go on to profoundly shape both the course of the war and our cultural institutions with their efforts." ([Overdrive](https://www.overdrive.com/media/10358695/book-and-dagger))  
-
-Academic experts and other academics who were broadly-educated humanities generalists helped the Allied cause through scholarly work now called "*intelligence analysis*," as well as data collection (often incorporated into on-the-ground *spying* & its accompanying physical risks), spy-hunting, and, sometimes, even assassination in this collection of *true* stories about academics who were critically important to Allied efforts to defeat the Nazis.  The author argues -- I think convincingly -- that her telling of these stories "reveals the indelible power of the humanities to change the world."  
-
-
-CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
-Review by By Ben Macintyre: [https://www.nytimes.com/.../book-and-dagger-elyse-graham](https://www.nytimes.com/2024/09/24/books/review/book-and-dagger-elyse-graham.html)  
-
-</details>
 
 
 
