@@ -832,7 +832,7 @@ By [Elyse Graham](https://en.wikipedia.org/wiki/Elyse_Graham)  ( – )
 
 Reading Notes:  This is good story-telling about important issues of protecting Democracy using our brains as well as our might.  "At the start of WWII, the U.S. found itself in desperate need of an intelligence agency. The Office of Strategic Services (OSS), a precursor to today's CIA, was quickly formed -- and, in an effort to fill its ranks with experts, the OSS turned to academia for recruits. Suddenly, literature professors, librarians, and historians were training to perform undercover operations and investigative work -- and these surprising spies would go on to profoundly shape both the course of the war and our cultural institutions with their efforts." ([Overdrive](https://www.overdrive.com/media/10358695/book-and-dagger))  
 
-Academic experts and other academics who were broadly-educated humanities generalists helped the Allied cause through scholarly work now called "*intelligence analysis*," as well as data collection (often incorporated into on-the-ground *spying* & its accompanying physical risks), spy-hunting, and, sometimes, even assassination in this collection of *true* stories about academics who were critically important to Allied efforts to defeat the Nazis.  The author argues -- I think convincingly -- that her telling of these stories "reveals the indelible power of the humanities to change the world."  
+Academic experts and other academics who were broadly-educated humanities generalists helped the Allied cause through scholarly work now called "*intelligence analysis*," as well as data collection (often incorporated into on-the-ground *spying* & its accompanying physical risks), spy-hunting, and, sometimes, even assassination in this collection of *true* stories about academics who were critically important to Allied efforts to defeat the Nazis.  The author argues -- I think convincingly -- that her telling of these stories "reveals the indelible power of the humanities to change the world."  ...and it describes how American intelligence organizations promoted the Iowa Writer's Workshop...  
 
 
 CBC Review: [https://www.cbc.ca/.../book-and-dagger...](https://www.cbc.ca/books/book-and-dagger-by-elyse-graham-1.7298496)  
@@ -2968,7 +2968,28 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
   * Retired English business man, alias Basil Bellward, is a German spy named Wolfgang Bruhl.
 
 </details>
- 
+
+
+<details>
+<summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
+
+### On the Duty of Civil Disobedience. (1:07)  
+Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
+eBook: https://www.gutenberg.org/ebooks/71  
+By [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)  (1817 - 1862)  
+
+Reading Notes: Thoreau argues that waiting passively to vote for justice is as ineffective as simply *wishing* for justice, and that what you need to do is to actually **be** just.  He denies that you have an [obligation to devote your life to fighting for justice, but you do have an obligation not to commit injustice and not to give injustice your practical support](https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)).  There is academic and political disagreement about what to do with this essay and what Thoreau meant for us to **do** (*see the Wikipedia summary](https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau))*).  Thoreau was writing at a time of enthusiastic anti-slavery protest, enthusiastic pro-slavery *business* and *governing* and masses of *passive* law-abiding citizens attempting to live their lives in alignment with the law.  Finally, Thoreau seems to argue for anarchism or an extreme form of libertarianism, but does not flesh out what he believes that would mean in terms of implementation is a society made up of extremely diverse interests and passions.  
+   
+>"What I have to do is to see, at any rate, that I do not lend myself to the wrong which I condemn."  
+
+>"Under a government which imprisons any unjustly, the true place for a just man is also a prison."  
+
+>"A minority is powerless while it conforms to the majority; it is not even a minority then; but it is irresistible when it clogs by its whole weight."  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)  
+
+</details>
+
 
 <details><summary><a name="on_writing_by_stephen_king"></a>On Writing -- A Memoir Of The Craft. By Stephen King. 2000 </summary>
 
@@ -4334,7 +4355,8 @@ Audio:
 eBook:   
 By []()  ( – )  
 
-Reading Notes:  
+Reading Notes:   
+
 
 </details>
 
@@ -4342,9 +4364,12 @@ Reading Notes:
 
 
 
+
+
+
+
 <details>
-<summary>
-<a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+<summary><a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
 
 ### Op-Center -- Op-Center Series.  (9:00)  
 Audio: https://www.overdrive.com/media/567041/op-center  
@@ -4422,21 +4447,6 @@ Summary from MIT Press:
 
 
 <details>
-<summary>On the Duty of Civil Disobedience </summary>
-
-### On the Duty of Civil Disobedience. (1:07)  
-Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
-eBook: https://www.gutenberg.org/ebooks/71  
-By [Henry David Thoreau](https://en.wikipedia.org/wiki/Henry_David_Thoreau)  (1817 - 1862)  
-
-Reading Notes:  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Civil_Disobedience_(Thoreau)  
-
-</details>
-
-
-<details>
 <summary>1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors. By Mark Twain. 1880 </summary>
 
 ### 1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors.  (1:22)
@@ -4444,7 +4454,7 @@ Audio: https://librivox.org/1601-conversation-as-it-was-by-the-social-fireside-i
 eBook: https://www.gutenberg.org/ebooks/3190  
 By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
 
-Reading Notes: This recording includes an excellent 40 minute history of the story and its publication.  
+Reading Notes: This recording includes an excellent 40 minute history of the story and its publication -- which I found more interesting than the story itself.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
 Librivox Summary:  
@@ -4470,7 +4480,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea
 >The book is dedicated to the island of Guernsey, where Victor Hugo spent 15 years in exile. Hugo uses the setting of a small island community to convert seemingly mundane events into drama of the highest caliber. Set just after the Napoleonic Wars, Toilers of the Sea deals with the impact of the Industrial Revolution upon the island. The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations, as well as the undeserved disapproval of his neighbors. This is a recording of the Isabel Hapgood translation, long considered the best of early translations of the work. - Summary by John Greenman.  
 
 </details>
-
 
 
 <details>
