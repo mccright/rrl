@@ -18,6 +18,22 @@ Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tou
 </details>
 
 
+<details><summary><a name="1601_conversation_by_mark_twain"></a>1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors. By Mark Twain. 1880 </summary>
+
+### 1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors.  (1:22)
+Audio: https://librivox.org/1601-conversation-as-it-was-by-the-social-fireside-in-the-time-of-the-tudors-version-2-by-mark-twain/  
+eBook: https://www.gutenberg.org/ebooks/3190  
+By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
+
+Reading Notes: This recording includes an excellent 40 minute history of the story and its publication -- which I found more interesting than the story itself.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
+Librivox Summary:  
+>Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
+
+</details>
+
+
 <details><summary><a name="1939"></a>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
 
 ### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
@@ -4445,22 +4461,6 @@ Summary from MIT Press:
 
 </details>
 
-
-<details>
-<summary>1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors. By Mark Twain. 1880 </summary>
-
-### 1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors.  (1:22)
-Audio: https://librivox.org/1601-conversation-as-it-was-by-the-social-fireside-in-the-time-of-the-tudors-version-2-by-mark-twain/  
-eBook: https://www.gutenberg.org/ebooks/3190  
-By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
-
-Reading Notes: This recording includes an excellent 40 minute history of the story and its publication -- which I found more interesting than the story itself.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
-Librivox Summary:  
->Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
-
-</details>
 
 
 <details>
