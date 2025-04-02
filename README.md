@@ -2986,8 +2986,7 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
 </details>
 
 
-<details>
-<summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
+<details><summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
 
 ### On the Duty of Civil Disobedience. (1:07)  
 Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
@@ -3051,6 +3050,22 @@ Reading Notes: A key message of this book: *When they choose to do so politician
 Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
 
 BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-one-vote...](https://bookmarks.reviews/reviews/all/one-person-one-vote-a-surprising-history-of-gerrymandering-in-america/)  
+
+</details>
+
+
+<details><summary><a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+
+### Op-Center -- Op-Center Series.  (9:00)  
+Audio: https://www.overdrive.com/media/567041/op-center  
+eBook: https://www.overdrive.com/media/584529/op-center  
+[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
+
+Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
+
+This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
 
 </details>
 
@@ -4382,23 +4397,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
-
-### Op-Center -- Op-Center Series.  (9:00)  
-Audio: https://www.overdrive.com/media/567041/op-center  
-eBook: https://www.overdrive.com/media/584529/op-center  
-[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
-
-Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
-
-This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
-
-</details>
 
 
 
