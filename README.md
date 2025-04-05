@@ -18,6 +18,22 @@ Reading Notes: Lawyer Jane Smith has never lost a case.  She currently has a tou
 </details>
 
 
+<details><summary><a name="1601_conversation_by_mark_twain"></a>1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors. By Mark Twain. 1880 </summary>
+
+### 1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors.  (1:22)
+Audio: https://librivox.org/1601-conversation-as-it-was-by-the-social-fireside-in-the-time-of-the-tudors-version-2-by-mark-twain/  
+eBook: https://www.gutenberg.org/ebooks/3190  
+By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
+
+Reading Notes: This recording includes an excellent 40 minute history of the story and its publication -- which I found more interesting than the story itself.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
+Librivox Summary:  
+>Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
+
+</details>
+
+
 <details><summary><a name="1939"></a>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
 
 ### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
@@ -1174,6 +1190,22 @@ eBook: https://www.overdrive.com/media/8905063/code-name-sapphire
 By [Pam Jenoff](https://en.wikipedia.org/wiki/Pam_Jenoff)  ( – )  
 
 Reading Notes: [Historical fiction](https://en.wikipedia.org/wiki/Historical_fiction), [suspense](https://en.wikipedia.org/wiki/Thriller_(genre)#Suspense), [romance](https://en.wikipedia.org/wiki/Romance_novel) novel set largely in WWII Belgium. See the [OverDrive Summary](https://www.overdrive.com/media/8905063/code-name-sapphire)...  
+
+</details>
+
+
+<details><summary><a name="cold_storage_by_david_koepp"></a>Cold Storage -- A Novel. By David Koepp. 2019 </summary>
+
+### Cold Storage -- A Novel.  (8:00)  
+Audio: https://www.overdrive.com/media/4455228/cold-storage  
+eBook: https://www.overdrive.com/media/4455251/cold-storage  
+By [David Koepp](https://en.wikipedia.org/wiki/David_Koepp)  (1963 – )  
+
+Reading Notes: What a cool story and excellent characters. And a fantastic performance by narrator [Rupert Friend](https://en.wikipedia.org/wiki/Rupert_Friend). I recommend this story (*and performance*) to everyone.  
+
+[Overdrive Summary](https://www.overdrive.com/media/4455228/cold-storage):  
+>When Pentagon bioterror operative Roberto Diaz was sent to investigate a suspected biochemical attack, he found something far worse: a highly mutative organism capable of extinction-level destruction. He contained it and buried it in cold storage deep beneath a little-used military repository. Now, after decades of festering in a forgotten sub-basement, the specimen has found its way out and is on a lethal feeding frenzy. Only Diaz knows how to stop it.  He races across the country to help two unwitting security guards—one an ex-con, the other a single mother. Over one harrowing night, the unlikely trio must figure out how to quarantine this horror again. All they have is luck, fearlessness, and a mordant sense of humor. Will that be enough to save all of humanity?  
+
 
 </details>
 
@@ -2970,8 +3002,7 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
 </details>
 
 
-<details>
-<summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
+<details><summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
 
 ### On the Duty of Civil Disobedience. (1:07)  
 Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
@@ -3035,6 +3066,22 @@ Reading Notes: A key message of this book: *When they choose to do so politician
 Review By [Robert S. Davis](https://www.nyjournalofbooks.com/reviewer/robert-s-davis): [https://www.nyjournalofbooks.com/book-review/one-person-one-vote](https://www.nyjournalofbooks.com/book-review/one-person-one-vote)  
 
 BookMarks' "What The Reviewers Say:" [https://bookmarks.reviews/...one-person-one-vote...](https://bookmarks.reviews/reviews/all/one-person-one-vote-a-surprising-history-of-gerrymandering-in-america/)  
+
+</details>
+
+
+<details><summary><a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+
+### Op-Center -- Op-Center Series.  (9:00)  
+Audio: https://www.overdrive.com/media/567041/op-center  
+eBook: https://www.overdrive.com/media/584529/op-center  
+[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
+
+Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
+
+This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
 
 </details>
 
@@ -4362,45 +4409,25 @@ Reading Notes:
 
 
 
-
-
-
-
-
-
 <details>
-<summary><a name="op_center_1_by_tom_clancy"></a>Op-Center -- Op-Center Series.  By Tom Clancy  1995 </summary>
+<summary><a name=""></a>Empty_Template </summary>
 
-### Op-Center -- Op-Center Series.  (9:00)  
-Audio: https://www.overdrive.com/media/567041/op-center  
-eBook: https://www.overdrive.com/media/584529/op-center  
-[Tom Clancy](https://en.wikipedia.org/wiki/Tom_Clancy)  (1947 – 2013)  
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
 
-Reading Notes: Lots of action... In this geopolitical thriller, treasonous anti-unification South Korean soldiers masquerading as North Koreans explode a bomb in Seoul during a festival.  This effort is led by South Korean *Major Lee*.  The U.S. President wants to help "defend" South Korea.  The recently-established Op-Center assesses that that North Korea had nothing to do with it and then attempts to prove it before the situation escalates to world war.  Another rogue officer attempts to launch North Korea missiles at Tokyo, Japan intending to start a war against North Korea.  
+Reading Notes:   
 
-This is volume one of the [Tom Clancy Op-Center Series](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Op-Center_(novel)  
 
 </details>
 
 
 
-<details>
-<summary><a name="cold_storage_by_david_koepp"></a>Cold Storage -- A Novel. By David Koepp. 2019 </summary>
-
-### Cold Storage -- A Novel.  (8:00)  
-Audio: https://www.overdrive.com/media/4455228/cold-storage  
-eBook: https://www.overdrive.com/media/4455251/cold-storage  
-By [David Koepp](https://en.wikipedia.org/wiki/David_Koepp)  (1963 – )  
-
-Reading Notes: What a cool story and excellent characters. And a fantastic performance by narrator [Rupert Friend](https://en.wikipedia.org/wiki/Rupert_Friend). I recommend this story (*and performance*) to everyone.  
-
-[Overdrive Summary](https://www.overdrive.com/media/4455228/cold-storage):  
->When Pentagon bioterror operative Roberto Diaz was sent to investigate a suspected biochemical attack, he found something far worse: a highly mutative organism capable of extinction-level destruction. He contained it and buried it in cold storage deep beneath a little-used military repository. Now, after decades of festering in a forgotten sub-basement, the specimen has found its way out and is on a lethal feeding frenzy. Only Diaz knows how to stop it.  He races across the country to help two unwitting security guards—one an ex-con, the other a single mother. Over one harrowing night, the unlikely trio must figure out how to quarantine this horror again. All they have is luck, fearlessness, and a mordant sense of humor. Will that be enough to save all of humanity?  
 
 
-</details>
+
+
 
 
 <details>
@@ -4445,22 +4472,6 @@ Summary from MIT Press:
 
 </details>
 
-
-<details>
-<summary>1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors. By Mark Twain. 1880 </summary>
-
-### 1601: Conversation, as it was by the Social Fireside, in the Time of the Tudors.  (1:22)
-Audio: https://librivox.org/1601-conversation-as-it-was-by-the-social-fireside-in-the-time-of-the-tudors-version-2-by-mark-twain/  
-eBook: https://www.gutenberg.org/ebooks/3190  
-By [Mark Twain](https://en.wikipedia.org/wiki/Mark_Twain) (1835 - 1910)  
-
-Reading Notes: This recording includes an excellent 40 minute history of the story and its publication -- which I found more interesting than the story itself.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/1601_(Mark_Twain)  
-Librivox Summary:  
->Also known simply as "1601", this is a humorously risque work by Mark Twain, first published anonymously in 1880, and finally acknowledged by the author in 1906. (Summary by John Greenman & Wikipedia)  Please note: this recording contains strong language.  
-
-</details>
 
 
 <details>
