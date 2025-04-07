@@ -4008,6 +4008,33 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
+<details>
+<summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
+
+### Toilers of the Sea. (17:05)  
+Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=2021  
+By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
+Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
+
+Reading Notes: In this detailed description of island life, [Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) mines his romantic vision of all segments of [Guernsey](https://en.wikipedia.org/wiki/Guernsey) society.  Overall, this seems like a literary [romance novel](https://en.wikipedia.org/wiki/Romance_novel) with a strong [tragic hero](https://en.wikipedia.org/wiki/Tragic_hero) thread throughout.  See the Wikipedia summary]() for a more detailed summary.  
+Key Characters:  
+* Gilliatt: a fisherman  
+* Mess Lethierry: owner of the ship Durande, the island's first steam ship  
+* Déruchette: Mess Lethierry's young niece  
+* Sieur Clubin: captain of the Durande  
+* Ebenezer Caudray: young Anglican priest, recently arrived on the island  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea:  
+>The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on the double Douvres, a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. (The cliff of the double Douvres is not the same as the well-known and also dangerous Roches Douvres, which today has a lighthouse – Hugo himself draws attention to this in the work.) Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations (which include a battle with an octopus), as well as the undeserved opprobrium of his neighbours.  
+  
+[Librivox Summary](https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/):  
+>The book is dedicated to the island of Guernsey, where Victor Hugo spent 15 years in exile. Hugo uses the setting of a small island community to convert seemingly mundane events into drama of the highest caliber. Set just after the Napoleonic Wars, Toilers of the Sea deals with the impact of the Industrial Revolution upon the island. The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations, as well as the undeserved disapproval of his neighbors. This is a recording of the Isabel Hapgood translation, long considered the best of early translations of the work. - Summary by John Greenman.  
+
+</details>
+
+
 <details><summary><a name="the_torrents_of_spring"></a>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
 
 ### The Torrents of Spring.  (2:10)
@@ -4431,22 +4458,19 @@ Reading Notes:
 
 
 
-<details>
-<summary><a name=""></a>Empty_Template </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+<details>
+<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
+
+### The Red Eagles.  
+Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
+eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
+By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
 
 Reading Notes:   
 
 
 </details>
-
-
-
-
 
 
 
