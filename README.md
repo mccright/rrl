@@ -4008,6 +4008,33 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
+<details>
+<summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
+
+### Toilers of the Sea. (17:05)  
+Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
+eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=2021  
+By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
+Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
+
+Reading Notes: In this detailed description of island life, [Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) mines his romantic vision of all segments of [Guernsey](https://en.wikipedia.org/wiki/Guernsey) society.  Overall, this seems like a literary [romance novel](https://en.wikipedia.org/wiki/Romance_novel) with a strong [tragic hero](https://en.wikipedia.org/wiki/Tragic_hero) thread throughout.  See the Wikipedia summary]() for a more detailed summary.  
+Key Characters:  
+* Gilliatt: a fisherman  
+* Mess Lethierry: owner of the ship Durande, the island's first steam ship  
+* Déruchette: Mess Lethierry's young niece  
+* Sieur Clubin: captain of the Durande  
+* Ebenezer Caudray: young Anglican priest, recently arrived on the island  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea:  
+>The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on the double Douvres, a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. (The cliff of the double Douvres is not the same as the well-known and also dangerous Roches Douvres, which today has a lighthouse – Hugo himself draws attention to this in the work.) Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations (which include a battle with an octopus), as well as the undeserved opprobrium of his neighbours.  
+  
+[Librivox Summary](https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/):  
+>The book is dedicated to the island of Guernsey, where Victor Hugo spent 15 years in exile. Hugo uses the setting of a small island community to convert seemingly mundane events into drama of the highest caliber. Set just after the Napoleonic Wars, Toilers of the Sea deals with the impact of the Industrial Revolution upon the island. The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations, as well as the undeserved disapproval of his neighbors. This is a recording of the Isabel Hapgood translation, long considered the best of early translations of the work. - Summary by John Greenman.  
+
+</details>
+
+
 <details><summary><a name="the_torrents_of_spring"></a>The Torrents of Spring. By Ernest Hemingway.  1926 </summary>  
 
 ### The Torrents of Spring.  (2:10)
@@ -4126,6 +4153,28 @@ Reading Notes: This novel is an entertaining view into a slice of Vietnamese his
 
 Review by [Violet Kupersmith](http://www.violetkupersmith.com/): [https://www.nytimes.com/...twilight-territory](https://www.nytimes.com/2024/01/23/books/review/andrew-pham-twilight-territory.html)  
 Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://historicalnovelsociety.org/reviews/twilight-territory/](https://historicalnovelsociety.org/reviews/twilight-territory/)  
+
+</details>
+
+
+<details>
+<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
+
+### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
+Audio: https://www.overdrive.com/media/5761819/unwell-women  
+eBook: https://www.overdrive.com/media/5745440/unwell-women  
+By [Elinor Cleghorn](https://lithub.com/author/elinorcleghorn/) and [on Instagram](https://www.instagram.com/elinorcleghorn/)  ( – )  
+
+Reading Notes:  The author argues that stained with the residue of myth, bias and structural racism, populations have used "medicine" and the treatment(s) of pain to manage women into "*their place*" for virtually all of written history.  "*Who deserves health*," she writes, tends to align with deep-seated gender and racial cultural assumptions -- to the detriment of women & cultural minorities.  This was especially mytholigized by men who blamed the uterus (*or "womb"*) for most health issues of women.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Unwell_Women  
+Review by By [Janice P. Nimura](https://en.wikipedia.org/wiki/Janice_P._Nimura): [https://www.nytimes.com/.../unwell-women...](https://www.nytimes.com/2021/06/08/books/review/unwell-women-elinor-cleghorn.html)  
+Review by Julia Buckley: [https://inews.co.uk/...unwell-women...](https://inews.co.uk/culture/books/unwell-women-by-elinor-cleghorn-review-feminist-history-1081736)  
+Review by Joan M. Burda: [https://www.nyjournalofbooks.com/.../unwell-women...](https://www.nyjournalofbooks.com/book-review/unwell-women-misdiagnosis)  
+Review by Stephanie Merritt: [https://www.theguardian.com/.../unwell-women...](https://www.theguardian.com/books/2021/jun/07/unwell-women-by-elinor-cleghorn-review-battle-for-the-female-body)  
+Review by [Corinne Purtill](https://www.corinnepurtill.net/about): [https://www.nytimes.com/.../periods-history-medicine-science...](https://www.nytimes.com/2021/07/12/us/periods-history-medicine-science.html)  
+Review by Raza S Hoda, MD and and Syed A Hoda, MD: [https://academic.oup.com/ajcp/article/157/5/799/6458827](https://academic.oup.com/ajcp/article/157/5/799/6458827)  
+Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/15887/unwell-women#reviews)  
 
 </details>
 
@@ -4409,13 +4458,14 @@ Reading Notes:
 
 
 
-<details>
-<summary><a name=""></a>Empty_Template </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
+<details>
+<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
+
+### The Red Eagles.  
+Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
+eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
+By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
 
 Reading Notes:   
 
@@ -4424,32 +4474,6 @@ Reading Notes:
 
 
 
-
-
-
-
-
-
-<details>
-<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
-
-### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
-Audio: https://www.overdrive.com/media/5761819/unwell-women  
-eBook: https://www.overdrive.com/media/5745440/unwell-women  
-By [Elinor Cleghorn](https://lithub.com/author/elinorcleghorn/) and [on Instagram](https://www.instagram.com/elinorcleghorn/)  ( – )  
-
-Reading Notes:  The author argues that stained with the residue of myth, bias and structural racism, populations have used "medicine" and the treatment(s) of pain to manage women into "*their place*" for virtually all of written history.  "*Who deserves health*," she writes, tends to align with deep-seated gender and racial cultural assumptions -- to the detriment of women & cultural minorities.  This was especially mytholigized by men who blamed the uterus (*or "womb"*) for most health issues of women.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Unwell_Women  
-Review by By [Janice P. Nimura](https://en.wikipedia.org/wiki/Janice_P._Nimura): [https://www.nytimes.com/.../unwell-women...](https://www.nytimes.com/2021/06/08/books/review/unwell-women-elinor-cleghorn.html)  
-Review by Julia Buckley: [https://inews.co.uk/...unwell-women...](https://inews.co.uk/culture/books/unwell-women-by-elinor-cleghorn-review-feminist-history-1081736)  
-Review by Joan M. Burda: [https://www.nyjournalofbooks.com/.../unwell-women...](https://www.nyjournalofbooks.com/book-review/unwell-women-misdiagnosis)  
-Review by Stephanie Merritt: [https://www.theguardian.com/.../unwell-women...](https://www.theguardian.com/books/2021/jun/07/unwell-women-by-elinor-cleghorn-review-battle-for-the-female-body)  
-Review by [Corinne Purtill](https://www.corinnepurtill.net/about): [https://www.nytimes.com/.../periods-history-medicine-science...](https://www.nytimes.com/2021/07/12/us/periods-history-medicine-science.html)  
-Review by Raza S Hoda, MD and and Syed A Hoda, MD: [https://academic.oup.com/ajcp/article/157/5/799/6458827](https://academic.oup.com/ajcp/article/157/5/799/6458827)  
-Reviews on BookBrowse: [https://www.bookbrowse.com/.../unwell-women#reviews](https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/15887/unwell-women#reviews)  
-
-</details>
 
 
 
