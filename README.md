@@ -126,6 +126,22 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
+<details>
+<summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
+
+### Act of Oblivion -- A Novel.  (16:00)  
+Audio: https://www.overdrive.com/media/8742777/act-of-oblivion  
+eBook: https://www.overdrive.com/media/8671542/act-of-oblivion  
+By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
+
+Reading Notes: This story explores what it was like for many of the [Puritans](https://en.wikipedia.org/wiki/Puritans) in England and the in [the New England Colonies](https://en.wikipedia.org/wiki/Puritan_migration_to_New_England_(1620%E2%80%931640)) by the 1660s, as well as some of the political disruptions in [London, England](https://en.wikipedia.org/wiki/London) in the years immediately following the [English Civil War](https://en.wikipedia.org/wiki/English_Civil_War), including the [Great Plague](https://en.wikipedia.org/wiki/Great_Plague_of_London) (1665–1666) and the [Great Fire of London](https://en.wikipedia.org/wiki/Great_Fire_of_London) (1666).  
+After the [First English Civil War](https://en.wikipedia.org/wiki/English_Civil_War#First_English_Civil_War_(1642%E2%80%931646)), [King Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was a prisoner of the Parliamentarians. The Parliamentarians ultimately decided that they could not successfully negotiate a settlement with him and concluded that he would have to be put to death.  The [House of Commons](https://en.wikipedia.org/wiki/House_of_Commons_of_England) organized a bill charging try Charles I for high treason (*the [House of lords](https://en.wikipedia.org/wiki/House_of_Lords) refused to pass it*).  Charles was found guilty on Saturday 27 January 1649, and his death warrant was signed by [fifty-nine commissioners](https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I).  He was executed on 30 January 1649.  The "fifty-nine" were called [regicides]((https://en.wikipedia.org/wiki/Regicide)) -- the people responsible for killing a monarch.  
+Set in 1660 this historical novel follows an imaginary "Richard Nayler" of the [Privy Council](https://en.wikipedia.org/wiki/Privy_Council_of_England) who is tasked with tracking down the *real* regicides, focusing with special passion on [Edward Whalley](https://en.wikipedia.org/wiki/Edward_Whalley) and his son-in-law [William Goffe](https://en.wikipedia.org/wiki/William_Goffe).  Although dead by this time [Oliver Cromwell](https://en.wikipedia.org/wiki/Oliver_Cromwell) remains *present* and influential in the lives of these core characters.  
+
+
+</details>
+
+
 <details><summary><a name="advance_agent_christopher_anvil"></a>Advance Agent. By Christopher Anvil.  1957</summary>
 
 ### Advance Agent.  (1:20)  
@@ -4483,23 +4499,6 @@ eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas
 By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
 
 Reading Notes:   
-
-
-</details>
-
-
-
-<details>
-<summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
-
-### Act of Oblivion -- A Novel.  (16:00)  
-Audio: https://www.overdrive.com/media/8742777/act-of-oblivion  
-eBook: https://www.overdrive.com/media/8671542/act-of-oblivion  
-By [Robert Harris]()  (1957 – )  
-
-Reading Notes:   
-After the [First English Civil War](https://en.wikipedia.org/wiki/English_Civil_War#First_English_Civil_War_(1642%E2%80%931646)), [King Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was a prisoner of the Parliamentarians. The Parliamentarians ultimately decided that they could not successfully negotiate a settlement with him and concluded that he would have to be put to death.  The [House of Commons](https://en.wikipedia.org/wiki/House_of_Commons_of_England) organized a bill charging try Charles I for high treason (*the [House of lords](https://en.wikipedia.org/wiki/House_of_Lords) refused to pass it*).  Charles was found guilty on Saturday 27 January 1649, and his death warrant was signed by [fifty-nine commissioners](https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I).  He was executed on 30 January 1649.  The "fifty-nine" were called [regicides]((https://en.wikipedia.org/wiki/Regicide)) -- the people responsible for killing a monarch.  
-Set in 1660 this historical novel follows an imaginary "Richard Nayler" of the [Privy Council](https://en.wikipedia.org/wiki/Privy_Council_of_England) who is tasked with tracking down the *real* historical characters [Edward Whalley](https://en.wikipedia.org/wiki/Edward_Whalley) and [William Goffe](https://en.wikipedia.org/wiki/William_Goffe), both [regicides](https://en.wikipedia.org/wiki/Regicide).  
 
 
 </details>
