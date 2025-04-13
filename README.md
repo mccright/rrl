@@ -3018,7 +3018,7 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
 </details>
 
 
-<details><summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
+<details><summary><a name="civil_disobedience_by_henry_david_thoreau"></a>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
 
 ### On the Duty of Civil Disobedience. (1:07)  
 Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
@@ -4478,7 +4478,7 @@ Reading Notes:
 <details>
 <summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
 
-### The Red Eagles.  (12:00)  
+### The Red Eagles.  (7:00)  
 Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
 eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
 By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
@@ -4526,25 +4526,6 @@ Summary from MIT Press:
 
 </details>
 
-
-
-<details>
-<summary>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
-
-### Toilers of the Sea. (17:05)  
-Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=2021  
-By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
-Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
-
-Reading Notes:  
-
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea  
-[Librivox Summary](https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/):  
->The book is dedicated to the island of Guernsey, where Victor Hugo spent 15 years in exile. Hugo uses the setting of a small island community to convert seemingly mundane events into drama of the highest caliber. Set just after the Napoleonic Wars, Toilers of the Sea deals with the impact of the Industrial Revolution upon the island. The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations, as well as the undeserved disapproval of his neighbors. This is a recording of the Isabel Hapgood translation, long considered the best of early translations of the work. - Summary by John Greenman.  
-
-</details>
 
 
 <details>
