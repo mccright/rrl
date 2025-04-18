@@ -4500,6 +4500,12 @@ By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 
 
 Reading Notes:   
 
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
+History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
+Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
+Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
+Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+
 
 </details>
 
