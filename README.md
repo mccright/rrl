@@ -4498,7 +4498,7 @@ Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas
 eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
 By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
 
-Reading Notes:   
+Reading Notes: Donald Trump 47 repeatedly threatened to *take-back* the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal).  I didn't really know the history of the Panama Canal, so listened to David McCullough's history.  It details failed attempts to build a canal between the Atlantic and Pacific oceans across [Central America](https://en.wikipedia.org/wiki/Central_America) -- the most expansive by the French in the late 19th century led by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps) from 1880 through 1889. McCullough outlines extensive U.S. involvement in Panamanians seceding from Colombia before *taking* the "[Panama Canal Zone](https://en.wikipedia.org/wiki/Panama_Canal_Zone)" from Panama.  Then, in heroic tones, the book details the public health, engineering and implementation successes that were critical to finishing and operating the canal.  See the Wikipedia summary of [this book](https://en.wikipedia.org/wiki/The_Path_Between_the_Seas) as well as the page on the [History of the Panama Canal](https://en.wikipedia.org/wiki/History_of_the_Panama_Canal) for more.   
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
 History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
