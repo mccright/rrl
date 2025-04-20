@@ -3018,7 +3018,7 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
 </details>
 
 
-<details><summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
+<details><summary><a name="civil_disobedience_by_henry_david_thoreau"></a>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
 
 ### On the Duty of Civil Disobedience. (1:07)  
 Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
@@ -3229,6 +3229,25 @@ QUOTE:
 
 Summary from Librivox:  
 >In this work from 1921, Carpenter analyzes the origin of Christian beliefs, arguing that they are derived from pre-Christian myths and religions, rather than being new revelations to the human race. He believes that "psychologically man has evolved from simple consciousness to self-consciousness, and is now in process of evolution towards another and more extended kind of consciousness," anticipating a post-Christian era. In the penultimate chapter, "The Exodus of Christianity," he sets out his belief that for Christianity "to hold the field of Religion in the Western World is neither probable nor desirable." Chapters such as "Solar Myths and Christian Festivals," "Rites of Expiation and Redemption," and "The Saviour-God and the Virgin-Mother" analyze his tenet as seen in different contexts. [Summary by Verla Viera](https://librivox.org/pagan-christian-creeds-their-origin-and-meaning-by-edward-carpenter/)  
+
+</details>
+
+
+<details><summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
+
+### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
+Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
+eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+
+Reading Notes: Donald Trump 47 repeatedly threatened to *take-back* the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal).  I didn't really know the history of the Panama Canal, so listened to David McCullough's history.  It details failed attempts to build a canal between the Atlantic and Pacific oceans across [Central America](https://en.wikipedia.org/wiki/Central_America) -- the most expansive by the French in the late 19th century led by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps) from 1880 through 1889. McCullough outlines extensive U.S. involvement in Panamanians seceding from Colombia before *taking* the "[Panama Canal Zone](https://en.wikipedia.org/wiki/Panama_Canal_Zone)" from Panama.  Then, in heroic tones, the book details the public health, engineering and implementation successes that were critical to finishing and operating the canal.  See the Wikipedia summary of [this book](https://en.wikipedia.org/wiki/The_Path_Between_the_Seas) as well as the page on the [History of the Panama Canal](https://en.wikipedia.org/wiki/History_of_the_Panama_Canal) for more.   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
+History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
+Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
+Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
+Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+
 
 </details>
 
@@ -4478,7 +4497,7 @@ Reading Notes:
 <details>
 <summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
 
-### The Red Eagles.  (12:00)  
+### The Red Eagles.  (7:00)  
 Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
 eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
 By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
@@ -4488,20 +4507,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
-
-### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
-Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
-eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
-By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
-
-Reading Notes:   
-
-
-</details>
 
 
 
@@ -4526,25 +4531,6 @@ Summary from MIT Press:
 
 </details>
 
-
-
-<details>
-<summary>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
-
-### Toilers of the Sea. (17:05)  
-Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=2021  
-By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
-Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
-
-Reading Notes:  
-
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea  
-[Librivox Summary](https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/):  
->The book is dedicated to the island of Guernsey, where Victor Hugo spent 15 years in exile. Hugo uses the setting of a small island community to convert seemingly mundane events into drama of the highest caliber. Set just after the Napoleonic Wars, Toilers of the Sea deals with the impact of the Industrial Revolution upon the island. The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations, as well as the undeserved disapproval of his neighbors. This is a recording of the Isabel Hapgood translation, long considered the best of early translations of the work. - Summary by John Greenman.  
-
-</details>
 
 
 <details>
