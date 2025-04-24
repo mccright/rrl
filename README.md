@@ -4493,6 +4493,38 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
+
+### God Save Benedict Arnold -- The True Story of America's Most Hated Man. (9:00)  
+Audio: https://www.overdrive.com/media/9910346/god-save-benedict-arnold  
+eBook: https://www.overdrive.com/media/9496715/god-save-benedict-arnold  
+By [Jack Kelly](https://jackkellybooks.com/about/)  ( – )  
+
+Reading Notes: This non-fiction book is an outline military history of some of Benedict Arnold's activities during the "*American Revolution*", not a broad or thorough biography.  In that category, it was an interesting listen.  
+
+
+[Overdrive Summary](https://www.overdrive.com/media/9910346/god-save-benedict-arnold):  
+>Benedict Arnold committed treason — for more than two centuries, that's all that most Americans have known about him.  Yet Arnold was much more than a turncoat—his achievements during the early years of the Revolutionary War defined him as the most successful soldier of the era. GOD SAVE BENEDICT ARNOLD tells the gripping story of Arnold's rush of audacious feats—his capture of Fort Ticonderoga, his Maine mountain expedition to attack Quebec, the famous artillery brawl at Valcour Island, the turning-point battle at Saratoga—that laid the groundwork for our independence.Arnold was a superb leader, a brilliant tactician, a supremely courageous military officer. He was also imperfect, disloyal, villainous. One of the most paradoxical characters in American history, and one of the most interesting. GOD SAVE BENEDICT ARNOLD does not exonerate him for his treason—the stain on his character is permanent. But Kelly's insightful exploration of Arnold's career as a warrior shines a new light on this gutsy, fearless, and enigmatic figure. In the process, the book offers a fresh perspective on the reasons for Arnold's momentous change of heart.  
+
+
+</details>
+
+
+<details>
+<summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
+
+### Creation Lake.  (11:00)  
+Audio: https://www.overdrive.com/media/10480247/creation-lake  
+eBook: https://www.overdrive.com/media/10480407/creation-lake  
+By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
+
+Reading Notes:   
+
+
+</details>
+
+
 
 <details>
 <summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
@@ -4502,7 +4534,10 @@ Audio: https://www.overdrive.com/media/2204520/the-red-eagles
 eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
 By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
 
-Reading Notes:   
+Reading Notes: This is an interesting story outlining one way to *explain* how the Soviet Union could so quickly developed an atomic bomb after WWII.  It is fast-paced spy fiction that kept me involved throughout.  
+
+[Overdrive Summary](https://www.overdrive.com/media/2204520/the-red-eagles):  
+>World War II is nearly over. For the Russians, the enemy is no longer Nazi Germany, but the American behemoth that threatens to topple the Communist revolution. Deep within the walls of the Kremlin, Stalin's top man hatches a brilliant plan that will alter the course of postwar history-and it's all based on a deception as simple as the shell game. Five years later, an atomic bomb detonates deep within the borders of the Soviet Union, stunning the experts who had predicted that Russian science could not produce such a devastating weapon for at least another generation. The Red Eagles traces the adventures of two spies, Jack Kuznetzky and Amy Brandon, as they track down the most deadly force in the world while hiding their true allegiances and intentions from their compatriots. They are the "red" eagles, sent to America by one of its enemies to steal the greatest secret of all: the key to producing the atomic bomb. Critically acclaimed spy thriller writer David Downing draws fascinating portrayals of Stalin and Hitler as they determine the fate of the world, drawing us at breakneck speed from the Kremlin to Berchtesgaden, from Manhattan and Washington to Tennessee ad Louisiana, from Cuba to Sweden and New Zealand. And so the question remains unanswered to this day: how did the Russians produce the bomb so quickly? In The Read Eagles, Downing has created a story that will not only provide the ultimate clue, but also satisfy the most demanding thriller devotee.  
 
 
 </details>
