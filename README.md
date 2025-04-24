@@ -3451,6 +3451,23 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)
 </details>
 
 
+<details>
+<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
+
+### The Red Eagles.  (7:00)  
+Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
+eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
+By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
+
+Reading Notes: This is an interesting story outlining one way to *explain* how the Soviet Union could so quickly developed an atomic bomb after WWII.  It is fast-paced spy fiction that kept me involved throughout.  
+
+[Overdrive Summary](https://www.overdrive.com/media/2204520/the-red-eagles):  
+>World War II is nearly over. For the Russians, the enemy is no longer Nazi Germany, but the American behemoth that threatens to topple the Communist revolution. Deep within the walls of the Kremlin, Stalin's top man hatches a brilliant plan that will alter the course of postwar history-and it's all based on a deception as simple as the shell game. Five years later, an atomic bomb detonates deep within the borders of the Soviet Union, stunning the experts who had predicted that Russian science could not produce such a devastating weapon for at least another generation. The Red Eagles traces the adventures of two spies, Jack Kuznetzky and Amy Brandon, as they track down the most deadly force in the world while hiding their true allegiances and intentions from their compatriots. They are the "red" eagles, sent to America by one of its enemies to steal the greatest secret of all: the key to producing the atomic bomb. Critically acclaimed spy thriller writer David Downing draws fascinating portrayals of Stalin and Hitler as they determine the fate of the world, drawing us at breakneck speed from the Kremlin to Berchtesgaden, from Manhattan and Washington to Tennessee ad Louisiana, from Cuba to Sweden and New Zealand. And so the question remains unanswered to this day: how did the Russians produce the bomb so quickly? In The Read Eagles, Downing has created a story that will not only provide the ultimate clue, but also satisfy the most demanding thriller devotee.  
+
+
+</details>
+
+
 <details><summary><a name="red_winter_by_marc_cameron"></a>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
@@ -4524,23 +4541,6 @@ Reading Notes:
 
 </details>
 
-
-
-<details>
-<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
-
-### The Red Eagles.  (7:00)  
-Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
-eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
-By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
-
-Reading Notes: This is an interesting story outlining one way to *explain* how the Soviet Union could so quickly developed an atomic bomb after WWII.  It is fast-paced spy fiction that kept me involved throughout.  
-
-[Overdrive Summary](https://www.overdrive.com/media/2204520/the-red-eagles):  
->World War II is nearly over. For the Russians, the enemy is no longer Nazi Germany, but the American behemoth that threatens to topple the Communist revolution. Deep within the walls of the Kremlin, Stalin's top man hatches a brilliant plan that will alter the course of postwar history-and it's all based on a deception as simple as the shell game. Five years later, an atomic bomb detonates deep within the borders of the Soviet Union, stunning the experts who had predicted that Russian science could not produce such a devastating weapon for at least another generation. The Red Eagles traces the adventures of two spies, Jack Kuznetzky and Amy Brandon, as they track down the most deadly force in the world while hiding their true allegiances and intentions from their compatriots. They are the "red" eagles, sent to America by one of its enemies to steal the greatest secret of all: the key to producing the atomic bomb. Critically acclaimed spy thriller writer David Downing draws fascinating portrayals of Stalin and Hitler as they determine the fate of the world, drawing us at breakneck speed from the Kremlin to Berchtesgaden, from Manhattan and Washington to Tennessee ad Louisiana, from Cuba to Sweden and New Zealand. And so the question remains unanswered to this day: how did the Russians produce the bomb so quickly? In The Read Eagles, Downing has created a story that will not only provide the ultimate clue, but also satisfy the most demanding thriller devotee.  
-
-
-</details>
 
 
 
