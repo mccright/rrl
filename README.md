@@ -2768,6 +2768,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 
 
 <details>
+<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+
+### An Officer and a Spy -- A novel.  (16:00)  
+Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
+eBook: https://www.overdrive.com/media/1371603/an-officer-and-a-spy  
+By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
+
+Reading Notes: This story is an easy way to learn about "[The Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_affair)."  I recommend it to anyone who just can't remember much about it from your high school or college studies.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/An_Officer_and_a_Spy  
+
+OverDrive Summary:  
+>Alfred Dreyfus has been convicted of treason, sentenced to life imprisonment on a far-off island, and publicly stripped of his rank. Among the witnesses to his humiliation is Georges Picquart, an ambitious military officer who believes in Dreyfus's guilt as staunchly as any member of the public. But when he is promoted to head of the French counter-espionage agency, Picquart finds evidence that a spy still remains at large in the military—indicating that Dreyfus is innocent. As evidence of the most malignant deceit mounts and spirals inexorably toward the uppermost levels of government, Picquart is compelled to question not only the case against Dreyfus but also his most deeply held beliefs about his country, and about himself.  
+
+
+</details>
+
+
+<details>
 <summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
@@ -3018,7 +3037,7 @@ Reading Notes: This is another WWI British spy novel that screams its age and cu
 </details>
 
 
-<details><summary>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
+<details><summary><a name="civil_disobedience_by_henry_david_thoreau"></a>On the Duty of Civil Disobedience. By Henry David Thoreau.  1849 </summary>
 
 ### On the Duty of Civil Disobedience. (1:07)  
 Audio: https://librivox.org/on-the-duty-of-civil-disobedience-by-henry-david-thoreau-2/  
@@ -3233,6 +3252,25 @@ Summary from Librivox:
 </details>
 
 
+<details><summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
+
+### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
+Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
+eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+
+Reading Notes: Donald Trump 47 repeatedly threatened to *take-back* the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal).  I didn't really know the history of the Panama Canal, so listened to David McCullough's history.  It details failed attempts to build a canal between the Atlantic and Pacific oceans across [Central America](https://en.wikipedia.org/wiki/Central_America) -- the most expansive by the French in the late 19th century led by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps) from 1880 through 1889. McCullough outlines extensive U.S. involvement in Panamanians seceding from Colombia before *taking* the "[Panama Canal Zone](https://en.wikipedia.org/wiki/Panama_Canal_Zone)" from Panama.  Then, in heroic tones, the book details the public health, engineering and implementation successes that were critical to finishing and operating the canal.  See the Wikipedia summary of [this book](https://en.wikipedia.org/wiki/The_Path_Between_the_Seas) as well as the page on the [History of the Panama Canal](https://en.wikipedia.org/wiki/History_of_the_Panama_Canal) for more.   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
+History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
+Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
+Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
+Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+
+
+</details>
+
+
 <details><summary><a name="paris_in_ruins_by_sebastian_smee"></a>Paris in Ruins -- Love, War, and the Birth of Impressionism. By Sebastian Smee. 2024 </summary>
 
 ### Paris in Ruins -- Love, War, and the Birth of Impressionism. (12:00)  
@@ -3428,6 +3466,23 @@ By [Daphne du Maurier](https://en.wikipedia.org/wiki/Daphne_du_Maurier)  (1907 �
 Reading Notes: If you like [gothic novels](https://en.wikipedia.org/wiki/Gothic_literature) slow, then pace building, and dark, this is a good one... See the [Wikipedia Summary](https://en.wikipedia.org/wiki/Rebecca_(novel)) for more.  
 
 Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)  
+
+</details>
+
+
+<details>
+<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
+
+### The Red Eagles.  (7:00)  
+Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
+eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
+By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
+
+Reading Notes: This is an interesting story outlining one way to *explain* how the Soviet Union could so quickly developed an atomic bomb after WWII.  It is fast-paced spy fiction that kept me involved throughout.  
+
+[Overdrive Summary](https://www.overdrive.com/media/2204520/the-red-eagles):  
+>World War II is nearly over. For the Russians, the enemy is no longer Nazi Germany, but the American behemoth that threatens to topple the Communist revolution. Deep within the walls of the Kremlin, Stalin's top man hatches a brilliant plan that will alter the course of postwar history-and it's all based on a deception as simple as the shell game. Five years later, an atomic bomb detonates deep within the borders of the Soviet Union, stunning the experts who had predicted that Russian science could not produce such a devastating weapon for at least another generation. The Red Eagles traces the adventures of two spies, Jack Kuznetzky and Amy Brandon, as they track down the most deadly force in the world while hiding their true allegiances and intentions from their compatriots. They are the "red" eagles, sent to America by one of its enemies to steal the greatest secret of all: the key to producing the atomic bomb. Critically acclaimed spy thriller writer David Downing draws fascinating portrayals of Stalin and Hitler as they determine the fate of the world, drawing us at breakneck speed from the Kremlin to Berchtesgaden, from Manhattan and Washington to Tennessee ad Louisiana, from Cuba to Sweden and New Zealand. And so the question remains unanswered to this day: how did the Russians produce the bomb so quickly? In The Read Eagles, Downing has created a story that will not only provide the ultimate clue, but also satisfy the most demanding thriller devotee.  
+
 
 </details>
 
@@ -4474,34 +4529,44 @@ Reading Notes:
 
 
 
-
 <details>
-<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
+<summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
 
-### The Red Eagles.  (12:00)  
-Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
-eBook: https://www.overdrive.com/media/2001364/the-red-eagles  
-By [David Downing](https://en.wikipedia.org/wiki/David_Downing)  (1946 – )  
+### God Save Benedict Arnold -- The True Story of America's Most Hated Man. (9:00)  
+Audio: https://www.overdrive.com/media/9910346/god-save-benedict-arnold  
+eBook: https://www.overdrive.com/media/9496715/god-save-benedict-arnold  
+By [Jack Kelly](https://jackkellybooks.com/about/)  ( – )  
 
-Reading Notes:   
+Reading Notes: This non-fiction book is an outline military history of some of Benedict Arnold's activities during the "*American Revolution*", not a broad or thorough biography.  In that category, it was an interesting listen.  
+
+
+[Overdrive Summary](https://www.overdrive.com/media/9910346/god-save-benedict-arnold):  
+>Benedict Arnold committed treason — for more than two centuries, that's all that most Americans have known about him.  Yet Arnold was much more than a turncoat—his achievements during the early years of the Revolutionary War defined him as the most successful soldier of the era. GOD SAVE BENEDICT ARNOLD tells the gripping story of Arnold's rush of audacious feats—his capture of Fort Ticonderoga, his Maine mountain expedition to attack Quebec, the famous artillery brawl at Valcour Island, the turning-point battle at Saratoga—that laid the groundwork for our independence.Arnold was a superb leader, a brilliant tactician, a supremely courageous military officer. He was also imperfect, disloyal, villainous. One of the most paradoxical characters in American history, and one of the most interesting. GOD SAVE BENEDICT ARNOLD does not exonerate him for his treason—the stain on his character is permanent. But Kelly's insightful exploration of Arnold's career as a warrior shines a new light on this gutsy, fearless, and enigmatic figure. In the process, the book offers a fresh perspective on the reasons for Arnold's momentous change of heart.  
 
 
 </details>
 
 
-
 <details>
-<summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
+<summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
 
-### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
-Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
-eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
-By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+### Creation Lake.  (11:00)  
+Audio: https://www.overdrive.com/media/10480247/creation-lake  
+eBook: https://www.overdrive.com/media/10480407/creation-lake  
+By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
 
-Reading Notes:   
+Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  
 
+References [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
+
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../creation-lake-rachel-kushner...](https://www.nytimes.com/2024/09/02/books/review/creation-lake-rachel-kushner.html?unlocked_article_code=1.CE8.GeY3.UVE5vcg0oqs2&smid=url-share)  
+Review by [Lily Meyer](): [https://www.theatlantic.com/.../rachel-kushner-creation-lake-review...](https://www.theatlantic.com/magazine/archive/2024/10/rachel-kushner-creation-lake-review/679571/)  
+Review by [Maureen Corrigan](https://www.npr.org/people/4529709/maureen-corrigan): [https://www.npr.org/.../creation-lake-review-rachel-kushner](https://www.npr.org/2024/09/10/nx-s1-5104725/creation-lake-review-rachel-kushner)  
+Review by [Alexandra Schwartz](https://www.newyorker.com/contributors/alexandra-schwartz): [https://www.newyorker.com/.../creation-lake-rachel-kushner-book-review](https://www.newyorker.com/magazine/2024/10/14/creation-lake-rachel-kushner-book-review)  
 
 </details>
+
+
 
 
 
@@ -4526,25 +4591,6 @@ Summary from MIT Press:
 
 </details>
 
-
-
-<details>
-<summary>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
-
-### Toilers of the Sea. (17:05)  
-Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=2021  
-By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
-Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
-
-Reading Notes:  
-
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea  
-[Librivox Summary](https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/):  
->The book is dedicated to the island of Guernsey, where Victor Hugo spent 15 years in exile. Hugo uses the setting of a small island community to convert seemingly mundane events into drama of the highest caliber. Set just after the Napoleonic Wars, Toilers of the Sea deals with the impact of the Industrial Revolution upon the island. The story concerns a Guernseyman named Gilliatt, a social outcast who falls in love with Deruchette, the niece of a local shipowner, Mess Lethierry. When Lethierry's ship is wrecked on a perilous reef, Deruchette promises to marry whoever can salvage the ship's steam engine. Gilliatt eagerly volunteers, and the story follows his physical trials and tribulations, as well as the undeserved disapproval of his neighbors. This is a recording of the Isabel Hapgood translation, long considered the best of early translations of the work. - Summary by John Greenman.  
-
-</details>
 
 
 <details>
