@@ -2768,6 +2768,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 
 
 <details>
+<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+
+### An Officer and a Spy -- A novel.  (16:00)  
+Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
+eBook: https://www.overdrive.com/media/1371603/an-officer-and-a-spy  
+By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
+
+Reading Notes: This story is an easy way to learn about "[The Dreyfus Affair](https://en.wikipedia.org/wiki/Dreyfus_affair)."  I recommend it to anyone who just can't remember much about it from your high school or college studies.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/An_Officer_and_a_Spy  
+
+OverDrive Summary:  
+>Alfred Dreyfus has been convicted of treason, sentenced to life imprisonment on a far-off island, and publicly stripped of his rank. Among the witnesses to his humiliation is Georges Picquart, an ambitious military officer who believes in Dreyfus's guilt as staunchly as any member of the public. But when he is promoted to head of the French counter-espionage agency, Picquart finds evidence that a spy still remains at large in the military—indicating that Dreyfus is innocent. As evidence of the most malignant deceit mounts and spirals inexorably toward the uppermost levels of government, Picquart is compelled to question not only the case against Dreyfus but also his most deeply held beliefs about his country, and about himself.  
+
+
+</details>
+
+
+<details>
 <summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
