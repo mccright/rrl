@@ -4528,6 +4528,39 @@ Reading Notes:
 </details>
 
 
+<details>
+<summary><a name="do_i_know_you_by_sadie_dingfelder"></a>Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination. By Sadie Dingfelder 2024 </summary>
+
+### Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination.  
+Audio: https://www.overdrive.com/media/10180478/do-i-know-you  
+eBook: https://www.overdrive.com/media/10180708/do-i-know-you  
+By [Sadie Dingfelder](https://www.sadied.com/about)  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+<details>
+<summary><a name="last_and_first_men_by_olaf_stapledon"></a>Last and first men -- SF Masterworks,11.  By Olaf Stapledon. </summary>
+
+### Last and First Men.  
+Audio:   
+eBook: https://www.overdrive.com/media/1850679/last-and-first-men  
+By [Olaf Stapledon, AKA William Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)  (1886 – 1950)  
+
+Reading Notes:   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men  
+[OverDrive Summary](https://www.overdrive.com/media/1850679/last-and-first-men):  
+>This text is not so much a novel as a history of the future Over the course of 2,000 million years it describes the evolutionary rise and fall of eighteen distinct races of men, of which Homo sapiens is the first and most primitive.  
+
+
+</details>
+
+
 
 <details>
 <summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
