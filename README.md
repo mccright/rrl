@@ -4587,8 +4587,9 @@ Reading Notes: This non-fiction book is an outline military history of some of B
 Audio: https://www.overdrive.com/media/10480247/creation-lake  
 eBook: https://www.overdrive.com/media/10480407/creation-lake  
 By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
+416 pages  
 
-Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  
+Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
 
 References [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
 
