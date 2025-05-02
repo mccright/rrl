@@ -4529,6 +4529,22 @@ Reading Notes:
 
 
 <details>
+<summary><a name="the_safekeep_by_yael_van_der_wouden"></a>The Safekeep.  By Yael van der Wouden.  2024 </summary>
+
+### The Safekeep. (9:30)  
+Audio: https://www.overdrive.com/media/10216839/the-safekeep  
+eBook: https://www.overdrive.com/media/10217126/the-safekeep  
+By [Yael van der Wouden](https://en.wikipedia.org/wiki/Yael_van_der_Wouden)  (1987 – )  
+
+Reading Notes: See the [Wikipedia](https://en.wikipedia.org/wiki/The_Safekeep) for a proper summary. This story explores one example of how some, the *lucky* maybe, take advantage of the desperate -- in this case, during WWII.  And how, sometimes, those acts have influence widespread, long lived and also intimate and cutting. The author created a satisfying reminder, caution.  
+
+[OverDrive Summmary](https://www.overdrive.com/media/10217126/the-safekeep):  
+>It is 1961 and the rural Dutch province of Overijssel is quiet. Bomb craters have been filled, buildings reconstructed, and the war is truly over. Living alone in her late mother's country home, Isabel knows her life is as it should be—led by routine and discipline. But all is upended when her brother Louis brings his graceless new girlfriend Eva, leaving her at Isabel's doorstep as a guest, to stay for the season. Eva is Isabel's antithesis: she sleeps late, walks loudly through the house, and touches things she shouldn't. In response, Isabel develops a fury-fueled obsession, and when things start disappearing around the house—a spoon, a knife, a bowl—Isabel's suspicions begin to spiral. In the sweltering peak of summer, Isabel's paranoia gives way to infatuation, leading to a discovery that unravels all Isabel has ever known. The war might not be well and truly over after all, and neither Eva—nor the house in which they live—are what they seem. Mysterious, sophisticated, sensual, and infused with intrigue, atmosphere, and sex, The Safekeep is "a brave and thrilling debut about facing up to the truth of history, and to one's own desires" (The Guardian).  
+
+</details>
+
+
+<details>
 <summary><a name="do_i_know_you_by_sadie_dingfelder"></a>Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination. By Sadie Dingfelder 2024 </summary>
 
 ### Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination.  
@@ -4587,8 +4603,9 @@ Reading Notes: This non-fiction book is an outline military history of some of B
 Audio: https://www.overdrive.com/media/10480247/creation-lake  
 eBook: https://www.overdrive.com/media/10480407/creation-lake  
 By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
+416 pages  
 
-Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  
+Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
 
 References [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
 
