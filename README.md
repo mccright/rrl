@@ -406,6 +406,7 @@ By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 
 Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
 
 See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution).  
+
 [OverDrive Summary](https://www.overdrive.com/media/4608846/the-andromeda-evolution): 
 >The Evolution is Coming.  
 >In 1967, an extraterrestrial microbe came crashing down to Earth and nearly ended the human race. Accidental exposure to the particle—designated The Andromeda Strain—killed every resident of the town of Piedmont, Arizona, save for an elderly man and an infant boy. Over the next five days, a team of top scientists assigned to Project Wildfire worked valiantly to save the world from an epidemic of unimaginable proportions. In the moments before a catastrophic nuclear detonation, they succeeded.  
@@ -3557,6 +3558,23 @@ Reading Notes:  This is a useful and entertaining (*fictional*) history about th
 </details>
 
 
+<details><summary><a name="the_safekeep_by_yael_van_der_wouden"></a>The Safekeep.  By Yael van der Wouden.  2024 </summary>
+
+### The Safekeep. (9:30)  
+Audio: https://www.overdrive.com/media/10216839/the-safekeep  
+eBook: https://www.overdrive.com/media/10217126/the-safekeep  
+By [Yael van der Wouden](https://en.wikipedia.org/wiki/Yael_van_der_Wouden)  (1987 – )  
+
+Reading Notes: See [Wikipedia](https://en.wikipedia.org/wiki/The_Safekeep) for a proper summary. This story explores one example of how some, the *lucky* maybe(?), take advantage of the desperate -- in this case, during WWII.  And how, sometimes, those acts have influence widespread, long lived and also intimate and cutting. The author created a satisfying reminder and caution.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Safekeep  
+
+[OverDrive Summmary](https://www.overdrive.com/media/10217126/the-safekeep):  
+>It is 1961 and the rural Dutch province of Overijssel is quiet. Bomb craters have been filled, buildings reconstructed, and the war is truly over. Living alone in her late mother's country home, Isabel knows her life is as it should be—led by routine and discipline. But all is upended when her brother Louis brings his graceless new girlfriend Eva, leaving her at Isabel's doorstep as a guest, to stay for the season. Eva is Isabel's antithesis: she sleeps late, walks loudly through the house, and touches things she shouldn't. In response, Isabel develops a fury-fueled obsession, and when things start disappearing around the house—a spoon, a knife, a bowl—Isabel's suspicions begin to spiral. In the sweltering peak of summer, Isabel's paranoia gives way to infatuation, leading to a discovery that unravels all Isabel has ever known. The war might not be well and truly over after all, and neither Eva—nor the house in which they live—are what they seem. Mysterious, sophisticated, sensual, and infused with intrigue, atmosphere, and sex, The Safekeep is "a brave and thrilling debut about facing up to the truth of history, and to one's own desires" (The Guardian).  
+
+</details>
+
+
 <details><summary><a name="saint_joan_preface_by_george_bernard_shaw"></a>Saint Joan: Preface.  By George Bernard Shaw.  1923</summary>
 
 ### Saint Joan: Preface  (2:12)  
@@ -4529,22 +4547,6 @@ Reading Notes:
 
 
 <details>
-<summary><a name="the_safekeep_by_yael_van_der_wouden"></a>The Safekeep.  By Yael van der Wouden.  2024 </summary>
-
-### The Safekeep. (9:30)  
-Audio: https://www.overdrive.com/media/10216839/the-safekeep  
-eBook: https://www.overdrive.com/media/10217126/the-safekeep  
-By [Yael van der Wouden](https://en.wikipedia.org/wiki/Yael_van_der_Wouden)  (1987 – )  
-
-Reading Notes: See the [Wikipedia](https://en.wikipedia.org/wiki/The_Safekeep) for a proper summary. This story explores one example of how some, the *lucky* maybe, take advantage of the desperate -- in this case, during WWII.  And how, sometimes, those acts have influence widespread, long lived and also intimate and cutting. The author created a satisfying reminder, caution.  
-
-[OverDrive Summmary](https://www.overdrive.com/media/10217126/the-safekeep):  
->It is 1961 and the rural Dutch province of Overijssel is quiet. Bomb craters have been filled, buildings reconstructed, and the war is truly over. Living alone in her late mother's country home, Isabel knows her life is as it should be—led by routine and discipline. But all is upended when her brother Louis brings his graceless new girlfriend Eva, leaving her at Isabel's doorstep as a guest, to stay for the season. Eva is Isabel's antithesis: she sleeps late, walks loudly through the house, and touches things she shouldn't. In response, Isabel develops a fury-fueled obsession, and when things start disappearing around the house—a spoon, a knife, a bowl—Isabel's suspicions begin to spiral. In the sweltering peak of summer, Isabel's paranoia gives way to infatuation, leading to a discovery that unravels all Isabel has ever known. The war might not be well and truly over after all, and neither Eva—nor the house in which they live—are what they seem. Mysterious, sophisticated, sensual, and infused with intrigue, atmosphere, and sex, The Safekeep is "a brave and thrilling debut about facing up to the truth of history, and to one's own desires" (The Guardian).  
-
-</details>
-
-
-<details>
 <summary><a name="do_i_know_you_by_sadie_dingfelder"></a>Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination. By Sadie Dingfelder 2024 </summary>
 
 ### Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination.  
@@ -4658,7 +4660,7 @@ Reading Notes:
 Short summary on Wikipedia:  
 >Mr. Verloc, The Secret Agent (1906) of divided loyalties, attempts a bombing, to be blamed on terrorists, that accidentally kills his mentally defective brother-in-law Stevie, and Verloc himself is killed by his distraught wife, who drowns herself by jumping overboard from a channel steamer. [From this section](https://en.wikipedia.org/wiki/Joseph_Conrad#Themes_and_style)  
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent  
 
 </details>
 
@@ -4855,7 +4857,7 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 * Flash Point (2023)  
 * Weapons Grade (2023)  
 * Command and Control (2023)  
-* Act of Defiance (2024)
+* Act of Defiance (2024)  
 
 </details>
 
