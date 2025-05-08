@@ -1296,6 +1296,21 @@ https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&
 </details>
 
 
+<details><summary><a name="daughter_of_the_sky_by_paul_l_briand"></a>Daughter of the Sky: The Story of Amelia Earhart. By Paul L. Briand, Jr.  1960 </summary>
+
+### Daughter of the Sky: The Story of Amelia Earhart. (7:58)  
+Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/  
+eBook: https://www.gutenberg.org/ebooks/70263  
+By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
+
+Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *fills in* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
+
+Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, "Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
+
+
+</details>
+
+
 <details><summary><a name="dead_fall_by_brad_thor"></a>Dead Fall. By Brad Thor. 2023 </summary>
 
 ### Dead Fall. (12:00)  
