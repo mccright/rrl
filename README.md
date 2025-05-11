@@ -3547,6 +3547,30 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
+<details>
+<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
+
+### The Rise and Fall of D.O.D.O.  (24:00)  
+Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
+eBook: https://www.overdrive.com/media/2962712/the-rise-and-fall-of-d-o-d-o  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _) and [Nicole Galland](https://en.wikipedia.org/wiki/Nicole_Galland) and [nicolegalland.com](https://www.nicolegalland.com/about-the-author)  
+
+Reading Notes: Stephenson builds a world where "magic," "witches" and quantum physics are brought together to help fight *enemies* of the U.S. That setup might be off-putting for some, but his imagination and skills as a writer make every one of its 768 pages and every minute of the recording's 24 hours worth the investment.  The audio version is performed by a talented cast that add to the joy of experiencing this entertaining novel.  It is a complicated story and I couldn't do it justice here, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.) for a proper outline/overview.  
+The *sciencey* thread of the story depends on the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*)  
+In 2021, Nicole Galland published a sequel named [Master of the Revels: A Return to Neal Stephenson's D.O.D.O.](https://en.wikipedia.org/wiki/Master_of_the_Revels:_A_Return_to_Neal_Stephenson%27s_D.O.D.O.).  
+
+* Dr. Melisande Stokes, Tristan Lyons, Dr. Frank Oda, Erszebet Karpathy,   
+* Department of Diachronic Operations -- D.O.D.O.  
+* Photography collapses the wave function of life.  
+* Ontic Decoherence Cavity -- "ODC" (*by Professor Frank Oda*)  
+* Diachronic Shear, a catastrophic *explosion* that occurs when history is changed too much or too quickly...  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.  
+OverDrive Summary: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
+
+</details>
+
+
 <details><summary><a name="rise_to_rebellion_jeff_shaara"></a>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
 
 ### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
