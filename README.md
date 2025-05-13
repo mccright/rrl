@@ -1296,6 +1296,21 @@ https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&
 </details>
 
 
+<details><summary><a name="daughter_of_the_sky_by_paul_l_briand"></a>Daughter of the Sky: The Story of Amelia Earhart. By Paul L. Briand, Jr.  1960 </summary>
+
+### Daughter of the Sky: The Story of Amelia Earhart. (7:58)  
+Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/  
+eBook: https://www.gutenberg.org/ebooks/70263  
+By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
+
+Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *fills in* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
+
+Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, "Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
+
+
+</details>
+
+
 <details><summary><a name="dead_fall_by_brad_thor"></a>Dead Fall. By Brad Thor. 2023 </summary>
 
 ### Dead Fall. (12:00)  
@@ -1839,6 +1854,23 @@ Reading Notes:
 Review by [Gabino Iglesias](): [https://www.npr.org/...jacqueline-holland-the-god-of-endings-book-review](https://www.npr.org/2023/03/09/1161871204/jacqueline-holland-the-god-of-endings-book-review)  
 Review by [Fran Hoepfner](): [https://www.nytimes.com/...the-god-of-endings-jacqueline-holland.html](https://www.nytimes.com/2023/03/07/books/review/the-god-of-endings-jacqueline-holland.html)  
 Review by [Lorraine Berry](): [https://www.startribune.com/review-the-god-of-endings...](https://www.startribune.com/review-the-god-of-endings-by-jacqueline-holland/600255934/)  
+
+</details>
+
+
+<details><summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
+
+### God Save Benedict Arnold -- The True Story of America's Most Hated Man. (9:00)  
+Audio: https://www.overdrive.com/media/9910346/god-save-benedict-arnold  
+eBook: https://www.overdrive.com/media/9496715/god-save-benedict-arnold  
+By [Jack Kelly](https://jackkellybooks.com/about/)  ( – )  
+
+Reading Notes: This non-fiction book is an outline military history of some of Benedict Arnold's activities during the "*American Revolution*", not a broad or thorough biography.  In that category, it was an interesting listen.  
+
+
+[Overdrive Summary](https://www.overdrive.com/media/9910346/god-save-benedict-arnold):  
+>Benedict Arnold committed treason — for more than two centuries, that's all that most Americans have known about him.  Yet Arnold was much more than a turncoat—his achievements during the early years of the Revolutionary War defined him as the most successful soldier of the era. GOD SAVE BENEDICT ARNOLD tells the gripping story of Arnold's rush of audacious feats—his capture of Fort Ticonderoga, his Maine mountain expedition to attack Quebec, the famous artillery brawl at Valcour Island, the turning-point battle at Saratoga—that laid the groundwork for our independence.Arnold was a superb leader, a brilliant tactician, a supremely courageous military officer. He was also imperfect, disloyal, villainous. One of the most paradoxical characters in American history, and one of the most interesting. GOD SAVE BENEDICT ARNOLD does not exonerate him for his treason—the stain on his character is permanent. But Kelly's insightful exploration of Arnold's career as a warrior shines a new light on this gutsy, fearless, and enigmatic figure. In the process, the book offers a fresh perspective on the reasons for Arnold's momentous change of heart.  
+
 
 </details>
 
@@ -3515,6 +3547,30 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
+<details>
+<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
+
+### The Rise and Fall of D.O.D.O.  (24:00)  
+Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
+eBook: https://www.overdrive.com/media/2962712/the-rise-and-fall-of-d-o-d-o  
+By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _) and [Nicole Galland](https://en.wikipedia.org/wiki/Nicole_Galland) and [nicolegalland.com](https://www.nicolegalland.com/about-the-author)  
+
+Reading Notes: Stephenson builds a world where "magic," "witches" and quantum physics are brought together to help fight *enemies* of the U.S. That setup might be off-putting for some, but his imagination and skills as a writer make every one of its 768 pages and every minute of the recording's 24 hours worth the investment.  The audio version is performed by a talented cast that add to the joy of experiencing this entertaining novel.  It is a complicated story and I couldn't do it justice here, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.) for a proper outline/overview.  
+The *sciencey* thread of the story depends on the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*)  
+In 2021, Nicole Galland published a sequel named [Master of the Revels: A Return to Neal Stephenson's D.O.D.O.](https://en.wikipedia.org/wiki/Master_of_the_Revels:_A_Return_to_Neal_Stephenson%27s_D.O.D.O.).  
+
+* Dr. Melisande Stokes, Tristan Lyons, Dr. Frank Oda, Erszebet Karpathy,   
+* Department of Diachronic Operations -- D.O.D.O.  
+* Photography collapses the wave function of life.  
+* Ontic Decoherence Cavity -- "ODC" (*by Professor Frank Oda*)  
+* Diachronic Shear, a catastrophic *explosion* that occurs when history is changed too much or too quickly...  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.  
+OverDrive Summary: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
+
+</details>
+
+
 <details><summary><a name="rise_to_rebellion_jeff_shaara"></a>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
 
 ### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
@@ -4546,6 +4602,57 @@ Reading Notes:
 </details>
 
 
+
+
+
+<details>
+<summary><a name="valiant_women_by_lena_s_andrews"></a>Valiant Women -- The Extraordinary American Servicewomen Who Helped Win World War II.  By Lena S. Andrews. 2023 </summary>
+
+### Valiant Women -- The Extraordinary American Servicewomen Who Helped Win World War II. ()  
+Audio: https://www.overdrive.com/media/9141450/valiant-women  
+eBook: https://www.overdrive.com/media/9161050/valiant-women  
+By [Lena S. Andrews](https://cissm.umd.edu/our-community/faculty-staff/lena-andrews) and [ttps://www.lenaandrews.com](https://www.lenaandrews.com)  ( – )  
+
+Reading Notes:   
+
+
+</details>
+
+
+
+
+
+<details>
+<summary><a name="end_of_drum_time_by_hanna_pylvainen"></a>The End of Drum-Time -- A Novel.  By Hanna Pylväinen. 2023 
+ </summary>
+
+### The End of Drum-Time.  (15:00)  
+Audio: https://www.overdrive.com/media/8916796/the-end-of-drum-time  
+eBook: https://www.overdrive.com/media/8884262/the-end-of-drum-time  
+By [Hanna Pylväinen](https://en.wikipedia.org/wiki/Hanna_Pylv%C3%A4inen) and [anna Pylväinen](https://www.hannapylvainen.com/about)  ( – )  
+
+Reading Notes: This story incorporates an exploration of conflicts that too often appear when Christian, government functionary, and commercial business (both professional and amateur) enthusiasts colonize areas populated by indigenous people -- some with the explicit goal of eradicating the indigenous culture.  But its strength is really in how it does so through the thoughts and actions of *real people* and the nature they inhabit.  Set in 1851, at [a remote village in the northern Scandinavian tundra, a Lutheran minister, Lars Levi Laestadius, known as *Mad Lasse* tries to convert Swedes, Finns, and a group of Sámi nomadic reindeer herders to his faith](https://www.hannapylvainen.com/the-end-of-drum-time).  When a poor, but respected Sámi shaman and herder, Biettar Rasti, has an unexpected Christian awakening and dedicates his life to the church, Mad Lasse's following grows and his reputation ranges far. The convert's son, Ivvár, is left to manage their diminishing herd alone. Mad Lasse's daughter, Willa, becomes infatuated with Ivvár and follows the herders on their seasonal migration to the sea.  Envious of his successes, Frans orders Lars Levi to pastor at another church far South, then arrives to take over *Mad Lasse's* church and begins to manage finances of Henrik's store.  
+
+Some of the Characters:  
+* Lars Levi Laestadius, also known as *Mad Lasse*, Lutheran minister  
+* Biettar Rasti, Sámi shaman and herder, alcoholic, Lutheran convert and wannabe missionary.  
+* Ivvár, Biettar's son, alcoholic, Sámi herder.  
+* Henrik, the storekeeper.  
+* Frans, Henrik’s (*corrupt*) uncle, financer and the religious and legal leader of the area.  
+* Willa, Mad Lasse's daughter, infatuated with Ivvár.  
+* Risten, daughter of a successful Sámi herding family who once had a romance with Ivvár, and who later helped rescue, house, and train Willa about Sámi ways.  
+* Nora, Mad Lasse's daughter, marries Henrik.  
+
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/The_End_of_Drum-Time](https://en.wikipedia.org/wiki/The_End_of_Drum-Time)  
+Review by [Joan Gaylord](): [https://www.csmonitor.com/...The-End-of-Drum-Time...](https://www.csmonitor.com/Books/Book-Reviews/2023/0522/The-End-of-Drum-Time-weaves-a-poignant-tale-of-clashing-cultures)  
+Review By [Cory Oldweiler](): [https://www.startribune.com/review-the-end-of-drum-time...](https://www.startribune.com/review-the-end-of-drum-time-by-hanna-pylvainen/600247013)
+NPR's Scott Simon interviews Hanna Pylvainen about "The End of Drum-Time." [https://www.npr.org/...the-end-of-drum-time](https://www.npr.org/2023/01/28/1152313326/hanna-pylvainen-on-her-new-novel-the-end-of-drum-time)  
+Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time...](https://www.churchtimes.co.uk/articles/2024/1-november/books-arts/book-reviews/book-review-the-end-of-drum-time-by-hanna-pylvaeinen)  
+
+</details>
+
+
 <details>
 <summary><a name="do_i_know_you_by_sadie_dingfelder"></a>Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination. By Sadie Dingfelder 2024 </summary>
 
@@ -4578,24 +4685,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men
 
 </details>
 
-
-
-<details>
-<summary><a name="god_save_benedict_arnold_by_jack_kelly"></a>God Save Benedict Arnold -- The True Story of America's Most Hated Man. By Jack Kelly. 2023 </summary>
-
-### God Save Benedict Arnold -- The True Story of America's Most Hated Man. (9:00)  
-Audio: https://www.overdrive.com/media/9910346/god-save-benedict-arnold  
-eBook: https://www.overdrive.com/media/9496715/god-save-benedict-arnold  
-By [Jack Kelly](https://jackkellybooks.com/about/)  ( – )  
-
-Reading Notes: This non-fiction book is an outline military history of some of Benedict Arnold's activities during the "*American Revolution*", not a broad or thorough biography.  In that category, it was an interesting listen.  
-
-
-[Overdrive Summary](https://www.overdrive.com/media/9910346/god-save-benedict-arnold):  
->Benedict Arnold committed treason — for more than two centuries, that's all that most Americans have known about him.  Yet Arnold was much more than a turncoat—his achievements during the early years of the Revolutionary War defined him as the most successful soldier of the era. GOD SAVE BENEDICT ARNOLD tells the gripping story of Arnold's rush of audacious feats—his capture of Fort Ticonderoga, his Maine mountain expedition to attack Quebec, the famous artillery brawl at Valcour Island, the turning-point battle at Saratoga—that laid the groundwork for our independence.Arnold was a superb leader, a brilliant tactician, a supremely courageous military officer. He was also imperfect, disloyal, villainous. One of the most paradoxical characters in American history, and one of the most interesting. GOD SAVE BENEDICT ARNOLD does not exonerate him for his treason—the stain on his character is permanent. But Kelly's insightful exploration of Arnold's career as a warrior shines a new light on this gutsy, fearless, and enigmatic figure. In the process, the book offers a fresh perspective on the reasons for Arnold's momentous change of heart.  
-
-
-</details>
 
 
 <details>
