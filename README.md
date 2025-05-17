@@ -2952,6 +2952,23 @@ Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot
 </details>
 
 
+<details>
+<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
+
+### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
+Audio: https://www.overdrive.com/media/4294677/exit-strategy  
+eBook: https://www.overdrive.com/media/3750075/exit-strategy  
+By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
+
+Reading Notes: This story is expertly told from the perspective of a fully sentient cyborg whose primary role is to rescue a scientist/politician/bureaucrat, Dr. Mensah (his former owner), being held hostage by the GrayCris corporation. This short novella again left me wanting access the next episode... The [BookMarks Reviews](https://bookmarks.reviews/reviews/exit-strategy-the-murderbot-diaries/) below covers the rest.  
+
+Wikipedia Summary of The Murderbot Diaries Series: https://en.wikipedia.org/wiki/The_Murderbot_Diaries  
+
+BookMarks Reviews: [https://bookmarks.reviews/.../exit-strategy...](https://bookmarks.reviews/reviews/exit-strategy-the-murderbot-diaries/)  
+
+</details>
+
+
 <details><summary><a name="myth_of_seneca_falls_by_lisa_tetrault"></a>The Myth of Seneca Falls.  By Lisa Tetrault  2014</summary>
 
 ### The Myth of Seneca Falls -- Memory and the Women's Suffrage Movement, 1848-1898.  
