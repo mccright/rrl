@@ -3349,6 +3349,19 @@ Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [he
 </details>
 
 
+<details><summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
+
+### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
+Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
+eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin  
+Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
+
+Reading Notes: Improbable all around.  You need to be in the mood for a formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
+
+</details>
+
+
 <details><summary><a name="pierre_curie_marie_curie"></a>Pierre Curie. By Marie Curie.  1923 </summary>
 
 ### Pierre Curie.  (5:11)  
@@ -4631,20 +4644,6 @@ Reading Notes:
 </details>
 
 
-
-
-<details>
-<summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
-
-### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
-Audio: https://www.overdrive.com/media/8785227/the-perfect-assassin  
-eBook: https://www.overdrive.com/media/8770317/the-perfect-assassin  
-Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-assassin/9781538721841/  
-By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
-
-Reading Notes: Improbable all around.  You need to be in the mood for a formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
-
-</details>
 
 
 
