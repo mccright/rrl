@@ -2598,6 +2598,18 @@ Reading Notes: An eight minute read aimed at the very young.  The story warrants
 </details>
 
 
+<details><summary><a name="the_longest_race_by_kara_goucher"></a>The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
+ </summary>
+
+### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
+  
+By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
+
+Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
+
+</details>
+
+
 <details><summary><a name="longitude_dava_sobel"></a>Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time." By Dava Sobel. 2008 </summary>
 
 ### Longitude -- The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time. (4:00)  
@@ -4631,20 +4643,6 @@ Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-ass
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
 
 Reading Notes: Improbable all around.  You need to be in the mood for a formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
-
-</details>
-
-
-<details>
-<summary><a name="the_longest_race_by_kara_goucher"></a>
-The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. By Kara Goucher and Mary Pilon. 2023
- </summary>
-
-### The Longest Race -- Inside the Secret World of Abuse, Doping, and Deception on Nike's Elite Running Team. (9:00)  
-  
-By [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) (1978 – ) and [Mary Pilon](https://en.wikipedia.org/wiki/Mary_Pilon) (1986 - )  
-
-Reading Notes:  A memoir about distance athlete [Kara Goucher](https://en.wikipedia.org/wiki/Kara_Goucher) and her experience in the the [Nike Oregon Project](https://en.wikipedia.org/wiki/Nike_Oregon_Project) coached by (*doper, banned for sexual and emotional misconduct*) [Alberto Salazar](https://en.wikipedia.org/wiki/Alberto_Salazar).  
 
 </details>
 
