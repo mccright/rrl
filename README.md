@@ -475,6 +475,23 @@ OverDrive Summary:
 </details>
 
 
+<details><summary><a name="arsenals_of_folly_by_richard_rhodes"></a>Arsenals of Folly -- The Making of the Nuclear Arms Race. By Richard Rhodes. 2007 </summary>
+
+### Arsenals of Folly. (14:11)  
+Audio: https://www.overdrive.com/media/138702/arsenals-of-folly  
+eBook: https://www.overdrive.com/media/148008/arsenals-of-folly  
+By [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)  (1937 – )  
+886 pages (hardcover)  
+
+Reading Notes: I lived through the period covered in this book and was reminded of the many ways individuals coveting power lied about non-existant "*secrets*" and then exaggerated *threats* to justify their actions. I think it should be required reading for anyone who finds themselves believing political or military actors who use lies and/or fear to motivate their followers and justify their actions. There is [a lot of science supporting the negative impacts of lying and dishonesty on the human brain](https://duckduckgo.com/?q=what+lying+does+to+the+brain&t=h_&ia=web) and this book appears to illustrate some critical outcomes when leaders (*at many levels*) make lying and exaggerating threats a habit.  At the end of the book, Rhodes argued that the the military investments driven by the repeated fake intelligence and threat inflation displaced  *trillions of dollars* in social and infrastructure investments, leaving the U.S. much worse off than it would have been.  Many of the same *characters* repeatedly appear through the Reagan, Bush *senior* and Bush (*junior*) adminstrations.  Some of them also helped create academic *research* and public and private policy organizations to nurture new generations to carry on and evolve their ideas and practices.  Their progeny remain influential today.  Richard Rhodes shares a *lot* of detail throughout this historical nonfiction book.  Unless you have an interest in Nuclear Weapons and their proliferation from the 1960s through the early 1990s this book might be a slog.  
+
+Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://www.c-span.org/video/?202128-1/arsenals-folly)  
+[OverDrive Summary](https://www.overdrive.com/media/148008/arsenals-of-folly):  
+>In a narrative that moves like a thriller, Rhodes sheds light on the Reagan administration’s unprecedented arms buildup in the early 1980s, as well as the arms-reduction campaign that followed, and Reagan’s famous 1986 summit meeting with Gorbachev. Rhodes’s detailed exploration of events of this time constitutes a prehistory of the neoconservatives, demonstrating that the manipulation of government and public opinion with fake intelligence and threat inflation that the administration of George W. Bush has used to justify the current “war on terror” and the disastrous invasion of Iraq were developed and applied in the Reagan era and even before.  Drawing on personal interviews with both Soviet and U.S. participants, and on a wealth of new documentation, memoir literature, and oral history that has become available only in the past ten years, Rhodes recounts what actually happened in the final years of the Cold War that led to its dramatic end. The story is new, compelling, and continually surprising -– a revelatory re-creation of a hugely important era of our recent history.  
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
@@ -4645,24 +4662,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="arsenals_of_folly_by_richard_rhodes"></a>Arsenals of Folly -- The Making of the Nuclear Arms Race. By Richard Rhodes. 2007 </summary>
-
-### Arsenals of Folly. (14:11)  
-Audio: https://www.overdrive.com/media/138702/arsenals-of-folly  
-eBook: https://www.overdrive.com/media/148008/arsenals-of-folly  
-By [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)  (1937 – )  
-886 pages (hardcover)  
-
-Reading Notes: I lived through the period covered in this book and was reminded of the many ways individuals coveting power lied about non-existant "*secrets*" and then exaggerated *threats* to justify their actions. I think it should be required reading for anyone who finds themselves believing political or military actors who use lies and/or fear to motivate their followers and justify their actions. There is [a lot of science supporting the negative impacts of lying and dishonesty on the human brain](https://duckduckgo.com/?q=what+lying+does+to+the+brain&t=h_&ia=web) and this book appears to illustrate some critical outcomes when leaders (*at many levels*) make lying and exaggerating threats a habit.  At the end of the book, Rhodes argued that the the military investments driven by the repeated fake intelligence and threat inflation displaced  *trillions of dollars* in social and infrastructure investments, leaving the U.S. much worse off than it would have been.  Many of the same *characters* repeatedly appear through the Reagan, Bush *senior* and Bush (*junior*) adminstrations.  Some of them also helped create academic *research* and public and private policy organizations to nurture new generations to carry on and evolve their ideas and practices.  Their progeny remain influential today.  Richard Rhodes shares a *lot* of detail throughout this historical nonfiction book.  Unless you have an interest in Nuclear Weapons and their proliferation from the 1960s through the early 1990s this book might be a slog.  
-
-Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://www.c-span.org/video/?202128-1/arsenals-folly)  
-[OverDrive Summary](https://www.overdrive.com/media/148008/arsenals-of-folly):  
->In a narrative that moves like a thriller, Rhodes sheds light on the Reagan administration’s unprecedented arms buildup in the early 1980s, as well as the arms-reduction campaign that followed, and Reagan’s famous 1986 summit meeting with Gorbachev. Rhodes’s detailed exploration of events of this time constitutes a prehistory of the neoconservatives, demonstrating that the manipulation of government and public opinion with fake intelligence and threat inflation that the administration of George W. Bush has used to justify the current “war on terror” and the disastrous invasion of Iraq were developed and applied in the Reagan era and even before.  Drawing on personal interviews with both Soviet and U.S. participants, and on a wealth of new documentation, memoir literature, and oral history that has become available only in the past ten years, Rhodes recounts what actually happened in the final years of the Cold War that led to its dramatic end. The story is new, compelling, and continually surprising -– a revelatory re-creation of a hugely important era of our recent history.  
-
-</details>
 
 
 
