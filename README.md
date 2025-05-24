@@ -2572,6 +2572,22 @@ Interview with Lily Brooks-Dalton by Sarah McCammon: [https://www.npr.org/2...li
 </details>
 
 
+<details><summary><a name="light_years_from_home_by_mike_chen"></a>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
+
+### Light Years From Home -- A Novel.  (12:00)
+Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
+eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
+By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
+
+Reading Notes:  Evie Shao and her elder siblings, twins Kass and Jakob Shao, mom and dad...  Family drama, trauma, action, science fiction, aliens and intergalactic war, FBI and cops, and much more.  See the reviews...
+
+Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
+Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
+Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
+
+</details>
+
+
 <details><summary><a name="the_lincoln_highway_amor_towles"></a>The Lincoln Highway. By Amor Towles.  2021</summary>
 
 ### The Lincoln Highway (17:00)  
@@ -4663,23 +4679,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="light_years_from_home_by_mike_chen"></a>Light Years From Home -- A Novel. By Mike Chen. 2022 </summary>
-
-### Light Years From Home -- A Novel.  (12:00)
-Audio: https://www.overdrive.com/media/6525024/light-years-from-home  
-eBook: https://www.overdrive.com/media/6195009/light-years-from-home  
-By [Mike Chen](https://www.mikechenbooks.com/about/)  ( – )  
-
-Reading Notes:  Evie Shao and her elder siblings, twins Kass and Jakob Shao, mom and dad...  Family drama, trauma, action, science fiction, aliens and intergalactic war, FBI and cops, and much more.  See the reviews...
-
-Author's Summary: https://www.mikechenbooks.com/book/light-years-from-home/  
-Review by [lay at bookshelfsoliloquies](https://bookshelfsoliloquies.com/review-light-years-from-home-by-mike-chen/)  
-Review by [Alex at The Quill to Live](https://thequilltolive.com/2022/01/26/light-years-from-home-by-mike-chen-science-fiction-book-review/)  
-
-</details>
 
 
 <details>
