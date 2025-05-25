@@ -126,8 +126,7 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
-<details>
-<summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
+<details><summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
 
 ### Act of Oblivion -- A Novel.  (16:00)  
 Audio: https://www.overdrive.com/media/8742777/act-of-oblivion  
@@ -280,8 +279,7 @@ Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www
 </details>
 
 
-<details>
-<summary><a name="american_sugargristle_by_toby_huss"></a>American Sugargristle. By Toby Huss. 2024 </summary>
+<details><summary><a name="american_sugargristle_by_toby_huss"></a>American Sugargristle. By Toby Huss. 2024 </summary>
 
 ### American Sugargristle  
 Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
@@ -668,8 +666,7 @@ If you like this series or are considering starting it there is a site that has 
 </details>
 
 
-<details>
-<summary><a name="before_the_coffee_gets_cold_by_toshikazu_kawaguchi"></a>"Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). By Toshikazu Kawaguchi 2020 </summary>
+<details><summary><a name="before_the_coffee_gets_cold_by_toshikazu_kawaguchi"></a>"Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). By Toshikazu Kawaguchi 2020 </summary>
 
 ### Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). (19:00)  
 Audio: https://www.overdrive.com/media/5431622/before-the-coffee-gets-cold  
@@ -730,7 +727,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
+<details><summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A. B. Guthrie, Jr. 1947</summary>  
 
 ### The Big Sky.  
 Book: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  (*It seems [widely available](https://duckduckgo.com/?t=h_&q=the+big+sky+by+a.b.+guthrie+jr&ia=web) in libraries and commercially.*)  
@@ -1296,8 +1293,7 @@ Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he 
 </details>
 
 
-<details>
-<summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
+<details><summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
 
 ### Darwin's Ghosts: In Search of the First Evolutionists.  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
@@ -1320,7 +1316,7 @@ Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-p
 eBook: https://www.gutenberg.org/ebooks/70263  
 By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
 
-Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *fills in* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
+Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *adds some "detail" to* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
 
 Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, "Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
 
@@ -1579,8 +1575,7 @@ Links to reviews: https://www.jsdewes.com/news
 </details>
 
 
-<details>
-<summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
+<details><summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
 
 ### Fair Land, Fair Land.  
 This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
@@ -2845,8 +2840,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 </details>
 
 
-<details>
-<summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
+<details><summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/6508251/a-prayer-for-the-crown-shy  
@@ -2861,8 +2855,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/A_Prayer_for_the_Crown-Shy
 </details>
 
 
-<details>
-<summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
+<details><summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
 
 ### A Psalm for the Wild-Built -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/5704893/a-psalm-for-the-wild-built  
@@ -2947,9 +2940,9 @@ OverDrive Summary: https://www.overdrive.com/media/4197541/the-municipalists
 </details>
 
 
-<details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
+<details><summary><a name="murderbot_all_systems_red"></a>#1 of The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
 
-### All Systems Red -- The Murderbot Diaries.  (3:17)  
+###  #1 of The Murderbot Diaries -- All Systems Red.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
 eBook: https://www.overdrive.com/media/3845098/all-systems-red  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -2966,7 +2959,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red
 
 <details><summary><a name="murderbot_artificial condition"></a>#2 of The Murderbot Diaries -- Artificial Condition. By Martha Wells. 2018 </summary>
 
-### The Murderbot Diaries -- Artificial Condition.  (3:21)  
+### #2 of The Murderbot Diaries -- Artificial Condition.  (3:21)  
 Audio: https://www.overdrive.com/media/3954857/artificial-condition  
 eBook: https://www.overdrive.com/media/3469914/artificial-condition  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -2997,8 +2990,7 @@ Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot
 </details>
 
 
-<details>
-<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
+<details><summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
 
 ### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
 Audio: https://www.overdrive.com/media/4294677/exit-strategy  
@@ -3094,8 +3086,7 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
 </details>
 
 
-<details>
-<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+<details><summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
 
 ### An Officer and a Spy -- A novel.  (16:00)  
 Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
@@ -3257,8 +3248,7 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 
 
 
-<details>
-<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
+<details><summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
 ### The Other Valley -- A Novel.  (11:00)  
 Audio: https://www.overdrive.com/media/9907011/the-other-valley  
@@ -3578,8 +3568,7 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)
 </details>
 
 
-<details>
-<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
+<details><summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
 
 ### The Red Eagles.  (7:00)  
 Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
@@ -3622,8 +3611,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details>
-<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
+<details><summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
 
 ### The Rise and Fall of D.O.D.O.  (24:00)  
 Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
@@ -4163,8 +4151,7 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details>
-<summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
+<details><summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
 
 ### Termination Shock. (23:00) (720 pages)  
 Audio: https://www.overdrive.com/media/6270840/termination-shock  
@@ -4228,8 +4215,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
-<details>
-<summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
+<details><summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
 
 ### Toilers of the Sea. (17:05)  
 Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
@@ -4377,8 +4363,7 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details>
-<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
+<details><summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
 ### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
 Audio: https://www.overdrive.com/media/5761819/unwell-women  
@@ -4572,8 +4557,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://e
 </details>
 
 
-<details>
-<summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+<details><summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
 
 ### Winter World -- Long Winter. (11:00)  
 Audio: https://www.overdrive.com/media/4496399/winter-world  
