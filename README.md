@@ -1096,6 +1096,25 @@ Listening Notes: This recording is **not** an example of the excellence that can
 </details>
 
 
+<details><summary><a name="changing_planes_by_ursula_le_guin"></a>Changing Planes. By Ursula Le Guin. 2003 </summary>
+
+### Changing Planes. (7:40)  
+Audio: https://www.overdrive.com/media/8854859/changing-planes  
+eBook: https://www.overdrive.com/media/1638295/changing-planes  
+By [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018) and https://www.ursulakleguin.com/biography  
+
+Reading Notes: This is a collection of short stories -- like brief ethnographic profiles of the societies they describe (14 of them).  Each of those societies exist on another "plane" of reality reached using  "Sita Dulip's Method" of *twisting* one's body while sitting in an airport between flights.  This reads like a master class in creative writing AND a travel book.  
+
+Wikipedia Summary of Changing Planes: https://en.wikipedia.org/wiki/Changing_Planes  
+
+Illustrations for Changing Planes: [https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations](https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations)  
+
+Review by Kathy Weissman: https://www.bookreporter.com/reviews/changing-planes  
+Review in the NYT by Gerald Jonas: https://www.nytimes.com/2003/07/27/books/science-fiction.html  
+
+</details>
+
+
 <details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
@@ -3929,6 +3948,19 @@ Reading Notes: This book narrates a couple threads of activity lead by Abu Ali a
 
 Review by Sonya Lim (former CIA Chief of Station): https://www.thecipherbrief.com/book-review/the-spymaster-of-baghdad  
 And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Operations officer)[Center for the Study of Intelligence. Volume 65, No. 2 (June 2021)](https://www.cia.gov/resources/csi/studies-in-intelligence/volume-65-no-2-june-2021/the-spymaster-of-baghdad-a-true-story-of-bravery-family-and-patriotism-in-the-battle-against-isis/):  then follow the [link](https://www.cia.gov/resources/csi/static/aa0d27942e680a113715328e1a93e68c/Review-TheSpymasterofBaghdad.pdf)  
+
+</details>
+
+
+<details><summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
+
+### The Stars Are Legion.  (12:00) 
+Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
+eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
+By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
+
+Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")  
+
 
 </details>
 
