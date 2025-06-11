@@ -126,8 +126,7 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
-<details>
-<summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
+<details><summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
 
 ### Act of Oblivion -- A Novel.  (16:00)  
 Audio: https://www.overdrive.com/media/8742777/act-of-oblivion  
@@ -280,8 +279,7 @@ Review by [Mick Herron](https://en.wikipedia.org/wiki/Mick_Herron): [https://www
 </details>
 
 
-<details>
-<summary><a name="american_sugargristle_by_toby_huss"></a>American Sugargristle. By Toby Huss. 2024 </summary>
+<details><summary><a name="american_sugargristle_by_toby_huss"></a>American Sugargristle. By Toby Huss. 2024 </summary>
 
 ### American Sugargristle  
 Physical book: [Hat & Beard Press](https://hatandbeard.com/products/american-sugargristle-by-toby-huss) and [their Instagram acct](https://www.instagram.com/hatandbeardpress/reel/DDIqNbHy-We/?locale=es_us&hl=en)  
@@ -555,6 +553,26 @@ Reading Notes: This is an excellent essay.  Read or listen to it.
 </details>
 
 
+<details><summary><a name="master_and_commander_by_patrick_obrian"></a>#1 Aubrey & Maturin Series: Master and Commander.  By Patrick O'Brian. 1969/1970/2005/2011
+ </summary>
+
+### Master and Commander.  By Patrick O'Brian. (13:26)  
+Audio: https://www.overdrive.com/media/61448/master-and-commander  
+eBook: https://www.overdrive.com/media/676907/master-and-commander  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
+
+Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
+Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
+Ships mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Ships](https://en.wikipedia.org/wiki/Master_and_Commander#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
 <details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
@@ -668,8 +686,7 @@ If you like this series or are considering starting it there is a site that has 
 </details>
 
 
-<details>
-<summary><a name="before_the_coffee_gets_cold_by_toshikazu_kawaguchi"></a>"Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). By Toshikazu Kawaguchi 2020 </summary>
+<details><summary><a name="before_the_coffee_gets_cold_by_toshikazu_kawaguchi"></a>"Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). By Toshikazu Kawaguchi 2020 </summary>
 
 ### Before the Coffee Gets Cold: A Toshikazu Kawaguchi Book Set" (numbers 1-3 in the series). (19:00)  
 Audio: https://www.overdrive.com/media/5431622/before-the-coffee-gets-cold  
@@ -730,7 +747,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A.B.Guthrie, Jr. 1947</summary>  
+<details><summary><a name="the_big_sky_by_a_b_guthrie"></a>The Big Sky: A Novel. By A. B. Guthrie, Jr. 1947</summary>  
 
 ### The Big Sky.  
 Book: https://en.wikipedia.org/wiki/The_Big_Sky_(novel)  (*It seems [widely available](https://duckduckgo.com/?t=h_&q=the+big+sky+by+a.b.+guthrie+jr&ia=web) in libraries and commercially.*)  
@@ -1099,6 +1116,25 @@ Listening Notes: This recording is **not** an example of the excellence that can
 </details>
 
 
+<details><summary><a name="changing_planes_by_ursula_le_guin"></a>Changing Planes. By Ursula Le Guin. 2003 </summary>
+
+### Changing Planes. (7:40)  
+Audio: https://www.overdrive.com/media/8854859/changing-planes  
+eBook: https://www.overdrive.com/media/1638295/changing-planes  
+By [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)  (1929 – 2018) and https://www.ursulakleguin.com/biography  
+
+Reading Notes: This is a collection of short stories -- like brief ethnographic profiles of the societies they describe (14 of them).  Each of those societies exist on another "plane" of reality reached using  "Sita Dulip's Method" of *twisting* one's body while sitting in an airport between flights.  This reads like a master class in creative writing AND a travel book.  
+
+Wikipedia Summary of Changing Planes: https://en.wikipedia.org/wiki/Changing_Planes  
+
+Illustrations for Changing Planes: [https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations](https://www.ursulakleguin.com/maps-and-drawings-index/#changing-planes-illustrations)  
+
+Review by Kathy Weissman: https://www.bookreporter.com/reviews/changing-planes  
+Review in the NYT by Gerald Jonas: https://www.nytimes.com/2003/07/27/books/science-fiction.html  
+
+</details>
+
+
 <details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
@@ -1296,8 +1332,7 @@ Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he 
 </details>
 
 
-<details>
-<summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
+<details><summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
 
 ### Darwin's Ghosts: In Search of the First Evolutionists.  
 https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
@@ -1320,7 +1355,7 @@ Audio: https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-p
 eBook: https://www.gutenberg.org/ebooks/70263  
 By [Paul L. Briand, Jr.](https://library.unh.edu/find/archives/collections/paul-briand-papers-1920-1986)  (1920 - 1986)  
 
-Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *fills in* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
+Reading Notes: Even though the author seems to have written some historical fiction -- for example in some of the passages about Earhart's childhood experiences -- This biography *adds some "detail" to* my previously vague awareness of Amelia Earhart's life.  See the [Librivox Summary](https://librivox.org/daughter-of-the-sky-the-story-of-amelia-earhart-by-paul-l-briand-jr/) for a more complete summary.  
 
 Librivox Summary: This is an engaging biography of the renowned aviator. In his introduction, Briand says, "Amelia Earhart was one of America’s great heroines; her life was in many ways unique. She was one of a kind, and the fabric of her life was woven of strands that are rarely produced: she had an insatiable curiosity about everything in life—ideas, books, people, places, mechanical things; she loved all kinds of sports and games, especially those “only for boys”; she fidgeted with an implacable unrest to experiment, to try new things; she teemed with a zest for living, paradoxically entwined with a gnawing and pervasive longing to be alone; and, finally, she brooded with a fatalism toward death, which she met with a tremendous will to live." - Summary by Ciufi Galeazzi.  
 
@@ -1563,6 +1598,31 @@ Reading Notes: This is a sifi novel about how humanity and Emily - an artificial
 </details>
 
 
+<details>
+<summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
+
+### Erasing History -- How Fascists Rewrite the Past to Control the Future. (5:00)  
+Audio: https://www.overdrive.com/media/10753022/erasing-history  
+eBook: https://www.overdrive.com/media/10480453/erasing-history  
+By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
+
+Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions.  Key terms: Fascism & Totalitarianism, Political Ideologies. 
+
+
+Publisher's Description:  
+>In the United States, democracy is under attack by an authoritarian movement that has found fertile ground among the country’s conservative politicians and voters, but similar movements have found homes in the hearts and minds of people around the globe. To understand the shape, form, and stakes of this assault, we must go back to extract lessons from our past.  
+
+>In authoritarian countries, critical examination of those nations’ history and traditions is discouraged if not an outright danger to those who do it. And it is no accident that local and global institutions of education have become a battleground, where learning and efforts to upend a hierarchal status quo can be put to end by coercion and threats of violence. Democracies entrust schools and universities to preserve a common memory of positive change, generated by protests, social movements, and rebellions. The authoritarian right must erase this history, and, along with it, the very practice of critical inquiry that has so often been the engine of future progress.  
+
+>In Erasing History, Yale professor of philosophy Jason Stanley exposes the true danger of the authoritarian right’s attacks on education, identifies their key tactics and funders, and traces their intellectual roots. He illustrates how fears of a fascist future have metastasized, from hypothetical threat to present reality. And with his “urgent, piercing, and altogether brilliant” (Johnathan M. Metzi, author of What We’ve Become) insight, he illustrates that hearts and minds are won in our schools and universities—places that democratic societies across the world are now ill-prepared to defend against the fascist assault currently underway.  
+
+Review by [Alan Singer](https://alansinger.net/about/): [https://teachingsocialstudies.org/.../book-review-erasing-history...](https://teachingsocialstudies.org/2025/05/27/book-review-erasing-history-how-fascists-rewrite-the-past-to-control-the-future-by-jason-stanley/)
+Review by [Lorraine Berry]():  [https://www.latimes.com/...erasing-history-jason-stanley-book-review](https://www.latimes.com/opinion/story/2024-09-13/on-freedom-timothy-snyder-erasing-history-jason-stanley-book-review)  
+Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_history](https://www.democracynow.org/2024/9/17/erasing_history)  
+
+</details>
+
+
 <details><summary><a name="exiled_fleet_by_j_s_dewes"></a>The Exiled Fleet -- The Divide.  By J. S. Dewes. 2021 </summary>
 
 ### The Exiled Fleet -- The Divide. (19:00)  
@@ -1579,8 +1639,7 @@ Links to reviews: https://www.jsdewes.com/news
 </details>
 
 
-<details>
-<summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
+<details><summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
 
 ### Fair Land, Fair Land.  
 This book appears to be widely available.  Mine was a physical paperback borrowed from a brother-in-law.  
@@ -2845,8 +2904,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 </details>
 
 
-<details>
-<summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
+<details><summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/6508251/a-prayer-for-the-crown-shy  
@@ -2861,8 +2919,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/A_Prayer_for_the_Crown-Shy
 </details>
 
 
-<details>
-<summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
+<details><summary><a name="psalm_for_the_wild_built_by_becky_chambers"></a>Monk & Robot (part 1) -- A Psalm for the Wild-Built. By Becky Chambers 2021 </summary>
 
 ### A Psalm for the Wild-Built -- Monk & Robot. (4:00)  
 Audio: https://www.overdrive.com/media/5704893/a-psalm-for-the-wild-built  
@@ -2947,9 +3004,9 @@ OverDrive Summary: https://www.overdrive.com/media/4197541/the-municipalists
 </details>
 
 
-<details><summary><a name="murderbot_all_systems_red"></a>The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
+<details><summary><a name="murderbot_all_systems_red"></a>#1 of The Murderbot Diaries -- All Systems Red. By Martha Wells. 2017 </summary>
 
-### All Systems Red -- The Murderbot Diaries.  (3:17)  
+###  #1 of The Murderbot Diaries -- All Systems Red.  (3:17)  
 Audio: https://www.overdrive.com/media/3783062/all-systems-red  
 eBook: https://www.overdrive.com/media/3845098/all-systems-red  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -2966,7 +3023,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/All_Systems_Red
 
 <details><summary><a name="murderbot_artificial condition"></a>#2 of The Murderbot Diaries -- Artificial Condition. By Martha Wells. 2018 </summary>
 
-### The Murderbot Diaries -- Artificial Condition.  (3:21)  
+### #2 of The Murderbot Diaries -- Artificial Condition.  (3:21)  
 Audio: https://www.overdrive.com/media/3954857/artificial-condition  
 eBook: https://www.overdrive.com/media/3469914/artificial-condition  
 By [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)  (1966 – )  
@@ -2997,8 +3054,7 @@ Wikipedia Summary of Rogue Protocol: https://en.wikipedia.org/wiki/The_Murderbot
 </details>
 
 
-<details>
-<summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
+<details><summary><a name="murderbot_exit_strategy_by_martha_wells"></a>#4 of The Murderbot Diaries -- Exit Strategy. By Martha Wells. 2018 </summary>
 
 ### #4 of The Murderbot Diaries -- Exit Strategy. (4:00)  
 Audio: https://www.overdrive.com/media/4294677/exit-strategy  
@@ -3094,8 +3150,7 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
 </details>
 
 
-<details>
-<summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
+<details><summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
 
 ### An Officer and a Spy -- A novel.  (16:00)  
 Audio: https://www.overdrive.com/media/10706003/an-officer-and-a-spy  
@@ -3257,8 +3312,7 @@ Reading Notes: This is an interesting biography of [Oscar Wilde](https://en.wiki
 
 
 
-<details>
-<summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
+<details><summary><a name="the_other_valley_by_scott_alexander_howard"></a>The Other Valley -- A Novel. By Scott Alexander Howard. 2024 </summary>
 
 ### The Other Valley -- A Novel.  (11:00)  
 Audio: https://www.overdrive.com/media/9907011/the-other-valley  
@@ -3578,8 +3632,7 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)
 </details>
 
 
-<details>
-<summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
+<details><summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
 
 ### The Red Eagles.  (7:00)  
 Audio: https://www.overdrive.com/media/2204520/the-red-eagles  
@@ -3622,8 +3675,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
-<details>
-<summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
+<details><summary><a name="the_rise_and_fall_of_dodo_by_neal_stephenson"></a>The Rise and Fall of D.O.D.O. -- A Novel.  By Neal Stephenson and Nicole Galland. 2017 </summary>
 
 ### The Rise and Fall of D.O.D.O.  (24:00)  
 Audio: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-d-o-d-o  
@@ -3945,6 +3997,19 @@ And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Opera
 </details>
 
 
+<details><summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
+
+### The Stars Are Legion.  (12:00) 
+Audio: https://www.overdrive.com/media/3227217/the-stars-are-legion  
+eBook: https://www.overdrive.com/media/2583163/the-stars-are-legion  
+By [Kameron Hurley](https://en.wikipedia.org/wiki/Kameron_Hurley)  ( – ) and [Bio on Kameron Hurley's site](https://www.kameronhurley.com/about/) 
+
+Reading Notes: The Stars are Legion is a [space opera](https://en.wikipedia.org/wiki/Space_opera) set within a system of gigantic decaying world-ships travelling through deep space.  It follows the feud between the matriarchal families of two [world ships](https://en.wikipedia.org/wiki/Generation_ship).  That feud grows into a war to control the *legion of worlds*.  See [the author's summary](https://www.kameronhurley.com/writing/the-stars-are-legion/).  (For context, [here is a caution from the author](https://www.kameronhurley.com/writing/the-stars-are-legion/#kt-adv-heading_505841-98) "This book contains adult themes and situations readers may find disturbing, including: torture, murder, murder/death of children, abortion, kidnapping, gaslighting, violence, vomiting, physical and verbal abuse, abusive relationships, war, gore, mutilation, body horror, loss of limbs.")  
+
+
+</details>
+
+
 <details><summary><a name="the_stars_like_dust_by_isaac_asimov"></a>The Stars, Like Dust -- Galactic Empire Series. By Isaac Asimov. 1951 </summary>
 
 ### The Stars, Like Dust.  (7:00)  
@@ -4163,8 +4228,7 @@ Review by Caren Gussoff Sumption: [https://locusmag.com/...tell-me-an-ending-by-
 </details>
 
 
-<details>
-<summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
+<details><summary><a name="termination_shock_neal_stephenson"></a>Termination Shock. By Neal Stephenson. 2021 </summary>
 
 ### Termination Shock. (23:00) (720 pages)  
 Audio: https://www.overdrive.com/media/6270840/termination-shock  
@@ -4228,8 +4292,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
-<details>
-<summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
+<details><summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
 
 ### Toilers of the Sea. (17:05)  
 Audio: https://librivox.org/toilers-of-the-sea-ver2-by-victor-hugo/  
@@ -4377,8 +4440,7 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details>
-<summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
+<details><summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
 ### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
 Audio: https://www.overdrive.com/media/5761819/unwell-women  
@@ -4572,8 +4634,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Winter_in_the_Blood](https://e
 </details>
 
 
-<details>
-<summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
+<details><summary><a name="winter_world_by_ag_riddle"></a>Winter World -- Long Winter. By A.G. Riddle. 2019 </summary>
 
 ### Winter World -- Long Winter. (11:00)  
 Audio: https://www.overdrive.com/media/4496399/winter-world  
