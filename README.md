@@ -553,6 +553,26 @@ Reading Notes: This is an excellent essay.  Read or listen to it.
 </details>
 
 
+<details><summary><a name="master_and_commander_by_patrick_obrian"></a>#1 Aubrey & Maturin Series: Master and Commander.  By Patrick O'Brian. 1969/1970/2005/2011
+ </summary>
+
+### Master and Commander.  By Patrick O'Brian. (13:26)  
+Audio: https://www.overdrive.com/media/61448/master-and-commander  
+eBook: https://www.overdrive.com/media/676907/master-and-commander  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
+
+Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
+Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
+Ships mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Ships](https://en.wikipedia.org/wiki/Master_and_Commander#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
 <details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
