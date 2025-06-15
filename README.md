@@ -424,7 +424,7 @@ Audio: https://www.overdrive.com/media/6104021/the-anomaly
 eBook: https://www.overdrive.com/media/6093663/the-anomaly  
 By [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier)  (1957 – )  
 
-Reading Notes: At the outset, this story may seem like an extended series of lightly-connected expert-level creative writing exercises.  Stick with it.  About four hours in -- yes "**4**" -- we begin to get some important context, and I think that the story becomes one that should hold your interest (and more).  It did mine.  After thinking about this book a little, to me it has parallels to a vast chapel ceiling by Michelangelo at his peak -- via the written word.  I wonder what sparks, what raging fires of creativity and supporting knowledge, craft and effort propel the author to *this* result.  "[The Anomaly](https://en.wikipedia.org/wiki/The_Anomaly_(novel))" is the first work by [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier) that I have read/heard.  This seems like an important book for the aLe Tellier's sensitivity to culture and the breadth of cultures he incorporated into the story.  Again and again that silent question surfaced -- "how did he do that?"  (*if you really need to know more about the story before deciding to read it, see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Anomaly_(novel)) or the [summary on Overdrive](https://www.overdrive.com/media/6093663/the-anomaly)*).  
+Reading Notes: At the outset, this story may seem like an extended series of lightly-connected expert-level creative writing exercises.  Stick with it.  About four hours in -- yes "**4**" -- we begin to get some important context, and I think that the story becomes one that should hold your interest (and more).  It did mine.  After thinking about this book a little, to me it has parallels to a vast chapel ceiling by Michelangelo at his peak -- via the written word.  I wonder what sparks, what raging fires of creativity and supporting knowledge, craft and effort propel the author to *this* result.  "[The Anomaly](https://en.wikipedia.org/wiki/The_Anomaly_(novel))" is the first work by [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier) that I have read/heard.  Le Tellier's sensitivity to culture and the breadth of cultures he incorporated into the story stand out.  Again and again that silent question surfaced -- "how did he do that?"  (*if you really need to know more about the story before deciding to read it, see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Anomaly_(novel)) or the [summary on Overdrive](https://www.overdrive.com/media/6093663/the-anomaly)*).  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)  
 
@@ -566,6 +566,26 @@ Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wik
 Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
 Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
 Ships mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Ships](https://en.wikipedia.org/wiki/Master_and_Commander#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
+<details><summary><a name="post_captain_by_patrick_obrian"></a>#2 Aubrey & Maturin Series: Post Captain.  By Patrick O'Brian. 2011/2009/1990/1972
+ </summary>
+
+### Post Captain.  By Patrick O'Brian. (16:00)  
+Audio: https://www.overdrive.com/media/74610/post-captain  
+eBook: https://www.overdrive.com/media/676909/post-captain  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Post Captain" (*from [Wikipedia](https://en.wikipedia.org/wiki/Post_Captain_(novel))*) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. "During the brief [Peace of Amiens](https://en.wikipedia.org/wiki/Peace_of_Amiens), Aubrey and Maturin live in a country house in England, where they meet women with whom they fall in love. The mores of courtship restrict both men as to making marriage proposals. Then their lives are turned upside down when Aubrey loses his money due to decisions of the prize court and a dishonest prize-agent. To avoid seizure for debt, they proceed through France to Maturin's property in Spain. When the war begins afresh, Aubrey has a command aboard HMS *Polychrest*, gaining fewer prizes yet succeeding in his military goals. He is eventually promoted and is given temporary command of the frigate HMS *Lively* while its captain is ashore. The emotions of his love life interfere with his ways at sea, showing him sharply different in his decisiveness at sea compared to his clumsiness on land."  
+
+Wikipedia Summary of Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)](https://en.wikipedia.org/wiki/Post_Captain_(novel))  
+Principal characters mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Principal_characters)  
+Ships mentioned in Post Captain: [https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships](https://en.wikipedia.org/wiki/Post_Captain_(novel)#Ships)  
 Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
 Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
 
