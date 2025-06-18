@@ -4017,6 +4017,23 @@ And a less enthusiastic review by Graham Alexander (a CIA a Directorate of Opera
 </details>
 
 
+<details><summary><a name="stanton_white_by_asa_zadel_hall"></a>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
+
+### Stanton White: A Romance of the New South. (5:31:26)  
+Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
+Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
+By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
+297 pages.
+
+Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
+
+Librivox Summary:  
+>In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
+>This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
+
+</details>
+
+
 <details><summary><a name="the_stars_are_legion_by_kameron_hurley"></a>The Stars Are Legion. By Kameron Hurley.  2017  </summary>
 
 ### The Stars Are Legion.  (12:00) 
@@ -4761,23 +4778,27 @@ Reading Notes:
 
 
 
-
 <details>
-<summary><a name="stanton_white_by_asa_zadel_hall"></a>Stanton White: A Romance of the New South. By Asa Zadel Hall. 1905 </summary>
+<summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
 
-### Stanton White: A Romance of the New South. (5:31:26)  
-Audio: https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/  
-Online text: https://books.google.com/books?id=iMpDAQAAMAAJ  
-By [Asa Zadel Hall](http://www.homeoint.org/history/bio/h/hallaz.htm)  (1875 - 1965)  
-297 pages.
+### Marco Polo -- From Venice to Xanadu. (16:30)  
+Audio: https://www.overdrive.com/media/138750/marco-polo  
+eBook: https://www.overdrive.com/media/148020/marco-polo  
+By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
 
-Reading Notes: There is little good to say about this novel other than it seems to share some of the themes that made up *real life* American racism in the early 20th century.  It is not easy reading/listening and may (*for many reasons*) be hurtful to some.  
+Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
 
-Librivox Summary:  
->In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
->This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
+Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
+
+Author's Summary: https://laurencebergreenauthor.com/MarcoPolo  
+
+[OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
+>As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
+>Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
+
 
 </details>
+
 
 
 <details>
@@ -5364,45 +5385,6 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
-
-### The Last of the Vikings. (9:17)  
-Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
-Text page: https://archive.org/details/BojerLastOfTheVikingsCombinedReduced/page/n1/mode/2up  
-Download Text: https://archive.org/stream/BojerLastOfTheVikingsCombinedReduced/Bojer%20Last%20of%20the%20Vikings%20Combined%20Reduced_djvu.txt  
-By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
-Translated by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
-
-In a small village on the coast of Northern Norway lives the Myran family. Father is a fisher man and is, in the eyes of the oldest son, like a god on the sea. Mother spends every winter in fear of losing somebody she loves to the storms and waves. She longs to move inland and turn her back on the coast and all its dangers. The novel explores some of the tension between inland and coast, poor and wealthy, tradition and progress while also depicting the highs and lows of a winter of fishing in Lofoten. - (Summary by [kathrinee](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/))  
-
-</details>
-
-
-
-<details>
-<summary>The Second Mrs. Astor.  By Shana Abe.  2021</summary>
-
-### The Second Mrs. Astor.  
-Audio: https://www.overdrive.com/media/6107969/the-second-mrs-astor  
-Ebook: https://www.overdrive.com/media/5970855/the-second-mrs-astor  
-By [Shana Abé](https://en.wikipedia.org/wiki/Shana_Ab%C3%A9) ()  
-
-historical romance  
-
-</details>
-
-
-<details>
-<summary>Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. By Michael McCreary 2019</summary>
-
-### Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. (??:??)  
-
-Audio: https://www.overdrive.com/media/4613861/funny-you-dont-look-autistic  
-Ebook: https://www.overdrive.com/media/4627687/funny-you-dont-look-autistic  
-By [Michael McCreary](https://www.aspiecomic.com/) (1997? -  )  
-
-</details>
 
 <a name="mars_series"></a>
 
@@ -5482,47 +5464,6 @@ Ebook: https://www.overdrive.com/media/5428480/the-lost-apothecary
 </details>
 
 
-<details>
-<summary>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
-
-### Collected Works of Saint Patrick. (01:01)  
-https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
-Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick  
-By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
-
-Librivox Summary:  
->(1.) St. Patrick's Breastplate - This prayer is attributed to St. Patrick and his disciples. It is written with some Celtic pagan elements, but is definitely a Christian prayer asking God for protection through daily life. (2.) A Letter to the Soldiers of Coroticus - Patrick writes this letter to excommunicate the soldiers of Coroticus' army who pillaged villages in Ireland and forced many Christian converts into slavery. (3.) Confession - A short autobiography by St. Patrick who tells of being abducted into slavery and taken to Ireland, the growth of his faith, his ministry as a bishop in ordaining many priests and baptising thousands of people, and a trial where he had to defend himself against his accusers. - ([Summary by Librivox](https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/))  
-
-</details>
-
-
-<details>
-<summary>Template </summary>  
-
-###  
-  
-By []() ()  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->  
-
-</details>
-</details>
-<details><summary>The Flight of the Shadow.  By Laura M. Dake.  1899</summary>
-
-The Flight of the Shadow.  (2:02)  
-https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/  
-Text: https://www.loc.gov/item/99002896/  
-By Laura M. Dake  (*I could not find biographical information about this author*)  
-
-The original printing of The Flight of the Shadow is a highly sought novel among collectors and tells the tale of an Astral soul who tells a man named John Cecil of a story of the American Revolution, a story of lost love and murder, a story of reincarnation and fate. Enjoy this rare briskly told supernatural book of adventure and weirdness that few before have experienced! - [Summary by Ben Tucker](https://librivox.org/the-flight-of-the-shadow-by-laura-m-dake/)  
-
-</details>
 
 <details><summary>Final Report of the Select Committee to Investigate the January Sixth Attack on the United States Capitol. By U.S. House Select Committee on the January 6 Attack. 2022</summary>
 
@@ -5555,41 +5496,6 @@ Librivox Summary:
 </details>
 
 
-<details>
-<summary>Template </summary>
-
-###  
-  
-Text:  
-By []() ()  
-<details>
-<summary>Reader's Notes, Librivox and Other 3rd Party Summaries:</summary>
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
-> ([]())  
-
-</details>
-</details>
-
-
-<details><summary>The Basis Of Morality.  By Arthur Schopenhauer.  1837 </summary>
-
-### The Basis Of Morality.  (7:19)  
-https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/  
-Text: https://www.gutenberg.org/ebooks/44929  
-By [Arthur Schopenhauer](https://en.wikipedia.org/wiki/Arthur_Schopenhauer) (1788 - 1860)  
-
-Reader's Notes:  
-
-Librivox Summary:  
->In 1837, the Danish Royal Society of Sciences offered a prize to any essayist who could satisfactorily answer the question, "Is the fountain and basis of Morals to be sought for in an idea of morality which lies directly in the consciousness (or conscience), and in the analysis of the other leading ethical conceptions which arise from it? Or is it to be found in some other source of knowledge?" The Basis of Morality is the essay submitted in 1840 by German philosopher Arthur Schopenhauer. In it, he first mercilessly deconstructs the prevailing Western theory of morality as championed by Immanuel Kant, among others, before establishing a series of maxims and thought experiments which lead him to a conclusion which points squarely at compassion as the cardinal virtue upon which all morality rests. In the appendix to this essay, he links his own conclusion with the conclusions reached millennia earlier by the authors of the Vedas and Upanishads. The essay was ultimately rejected for the prize despite being the only entry, a minor scandal with some speculation that the result was due in no small part to Schopenhauer's onslaught against Hegel—the judge of the contest being the author of a Hegelian theory of morals. ([Summary by Jeffrey Allen Stumpf](https://librivox.org/the-basis-of-morality-by-arthur-schopenhauer/))  
-Wikipedia Summary: https://en.wikipedia.org/wiki/On_the_Basis_of_Morality  
-
-</details>
-
 
 <details><summary>The Nature and Authority of Conscience. By Rufus Jones. 1920 </summary>
 
@@ -5607,52 +5513,6 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Men Without Women. By Ernest Hemingway. 1927</summary>
-
-### Men Without Women.  (4:26)  
-https://librivox.org/men-without-women-by-ernest-hemingway/  
-Text: https://gutenberg.org/ebooks/69683  
-By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
-
-Reader's Notes:  
-
-Librivox Summary:  
->Hemingway's second collection of short fiction, first published in 1927, including many of his best-known stories, including "Hills Like White Elephants" and "The Killers" - Summary by James Hutchisson  
-Wikipedia Summary:  
-https://en.wikipedia.org/wiki/Men_Without_Women_(short_story_collection)  
-
-</details>
-
-
-<details><summary>A Far Country. By Winston Churchill (The American novelist, not the British writer/statesman). 1915 </summary>
-
-### A Far Country. (19:48)  
-https://librivox.org/a-far-country-by-winston-churchill/  
-Text: https://www.gutenberg.org/ebooks/3739  
-https://en.wikipedia.org/wiki/A_Far_Country_(novel)  
-By [Winston Churchill](http://en.wikipedia.org/wiki/Winston_Churchill_(novelist))  (1871 - 1947)  
-
-Reading Notes:  
-
-Librivox Summary:  
->The book follows the career of Hugh Paret from youth to manhood, and how his profession as a corporation lawyer gradually changes his values. The book received positive reviews, and was the second best-selling novel in the United States in 1915. - ([Summary by Wikipedia](https://en.wikipedia.org/wiki/A_Far_Country_(novel)))  
-
-</details>
-
-
-<details><summary>The Four Horsemen of the Apocalypse. By Vicente Blasco Ibáñez. 1916</summary>
-
-### The Four Horsemen of the Apocalypse  (16:27)  
-https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/  
-https://en.wikipedia.org/wiki/The_Four_Horsemen_of_the_Apocalypse_(novel)  
-Text: https://www.gutenberg.org/ebooks/1484  
-By [Vicente Blasco Ibáñez](https://en.wikipedia.org/wiki/Vicente_Blasco_Ib%C3%A1%C3%B1ez) (1867 - 1928)  published 1916, and 1918 English translation by Charlotte Brewster Jordan  
-Translated by [Charlotte Jordan Brewster](http://es.wikipedia.org/wiki/Charlotte_Brewster_Jordan) (1862 - 1945)  
-https://en.wikipedia.org/wiki/Charlotte_Brewster_Jordan  
-Summary from Librivox:  
->The Four Horsemen of the Apocalypse, by Vicente Blasco Ibañez and translated into English by Charlotte Brewster Jordan, depicts two branches of a family with its roots in the pampas of Argentina. The wealthy Argentinian, Julio Madariaga, comes from Spain and raises himself from poverty, becoming a self-made, wealthy cattleman. He is a man of extremes; an honest man with a rascally knack for taking advantage of others; a self-made man with overweening pride, prejudices, and a sharp, flinty temper that can spark into violence, he is at the same time given to great generosity toward those who are under him. This almost feudal lord has two daughters who marry expatriates, a Frenchman and a German.  Julio Madariaga leaves his stamp on these two families who, after his death, return to the native countries of his two sons in law. At that time, the mood of Europe is in many ways similar to that of the old gaucho, a mixture of generosity, explosive anger, romanticism, strong prejudices, and wounded pride, a mood composed of extremes painted on an oversized canvas. World War I is waiting in the wings and will leave its own stamp on the old gaucho's lineage, pitting them against each other on opposite sides in the violent first year that many think will last only a few months but will, in fact, result in improbable destruction and loss of lives. An old Russian visionary given to drink, looks out on red skies one day and experiences its coming in a vision: hoofbeats; and riders.  [Summary by Tony Oliva](https://librivox.org/the-four-horsemen-of-the-apocalypse-by-vincent-blasco-ibanez/).  
-
-</details>
 
 <details><summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
 
