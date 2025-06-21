@@ -4787,6 +4787,7 @@ eBook: https://www.overdrive.com/media/148020/marco-polo
 By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
 
 Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
+The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met Kublai Khan. When they returned to Venice they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "Cathay."  
 
 Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
 
