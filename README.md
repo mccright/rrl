@@ -424,9 +424,24 @@ Audio: https://www.overdrive.com/media/6104021/the-anomaly
 eBook: https://www.overdrive.com/media/6093663/the-anomaly  
 By [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier)  (1957 – )  
 
-Reading Notes: At the outset, this story may seem like an extended series of lightly-connected expert-level creative writing exercises.  Stick with it.  About four hours in -- yes "**4**" -- we begin to get some important context, and I think that the story becomes one that should hold your interest (and more).  It did mine.  After thinking about this book a little, to me it has parallels to a vast chapel ceiling by Michelangelo at his peak -- via the written word.  I wonder what sparks, what raging fires of creativity and supporting knowledge, craft and effort propel the author to *this* result.  "[The Anomaly](https://en.wikipedia.org/wiki/The_Anomaly_(novel))" is the first work by [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier) that I have read/heard.  Le Tellier's sensitivity to culture and the breadth of cultures he incorporated into the story stand out.  Again and again that silent question surfaced -- "how did he do that?"  (*if you really need to know more about the story before deciding to read it, see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Anomaly_(novel)) or the [summary on Overdrive](https://www.overdrive.com/media/6093663/the-anomaly)*).  
+Reading Notes: At the outset, this story may seem like an extended series of lightly-connected expert-level creative writing exercises.  Stick with it.  About four hours in -- yes "**4**" -- we begin to get some important context, and I think that the story becomes one that should hold your interest (and more).  It did mine.  After thinking about this book a little, to me it has parallels to a vast chapel ceiling by Michelangelo at his peak -- via the written word.  I wonder what sparks, what raging fires of creativity and supporting knowledge, craft and effort propel the author to *this* result.  "[The Anomaly](https://en.wikipedia.org/wiki/The_Anomaly_(novel))" is the first work by [Hervé Le Tellier](https://en.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier) that I have read/heard.  This seems like an important book because of Le Tellier's sensitivity to culture and the breadth of cultures he incorporated into the story.  Again and again that silent question surfaced -- "how did he do that?"  (*if you really need to know more about the story before deciding to read it, see the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Anomaly_(novel)) or the [summary on Overdrive](https://www.overdrive.com/media/6093663/the-anomaly)*).  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Anomaly_(novel)  
+
+</details>
+
+
+<details><summary><a name="apiary_experiments_comb_building_by_c_p_gillette"></a>Apiary Experiments. Foundation in Comb Building. By C. P. (Clarence Preston) Gillette.  1900 </summary>
+
+### Apiary experiments. Foundation in comb building. 1900  
+By [C. P. (Clarence Preston) Gillette](https://en.wikipedia.org/wiki/Clarence_Preston_Gillette) (1859-1941)  
+Publication info: Fort Collins, Colo, The Experiment station, 1900  
+Notes: "Bulletin 54. The Agricultural experiment station of the Agricultural college of Colorado."  
+eBook: https://www.biodiversitylibrary.org/bibliography/55796  
+and: https://www.biodiversitylibrary.org/item/116514#page/8/mode/1up  
+and: https://ia801301.us.archive.org/16/items/cu31924003192543/cu31924003192543.pdf  
+
+Reading Notes:  The title says it all...  If you have any interest in how honey bees build their honey combs, this might be a useful, short introduction to the subject.  
 
 </details>
 
@@ -4787,12 +4802,17 @@ eBook: https://www.overdrive.com/media/148020/marco-polo
 By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
 
 Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
-The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan). When they returned to [Venice](https://en.wikipedia.org/wiki/Republic_of_Venice) they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "[Cathay](https://en.wikipedia.org/wiki/Cathay)" to deliver [Pope Clement IV](https://en.wikipedia.org/wiki/Pope_Clement_IV)'s response to Kublai Khan.  Marco Polo made a positive impression in Kublai Khan's court and was employed by the khan in China for 17 years.  
+The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan). When they returned to [Venice](https://en.wikipedia.org/wiki/Republic_of_Venice) they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "[Cathay](https://en.wikipedia.org/wiki/Cathay)" to deliver [Pope Clement IV](https://en.wikipedia.org/wiki/Pope_Clement_IV)'s response to Kublai Khan.  Marco Polo made a positive impression in Kublai Khan's court and was employed by the khan in China for 17 years.  Their travels kept them away from Venice for 24 years.  The author provides context for the content of "[The Travels of Marco Polo](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)," Marco Polo's autobiography, which he wrote with the help of [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa), while they were in prison together in [Genoa](https://en.wikipedia.org/wiki/Genoa), first published c. 1300.  
 
 * [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo)  
 * [Niccolò Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
 * [Maffeo Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
 * [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan)  
+* [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)  
+* "[The Travels of Marco Polo - Volume 1 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/10636)"  
+* "[The Travels of Marco Polo - Volume 2 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/12410)"  
+* [Henry Yule](https://en.wikipedia.org/wiki/Henry_Yule)  
+* [Henri Cordier](https://en.wikipedia.org/wiki/Henri_Cordier)  
 
 Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
 
