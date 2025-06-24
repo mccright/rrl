@@ -2848,6 +2848,38 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
+<details><summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
+
+### Marco Polo -- From Venice to Xanadu. (16:30)  
+Audio: https://www.overdrive.com/media/138750/marco-polo  
+eBook: https://www.overdrive.com/media/148020/marco-polo  
+By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
+
+Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
+The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan). When they returned to [Venice](https://en.wikipedia.org/wiki/Republic_of_Venice) they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "[Cathay](https://en.wikipedia.org/wiki/Cathay)" to deliver [Pope Clement IV](https://en.wikipedia.org/wiki/Pope_Clement_IV)'s response to Kublai Khan.  Marco Polo made a positive impression in Kublai Khan's court and was employed by the khan in China for 17 years.  Their travels kept them away from Venice for 24 years.  The author provides context for the content of "[The Travels of Marco Polo](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)," Marco Polo's autobiography, which he wrote with the help of [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa), while they were in prison together in [Genoa](https://en.wikipedia.org/wiki/Genoa), first published c. 1300. The author also includes conclusion outlining some of the evolution and impacts of Marco Polo's autobiography.  
+
+* [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo)  
+* [Niccolò Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
+* [Maffeo Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
+* [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan)  
+* [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)  
+* "[The Travels of Marco Polo - Volume 1 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/10636)"  
+* "[The Travels of Marco Polo - Volume 2 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/12410)"  
+* [Henry Yule](https://en.wikipedia.org/wiki/Henry_Yule)  
+* [Henri Cordier](https://en.wikipedia.org/wiki/Henri_Cordier)  
+
+Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
+
+Author's Summary: https://laurencebergreenauthor.com/MarcoPolo  
+
+[OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
+>As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
+>Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
+
+
+</details>
+
+
 <details><summary><a name="matrix"></a>Matrix.  By Lauren Groff. 2021</summary>
 
 ### Matrix.  
@@ -4791,39 +4823,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
-
-### Marco Polo -- From Venice to Xanadu. (16:30)  
-Audio: https://www.overdrive.com/media/138750/marco-polo  
-eBook: https://www.overdrive.com/media/148020/marco-polo  
-By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
-
-Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
-The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan). When they returned to [Venice](https://en.wikipedia.org/wiki/Republic_of_Venice) they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "[Cathay](https://en.wikipedia.org/wiki/Cathay)" to deliver [Pope Clement IV](https://en.wikipedia.org/wiki/Pope_Clement_IV)'s response to Kublai Khan.  Marco Polo made a positive impression in Kublai Khan's court and was employed by the khan in China for 17 years.  Their travels kept them away from Venice for 24 years.  The author provides context for the content of "[The Travels of Marco Polo](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)," Marco Polo's autobiography, which he wrote with the help of [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa), while they were in prison together in [Genoa](https://en.wikipedia.org/wiki/Genoa), first published c. 1300.  
-
-* [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo)  
-* [Niccolò Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
-* [Maffeo Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
-* [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan)  
-* [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)  
-* "[The Travels of Marco Polo - Volume 1 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/10636)"  
-* "[The Travels of Marco Polo - Volume 2 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/12410)"  
-* [Henry Yule](https://en.wikipedia.org/wiki/Henry_Yule)  
-* [Henri Cordier](https://en.wikipedia.org/wiki/Henri_Cordier)  
-
-Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
-
-Author's Summary: https://laurencebergreenauthor.com/MarcoPolo  
-
-[OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
->As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
->Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
-
-
-</details>
 
 
 
