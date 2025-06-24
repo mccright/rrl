@@ -2848,6 +2848,38 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
+<details><summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
+
+### Marco Polo -- From Venice to Xanadu. (16:30)  
+Audio: https://www.overdrive.com/media/138750/marco-polo  
+eBook: https://www.overdrive.com/media/148020/marco-polo  
+By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
+
+Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
+The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan). When they returned to [Venice](https://en.wikipedia.org/wiki/Republic_of_Venice) they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "[Cathay](https://en.wikipedia.org/wiki/Cathay)" to deliver [Pope Clement IV](https://en.wikipedia.org/wiki/Pope_Clement_IV)'s response to Kublai Khan.  Marco Polo made a positive impression in Kublai Khan's court and was employed by the khan in China for 17 years.  Their travels kept them away from Venice for 24 years.  The author provides context for the content of "[The Travels of Marco Polo](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)," Marco Polo's autobiography, which he wrote with the help of [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa), while they were in prison together in [Genoa](https://en.wikipedia.org/wiki/Genoa), first published c. 1300. The author also includes conclusion outlining some of the evolution and impacts of Marco Polo's autobiography.  
+
+* [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo)  
+* [Niccolò Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
+* [Maffeo Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
+* [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan)  
+* [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)  
+* "[The Travels of Marco Polo - Volume 1 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/10636)"  
+* "[The Travels of Marco Polo - Volume 2 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/12410)"  
+* [Henry Yule](https://en.wikipedia.org/wiki/Henry_Yule)  
+* [Henri Cordier](https://en.wikipedia.org/wiki/Henri_Cordier)  
+
+Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
+
+Author's Summary: https://laurencebergreenauthor.com/MarcoPolo  
+
+[OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
+>As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
+>Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
+
+
+</details>
+
+
 <details><summary><a name="matrix"></a>Matrix.  By Lauren Groff. 2021</summary>
 
 ### Matrix.  
@@ -4793,39 +4825,6 @@ Reading Notes:
 
 
 
-<details>
-<summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
-
-### Marco Polo -- From Venice to Xanadu. (16:30)  
-Audio: https://www.overdrive.com/media/138750/marco-polo  
-eBook: https://www.overdrive.com/media/148020/marco-polo  
-By [Laurence Bergreen](https://en.wikipedia.org/wiki/Laurence_Bergreen) and [laurencebergreenauthor.com](https://laurencebergreenauthor.com/Biography)  (1950 – )  
-
-Reading Notes: [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo) (1254 – 1324) was a [Venetian](https://en.wikipedia.org/wiki/Republic_of_Venice) merchant, explorer and writer who travelled through Asia along the [Silk Road](https://en.wikipedia.org/wiki/Silk_Road) between 1271 and 1295.  
-The author begins with a review of the general geopolitical environment in 11th century Europe/Near East.  Then outlines how Marco Polo's father and his uncle, Niccolò and Maffeo, travelled through Asia between 1254 and 1269, and met [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan). When they returned to [Venice](https://en.wikipedia.org/wiki/Republic_of_Venice) they met Marco for the first time.  After that introduction, Bergreen begins the meat of the biography as Marco, Niccolò and Maffeo embark on another journey to Asia, exploring and conducting business at many places along the Silk Road until they reached "[Cathay](https://en.wikipedia.org/wiki/Cathay)" to deliver [Pope Clement IV](https://en.wikipedia.org/wiki/Pope_Clement_IV)'s response to Kublai Khan.  Marco Polo made a positive impression in Kublai Khan's court and was employed by the khan in China for 17 years.  Their travels kept them away from Venice for 24 years.  The author provides context for the content of "[The Travels of Marco Polo](https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo)," Marco Polo's autobiography, which he wrote with the help of [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa), while they were in prison together in [Genoa](https://en.wikipedia.org/wiki/Genoa), first published c. 1300.  
-
-* [Marco Polo](https://en.wikipedia.org/wiki/Marco_Polo)  
-* [Niccolò Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
-* [Maffeo Polo](https://en.wikipedia.org/wiki/Niccol%C3%B2_and_Maffeo_Polo)  
-* [Kublai Khan](https://en.wikipedia.org/wiki/Kublai_Khan)  
-* [Rustichello da Pisa](https://en.wikipedia.org/wiki/Rustichello_da_Pisa)  
-* "[The Travels of Marco Polo - Volume 1 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/10636)"  
-* "[The Travels of Marco Polo - Volume 2 (Yule-Cordier Edition)](https://www.gutenberg.org/ebooks/12410)"  
-* [Henry Yule](https://en.wikipedia.org/wiki/Henry_Yule)  
-* [Henri Cordier](https://en.wikipedia.org/wiki/Henri_Cordier)  
-
-Review by [Bruce Barcott](https://en.wikipedia.org/wiki/Bruce_Barcott): [https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html](https://www.nytimes.com/2007/12/02/books/review/Barcott-t.html?unlocked_article_code=1.P08.nGnd.5RYKbY5q6I_0&smid=url-share)  
-
-Author's Summary: https://laurencebergreenauthor.com/MarcoPolo  
-
-[OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
->As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
->Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
-
-
-</details>
-
-
 
 <details>
 <summary><a name="valiant_women_by_lena_s_andrews"></a>Valiant Women -- The Extraordinary American Servicewomen Who Helped Win World War II.  By Lena S. Andrews. 2023 </summary>
@@ -5202,6 +5201,7 @@ OverDrive Summary:
 
 <details>
 <summary>Also Look at:  </summary>
+
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
@@ -5242,50 +5242,55 @@ Librivox summary:
 </details>
 
 
-*One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:*  
 <details>
-<summary>Mania. By Lionel Shriver. 2024 </summary>
+<summary>*One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:* </summary>
 
-### Mania. (??:??)  
-Audio: (*still unreleased as of this entry*)  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-Harper. 288 pp.  
+	<details>
+	<summary>Mania. By Lionel Shriver. 2024 </summary>
 
-Reading Notes:  
-Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
+	### Mania. (??:??)  
+	Audio: (*still unreleased as of this entry*)  
+	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+	Harper. 288 pp.  
 
-</details>
+	Reading Notes:  
+	Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
+
+	</details>
 
 
-<details>
-<summary>So Much for That. By Lionel Shriver. 2010 </summary>
+	<details>
+	<summary>So Much for That. By Lionel Shriver. 2010 </summary>
 
-### So Much for That. (??:??)  
-eBook: https://www.overdrive.com/media/291503/so-much-for-that  
-Audio: https://www.overdrive.com/media/291355/so-much-for-that  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-Harper. 436 pp.
-OverDrive Summary: 
->... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
-Reading Notes:  
-Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
-Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
+	### So Much for That. (??:??)  
+	eBook: https://www.overdrive.com/media/291503/so-much-for-that  
+	Audio: https://www.overdrive.com/media/291355/so-much-for-that  
+	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+	Harper. 436 pp.
+	OverDrive Summary: 
+	>... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
+	Reading Notes:  
+	Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
+	Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
 
-</details>
+	</details>
 
-<details>
-<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
 
-### The Mandibles. A Family, 2029-2047. (??:??)  
-eBook: https://www.overdrive.com/media/2486094/the-mandibles  
-Audio: https://www.overdrive.com/media/2466085/the-mandibles  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+	<details>
+	<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
 
-OverDrive Summary:  
->In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
->The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
->Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
->The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
+	### The Mandibles. A Family, 2029-2047. (??:??)  
+	eBook: https://www.overdrive.com/media/2486094/the-mandibles  
+	Audio: https://www.overdrive.com/media/2466085/the-mandibles  
+	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+
+	OverDrive Summary:  
+	>In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
+	>The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
+	>Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
+	>The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
+
+	</details>
 
 </details>
 
