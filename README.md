@@ -5202,6 +5202,7 @@ OverDrive Summary:
 
 <details>
 <summary>Also Look at:  </summary>
+
 "Emily, Alone: A Novel." By [Stewart O’Nan](https://en.wikipedia.org/wiki/Stewart_O%27Nan). 2011  
 
 or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (1928 - 2016)  
@@ -5242,50 +5243,55 @@ Librivox summary:
 </details>
 
 
-*One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:*  
 <details>
-<summary>Mania. By Lionel Shriver. 2024 </summary>
+<summary>*One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below:* </summary>
 
-### Mania. (??:??)  
-Audio: (*still unreleased as of this entry*)  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-Harper. 288 pp.  
+	<details>
+	<summary>Mania. By Lionel Shriver. 2024 </summary>
 
-Reading Notes:  
-Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
+	### Mania. (??:??)  
+	Audio: (*still unreleased as of this entry*)  
+	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+	Harper. 288 pp.  
 
-</details>
+	Reading Notes:  
+	Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
+
+	</details>
 
 
-<details>
-<summary>So Much for That. By Lionel Shriver. 2010 </summary>
+	<details>
+	<summary>So Much for That. By Lionel Shriver. 2010 </summary>
 
-### So Much for That. (??:??)  
-eBook: https://www.overdrive.com/media/291503/so-much-for-that  
-Audio: https://www.overdrive.com/media/291355/so-much-for-that  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-Harper. 436 pp.
-OverDrive Summary: 
->... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
-Reading Notes:  
-Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
-Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
+	### So Much for That. (??:??)  
+	eBook: https://www.overdrive.com/media/291503/so-much-for-that  
+	Audio: https://www.overdrive.com/media/291355/so-much-for-that  
+	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+	Harper. 436 pp.
+	OverDrive Summary: 
+	>... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
+	Reading Notes:  
+	Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
+	Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
 
-</details>
+	</details>
 
-<details>
-<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
 
-### The Mandibles. A Family, 2029-2047. (??:??)  
-eBook: https://www.overdrive.com/media/2486094/the-mandibles  
-Audio: https://www.overdrive.com/media/2466085/the-mandibles  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+	<details>
+	<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
 
-OverDrive Summary:  
->In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
->The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
->Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
->The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
+	### The Mandibles. A Family, 2029-2047. (??:??)  
+	eBook: https://www.overdrive.com/media/2486094/the-mandibles  
+	Audio: https://www.overdrive.com/media/2466085/the-mandibles  
+	By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
+
+	OverDrive Summary:  
+	>In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
+	>The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
+	>Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
+	>The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
+
+	</details>
 
 </details>
 
