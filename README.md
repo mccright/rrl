@@ -5243,13 +5243,14 @@ Librivox summary:
 
 
 <details>
-<summary>One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below: </summary>
+<summary>One or more of the Lionel Shriver novels below: </summary>
 
 <details>
 <summary>Mania. By Lionel Shriver. 2024 </summary>
 
 ### Mania. (??:??)  
-Audio: (*still unreleased as of this entry*)  
+Audio: https://www.overdrive.com/media/9974774/mania  
+eBook: https://www.overdrive.com/media/9974850/mania  
 By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
 Harper. 288 pp.  
 
