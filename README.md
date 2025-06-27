@@ -4524,6 +4524,30 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
+<details>
+<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
+ </summary>
+
+### Under the Tulip Tree. (10:00)  
+Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
+eBook: https://www.overdrive.com/media/5318414/under-the-tulip-tree  
+By [Michelle Shocklee](https://michelleshocklee.com/about-me-and-my-books/)  ( – )  
+
+Reading Notes: Overall, this is an interesting [historical novel](https://en.wikipedia.org/wiki/Historical_fiction) about a young woman in the depths of the [1930s depression](https://en.wikipedia.org/wiki/Great_Depression) and her learning details about [slavery](https://en.wikipedia.org/wiki/Slavery_in_the_United_States#Civil_War_and_emancipation) in her home town of [Nashville, TN](https://en.wikipedia.org/wiki/Nashville,_Tennessee#18th_and_19th_centuries), with special emphasis on the U.S. [Civil War](https://en.wikipedia.org/wiki/American_Civil_War) period.  This was my first read of a ["*Christian faith*" novel](https://en.wikipedia.org/wiki/Christian_novel#Modern_American_Christian_novels).  Be aware that in this story the "*Christian faith*" content grew increasingly prominent as the novel progressed.  
+
+Publisher's Summary:  
+>Sixteen-year-old Lorena Leland’s dreams of a rich and fulfilling life as a writer are dashed when the stock market crashes in 1929. Seven years into the Great Depression, Rena’s banker father has retreated into the bottle, her sister is married to a lazy charlatan and gambler, and Rena is an unemployed newspaper reporter. Eager for any writing job, Rena accepts a position interviewing former slaves for the Federal Writers’ Project. There, she meets Frankie Washington, a 101-year-old woman whose honest yet tragic past captivates Rena.  
+
+>As Frankie recounts her life as a slave, Rena is horrified to learn of all the older woman has endured—especially because Rena’s ancestors owned slaves. While Frankie’s story challenges Rena’s preconceptions about slavery, it also connects the two women whose lives are otherwise separated by age, race, and circumstances. But will this bond of respect, admiration, and friendship be broken by a revelation neither woman sees coming?  
+
+References:  
+* [Library of Congress: Manuscripts from the Federal Writers' Project 1936-1938](https://www.loc.gov/collections/slave-narratives-from-the-federal-writers-project-1936-to-1938/about-this-collection/)  
+* [Federal Writers' Project](https://www.loc.gov/rr/program/bib/newdeal/fwp.html)  
+
+
+</details>
+
+
 <details><summary><a name="unwell_women_by_elinor_cleghorn"></a>Unwell Women -- Misdiagnosis and Myth in a Man-Made World.  By Elinor Cleghorn. 2021 </summary>
 
 ### Unwell Women -- Misdiagnosis and Myth in a Man-Made World. (14:00)  
@@ -5243,13 +5267,14 @@ Librivox summary:
 
 
 <details>
-<summary>One or more of the [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver) novels below: </summary>
+<summary>One or more of the Lionel Shriver novels below: </summary>
 
 <details>
 <summary>Mania. By Lionel Shriver. 2024 </summary>
 
 ### Mania. (??:??)  
-Audio: (*still unreleased as of this entry*)  
+Audio: https://www.overdrive.com/media/9974774/mania  
+eBook: https://www.overdrive.com/media/9974850/mania  
 By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
 Harper. 288 pp.  
 
