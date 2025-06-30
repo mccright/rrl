@@ -2448,6 +2448,25 @@ Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyr
 </details>
 
 
+<details>
+<summary><a name="kindred_by_octavia_e_butler"></a>Kindred. By Octavia E. Butler. </summary>
+
+### Kindred. (11:00)  
+Audio: https://www.overdrive.com/media/3122010/kindred  
+eBook: https://www.overdrive.com/media/208574/kindred  
+By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
+
+Reading Notes: This story incorporates time travel into the first-person account of a young African-American writer who is repeatedly transported in time from her Los Angeles home in 1976 with her white husband to an early 19th-century Maryland plantation outside Easton. See the [Wikipedia summmary](https://en.wikipedia.org/wiki/Kindred_(novel)) for more context for this important exploration of the grim realities of antebellum slavery and its impacts on everyone associated with it -- continuing through today.   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Kindred_(novel)  
+Author's site: https://www.octaviabutler.com/kindred  
+
+"[The Essential Octavia Butler](https://www.nytimes.com/2021/01/15/books/review/the-essential-octavia-butler.html?unlocked_article_code=1.S08.Ty8O.TnprlBAgYQj-&smid=url-share)."  
+"[The Visions of Octavia Butler](https://www.nytimes.com/interactive/2022/11/17/arts/octavia-butler-vision-kindred.html?unlocked_article_code=1.S08.JTHN.RmJfB_Qf7uow&smid=url-share)."  
+
+</details>
+
+
 <details><summary>Kings, Queens and Pawns: An American Woman at the Front. By Mary Roberts Rinehart, 1915</summary>
 
 ### Kings, Queens and Pawns: An American Woman at the Front  (10:27)  
