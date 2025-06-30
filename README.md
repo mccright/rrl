@@ -2152,6 +2152,25 @@ Author's Summary and links to reviews: [https://stewart-onan.com/fiction/henry-h
 </details>
 
 
+<details>
+<summary><a name="death_on_the_nile_by_agatha_christie"></a>#18 in the Hercule Poirot Series -- Death on the Nile. By Agatha Christie 1937 </summary>
+
+### #18 in the Hercule Poirot Series -- Death on the Nile. (8:15)  
+Audio: https://www.overdrive.com/media/5195485/death-on-the-nile  
+eBook: https://www.overdrive.com/media/72813/death-on-the-nile  
+By [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)  (1890 – 1976)  
+Narrator [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh) (1960 -- )  
+
+Reading Notes: This is a complex [whodunit](https://en.wikipedia.org/wiki/Whodunit) from a master of the genre, performed by another master of his craft, [Kenneth Branagh](https://en.wikipedia.org/wiki/Kenneth_Branagh).  In that context, it might be entertaining for many.  
+We listened to this story on a road trip and sometimes found it a little difficult to keep track of the characters and the many important details (*maybe this was the distractions of traffic and navigation, combined with a trained inability to focus carefully for hours on a single topic through a single input stream -- damn the evil emperors of social media!!!*).  
+
+Wikipedia Summary: [Death on the Nile](https://en.wikipedia.org/wiki/Death_on_the_Nile)  
+
+[Hercule Poirot](https://en.wikipedia.org/wiki/Hercule_Poirot)  
+
+</details>
+
+
 <details><summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
 
 ### Here, Right Matters -- An American Story. (7:00)  
@@ -2425,6 +2444,25 @@ Review by Sarah Hendess: [https://historicalnovelsociety.org/...](https://histor
 Review by Rachelle Kuzyk: [https://chandlerlibrary.org/...](https://chandlerlibrary.org/blogs/post/rachelles-reads-the-keeper-of-hidden-books-by-madeline-martin/)  
 Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyreadergirl.com/2023/10/the-keeper-of-hidden-books-by-madeline-martin-book-review/)  
 
+
+</details>
+
+
+<details>
+<summary><a name="kindred_by_octavia_e_butler"></a>Kindred. By Octavia E. Butler. </summary>
+
+### Kindred. (11:00)  
+Audio: https://www.overdrive.com/media/3122010/kindred  
+eBook: https://www.overdrive.com/media/208574/kindred  
+By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
+
+Reading Notes: This story incorporates time travel into the first-person account of a young African-American writer who is repeatedly transported in time from her Los Angeles home in 1976 with her white husband to an early 19th-century Maryland plantation outside Easton. See the [Wikipedia summmary](https://en.wikipedia.org/wiki/Kindred_(novel)) for more context for this important exploration of the grim realities of antebellum slavery and its impacts on everyone associated with it -- continuing through today.   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Kindred_(novel)  
+Author's site: https://www.octaviabutler.com/kindred  
+
+"[The Essential Octavia Butler](https://www.nytimes.com/2021/01/15/books/review/the-essential-octavia-butler.html?unlocked_article_code=1.S08.Ty8O.TnprlBAgYQj-&smid=url-share)."  
+"[The Visions of Octavia Butler](https://www.nytimes.com/interactive/2022/11/17/arts/octavia-butler-vision-kindred.html?unlocked_article_code=1.S08.JTHN.RmJfB_Qf7uow&smid=url-share)."  
 
 </details>
 
@@ -2944,7 +2982,7 @@ OverDrive Summary [https://www.overdrive.com/media/10638161/ministry-of-truth](h
 </details>
 
 
-<details><summary><a name="ministry_for_the_future"></a>The Ministry for the Future.  By Kim Stanley Robinson  2020</summary>
+<details><summary><a name="ministry_for_the_future"></a>The Ministry for the Future.  By Kim Stanley Robinson  2020 (Everyone needs this book) </summary>
 
 ### The Ministry for the Future  (20:42)  
 Audio: https://www.overdrive.com/media/5558525/the-ministry-for-the-future  
@@ -4847,6 +4885,18 @@ Reading Notes:
 
 
 
+<details>
+<summary><a name="a_worse_place_than_hell_by_john_matteson"></a>A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
+
+### Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
+Audio: https://www.overdrive.com/media/6213018/a-worse-place-than-hell  
+eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell  
+By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
+
+Reading Notes: Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
+
+
+</details>
 
 
 
