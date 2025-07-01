@@ -2449,7 +2449,7 @@ Review by Jana: [https://www.thatartsyreadergirl.com/...](https://www.thatartsyr
 
 
 <details>
-<summary><a name="kindred_by_octavia_e_butler"></a>Kindred. By Octavia E. Butler. </summary>
+<summary><a name="kindred_by_octavia_e_butler"></a>Kindred. By Octavia E. Butler. 1979 </summary>
 
 ### Kindred. (11:00)  
 Audio: https://www.overdrive.com/media/3122010/kindred  
