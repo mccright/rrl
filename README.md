@@ -1854,6 +1854,23 @@ Reading Notes: This collection of poetry received [accolades from a range of ins
 </details>
 
 
+<details><summary><a name="funny_you_dont_look_autistic_by_michael_mccreary"></a>Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. By Michael McCreary 2019 </summary>
+
+### Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. (4:00)  
+
+Audio: https://www.overdrive.com/media/4613861/funny-you-dont-look-autistic  
+Ebook: https://www.overdrive.com/media/4627687/funny-you-dont-look-autistic  
+By [Michael McCreary](https://www.aspiecomic.com/) (1997? -  )  
+
+Reading Notes: Canadian Michael McCreary, 20-something stand-up comic, was diagnosed with Autism Spectrum Disorder (ASD) at 5 yr/old.  He discusses what it's like to live with autism for readers on and off the spectrum (emphasizing that autism "looks" different for just about everyone).   
+
+Author's Book page: https://www.aspiecomic.com/funny-you-dont-look-autistic.html  
+Audiobook Supplement: [https://www.annickpress.com/.../FunnyYouDontLookAutistic_AudiobookSupplement.pdf](https://www.annickpress.com/content/download/26998/372782/version/1/file/FunnyYouDontLookAutistic_AudiobookSupplement.pdf)  
+
+
+</details>
+
+
 <details><summary><a name="the_future_naomi_alderman"></a>The Future -- A Novel. By Naomi Alderman. 2023 </summary>
 
 ### The Future  (13:00)
