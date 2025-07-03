@@ -4905,12 +4905,22 @@ Reading Notes:
 <details>
 <summary><a name="a_worse_place_than_hell_by_john_matteson"></a>A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
 
-### Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
+### A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
 Audio: https://www.overdrive.com/media/6213018/a-worse-place-than-hell  
 eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell  
 By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
 
-Reading Notes: Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
+Reading Notes: Jane delivered a Public Library copy to me for my birthday.  It was recommended by her brother-in-law.  
+Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman  
+
+...war is not as glorious as novelists would have us believe.  John Pelham, Confederate Army.  
+He had a gift: an aptitude for turning other yound men into ruined heaps of blood and bone.  
+...he was to perform his wonders in a theater of pain.  
+...the (*Jeb*) Stuart Horse Artillery.  
+Few adhesives bind more powerfully than the satisfaction of well-executed teamwork.  
+
+...George Washington Whitman. His brother Walt wrote poetry.  
+Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
 
 
 </details>
