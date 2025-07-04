@@ -4903,6 +4903,40 @@ Reading Notes:
 
 
 <details>
+<summary><a name=""></a>Drum-Taps. By Walt Whitman. 1865 </summary>
+
+### Drum-Taps. (1:36)  
+Audio: https://librivox.org/drum-taps-by-walt-whitman/  
+eBook: https://www.gutenberg.org/ebooks/8801  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes:   
+
+Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="leaves_of_grass_by_walt_whitman"></a>Leaves of Grass. By Walt Whitman. 1881 Edition (1855) </summary>
+
+### Leaves of Grass. (18:44)  
+Audio: https://librivox.org/leaves-of-grass-by-walt-whitman-2/  
+eBook: https://www.gutenberg.org/ebooks/1322  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes:   
+
+
+Wikipedia page for [Leaves of Grass](https://en.wikipedia.org/wiki/Leaves_of_Grass).  
+
+</details>
+
+
+
+<details>
 <summary><a name="a_worse_place_than_hell_by_john_matteson"></a>A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
 
 ### A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
@@ -4921,6 +4955,9 @@ Few adhesives bind more powerfully than the satisfaction of well-executed teamwo
 
 ...George Washington Whitman. His brother Walt wrote poetry.  
 Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
+
+Walt Whitman: "The only sin is limitation."  p. 75
+
 
 
 </details>
