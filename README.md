@@ -4903,14 +4903,61 @@ Reading Notes:
 
 
 <details>
+<summary><a name=""></a>Drum-Taps. By Walt Whitman. 1865 </summary>
+
+### Drum-Taps. (1:36)  
+Audio: https://librivox.org/drum-taps-by-walt-whitman/  
+eBook: https://www.gutenberg.org/ebooks/8801  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes:   
+
+Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
+
+
+</details>
+
+
+
+<details>
+<summary><a name="leaves_of_grass_by_walt_whitman"></a>Leaves of Grass. By Walt Whitman. 1881 Edition (1855) </summary>
+
+### Leaves of Grass. (18:44)  
+Audio: https://librivox.org/leaves-of-grass-by-walt-whitman-2/  
+eBook: https://www.gutenberg.org/ebooks/1322  
+By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
+
+Reading Notes:   
+
+
+Wikipedia page for [Leaves of Grass](https://en.wikipedia.org/wiki/Leaves_of_Grass).  
+
+</details>
+
+
+
+<details>
 <summary><a name="a_worse_place_than_hell_by_john_matteson"></a>A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
 
-### Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
+### A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
 Audio: https://www.overdrive.com/media/6213018/a-worse-place-than-hell  
 eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell  
 By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
 
-Reading Notes: Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
+Reading Notes: Jane delivered a Public Library copy to me for my birthday.  It was recommended by her brother-in-law.  
+Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman  
+
+...war is not as glorious as novelists would have us believe.  John Pelham, Confederate Army.  
+He had a gift: an aptitude for turning other yound men into ruined heaps of blood and bone.  
+...he was to perform his wonders in a theater of pain.  
+...the (*Jeb*) Stuart Horse Artillery.  
+Few adhesives bind more powerfully than the satisfaction of well-executed teamwork.  
+
+...George Washington Whitman. His brother Walt wrote poetry.  
+Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
+
+Walt Whitman: "The only sin is limitation."  p. 75
+
 
 
 </details>
