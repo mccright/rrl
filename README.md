@@ -2296,6 +2296,20 @@ Reading notes: This is a *thin* story with mostly *wooden* characters, with just
 </details>
 
 
+<details><summary><a name="icebound_by_andrea_pitzer"></a>Icebound -- Shipwrecked at the Edge of the World.  By Andrea Pitzer.  2021 </summary>
+
+### Icebound -- Shipwrecked at the Edge of the World. (9:18)  
+Audio: https://www.overdrive.com/media/5207444/icebound  
+eBook: https://www.overdrive.com/media/5588545/icebound  
+By [Andrea Pitzer](https://en.wikipedia.org/wiki/Andrea_Pitzer) and [Author's Bio.](https://andreapitzer.com/bio/) (1968 – )  
+
+Reading Notes: This book documents attempts by 16th-century Dutch explorer [William Barents](https://en.wikipedia.org/wiki/Willem_Barentsz) (1550 - 1597) to find a northern route to China -- North of what is now Russia.  He sailed farther north than any Europeans before. On his third polar voyage, one funded by wealthy optimistic Dutch merchants, his ship was locked in ice off the coast of [Nova Zembla](https://en.wikipedia.org/wiki/Novaya_Zemlya).  The sailors, unprepared for the Arctic winter, spent the next year fighting off polar bears, hunger and fiercely cold winter.  
+
+Author's Summary: https://andreapitzer.com/icebound/  
+
+</details>
+
+
 <details><summary><a name="imperfect_union"></a>Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. By Steve Inskeep. 2020 </summary>
 
 ### Imperfect Union -- How Jessie and John Frémont Mapped the West, Invented Celebrity, and Helped Cause the Civil War. (14:00)  
