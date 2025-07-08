@@ -60,7 +60,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
 </details>
 
 
-<details><summary><a name="2034_by_Ackerman_and_Stavridis"></a>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 </summary>
+<details><summary><a name="2034_by_Ackerman_and_Stavridis"></a>2034 -- A Novel of the Next World War. By Elliot Ackerman and Adm. James Stavridis. 2021 (Recommend it: read it carefully and invest in discussions about it with others) </summary>
 
 ### 2034 -- A Novel of the Next World War. (11:00)  
 Audio: https://www.overdrive.com/media/5558540/2034  
@@ -1039,6 +1039,24 @@ By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_
 Reading Notes: This report covers an ugly period of Western colonization and widespread genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
 Summary from Librivox:  
 >"A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands." - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
+
+</details>
+
+
+<details><summary><a name="brotherhood_of_the_flying_coffin_by_scott_mcgaugh 2023 "></a>Brotherhood of the Flying Coffin -- The Glider Pilots of World War II.  By Scott McGaugh 2023  </summary>
+
+### Brotherhood of the Flying Coffin -- The Glider Pilots of World War II.  (9:10)  
+Audio: https://www.overdrive.com/media/9232918/brotherhood-of-the-flying-coffin  
+eBook:   
+By [Scott McGaugh](https://scottmcgaugh.com/about.html) and [AuthorScottMcGaugh](https://www.facebook.com/AuthorScottMcGaugh) ( – )  
+
+Reading Notes: Every major European invasion of WWII was led by gliders delivering troops, medical teams, arms, fuel and more -- generally into enemy territory.  The author uses piles of first-person reports by pilots, co-pilots and flight engineers to tell the story of these one-way missions...  
+
+[Author's Summary](https://scottmcgaugh.com/newrelease.html):  
+>The untold story of WWII's glider pilots who volunteered to fly one-way missions into enemy territory with no motors, no parachutes, no second chances, and no shortage of guts. In a defenseless, fabric-covered aircraft not yet invented at the start of the war.  
+>This is their story, in their words. Brotherhood is my latest nonfiction thriller about battlefield heroes you would like to have over for dinner. Dinner guests like glider pilot Harry Loftis...  
+>"I keep getting flashbacks of things that happened. I had high school friends, college friends, frat brothers, but I never put them close to the category that I do those glider pilots...courage that you would never believe."  
+
 
 </details>
 
@@ -4916,38 +4934,6 @@ Reading Notes:
 
 
 
-<details>
-<summary><a name=""></a>Drum-Taps. By Walt Whitman. 1865 </summary>
-
-### Drum-Taps. (1:36)  
-Audio: https://librivox.org/drum-taps-by-walt-whitman/  
-eBook: https://www.gutenberg.org/ebooks/8801  
-By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
-
-Reading Notes:   
-
-Wikipedia page for [Drum-Taps](https://en.wikipedia.org/wiki/Drum-Taps).  
-
-
-</details>
-
-
-
-<details>
-<summary><a name="leaves_of_grass_by_walt_whitman"></a>Leaves of Grass. By Walt Whitman. 1881 Edition (1855) </summary>
-
-### Leaves of Grass. (18:44)  
-Audio: https://librivox.org/leaves-of-grass-by-walt-whitman-2/  
-eBook: https://www.gutenberg.org/ebooks/1322  
-By [Walt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman)  (1819 - 1892)  
-
-Reading Notes:   
-
-
-Wikipedia page for [Leaves of Grass](https://en.wikipedia.org/wiki/Leaves_of_Grass).  
-
-</details>
-
 
 
 <details>
@@ -4971,6 +4957,8 @@ Few adhesives bind more powerfully than the satisfaction of well-executed teamwo
 Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
 
 Walt Whitman: "The only sin is limitation."  p. 75
+
+Arthur Fuller: 
 
 
 
