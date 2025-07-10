@@ -1360,6 +1360,29 @@ Librivox Summary:  This non-fiction work takes place in many areas of New York C
 </details>
 
 
+<details><summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
+
+### Creation Lake.  (11:00)  
+Audio: https://www.overdrive.com/media/10480247/creation-lake  
+eBook: https://www.overdrive.com/media/10480407/creation-lake  
+By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )   416 pages  
+
+Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
+
+References [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
+Bruno Lacombe: "Leaving the world behind."  
+Pascal's "Zones of Incivility," a vague wannabe *handbook for insurrection*.  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/Creation_Lake](https://en.wikipedia.org/wiki/Creation_Lake)  
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../creation-lake-rachel-kushner...](https://www.nytimes.com/2024/09/02/books/review/creation-lake-rachel-kushner.html?unlocked_article_code=1.CE8.GeY3.UVE5vcg0oqs2&smid=url-share)  
+Review by [Lily Meyer](): [https://www.theatlantic.com/.../rachel-kushner-creation-lake-review...](https://www.theatlantic.com/magazine/archive/2024/10/rachel-kushner-creation-lake-review/679571/)  
+Review by [Maureen Corrigan](https://www.npr.org/people/4529709/maureen-corrigan): [https://www.npr.org/.../creation-lake-review-rachel-kushner](https://www.npr.org/2024/09/10/nx-s1-5104725/creation-lake-review-rachel-kushner)  
+Review by [Alexandra Schwartz](https://www.newyorker.com/contributors/alexandra-schwartz): [https://www.newyorker.com/.../creation-lake-rachel-kushner-book-review](https://www.newyorker.com/magazine/2024/10/14/creation-lake-rachel-kushner-book-review)  
+Review by [Laura Marsh](https://newrepublic.com/authors/laura-marsh): [https://newrepublic.com/.../rachel-kushner-spy-games-creation-lake-review](https://newrepublic.com/article/185282/rachel-kushner-spy-games-creation-lake-review)  
+
+</details>
+
+
 <details><summary><a name="creatures_that_time_forgot_by_ray_bradbury"></a>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
 
 ### The Creatures That Time Forgot.  (1:51)  
@@ -1647,6 +1670,36 @@ eBook: https://www.overdrive.com/media/4500529/emily-eternal
 By [M. G. Wheaton](https://www.mark-wheaton.com/about)  ( – )  
 
 Reading Notes: This is a sifi novel about how humanity and Emily - an artificial consciousness, deal with the winking-out of our sun in the near future.  There is a ton of unlikely tech and instances of ignoring the laws of the physical world, but other than that, it is enjoyable entertainment.  I think that many will find this an attractive book and listening experience.  
+
+</details>
+
+
+<details><summary><a name="end_of_drum_time_by_hanna_pylvainen"></a>The End of Drum-Time -- A Novel.  By Hanna Pylväinen. 2023 
+ </summary>
+
+### The End of Drum-Time.  (15:00)  
+Audio: https://www.overdrive.com/media/8916796/the-end-of-drum-time  
+eBook: https://www.overdrive.com/media/8884262/the-end-of-drum-time  
+By [Hanna Pylväinen](https://en.wikipedia.org/wiki/Hanna_Pylv%C3%A4inen) and [anna Pylväinen](https://www.hannapylvainen.com/about)  ( – )  
+
+Reading Notes: This story incorporates an exploration of conflicts that too often appear when Christian, government functionary, and commercial business (both professional and amateur) enthusiasts colonize areas populated by indigenous people -- some with the explicit goal of eradicating the indigenous culture.  But its strength is really in how it does so through the thoughts and actions of *real people* and the nature they inhabit.  Set in 1851, at [a remote village in the northern Scandinavian tundra, a Lutheran minister, Lars Levi Laestadius, known as *Mad Lasse* tries to convert Swedes, Finns, and a group of Sámi nomadic reindeer herders to his faith](https://www.hannapylvainen.com/the-end-of-drum-time).  When a poor, but respected Sámi shaman and herder, Biettar Rasti, has an unexpected Christian awakening and dedicates his life to the church, Mad Lasse's following grows and his reputation ranges far. The convert's son, Ivvár, is left to manage their diminishing herd alone. Mad Lasse's daughter, Willa, becomes infatuated with Ivvár and follows the herders on their seasonal migration to the sea.  Envious of his successes, Frans orders Lars Levi to pastor at another church far South, then arrives to take over *Mad Lasse's* church and begins to manage finances of Henrik's store.  
+
+Some of the Characters:  
+* Lars Levi Laestadius, also known as *Mad Lasse*, Lutheran minister  
+* Biettar Rasti, Sámi shaman and herder, alcoholic, Lutheran convert and wannabe missionary.  
+* Ivvár, Biettar's son, alcoholic, Sámi herder.  
+* Henrik, the storekeeper.  
+* Frans, Henrik’s (*corrupt*) uncle, financer and the religious and legal leader of the area.  
+* Willa, Mad Lasse's daughter, infatuated with Ivvár.  
+* Risten, daughter of a successful Sámi herding family who once had a romance with Ivvár, and who later helped rescue, house, and train Willa about Sámi ways.  
+* Nora, Mad Lasse's daughter, marries Henrik.  
+
+
+Wikipedia Summary: [https://en.wikipedia.org/wiki/The_End_of_Drum-Time](https://en.wikipedia.org/wiki/The_End_of_Drum-Time)  
+Review by [Joan Gaylord](): [https://www.csmonitor.com/...The-End-of-Drum-Time...](https://www.csmonitor.com/Books/Book-Reviews/2023/0522/The-End-of-Drum-Time-weaves-a-poignant-tale-of-clashing-cultures)  
+Review By [Cory Oldweiler](): [https://www.startribune.com/review-the-end-of-drum-time...](https://www.startribune.com/review-the-end-of-drum-time-by-hanna-pylvainen/600247013)
+NPR's Scott Simon interviews Hanna Pylvainen about "The End of Drum-Time." [https://www.npr.org/...the-end-of-drum-time](https://www.npr.org/2023/01/28/1152313326/hanna-pylvainen-on-her-new-novel-the-end-of-drum-time)  
+Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time...](https://www.churchtimes.co.uk/articles/2024/1-november/books-arts/book-reviews/book-review-the-end-of-drum-time-by-hanna-pylvaeinen)  
 
 </details>
 
@@ -5046,27 +5099,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men
 
 </details>
 
-
-
-<details>
-<summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
-
-### Creation Lake.  (11:00)  
-Audio: https://www.overdrive.com/media/10480247/creation-lake  
-eBook: https://www.overdrive.com/media/10480407/creation-lake  
-By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
-416 pages  
-
-Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
-
-References [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
-
-Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../creation-lake-rachel-kushner...](https://www.nytimes.com/2024/09/02/books/review/creation-lake-rachel-kushner.html?unlocked_article_code=1.CE8.GeY3.UVE5vcg0oqs2&smid=url-share)  
-Review by [Lily Meyer](): [https://www.theatlantic.com/.../rachel-kushner-creation-lake-review...](https://www.theatlantic.com/magazine/archive/2024/10/rachel-kushner-creation-lake-review/679571/)  
-Review by [Maureen Corrigan](https://www.npr.org/people/4529709/maureen-corrigan): [https://www.npr.org/.../creation-lake-review-rachel-kushner](https://www.npr.org/2024/09/10/nx-s1-5104725/creation-lake-review-rachel-kushner)  
-Review by [Alexandra Schwartz](https://www.newyorker.com/contributors/alexandra-schwartz): [https://www.newyorker.com/.../creation-lake-rachel-kushner-book-review](https://www.newyorker.com/magazine/2024/10/14/creation-lake-rachel-kushner-book-review)  
-
-</details>
 
 
 
