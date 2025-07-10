@@ -1360,6 +1360,29 @@ Librivox Summary:  This non-fiction work takes place in many areas of New York C
 </details>
 
 
+<details><summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
+
+### Creation Lake.  (11:00)  
+Audio: https://www.overdrive.com/media/10480247/creation-lake  
+eBook: https://www.overdrive.com/media/10480407/creation-lake  
+By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )   416 pages  
+
+Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
+
+References [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
+Bruno Lacombe: "Leaving the world behind."  
+Pascal's "Zones of Incivility," a vague wannabe *handbook for insurrection*.  
+
+Wikipedia summary: [https://en.wikipedia.org/wiki/Creation_Lake](https://en.wikipedia.org/wiki/Creation_Lake)  
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../creation-lake-rachel-kushner...](https://www.nytimes.com/2024/09/02/books/review/creation-lake-rachel-kushner.html?unlocked_article_code=1.CE8.GeY3.UVE5vcg0oqs2&smid=url-share)  
+Review by [Lily Meyer](): [https://www.theatlantic.com/.../rachel-kushner-creation-lake-review...](https://www.theatlantic.com/magazine/archive/2024/10/rachel-kushner-creation-lake-review/679571/)  
+Review by [Maureen Corrigan](https://www.npr.org/people/4529709/maureen-corrigan): [https://www.npr.org/.../creation-lake-review-rachel-kushner](https://www.npr.org/2024/09/10/nx-s1-5104725/creation-lake-review-rachel-kushner)  
+Review by [Alexandra Schwartz](https://www.newyorker.com/contributors/alexandra-schwartz): [https://www.newyorker.com/.../creation-lake-rachel-kushner-book-review](https://www.newyorker.com/magazine/2024/10/14/creation-lake-rachel-kushner-book-review)  
+Review by [Laura Marsh](https://newrepublic.com/authors/laura-marsh): [https://newrepublic.com/.../rachel-kushner-spy-games-creation-lake-review](https://newrepublic.com/article/185282/rachel-kushner-spy-games-creation-lake-review)  
+
+</details>
+
+
 <details><summary><a name="creatures_that_time_forgot_by_ray_bradbury"></a>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
 
 ### The Creatures That Time Forgot.  (1:51)  
@@ -5076,27 +5099,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men
 
 </details>
 
-
-
-<details>
-<summary><a name="creation_lake_by_rachel_kushner"></a>Creation Lake. By Rachel Kushner.  2024 </summary>
-
-### Creation Lake.  (11:00)  
-Audio: https://www.overdrive.com/media/10480247/creation-lake  
-eBook: https://www.overdrive.com/media/10480407/creation-lake  
-By [Rachel Kushner](https://en.wikipedia.org/wiki/Rachel_Kushner)  (1968 – )  
-416 pages  
-
-Reading Notes: Spy novel... "Sadie Smith," Kushner’s narrator, a 34 year old American graduate school dropout, freelance spy, goes to southwest France to infiltrate "Le Moulin" a radical farming commune planning violence.  The author created more than 400 pages of narration & internal dialog covering a huge universe of topics and ideas -- a gigantic word painting that was more satisfying than most books on this list.  
-
-References [Guy Debord](https://en.wikipedia.org/wiki/Guy_Debord)  
-
-Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/.../creation-lake-rachel-kushner...](https://www.nytimes.com/2024/09/02/books/review/creation-lake-rachel-kushner.html?unlocked_article_code=1.CE8.GeY3.UVE5vcg0oqs2&smid=url-share)  
-Review by [Lily Meyer](): [https://www.theatlantic.com/.../rachel-kushner-creation-lake-review...](https://www.theatlantic.com/magazine/archive/2024/10/rachel-kushner-creation-lake-review/679571/)  
-Review by [Maureen Corrigan](https://www.npr.org/people/4529709/maureen-corrigan): [https://www.npr.org/.../creation-lake-review-rachel-kushner](https://www.npr.org/2024/09/10/nx-s1-5104725/creation-lake-review-rachel-kushner)  
-Review by [Alexandra Schwartz](https://www.newyorker.com/contributors/alexandra-schwartz): [https://www.newyorker.com/.../creation-lake-rachel-kushner-book-review](https://www.newyorker.com/magazine/2024/10/14/creation-lake-rachel-kushner-book-review)  
-
-</details>
 
 
 
