@@ -5013,6 +5013,10 @@ Walt Whitman: "The only sin is limitation."  p. 75
 
 Arthur Fuller: 
 
+Louisa May Alcott  
+
+John F. Suhre  
+
 
 
 </details>
