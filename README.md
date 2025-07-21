@@ -5059,37 +5059,6 @@ Reading Notes:
 
 
 <details>
-<summary><a name="end_of_drum_time_by_hanna_pylvainen"></a>The End of Drum-Time -- A Novel.  By Hanna Pylväinen. 2023 
- </summary>
-
-### The End of Drum-Time.  (15:00)  
-Audio: https://www.overdrive.com/media/8916796/the-end-of-drum-time  
-eBook: https://www.overdrive.com/media/8884262/the-end-of-drum-time  
-By [Hanna Pylväinen](https://en.wikipedia.org/wiki/Hanna_Pylv%C3%A4inen) and [anna Pylväinen](https://www.hannapylvainen.com/about)  ( – )  
-
-Reading Notes: This story incorporates an exploration of conflicts that too often appear when Christian, government functionary, and commercial business (both professional and amateur) enthusiasts colonize areas populated by indigenous people -- some with the explicit goal of eradicating the indigenous culture.  But its strength is really in how it does so through the thoughts and actions of *real people* and the nature they inhabit.  Set in 1851, at [a remote village in the northern Scandinavian tundra, a Lutheran minister, Lars Levi Laestadius, known as *Mad Lasse* tries to convert Swedes, Finns, and a group of Sámi nomadic reindeer herders to his faith](https://www.hannapylvainen.com/the-end-of-drum-time).  When a poor, but respected Sámi shaman and herder, Biettar Rasti, has an unexpected Christian awakening and dedicates his life to the church, Mad Lasse's following grows and his reputation ranges far. The convert's son, Ivvár, is left to manage their diminishing herd alone. Mad Lasse's daughter, Willa, becomes infatuated with Ivvár and follows the herders on their seasonal migration to the sea.  Envious of his successes, Frans orders Lars Levi to pastor at another church far South, then arrives to take over *Mad Lasse's* church and begins to manage finances of Henrik's store.  
-
-Some of the Characters:  
-* Lars Levi Laestadius, also known as *Mad Lasse*, Lutheran minister  
-* Biettar Rasti, Sámi shaman and herder, alcoholic, Lutheran convert and wannabe missionary.  
-* Ivvár, Biettar's son, alcoholic, Sámi herder.  
-* Henrik, the storekeeper.  
-* Frans, Henrik’s (*corrupt*) uncle, financer and the religious and legal leader of the area.  
-* Willa, Mad Lasse's daughter, infatuated with Ivvár.  
-* Risten, daughter of a successful Sámi herding family who once had a romance with Ivvár, and who later helped rescue, house, and train Willa about Sámi ways.  
-* Nora, Mad Lasse's daughter, marries Henrik.  
-
-
-Wikipedia Summary: [https://en.wikipedia.org/wiki/The_End_of_Drum-Time](https://en.wikipedia.org/wiki/The_End_of_Drum-Time)  
-Review by [Joan Gaylord](): [https://www.csmonitor.com/...The-End-of-Drum-Time...](https://www.csmonitor.com/Books/Book-Reviews/2023/0522/The-End-of-Drum-Time-weaves-a-poignant-tale-of-clashing-cultures)  
-Review By [Cory Oldweiler](): [https://www.startribune.com/review-the-end-of-drum-time...](https://www.startribune.com/review-the-end-of-drum-time-by-hanna-pylvainen/600247013)  
-NPR's Scott Simon interviews Hanna Pylvainen about "The End of Drum-Time." [https://www.npr.org/...the-end-of-drum-time](https://www.npr.org/2023/01/28/1152313326/hanna-pylvainen-on-her-new-novel-the-end-of-drum-time)  
-Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time...](https://www.churchtimes.co.uk/articles/2024/1-november/books-arts/book-reviews/book-review-the-end-of-drum-time-by-hanna-pylvaeinen)  
-
-</details>
-
-
-<details>
 <summary><a name="do_i_know_you_by_sadie_dingfelder"></a>Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination. By Sadie Dingfelder 2024 </summary>
 
 ### Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination.  
