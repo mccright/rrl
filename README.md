@@ -1992,6 +1992,19 @@ Review By [Ilana Masad](https://www.ilanamasad.com/bio): [https://www.latimes.co
 </details>
 
 
+<details><summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+### A Gentleman in Moscow.  (18:00)  
+Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
+eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
+By [Amor Towles](https://en.wikipedia.org/wiki/Amor_Towles)  (1964 – )  
+
+Reading Notes: The story begins shortly after the [Bolshevik revolution](https://en.wikipedia.org/wiki/Bolshevik_revolution) of 1917 when the 28 year old fictional Count Alexander Ilyich Rostov is arrested and charged with "[social parasitism](https://en.wikipedia.org/wiki/Social_parasitism_(offense))."  Upon conviction, the Count is sentenced to life under [house arrest](https://en.wikipedia.org/wiki/House_arrest) in the former servants quarters in the attic of luxury hotel Hotel Metropol in central [Moscow](https://en.wikipedia.org/wiki/Moscow).  The author takes us through the Count's inner dialog and self-reflection, his interactions and conversations with those around him, and wraps that in snippits of [Russian](https://en.wikipedia.org/wiki/Russian) and world [history](https://en.wikipedia.org/wiki/History) throughout the rest of the Count's life.  The writing and the story are just fantastic.  Everyone should find a reason to read or listen to this book.  The writing -- a fine [full-course dinner](https://en.wikipedia.org/wiki/Full-course_dinner) with your family and/or friends.  The audio presentation by [Nicholas Guy Smith](https://thatvoice.net/about-nick-british-voiceover/) -- beautiful music and a soft, warm, perfectly tailored winter outfit.  It illustrates a life lived well and, I believe, will augment many reader's understanding of Russian and world history.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Gentleman_in_Moscow  
+
+</details>
+
+
 <details><summary><a name="the_gettysburg_address_abraham_lincoln"></a>The Gettysburg Address. By Abraham Lincoln.  November 19, 1863</summary>  
 
 ### The Gettysburg Address (0:02:41)  
@@ -2583,6 +2596,22 @@ Author's site: https://www.octaviabutler.com/kindred
 
 "[The Essential Octavia Butler](https://www.nytimes.com/2021/01/15/books/review/the-essential-octavia-butler.html?unlocked_article_code=1.S08.Ty8O.TnprlBAgYQj-&smid=url-share)."  
 "[The Visions of Octavia Butler](https://www.nytimes.com/interactive/2022/11/17/arts/octavia-butler-vision-kindred.html?unlocked_article_code=1.S08.JTHN.RmJfB_Qf7uow&smid=url-share)."  
+
+</details>
+
+
+<details><summary><a name="king_a_life_by_jonathan_eig"></a>King -- A Life. By Jonathan Eig. 2023  </summary>
+
+### King -- A Life. (20:44)  
+Audio: https://www.overdrive.com/media/9254575/king  
+eBook: https://www.overdrive.com/media/9191470/king  
+By [Jonathan Eig](https://en.wikipedia.org/wiki/Jonathan_Eig) and [here](https://www.jonathaneig.com/about)  (1964 – )  
+688 pages  
+
+Reading Notes: This is a recent, well-received biography of MLK.  I particularly liked the last third of the book as it wrapped King's activities in a complex and rapidly-evolving environment of the 1960s.  
+
+See a list of reviews [here](https://www.jonathaneig.com/king-a-life)  
+Wikipedia Page: https://en.wikipedia.org/wiki/King:_A_Life  
 
 </details>
 
