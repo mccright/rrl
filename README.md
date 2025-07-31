@@ -1413,6 +1413,16 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="critical_difference_by_murray_leinster"></a>Critical difference.  By Murray Leinster.  1956</summary>
+
+### Critical difference  
+eBook: https://www.gutenberg.org/ebooks/68686  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1956  
+
+
+</details>
+
+
 <details><summary><a name="cue_for_quiet_by_thomas_l_sherred"></a>Cue for Quiet. By Thomas L. Sherred. 1953 </summary>
 
 ### Cue for Quiet.  (2:40)  
@@ -1594,7 +1604,36 @@ Reader notes: If you like spy, [action](https://en.wikipedia.org/wiki/Action_fic
 
 </details>
 
- 
+
+<details>
+<summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
+
+### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
+This ebook: https://www.loc.gov/item/17001543/  
+[The full The Dred Scott v. Sandford Decision](https://tile.loc.gov/storage-services/service/ll/usrep/usrep060/usrep060393a/usrep060393a.pdf) *which adds another ~180 pages of opinions by other members of the Supreme Court*  
+[The Dred Scott v. Sandford Decision Wikipedia Summary](https://en.wikipedia.org/wiki/Dred_Scott_v._Sandford).  
+By [Roger Brooke Taney](https://en.wikipedia.org/wiki/Roger_B._Taney) (1777 - 1864)  
+Introduction by Dr. [John H. Van Evrie](https://en.wikipedia.org/wiki/John_H._Van_Evrie), "*defender of slavery*." (1814 - 1896)  
+and  
+Appendix. "Natural History Of The Prognathous Species Of Mankind." By Dr. [Samuel A. Cartwright](https://en.wikipedia.org/wiki/Samuel_A._Cartwright), *inventor of the 'mental illness' of [drapetomania](https://en.wikipedia.org/wiki/Drapetomania), the desire of a slave for freedom*. (1793 - 1863)  
+
+Reader notes:  I read this in early 2024 while thinking about the increasing volume of *race-related* arguments in Far Right and Trumpist/Trumper rhetoric that I see in *print* news and in streaming *news-like* programming.  It is a depressing read -- made more depressing when paired with its "*echos*" in political speech in the U.S. today.  That said, I recommend this exercise to anyone who has only a foggy memory (*or less*) of the kind of language and logic used in mid-19th century America to justify and solidify Black slavery in the U.S. [*Update* late February 2024: Listening to some of the legislative debate about a bill to specify content of public school social studies classes in Iowa, I heard one Iowa legislator argue that the topic of slavery in the U.S. is not important enough to include in the Iowa public school social studies curriculum. Ugg... Some people need much more help than will be found in this 1857 publication.]  
+As a reminder to those who forgot their High School history or government class summary of this case, "[Taney infamously delivered the majority opinion in Dred Scott v. Sandford (1857), ruling that African Americans could not be considered U.S. citizens (*and thus they could not enjoy the rights and privileges the Constitution conferred upon American citizens*) and that Congress could not prohibit slavery in the U.S. territories.](https://en.wikipedia.org/wiki/Roger_B._Taney)."  Chief Justice Taney wrote for the majority that African Americans:  
+>"are not included, and were not intended to be included, under the word “citizens” in the Constitution, and can therefore claim none of the rights and privileges which that instrument provides for and secures to citizens of the United States. On the contrary, they were at that time considered as a subordinate and inferior class of beings, who had been subjugated by the dominant race, and, whether emancipated 18 or not, yet remained subject to their authority, and had no rights or privileges but such as those who held the power and the government might choose to grant them." ([page 30](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=30))  
+
+and that:  
+>"a perpetual and impassable barrier was intended to be erected between the white race and the one which they had reduced to slavery, and governed as subjects with absolute and despotic power... ([page 36](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=36))  
+
+and finally, that:  
+>"it is the opinion of the court that the act of Congress which prohibited a citizen from holding and owning property of this kind in the territory of the United States north of the line therein mentioned, is not warranted by the Constitution, and is therefore void. ([page 87](https://tile.loc.gov/storage-services/service/ll/llst/022/022.pdf?#page=87))  
+The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/item/17001543/) wrap *some* late-1850s social context to the Supreme Court opinion.  Unfortunately, some of the "*race science*" and "state's rights" themes in those two essays seem to be appearing again in Far Right and Trumpist/Trumper *[dog whistle](https://en.wikipedia.org/wiki/Dog_whistle_(politics))* talking points.  
+
+[Here](https://billofrightsinstitute.org/lessons/roger-taney-and-injustice) is what may be a useful resource for thinking about "The Dred Scott decision."  It was assembled by the [Bill of Rights Institute](https://billofrightsinstitute.org/) as a teaching resource.  
+
+
+</details>
+
+
 <details><summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
 
 ### The Dutch House -- A Novel. (10:00)  
@@ -1743,6 +1782,23 @@ Publisher's Description:
 Review by [Alan Singer](https://alansinger.net/about/): [https://teachingsocialstudies.org/.../book-review-erasing-history...](https://teachingsocialstudies.org/2025/05/27/book-review-erasing-history-how-fascists-rewrite-the-past-to-control-the-future-by-jason-stanley/)
 Review by [Lorraine Berry]():  [https://www.latimes.com/...erasing-history-jason-stanley-book-review](https://www.latimes.com/opinion/story/2024-09-13/on-freedom-timothy-snyder-erasing-history-jason-stanley-book-review)  
 Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_history](https://www.democracynow.org/2024/9/17/erasing_history)  
+
+</details>
+
+
+<details>
+<summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
+
+### Essex Dogs Trilogy #1 -- Essex Dogs. (13:00)  
+Audio: https://www.overdrive.com/media/9383040/essex-dogs  
+eBook: https://www.overdrive.com/media/8998137/essex-dogs  
+By [Dan Jones](https://en.wikipedia.org/wiki/Dan_Jones_(writer))  (1981 – )  
+
+Reading Notes: This story follows a fictional team of English contract fighters through a small slice of the [Hundred Years’ War](https://en.wikipedia.org/wiki/Hundred_Years%27_War) (1337-1453), "a conflict between the kingdoms of [England](https://en.wikipedia.org/wiki/Kingdom_of_England) and [France](https://en.wikipedia.org/wiki/Kingdom_of_France) and a civil war in France during the [Late Middle Ages](https://en.wikipedia.org/wiki/Late_Middle_Ages)."  The "Essex Dogs," 10 men under contract to [Sir Richard le Straunge for 40 days -- Sir Richard serving England’s [King Edward III](https://en.wikipedia.org/wiki/Edward_III_of_England)  (1312-77). Dan Jones takes readers on the journey from first landing on Normandy beaches in early July 1346 through the [Battle of Crécy](https://en.wikipedia.org/wiki/Battle_of_Cr%C3%A9cy) [*or see [this summary](https://warhistory.org/@msw/article/battle-of-crecy-august-26-1346)*], 26 August 1346 where the English shattered a larger French force under [King Philip VI](https://en.wikipedia.org/wiki/Philip_VI_of_France).  
+
+The audio book has excellent narration by [Ben Miles](https://en.wikipedia.org/wiki/Ben_Miles).  
+
+Review by [Ian McGuire](https://en.wikipedia.org/wiki/Ian_McGuire): [https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html](https://www.nytimes.com/2023/02/03/books/review/essex-dogs-dan-jones.html?unlocked_article_code=1.aU8.cn7h.GOQ6PNh15JVu&smid=url-share)  
 
 </details>
 
