@@ -412,12 +412,26 @@ Reviews on Bookmarks: https://bookmarks.reviews/reviews/ancestral-night/
 </details>
 
 
+<details><summary><a name="anchorite_by_randall_garrett"></a>Anchorite. By Randall Garrett.  1962 </summary>
+
+### Anchorite.  1962  
+eBook: https://www.gutenberg.org/ebooks/23561  
+Audio: https://librivox.org/anchorite-by-randall-garrett/  
+By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)  
+
+Reading Notes:  This story (*and the Librivox summary below*) while entertaining and a worthwhile read, seems loosely like a science fiction expression of [Ayn Rand'ian romantic realism](https://en.wikipedia.org/wiki/Ayn_Rand#Literary_approach_and_influences) -- with the central characters as heroic individualists or ignorant villains who emphasize duty to your team and collectivist moral ideals.  
+[Librivox Summary](https://librivox.org/anchorite-by-randall-garrett/):  
+>Randall Garrett sticks a sharp needle into our government and society in this wonderful story. He projects the current trends towards paternalistic government into the future. Yes, we have attained a world government and everyone is equal whether they want to be or not; everyone is taken care of no matter how incompetent, stupid or sleazy they are and everyone is out to undermine everyone else. The author predicts (sadly only too well) what the trends of today will eventually produce if allowed to continue. But wait! there is hope in the asteroid belt where jerks and incompetents are weeded out by hard physical laws and only those who possess common sense and the ability to actually survive are allowed to govern. But will the Earth government allow this to continue? Of course not. Listen to this great story to have a peek into the future.  
+
+</details>
+
+
 <details><summary><a name="the_andromeda_evolution_daniel_h_wilson"></a>The Andromeda Evolution. By Daniel H. Wilson. 2019 </summary>
 
 ### The Andromeda Evolution. By Daniel H. Wilson. (10:00)  
 Audio: https://www.overdrive.com/media/4608846/the-andromeda-evolution  
 eBook: https://www.overdrive.com/media/4591747/the-andromeda-evolution  
-By and [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 –  )  
+By [Daniel H. Wilson](https://en.wikipedia.org/wiki/Daniel_H._Wilson) (1978 –  )  
 
 Reading Notes: [The Andromeda Evolution](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) is a fast moving, entertaining technothriller.  If you like the genera, this seems like a good match. It is the fourth novel published after [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton)'s death in 2008, and is a sequel to his 1969 novel "[The Andromeda Strain](https://en.wikipedia.org/wiki/The_Andromeda_Strain)."  See the [Wikipedia](https://en.wikipedia.org/wiki/The_Andromeda_Evolution) or [OverDrive](https://www.overdrive.com/media/4608846/the-andromeda-evolution) summary if you need to know more details about the story...  
 
