@@ -1775,8 +1775,22 @@ Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time
 </details>
 
 
-<details>
-<summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
+<details><summary><a name="enemy_contact_by_mike_maden"></a>#6 Jack Ryan Jr. Series -- Enemy Contact.  By Mike Maden.  2019 </summary>
+
+### Enemy Contact. (13:15)  
+Audio: https://www.overdrive.com/media/4362327/enemy-contact  
+eBook: https://www.overdrive.com/media/4362284/enemy-contact  
+By [Mike Maden](https://en.wikipedia.org/wiki/Mike_Maden)  (1960 – )  
+
+Reading Notes: Hendley Associates financial analyst Jack Ryan Jr. is assigned to investigate the *business* activities of a powerful U.S. Senator's family in Poland.  He links up with Polish intelligence officer Liliana Pilecki for the investigation and later watches her drown in the Baltic.  Jack has a personal crisis, but recovers (*involves violence*).  Concurrently, a U.S. traitor sells access to the cloud infrastructure of the entire U.S. intelligence community.  The two plot threads converge via the "Iron Syndicate," leader known as "*the Czech.*"  This is another action-heavy Jack Ryan novel.  If you want to know more, see the [Wikipedia summary](https://en.wikipedia.org/wiki/Enemy_Contact).  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Enemy_Contact  
+
+</details>
+
+
+<details><summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
 
 ### Erasing History -- How Fascists Rewrite the Past to Control the Future. (5:00)  
 Audio: https://www.overdrive.com/media/10753022/erasing-history  
