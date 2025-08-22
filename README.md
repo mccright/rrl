@@ -1862,6 +1862,18 @@ Links to reviews: https://www.jsdewes.com/news
 </details>
 
 
+<details><summary><a name="the_expendables_by_a_e_van_vogt"></a>The Expendables. by A. E. Van Vogt  1963</summary>  
+
+### The Expendables.  
+https://www.gutenberg.org/ebooks/70235  
+By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
+...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
+
+Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  Sending a spaceship to a planet over 100 light-years away involves a lot of guess-work about the nature of their destination.  In this story, some of the original guesses were wrong.  
+
+</details>
+
+
 <details><summary><a name="fair_land_fair_land_by_a_b_guthrie_jr"></a>Fair Land, Fair Land. By A. B. Guthrie, Jr. 1982</summary>
 
 ### Fair Land, Fair Land.  
