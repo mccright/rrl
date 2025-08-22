@@ -1105,6 +1105,21 @@ Another [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Ins
 </details>
 
 
+<details><summary><a name="call_of_the_wild_by_jack_london"></a>The Call of the Wild.  By Jack London.  1903</summary>
+
+### The Call of the Wild  
+eBook: https://www.gutenberg.org/ebooks/215  
+eBook: https://www.overdrive.com/media/260071/the-call-of-the-wild  
+Audio: https://www.overdrive.com/media/65007/the-call-of-the-wild  
+Audio: https://librivox.org/the-call-of-the-wild-version-5-by-jack-london/  
+
+By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916)  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
+
+</details>
+
+
 <details><summary>Captains Courageous. By Rudyard Kipling, 1897</summary>
 
 ### Captains Courageous  (5:57)  
@@ -1775,8 +1790,22 @@ Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time
 </details>
 
 
-<details>
-<summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
+<details><summary><a name="enemy_contact_by_mike_maden"></a>#6 Jack Ryan Jr. Series -- Enemy Contact.  By Mike Maden.  2019 </summary>
+
+### Enemy Contact. (13:15)  
+Audio: https://www.overdrive.com/media/4362327/enemy-contact  
+eBook: https://www.overdrive.com/media/4362284/enemy-contact  
+By [Mike Maden](https://en.wikipedia.org/wiki/Mike_Maden)  (1960 – )  
+
+Reading Notes: Hendley Associates financial analyst Jack Ryan Jr. is assigned to investigate the *business* activities of a powerful U.S. Senator's family in Poland.  He links up with Polish intelligence officer Liliana Pilecki for the investigation and later watches her drown in the Baltic.  Jack has a personal crisis, but recovers (*involves violence*).  Concurrently, a U.S. traitor sells access to the cloud infrastructure of the entire U.S. intelligence community.  The two plot threads converge via the "Iron Syndicate," leader known as "*the Czech.*"  This is another action-heavy Jack Ryan novel.  If you want to know more, see the [Wikipedia summary](https://en.wikipedia.org/wiki/Enemy_Contact).  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Enemy_Contact  
+
+</details>
+
+
+<details><summary><a name="erasing_history_by_jason_stanley"></a>Erasing History -- How Fascists Rewrite the Past to Control the Future. By Jason Stanley. 2024 </summary>
 
 ### Erasing History -- How Fascists Rewrite the Past to Control the Future. (5:00)  
 Audio: https://www.overdrive.com/media/10753022/erasing-history  
@@ -1829,6 +1858,18 @@ Reading Notes: Think the "The Expanse."  The first quarter of this book isn't as
 ...This is also another ready-for-streaming novel.  
 
 Links to reviews: https://www.jsdewes.com/news  
+
+</details>
+
+
+<details><summary><a name="the_expendables_by_a_e_van_vogt"></a>The Expendables. by A. E. Van Vogt  1963</summary>  
+
+### The Expendables.  
+https://www.gutenberg.org/ebooks/70235  
+By [Van Vogt, A. E. (Alfred Elton)](https://en.wikipedia.org/wiki/A._E._van_Vogt), (1912-2000)  
+...especially [https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception](https://en.wikipedia.org/wiki/A._E._van_Vogt#Critical_reception)  
+
+Reading Notes:  This short book begins with "One hundred and nine years after leaving Earth, the spaceship, Hope of Man, went into orbit around Alta III."  Sending a spaceship to a planet over 100 light-years away involves a lot of guess-work about the nature of their destination.  In this story, some of the original guesses were wrong.  
 
 </details>
 
@@ -3822,6 +3863,23 @@ Review by [Jennifer Ludden](): [https://www.npr.org/...poverty-by-america-book-r
 </details>
 
 
+<details>
+<summary><a name="power_and_empire_by_marc_cameron"></a>#17 Jack Ryan Series -- Power and Empire. By Marc Cameron. 2017 </summary>
+
+### Power and Empire. (16:00)  
+Audio: https://www.overdrive.com/media/3241476/power-and-empire  
+eBook: https://www.overdrive.com/media/3242215/power-and-empire  
+By [Marc Cameron](https://en.wikipedia.org/wiki/Marc_Cameron) (1961 -  )  
+
+Reading Notes: A central thread in this story involves violent child sex trafficing and some of the violence that surrounds that activity.  
+https://en.wikipedia.org/wiki/Jack_Ryan_(character)  
+
+[Wikipedia Summary](https://en.wikipedia.org/wiki/Power_and_Empire):  
+>"In the novel, President Ryan and The Campus must prevent a secret cabal heightening the tensions between the United States and China from causing a violent coup in the Chinese government." https://en.wikipedia.org/wiki/Power_and_Empire  
+
+</details>
+
+
 <details><summary><a name="precipice_the_grand_tour_by_ben_bova"></a>The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. By Ben Bova. 2005 </summary>
 
 ### The Precipice -- Asteroid Wars Series, Book 1 · The Grand Tour. (12:30)  
@@ -3972,7 +4030,7 @@ Reading Notes: This is an interesting story outlining one way to *explain* how t
 </details>
 
 
-<details><summary><a name="red_winter_by_marc_cameron"></a>Red Winter - A Jack Ryan Novel. By Marc Cameron.  2022</summary>
+<details><summary><a name="red_winter_by_marc_cameron"></a>#22 Jack Ryan Series -- Red Winter. By Marc Cameron.  2022</summary>
 
 ### Red Winter - A Jack Ryan Novel. (13:00)  
 https://www.overdrive.com/media/8822188/red-winter  
