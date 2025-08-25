@@ -2602,6 +2602,16 @@ Librivox summary:
 </details>
 
 
+<details><summary><a name="invasion_by_murray_leinster"></a>Invasion.  By Murray Leinster.  1933 </summary>
+
+### Invasion  
+eBook: https://www.gutenberg.org/ebooks/29455  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
+
+
+</details>
+
+
 <details><summary>The Invisible Life of Addie LaRue. By V. E. Schwab. 2020 </summary>
 
 ### The Invisible Life of Addie LaRue. By V. E. Schwab. (17:10)  
@@ -2770,6 +2780,23 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="the_lake_by_ray_bradbury"></a>The Lake.  By Ray Bradbury.  1944</summary>
+
+### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
+. . . and the Lake keeps people as they were, forever and ever  
+eBook: https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
+By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
+
+Reading Notes:  The opportunity to read this short story is worth any hassle of finding the text on archive.org.  
+
+Summary from Wikipedia:  
+https://en.wikipedia.org/wiki/The_Lake_(short_story)  
+Background from Wikipedia:  
+>Bradbury recounted when he came into his own as a writer, the afternoon he wrote a short story about his first encounter with death. When he was a boy, he met a young girl at a lake edge and she went out into the water and never came back. Years later (*at 22 years old*), as he wrote about it, tears flowed from him. He recognized he had taken the leap from emulating the many writers he admired to connecting with his voice as a writer.  When later asked about the lyrical power of his prose, he replied: "From reading so much poetry every day of my life. My favorite writers have been those who've said things well." He said: "If you're reluctant to weep, you won't live a full and complete life." [https://en.wikipedia.org/wiki/Ray_Bradbury#Writing](https://en.wikipedia.org/wiki/Ray_Bradbury#Writing)  
+
+</details>
+
+
 <details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
 
 ### The Last Evolution.  (53:00)  
@@ -2846,6 +2873,27 @@ Overdrive [Summary](https://www.overdrive.com/media/5233415/leave-the-world-behi
 >From the bestselling author of Rich and Pretty comes a suspenseful and provocative novel keenly attuned to the complexities of parenthood, race, and class. Leave the World Behind explores how our closest bonds are reshaped—and unexpected new ones are forged—in moments of crisis.  
 >Amanda and Clay head out to a remote corner of Long Island expecting a vacation: a quiet reprieve from life in New York City, quality time with their teenage son and daughter, and a taste of the good life in the luxurious home they've rented for the week. But a late-night knock on the door breaks the spell. Ruth and G. H. are an older couple—it's their house, and they've arrived in a panic. They bring the news that a sudden blackout has swept the city. But in this rural area—with the TV and internet now down, and no cell phone service—it's hard to know what to believe.  
 >Should Amanda and Clay trust this couple—and vice versa? What happened back in New York? Is the vacation home, isolated from civilization, a truly safe place for their families? And are they safe from one other?  
+
+</details>
+
+
+<details>
+<summary><a name="legacy_of_ashes_by_tim_weiner"></a>Legacy of Ashes. -- The History of the CIA. By Tim Weiner.  2007 </summary>
+
+### Legacy of Ashes. -- The History of the CIA.  (21:22)  
+Audio: https://www.overdrive.com/media/137124/legacy-of-ashes  
+eBook: https://www.overdrive.com/media/148005/legacy-of-ashes  
+By [Tim Weiner](https://en.wikipedia.org/wiki/Tim_Weiner)  (1956 – )  
+
+Reading Notes: The author describes a roughly 60 year run of CIA failure (*with a few, sporatic successes*).  It seems like required reading for everyone in the U.S.  Our leaders regularly tell us that some peoples are evil and worthy of the violence that U.S. forces (public and secret) can inflict upon them.  This book might help build some context for making better informed decisions about voting for those leaders who offer no more than *intelligence* as their justification for war (*or more somply **violence** without the structure of war*).  Read the [Wikipedia summary](https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)) to get some sense of the range of criticisms aimed at this book as well.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Legacy_of_Ashes_(book)  
+
+Review by [Evan Thomas](https://en.wikipedia.org/wiki/Evan_Thomas): [https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html](https://www.nytimes.com/2007/07/22/books/review/Thomas-t.html?unlocked_article_code=1.fE8.D9kh.pXMcMdSB7u1-&smid=url-share)
+
+CIA Statement on “Legacy of Ashes:” [https://web.archive.org...https://www.cia.gov/.../legacy-of-ashes.html](https://web.archive.org/web/20080109055832/https://www.cia.gov/news-information/press-releases-statements/press-release-archive-2007/legacy-of-ashes.html)  
+
+CIA Historian Nicholas Dujmovic on "Legacy of Ashes:" [https://web.archive.org...https://www.cia.gov/...legacy-of-ashes.pdf](https://web.archive.org/web/20210119222226/https://www.cia.gov/static/49561e0c75f85cc633453c8d40888e94/legacy-of-ashes.pdf)
 
 </details>
 
