@@ -3097,6 +3097,20 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)
 </details>
 
 
+<details><summary><a name="lord_of_the_sea_by_m_p_shiel"></a>The Lord of the Sea.  By M. P. Shiel.  1901 (revised 1924)</summary>
+
+### The Lord of the Sea  
+eBook: https://www.gutenberg.org/ebooks/6993  
+By [M. P. Shiel](https://en.wikipedia.org/wiki/M._P._Shiel) (*Matthew Phipps Shiel,* 1865-1947)  
+Reading Notes and 3rd Party Summaries:  
+Reading Notes: This book is characterized by "choppy" story telling -- skipping from one vignette to another, sometimes with minimal connective tissue, and fleshing out some (*few*) scenes while leaving others dryly skeletal. Shiel seems most consistent in his threading of anti-semitism throughout the many literary sketches that make up this book (*this content may be offensive for many, even inappropriate for some*).  
+3rd Party Summaries:  
+"The Lord of the Sea." January 8, 2021 by Philip Jenkins https://www.patheos.com/blogs/anxiousbench/2021/01/the-lord-of-the-sea-2/  
+"The First Alt-Right Novel? -- M. P. Shiel’s Weird Anti-Semitism." 2016(?), By James J. O'Meara. https://counter-currents.com/2016/08/m-p-shiels-weird-anti-semitism/  
+
+</details>
+
+
 <details><summary><a name="lorelei_of_the_red_mist"></a>Lorelei of the Red Mist. By Leigh Douglass Brackett and Ray Bradbury.  1946 </summary>
 
 ### Lorelei of the Red Mist.  (2:51)  
@@ -5237,25 +5251,50 @@ eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell
 By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
 
 Reading Notes: Jane delivered a Public Library copy to me for my birthday.  It was recommended by her brother-in-law.  
-Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman  
+The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
 
-...war is not as glorious as novelists would have us believe.  John Pelham, Confederate Army.  
-He had a gift: an aptitude for turning other yound men into ruined heaps of blood and bone.  
-...he was to perform his wonders in a theater of pain.  
-...the (*Jeb*) Stuart Horse Artillery.  
-Few adhesives bind more powerfully than the satisfaction of well-executed teamwork.  
+Some Quotes:  
+>In the end, war taught no lesson more thoroughly than the pain of solitude.  
 
-...George Washington Whitman. His brother Walt wrote poetry.  
-Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
+>Alcott’s and Whitman’s solution to the pain of war was to live more broadly.  Holmes found it more convenient, and possibly safer, to love less.  
 
-Walt Whitman: "The only sin is limitation."  p. 75
+John Pelham:  
+>...war is not as glorious as novelists would have us believe.  John Pelham, Confederate Army.  
+>He had a gift: an aptitude for turning other yound men into ruined heaps of blood and bone.  
+>...he was to perform his wonders in a theater of pain.  
+>...the (*Jeb*) Stuart Horse Artillery.  
+>Few adhesives bind more powerfully than the satisfaction of well-executed teamwork.  
+>(George Armstrong Custer to John Pelham) "After a long silence, I write.  God bless you, dear Pelham; I am proud of your success. G.A.C."  
+>...Pelham’s confidence needed no bolstering. ... This army is invincible -- whenever you hear of it fighting you may add one more name to our list of victories -- for such will certainly be the result.  
+>(March 18, 1863) Pelham’s world went silent and dark.  
+>Until Kelly’s Ford, no individual in the Confederate Army had seemed more invincible than Pelham.  
+
+George Washington Whitman:  
+>...George Washington Whitman. His brother Walt wrote poetry.  
+>Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
+
+Walt Whitman:  
+>"The only sin is limitation."  p. 75  
+>...when a patient was likely to die, and once the decline was beyond reversal, the attitudes of the doctors and nurses swung decisively... "There is no fuss" Whitman remarked.  "Not a bit of sentimentalism or whining have I seen about a single death-bed in hospital or on the field, but generally impassive indifference." Life and death were the business of war, and an investor had to perpetually cut his losses.  
+>Whitman had come to see the war as a kind of lethal lottery...  
+
+>(of the several hundred men delivered by transport ship) only three were able to walk.  The rest were carried ashore and set down.  They lay still, with horrible looks in their eyes, many of them lacking enough flesh on their lips to cover their teeth.  "Can those be men?" wrote Whitman in dismay, "those little livid-brown, ash-streak'd, monkey-looking dwarfs? -- are they really not mummified, dwindled corpses?  Whitman knew that some crimes could be forgiven.  This, however, he could never excuse.  It perpetrators had steeped themselves "in blackest, escapeless damnation."  
+
+>(Summer 1865) Whitman was entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
 
 Arthur Fuller: 
 
-Louisa May Alcott  
+Louisa May Alcott:  
+>Having confronted reality in its starkest form, alcott had no desire to spare her readers from essential truths: that daily life poses moral challenges; that one's character is proven by how one confronts them; and that the most powerful enemies a typical child must face are not monsters or pirates, but rather the flaws in one's own nature.  
 
-John F. Suhre  
+OWH Jr: 
 
+>(Spring 1863) Wendell (Holmes) now regarded fighting as a repellent task, good only for sending brave, earnest men to the cemetery.  
+>He (Wendel Holmes) joined the army to achieve completeness as a man and victory for the cause. Instead, the war all but shattered him.  
+>Wright embraced the idea that human knowledge is profoundly limited and, even in its limited state, is surrounded by clusters of primitive beliefs that go far beyond our personal knowledge.  Unable to know things directly and perfectly, we instead make choices and predictions based on probability and totemic biases rather than certainty or immutable laws...   ...Wright had taught him to be "a bettabilitarian" I believe that we can bet on the behavior of the universe in its contact with us.  
+>Holmes, whose life had been spared at Antietam by a fraction of an inch, would hardly have argued...  
+>The war had taught him that people live amid largely random forces.  Holmes accepted this state of uncertainty.  
+>Law becomes more rational and more civilized when its rules are overtly and articulately connected to the ends that they serve.  
 
 
 </details>
