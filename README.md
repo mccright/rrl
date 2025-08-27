@@ -5254,6 +5254,8 @@ Reading Notes: Jane delivered a Public Library copy to me for my birthday.  It w
 The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
 
 Some Quotes:  
+>All five of the heroes of this story confronted war and struggled to redeem themselves within it.  Amid the misery and the blood, they tried to find a core of virtue that could balance and justify the evil: Whitman through his sublimated Eros; Alcott through compassion; Pelham thorugh valor; Fuller through a kind of saintly martyrdom; and Holmes through a succession of broken strategies -- through chivalry, through logic, and finally through a mythology of sacrifice of which he knew both the passion and the pity.  
+
 >In the end, war taught no lesson more thoroughly than the pain of solitude.  
 
 >Alcott’s and Whitman’s solution to the pain of war was to live more broadly.  Holmes found it more convenient, and possibly safer, to love less.  
@@ -5268,24 +5270,34 @@ John Pelham:
 >...Pelham’s confidence needed no bolstering. ... This army is invincible -- whenever you hear of it fighting you may add one more name to our list of victories -- for such will certainly be the result.  
 >(March 18, 1863) Pelham’s world went silent and dark.  
 >Until Kelly’s Ford, no individual in the Confederate Army had seemed more invincible than Pelham.  
+>The image of Pelham also supported longer-lasting illusions.  He died when the South still seemed more than capable of winning the war  His passing froze him in time at a moment of hope and promise, both for himself and the Confederacy.  ...By expunging Pelham's faults, Southern historians robbed him of his complexity.... and a hierarchy of races remained intact.  
+
 
 George Washington Whitman:  
 >...George Washington Whitman. His brother Walt wrote poetry.  
 >Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
 
 Walt Whitman:  
->"The only sin is limitation."  p. 75  
+>"The only sin is limitation."  
 >...when a patient was likely to die, and once the decline was beyond reversal, the attitudes of the doctors and nurses swung decisively... "There is no fuss" Whitman remarked.  "Not a bit of sentimentalism or whining have I seen about a single death-bed in hospital or on the field, but generally impassive indifference." Life and death were the business of war, and an investor had to perpetually cut his losses.  
 >Whitman had come to see the war as a kind of lethal lottery...  
 
 >(of the several hundred men delivered by transport ship) only three were able to walk.  The rest were carried ashore and set down.  They lay still, with horrible looks in their eyes, many of them lacking enough flesh on their lips to cover their teeth.  "Can those be men?" wrote Whitman in dismay, "those little livid-brown, ash-streak'd, monkey-looking dwarfs? -- are they really not mummified, dwindled corpses?  Whitman knew that some crimes could be forgiven.  This, however, he could never excuse.  It perpetrators had steeped themselves "in blackest, escapeless damnation."  
 
 >(Summer 1865) Whitman was entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
+>The poet's companion Horace Traubel... once asked the poet whether, in his mind, he ever went back to the hospitals.  Whitman replied, "I do not need to.  I have never left them.  They are here, now, while we are talking together -- real, terrible, beautiful days!"  
 
-Arthur Fuller: 
+Arthur Fuller:  
+>The meteor that was Arthur Fuller's personal fame quickly lost its luster.  
+His DNA --> R.Buckminster Fuller.  
 
 Louisa May Alcott:  
 >Having confronted reality in its starkest form, alcott had no desire to spare her readers from essential truths: that daily life poses moral challenges; that one's character is proven by how one confronts them; and that the most powerful enemies a typical child must face are not monsters or pirates, but rather the flaws in one's own nature.  
+>John Suhre, Wladyslaw Wisniewski "Laddie"  
+>The importance of Alcott's book for girls can hardly be exaggerated.  More than a book for children, *Little Women* is arguably the most important novel about the Civil War written by someone who actually witnessed it...  
+
+Remember to see: "*An Old-Fashioned Girl*" and "*Work*"  
+
 
 OWH Jr: 
 
@@ -5295,6 +5307,9 @@ OWH Jr:
 >Holmes, whose life had been spared at Antietam by a fraction of an inch, would hardly have argued...  
 >The war had taught him that people live amid largely random forces.  Holmes accepted this state of uncertainty.  
 >Law becomes more rational and more civilized when its rules are overtly and articulately connected to the ends that they serve.  
+>1905 *Lochner v. New York* dissent... 14th Amendment ..."is not intended to embody any particular economic theory....It is made for people of fundamentally differing views."  
+>In one of his most memorable moments as a judge, Holmes read his dissenting opinion (Abrams v. U.S.) from the bench.  He observed that persecuting others for their opinions was... ("perfectly logical" from) the viewpoint of a self-assured bully.... The good society was marked "by free trade in ideas... The best test of truth is the power of the thought to get itself accepted in the competition of the market."  
+>...what drove (Holmes) was not a confidence in his vision but, to the contrary, a deep consciousness of frailty and fallibility -- not only his own, but that of human beings in general.... "To have doubted one's own first principles is the mark of a civilized man."  
 
 
 </details>
