@@ -5188,6 +5188,87 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 </details>
 
 
+<details>
+<summary><a name="a_worse_place_than_hell_by_john_matteson"></a>Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
+
+### Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
+Audio: https://www.overdrive.com/media/6213018/a-worse-place-than-hell  
+eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell  
+By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
+
+<details><summary>Reading Notes:</summary>
+
+Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
+The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
+
+Some Quotes:  
+>This book is part of the much larger story of a country that, diseased by slavery and sectional anger, broke apart and was then reﬁgured and reborn. However, it is more concerned with the personal than the political. It tells the stories of ﬁve Americans and the paths they followed during the latter months of 1862. This book follows each of the five from the Battle of Antietam in September of that year until -- and in most cases well beyond -- President Lincoln’s signing of the Emancipation Proclamation on January 1, 1863. It speaks of the different ways in which each of them came face to face with the pain and slaughter of war and how each was transformed by the ordeal. The destinies of all ﬁve were brought together by the Battle of Fredericksburg in the second week of December 1862.  
+
+>All five of the heroes of this story confronted war and struggled to redeem themselves within it.  Amid the misery and the blood, they tried to find a core of virtue that could balance and justify the evil: Whitman through his sublimated Eros; Alcott through compassion; Pelham thorugh valor; Fuller through a kind of saintly martyrdom; and Holmes through a succession of broken strategies -- through chivalry, through logic, and finally through a mythology of sacrifice of which he knew both the passion and the pity.  
+
+>In the end, war taught no lesson more thoroughly than the pain of solitude.  
+
+>Alcott’s and Whitman’s solution to the pain of war was to live more broadly.  Holmes found it more convenient, and possibly safer, to love less.  
+
+John Pelham:  
+>...war is not as glorious as novelists would have us believe.  John Pelham, Confederate Army.  
+>He had a gift: an aptitude for turning other yound men into ruined heaps of blood and bone.  
+>...he was to perform his wonders in a theater of pain.  
+>...the (*Jeb*) Stuart Horse Artillery.  
+>Few adhesives bind more powerfully than the satisfaction of well-executed teamwork.  
+>(George Armstrong Custer to John Pelham) "After a long silence, I write.  God bless you, dear Pelham; I am proud of your success. G.A.C."  
+>...Pelham’s confidence needed no bolstering. ... This army is invincible -- whenever you hear of it fighting you may add one more name to our list of victories -- for such will certainly be the result.  
+>(March 18, 1863) Pelham’s world went silent and dark.  
+>Until Kelly’s Ford, no individual in the Confederate Army had seemed more invincible than Pelham.  
+>The image of Pelham also supported longer-lasting illusions.  He died when the South still seemed more than capable of winning the war  His passing froze him in time at a moment of hope and promise, both for himself and the Confederacy.  ...By expunging Pelham's faults, Southern historians robbed him of his complexity.... and a hierarchy of races remained intact.  
+
+
+George Washington Whitman:  
+>...George Washington Whitman. His brother Walt wrote poetry.  
+>Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
+
+Walt Whitman:  
+>"The only sin is limitation."  
+>...when a patient was likely to die, and once the decline was beyond reversal, the attitudes of the doctors and nurses swung decisively... "There is no fuss" Whitman remarked.  "Not a bit of sentimentalism or whining have I seen about a single death-bed in hospital or on the field, but generally impassive indifference." Life and death were the business of war, and an investor had to perpetually cut his losses.  
+>Whitman had come to see the war as a kind of lethal lottery...  
+
+>(of the several hundred men delivered by transport ship) only three were able to walk.  The rest were carried ashore and set down.  They lay still, with horrible looks in their eyes, many of them lacking enough flesh on their lips to cover their teeth.  "Can those be men?" wrote Whitman in dismay, "those little livid-brown, ash-streak'd, monkey-looking dwarfs? -- are they really not mummified, dwindled corpses?  Whitman knew that some crimes could be forgiven.  This, however, he could never excuse.  It perpetrators had steeped themselves "in blackest, escapeless damnation."  
+
+>(Summer 1865) Whitman was entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
+>The poet's companion Horace Traubel... once asked the poet whether, in his mind, he ever went back to the hospitals.  Whitman replied, "I do not need to.  I have never left them.  They are here, now, while we are talking together -- real, terrible, beautiful days!"  
+
+Arthur Fuller:  
+>The meteor that was Arthur Fuller's personal fame quickly lost its luster.  
+His DNA --> R.Buckminster Fuller.  
+
+Louisa May Alcott:  
+>Having confronted reality in its starkest form, alcott had no desire to spare her readers from essential truths: that daily life poses moral challenges; that one's character is proven by how one confronts them; and that the most powerful enemies a typical child must face are not monsters or pirates, but rather the flaws in one's own nature.  
+>John Suhre, Wladyslaw Wisniewski "Laddie"  
+>The importance of Alcott's book for girls can hardly be exaggerated.  More than a book for children, *Little Women* is arguably the most important novel about the Civil War written by someone who actually witnessed it...  
+
+Remember to see: "*An Old-Fashioned Girl*" and "*Work*"  
+
+
+OWH Jr: 
+
+>(Spring 1863) Wendell (Holmes) now regarded fighting as a repellent task, good only for sending brave, earnest men to the cemetery.  
+>He (Wendel Holmes) joined the army to achieve completeness as a man and victory for the cause. Instead, the war all but shattered him.  
+>Wright embraced the idea that human knowledge is profoundly limited and, even in its limited state, is surrounded by clusters of primitive beliefs that go far beyond our personal knowledge.  Unable to know things directly and perfectly, we instead make choices and predictions based on probability and totemic biases rather than certainty or immutable laws...   ...Wright had taught him to be "a bettabilitarian" I believe that we can bet on the behavior of the universe in its contact with us.  
+>Holmes, whose life had been spared at Antietam by a fraction of an inch, would hardly have argued...  
+>The war had taught him that people live amid largely random forces.  Holmes accepted this state of uncertainty.  
+>Law becomes more rational and more civilized when its rules are overtly and articulately connected to the ends that they serve.  
+>1905 *Lochner v. New York* dissent... 14th Amendment ..."is not intended to embody any particular economic theory....It is made for people of fundamentally differing views."  
+>In one of his most memorable moments as a judge, Holmes read his dissenting opinion (Abrams v. U.S.) from the bench.  He observed that persecuting others for their opinions was... ("perfectly logical" from) the viewpoint of a self-assured bully.... The good society was marked "by free trade in ideas... The best test of truth is the power of the thought to get itself accepted in the competition of the market."  
+>...what drove (Holmes) was not a confidence in his vision but, to the contrary, a deep consciousness of frailty and fallibility -- not only his own, but that of human beings in general.... "To have doubted one's own first principles is the mark of a civilized man."  
+</details>
+
+Review by [Mariola Świerkot]() (*University of Silesia, in Katowice, Poland*): [https://www.researchgate.net/...A_Worse_Place_Than_Hell...](https://www.researchgate.net/publication/348377634_A_Worse_Place_Than_Hell_How_the_Civil_War_Battle_of_Fredericksburg_Changed_a_Nation_by_John_Matteson_A_Pre-Publication_Book_Review)  
+Review by [Rick Beard](*non-public retired historian?*): [https://www.historynet.com/a-worse-place-than-hell.../](https://www.historynet.com/a-worse-place-than-hell-a-review-of-the-union-debacle-at-fredericksburg/)  
+KirKus Reviews: [https://www.kirkusreviews.com/.../a-worse-place-than-hell/](https://www.kirkusreviews.com/book-reviews/john-matteson/a-worse-place-than-hell/)  
+
+</details>
+
+
 <details><summary><a name="wright_brothers_david_mccullough"></a>The Wright Brothers. By David McCullough. 2015</summary>
 
 ### The Wright Brothers.  
@@ -5238,66 +5319,6 @@ Reading Notes:
 
 </details>
 
-
-
-
-
-<details>
-<summary><a name="a_worse_place_than_hell_by_john_matteson"></a>A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
-
-### A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
-Audio: https://www.overdrive.com/media/6213018/a-worse-place-than-hell  
-eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell  
-By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
-
-Reading Notes: Jane delivered a Public Library copy to me for my birthday.  It was recommended by her brother-in-law.  
-The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
-
-Some Quotes:  
->In the end, war taught no lesson more thoroughly than the pain of solitude.  
-
->Alcott’s and Whitman’s solution to the pain of war was to live more broadly.  Holmes found it more convenient, and possibly safer, to love less.  
-
-John Pelham:  
->...war is not as glorious as novelists would have us believe.  John Pelham, Confederate Army.  
->He had a gift: an aptitude for turning other yound men into ruined heaps of blood and bone.  
->...he was to perform his wonders in a theater of pain.  
->...the (*Jeb*) Stuart Horse Artillery.  
->Few adhesives bind more powerfully than the satisfaction of well-executed teamwork.  
->(George Armstrong Custer to John Pelham) "After a long silence, I write.  God bless you, dear Pelham; I am proud of your success. G.A.C."  
->...Pelham’s confidence needed no bolstering. ... This army is invincible -- whenever you hear of it fighting you may add one more name to our list of victories -- for such will certainly be the result.  
->(March 18, 1863) Pelham’s world went silent and dark.  
->Until Kelly’s Ford, no individual in the Confederate Army had seemed more invincible than Pelham.  
-
-George Washington Whitman:  
->...George Washington Whitman. His brother Walt wrote poetry.  
->Oddly, George was finding warfare more comfortable than his brother Walt, back in Brooklyn, was finding the peace.  
-
-Walt Whitman:  
->"The only sin is limitation."  p. 75  
->...when a patient was likely to die, and once the decline was beyond reversal, the attitudes of the doctors and nurses swung decisively... "There is no fuss" Whitman remarked.  "Not a bit of sentimentalism or whining have I seen about a single death-bed in hospital or on the field, but generally impassive indifference." Life and death were the business of war, and an investor had to perpetually cut his losses.  
->Whitman had come to see the war as a kind of lethal lottery...  
-
->(of the several hundred men delivered by transport ship) only three were able to walk.  The rest were carried ashore and set down.  They lay still, with horrible looks in their eyes, many of them lacking enough flesh on their lips to cover their teeth.  "Can those be men?" wrote Whitman in dismay, "those little livid-brown, ash-streak'd, monkey-looking dwarfs? -- are they really not mummified, dwindled corpses?  Whitman knew that some crimes could be forgiven.  This, however, he could never excuse.  It perpetrators had steeped themselves "in blackest, escapeless damnation."  
-
->(Summer 1865) Whitman was entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
-
-Arthur Fuller: 
-
-Louisa May Alcott:  
->Having confronted reality in its starkest form, alcott had no desire to spare her readers from essential truths: that daily life poses moral challenges; that one's character is proven by how one confronts them; and that the most powerful enemies a typical child must face are not monsters or pirates, but rather the flaws in one's own nature.  
-
-OWH Jr: 
-
->(Spring 1863) Wendell (Holmes) now regarded fighting as a repellent task, good only for sending brave, earnest men to the cemetery.  
->He (Wendel Holmes) joined the army to achieve completeness as a man and victory for the cause. Instead, the war all but shattered him.  
->Wright embraced the idea that human knowledge is profoundly limited and, even in its limited state, is surrounded by clusters of primitive beliefs that go far beyond our personal knowledge.  Unable to know things directly and perfectly, we instead make choices and predictions based on probability and totemic biases rather than certainty or immutable laws...   ...Wright had taught him to be "a bettabilitarian" I believe that we can bet on the behavior of the universe in its contact with us.  
->Holmes, whose life had been spared at Antietam by a fraction of an inch, would hardly have argued...  
->The war had taught him that people live amid largely random forces.  Holmes accepted this state of uncertainty.  
->Law becomes more rational and more civilized when its rules are overtly and articulately connected to the ends that they serve.  
-
-
-</details>
 
 
 
