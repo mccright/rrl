@@ -5188,72 +5188,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 </details>
 
 
-<details><summary><a name="wright_brothers_david_mccullough"></a>The Wright Brothers. By David McCullough. 2015</summary>
-
-### The Wright Brothers.  
-Audio: https://www.overdrive.com/media/1815407/the-wright-brothers  
-Ebook: https://www.overdrive.com/media/2145785/the-wright-brothers  
-By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (July 7, 1933 – August 7, 2022)  
-[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=178265)  
-
-Readers Notes:  Author David McCullough describes the unique, courageous brothers, Wilbur and Orville Wright, who did the science, engineering, and construction leading to the first powered, heavier-than-air machine to achieve controlled, sustained flight with a pilot aboard on December 17, 1903 at Kitty Hawk, North Carolina.  McCullough carries the story through the brother's *perfection* of their machine and its marketing to a sometimes flight-crazed world, their efforts to protect their patents -- all the while providing context by weaving in the brother's family life.  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)  
-
-</details>
-
-
-<details><summary><a name="a_wrinkle_in_time"></a>A Wrinkle In Time. By Madeleine L'Engle 2012 (1962)</summary>
-
-### A Wrinkle In Time. (6:00)  
-Audio: https://www.overdrive.com/media/567026/a-wrinkle-in-time  
-Ebook: https://www.overdrive.com/media/703174/a-wrinkle-in-time  
-By [Madeleine L'Engle](https://en.wikipedia.org/wiki/Madeleine_L%27Engle) (1918 -- 2007)  
-
-Reader Notes: This is a [young adult](https://en.wikipedia.org/wiki/Young_adult_fiction) [science fantasy](https://en.wikipedia.org/wiki/Science_fantasy) novel written in the *late 1950s*.  Four kids - Meg Murry, Charles Wallace Murry, and Calvin O'Keefe jump space and time on a galacies-long quest to find and rescue the Murrys' father.  The story explores *growing up*, *being yourself*, courage, physics, spiritual life, evil and good in a way that I think works for adults as well as the 12 to 18 crowd.  
-
-Review by Mari Ness: https://www.tor.com/2011/12/15/there-is-such-a-thing-as-a-tesseract-a-wrinkle-in-time/  
-Wikipedia Summary: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Plot_summary  
-Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Reception  
-
-</details>
-
-
-
------
-
-
-## Pending or Currently Underway:  
-
 <details>
-<summary><a name=""></a>Empty_Template </summary>
+<summary><a name="a_worse_place_than_hell_by_john_matteson"></a>Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
 
-### Empty_Template  
-Audio:   
-eBook:   
-By []()  ( – )  
-
-Reading Notes:   
-
-
-</details>
-
-
-
-
-
-<details>
-<summary><a name="a_worse_place_than_hell_by_john_matteson"></a>A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
-
-### A Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
+### Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation.  
 Audio: https://www.overdrive.com/media/6213018/a-worse-place-than-hell  
 eBook: https://www.overdrive.com/media/5570924/a-worse-place-than-hell  
 By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )  
 
-Reading Notes: Jane delivered a Public Library copy to me for my birthday.  It was recommended by her brother-in-law.  
+<details><summary>Reading Notes:</summary>
+
+Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
 The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
 
 Some Quotes:  
+>This book is part of the much larger story of a country that, diseased by slavery and sectional anger, broke apart and was then reﬁgured and reborn. However, it is more concerned with the personal than the political. It tells the stories of ﬁve Americans and the paths they followed during the latter months of 1862. This book follows each of the five from the Battle of Antietam in September of that year until -- and in most cases well beyond -- President Lincoln’s signing of the Emancipation Proclamation on January 1, 1863. It speaks of the different ways in which each of them came face to face with the pain and slaughter of war and how each was transformed by the ordeal. The destinies of all ﬁve were brought together by the Battle of Fredericksburg in the second week of December 1862.  
+
 >All five of the heroes of this story confronted war and struggled to redeem themselves within it.  Amid the misery and the blood, they tried to find a core of virtue that could balance and justify the evil: Whitman through his sublimated Eros; Alcott through compassion; Pelham thorugh valor; Fuller through a kind of saintly martyrdom; and Holmes through a succession of broken strategies -- through chivalry, through logic, and finally through a mythology of sacrifice of which he knew both the passion and the pity.  
 
 >In the end, war taught no lesson more thoroughly than the pain of solitude.  
@@ -5310,9 +5260,65 @@ OWH Jr:
 >1905 *Lochner v. New York* dissent... 14th Amendment ..."is not intended to embody any particular economic theory....It is made for people of fundamentally differing views."  
 >In one of his most memorable moments as a judge, Holmes read his dissenting opinion (Abrams v. U.S.) from the bench.  He observed that persecuting others for their opinions was... ("perfectly logical" from) the viewpoint of a self-assured bully.... The good society was marked "by free trade in ideas... The best test of truth is the power of the thought to get itself accepted in the competition of the market."  
 >...what drove (Holmes) was not a confidence in his vision but, to the contrary, a deep consciousness of frailty and fallibility -- not only his own, but that of human beings in general.... "To have doubted one's own first principles is the mark of a civilized man."  
+</details>
+
+Review by [Mariola Świerkot]() (*University of Silesia, in Katowice, Poland*): [https://www.researchgate.net/...A_Worse_Place_Than_Hell...](https://www.researchgate.net/publication/348377634_A_Worse_Place_Than_Hell_How_the_Civil_War_Battle_of_Fredericksburg_Changed_a_Nation_by_John_Matteson_A_Pre-Publication_Book_Review)  
+Review by [Rick Beard](*non-public retired historian?*): [https://www.historynet.com/a-worse-place-than-hell.../](https://www.historynet.com/a-worse-place-than-hell-a-review-of-the-union-debacle-at-fredericksburg/)  
+KirKus Reviews: [https://www.kirkusreviews.com/.../a-worse-place-than-hell/](https://www.kirkusreviews.com/book-reviews/john-matteson/a-worse-place-than-hell/)  
+
+</details>
+
+
+<details><summary><a name="wright_brothers_david_mccullough"></a>The Wright Brothers. By David McCullough. 2015</summary>
+
+### The Wright Brothers.  
+Audio: https://www.overdrive.com/media/1815407/the-wright-brothers  
+Ebook: https://www.overdrive.com/media/2145785/the-wright-brothers  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (July 7, 1933 – August 7, 2022)  
+[https://catalog.urbandalelibrary.org/...](https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=1&cn=178265)  
+
+Readers Notes:  Author David McCullough describes the unique, courageous brothers, Wilbur and Orville Wright, who did the science, engineering, and construction leading to the first powered, heavier-than-air machine to achieve controlled, sustained flight with a pilot aboard on December 17, 1903 at Kitty Hawk, North Carolina.  McCullough carries the story through the brother's *perfection* of their machine and its marketing to a sometimes flight-crazed world, their efforts to protect their patents -- all the while providing context by weaving in the brother's family life.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wright_Brothers_(book)  
+
+</details>
+
+
+<details><summary><a name="a_wrinkle_in_time"></a>A Wrinkle In Time. By Madeleine L'Engle 2012 (1962)</summary>
+
+### A Wrinkle In Time. (6:00)  
+Audio: https://www.overdrive.com/media/567026/a-wrinkle-in-time  
+Ebook: https://www.overdrive.com/media/703174/a-wrinkle-in-time  
+By [Madeleine L'Engle](https://en.wikipedia.org/wiki/Madeleine_L%27Engle) (1918 -- 2007)  
+
+Reader Notes: This is a [young adult](https://en.wikipedia.org/wiki/Young_adult_fiction) [science fantasy](https://en.wikipedia.org/wiki/Science_fantasy) novel written in the *late 1950s*.  Four kids - Meg Murry, Charles Wallace Murry, and Calvin O'Keefe jump space and time on a galacies-long quest to find and rescue the Murrys' father.  The story explores *growing up*, *being yourself*, courage, physics, spiritual life, evil and good in a way that I think works for adults as well as the 12 to 18 crowd.  
+
+Review by Mari Ness: https://www.tor.com/2011/12/15/there-is-such-a-thing-as-a-tesseract-a-wrinkle-in-time/  
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Plot_summary  
+Review fragments on Wikipedia: https://en.wikipedia.org/wiki/A_Wrinkle_in_Time#Reception  
+
+</details>
+
+
+
+-----
+
+
+## Pending or Currently Underway:  
+
+<details>
+<summary><a name=""></a>Empty_Template </summary>
+
+### Empty_Template  
+Audio:   
+eBook:   
+By []()  ( – )  
+
+Reading Notes:   
 
 
 </details>
+
 
 
 
