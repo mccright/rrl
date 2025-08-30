@@ -5198,7 +5198,7 @@ By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )
 
 <details><summary>Reading Notes:</summary>
 
-Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
+Jane delivered a Public Library copy to me for my birthday, and it was recommended by her brother-in-law.  
 The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
 
 Some Quotes:  
@@ -5234,7 +5234,9 @@ Walt Whitman:
 
 >(of the several hundred men delivered by transport ship) only three were able to walk.  The rest were carried ashore and set down.  They lay still, with horrible looks in their eyes, many of them lacking enough flesh on their lips to cover their teeth.  "Can those be men?" wrote Whitman in dismay, "those little livid-brown, ash-streak'd, monkey-looking dwarfs? -- are they really not mummified, dwindled corpses?  Whitman knew that some crimes could be forgiven.  This, however, he could never excuse.  It perpetrators had steeped themselves "in blackest, escapeless damnation."  
 
->(Summer 1865) Whitman was entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
+In the first half of 1865 Whitman worked at the Department of Interior as a clerk in the Bureau of Indian Affairs.  James Harlan -- a powerful Methodist layman, president of what would come to be Iowa Wesleyan College, and United States senator -- became Secretary of the Interior and "[ordered the firing of all nonessential employees and all employees whose Christian morality was in doubt. Whitman was one of the clerks fired](http://pubs.lib.uiowa.edu/bai/article/28998/galley/137478/download/). It is often reported that the Secretary "[fired Whitman upon discovering he was the author of Leaves of Grass, a book Harlan knew by reputation as immoral and pornographic](https://whitmanarchive.org/item/encyclopedia_entry18)."  
+>(Starting summer 1865) Whitman was hired by the Attorney General's Office and entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
+
 >The poet's companion Horace Traubel... once asked the poet whether, in his mind, he ever went back to the hospitals.  Whitman replied, "I do not need to.  I have never left them.  They are here, now, while we are talking together -- real, terrible, beautiful days!"  
 
 Arthur Fuller:  
