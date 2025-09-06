@@ -608,7 +608,7 @@ Audio: https://www.overdrive.com/media/61448/master-and-commander
 eBook: https://www.overdrive.com/media/676907/master-and-commander  
 By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
 
-Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series. (*I read this series in the 1990s. This is the start of my re-reading.*)  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
 
 Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
 Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
@@ -640,7 +640,7 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
 </details>
 
 
-<details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
+<details><summary><a name="Audubons_Western_Journal_By_John_Woodhouse_Audubon"></a>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
 https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
@@ -771,7 +771,7 @@ https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-k
 </details>
 
 
-<details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
+<details><summary><a name="Behind_a_Mask_By_Louisa_May_Alcott"></a>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
 https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
@@ -950,7 +950,7 @@ Audio: https://www.overdrive.com/media/6256542/the-bomber-mafia
 eBook: https://www.overdrive.com/media/6170312/the-bomber-mafia  
 By [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell)  (1963 – )  
 
-Reading Notes: This is an excellent AUDIO book by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) and  [Pushkin Industries](https://en.wikipedia.org/wiki/Pushkin_Industries).  Gladwell created it as an audio experience first, only then building a written book. It incorporates lots of recorded, first person voices of major characters in his story about the invention of modern high-altitude precision bombing, sound effects and music.  He explores the birth of this idea in the 1930s as a response to the immoral slaughter of millions in WWI.  Technology and culture got in the way of its implementation in WWII, but it has become a "normal" part of war-fighting more recently.  The author argues that its existance forces a range of moral and ethical questions onto decision-makers.  
+Reading Notes: This is an excellent AUDIO book by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) and [Pushkin Industries](https://en.wikipedia.org/wiki/Pushkin_Industries).  Gladwell created it as an audio experience first, only then building a written book. It incorporates lots of recorded, first person voices of major characters in his story about the invention of modern high-altitude precision bombing, sound effects and music.  He explores the birth of this idea in the 1930s as a response to the immoral slaughter of millions in WWI.  Technology and culture got in the way of its implementation in WWII, but it has become a "normal" part of war-fighting more recently.  The author argues that its existance forces a range of moral and ethical questions onto decision-makers.  
 
 Wikipedia summary: [https://en.wikipedia.org/wiki/The_Bomber_Mafia](https://en.wikipedia.org/wiki/The_Bomber_Mafia)  
 
@@ -1148,7 +1148,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
+<details><summary><a name="carol_by_patricia_highsmith"></a>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
 
 ### Carol. (*first published as "The Price of Salt, or Carol" in 1952*) (11:00)  
 Audio: https://www.overdrive.com/media/2310419/carol  
@@ -1663,7 +1663,7 @@ The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/it
 </details>
 
 
-<details><summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
+<details><summary><a name="the_dutch_house_by_ann_patchett"></a>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
 
 ### The Dutch House -- A Novel. (10:00)  
 Audio: https://www.overdrive.com/media/4624493/the-dutch-house  
@@ -1748,7 +1748,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
+<details><summary><a name="Emily_Eternal_By_M_G_Wheaton"></a>Emily Eternal. By M. G. Wheaton. 2019 </summary>
 
 ### Emily Eternal.  (9:00)  
 Audio: https://www.overdrive.com/media/4547905/emily-eternal  
@@ -2104,6 +2104,7 @@ Review By [Ilana Masad](https://www.ilanamasad.com/bio): [https://www.latimes.co
 
 
 <details><summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+
 ### A Gentleman in Moscow.  (18:00)  
 Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
 eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
@@ -2235,7 +2236,7 @@ See: https://en.wikipedia.org/wiki/The_Midnight_Sky and a review at: https://www
 </details>
 
 
-<details><summary>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
+<details><summary><a name="good_night_irene_by_luis_alberto_urrea"></a>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
 
 ### Good Night, Irene - A Novel. (13:00)  
 Audio: https://www.overdrive.com/media/9311220/good-night-irene  
@@ -2289,7 +2290,7 @@ For context, see "[Battle of Erzurum](https://en.wikipedia.org/wiki/Erzurum_offe
 </details>
 
 
-<details><summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
+<details><summary><a name="hamnet_by_maggie_ofarrell"></a>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
 https://www.overdrive.com/media/5067417/hamnet  
@@ -2304,7 +2305,7 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 </details>
 
 
-<details><summary>Harrow -- A novel. By Joy Williams. 2021 </summary>
+<details><summary><a name=""></a>Harrow -- A novel. By Joy Williams. 2021 </summary>
 
 ### Harrow -- A novel. (7:00)  
 Audio: https://www.overdrive.com/media/5978287/harrow  
@@ -2318,7 +2319,7 @@ Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)
 </details>
 
 
-<details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
+<details><summary><a name=""></a>The Harvester. By Gene Stratton-Porter, 1911</summary>
 
 ### The Harvester (16:48)  
 https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
@@ -2333,7 +2334,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
+<details><summary><a name=""></a>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
 
 ### The Heart of the Ancient Wood  (4:54)  
 https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
@@ -2346,7 +2347,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
+<details><summary><a name=""></a>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
 ### The Hemingses of Monticello -- An American Family.  (31:00)  
 Audio: https://www.overdrive.com/media/201740/the-hemingses-of-monticello  
@@ -2368,7 +2369,7 @@ A list of reviews at: https://bookmarks.reviews/reviews/all/the-hemingses-of-mon
 </details>
 
 
-<details><summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
+<details><summary><a name=""></a>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
 
 ### Henry, Himself. -- A Novel. (12:00)  
 Audio: https://www.overdrive.com/media/4197479/henry-himself  
@@ -2401,7 +2402,7 @@ Wikipedia Summary: [Death on the Nile](https://en.wikipedia.org/wiki/Death_on_th
 </details>
 
 
-<details><summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
+<details><summary><a name=""></a>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
 
 ### Here, Right Matters -- An American Story. (7:00)  
 Audio: https://www.overdrive.com/media/6158937/here-right-matters  
@@ -2413,7 +2414,7 @@ Reading Notes: This is largely an autobiography of Alexander S. Vindman wrapped 
 </details>
 
 
-<details><summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
+<details><summary><a name=""></a>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
 Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
@@ -2444,7 +2445,7 @@ Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/ab
 </details>
 
 
-<details><summary>Horse. By Geraldine Brooks. 2022</summary>
+<details><summary><a name=""></a>Horse. By Geraldine Brooks. 2022</summary>
 
 ### Horse. (14:06)  
 Audio: https://www.overdrive.com/media/6955174/horse  
@@ -2466,7 +2467,7 @@ Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/ge
 </details>
 
 
-<details><summary>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
+<details><summary><a name=""></a>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
 
 ### How High We Go In The Dark  
 Audio: https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark  
@@ -3579,6 +3580,23 @@ See the Wikipedia summary.  It was worth its runtime to me.
 Librivox Summary:  
 >A thriller about a down-and-out sailor finding his way in London. The book followed a successful play that was filmed by Alfred Hitchcock, and even made into a silent film. Its humour is irresistible. - [Summary by Czandra](https://librivox.org/no-17-by-joseph-jefferson-farjeon/)  
 Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)  
+
+</details>
+
+
+<details>
+<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
+Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
+eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
+By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (~1962 – )  
+
+Reading Notes: This is a *light* review of Franklin D. Roosevelt's early presidency by focusing on some of his most trusted advisors:  
+* Director of the Bureau of the Budget [Lewis Douglas](https://en.wikipedia.org/wiki/Lewis_Williams_Douglas)  
+* Secretary of labor, [Frances Perkins](https://en.wikipedia.org/wiki/Frances_Perkins)  
+* Secretary of agriculture [Henry A. Wallace](https://en.wikipedia.org/wiki/Henry_A._Wallace)  
+* [Harry Hopkins](https://en.wikipedia.org/wiki/Harry_Hopkins) directed [New Deal](https://en.wikipedia.org/wiki/New_Deal) relief programs.  
+The author wraps that in content about *before* and *after* Roosevelt's first 100 days and brief *biographies* of each advisor.  
 
 </details>
 
