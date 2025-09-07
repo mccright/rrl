@@ -2496,7 +2496,7 @@ DUELING REVIEW by "Jennie:" [https://dearauthor.com/...review-how-high-we-go-in-
 </details>
 
 
-<details><summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
+<details><summary><a name=""></a>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
@@ -2553,7 +2553,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Inheritance of Loss. By Kiran Desai. 2007 </summary>
+<details><summary><a name="inheritance_of_loss_by_kiran_desai"></a>The Inheritance of Loss. By Kiran Desai. 2007 </summary>
 
 ### The Inheritance of Loss. (12:00)  
 Audio: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
@@ -2587,7 +2587,7 @@ Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us
 </details>
 
 
-<details><summary>Inspector French and the Cheyne Mystery. 1926 </summary>
+<details><summary><a name=""></a>Inspector French and the Cheyne Mystery. 1926 </summary>
 
 ### Inspector French and the Cheyne Mystery. (8:53:55)  
 Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
@@ -2684,7 +2684,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+<details><summary><a name=""></a>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
 
 ### The Keeper of Hidden Books. (11:00)  
 Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
@@ -2798,7 +2798,7 @@ Background from Wikipedia:
 </details>
 
 
-<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
+<details><summary><a name=""></a>The Last Evolution.  By John Wood Campbell, Jr.  1932 </summary>
 
 ### The Last Evolution.  (53:00)  
 https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
@@ -2827,7 +2827,7 @@ https://www.jsdewes.com/about
 </details>
 
 
-<details><summary>The Later Middle Ages: A History of Western Europe 1254-1494. By Robert Balmain Mowat. 1917 </summary>
+<details><summary><a name=""></a>The Later Middle Ages: A History of Western Europe 1254-1494. By Robert Balmain Mowat. 1917 </summary>
 
 ### The Later Middle Ages: A History of Western Europe 1254-1494. (11:42)  
 Audio: https://librivox.org/the-later-middle-ages-a-history-of-western-europe-1254-1494-by-robert-balmain-mowat/  
@@ -3166,7 +3166,7 @@ Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motio
 eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
 By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
 
-Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified]() “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
+Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/) “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
 
 Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../tom-hanks-novel-making-another...](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/)  
 Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
@@ -3630,7 +3630,7 @@ OverDrive Summary:
 </details>
 
 
-<details><summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
+<details><summary><a name=""></a>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
 
 ### Okewood of the Secret Service. (8:40)  
 Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
@@ -3684,7 +3684,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Cr
 </details>
 
 
-<details><summary>The One. By John Marrs. 2018 </summary>
+<details><summary><a name=""></a>The One. By John Marrs. 2018 </summary>
 
 ### The One. (11:00)  
 Audio: https://www.overdrive.com/media/3702956/the-one  
@@ -3748,7 +3748,7 @@ Librivox Summary:
 </details>  
 
 
-<details><summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
+<details><summary><a name=""></a>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
 
 ### The Original. (3:24)  
 Audio: https://www.overdrive.com/media/5612235/the-original  
@@ -4004,11 +4004,11 @@ Publisher Summary:
 </details>
 
 
-<details><summary>Preferred Risk. By Frederik Pohl, 1955</summary>
+<details><summary><a name="preferred_risk_by_frederik_pohl"></a>Preferred Risk. By Frederik Pohl, 1955</summary>
 
 ### Preferred Risk (06:26)  
-https://librivox.org/preferred-risk-by-frederik-pohl/  
-Text: https://www.gutenberg.org/ebooks/51814  
+Audio: https://librivox.org/preferred-risk-by-frederik-pohl/  
+eBook: https://www.gutenberg.org/ebooks/51814  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
 
 Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  NOTE: There are issues of race/ethnicity in "Preferred Risk", particularly Italian stereotypes and derogatory terms.  
@@ -4053,7 +4053,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
-<details><summary>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
+<details><summary><a name=""></a>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
 
 ### Private Moscow. (9:00)  
 Audio: https://www.overdrive.com/media/9267936/private-moscow  
@@ -4065,7 +4065,7 @@ Reading Notes: Another impossible mission, fast-paced action, Russians, sleeper 
 </details>
 
 
-<details><summary>The Quick. By Lauren Owen. 2014 </summary>
+<details><summary><a name=""></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
 Audio: https://www.overdrive.com/media/1330874/the-quick  
@@ -4266,7 +4266,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Search the Sky. By Frederik Pohl, 1956</summary>
+<details><summary><a name=""></a>Search the Sky. By Frederik Pohl, 1956</summary>
 
 ### Search the Sky (06:47)  
 https://librivox.org/search-the-sky-by-frederik-pohl/  
@@ -4281,7 +4281,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
+<details><summary><a name=""></a>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
 
 ### The Searcher -- A Novel · Cal Hooper. (15:00)  
 Audio: https://www.overdrive.com/media/5376676/the-searcher  
@@ -4326,7 +4326,7 @@ Author's page about the book: https://dianarchambers.com/books/the-secret-war-of
 </details>
 
 
-<details><summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
+<details><summary><a name=""></a>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
 https://librivox.org/sentimental-education-by-gustave-flaubert/  
@@ -4342,7 +4342,7 @@ Librivox Summary:
 </details>  
 
 
-<details><summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
+<details><summary><a name=""></a>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
 https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
@@ -4371,7 +4371,7 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)
 </details>
 
 
-<details><summary>The shipwreck. By William Falconer.  1762 </summary>
+<details><summary><a name=""></a>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/  
@@ -4412,7 +4412,7 @@ Review by [Lee Billings](http://leebillings.com/bio/): [https://www.scientificam
 </details>
 
 
-<details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
+<details><summary><a name=""></a>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
 
 ### The Small Bachelor  (6:36)  
 https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
@@ -4436,6 +4436,7 @@ https://librivox.org/soldiers-pay-by-william-faulkner/
 [https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
 Text: https://archive.org/details/in.ernet.dli.2015.186670/  
 By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
+
 See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
 also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
@@ -5001,7 +5002,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wiki
 </details>
 
 
-<details><summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+<details><summary><a name=""></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
 
 ### Veronica Ruiz Breaks the Bank. (2:27)  
 Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
@@ -5014,7 +5015,7 @@ Reading Notes: This is a light, quick story about a young down-on-her-luck woman
 
 
 
-<details><summary>Victory.  By Lester del Rey.  1955 </summary>
+<details><summary><a name=""></a>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/  
@@ -5030,7 +5031,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>War on Peace. By Ronan Farrow, 2018</summary>
+<details><summary><a name=""></a>War on Peace. By Ronan Farrow, 2018</summary>
 
 ### War on Peace  (10:54)  
 https://www.overdrive.com/media/3963265/war-on-peace  
@@ -5184,7 +5185,7 @@ Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras
 </details>
 
 
-<details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+<details><summary><a name=""></a>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
 Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
