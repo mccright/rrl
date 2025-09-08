@@ -3612,6 +3612,19 @@ By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik]
 </details>
 
 
+<details><summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
+
+### Notre-Dame -- A Short History of the Meaning of Cathedrals. (1:00)  
+Audio: https://www.overdrive.com/media/8346811/notre-dame  
+eBook: https://www.overdrive.com/media/4815891/notre-dame  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: Written in response to the near catastrophic fire that burned much of Notre-Dame de Paris, Follett shares a brief history of the cathedral -- from the rationale for such expensive and time consuming exercises to their construction and its impact on localities as well as across Europe and beyond.  
+
+
+</details>
+
+
 <details><summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
 
 ### An Officer and a Spy -- A novel.  (16:00)  
