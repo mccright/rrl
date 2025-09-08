@@ -608,7 +608,7 @@ Audio: https://www.overdrive.com/media/61448/master-and-commander
 eBook: https://www.overdrive.com/media/676907/master-and-commander  
 By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
 
-Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](ttps://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series. (*I read this series in the 1990s. This is the start of my re-reading.*)  Patrick O'Brian introduces a collection of characters who will play core roles in the rest of the series and does so emphasizing their strengths and weaknesses and the stage of their careers and/or station in life/society (*which will evolve throughout this excellent series*).  "Master and Commander" (*from [Wikipedia](https://en.wikipedia.org/wiki/Master_and_Commander)*) "is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century. It focuses on two characters: the young Jack Aubrey, a [Royal Navy](https://en.wikipedia.org/wiki/Royal_Navy) lieutenant who has just been promoted to the rank of [Master and Commander](https://en.wikipedia.org/wiki/Commander_(Royal_Navy)), effectively a captain, and Stephen Maturin, a destitute physician and naturalist whom Aubrey appoints as his [naval surgeon](https://en.wikipedia.org/wiki/Ship%27s_doctor). They sail in HM [sloop-of-war](https://en.wikipedia.org/wiki/Sloop-of-war) Sophie with [first lieutenant](https://en.wikipedia.org/wiki/First_lieutenant) James Dillon, a wealthy and aristocratic Irishman. The naval action in the Mediterranean is closely based on the real-life exploits of [Lord Cochrane](https://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald), including a battle modelled after Cochrane's spectacular victory in the brig [HMS Speedy](https://en.wikipedia.org/wiki/HMS_Speedy_(1782)) over the vastly superior Spanish frigate [El Gamo](https://en.wikipedia.org/wiki/Spanish_frigate_El_Gamo)."  
 
 Wikipedia Summary of Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander](https://en.wikipedia.org/wiki/Master_and_Commander)  
 Principal characters mentioned in Master and Commander: [https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters](https://en.wikipedia.org/wiki/Master_and_Commander#Principal_characters)  
@@ -640,7 +640,7 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
 </details>
 
 
-<details><summary>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
+<details><summary><a name="Audubons_Western_Journal_By_John_Woodhouse_Audubon"></a>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
 https://librivox.org/audubons-western-journal-1849-1850-by-john-woodhouse-audubon/  
@@ -771,7 +771,7 @@ https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-k
 </details>
 
 
-<details><summary>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
+<details><summary><a name="Behind_a_Mask_By_Louisa_May_Alcott"></a>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
 https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
@@ -950,7 +950,7 @@ Audio: https://www.overdrive.com/media/6256542/the-bomber-mafia
 eBook: https://www.overdrive.com/media/6170312/the-bomber-mafia  
 By [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell)  (1963 – )  
 
-Reading Notes: This is an excellent AUDIO book by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) and  [Pushkin Industries](https://en.wikipedia.org/wiki/Pushkin_Industries).  Gladwell created it as an audio experience first, only then building a written book. It incorporates lots of recorded, first person voices of major characters in his story about the invention of modern high-altitude precision bombing, sound effects and music.  He explores the birth of this idea in the 1930s as a response to the immoral slaughter of millions in WWI.  Technology and culture got in the way of its implementation in WWII, but it has become a "normal" part of war-fighting more recently.  The author argues that its existance forces a range of moral and ethical questions onto decision-makers.  
+Reading Notes: This is an excellent AUDIO book by [Malcolm Gladwell](https://en.wikipedia.org/wiki/Malcolm_Gladwell) and [Pushkin Industries](https://en.wikipedia.org/wiki/Pushkin_Industries).  Gladwell created it as an audio experience first, only then building a written book. It incorporates lots of recorded, first person voices of major characters in his story about the invention of modern high-altitude precision bombing, sound effects and music.  He explores the birth of this idea in the 1930s as a response to the immoral slaughter of millions in WWI.  Technology and culture got in the way of its implementation in WWII, but it has become a "normal" part of war-fighting more recently.  The author argues that its existance forces a range of moral and ethical questions onto decision-makers.  
 
 Wikipedia summary: [https://en.wikipedia.org/wiki/The_Bomber_Mafia](https://en.wikipedia.org/wiki/The_Bomber_Mafia)  
 
@@ -1148,7 +1148,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
+<details><summary><a name="carol_by_patricia_highsmith"></a>Carol. By Patricia Highsmith 2015 (first published in 1952) </summary>
 
 ### Carol. (*first published as "The Price of Salt, or Carol" in 1952*) (11:00)  
 Audio: https://www.overdrive.com/media/2310419/carol  
@@ -1663,7 +1663,7 @@ The "Introduction" and "Appendix" [of this 1860 printing](https://www.loc.gov/it
 </details>
 
 
-<details><summary>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
+<details><summary><a name="the_dutch_house_by_ann_patchett"></a>The Dutch House -- A Novel. By Ann Patchett. 2019 </summary>
 
 ### The Dutch House -- A Novel. (10:00)  
 Audio: https://www.overdrive.com/media/4624493/the-dutch-house  
@@ -1748,7 +1748,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Emily Eternal. By M. G. Wheaton. 2019 </summary>
+<details><summary><a name="Emily_Eternal_By_M_G_Wheaton"></a>Emily Eternal. By M. G. Wheaton. 2019 </summary>
 
 ### Emily Eternal.  (9:00)  
 Audio: https://www.overdrive.com/media/4547905/emily-eternal  
@@ -1812,7 +1812,7 @@ Audio: https://www.overdrive.com/media/10753022/erasing-history
 eBook: https://www.overdrive.com/media/10480453/erasing-history  
 By [Jason Stanley](https://en.wikipedia.org/wiki/Jason_Stanley)  (1969 – )  
 
-Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions.  Key terms: Fascism & Totalitarianism, Political Ideologies. 
+Reading Notes: The author builds a convincing argument that U.S. conservative politicians and their voters have adopted an authoritarian movement -- Project 2025 and the Trump administration.  That movement requires control over the historical narrative -- over history to justify their fascist authoritarian demands and behaviors.  This has led to attacks on schools and universities and all institutions that help to preserve a common memory of generally positive change.  The authoritarian project needs to snuff out all forms of critical inquiry that might demonstrate that honest, truth-seeking underlies all past and future progress.  This toxic movement acts like a cancer in all facets of educational and research institutions, *including health research and education institutions.*  Key terms: Fascism & Totalitarianism, Political Ideologies. 
 
 
 Publisher's Description:  
@@ -2104,6 +2104,7 @@ Review By [Ilana Masad](https://www.ilanamasad.com/bio): [https://www.latimes.co
 
 
 <details><summary><a name="a_gentleman_in_moscow_by_amor_towles"></a>A Gentleman in Moscow -- A Novel. By Amor Towles.  2016 </summary>
+
 ### A Gentleman in Moscow.  (18:00)  
 Audio: https://www.overdrive.com/media/2629332/a-gentleman-in-moscow  
 eBook: https://www.overdrive.com/media/2624799/a-gentleman-in-moscow  
@@ -2235,7 +2236,7 @@ See: https://en.wikipedia.org/wiki/The_Midnight_Sky and a review at: https://www
 </details>
 
 
-<details><summary>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
+<details><summary><a name="good_night_irene_by_luis_alberto_urrea"></a>Good Night, Irene - A Novel. By Luis Alberto Urrea. 2023 </summary>
 
 ### Good Night, Irene - A Novel. (13:00)  
 Audio: https://www.overdrive.com/media/9311220/good-night-irene  
@@ -2289,7 +2290,7 @@ For context, see "[Battle of Erzurum](https://en.wikipedia.org/wiki/Erzurum_offe
 </details>
 
 
-<details><summary>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
+<details><summary><a name="hamnet_by_maggie_ofarrell"></a>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
 https://www.overdrive.com/media/5067417/hamnet  
@@ -2304,7 +2305,7 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 </details>
 
 
-<details><summary>Harrow -- A novel. By Joy Williams. 2021 </summary>
+<details><summary><a name=""></a>Harrow -- A novel. By Joy Williams. 2021 </summary>
 
 ### Harrow -- A novel. (7:00)  
 Audio: https://www.overdrive.com/media/5978287/harrow  
@@ -2318,7 +2319,7 @@ Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)
 </details>
 
 
-<details><summary>The Harvester. By Gene Stratton-Porter, 1911</summary>
+<details><summary><a name=""></a>The Harvester. By Gene Stratton-Porter, 1911</summary>
 
 ### The Harvester (16:48)  
 https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
@@ -2333,7 +2334,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
+<details><summary><a name=""></a>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
 
 ### The Heart of the Ancient Wood  (4:54)  
 https://librivox.org/the-heart-of-the-ancient-wood-by-sir-charles-g-d-roberts/  
@@ -2346,7 +2347,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
+<details><summary><a name=""></a>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
 ### The Hemingses of Monticello -- An American Family.  (31:00)  
 Audio: https://www.overdrive.com/media/201740/the-hemingses-of-monticello  
@@ -2368,7 +2369,7 @@ A list of reviews at: https://bookmarks.reviews/reviews/all/the-hemingses-of-mon
 </details>
 
 
-<details><summary>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
+<details><summary><a name=""></a>Henry, Himself. -- A Novel.  By Stewart O'Nan. 2019 </summary>
 
 ### Henry, Himself. -- A Novel. (12:00)  
 Audio: https://www.overdrive.com/media/4197479/henry-himself  
@@ -2401,7 +2402,7 @@ Wikipedia Summary: [Death on the Nile](https://en.wikipedia.org/wiki/Death_on_th
 </details>
 
 
-<details><summary>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
+<details><summary><a name=""></a>Here, Right Matters -- An American Story. By Alexander Vindman. 2021 </summary>
 
 ### Here, Right Matters -- An American Story. (7:00)  
 Audio: https://www.overdrive.com/media/6158937/here-right-matters  
@@ -2413,7 +2414,7 @@ Reading Notes: This is largely an autobiography of Alexander S. Vindman wrapped 
 </details>
 
 
-<details><summary>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
+<details><summary><a name=""></a>Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill.  By Candice Millard. 2016</summary>
 
 ### Hero of the Empire -- The Boer War, a Daring Escape, and the Making of Winston Churchill. (10:14)  
 Audio: https://www.overdrive.com/media/2395075/hero-of-the-empire  
@@ -2444,7 +2445,7 @@ Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/ab
 </details>
 
 
-<details><summary>Horse. By Geraldine Brooks. 2022</summary>
+<details><summary><a name=""></a>Horse. By Geraldine Brooks. 2022</summary>
 
 ### Horse. (14:06)  
 Audio: https://www.overdrive.com/media/6955174/horse  
@@ -2466,7 +2467,7 @@ Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/ge
 </details>
 
 
-<details><summary>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
+<details><summary><a name=""></a>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
 
 ### How High We Go In The Dark  
 Audio: https://www.overdrive.com/media/6455958/how-high-we-go-in-the-dark  
@@ -2495,7 +2496,7 @@ DUELING REVIEW by "Jennie:" [https://dearauthor.com/...review-how-high-we-go-in-
 </details>
 
 
-<details><summary>I Spy. By Natalie Sumner Lincoln, 1916</summary>
+<details><summary><a name=""></a>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
@@ -2552,7 +2553,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Inheritance of Loss. By Kiran Desai. 2007 </summary>
+<details><summary><a name="inheritance_of_loss_by_kiran_desai"></a>The Inheritance of Loss. By Kiran Desai. 2007 </summary>
 
 ### The Inheritance of Loss. (12:00)  
 Audio: https://www.overdrive.com/media/123632/the-inheritance-of-loss  
@@ -2586,7 +2587,7 @@ Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us
 </details>
 
 
-<details><summary>Inspector French and the Cheyne Mystery. 1926 </summary>
+<details><summary><a name=""></a>Inspector French and the Cheyne Mystery. 1926 </summary>
 
 ### Inspector French and the Cheyne Mystery. (8:53:55)  
 Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
@@ -2683,7 +2684,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
+<details><summary><a name=""></a>The Keeper of Hidden Books -- A Novel. By Madeline Martin. 2023 </summary>
 
 ### The Keeper of Hidden Books. (11:00)  
 Audio: https://www.overdrive.com/media/9406637/the-keeper-of-hidden-books  
@@ -2797,7 +2798,7 @@ Background from Wikipedia:
 </details>
 
 
-<details><summary>The Last Evolution.  By John Wood Campbell, Jr.  1932</summary>
+<details><summary><a name=""></a>The Last Evolution.  By John Wood Campbell, Jr.  1932 </summary>
 
 ### The Last Evolution.  (53:00)  
 https://librivox.org/the-last-evolution-by-john-wood-campbell-jr/  
@@ -2826,7 +2827,7 @@ https://www.jsdewes.com/about
 </details>
 
 
-<details><summary>The Later Middle Ages: A History of Western Europe 1254-1494. By Robert Balmain Mowat. 1917 </summary>
+<details><summary><a name=""></a>The Later Middle Ages: A History of Western Europe 1254-1494. By Robert Balmain Mowat. 1917 </summary>
 
 ### The Later Middle Ages: A History of Western Europe 1254-1494. (11:42)  
 Audio: https://librivox.org/the-later-middle-ages-a-history-of-western-europe-1254-1494-by-robert-balmain-mowat/  
@@ -3165,7 +3166,7 @@ Audio: https://www.overdrive.com/media/9233704/the-making-of-another-major-motio
 eBook: https://www.overdrive.com/media/9236641/the-making-of-another-major-motion-picture-masterpiece  
 By [Tom Hanks](https://en.wikipedia.org/wiki/Tom_Hanks)  (1956 – )  
 
-Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified]() “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
+Reading Notes: The story, told by Joe Shaw, creative writing teacher at Montana college and sometimes reviewer, includes the birth of the source material that inspires a writer-director to write his latest movie, “Knightshade: The Lathe of Firefall,” along with the making of that movie.  Most of the characters (*Bob Falls, Robby Andersen, Bill Johnson, Allicia (Al) Mac-Teer, Ynez Gonzalez-Cruz, Wren Lane, O.K. Bailey, and more*) throughout the book are -- at varying levels of depth -- treated by the author as *real people* and (*almost*) everyone surfaces enough kindness to support the story's forward motion.  As much as anything about this story, it was the economy of that *building-real-people*, with just-enough-detail-just-enough-backstory-and-no-more that I found attractive (*some may argue with the ...and-no-more*).  Learning a little about movie-making was also interesting.  Reviewer Ron Charles [identified](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/) “Making movies is about solving more problems than you cause” as one of the foundational principles outlined in this story.  Being one of those foundational *rules* for success in life -- this novel may, assuming some level of optimism and decency, pass along some important messages about living well.  
 
 Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../tom-hanks-novel-making-another...](https://www.washingtonpost.com/books/2023/05/02/tom-hanks-novel-making-another-major-motion-picture-masterpiece/)  
 Review by [Alexandra Jacobs](https://www.nytimes.com/by/alexandra-jacobs): [https://www.nytimes.com/.../tom-hanks-the-making-of-another...](https://www.nytimes.com/2023/05/07/books/tom-hanks-the-making-of-another-major-motion-picture-masterpiece.html)  
@@ -3497,6 +3498,23 @@ BookMarks Reviews: [https://bookmarks.reviews/.../exit-strategy...](https://book
 </details>
 
 
+<details><summary><a name="three_years_in_manipur_by_ethel_st_clair_grimwood"></a>My Three Years In Manipur: And Escape From The Recent Mutiny. By Ethel St. Clair Grimwood. 1891 </summary>
+
+### My Three Years In Manipur: And Escape From The Recent Mutiny.  
+eBook: https://www.gutenberg.org/ebooks/71726  
+OnLine: https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
+OnLine: https://archive.org/details/in.ernet.dli.2015.44982/mode/2up  
+By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood)  (1867 – 1928)  
+
+Reader's Notes:  This first-person description of (1) late 19th century Manipur (*an Indian state on the Eastern edge of the country*), (2) British colonialism in India within a very specific set of circumstances and (3) what it was like as a British official's wife to be under attack and fleeing in late 19th century Manipur/South Asia.  
+This book includes some sterotyping based on race, ethnicity and other characteristics "that may shape society" (*at least in the popular understanding of many late 19th century Westerners*).  Some might be repulsed by how oppression built around the concepts of gender, race, caste, and class are expressed throughout this story. It might be easy for a 21st century reader to pass these off as parodies of British colonial society at that time, but they seem to be expressions of the author's understanding of the world and that of her readers at the time.  As much as we can know, her written words are facts of 19th century British colonial *management* -- as well as expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  This book may be hurtful to some.  
+
+[Publisher Description](https://books.apple.com/us/book/my-three-years-in-manipur-and-escape-from-the/id934055203):  
+>The Fantastic story of the “Heroine of Manipur” who led to bloody, battered survivors of the Manipur Mutiny to safety over some of the roughest roads in all of India. Includes 9 illustrations.  “Manipur, Rebellion in (1891). This small state in north-eastern India southeast of Assam was a quasi-independent British protectorate ruled from 1834 by Chandra Kirti Singh (1832-1866). On his death his sons and other relatives formed numerous parties, each contending for the throne. In the midst of general unrest, on 24 March 1891 the British political agent and other resident British officials were murdered, and the residency in Manipur was attacked. The small surviving band of loyal sepoys was led to safety in India by Ethel St Clair Grimwood, the wife of the slain Political Resident. The British sent troops into the country and, after several encounters with the 3000-man Manipuri army, finally restored order. The offending princes were hanged or transported to the Andaman Islands. Mrs Grimwood was awarded the Royal Red Cross.”-Farwell  
+
+</details>
+
+
 <details><summary><a name="myth_of_seneca_falls_by_lisa_tetrault"></a>The Myth of Seneca Falls.  By Lisa Tetrault  2014</summary>
 
 ### The Myth of Seneca Falls -- Memory and the Women's Suffrage Movement, 1848-1898.  
@@ -3566,6 +3584,23 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details>
+<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
+Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
+eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
+By [Adam Cohen](https://en.wikipedia.org/wiki/Adam_Cohen_(journalist))  (~1962 – )  
+
+Reading Notes: This is a *light* review of Franklin D. Roosevelt's early presidency by focusing on some of his most trusted advisors:  
+* Director of the Bureau of the Budget [Lewis Douglas](https://en.wikipedia.org/wiki/Lewis_Williams_Douglas)  
+* Secretary of labor, [Frances Perkins](https://en.wikipedia.org/wiki/Frances_Perkins)  
+* Secretary of agriculture [Henry A. Wallace](https://en.wikipedia.org/wiki/Henry_A._Wallace)  
+* [Harry Hopkins](https://en.wikipedia.org/wiki/Harry_Hopkins) directed [New Deal](https://en.wikipedia.org/wiki/New_Deal) relief programs.  
+The author wraps that in content about *before* and *after* Roosevelt's first 100 days and brief *biographies* of each advisor.  
+
+</details>
+
+
 <details><summary><a name="notorious_rbg"></a>NOTORIOUS RBG: The Life and Times of Ruth Bader Ginsburg.  By Irin Carmon  2015</summary>
 
 ### Notorious RBG: The Life and Times of Ruth Bader Ginsburg  
@@ -3573,6 +3608,19 @@ Audio: https://www.overdrive.com/media/2396486/notorious-rbg
 Ebook: https://www.overdrive.com/media/2122662/notorious-rbg  
 This is an often uncritical "[Ruth Bader](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg) Ginsburg Museum" well-described in a 2015 NYT book review here: [https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
 By [Irin Carmon](https://en.wikipedia.org/wiki/Irin_Carmon) and [Shana Knizhnik](https://en.wikipedia.org/wiki/Shana_Knizhnik), published 2015.  
+
+</details>
+
+
+<details><summary><a name="notre_dame_by_ken_follett"></a>Notre-Dame -- A Short History of the Meaning of Cathedrals. By Ken Follett.  2019  </summary>
+
+### Notre-Dame -- A Short History of the Meaning of Cathedrals. (1:00)  
+Audio: https://www.overdrive.com/media/8346811/notre-dame  
+eBook: https://www.overdrive.com/media/4815891/notre-dame  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: Written in response to the near catastrophic fire that burned much of Notre-Dame de Paris, Follett shares a brief history of the cathedral -- from the rationale for such expensive and time consuming exercises to their construction and its impact on localities as well as across Europe and beyond.  
+
 
 </details>
 
@@ -3595,7 +3643,7 @@ OverDrive Summary:
 </details>
 
 
-<details><summary>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
+<details><summary><a name=""></a>Okewood of the Secret Service. by Valentine Williams. 1918/1919 </summary>
 
 ### Okewood of the Secret Service. (8:40)  
 Audio: [https://archive.org/.../okewood_of_the_secret_service_by_william.mp3](https://archive.org/download/synapseml_gutenberg_okewood_of_the_secret_service_by_william/okewood_of_the_secret_service_by_william.mp3)  
@@ -3649,7 +3697,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/On_Writing:_A_Memoir_of_the_Cr
 </details>
 
 
-<details><summary>The One. By John Marrs. 2018 </summary>
+<details><summary><a name=""></a>The One. By John Marrs. 2018 </summary>
 
 ### The One. (11:00)  
 Audio: https://www.overdrive.com/media/3702956/the-one  
@@ -3713,7 +3761,7 @@ Librivox Summary:
 </details>  
 
 
-<details><summary>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
+<details><summary><a name=""></a>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
 
 ### The Original. (3:24)  
 Audio: https://www.overdrive.com/media/5612235/the-original  
@@ -3969,11 +4017,11 @@ Publisher Summary:
 </details>
 
 
-<details><summary>Preferred Risk. By Frederik Pohl, 1955</summary>
+<details><summary><a name="preferred_risk_by_frederik_pohl"></a>Preferred Risk. By Frederik Pohl, 1955</summary>
 
 ### Preferred Risk (06:26)  
-https://librivox.org/preferred-risk-by-frederik-pohl/  
-Text: https://www.gutenberg.org/ebooks/51814  
+Audio: https://librivox.org/preferred-risk-by-frederik-pohl/  
+eBook: https://www.gutenberg.org/ebooks/51814  
 By [Frederik Pohl](https://en.wikipedia.org/wiki/Frederik_Pohl) (1919 - 2013) and [Lester del Rey](https://en.wikipedia.org/wiki/Lester_del_Rey) (1915 - 1993)  Published 1955  
 
 Reading Notes: This is another story expressing a thread of post-WWII "*atomic bomb-crazed*" America (*even though most of the action takes place in Italy*).  World leaders -- Insurance company executives -- are crude and violent liers, attempting to profit from *governing*.  Ethical simpleton Claims Adjuster Wills starts a new job in Naples, Italy, and sees just enough of the truth to set him on a quest for justice...  NOTE: There are issues of race/ethnicity in "Preferred Risk", particularly Italian stereotypes and derogatory terms.  
@@ -4018,7 +4066,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
-<details><summary>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
+<details><summary><a name=""></a>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
 
 ### Private Moscow. (9:00)  
 Audio: https://www.overdrive.com/media/9267936/private-moscow  
@@ -4030,7 +4078,7 @@ Reading Notes: Another impossible mission, fast-paced action, Russians, sleeper 
 </details>
 
 
-<details><summary>The Quick. By Lauren Owen. 2014 </summary>
+<details><summary><a name=""></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
 Audio: https://www.overdrive.com/media/1330874/the-quick  
@@ -4231,7 +4279,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Search the Sky. By Frederik Pohl, 1956</summary>
+<details><summary><a name=""></a>Search the Sky. By Frederik Pohl, 1956</summary>
 
 ### Search the Sky (06:47)  
 https://librivox.org/search-the-sky-by-frederik-pohl/  
@@ -4246,7 +4294,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
+<details><summary><a name=""></a>The Searcher -- A Novel · Cal Hooper.  By Tana French. 2020 </summary>
 
 ### The Searcher -- A Novel · Cal Hooper. (15:00)  
 Audio: https://www.overdrive.com/media/5376676/the-searcher  
@@ -4291,7 +4339,7 @@ Author's page about the book: https://dianarchambers.com/books/the-secret-war-of
 </details>
 
 
-<details><summary>Sentimental Education.  By Gustave Flaubert.  1869</summary>
+<details><summary><a name=""></a>Sentimental Education.  By Gustave Flaubert.  1869</summary>
 
 ### Sentimental Education (17:11)  
 https://librivox.org/sentimental-education-by-gustave-flaubert/  
@@ -4307,7 +4355,7 @@ Librivox Summary:
 </details>  
 
 
-<details><summary>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
+<details><summary><a name=""></a>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
 https://librivox.org/shakespeare-at-the-globe-1599-1609-by-bernard-beckerman/  
@@ -4336,7 +4384,7 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)
 </details>
 
 
-<details><summary>The shipwreck. By William Falconer.  1762 </summary>
+<details><summary><a name=""></a>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/  
@@ -4377,7 +4425,7 @@ Review by [Lee Billings](http://leebillings.com/bio/): [https://www.scientificam
 </details>
 
 
-<details><summary>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
+<details><summary><a name=""></a>The Small Bachelor.  By P. G. Wodehouse. 1927 </summary>
 
 ### The Small Bachelor  (6:36)  
 https://librivox.org/the-small-bachelor-by-p-g-wodehouse/  
@@ -4401,6 +4449,7 @@ https://librivox.org/soldiers-pay-by-william-faulkner/
 [https://en.wikipedia.org/wiki/Soldiers'_Pay](https://en.wikipedia.org/wiki/Soldiers'_Pay)  
 Text: https://archive.org/details/in.ernet.dli.2015.186670/  
 By [William Faulkner](http://en.wikipedia.org/wiki/William_Faulkner) (1897 - 1962)  Published 1926  
+
 See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B. Padgett's summary](http://cypress.mcsr.olemiss.edu/~egjbp/faulkner/n-sp.html)  
 also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
@@ -4966,7 +5015,7 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wiki
 </details>
 
 
-<details><summary>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+<details><summary><a name=""></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
 
 ### Veronica Ruiz Breaks the Bank. (2:27)  
 Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
@@ -4979,7 +5028,7 @@ Reading Notes: This is a light, quick story about a young down-on-her-luck woman
 
 
 
-<details><summary>Victory.  By Lester del Rey.  1955 </summary>
+<details><summary><a name=""></a>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/  
@@ -4995,7 +5044,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>War on Peace. By Ronan Farrow, 2018</summary>
+<details><summary><a name=""></a>War on Peace. By Ronan Farrow, 2018</summary>
 
 ### War on Peace  (10:54)  
 https://www.overdrive.com/media/3963265/war-on-peace  
@@ -5149,7 +5198,7 @@ Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras
 </details>
 
 
-<details><summary>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+<details><summary><a name=""></a>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
 Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
@@ -5198,7 +5247,7 @@ By [John Matteson](https://en.wikipedia.org/wiki/John_Matteson)  (1961 – )
 
 <details><summary>Reading Notes:</summary>
 
-Jane delivered a Public Library copy to me for my birthday, and recommended by her brother-in-law.  
+Jane delivered a Public Library copy to me for my birthday, and it was recommended by her brother-in-law.  
 The author writes about Oliver Wendell Holmes, Jr, John Pelham, George Washington Whitman & Walt Whitman, Arthur Fuller and Louisa May Alcott in the context of their participation in the U.S. Civil War.  
 
 Some Quotes:  
@@ -5234,7 +5283,9 @@ Walt Whitman:
 
 >(of the several hundred men delivered by transport ship) only three were able to walk.  The rest were carried ashore and set down.  They lay still, with horrible looks in their eyes, many of them lacking enough flesh on their lips to cover their teeth.  "Can those be men?" wrote Whitman in dismay, "those little livid-brown, ash-streak'd, monkey-looking dwarfs? -- are they really not mummified, dwindled corpses?  Whitman knew that some crimes could be forgiven.  This, however, he could never excuse.  It perpetrators had steeped themselves "in blackest, escapeless damnation."  
 
->(Summer 1865) Whitman was entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
+In the first half of 1865 Whitman worked at the Department of Interior as a clerk in the Bureau of Indian Affairs.  James Harlan -- a powerful Methodist layman, president of what would come to be Iowa Wesleyan College, and United States senator -- became Secretary of the Interior and "[ordered the firing of all nonessential employees and all employees whose Christian morality was in doubt. Whitman was one of the clerks fired](http://pubs.lib.uiowa.edu/bai/article/28998/galley/137478/download/). It is often reported that the Secretary "[fired Whitman upon discovering he was the author of Leaves of Grass, a book Harlan knew by reputation as immoral and pornographic](https://whitmanarchive.org/item/encyclopedia_entry18)."  
+>(Starting summer 1865) Whitman was hired by the Attorney General's Office and entrusted with welcoming "a great stream of Southerners" who came each day in search of pardons for their role in the rebellion.  
+
 >The poet's companion Horace Traubel... once asked the poet whether, in his mind, he ever went back to the hospitals.  Whitman replied, "I do not need to.  I have never left them.  They are here, now, while we are talking together -- real, terrible, beautiful days!"  
 
 Arthur Fuller:  
