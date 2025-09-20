@@ -3159,6 +3159,20 @@ Reading Notes: This is a *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* s
 </details>
 
 
+<details><summary><a name="madhouse_at_the_end_of_the_earth_by_julian_sancton"></a>Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. By Julian Sancton. 2021 </summary>
+
+### Madhouse at the End of the Earth -- The Belgica's Journey into the Dark Antarctic Night. (13:00)  
+Audio: https://www.overdrive.com/media/5664460/madhouse-at-the-end-of-the-earth  
+eBook: https://www.overdrive.com/media/5665688/madhouse-at-the-end-of-the-earth  
+By [Julian Sancton](https://www.instagram.com/jsancton/) and [on LinkedIn](https://www.linkedin.com/in/julian-sancton-65b32347/)  ( – )  
+
+Reading Notes: The [Belgian Antarctic Expedition of 1897–1899](https://en.wikipedia.org/wiki/Belgian_Antarctic_Expedition) was the first expedition to winter in the Antarctic region. Led by [Adrien de Gerlache de Gomery](https://en.wikipedia.org/wiki/Adrien_de_Gerlache_de_Gomery) aboard the [RV Belgica](https://en.wikipedia.org/wiki/RV_Belgica_(1884)), it was the [first Belgian Antarctic expedition](https://en.wikipedia.org/wiki/Belgian_Antarctic_Program).  Among its members were [Frederick Cook](https://en.wikipedia.org/wiki/Frederick_Cook) and [Roald Amundsen](https://en.wikipedia.org/wiki/Roald_Amundsen), explorers who would later attempt the respective conquests of the North Pole. On 28 February 1898, Gerlache's expedition became trapped in the ice of the Bellingshausen Sea, near Peter I Island.  The author details this expedition in great detail.  
+
+Article by [the author] about writing and researching the book: [https://lithub.com/polar-nightmare...](https://lithub.com/polar-nightmare-on-one-of-the-first-international-expeditions-of-the-modern-era/)  
+
+</details>
+
+
 <details><summary><a name="the_making_of_another_major_motion_picture_masterpiece"></a>The Making of Another Major Motion Picture Masterpiece. By Tom Hanks. 2023 </summary>
 
 ### The Making of Another Major Motion Picture Masterpiece (16:00)  
