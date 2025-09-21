@@ -3598,6 +3598,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details><summary><a name="the_nine_by_gwen_strauss"></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
+
+### The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. (13:33)  
+Audio: https://www.overdrive.com/media/5715471/the-nine  
+eBook: https://www.overdrive.com/media/5678338/the-nine  
+By [Gwen Strauss](https://www.gwenstrauss.com/bio.htm) and on [Wikipedia](https://en.wikipedia.org/wiki/Gwen_Strauss)  (1963 – )  
+
+Reading Notes: A non-fiction story about a group of nine female resistance fighters who survived the [Ravensbrück concentration camp](https://encyclopedia.ushmm.org/content/en/article/ravensbrueck) (*also [here](https://en.wikipedia.org/wiki/Ravensbr%C3%BCck_concentration_camp)*) North of [Berlin](https://en.wikipedia.org/wiki/Berlin) in [Fürstenberg/Havel](https://en.wikipedia.org/wiki/F%C3%BCrstenberg/Havel) Germany, escaped a death march and then overcame many challenges as they walked through *enemy territory* to relative freedom.  Their routes home started with a ten-day journey together across the front lines of WWII to [Colditz](https://en.wikipedia.org/wiki/Colditz) where they were fed and housed by the U.S. Army.  One of the nine was the author's great aunt Helene Podliasky, a twenty-four-year-old engineer.  See the author's page on this book for a proper summary: https://www.gwenstrauss.com/the_nine.htm  
+
+Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-women/  
+
+
+</details>
+
+
 <details>
 <summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
 ### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
