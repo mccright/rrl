@@ -83,7 +83,7 @@ Audio: https://www.overdrive.com/media/7728272/the-620-man
 eBook: https://www.overdrive.com/media/8732186/the-620-man  
 By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
 
-Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This who-dunnit is time reasonable entertainment.  
+Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first-year employee*) -- takes the 6:20 train to Manhattan.  Without knowing, he gets involved with people involved in large-scale money laundering and fraud. His military training helps him stay alive.  This *[whodunnit](https://en.wikipedia.org/wiki/Whodunit)* is time-reasonable entertainment.  
 
 </details>
 
@@ -3598,8 +3598,24 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Number_17_(novel)
 </details>
 
 
+<details><summary><a name="the_nine_by_gwen_strauss"></a>The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. By Gwen Strauss. 2021 </summary>
+
+### The Nine -- How a Band of Daring Resistance Women Escaped from Nazi Germany: The Powerful True Story. (13:33)  
+Audio: https://www.overdrive.com/media/5715471/the-nine  
+eBook: https://www.overdrive.com/media/5678338/the-nine  
+By [Gwen Strauss](https://www.gwenstrauss.com/bio.htm) and on [Wikipedia](https://en.wikipedia.org/wiki/Gwen_Strauss)  (1963 – )  
+
+Reading Notes: A non-fiction story about a group of nine female resistance fighters who survived the [Ravensbrück concentration camp](https://encyclopedia.ushmm.org/content/en/article/ravensbrueck) (*also [here](https://en.wikipedia.org/wiki/Ravensbr%C3%BCck_concentration_camp)*) North of [Berlin](https://en.wikipedia.org/wiki/Berlin) in [Fürstenberg/Havel](https://en.wikipedia.org/wiki/F%C3%BCrstenberg/Havel) Germany, escaped a death march and then overcame many challenges as they walked through *enemy territory* to relative freedom.  Their routes home started with a ten-day journey together across the front lines of WWII to [Colditz](https://en.wikipedia.org/wiki/Colditz) where they were fed and housed by the U.S. Army.  One of the nine was the author's great aunt Helene Podliasky, a twenty-four-year-old engineer.  See the author's page on this book for a proper summary: https://www.gwenstrauss.com/the_nine.htm  
+
+Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-women/  
+
+
+</details>
+
+
 <details>
 <summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+
 ### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
 Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
 eBook: https://www.overdrive.com/media/455693/nothing-to-fear  
@@ -5921,7 +5937,7 @@ Text:  https://www.gutenberg.org/ebooks/66451
 By [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini) (1874 - 1926) and [Clifford Martin Eddy Jr. (C. M. Eddy, Jr.)](https://en.wikipedia.org/wiki/C._M._Eddy_Jr.) (1896 - 1967)  
 
 Librivox Summary:  
->Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/)  
+>Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/))  
 
 </details>
 
@@ -5938,7 +5954,7 @@ Red Mars.  2000
 https://www.overdrive.com/media/2902090/red-mars  
 
 Green Mars. 2001  
-(Mars Series, Book 1)  
+(Mars Series, Book 2)  
 https://www.overdrive.com/media/3164205/green-mars  
 
 Blue Mars. 2002  
