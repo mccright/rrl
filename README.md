@@ -3043,7 +3043,7 @@ Heller McAlpin Review: https://www.npr.org/2021/10/05/1043187103/amor-towles-the
 </details>
 
 
-<details><summary>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
+<details><summary><a name="the_lindbergh_nanny_by_mariah_fredericks"></a>The Lindbergh Nanny. By Mariah Fredericks. 2022 </summary>
 
 ### The Lindbergh Nanny. (12:19)  
 Audio: https://www.overdrive.com/media/9127508/the-lindbergh-nanny  
@@ -3058,7 +3058,24 @@ NYT Learning Resource on this topic: https://archive.nytimes.com/www.nytimes.com
 </details>
 
 
-<details><summary>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
+<details><summary><a name="long_way_home_by_louise_penny"></a>The Long Way Home. By Louise Penny. 2014 </summary>
+
+### The Long Way Home. (12:00)  
+Audio: https://www.overdrive.com/media/1859929/the-long-way-home  
+eBook: https://www.overdrive.com/media/1542745/the-long-way-home  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958 - )  
+
+Reading Notes:  [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) (*retired*) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) joined by Clara Morrow and Myrna Landers with additional help from Reine-Marie Gamache and Ruth Zardo attempt to find Peter Morrow (*who didn't return home after a year apart from Clara*) and in so doing also investigate a murder. This was another good fit for a long car ride...  
+Also, in this story Gamache again uses his "[four sayings that can lead to wisdom](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache#Summary)": "I was wrong. I'm sorry. I don't know. I need help." (*a reminder to us all, I think.*)  
+
+If you like this series or are considering starting it, there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+
+If you must see a summary that will reveal all, see: [GamacheSeries.com Summary](https://www.gamacheseries.com/the-long-way-home/re-read/)  
+
+</details>
+
+
+<details><summary><a name="the_longest_letsgoboy_by_derick_wilder"></a>The Longest Letsgoboy. By Derick Wilder. 2023 </summary>
 
 ### The Longest Letsgoboy. (00:08)  
 Audio: https://www.overdrive.com/media/9127509/the-longest-letsgoboy  
@@ -4533,6 +4550,18 @@ Reading Notes: There is little good to say about this novel other than it seems 
 Librivox Summary:  
 >In this tome the Northern narrator, Harold Edson, visits the American South with his college friend, Stanton White, in order to study first hand the social conditions of African Americans during the post-reconstruction era. Edson describes encounters with racist whites whose attacks on African Americans are vicious and unrepentant.  
 >This narrative reflects primitive ideas about race that prevailed in the 19th century United States--above and below the Mason-Dixon--and a level of ignorance that, to a 21st century listener, may be difficult to fully appreciate. But in fact, many of the notions Hall visits in the text continue to echo today reminding us that race has always been a foundation upon which this country was built. ([Summary by James K. White](https://librivox.org/stanton-white-a-romance-of-the-new-south-by-asa-zadel-hall/))  
+
+</details>
+
+
+<details><summary><a name="starry_messenger_by_neil_degrasse_tyson"></a>Starry Messenger -- Cosmic Perspectives on Civilization. By Neil deGrasse Tyson. 2022 </summary>
+
+### Starry Messenger -- Cosmic Perspectives on Civilization. (7:00)  
+Audio: https://www.overdrive.com/media/8557422/starry-messenger  
+eBook: https://www.overdrive.com/media/8328671/starry-messenger  
+By [Neil deGrasse Tyson](https://en.wikipedia.org/wiki/Neil_deGrasse_Tyson)  (1958 – )  
+
+Reading Notes: The [Overdrive summary](https://www.overdrive.com/media/8328671/starry-messenger) says that "Neil deGrasse Tyson shines new light on the crucial fault lines of our time -- war, politics, religion, truth, beauty, gender, and race -- in a way that stimulates a deeper sense of unity for us all."  It's an interesting set of essays that uses "the rationality of science" to support evolving our relations in ways that reject polarization and emphasize our similarities.  
 
 </details>
 
