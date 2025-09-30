@@ -3687,6 +3687,19 @@ Reading Notes: Written in response to the near catastrophic fire that burned muc
 
 </details>
 
+<details><summary><a name="observations_on_the_slave_trade_by_carl_bernhard_wadström"></a>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
+
+### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, during a voyage, made in 1787, and 1788, in company with Doctor A. Sparrman and Captain Arrehenius.  
+https://www.gutenberg.org/ebooks/69156  
+By [Carl Bernhard Wadström](https://www.brycchancarey.com/abolition/wadstrom.htm)  (1746-1799)  
+
+Reading Notes: By 1779 Swede Carl Bernhard Wadström was a convert to [Emanuel Swedenborg](https://en.wikipedia.org/wiki/Emanuel_Swedenborg)’s doctrines, and in that year he and [Augustus Nordenskjöld](https://en.wikipedia.org/wiki/August_Nordenski%C3%B6ld) formed a Swedenborgian anti-slavery group in [Norrköping](https://en.wikipedia.org/wiki/Norrk%C3%B6ping), [Sweden](https://en.wikipedia.org/wiki/Sweden). The Norrköping Swedenborgian group birthed a *plan* for a colony in Africa built on agricultural trade as an alternative to slavery -- its long term purpose being the abolition of slavery -- or at least of providing a free alternative to it. King Gustav III granted a charter for forty families to emigrate.  That effort was delayed by war between England and France [from [Robert William Rix](https://www.brycchancarey.com/abolition/wadstrom.htm)].  After years of delay, in 1787 [Wadström](https://www.brycchancarey.com/abolition/wadstrom.htm) (*[also now a central figure in the British abolition movement](https://www.brycchancarey.com/abolition/wadstrom.htm)*) accompanied by [Carl Axel Arrhenius](https://en.wikipedia.org/wiki/Carl_Axel_Arrhenius) and [Anders Sparrman](https://en.wikipedia.org/wiki/Anders_Sparrman) traveled to West Africa for scientific investigations in Senegal.  This book, "Observations on the Slave Trade..." is one of the outputs of that journey and describes some of what Wadström observed and some of what he thought about it -- *in the context of his experiences and beliefs leading up to the late 1780s*.  
+
+As a reminder, the slave trade had already been active and evolving for **170 years** in what is now United States of America by the time Mr. Wadström journied to West Aftica and wrote this book (*see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)"*).  
+For additional context, you might want to read an article by Morton D. Paley, "[“A New Heaven Is Begun”: William Blake And Swedenborgianism](https://bq.blakearchive.org/13.2.paley)," and another by Klas Rönnbäck, "[Enlightenment, Scientific Exploration and Abolitionism: Anders Sparrman's and Carl Bernhard Wadström's Colonial Encounters in Senegal, 1787–1788 and the British Abolitionist Movement](https://doi.org/10.1080/0144039X.2012.734113)." in A Journal of Slave and Post-Slave Studies. Volume 34, 2013 - Issue 3, Pages 425-445 (Published online: 06 Dec 2012)  
+
+</details>
+
 
 <details><summary><a name="officer_and_a_spy_by_robert_harris"></a>An Officer and a Spy -- A novel.  By Robert Harris.  2014  </summary>
 
