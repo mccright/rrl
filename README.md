@@ -3687,6 +3687,35 @@ Reading Notes: Written in response to the near catastrophic fire that burned muc
 
 </details>
 
+
+<details>
+<summary><a name="nuclear_war_a_scenario_by_annie_jacobsen"></a>Nuclear War -- A Scenario. By Annie Jacobsen. 2024 </summary>
+
+### Nuclear War -- A Scenario. (11:20)  
+Audio: https://www.overdrive.com/media/10043401/nuclear-war  
+eBook: https://www.overdrive.com/media/9970979/nuclear-war  
+By [Annie Jacobsen](https://en.wikipedia.org/wiki/Annie_Jacobsen)  (1967 – )  
+
+Reading Notes:  Excellent writing and terrifying storyline.  "The book combines historical analysis of U.S. nuclear war planning with a minute-by-minute account of a hypothetical first strike by North Korea against the United States, showing how the conflict escalates to global thermonuclear war within 72 minutes, leading to [nuclear winter](https://en.wikipedia.org/wiki/Nuclear_winter) and 5 billion deaths."[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario)  The power to start and/or escalate global nuclear war is concentrated in a very few leaders on earth, especially in the U.S. President.  Risks materially increase whenever we populate these leadership positions with unstable, insecure, unprincipled narcissists.   Jacobsen explores the "Mad King" sceanrio as used in U.S. nuclear war games by playing out how one irrational leader with a nuclear arsenal can **easily** trigger global catastrophe.  Given the gravity of the challenges -- the [Doomsday Clock](https://en.wikipedia.org/wiki/Doomsday_Clock) is "Closer than ever" at [89 seconds to midnight](https://thebulletin.org/doomsday-clock/2025-statement/) as I write -- this is an important book that should be read by everyone from high schooler to senior citizen.  Read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario) for additional detail.  
+
+Also see:  
+* Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
+* "[The Effects of a Global Thermonuclear War 4th edition: escalation in 1988](https://www.johnstonsarchive.net/nuclear/nuclearwar1.html)." by Wm. Robert Johnston and more broadly "[Johnston's Archive Nuclear Weapons](https://www.johnstonsarchive.net/nuclear/index.html).  
+Like any important book, there are (*usually anonymous*) detractors:  
+* For example, an interesting Reddit thread on this book: [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/comment/l2evdie/) and [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/nuclear_war_a_scenario_by_amy_jacobsen/).  
+
+And finally, from song lyrics about this book written by an [AI bot](https://www.lyricsondemand.com/revengerer_ai/92_minutes_a_nuclear_war_scenario):  
+```terminal
+When deterrence fails, all plans unwind,  
+A mad king's dream, or fear misaligned.  
+This machine, once started, cannot be led,  
+In ninety-two minutes, we'll envy the dead.  
+```
+
+
+</details>
+
+
 <details><summary><a name="observations_on_the_slave_trade_by_carl_bernhard_wadström"></a>Observations on the Slave Trade and a Description of some part of the Coast of Guinea... By Carl Bernhard Wadström. 1789 </summary>
 
 ### Observations on the Slave Trade and a Description of some part of the Coast of Guinea, during a voyage, made in 1787, and 1788, in company with Doctor A. Sparrman and Captain Arrehenius.  
