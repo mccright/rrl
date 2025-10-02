@@ -3701,6 +3701,7 @@ Reading Notes:  Excellent writing and terrifying storyline.  "The book combines 
 Also see:  
 * Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
 * "[The Effects of a Global Thermonuclear War 4th edition: escalation in 1988](https://www.johnstonsarchive.net/nuclear/nuclearwar1.html)." by Wm. Robert Johnston and more broadly "[Johnston's Archive Nuclear Weapons](https://www.johnstonsarchive.net/nuclear/index.html).  
+
 Like any important book, there are (*usually anonymous*) detractors:  
 * For example, an interesting Reddit thread on this book: [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/comment/l2evdie/) and [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/nuclear_war_a_scenario_by_amy_jacobsen/).  
 
