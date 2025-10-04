@@ -5355,6 +5355,21 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates
 </details>
 
 
+<details><summary><a name="world_record_book_of_racist_stories_by_amber_ruffin"></a>The World Record Book of Racist Stories. By Amber Ruffin. 2022 </summary>
+
+### The World Record Book of Racist Stories (5:00)  
+Audio: https://www.overdrive.com/media/8840196/the-world-record-book-of-racist-stories  
+eBook: https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories  
+Book: https://books.google.com/books?id=uwBjEAAAQBAJ  
+By [Amber Ruffin](https://en.wikipedia.org/wiki/Amber_Ruffin)  (1979 – )  and [Lacey Lamar](https://nebraskaauthors.org/authors/lacey-lamar)  ( – )  
+
+Reading Notes: [OverDrive Summary](https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories) just about says it all:  
+>"Validating for anyone who has first-hand experience, and revealing for anyone who doesn’t, Amber (Ruffin) and Lacey (Lamar)’s next book helps us all find the absurdity in the pervasive frustrations of racism. Illuminating and packed with love and laughter, this is a must-read for just about everyone."  
+
+
+</details>
+
+
 <details>
 <summary><a name="a_worse_place_than_hell_by_john_matteson"></a>Worse Place than Hell -- How the Civil War Battle of Fredericksburg Changed a Nation. By John Matteson. 2021 </summary>
 
