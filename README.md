@@ -5366,6 +5366,8 @@ By [Amber Ruffin](https://en.wikipedia.org/wiki/Amber_Ruffin)  (1979 – )  and 
 Reading Notes: [OverDrive Summary](https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories) just about says it all:  
 >"Validating for anyone who has first-hand experience, and revealing for anyone who doesn’t, Amber (Ruffin) and Lacey (Lamar)’s next book helps us all find the absurdity in the pervasive frustrations of racism. Illuminating and packed with love and laughter, this is a must-read for just about everyone."  
 
+Short reviews: [https://app.thestorygraph.com...](https://app.thestorygraph.com/book_reviews/b370f977-35fd-4f4c-ac8b-96f8013df3b1)  
+
 
 </details>
 
