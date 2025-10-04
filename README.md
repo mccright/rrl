@@ -3701,6 +3701,7 @@ Reading Notes:  Excellent writing and terrifying storyline.  "The book combines 
 Also see:  
 * Wikipedia Summary: https://en.wikipedia.org/wiki/Nuclear_War:_A_Scenario  
 * "[The Effects of a Global Thermonuclear War 4th edition: escalation in 1988](https://www.johnstonsarchive.net/nuclear/nuclearwar1.html)." by Wm. Robert Johnston and more broadly "[Johnston's Archive Nuclear Weapons](https://www.johnstonsarchive.net/nuclear/index.html).  
+
 Like any important book, there are (*usually anonymous*) detractors:  
 * For example, an interesting Reddit thread on this book: [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/comment/l2evdie/) and [here](https://www.reddit.com/r/nuclearwar/comments/1ci8uqx/nuclear_war_a_scenario_by_amy_jacobsen/).  
 
@@ -5350,6 +5351,21 @@ By [Sarah Vowell](https://en.wikipedia.org/wiki/Sarah_Vowell) (1969- ), publishe
 Reader Notes: An excellent, true story.  Sarah Vowell's exploration of the Puritans and their journey to America to become the people of John Winthrop's "city upon a hill."  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/The_Wordy_Shipmates  
+
+</details>
+
+
+<details><summary><a name="world_record_book_of_racist_stories_by_amber_ruffin"></a>The World Record Book of Racist Stories. By Amber Ruffin. 2022 </summary>
+
+### The World Record Book of Racist Stories (5:00)  
+Audio: https://www.overdrive.com/media/8840196/the-world-record-book-of-racist-stories  
+eBook: https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories  
+Book: https://books.google.com/books?id=uwBjEAAAQBAJ  
+By [Amber Ruffin](https://en.wikipedia.org/wiki/Amber_Ruffin)  (1979 – )  and [Lacey Lamar](https://nebraskaauthors.org/authors/lacey-lamar)  ( – )  
+
+Reading Notes: [OverDrive Summary](https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories) just about says it all:  
+>"Validating for anyone who has first-hand experience, and revealing for anyone who doesn’t, Amber (Ruffin) and Lacey (Lamar)’s next book helps us all find the absurdity in the pervasive frustrations of racism. Illuminating and packed with love and laughter, this is a must-read for just about everyone."  
+
 
 </details>
 
