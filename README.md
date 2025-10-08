@@ -4461,6 +4461,22 @@ Librivox Summary:
 </details>  
 
 
+<details><summary><a name="the_serviceberry_by_robin_wall_kimmerer"></a>The Serviceberry: Abundance and Reciprocity in the Natural World. By Robin Wall Kimmerer. 2024 </summary>
+
+### The Serviceberry: Abundance and Reciprocity in the Natural World. (2:00)  
+Audio: https://www.overdrive.com/media/10685178/the-serviceberry  
+eBook: https://www.overdrive.com/media/11249286/the-serviceberry  
+By [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer)  (1953 – )  
+
+Reading Notes: Author Robin Wall Kimmerer invites us to resist immoral environmental exploitation, destructive individual isolation and purposelessness using more humane and sustainable framing and practices employed for millennia by indigenous peoples.  This short book is worth a read by anyone, from teenager to centenarian.  
+
+Review by [Lori Hall-Araujo](https://muckrack.com/lori-hall-araujo): [https://chireviewofbooks.com/...the-serviceberry/](https://chireviewofbooks.com/2024/12/06/enoughness-in-the-serviceberry/)  
+Review by [Julie Lane-Gay](https://www.regent-college.edu/faculty/summer-faculty-list/gay-julie-lane/): [https://englewoodreview.org/...the-serviceberry...](https://englewoodreview.org/robin-wall-kimmerer-the-serviceberry-feature-review/https://englewoodreview.org/robin-wall-kimmerer-the-serviceberry-feature-review/)  
+
+
+</details>
+
+
 <details><summary><a name=""></a>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
