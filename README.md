@@ -283,6 +283,22 @@ Review by [Hung Truong](): https://somuchscifi.com/america-before-key-to-earths-
 </details>
 
 
+<details><summary><a name="america_fantastica_by_tim_obrien"></a>America Fantastica -- A Novel. By Tim O'Brien. 2023   </summary>
+
+### America Fantastica -- A Novel. (14:00)  
+Audio: https://www.overdrive.com/media/9581906/america-fantastica  
+eBook: https://www.overdrive.com/media/9565616/america-fantastica  
+By [Tim O'Brien](https://en.wikipedia.org/wiki/Tim_O%27Brien_(author))  (1946 – )  
+
+Reading Notes: **I strongly recommend this book.** O'Brien's [satire](https://en.wikipedia.org/wiki/Satire) about the rise and impacts of the lying *disease* that has consumed the Trump-centric right over the last decade gushes with [sarcasm](https://en.wikipedia.org/wiki/Sarcasm) and "*[militant](https://en.wiktionary.org/wiki/militant)" irony*. The tactical and strategic use of lying and *misleading oversimplification*, the need to *control the narrative* via emotional resonance, the distrust of mainstream media, the repetition of lies by trusted leaders and normalized deception help drive this excellent story forward.  O'Brien opens the book with "Boyd Halverson" robbing a bank in Fulda, California and taking the teller, Angie Bing, hostage. Boyd, Angie, and a broad cast of characters live out the "*mythomaniac*" life-style in cross-country criminality, self-discovery and corruption before returning home.  Read one or more of the reviews below if you want to know more details about the story.  
+
+Review by [Noah Hawley](https://en.wikipedia.org/wiki/Noah_Hawley): [https://www.nytimes.com/...america-fantastica](https://www.nytimes.com/2023/10/23/books/review/tim-obrien-america-fantastica.html)  
+Review by [John Walters](https://johnwalterswriter.com/about/): [https://johnwalterswriter.com/...america-fantastica...](https://johnwalterswriter.com/2024/10/12/book-review-america-fantastica-by-tim-obrien/)  
+
+
+</details>
+
+
 <details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
@@ -4461,6 +4477,22 @@ Librivox Summary:
 </details>  
 
 
+<details><summary><a name="the_serviceberry_by_robin_wall_kimmerer"></a>The Serviceberry: Abundance and Reciprocity in the Natural World. By Robin Wall Kimmerer. 2024 </summary>
+
+### The Serviceberry: Abundance and Reciprocity in the Natural World. (2:00)  
+Audio: https://www.overdrive.com/media/10685178/the-serviceberry  
+eBook: https://www.overdrive.com/media/11249286/the-serviceberry  
+By [Robin Wall Kimmerer](https://en.wikipedia.org/wiki/Robin_Wall_Kimmerer)  (1953 – )  
+
+Reading Notes: Author Robin Wall Kimmerer invites us to resist immoral environmental exploitation, destructive individual isolation and purposelessness using more humane and sustainable framing and practices employed for millennia by indigenous peoples.  This short book is worth a read by anyone, from teenager to centenarian.  
+
+Review by [Lori Hall-Araujo](https://muckrack.com/lori-hall-araujo): [https://chireviewofbooks.com/...the-serviceberry/](https://chireviewofbooks.com/2024/12/06/enoughness-in-the-serviceberry/)  
+Review by [Julie Lane-Gay](https://www.regent-college.edu/faculty/summer-faculty-list/gay-julie-lane/): [https://englewoodreview.org/...the-serviceberry...](https://englewoodreview.org/robin-wall-kimmerer-the-serviceberry-feature-review/https://englewoodreview.org/robin-wall-kimmerer-the-serviceberry-feature-review/)  
+
+
+</details>
+
+
 <details><summary><a name=""></a>Shakespeare at the Globe, 1599-1609. By Bernard Beckerman. 1962</summary>
 
 ### Shakespeare at the Globe, 1599-1609. (04:03)  
@@ -5365,6 +5397,8 @@ By [Amber Ruffin](https://en.wikipedia.org/wiki/Amber_Ruffin)  (1979 – )  and 
 
 Reading Notes: [OverDrive Summary](https://www.overdrive.com/media/8839160/the-world-record-book-of-racist-stories) just about says it all:  
 >"Validating for anyone who has first-hand experience, and revealing for anyone who doesn’t, Amber (Ruffin) and Lacey (Lamar)’s next book helps us all find the absurdity in the pervasive frustrations of racism. Illuminating and packed with love and laughter, this is a must-read for just about everyone."  
+
+Short reviews: [https://app.thestorygraph.com...](https://app.thestorygraph.com/book_reviews/b370f977-35fd-4f4c-ac8b-96f8013df3b1)  
 
 
 </details>
