@@ -283,6 +283,22 @@ Review by [Hung Truong](): https://somuchscifi.com/america-before-key-to-earths-
 </details>
 
 
+<details><summary><a name="america_fantastica_by_tim_obrien"></a>America Fantastica -- A Novel. By Tim O'Brien. 2023   </summary>
+
+### America Fantastica -- A Novel. (14:00)  
+Audio: https://www.overdrive.com/media/9581906/america-fantastica  
+eBook: https://www.overdrive.com/media/9565616/america-fantastica  
+By [Tim O'Brien](https://en.wikipedia.org/wiki/Tim_O%27Brien_(author))  (1946 – )  
+
+Reading Notes: **I strongly recommend this book.** O'Brien's [satire](https://en.wikipedia.org/wiki/Satire) about the rise and impacts of the lying *disease* that has consumed the Trump-centric right over the last decade gushes with [sarcasm](https://en.wikipedia.org/wiki/Sarcasm) and "*[militant](https://en.wiktionary.org/wiki/militant)" irony*. The tactical and strategic use of lying and *misleading oversimplification*, the need to *control the narrative* via emotional resonance, the distrust of mainstream media, the repetition of lies by trusted leaders and normalized deception help drive this excellent story forward.  O'Brien opens the book with "Boyd Halverson" robbing a bank in Fulda, California and taking the teller, Angie Bing, hostage. Boyd, Angie, and a broad cast of characters live out the "*mythomaniac*" life-style in cross-country criminality, self-discovery and corruption before returning home.  Read one or more of the reviews below if you want to know more details about the story.  
+
+Review by [Noah Hawley](https://en.wikipedia.org/wiki/Noah_Hawley): [https://www.nytimes.com/...america-fantastica](https://www.nytimes.com/2023/10/23/books/review/tim-obrien-america-fantastica.html)  
+Review by [John Walters](https://johnwalterswriter.com/about/): [https://johnwalterswriter.com/...america-fantastica...](https://johnwalterswriter.com/2024/10/12/book-review-america-fantastica-by-tim-obrien/)  
+
+
+</details>
+
+
 <details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
