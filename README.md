@@ -4213,6 +4213,20 @@ Reading Notes: Another impossible mission, fast-paced action, Russians, sleeper 
 </details>
 
 
+<details><summary><a name="the_quantum_jump_by_robert_wicks"></a>The Quantum Jump.  By Robert Wicks.  1958 </summary>
+
+### The Quantum Jump.  
+eBook: https://www.gutenberg.org/ebooks/24418  
+Audio: There are at least three audio versions of this short story (~22:00 each).  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+
+By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
+
+Reading Notes:  This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  
+This short story was published in Amazing Science Fiction Stories, October 1958.  
+
+</details>
+
+
 <details><summary><a name=""></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
@@ -5294,6 +5308,29 @@ Text: https://www.gutenberg.org/ebooks/25166
 By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
 
 Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/): The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
+
+</details>
+
+
+<details><summary><a name="what_we_can_know_by_ian_mcewan"></a>What We Can Know. By Ian McEwan. 2025 </summary>
+
+### What We Can Know.  (11:00)  
+Audio: https://www.overdrive.com/media/11822883/what-we-can-know  
+eBook: https://www.overdrive.com/media/11568560/what-we-can-know  
+By [Ian McEwan](https://en.wikipedia.org/wiki/Ian_McEwan)  (1948 – )  
+
+Reading Notes: [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner)'s [description](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html) is a perfect fit: McEwan's 'What We Can Know' is "sophisticated entertainment of a high order."  
+Set in 2119 after climate change and nuclear war have remade some nations, *undone* others and killed billions. The story is largely told through a 22nd-century English humanities professor, Tom Metcalfe, who is searching for a poem titled "A Corona for Vivien," and then later in the book by Vivien Blundy herself.  
+See: "[Sonnet Sequences](https://blog.prepscholar.com/types-of-sonnets)" for a description of the Corona construction.  
+Metcalfe and his colleague *and later wife* Rose Church risk a dangerous journey in search of the poem.  
+  * “The Derangement:" A time when everyone knew about climate change but failed to act.  
+  * "The Inundation:" A Russian nuclear weapon goes off course and explodes in the middle of the Atlantic. A resulting tsunami initiates a series of catastrophies -- the sea already high from climate change -- that leave only the mountain peaks of the U.K. and much of Europe above sealevel.  
+This book appears to be about a lot. Global catastrophe, the humanities, academia, relationships between couples (*and beyond*), narcissim, suffering, *social blindness*, doing history, ignorance (*willful, learned or other*), what the self-absorbed are capable of, and much more.  
+
+Review by [Dwight Garner](https://en.wikipedia.org/wiki/Dwight_Garner): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/22/books/review/ian-mcewan-what-we-can-know.html)  
+Interview/Review by [Sarah Lyall](https://en.wikipedia.org/wiki/Sarah_Lyall): [https://www.nytimes.com/...what-we-can-know...](https://www.nytimes.com/2025/09/25/books/review/ian-mcewan-interview-what-we-can-know.html)  
+Review by [Kevin Power](https://en.wikipedia.org/wiki/Kevin_Power): [https://www.theguardian.com/...what-we-can-know...](https://www.theguardian.com/books/2025/sep/16/what-we-can-know-by-ian-mcewan-review-the-limits-of-liberalism)  
+
 
 </details>
 
