@@ -4213,6 +4213,20 @@ Reading Notes: Another impossible mission, fast-paced action, Russians, sleeper 
 </details>
 
 
+<details><summary><a name="the_quantum_jump_by_robert_wicks"></a>The Quantum Jump.  By Robert Wicks.  1958 </summary>
+
+### The Quantum Jump.  
+eBook: https://www.gutenberg.org/ebooks/24418  
+Audio: There are at least three audio versions of this short story (~22:00 each).  See them at: [https://librivox.org...](https://librivox.org/author/8426?primary_key=8426&search_category=author&search_page=1&search_form=get_results)  
+
+By [Robert Wicks]()  ( – ) [*I couldn't find any bio information for Robert Wicks*]  
+
+Reading Notes:  This is an excellent short science fiction story about a small team of space explorer's first landing on a planet circling a star that is not the sun.  
+This short story was published in Amazing Science Fiction Stories, October 1958.  
+
+</details>
+
+
 <details><summary><a name=""></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
