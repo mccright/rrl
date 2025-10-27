@@ -1861,8 +1861,20 @@ Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_histo
 </details>
 
 
-<details>
-<summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
+<details><summary><a name="eruption_by_michael_crichton"></a>Eruption. By Michael Crichton and James Patterson. 2024 </summary>
+
+### Eruption. (11:00)  
+Audio: https://www.overdrive.com/media/10180481/eruption  
+eBook: https://www.overdrive.com/media/10180717/eruption  
+By [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton) (1942 – 2008) and [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  
+
+Reading Notes: This is a easy-to-read [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) novel about an eruption of [Mauna Loa](https://en.wikipedia.org/wiki/Mauna_Loa) volcano on the [Island of Hawaii](https://en.wikipedia.org/wiki/Hawaii_(island)) and its threat to a secret military waste *dump* containing enough of a [DARPA](https://en.wikipedia.org/wiki/DARPA)-developed radioactive liquid pathogin to kill everyone on earth...  Lots of action.  None of the characters seem comprehensively developed but in the context of a high-action thriller that doesn't seem like much of a caution.  In my reading/opinion, development of the central characters seem appropriate for this genera and few fall into the truely '*wooden*' category.   
+
+
+</details>
+
+
+<details><summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
 
 ### Essex Dogs Trilogy #1 -- Essex Dogs. (13:00)  
 Audio: https://www.overdrive.com/media/9383040/essex-dogs  
@@ -4055,6 +4067,33 @@ Publisher: https://www.jamespatterson.com/titles/james-patterson/the-perfect-ass
 By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Brian Sitts](https://www.booknotification.com/authors/brian-sitts/) ( - )  
 
 Reading Notes: Improbable all around.  You need to be in the mood for a formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) story...  In my case, it was good enough for reasonable entertainment while doing yard work.  
+
+</details>
+
+
+<details><summary><a name=""></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
+
+### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
+https://www.gutenberg.org/ebooks/6711  
+https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
+By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938), published 1912  
+
+Reading Notes: 
+Utopian reformer..."we are entering a new era. The past is no longer to be a guide to the future…"  
+Main characters: Phillip Dru, Gloria Strawn, Senator Selwyn  
+Also: Governor James R. Rockland (earmarks of a demagogue)…  
+The story outlines how society is corrupted by Dark money, Control of the press, Corrupt high-finance personalities, Anti-democracy Senators, and a Corrupt anti-democracy President (Rockland)  
+    …who was ignorant of history  
+    …who picks three compliant Supreme Court justices  
+There are recordings that capture corrupt acts by the President, and a Whistleblower.  
+Corrupt leaders are defiant & claim others were doing what they were charged with, and that they were trying to protect America…  They:  
+    …Moved troops to cities and the navy to U.S. coasts  
+    …dehumanized political opponents  
+    …chose quick violence against protest  
+Civil War follows — unrealistic assertions about the nature and practice of war.  More than 50,000 die in the one and only battle -- and the war is won…  
+General Dru remakes the U.S. as a more fair society with a smaller and more responsive government (*too often just by saying so*...)  
+At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
+One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
 
 </details>
 
