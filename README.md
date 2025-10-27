@@ -1861,8 +1861,20 @@ Interview with the author: [https://www.democracynow.org/2024/9/17/erasing_histo
 </details>
 
 
-<details>
-<summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
+<details><summary><a name="eruption_by_michael_crichton"></a>Eruption. By Michael Crichton and James Patterson. 2024 </summary>
+
+### Eruption. (11:00)  
+Audio: https://www.overdrive.com/media/10180481/eruption  
+eBook: https://www.overdrive.com/media/10180717/eruption  
+By [Michael Crichton](https://en.wikipedia.org/wiki/Michael_Crichton) (1942 – 2008) and [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  
+
+Reading Notes: This is a easy-to-read [thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) novel about an eruption of [Mauna Loa](https://en.wikipedia.org/wiki/Mauna_Loa) volcano on the [Island of Hawaii](https://en.wikipedia.org/wiki/Hawaii_(island)) and its threat to a secret military waste *dump* containing enough of a [DARPA](https://en.wikipedia.org/wiki/DARPA)-developed radioactive liquid pathogin to kill everyone on earth...  Lots of action.  None of the characters seem comprehensively developed but in the context of a high-action thriller that doesn't seem like much of a caution.  In my reading/opinion, development of the central characters seem appropriate for this genera and few fall into the truely '*wooden*' category.   
+
+
+</details>
+
+
+<details><summary><a name="essex_dogs_by_dan_jones"></a>Essex Dogs Trilogy #1 -- Essex Dogs. By Dan Jones.  2022/2023  </summary>
 
 ### Essex Dogs Trilogy #1 -- Essex Dogs. (13:00)  
 Audio: https://www.overdrive.com/media/9383040/essex-dogs  
