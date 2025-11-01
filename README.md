@@ -5018,6 +5018,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 </details>
 
 
+<details><summary><a name="to_be_taught_if_fortunate_by_becky_chambers"></a>To Be Taught, If Fortunate. By Becky Chambers. 2019 </summary>
+
+### To Be Taught, If Fortunate. (5:00)  
+Audio: https://www.overdrive.com/media/4824364/to-be-taught-if-fortunate  
+eBook: https://www.overdrive.com/media/4455304/to-be-taught-if-fortunate  
+By [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)  (1985 – )  
+
+Reading Notes: This is another excellent book by Becky Chambers.  I recommend it to everyone.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/To_Be_Taught,_If_Fortunate) for an outline.  
+
+[Wikipedia summary](https://en.wikipedia.org/wiki/To_Be_Taught,_If_Fortunate):  
+>To Be Taught, If Fortunate follows four astronauts as they travel beyond the Solar System on a research mission to document extraterrestrial life on four planets. The explorers are put into suspended animation for extended periods of time while they travel between the planets. The book chronicles their adventures and explores how they decide what is important to them. As they leave the second planet, they realize that they have received no communication from Earth for months; as they arrive at the fourth, they receive a message indicating that a natural disaster has crippled Earth's technological capability, rendering them potentially the last astronauts. They decide to send a message back to Earth to ask whether they should return as planned, or head outward to explore more planets; if they never receive an answer, they will remain in suspended animation indefinitely.  
+
+
+</details>
+
+
 <details><summary><a name="toilers_of_the_sea_by_victor_hugo"></a>Toilers of the Sea. By Victor Hugo. 1866 (English translation in 1888) </summary>
 
 ### Toilers of the Sea. (17:05)  
