@@ -1765,6 +1765,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Eifelheim#Plot_summary
 </details>
 
 
+<details><summary><a name="an_elderly_lady_is_up_to_no_good_by_helene_tursten"></a>An Elderly Lady Is Up to No Good.  By Helene Tursten.  2018  </summary>
+
+### An Elderly Lady Is Up to No Good. (3:00)  
+Audio: https://www.overdrive.com/media/4773238/an-elderly-lady-is-up-to-no-good  
+eBook: https://www.overdrive.com/media/3984170/an-elderly-lady-is-up-to-no-good  
+By [Helene Tursten](https://en.wikipedia.org/wiki/Helene_Tursten)  (1954 – )  
+
+Reading Notes: See the Overdirve summary...  I listened to this short book while driving, and it was OK entertainment in that context.  
+
+[OverDrive Summary](https://www.overdrive.com/media/3984170/an-elderly-lady-is-up-to-no-good):  
+>Maud is an irascible eighty-eight-year-old Swedish woman with no family, no friends, and . . . no qualms about a little murder. This funny, irreverent story collection by Helene Tursten, author of the Irene Huss Investigation series, features two-never-before translated stories that will keep you laughing all the way to the retirement home. Ever since her darling father's untimely death when she was only eighteen, Maud has lived in the family's spacious apartment in downtown Gothenburg rent-free, thanks to a minor clause in a hastily negotiated contract. That was how Maud learned that good things can come from tragedy. Now in her late eighties, Maud contents herself with traveling the world and surfing the net from the comfort of her father's ancient armchair. It's a solitary existence, and she likes it that way. Over the course of her adventures-or misadventures-this little bold lady will handle a crisis with a local celebrity who has her eyes on Maud's apartment, foil the engagement of her long-ago lover, and dispose of some pesky neighbors. But when the local authorities are called to investigate a dead body found in Maud's apartment, will Maud finally become a suspect?  
+
+
+</details>
+
+
 <details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
