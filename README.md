@@ -5015,7 +5015,27 @@ Review by [Paul Di Filippo](https://en.wikipedia.org/wiki/Paul_Di_Filippo): http
 
 </details>
 
-	
+
+<details>
+<summary><a name="they_thought_they_were_free_by_milton_mayer"></a>They Thought They Were Free -- The Germans, 1933-45. By Milton Mayer. 1955/1966 </summary>
+
+### They Thought They Were Free -- The Germans, 1933-45. (10:00)  
+Audio: https://www.overdrive.com/media/3293736/they-thought-they-were-free  
+eBook: https://www.overdrive.com/media/9580147/they-thought-they-were-free  
+By [Milton Mayer](https://en.wikipedia.org/wiki/Milton_Mayer)  (1908 – 1986)  
+
+Reading Notes: Mayer uses interviews with ten lower middle class men (*a baker, cabinetmaker, bank clerk, bill collector, law enforcement officer, salesperson, student, tailor, and teacher*) from [Marburg](https://en.wikipedia.org/wiki/Marburg) Germany (which he called "Kronenberg" in this book) to help document how *ordinary* small-town citizens felt about the rise of [Nazi Germany](https://en.wikipedia.org/wiki/Nazi_Germany).  
+All these men joined the far-right [National Socialist German Workers' Party](https://en.wikipedia.org/wiki/Nazi_Party) -- the official name for the [Nazi party](https://en.wikipedia.org/wiki/Nazi_Party). They practiced or *adhered to* the racist, nationalist, and anti-Semitic ideology central to [Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler)'s [totalitarian](https://en.wikipedia.org/wiki/Totalitarianism) regime and appeared to retain those beliefs in the mid 1950s when they talked with the author.  
+Mayer argued that growth of the National Socialist German Workers' Party and its mission "required the destruction of academic independence" (and that) "the movement brought the community’s attitude toward the teachers round from respect and envy to resentment, from trust and fear to suspicion."  As I write this in November 2025, that seems appallingly and menacingly aligned with the behaviors of my country's Presidential administration as well the Governor's administration in my home state.  
+I listened to the audio book, which I think might be a disservice to the Author as there are some dense, and I think important sections that were difficult to follow and absorb at the narrator's pace.  There were a number of sections that I "*rewound*" and listened to again in a attempt to capture as much of the content as practical.  Reading this work might be a better path for many.  
+See the [Wikipedia Summary](https://en.wikipedia.org/wiki/They_Thought_They_Were_Free) for a more thorough review.  
+
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/They_Thought_They_Were_Free  
+
+</details>
+
+
 <details><summary><a name="a_thousand_ships_by_natalie_haynes"></a>A Thousand Ships. By Natalie Haynes. 2019(book)/2021(audio) </summary>
 
 ### A Thousand Ships. (9:00)  
