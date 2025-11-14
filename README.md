@@ -2394,6 +2394,26 @@ Summary from Librivox:
 </details>
 
 
+<details><summary><a name="the_heart_goes_last_by_margaret_atwood"></a>The Heart Goes Last. By Margaret Atwood. 2015  </summary>
+
+### The Heart Goes Last.  (12:00)  
+Audio: https://www.overdrive.com/media/2101795/the-heart-goes-last  
+eBook: https://www.overdrive.com/media/2174839/the-heart-goes-last  
+By [Margaret Atwood](https://en.wikipedia.org/wiki/Margaret_Atwood)  (1939 – )  
+
+Reading Notes: This novel takes place in a near-future [dystopian](https://en.wikipedia.org/wiki/Dystopia) U.S. "[in which the lawful are locked up and the lawless roam free](https://www.cbc.ca/news/entertainment/margaret-atwood-s-new-novel-the-heart-goes-last-to-be-released-in-september-1.2994293)."  Central characters Stan and Charmaine lose *everything* in a generalized societal breakdown and at the opening of the story are living in their car.  In response to a TV commercial, they apply join '*the Positron Project*.'  Even after learning that the project requires that they alternate months between performing slave labor in a prison and living as a couple in an isolated, 1950s-themed company-controlled town called '*Consilience*' they sign a contract that required lifetime commitment -- with no opportunity to leave.  The cast of characters and the situations they find themselves in are just odd and repeatedly *invited* me to consider quitting before investing more of my life into the 320 page story.  There was supposed to be some humor, but I found just a lot of ignorance, human cruelty, selfishness, injustice, greed and indifference to the suffering of others throughout.  I am not sure it was worth the investment.  
+
+
+[Wikipedia Summary](https://en.wikipedia.org/wiki/The_Heart_Goes_Last):  
+>Living in their car and surviving on tips, Charmaine and Stan are in a desperate state. When they see an advertisement for Consilience, a ‘social experiment’ offering stable jobs and a home of their own, they sign up immediately. All they have to do in return for suburban paradise is give up their freedom every second month – swapping their home for a prison cell. At first, all is well. But then, unknown to each other, Stan and Charmaine develop passionate obsessions with their ‘Alternates,’ the couple that occupies their house when they are in prison. Soon the pressures of conformity, mistrust, guilt and sexual desire begin to take over  
+
+[OverDrive Summary](https://www.overdrive.com/media/2101795/the-heart-goes-last):  
+>Stan and Charmaine are a married couple trying to stay afloat in the midst of an economic and social collapse. Job loss has forced them to live in their car, leaving them vulnerable to roving gangs. They desperately need to turn their situation around—and fast. The Positron Project in the town of Consilience seems to be the answer to their prayers. No one is unemployed and everyone gets a comfortable, clean house to live in . . . for six months out of the year. On alternating months, residents of Consilience must leave their homes and function as inmates in the Positron prison system. Once their month of service in the prison is completed, they can return to their "civilian" homes...  
+
+
+</details>
+
+
 <details><summary><a name=""></a>The Heart of the Ancient Wood. By Sir Charles G. D. Roberts, 1902</summary>
 
 ### The Heart of the Ancient Wood  (4:54)  
