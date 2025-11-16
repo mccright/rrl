@@ -4500,6 +4500,17 @@ Summary from Librivox:
 
 </details>  
 
+<details><summary><a name="sand_and_canvas_by_samuel_bevan"></a>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
+
+### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
+eBook: https://www.gutenberg.org/ebooks/68780  
+By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?)  
+
+Note: This mid-19th century travel narrative (*maybe introducing some fiction as well, novel?*) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)."  
+
+
+</details>
+
 
 <details><summary>Scientific American Supplement, No. 492, June 6, 1885</summary>
 
