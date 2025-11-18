@@ -4046,20 +4046,17 @@ Summary from Librivox:
 </details>
 
 
-<details><summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
+<details><summary><a name="parable_of_the_sower_by_octavia_butler"></a>Parable of the Sower -- Earthseed Series #1. By Octavia E. Butler. 1993 </summary>
 
-### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
-Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
-eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
-By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+### Parable of the Sower -- Earthseed Series #1  (12:00) 
+Audio: https://www.overdrive.com/media/2902085/parable-of-the-sower  
+eBook: https://www.overdrive.com/media/9722437/parable-of-the-sower  
+By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
 
-Reading Notes: Donald Trump 47 repeatedly threatened to *take-back* the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal).  I didn't really know the history of the Panama Canal, so listened to David McCullough's history.  It details failed attempts to build a canal between the Atlantic and Pacific oceans across [Central America](https://en.wikipedia.org/wiki/Central_America) -- the most expansive by the French in the late 19th century led by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps) from 1880 through 1889. McCullough outlines extensive U.S. involvement in Panamanians seceding from Colombia before *taking* the "[Panama Canal Zone](https://en.wikipedia.org/wiki/Panama_Canal_Zone)" from Panama.  Then, in heroic tones, the book details the public health, engineering and implementation successes that were critical to finishing and operating the canal.  See the Wikipedia summary of [this book](https://en.wikipedia.org/wiki/The_Path_Between_the_Seas) as well as the page on the [History of the Panama Canal](https://en.wikipedia.org/wiki/History_of_the_Panama_Canal) for more.   
+Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality).  
+radical, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) President Donner [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.
 
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
-History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
-Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
-Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
-Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+Wikipedia Summary: https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)  
 
 
 </details>
@@ -4091,6 +4088,25 @@ Review by [Terry W. Hartle](): [https://www.csmonitor.com/...paris-in-ruins...](
 Review by [Christopher Benfey](https://en.wikipedia.org/wiki/Christopher_Benfey): [https://www.nytimes.com/...paris-in-ruins...](https://www.nytimes.com/2024/09/13/books/review/paris-in-ruins-sebastian-smee.html)  
 Review by [Marjorie Heins](https://en.wikipedia.org/wiki/Marjorie_Heins) and [here](https://marjorieheins.academia.edu/): [https://news.artnet.com/...paris-in-ruins-review...](https://news.artnet.com/art-world/sebastian-smee-paris-in-ruins-review-2571616)  
  
+</details>
+
+
+<details><summary><a name="path_between_the_seas_by_david_mccullough"></a>The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  By David McCullough.  2001  </summary>
+
+### The Path Between the Seas -- The Creation of the Panama Canal, 1870-1914.  (8:00)  
+Audio: https://www.overdrive.com/media/79802/the-path-between-the-seas  
+eBook: https://www.overdrive.com/media/20935/the-path-between-the-seas  
+By [David McCullough](https://en.wikipedia.org/wiki/David_McCullough) (1933 – 2022)  
+
+Reading Notes: Donald Trump 47 repeatedly threatened to *take-back* the [Panama Canal](https://en.wikipedia.org/wiki/Panama_Canal).  I didn't really know the history of the Panama Canal, so listened to David McCullough's history.  It details failed attempts to build a canal between the Atlantic and Pacific oceans across [Central America](https://en.wikipedia.org/wiki/Central_America) -- the most expansive by the French in the late 19th century led by [Ferdinand de Lesseps](https://en.wikipedia.org/wiki/Ferdinand_de_Lesseps) from 1880 through 1889. McCullough outlines extensive U.S. involvement in Panamanians seceding from Colombia before *taking* the "[Panama Canal Zone](https://en.wikipedia.org/wiki/Panama_Canal_Zone)" from Panama.  Then, in heroic tones, the book details the public health, engineering and implementation successes that were critical to finishing and operating the canal.  See the Wikipedia summary of [this book](https://en.wikipedia.org/wiki/The_Path_Between_the_Seas) as well as the page on the [History of the Panama Canal](https://en.wikipedia.org/wiki/History_of_the_Panama_Canal) for more.   
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Path_Between_the_Seas  
+History of the Panama Canal: https://en.wikipedia.org/wiki/History_of_the_Panama_Canal  
+Panama Canal History: https://en.wikipedia.org/wiki/Panama_Canal#History  
+Panama Canal: https://en.wikipedia.org/wiki/Panama_Canal  
+Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone  
+
+
 </details>
 
 
@@ -4647,7 +4663,7 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Shaman_(novel)
 </details>
 
 
-<details><summary><a name=""></a>The shipwreck. By William Falconer.  1762 </summary>
+<details><summary><a name="the_shipwreck_by_william_falconer"></a>The shipwreck. By William Falconer.  1762 </summary>
 
 ### The shipwreck.  1762  
 Audio of 1858 version: https://librivox.org/the-shipwreck-by-william-falconer/  
@@ -4660,9 +4676,14 @@ The interesting biography of William Falconer was more enjoyable than the extens
 
 >"William Falconer's "The Shipwreck" recounts the final voyage of the merchant ship Britannia and her crew.  See the Royal Museums Greenwich (RMG) summary at: https://www.rmg.co.uk/stories/blog/library-archive/shipwreck-william-falconer  
 
->[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for Patrick O'Brian fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
+>[RMG Digital Resources Librarian 'Renee' says](https://www.rmg.co.uk/stories/blog/william-falconers-shipwreck): "Part fiction, part autobiography and part instructional guide for sailors, William Falconer's poem The Shipwreck is a must-read for [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian) fans. Fair enough, there's no Jack Aubrey character - but the combination of high seas drama and technical detail makes for a surprisingly compelling read."  
 
 >Librivox Summary: A semi-autobiographical poem in three cantos recounts the wreck of the merchant ship Britannia. Written by William Falconer, a seaman of some experience, who survived one shipwreck himself with only two others of the 50 man crew and eventually perished in the loss of a second ship, the frigate Aurora, 20 years later. The poem is recognized for its realistic portrayal of life aboard an 18th century sailing vessel. [Summary by Fritz](https://librivox.org/the-shipwreck-by-william-falconer/)  
+*supported by*  
+**An Universal Dictionary of the Marine.**  1769  
+https://www.gutenberg.org/ebooks/57705  
+By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+
 
 </details>
 
