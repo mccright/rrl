@@ -4110,6 +4110,23 @@ Panama Canal Zone: https://en.wikipedia.org/wiki/Panama_Canal_Zone
 </details>
 
 
+<details><summary><a name="pathogenesis_by_jonathan_kennedy"></a>Pathogenesis -- A History of the World in Eight Plagues. By Jonathan Kennedy. 2023  </summary>
+
+### Pathogenesis -- A History of the World in Eight Plagues [or, How germs made history]. (9:20)  
+Audio: https://www.overdrive.com/media/9090315/pathogenesis  
+eBook: https://www.overdrive.com/media/9069182/pathogenesis  
+By [Jonathan Kennedy](https://www.qmul.ac.uk/wiph/people/profiles/jonathankennedy.html), also see [wikitia.com/wiki/Jonathan_Kennedy](https://wikitia.com/wiki/Jonathan_Kennedy) ( – )  
+
+Reading Notes: This is an interesting argument that infectious disease has played a material role in a collection of major social and political changes over the last 60 millenia.  It is a little humbling and I believe it is worth your time and energy.  See the [Overdrive summary](https://www.overdrive.com/media/9090315/pathogenesis) below for more.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Pathogenesis:_A_History_of_the_World_in_Eight_Plagues  
+Overdrive [Summary](https://www.overdrive.com/media/9090315/pathogenesis):  
+>According to the accepted narrative of progress, humans have thrived thanks to their brains and brawn, collectively bending the arc of history. But in this revelatory book, Professor Jonathan Kennedy argues that the myth of human exceptionalism overstates the role that we play in social and political change. Instead, it is the humble microbe that wins wars and topples empires.  Drawing on the latest research in fields ranging from genetics and anthropology to archaeology and economics, Pathogenesis takes us through sixty thousand years of history, exploring eight major outbreaks of infectious disease that have made the modern world. Bacteria and viruses were protagonists in the demise of the Neanderthals, the growth of Islam, the transition from feudalism to capitalism, the devastation wrought by European colonialism, and the evolution of the United States from an imperial backwater to a global superpower. Even Christianity rose to prominence in the wake of a series of deadly pandemics that swept through the Roman Empire in the second and third centuries: Caring for the sick turned what was a tiny sect into one of the world’s major religions.  By placing disease at the center of his wide-ranging history of humankind, Kennedy challenges some of the most fundamental assumptions about our collective past—and urges us to view this moment as another disease-driven inflection point that will change the course of history.  
+
+
+</details>
+
+
 <details><summary><a name="perfect_assassin_by_james_patterson"></a>The Perfect Assassin -- A Doc Savage Thriller. By James Patterson. 2022 </summary>
 
 ### The Perfect Assassin -- A Doc Savage Thriller. (8:00)  
