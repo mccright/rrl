@@ -3710,8 +3710,23 @@ Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-wom
 </details>
 
 
-<details>
-<summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
+<details><summary><a name="non_technical_chats_by_la_verne_w_spring"></a>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
+
+### Non-technical chats on iron and steel and their application to modern industry.  
+https://www.gutenberg.org/ebooks/73090  
+https://catalog.hathitrust.org/Record/006573289  
+https://catalog.hathitrust.org/Record/011209034  
+By [la Verne W. (Ward) Spring](https://books.google.com/books?id=dTDTAAAAMAAJ&pg=PA821&lpg=PA821&dq=%22Spring,+La+Verne+Ward%22&source=bl&ots=DU5U1RaxRm&sig=ACfU3U0lw0o59K9uvZRjd8LpIZlkVA6TNA&hl=en&sa=X&ved=2ahUKEwiPqIaf3tiEAxWCg4kEHYQxDSU4ChDoAXoECAMQAw#v=onepage&q=%22Spring%2C%20La%20Verne%20Ward%22&f=false) (1876-)  
+
+Reader notes: A collection of essays on iron and steel from the context of the first and early second decade of the 20th century United States. The author starts with "The early history of iron." and takes us through history and technology through "Transformations and Structures of the Steels" in the early WWI era.  It you are interested in the history, chemistry and manufacture of irons and steels in the pre-WWII era this might be a fit.  For me it was not an easy reader and seemed much longer than its 358 pages.  
+>"The first 13 articles were published during 1915 and 1916 in serial form in the "Valve world," the house organ of Crane company of Chicago."  
+
+Related resources: [A glossary of furnace-terms in English, French and German](https://www.loc.gov/item/25022444/). 1888, By Thomas Egleston (1832-1900) (LCCN Permalink https://lccn.loc.gov/25022444) and [The manufacture of iron, in all its various branches](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=32025952&searchType=1&permalink=y). 1853, By Frederick Overman (1810-1852)  (LCCN Permalink: https://lccn.loc.gov/32025952)  
+
+</details>
+
+
+<details><summary><a name="nothing_to_fear_by_adam_cohen"></a>Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. By Adam Cohen. 2009 </summary>
 
 ### Nothing to Fear -- FDR's Inner Circle and the Hundred Days That Created Modern America. (14:00)  
 Audio: https://www.overdrive.com/media/208342/nothing-to-fear  
