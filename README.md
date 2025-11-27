@@ -1542,6 +1542,23 @@ Review/Summary by Ryan Steck: [https://therealbookspy.com/...dead-fall-by-brad-t
 </details>
 
 
+<details><summary><a name="dead_wake_by_erik_larson"></a>Dead Wake -- The Last Crossing of the Lusitania. By Erik Larson. 2015  </summary>
+
+### Dead Wake -- The Last Crossing of the Lusitania. (13:00)  
+Audio: https://www.overdrive.com/media/1771251/dead-wake  
+eBook: https://www.overdrive.com/media/1945203/dead-wake  
+By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
+Crown Publishers. 430 pages.  
+
+Reading Notes: This is interesting [historical non-fiction](https://en.wikipedia.org/wiki/History). The RMS [Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) (launched 1906), a British ocean liner operated by the [Cunard Steamship Company](https://en.wikipedia.org/wiki/Cunard_Line) was the fastest liner in service for almost a decade. As [World War I](https://en.wikipedia.org/wiki/World_War_I) raged in Europe on surrounding seas, the German submarine [U-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)) struck the Lusitania with a torpedo on 7 May 1915 at 14:10, 11 miles off the [Old Head of Kinsale](https://en.wikipedia.org/wiki/Old_Head_of_Kinsale), Ireland. The resulting damage led to her sinking about 18 minutes later. Only six of several dozen [lifeboats and rafts](https://en.wikipedia.org/wiki/Lifeboat_(shipboard)) were successfully lowered; there were 767 survivors out of the 1,960 people on board, while 1,193 perished (*including three German [stowaways](https://en.wikipedia.org/wiki/Stowaway)*).  
+The U.S. President Woodrow Wilson was distracted.  First Lord of the Admiralty Winston Churchill was out-of-the-office in France.  Lusitania captain, William Thomas Turner, assumed the historical norms that kept civilian ships safe from attack. Walther Schwieger, the captain of [Unterseeboot-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)), believed in his country's targeting of all shipping, civilian, military or *mixed* in areas declared *at war* by Germany. Secretive British codebreakers believed in their ability to drive events/decisions in ways that would favor Great Britain in the war.  
+
+Author's Summary: https://eriklarsonbooks.com/book/dead-wake/  
+NYT Review by [Janet Maslin](https://en.wikipedia.org/wiki/Janet_Maslin): [https://www.nytimes.com/...the-sinking-of-the-lusitania...](https://www.nytimes.com/2015/03/05/books/review-erik-larsons-dead-wake-on-the-sinking-of-the-lusitania.html?unlocked_article_code=1.1k8.ycIA.HZX4eITIsmgp&smid=url-share)  
+
+</details>
+
+
 <details><summary><a name="deep_sky_by_yume_kitasei"></a>The Deep Sky. By Yume Kitasei. 2023 </summary>
 
 ### The Deep Sky. (12:00)  
