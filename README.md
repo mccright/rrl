@@ -465,6 +465,21 @@ See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/
 </details>
 
 
+<details><summary><a name="anomaly_by_david_kazzie"></a>Anomaly. By David Kazzie. 2019  </summary>
+
+### Anomaly.  (10:00)  
+Audio: https://www.overdrive.com/media/4871889/anomaly  
+eBook:   
+By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
+
+Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Government conspiracy.  Conflict.  Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
+
+Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
+
+
+</details>
+
+
 <details><summary><a name="the_anomaly_herve_le_tellier"></a>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
 
 ### The Anomaly. (10:00)  
@@ -1550,7 +1565,7 @@ eBook: https://www.overdrive.com/media/1945203/dead-wake
 By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
 Crown Publishers. 430 pages.  
 
-Reading Notes: This is interesting [historical non-fiction](https://en.wikipedia.org/wiki/History). The RMS [Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) (launched 1906), a British ocean liner operated by the [Cunard Steamship Company](https://en.wikipedia.org/wiki/Cunard_Line) was the fastest liner in service for almost a decade. As [World War I](https://en.wikipedia.org/wiki/World_War_I) raged in Europe on surrounding seas, the German submarine [U-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)) struck the Lusitania with a torpedo on 7 May 1915 at 14:10, 11 miles off the [Old Head of Kinsale](https://en.wikipedia.org/wiki/Old_Head_of_Kinsale), Ireland. The resulting damage led to her sinking about 18 minutes later. Only six of several dozen [lifeboats and rafts](https://en.wikipedia.org/wiki/Lifeboat_(shipboard)) were successfully lowered; there were 767 survivors out of the 1,960 people on board, while 1,193 perished (*including three German [stowaways](https://en.wikipedia.org/wiki/Stowaway)*).  
+Reading Notes: This is interesting [historical non-fiction](https://en.wikipedia.org/wiki/History). The RMS [Lusitania](https://en.wikipedia.org/wiki/RMS_Lusitania) (launched 1906), a British ocean liner operated by the [Cunard Steamship Company](https://en.wikipedia.org/wiki/Cunard_Line) was the fastest liner in service for almost a decade. As [World War I](https://en.wikipedia.org/wiki/World_War_I) raged in Europe and on surrounding seas, the German submarine [U-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)) struck the Lusitania with a torpedo on 7 May 1915 at 14:10, 11 miles off the [Old Head of Kinsale](https://en.wikipedia.org/wiki/Old_Head_of_Kinsale), Ireland. The resulting damage led to her sinking about 18 minutes later. Only six of several dozen [lifeboats and rafts](https://en.wikipedia.org/wiki/Lifeboat_(shipboard)) were successfully lowered; there were 767 survivors out of the 1,960 people on board, while 1,193 perished (*including three German [stowaways](https://en.wikipedia.org/wiki/Stowaway)*).  
 The U.S. President Woodrow Wilson was distracted.  First Lord of the Admiralty Winston Churchill was out-of-the-office in France.  Lusitania captain, William Thomas Turner, assumed the historical norms that kept civilian ships safe from attack. Walther Schwieger, the captain of [Unterseeboot-20](https://en.wikipedia.org/wiki/SM_U-20_(Germany)), believed in his country's targeting of all shipping, civilian, military or *mixed* in areas declared *at war* by Germany. Secretive British codebreakers believed in their ability to drive events/decisions in ways that would favor Great Britain in the war.  
 
 Author's Summary: https://eriklarsonbooks.com/book/dead-wake/  
@@ -3735,7 +3750,7 @@ https://catalog.hathitrust.org/Record/006573289
 https://catalog.hathitrust.org/Record/011209034  
 By [la Verne W. (Ward) Spring](https://books.google.com/books?id=dTDTAAAAMAAJ&pg=PA821&lpg=PA821&dq=%22Spring,+La+Verne+Ward%22&source=bl&ots=DU5U1RaxRm&sig=ACfU3U0lw0o59K9uvZRjd8LpIZlkVA6TNA&hl=en&sa=X&ved=2ahUKEwiPqIaf3tiEAxWCg4kEHYQxDSU4ChDoAXoECAMQAw#v=onepage&q=%22Spring%2C%20La%20Verne%20Ward%22&f=false) (1876-)  
 
-Reader notes: A collection of essays on iron and steel from the context of the first and early second decade of the 20th century United States. The author starts with "The early history of iron." and takes us through history and technology through "Transformations and Structures of the Steels" in the early WWI era.  It you are interested in the history, chemistry and manufacture of irons and steels in the pre-WWII era this might be a fit.  For me it was not an easy reader and seemed much longer than its 358 pages.  
+Reader notes: A collection of essays on iron and steel from the context of the first and early second decade of the 20th century United States. The author starts with "The early history of iron." and outlines his understanding (*"Western" and opinionated*) of the industry's history and technology through "Transformations and Structures of the Steels" in the early WWI era.  It you are interested in the history, chemistry and manufacture of irons and steels in the pre-WWII era this might be a fit.  For me, and I enjoyed working in a foundry many years ago, it was not an easy reader and seemed much longer than its 358 pages.  
 >"The first 13 articles were published during 1915 and 1916 in serial form in the "Valve world," the house organ of Crane company of Chicago."  
 
 Related resources: [A glossary of furnace-terms in English, French and German](https://www.loc.gov/item/25022444/). 1888, By Thomas Egleston (1832-1900) (LCCN Permalink https://lccn.loc.gov/25022444) and [The manufacture of iron, in all its various branches](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=32025952&searchType=1&permalink=y). 1853, By Frederick Overman (1810-1852)  (LCCN Permalink: https://lccn.loc.gov/32025952)  
@@ -3955,7 +3970,7 @@ https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/
 Text: https://www.gutenberg.org/ebooks/64903  
 By [Edwin L. Sabin](https://en.wikipedia.org/wiki/Edwin_L._Sabin) (1870 - 1952)  Published 1917  
 
-Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: There are issues of race in this story-telling, particularly Native American and Black stereotypes and derogatory terms.  
+Reading Summary: Like a number of E.L.Sabin's works, this is *historical-fiction-for-young-readers*, and is a sweeping overview, without a lot of **exploration** detail.  It is primarily a light, shallow drama focused on a small subset of the Lewis & Clark team...  The presentation is an assembly of numerous readers, which may not bring joy to every listener.  That said, it is an entertaining story that moves along throughout.  NOTE: The author's approach to race in this story-telling, particularly Native American and Black stereotypes and his use of derogatory terms may be hurtful to some readers.  
 
 Librivox Summary:  
 >One of the significant and astounding explorations, in 1804-1806, was the expedition under the leadership of Captain Meriwether Lewis and Captain William Clark opening up a trail from St. Louis, Missouri to the Pacific Coast at the mouth of the mighty Columbia River. Edwin Sabin write an engaging account of this challenging journey with ample dialogue so that it reads like an adventure story rather than just a history full of facts and figures, but he fairly represents the characters and events of the long expedition. [Summary by Larry Wilson](https://librivox.org/opening-the-west-with-lewis-and-clark-by-edwin-l-sabin/)  
@@ -4080,13 +4095,13 @@ Summary from Librivox:
 
 <details><summary><a name="parable_of_the_sower_by_octavia_butler"></a>Parable of the Sower -- Earthseed Series #1. By Octavia E. Butler. 1993 </summary>
 
-### Parable of the Sower -- Earthseed Series #1  (12:00) 
+### Parable of the Sower -- Earthseed Series #1  (12:00)  
 Audio: https://www.overdrive.com/media/2902085/parable-of-the-sower  
 eBook: https://www.overdrive.com/media/9722437/parable-of-the-sower  
 By [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)  (1947 – 2006)  
 
-Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality).  
-radical, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) President Donner [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.
+Reading Notes: This is [distopian](https://en.wikipedia.org/wiki/Dystopian_fiction) [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction) set in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) environment characterized by the impacts of [climate change](https://en.wikipedia.org/wiki/Climate_change), [economic inequality](https://en.wikipedia.org/wiki/Economic_inequality) and [social inequality](https://en.wikipedia.org/wiki/Social_inequality). Butler presents the story in the form of a journal kept by the its central character Lauren Oya Olamina, an African American teenager who possesses "[hyper-empathy](https://en.wikipedia.org/wiki/Empathy)" or "sharing" (*the uncontrollable ability to feel the sensations she witnesses in others*).  The book follows Lauren through the violent collapse of her childhood world and her journey north to found a community based on her developing "Earthseed religion," later a collection of texts titled "Earthseed: The Books of the Living."  
+In parallel, a radical, corrupt, [authoritarian](https://en.wikipedia.org/wiki/Authoritarian_leadership_style) U.S. [loosens labor protections](https://en.wikipedia.org/wiki/Authoritarian_capitalism), creating a rise in company towns owned by foreign businesses.  These businesses reintroduce slavery into their operations -- adding an ominous new dimension to the broader social collapse.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Parable_of_the_Sower_(novel)  
 
@@ -4172,11 +4187,10 @@ Reading Notes: Improbable all around.  You need to be in the mood for a formulai
 </details>
 
 
-<details><summary><a name=""></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
+<details><summary><a name="philip_dru_administrator_by_edward_mandell_house"></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
 https://www.gutenberg.org/ebooks/6711  
-https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
 By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938), published 1912  
 
 Reading Notes: 
@@ -4187,14 +4201,18 @@ The story outlines how society is corrupted by Dark money, Control of the press,
     …who was ignorant of history  
     …who picks three compliant Supreme Court justices  
 There are recordings that capture corrupt acts by the President, and a Whistleblower.  
-Corrupt leaders are defiant & claim others were doing what they were charged with, and that they were trying to protect America…  They:  
-    …Moved troops to cities and the navy to U.S. coasts  
-    …dehumanized political opponents  
-    …chose quick violence against protest  
+Corrupt leaders are defiant & claim *others were doing what they were charged with*, and that *they were trying to protect America*…  But they:  
+    …moved Federal troops to American cities and the U.S.Navy to U.S. coasts  
+    …used the press to dehumanized political opponents  
+    …employed federal troops at the polls across the nation and denied a free ballot  
+    …chose quick violence against election protesters resulting in an "appalling" number of civilian deaths across American cities  
 Civil War follows — unrealistic assertions about the nature and practice of war.  More than 50,000 die in the one and only battle -- and the war is won…  
 General Dru remakes the U.S. as a more fair society with a smaller and more responsive government (*too often just by saying so*...)  
-At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
+At the highest level, "much of writing is sophomoric and the characters almost comically wooden." (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
 One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
+
 
 </details>
 
