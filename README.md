@@ -465,6 +465,21 @@ See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/
 </details>
 
 
+<details><summary><a name="anomaly_by_david_kazzie"></a>Anomaly. By David Kazzie. 2019  </summary>
+
+### Anomaly.  (10:00)  
+Audio: https://www.overdrive.com/media/4871889/anomaly  
+eBook:   
+By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
+
+Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Government conspiracy.  Conflict.  Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
+
+Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
+
+
+</details>
+
+
 <details><summary><a name="the_anomaly_herve_le_tellier"></a>The Anomaly. By Hervé Le Tellier. 2020 French/2021 English </summary>
 
 ### The Anomaly. (10:00)  
@@ -4172,11 +4187,10 @@ Reading Notes: Improbable all around.  You need to be in the mood for a formulai
 </details>
 
 
-<details><summary><a name=""></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
+<details><summary><a name="philip_dru_administrator_by_edward_mandell_house"></a>Philip Dru: Administrator: A Story of Tomorrow, 1920-1935.  By Edward Mandell House.  1912 </summary>
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935  
 https://www.gutenberg.org/ebooks/6711  
-https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
 By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938), published 1912  
 
 Reading Notes: 
@@ -4187,14 +4201,18 @@ The story outlines how society is corrupted by Dark money, Control of the press,
     …who was ignorant of history  
     …who picks three compliant Supreme Court justices  
 There are recordings that capture corrupt acts by the President, and a Whistleblower.  
-Corrupt leaders are defiant & claim others were doing what they were charged with, and that they were trying to protect America…  They:  
-    …Moved troops to cities and the navy to U.S. coasts  
-    …dehumanized political opponents  
-    …chose quick violence against protest  
+Corrupt leaders are defiant & claim *others were doing what they were charged with*, and that *they were trying to protect America*…  But they:  
+    …moved Federal troops to American cities and the U.S.Navy to U.S. coasts  
+    …used the press to dehumanized political opponents  
+    …employed federal troops at the polls across the nation and denied a free ballot  
+    …chose quick violence against election protesters resulting in an "appalling" number of civilian deaths across American cities  
 Civil War follows — unrealistic assertions about the nature and practice of war.  More than 50,000 die in the one and only battle -- and the war is won…  
 General Dru remakes the U.S. as a more fair society with a smaller and more responsive government (*too often just by saying so*...)  
-At the highest level, much of writing is sophomoric and the characters almost comically wooden. (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
+At the highest level, "much of writing is sophomoric and the characters almost comically wooden." (From: "What Colonel House Thinks." by William Marion Reedy, Reedy's Mirror, April 6th, 1917 [pages 239-240](https://archive.org/details/sim_reedys-mirror_1917-04-06_26_14/page/n4/mode/1up))  
 One more thing.  Edward M. House wrote this story about the 1920s sometime before publishing it in 1912, and he included an electric automobile as a *normal* mode of transportation (*when Gloria Strawn picks up Phillip Dru at the train station*).  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
+
 
 </details>
 
