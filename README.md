@@ -3319,6 +3319,19 @@ Interview with Tom Hanks about this novel, by [Jeffrey Brown](https://en.wikiped
 </details>
 
 
+<details><summary><a name="malta_exchange_by_steve_berry"></a>The Malta Exchange -- Cotton Malone.  By Steve Berry.  2019  </summary>
+
+### The Malta Exchange -- a Cotton Malone story. (14:00)  
+Audio: https://www.overdrive.com/media/3980801/the-malta-exchange  
+eBook: https://www.overdrive.com/media/3994830/the-malta-exchange  
+By [Steve Berry](https://en.wikipedia.org/wiki/Steve_Berry_(novelist))  (1955 – )  
+
+Reading Notes: Another formulaic [action](https://en.wikipedia.org/wiki/Action_fiction) [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)).  A pope just dies and the [conclave](https://en.wikipedia.org/wiki/Conclave) to select his replacement is about to begin.  While many corrupt Cardinals lobby for selection in [Vatican City](https://en.wikipedia.org/wiki/Vatican_City), one chases information and historical artifacts on [Malta](https://en.wikipedia.org/wiki/Malta) in order to blackmail his way to a two thirds vote.  Cotton Malone (*former U.S. agent*) and Luke Daniels (*[Magellan Billet](https://en.wikipedia.org/wiki/List_of_things_named_after_Ferdinand_Magellan#Other) agent*), targeted by the [Knights of Malta](https://en.wikipedia.org/wiki/Sovereign_Military_Order_of_Malta) and the Secreti attempt to locate some correspondence between Winston Churchill and Benito Mussolini, which gets them involved in a search for 4th century document from Constantine the Great. Lots of violence, lying, back-stabbing, racing from site to site and heavy action in between.  
+
+
+</details>
+
+
 <details><summary>The Man in the Panther's Skin.  By Shota Rustaveli.  12th or 13th Century</summary>
 
 ### The Man in the Panther's Skin (8:17)  
