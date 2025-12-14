@@ -4841,6 +4841,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="the_souls_of_black_folk_by_w_e_b_du_bois"></a>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
+
+### The Souls of Black Folk: Essays and Sketches.  
+eBook: https://www.gutenberg.org/ebooks/408  
+This is a widely published book. Other versions are available at your library and/or on [Libby/Overdrive](https://www.overdrive.com/search?q=The%20Souls%20of%20Black%20Folk)  
+ 
+By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
+
+Reading Notes: This is a series of essays on race by Du Bois.  After reading and thinking about it for a while and reading the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) I recommend that every adult should read this book to help add context to their perceptions of society and culture in the U.S.  Du Bois is a tough, honest historian and careful observer of race relations in the U.S.  The [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) says that this book also "holds an important place in social science as one of the early works in the field of sociology."  It is a complicated book, that, if you are interested at all, but are hesitating, I recommend that you read the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk), as it is far, far, better than anything that I could produce about this volume.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk  
+
+</details>
+
+
 <details><summary><a name="spacemen_lost_by_george_o_smith"></a>Spacemen Lost. By George O. Smith. 1954 </summary>
 
 ### Spacemen Lost. (3:56:53)  
