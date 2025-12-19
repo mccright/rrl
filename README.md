@@ -1718,6 +1718,26 @@ Reader notes: If you like spy, [action](https://en.wikipedia.org/wiki/Action_fic
 
 
 <details>
+<summary><a name="the_dream_hotel_by_laila_lalami"></a>The Dream Hotel. by Laila Lalami. 2025 </summary>
+
+### The Dream Hotel.  (12:00)  
+Audio: https://www.overdrive.com/media/11220603/the-dream-hotel  
+eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
+By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
+
+Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel).  For me, this is a highly discomforting story.  Commercial enterprises *analyze* the oceans of data about people available in the U.S. and apply a risk score to each (*loosely analogous to your FICO score, but with a different mission*).  Then corporations run detainment/observation *prisons* to observe anyone having a risk score higher than an arbitrary threshold.  Any non-compliance with ever-changing rules in these prisons increases the length of a detainee's initial 21-day imprisonment and may also increase their risk score.  At the operations level inside each *prison*, the broader societal mission and the corporate & facility missions are wildly misaligned.  The corporate owners of the facilities depend on detainees complying with their business model that assumes detainees will perform outsourced labor without pay.  Although the story is largely set in a *pre-crime* private *prison* paid for by government organizations & tax-payers (*something I've never been exposed to*), it is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  In that context there were vinettes throughout the story that I found involuntarily repulsive.  Other threads in this story also were both so awful and so *believable* that they lingered in my imagination long after I stopped reading.  For example, police already subscribe to "*propensity for committing crimes*" services (*that don't believe -- yet -- incorporate dream-reading implants, but are applied at the "neighborhood" level, or maybe lower today*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime identification, detention and analysis services* described in this story.  
+
+Wikipedia Summary:  
+>Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity for committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
+
+Review by [Francine Prose](https://en.wikipedia.org/wiki/Francine_Prose): [https://www.washingtonpost.com/...dream-hotel-laila-lalami...](https://www.washingtonpost.com/books/2025/03/06/dream-hotel-laila-lalami-dystopian-novel-review/)  
+Review by [Mark O'Connell](https://en.wikipedia.org/wiki/Mark_O%27Connell_(writer)): [https://www.nytimes.com/...the-dream-hotel-laila-lalami.html](https://www.nytimes.com/2025/03/04/books/review/the-dream-hotel-laila-lalami.html)  
+
+
+</details>
+
+
+<details>
 <summary><a name="dred_scott_decision_majority_opinion_by_roger_brooke_taney"></a>"The Dred Scott Decision: Majority Opinion By Chief Justice Taney." By Roger Brooke Taney. 1857 </summary>
 
 ### The Dred Scott Decision: Majority Opinion By Chief Justice Taney.  
@@ -3242,6 +3262,20 @@ By [Dava Sobel](https://en.wikipedia.org/wiki/Dava_Sobel)  (1947 – )
 Reading Notes: The title says is all.  It is a great story and provides some context for a range of 14th through 19th century historical events.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Longitude_(book)  
+
+</details>
+
+
+<details><summary><a name=""></a>The Lord of the Rings: Book 1 -- The Fellowship of the Ring. By J.R.R. Tolkien. 2021 (1954)   </summary>
+
+### The Fellowship of the Ring.  (23:00)
+Audio: https://www.overdrive.com/media/6404869/the-fellowship-of-the-ring  
+eBook: https://www.overdrive.com/media/235099/the-fellowship-of-the-ring  
+By [J.R.R. Tolkien (*John Ronald Reuel*)](https://en.wikipedia.org/wiki/J._R._R._Tolkien)  (1892 – 1973)  
+
+Reading Notes: See the [Wikipedia summary]() for an outline.  I listened to the audio book and it was great!  I read the book more than 40 years ago and it remains just as entertaining.   [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins), the [One Ring](https://en.wikipedia.org/wiki/One_Ring), [Frodo Baggins](https://en.wikipedia.org/wiki/Frodo_Baggins), [Gandalf](https://en.wikipedia.org/wiki/Gandalf), [Sam Gamgee](https://en.wikipedia.org/wiki/Samwise_Gamgee), [Pippin Took](https://en.wikipedia.org/wiki/Pippin_Took), [Aragorn/Strider](https://en.wikipedia.org/wiki/Aragorn), [Glorfindel](https://en.wikipedia.org/wiki/Glorfindel), [Boromir](https://en.wikipedia.org/wiki/Boromir), [Legolas](https://en.wikipedia.org/wiki/Legolas) and [Gimli](https://en.wikipedia.org/wiki/Gimli_(Middle-earth)) -- and the journey...  
+
+Wikipedia summary: [The Fellowship of the Ring](https://en.wikipedia.org/wiki/The_Fellowship_of_the_Ring).  
 
 </details>
 
@@ -4837,6 +4871,21 @@ See [Wikipedia Summary](https://en.wikipedia.org/wiki/Soldiers'_Pay) and [John B
 also [https://standardebooks.org/ebooks/william-faulkner/soldiers-pay](https://standardebooks.org/ebooks/william-faulkner/soldiers-pay)  
 Librivox Summary:  
 >Soldiers return from the War to a mixed reception in America. The first novel by one of the 20th century's most poetic writers experimenting in stream of consciousness, and adept at dialogue. [Summary by Czandra](https://librivox.org/soldiers-pay-by-william-faulkner/)  NOTE: There are issues of racial stereotypes and derogatory race-related terms in the text of "Soldiers' Pay."
+
+</details>
+
+
+<details><summary><a name="the_souls_of_black_folk_by_w_e_b_du_bois"></a>The Souls of Black Folk: Essays and Sketches. By W. E. B. Du Bois. 1903 </summary>
+
+### The Souls of Black Folk: Essays and Sketches.  
+eBook: https://www.gutenberg.org/ebooks/408  
+This is a widely published book. Other versions are available at your library and/or on [Libby/Overdrive](https://www.overdrive.com/search?q=The%20Souls%20of%20Black%20Folk)  
+ 
+By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
+
+Reading Notes: This is a series of essays on race by Du Bois.  After reading and thinking about it for a while and reading the excellent [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) I recommend that every adult should read this book to help add context to their perceptions of society and culture in the U.S.  Du Bois is a tough, honest historian and careful observer of race relations in the U.S.  The [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk) says that this book also "holds an important place in social science as one of the early works in the field of sociology."  It is a complicated book, that, if you are interested at all, but are hesitating, I recommend that you read the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk), as it is far, far, better than anything that I could produce about this volume.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/The_Souls_of_Black_Folk  
 
 </details>
 
