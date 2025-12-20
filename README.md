@@ -2727,7 +2727,9 @@ Review by the [BookBrowse Team](): https://www.bookbrowse.com/reviews/index.cfm/
 <details><summary><a name="inner_game_of_tennis_timothy_gallwey"></a>The Inner Game of Tennis.  By Timothy Gallwey  1974</summary>
 
 ### The Inner Game of Tennis.  
-https://archive.org/details/innergameoftenni00gall  
+eBook: https://www.overdrive.com/media/12014579/the-inner-game-of-tennis  
+eBook: https://archive.org/details/innergameoftenni00gall  
+Audio: https://www.overdrive.com/media/146536/the-inner-game-of-tennis  
 By [Timothy Gallwey](https://en.wikipedia.org/wiki/Timothy_Gallwey)  published 1974  
 
 Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us too often struggle with nervousness, self doubt, and fear of failure while participating in activities we hope(d) to love and excel at. This book is about ways to strip away some (*and for some, a lot*) of that unproductive thinking while learning about the type of concentration that can support a new level of excellence. This book uses tennis as a vehicle to explore these processes, but it seems useful to those involved in any sport as well as appreciative spectators.  
@@ -2738,14 +2740,14 @@ Reading notes: "*The Inner Game of _______*" takes place in the mind. Many of us
 </details>
 
 
-<details><summary><a name=""></a>Inspector French and the Cheyne Mystery. 1926 </summary>
+<details><summary><a name="inspector_french_and_the_cheyne_mystery_by_freeman_wills_crofts"></a>Inspector French and the Cheyne Mystery. By Freeman Wills Crofts 1926 </summary>
 
 ### Inspector French and the Cheyne Mystery. (8:53:55)  
 Audio: https://librivox.org/inspector-french-and-the-cheyne-mystery-by-freeman-wills-crofts/  
 eBook: https://www.fadedpage.com/showbook.php?pid=20200151  
 By [Freeman Wills Crofts](https://en.wikipedia.org/wiki/Freeman_Wills_Crofts)  (1879 - 1957)  
 
-Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction) good enough to entertain while working in the yard...  
+Reading Notes: Junk [crime fiction](https://en.wikipedia.org/wiki/Crime_fiction) and [detective fiction](https://en.wikipedia.org/wiki/Detective_fiction).  If you can enjoy some late-19th & early-20th century *junk* fiction, this story might be good enough to entertain while working in the yard...  
 
 Wikipedia summary: https://en.wikipedia.org/wiki/The_Cheyne_Mystery  
 Librivox summary:  
