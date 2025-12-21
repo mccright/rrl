@@ -5292,7 +5292,7 @@ eBook: https://babel.hathitrust.org/cgi/pt?id=hvd.hn3jjh&view=1up&seq=15&skin=20
 By [Victor Hugo](https://en.wikipedia.org/wiki/Victor_Hugo)  (1802 - 1885)  
 Translated by [Isabel Florence Hapgood](https://en.wikipedia.org/wiki/Isabel_Florence_Hapgood) (1851 - 1928)  
 
-Reading Notes: In this detailed description of island life, [Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) mines his romantic vision of all segments of [Guernsey](https://en.wikipedia.org/wiki/Guernsey) society.  Overall, this seems like a literary [romance novel](https://en.wikipedia.org/wiki/Romance_novel) with a strong [tragic hero](https://en.wikipedia.org/wiki/Tragic_hero) thread throughout.  See the Wikipedia summary]() for a more detailed summary.  
+Reading Notes: In this detailed description of island life, [Hugo](https://en.wikipedia.org/wiki/Victor_Hugo) mines his romantic vision of all segments of [Guernsey](https://en.wikipedia.org/wiki/Guernsey) society.  Overall, this seems like a literary [romance novel](https://en.wikipedia.org/wiki/Romance_novel) with a strong [tragic hero](https://en.wikipedia.org/wiki/Tragic_hero) thread throughout.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/Toilers_of_the_Sea) for a more detailed summary.  
 Key Characters:  
 * Gilliatt: a fisherman  
 * Mess Lethierry: owner of the ship Durande, the island's first steam ship  
@@ -5316,11 +5316,16 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Toilers_of_the_Sea:
 https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/  
 Text: https://www.fadedpage.com/showbook.php?pid=20210135  
 By [Ernest Hemingway](http://en.wikipedia.org/wiki/Ernest_Hemingway)  (1899 - 1961)  
+
 Reader's Notes: This is an excellent tale read by an excellent performer.  
-Although this book incorporates humor throughout, it was not a *happy* read for me.  It is about a tough time in a tough (*Northwest Michigan*) place and the author expresses his (*or the character's*) energetic prejudices in story-lines that include a Black man and Native Americans.  This story may be hurtful to some readers.  
+Although this book incorporates humor throughout, it was not a *happy* read for me.  It is about a tough time in a tough (*Northwest Michigan*) place and the author expresses his (*or the character's*) energetic racism & prejudices in story-lines that include a Black man and Native Americans.  
+This story, published in 1926, seems representative of its time.  [Felix Harcourt](https://www.austincollege.edu/faculty/~board/dr-felix-harcourt) [argues convincingly](https://www.theguardian.com/world/2018/mar/05/ku-klux-klan-kkk-media-debate) that this was a period of heightened racism & prejudice across the U.S.  For example, [he wrote that](https://academic.oup.com/chicago-scholarship-online/book/21466):  
+>Ku Klux Klan in the 1920s was a movement unified nationally ... around an identity of white Protestant ethnonationalism consumed and reproduced in popular culture. The audience for these entertainments reached far further than simply the organization’s paying membership to encompass a broad imagined community of cultural Klannishness. The white supremacism, anti-Semitism, and anti-Catholicism of the Klan was very much a part and a product of modern American society."  
+In that context, this story may be hurtful to some readers.  
 
 Librivox Summary:  
 >The Torrents of Spring was Hemingway's second novel to be published. It would not be wrong to say that it is unique among the author's work as it is a clear parody of Sherwood Anderson's Dark Laughter and full of absurdist humor. Were Hemingway's name not attached to it, one might wonder who actually wrote the novel. The work is a product of its time and the reader is cautioned that there are uncomfortable portrayals of both a Black man and Native Americans. In truth, no one is treated in a sensitive way. ([Summary by KevinS](https://librivox.org/the-torrents-of-spring-by-ernest-hemingway/))  
+
 Wikipedia Summary:  
 https://en.wikipedia.org/wiki/The_Torrents_of_Spring  
 
