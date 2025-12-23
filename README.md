@@ -41,7 +41,7 @@ Audio: https://www.overdrive.com/media/5295464/1939
 eBook: https://www.overdrive.com/media/5077155/1939  
 By [Frederick Taylor](https://en.wikipedia.org/wiki/Frederick_Taylor_(historian))  (1947 – )  
 
-Reading Notes: Anyone interested in the early stages of [WWII](https://en.wikipedia.org/wiki/World_War_II) should consider this book.  Largely assembled using newspaper and diary content from Germany, [Czechoslovakia](https://en.wikipedia.org/wiki/Second_Czechoslovak_Republic), Poland and England, Taylor builds a broad view into "*people's*" interests and focus as [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) [and his senior team led *his country* into the last moves leading to war with neighbors](https://en.wikipedia.org/wiki/Causes_of_World_War_II).  
+Reading Notes: Anyone interested in the early stages of [WWII](https://en.wikipedia.org/wiki/World_War_II) should consider this book.  Largely assembled using newspaper and diary content from Germany, [Czechoslovakia](https://en.wikipedia.org/wiki/Second_Czechoslovak_Republic), Poland and England, Taylor builds a broad view into "*people's*" interests and focus as [Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) [and his senior team led *his country* through the last moves into war with neighbors](https://en.wikipedia.org/wiki/Causes_of_World_War_II).  
 
 </details>
 
