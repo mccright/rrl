@@ -2498,6 +2498,26 @@ Summary from Librivox:
 </details>
 
 
+<details>
+<summary><a name="the_heaven_n_earth_grocery_store_by_james_mcbride"></a>The Heaven & Earth Grocery Store -- A Novel. By James McBride. 2023
+ </summary>
+
+### The Heaven & Earth Grocery Store -- A Novel.  (12:00)  
+Audio: https://www.overdrive.com/media/9475693/the-heaven-earth-grocery-store  
+eBook: https://www.overdrive.com/media/9476452/the-heaven-earth-grocery-store  
+By [James McBride](https://en.wikipedia.org/wiki/James_McBride_(writer))  (1957 – )  
+
+Reading Notes: What great storytelling!  This is worth your time.  In 1972 Pottstown, Pennsylvania, workers discovered a skeleton in the bottom of a well, but just as an investigation begins all the potential evidence was washed away by Hurricane Agnes...  The rest of the novel explores how those remains found their way into that well in the 1920s and '30s mostly Black and Jewish Chicken Hill neighborhood as well as race and prejudice color American history.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store) and/or the reviews to learn more about the story.  
+
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store](https://en.wikipedia.org/wiki/The_Heaven_%26_Earth_Grocery_Store)  
+Review by [Danez Smith](https://en.wikipedia.org/wiki/Danez_Smith): [nytimes.com/...the-heaven-and-earth-grocery-store-james-mcbride.html](https://www.nytimes.com/2023/08/06/books/review/the-heaven-and-earth-grocery-store-james-mcbride.html)  
+Review by NPR's [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): [npr.org/...james-mcbride-heaven-earth-grocery-store-review](https://www.npr.org/2023/08/14/1188327549/james-mcbride-heaven-earth-grocery-store-review)  
+
+
+</details>
+
+
 <details><summary><a name=""></a>The Hemingses of Monticello -- An American Family. By Annette Gordon-Reed 2008 </summary>
 
 ### The Hemingses of Monticello -- An American Family.  (31:00)  
