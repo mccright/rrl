@@ -2970,6 +2970,22 @@ Librivox Summary:
 </details>
 
 
+<details>
+<summary><a name="krakatoa_by_simon_winchester"></a>Krakatoa -- The Day the World Exploded: August 27, 1883.  By Simon Winchester.  2004/2013 </summary>
+
+### Krakatoa -- The Day the World Exploded: August 27, 1883.  (12:00)  
+Pages: 432  
+Audio: https://www.overdrive.com/media/77129/krakatoa  
+eBook: https://www.overdrive.com/media/466280/krakatoa  
+By [Simon Winchester](https://en.wikipedia.org/wiki/Simon_Winchester)  (1944 – )  
+
+Reading Notes: History at its best!  Winchester examines the annihilation in 1883 of the volcano-island of [Krakatoa](https://en.wikipedia.org/wiki/Krakatoa).  He explores many natural phenomen associated with this event, as well as related science, technology, finance, global trade, insurance, economics, political economy/colonization and more.  
+
+Wikipedia summary: [wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded](https://en.wikipedia.org/wiki/Krakatoa:_The_Day_the_World_Exploded)  
+
+</details>
+
+
 <details><summary><a name="the_lake_by_ray_bradbury"></a>The Lake.  By Ray Bradbury.  1944</summary>
 
 ### The Lake.  By Ray Bradbury.  Weird Tales volume 37, number 05, 1944, pages 76-79  
@@ -4939,6 +4955,19 @@ Reading Notes: This is more 1950s, post-WWII [space opera](https://en.wikipedia.
 
 Librivox Summary:  
 >It was the greatest man hunt in history — and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
+
+</details>
+
+
+<details><summary><a name="the_splendid_and_the_vile_by_erik_larson"></a>The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. By Erik Larson. 2020 </summary>
+
+### The Splendid and the Vile -- A Saga of Churchill, Family, and Defiance During the Blitz. (18:00)  
+Audio: https://www.overdrive.com/media/4825577/the-splendid-and-the-vile  
+eBook: https://www.overdrive.com/media/4941601/the-splendid-and-the-vile  
+By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 – )  
+
+Reading Notes: Largely about the period covering the [Battle of Britain and the Blitz](https://en.wikipedia.org/wiki/Battle_of_Britain).  This history skims many of the personalities within [Churchill](https://en.wikipedia.org/wiki/Winston_Churchill)'s orbit at that time, as well as going deeper on the topics of his less-political/less-governmental activities.  It is an interesting non-fiction book about the time and Churchill, but I still don't understand where it *fits* in historical publication categories.  
+
 
 </details>
 
