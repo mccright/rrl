@@ -5766,14 +5766,14 @@ Audio: https://www.overdrive.com/media/4496399/winter-world
 eBook:   
 By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
 
-Reading Notes: Oversimplification of leading large, diverse organizations; *magic* science and technology, tremendous exaggerations, physics-be-damned, nearly one-dimensional characters, and unwavering optimism about the people of the world working together toward common goals...  But action throughout.  If you like science fiction aaction 'B' movies, maybe this story will be for you.  I am confident that it is not for everyone.  
+Reading Notes: Oversimplification of leading large, diverse organizations; *magic* science and technology, tremendous exaggerations, physics-be-damned, nearly one-dimensional characters, and unwavering optimism about the people of the world working together toward common goals...  But action throughout.  If you like science fiction action 'B' movies, maybe this story will be for you.  I am confident that it is not for everyone.  
 
 Expanded Author's Note for Winter World: https://www.agriddle.com/winter-extras  
 
 </details>
 
 
-<details><summary><a name=""></a>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
+<details><summary><a name="the_woman_in_cabin_10_by_ruth_ware"></a>The Woman in Cabin 10. By Ruth Ware. 2016 </summary>
 
 ### The Woman in Cabin 10. (11:00)  
 Audio: https://www.overdrive.com/media/2560046/the-woman-in-cabin-10  
