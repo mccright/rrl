@@ -743,6 +743,20 @@ Wikipedia Summary/Review: https://en.wikipedia.org/wiki/Aurora_(novel)
 </details>
 
 
+<details>
+<summary><a name="the_aviators_by_winston_groom"></a>The Aviators -- Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight. By Winston Groom. 2013  </summary>
+
+### The Aviators -- Eddie Rickenbacker, Jimmy Doolittle, Charles Lindbergh, and the Epic Age of Flight. (17:00)  
+Audio: https://www.overdrive.com/media/1418113/the-aviators  
+eBook: https://www.overdrive.com/media/1311441/the-aviators  
+By [Winston Groom](https://en.wikipedia.org/wiki/Winston_Groom)  (1943 - 2020)  
+
+Reading Notes: This includes capsule popular *biographies* of [Eddie Rickenbacker](https://en.wikipedia.org/wiki/Eddie_Rickenbacker), [Jimmy Doolittle](https://en.wikipedia.org/wiki/Jimmy_Doolittle) and [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh) -- each of which became self-made avaition leaders by the late 1920s and returned as middle-aged men to military avaition leadership in World War II.  Theirs are interesting stories.  If you don't know much about these three individuals, this book might be an entertaining place to start.  
+
+
+</details>
+
+
 <details><summary>The Awakening. By Kate Chopin, 1900</summary>
 
 ### The Awakening (5:14)  
