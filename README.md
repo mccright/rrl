@@ -3567,6 +3567,27 @@ Short Summary on Wikipedia:
 </details>
 
 
+<details>
+<summary><a name="a_mind_at_play_by_rob_goodman"></a>A Mind at Play -- How Claude Shannon Invented the Information Age. By Jimmy Soni and Rob Goodman. 2017 </summary>
+
+### A Mind at Play -- How Claude Shannon Invented the Information Age. (12:00)  
+Audio: https://www.overdrive.com/media/3351544/a-mind-at-play  
+eBook: https://www.overdrive.com/media/3022337/a-mind-at-play  
+By [Jimmy Soni](https://en.wikipedia.org/wiki/Jimmy_Soni) and [Rob Goodman](https://sites.google.com/view/robgoodman/home) and an [academic bio](https://www.torontomu.ca/politics/people/faculty/goodman-rob/#!accordion-1592331871492-selected-publications)  ( – )  
+
+Reading Notes: In the 20th century [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) contributed influencial intellectual breakthroughs in and created foundational theories for digital computing, high speed communications, cryptanalysis, cryptography, secure communications, information theory and artificial intelligence. This is a biography aimed at non-mathmaticians/non-scientists. If you ever wonder about core ideas that moulded how we came to be surrounded by globally interconnected *everything*, computers of all sizes, bots, mass surveillance, *intelligent* robots, oceans of on-demand streaming entertainment, and culture-crushing social media, you might find this book worth your time.  
+
+[Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) is known for [Information theory](https://en.wikipedia.org/wiki/Information_theory), [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence), [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra), [Binary code](https://en.wikipedia.org/wiki/Binary_code), [Data compression](https://en.wikipedia.org/wiki/Data_compression), [Digital electronics](), [Entropy in information theory](https://en.wikipedia.org/wiki/Entropy_(information_theory)), [Logic gate](https://en.wikipedia.org/wiki/Logic_gate), [Pulse-code modulation](https://en.wikipedia.org/wiki/Pulse-code_modulation), [Sampling](https://en.wikipedia.org/wiki/Sampling_(signal_processing)), [Symmetric-key cryptography](https://en.wikipedia.org/wiki/Symmetric-key_cryptography), [Switching circuit theory](https://en.wikipedia.org/wiki/Switching_circuit_theory), [Units of information](https://en.wikipedia.org/wiki/Units_of_information), [Wearable computer](https://en.wikipedia.org/wiki/Wearable_computer), and more (*see: [his wikipedia entry](https://en.wikipedia.org/wiki/Claude_Shannon)*).  
+
+Wikipedia summary: [wikipedia.org/wiki/A_Mind_at_Play](https://en.wikipedia.org/wiki/A_Mind_at_Play)  
+Blinkist summary: [blinkist.com/.../a-mind-at-play-en](https://www.blinkist.com/en/books/a-mind-at-play-en)  
+Review by [Doug Hellmann](https://doughellmann.com/about-me/): [doughellmann.com/...book-review-a-mind-at-play/](https://doughellmann.com/posts/book-review-a-mind-at-play/)  
+Kirkus Review: [kirkusreviews.com/...a-mind-at-play/](https://www.kirkusreviews.com/book-reviews/jimmy-soni/a-mind-at-play/)  
+
+
+</details>
+
+
 <details><summary><a name="ministry_of_truth_by_steve_benen"></a>Ministry of Truth -- Democracy, Reality, and the Republicans' War on the Recent Past. By Steve Benen. 2024 </summary>
 
 ### Ministry of Truth -- Democracy, Reality, and the Republicans' War on the Recent Past.  (5:38)  
