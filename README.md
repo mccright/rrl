@@ -4602,6 +4602,28 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/Rebecca_(novel)
 </details>
 
 
+<details><summary><a name="recursion_by_blake_crouch"></a>Recursion -- A Novel. By Blake Crouch. 2019  </summary>
+
+### Recursion -- A Novel. (11:00)  
+Audio: https://www.overdrive.com/media/4295342/recursion  
+eBook: https://www.overdrive.com/media/4483738/recursion  
+By [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)  (1978 – )  
+
+Reading Notes: This is a [science fiction](https://en.wikipedia.org/wiki/Science_fiction) [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) that incorporates [time-travel](https://en.wikipedia.org/wiki/Time_travel_in_fiction). Neuroscientist Helena Smith leads a program to understand human memory and mapping the human brain with a goal of helping those with Alzheimer's (like her mother).  With funding from super-wealthy Marcus Slade, they invent the means to harvest individual memories and later inject them.  In a not-very-sciency leap, their efforts also lead to a means of sending individuals back to specific times (*where they begin 'flowing' forward in time again*).  Meyhem ensues.  
+
+Core characters:  
+  * NYPD Detective Barry Sutton.  
+  * Neuroscientist Helena Smith.  
+  * Wealthy philanthropist and inventor named Marcus Slade.  
+
+Review By [Victor LaValle](https://en.wikipedia.org/wiki/Victor_LaValle): [nytimes.com/...recursion-blake-crouch.html](https://www.nytimes.com/2019/06/11/books/review/recursion-blake-crouch.html)  
+Review by [Jennifer Marie Lin](https://www.instagram.com/jennnjennjen): [the-bibliofile.com/recursion/](https://the-bibliofile.com/recursion/)  
+Kirkusreviews: [kirkusreviews.com/.../recursion/](https://www.kirkusreviews.com/book-reviews/blake-crouch/recursion/)  
+Review By [Brittany Shields](https://www.shelfreflection.com/about): [shelfreflection.com/blog/recursion](https://www.shelfreflection.com/blog/recursion)  
+
+</details>
+
+
 <details><summary><a name="red_eagles_by_david_downing"></a>The Red Eagles. By David Downing 2015 (1987) </summary>
 
 ### The Red Eagles.  (7:00)  
