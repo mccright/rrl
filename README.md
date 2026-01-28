@@ -4657,7 +4657,8 @@ Reader's Notes: This book is an extension of the [Tom Clancy](https://en.wikiped
 <details><summary><a name="remote_control_by_nnedi_okorafor"></a>Remote Control. By Nnedi Okorafor.  2021 </summary>
 
 ### Remote Control (4:07)  
-[https://www.overdrive.com/media/5431603/remote-control](https://www.overdrive.com/media/5431603/remote-control)  
+Audio: https://www.overdrive.com/media/5431603/remote-control  
+eBook: https://www.overdrive.com/media/5417162/remote-control  
 By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 --  )  
 
 Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
