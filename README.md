@@ -4530,7 +4530,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
-<details><summary><a name=""></a>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
+<details><summary><a name="private_moscow_by_patterson_and_hamdy"></a>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
 
 ### Private Moscow. (9:00)  
 Audio: https://www.overdrive.com/media/9267936/private-moscow  
@@ -4556,7 +4556,34 @@ This short story was published in Amazing Science Fiction Stories, October 1958.
 </details>
 
 
-<details><summary><a name=""></a>The Quick. By Lauren Owen. 2014 </summary>
+<details><summary><a name="quantum_radio_by_a_g_riddle"></a>Quantum Radio. By A.G. Riddle.  2023  </summary>
+
+### Quantum Radio. (15:00)  
+Audio: https://www.overdrive.com/media/7413526/quantum-radio  
+eBook: https://www.agriddle.com/Quantum-Radio  
+By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
+
+Reading Notes: Quantum physicist Tyson Klein discovers communications sent via actions of sub-atomic particles emitted by a massive particle accelerator.  Oversimplification of influencing others; *magic* science and technology, tremendous exaggerations, physics-be-damned, better than one-dimensional characters (*but still seem largely flat*), and unwavering optimism about the people of the world working together toward common goals...  And frequent "I have a hunch/feeling...just trust me..."  A team of four deliver action throughout.  If you like science fiction action 'B' movies, maybe this story might be for you.  I am confident that it is not for everyone.  
+
+Some of the topics in this story:  
+* World War II.  
+  * Research and development of A*x* rockets at Peenemünde on the island of Usedom on the Baltic coast.  
+* United States Department of Defense (DOD) Defense Advanced Research Projects Agency (DARPA).  
+* The Large Hadron Collider (LHC) at CERN.  
+* Geneva, Switzerland.  
+* Quantum Entanglement.  
+* DARPA Microsystems Technology Office (MTO) Quantum Entanglement Science and Technology project (QuEST).  
+* Then multiverse.  
+* Faster-than-light travel.  
+* Time travel.  
+
+Expanded Author's Note for Quantum Radio: https://www.agriddle.com/qr-facts  
+
+
+</details>
+
+
+<details><summary><a name="the_quick_by_lauren_owen"></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
 Audio: https://www.overdrive.com/media/1330874/the-quick  
