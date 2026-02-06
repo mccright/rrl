@@ -299,6 +299,21 @@ Review by [John Walters](https://johnwalterswriter.com/about/): [https://johnwal
 </details>
 
 
+<details><summary><a name="american_dirt_by_jeanine_cummins"></a>American Dirt -- A Novel.  By Jeanine Cummins. 2020  </summary>
+
+### American Dirt -- A Novel  (17:00)  
+Audio: [https://www.overdrive.com/media/4727757/american-dirt](https://www.overdrive.com/media/4727757/american-dirt-oprahs-book-club)  
+eBook: https://www.overdrive.com/media/4681122/american-dirt  
+By [Jeanine Cummins](https://en.wikipedia.org/wiki/Jeanine_Cummins)  (1974 – )  
+
+Reading Notes: I don't know what to make of this novel.  In a commercial sense this was a wildly popular novel in 2020, which generated *momentum* for years of follow-on sales.  The scale of its visability in the novel marketplace led me to this reading.  Upon finishing and begining to think about these notes, I realized that the writing left me unsettled -- and more clearly aware of my ignorance of topics explored in this story, of the novel writing craft and of the book publishing business.  I read the [Wikipedia summary](https://en.wikipedia.org/wiki/American_Dirt), [Rachelle Hampton](https://www.linkedin.com/in/rachelle-hampton-95355899/)'s [review of reviews](https://slate.com/culture/2020/01/american-dirt-book-controversy-explained.html),  and [Myriam Gurba](https://en.wikipedia.org/wiki/Myriam_Gurba)'s [2019 critique](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) of this novel -- all of which confirmed the depth and scope of my ignorance here (*I need to read more...*).  As a result, I recommend that you read a summary and one or more of the critical reviews (*I think [Gurba's](https://tropicsofmeta.com/2019/12/12/pendeja-you-aint-steinbeck-my-bronca-with-fake-ass-social-justice-literature/) is useful*) and then in that context decide for yourself whether to read this book.  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/American_Dirt  
+
+
+</details>
+
+
 <details><summary><a name="american_spy_lauren_wilkinson"></a>American Spy. By Lauren Wilkinson. 2019 </summary>
 
 ### American Spy. (11:00)  
@@ -4530,7 +4545,7 @@ Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summ
 </details>
 
 
-<details><summary><a name=""></a>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
+<details><summary><a name="private_moscow_by_patterson_and_hamdy"></a>Private Moscow.  By James Patterson and Adam Hamdy. 2020 </summary>
 
 ### Private Moscow. (9:00)  
 Audio: https://www.overdrive.com/media/9267936/private-moscow  
@@ -4556,7 +4571,34 @@ This short story was published in Amazing Science Fiction Stories, October 1958.
 </details>
 
 
-<details><summary><a name=""></a>The Quick. By Lauren Owen. 2014 </summary>
+<details><summary><a name="quantum_radio_by_a_g_riddle"></a>Quantum Radio. By A.G. Riddle.  2023  </summary>
+
+### Quantum Radio. (15:00)  
+Audio: https://www.overdrive.com/media/7413526/quantum-radio  
+eBook: https://www.agriddle.com/Quantum-Radio  
+By [A.G. Riddle](https://www.agriddle.com/about-expanded)  ( – )  
+
+Reading Notes: Quantum physicist Tyson Klein discovers communications sent via actions of sub-atomic particles emitted by a massive particle accelerator.  Oversimplification of influencing others; *magic* science and technology, tremendous exaggerations, physics-be-damned, better than one-dimensional characters (*but still seem largely flat*), and unwavering optimism about the people of the world working together toward common goals...  And frequent "I have a hunch/feeling...just trust me..."  A team of four deliver action throughout.  If you like science fiction action 'B' movies, maybe this story might be for you.  I am confident that it is not for everyone.  
+
+Some of the topics in this story:  
+* World War II.  
+  * Research and development of A*x* rockets at Peenemünde on the island of Usedom on the Baltic coast.  
+* United States Department of Defense (DOD) Defense Advanced Research Projects Agency (DARPA).  
+* The Large Hadron Collider (LHC) at CERN.  
+* Geneva, Switzerland.  
+* Quantum Entanglement.  
+* DARPA Microsystems Technology Office (MTO) Quantum Entanglement Science and Technology project (QuEST).  
+* Then multiverse.  
+* Faster-than-light travel.  
+* Time travel.  
+
+Expanded Author's Note for Quantum Radio: https://www.agriddle.com/qr-facts  
+
+
+</details>
+
+
+<details><summary><a name="the_quick_by_lauren_owen"></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
 Audio: https://www.overdrive.com/media/1330874/the-quick  
