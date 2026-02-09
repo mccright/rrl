@@ -2712,7 +2712,22 @@ DUELING REVIEW by "Jennie:" [https://dearauthor.com/...review-how-high-we-go-in-
 </details>
 
 
-<details><summary><a name=""></a>I Spy. By Natalie Sumner Lincoln, 1916</summary>
+<details><summary><a name="humans_bow_down_by_james_patterson_and_emily_raymond"></a>Humans, Bow Down.  By James Patterson and Emily Raymond. 2016/2017  </summary>
+
+### Humans, Bow Down.  (8:00)  
+Audio: https://www.overdrive.com/media/2890207/humans-bow-down  
+eBook: https://www.overdrive.com/media/2543968/humans-bow-down  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – ) and [Emily Raymond](https://www.bookseriesinorder.com/emily-raymond/) ( - )  
+
+Reading Notes: Robots turned on humankind a decade before the time when the action in this story takes place.  Robots killed all humans except for a relatively small population of *rebels* and a small number of servile collaborators in and around Denver, Colorado.  There are a range of robot types -- from hubots (*"like" humans, but still robots*) to single-purpose implementations not unlike many available today. The scale and speed of the robot *take-over* is never explained and nothing in the book suggested a method or process that would have accomplished the killing of more than 8 billion humans in a matter of days.  None of the *sciencey* ideas are fleshed out and most seem closer to fantasy or unfinished writing than science.  The characters and dialog seemed directed to a [young adult fiction](https://en.wikipedia.org/wiki/Young_adult_literature) audience looking for [speculative fiction](https://en.wikipedia.org/wiki/Speculative_fiction)/[thriller](https://en.wikipedia.org/wiki/Thriller_(genre))/[action](https://en.wikipedia.org/wiki/Action_fiction) stories.  There are a lot of good YA books out there & I don't think that this one offers enough to recommend it to any young person I/you know.  I found no joy in experiencing this book.   
+
+Review by Sebastian Phillips: [concatenation.org/...patterson-humans](http://www.concatenation.org/frev/patterson-humans.html)  
+
+
+</details>
+
+
+<details><summary><a name="i_spy_by_natalie_sumner_lincoln"></a>I Spy. By Natalie Sumner Lincoln, 1916</summary>
 
 ### I Spy  (6:39)  
 https://librivox.org/i-spy-by-natalie-sumner-lincoln/  
