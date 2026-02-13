@@ -2664,6 +2664,37 @@ Review by [Riley Brooks, The Library of Tortuga](https://libraryoftortuga.com/ab
 </details>
 
 
+<details><summary><a name="holdout_a_novel_by_jeffrey_kluger"></a>Holdout -- A Novel. By Jeffrey Kluger. 2021  </summary>
+
+### Holdout -- A Novel. (11:00)  
+Audio: https://www.overdrive.com/media/5851777/holdout  
+eBook: https://www.overdrive.com/media/5852162/holdout  
+By [Jeffrey Kluger](https://en.wikipedia.org/wiki/Jeffrey_Kluger)  (1954 – )  
+
+Reading Notes: Central characters in this story include an immoral U.S. President, a [genocidal](https://en.wikipedia.org/wiki/Genocide) and [ecocidal](https://en.wikipedia.org/wiki/Ecocide) Brazilian President, a diverse set of honorable astronauts and a young medical student serving [indigenous peoples under attack](https://en.wikipedia.org/wiki/Genocide_of_indigenous_peoples) in the Amazon.  The author built a story incorporating political themes that seem probable-enough in 2026 (*considering behaviors of established & rising authoritarian leaders across the globe*), a lot of technical detail about the International Space Station (ISS) and human action that propelled the story forward. Reviews were mixed and *magical* cooperation appears at the end of the story, but my reading of the book seemed like a worthwhile investment.  
+Notable quote:  "I prefer not to."  
+
+```
+Belka “Walli” Beckwith U.S. Navy officer, fighter pilot and astronaut  
+Vasily Zhirov, Russian cosmonaut & ISS station commander  
+Yulian Lebedev, Russian cosmonaut  
+Lee Jasper, U.S. Navy officer, fighter pilot and NASA Capcom engineer  
+Constance Polk, U.S, Attorney General  
+Sonia Peanut, a medical student and volunteer medical assistant  
+Oli, orphaned 5 year old native boy  
+U.S. president  
+Brazilian president  
+```
+
+Review by [Jeff Foust](https://en.wikipedia.org/wiki/Jeff_Foust) & J.Foust [here](http://www.jfoust.com/): [thespacereview.com/article/4277/1](https://www.thespacereview.com/article/4277/1)  
+Review by [John J. Vester](https://x.com/johnjvester2) & [JJV here too](https://www.isfdb.org/cgi-bin/ea.cgi?12352+None): [nss.org/book-review-holdout/](https://nss.org/book-review-holdout/)  
+Kirkus Review: [kirkusreviews.com/...jeffrey-kluger/](https://www.kirkusreviews.com/author/jeffrey-kluger/)  
+Reviews on [GoodReads](https://www.goodreads.com): [goodreads.com/...holdout](https://www.goodreads.com/book/show/53495294-holdout)  
+
+
+</details>
+
+
 <details><summary><a name=""></a>Horse. By Geraldine Brooks. 2022</summary>
 
 ### Horse. (14:06)  
