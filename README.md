@@ -2493,8 +2493,8 @@ Audio: https://www.overdrive.com/media/163463/the-guns-of-august
 eBook: https://www.overdrive.com/media/256490/the-guns-of-august  
 By [Barbara W. Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)  (1912 – 1989)  
 
-Reading Notes: Anyone interested in WWI, military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book.  
-If you know nothing, *or very, very little*, about WWI, then you might want to read a an overview first to give this book some context -- maybe [WWI on Wikipedia](https://en.wikipedia.org/wiki/World_War_I) or if you have only the most fuzzy memory of your high school history class "WWI" then the more specific "[First Battle of the Marne](https://en.wikipedia.org/wiki/First_Battle_of_the_Marne)" on Wikipedia.  
+Reading Notes: Anyone interested in [WWI](https://en.wikipedia.org/wiki/World_War_I), military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book.  
+If you know nothing, *or very, very little* about WWI, then you might want to read a an overview first to give this book some context -- maybe [WWI on Wikipedia](https://en.wikipedia.org/wiki/World_War_I) or if you have only the most fuzzy memory of your high school history class "WWI" then the more specific "[First Battle of the Marne](https://en.wikipedia.org/wiki/First_Battle_of_the_Marne)" on Wikipedia.  
 In **The Guns of August** the author outlines the first month of World War I, supported by military history (*all sides plotting their war for a generation*), capsule histories of each combatant country (*only at war do some emerge from the 19th century*) along wityh social and professional relations of many key military leaders. The author seems to have read the diaries and papers of hundreds of key actors as well as hundreds or thousands of newspapers from the period. The scope is massive. And the writing, genius. For me it was a perfect fit. The author sometimes employs what I think of as an almost "*chatty*" narrative style while engaging in a masterful distillation of complex personalities and relationships with nearly impossible economy.  While this is a "*big book*," it is also a pleasure.  
 See the [Wikipedia page](https://en.wikipedia.org/wiki/The_Guns_of_August) for a more thorough summary of this book.  
 
@@ -2508,7 +2508,7 @@ Some Major Players:
 * [Nicholas II (Nikolai Alexandrovich Romanov)](https://en.wikipedia.org/wiki/Nicholas_II) of [Russia](https://en.wikipedia.org/wiki/Russia) and [Dowager Empress Maria Feodorovna](https://en.wikipedia.org/wiki/Maria_Feodorovna_(Dagmar_of_Denmark)) of Russia  
 * [Sir John French](https://en.wikipedia.org/wiki/John_French,_1st_Earl_of_Ypres) of [Great Britian](https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland)  
 * General [Vladimir Sukhomlinov](https://en.wikipedia.org/wiki/Vladimir_Sukhomlinov) of the [Imperial Russian Army](https://en.wikipedia.org/wiki/Imperial_Russian_Army)  
-... and many more [key players](https://en.wikipedia.org/wiki/The_Guns_of_August#Key_players).  
+... and **many** more [key players](https://en.wikipedia.org/wiki/The_Guns_of_August#Key_players).  
 
 Wikipedia page: https://en.wikipedia.org/wiki/The_Guns_of_August  
 
@@ -2518,12 +2518,12 @@ Wikipedia page: https://en.wikipedia.org/wiki/The_Guns_of_August
 <details><summary><a name="hamnet_by_maggie_ofarrell"></a>Hamnet -- Love in the Time of Plague. By Maggie O'Farrell. 2020 </summary>
 
 ### Hamnet -- Love in the Time of Plague. (13:00)  
-https://www.overdrive.com/media/5067417/hamnet  
+Audio: https://www.overdrive.com/media/5067417/hamnet  
+eBook: https://www.overdrive.com/media/5087047/hamnet  
 By [Maggie O'Farrell](https://en.wikipedia.org/wiki/Maggie_O%27Farrell)  (1972 - __ )  
-https://en.wikipedia.org/wiki/Hamnet_(novel)  
 
-Reader Notes.  Enter one family's world, more than 4 centuries ago.  Maggie O'Farrell delivers the magic (*her expertly-tuned imagination,  skilful editing and what must have been extremely hard work*) of helping the reader join the extended family of William Shakespeare.  The primary lens for this exploration is Agnes (*Anne*) Hathaway -- William Shakespeare is only a minor supporting role.  Marriage, motherhood, power, loss & grief, along with the *daily life* in late 16th century England are made so rich, immediate, intense, and so *real* that it is easy to lose yourself in this story.  In addition to exceptional writing, the reading by [Ell Potter](https://www.beeaudio.com/narrator/ell-potter) seemed a perfect fit.  
-Literary Review by : https://literaryreview.co.uk/love-in-the-time-of-plague-2  
+Reader Notes:  Enter one family's world, more than 4 centuries ago.  Maggie O'Farrell delivers the magic (*her expertly-tuned imagination, skilful editing and what must have been extremely hard work*) of helping the reader join the extended family of William Shakespeare.  The primary lens for this exploration is Agnes (*Anne*) Hathaway -- William Shakespeare is only a minor supporting role.  Marriage, motherhood, power, loss & grief, along with the *daily life* in late 16th century England are made so rich, immediate, intense, and so *real* that it is easy to lose yourself in this story.  In addition to exceptional writing, the reading by [Ell Potter](https://www.beeaudio.com/narrator/ell-potter) seemed a perfect fit.  
+
 Wikipedia Summary: https://en.wikipedia.org/wiki/Hamnet_(novel)  
 Review by Miranda France in the Literary Review: https://literaryreview.co.uk/love-in-the-time-of-plague-2  
 
