@@ -2494,7 +2494,7 @@ eBook: https://www.overdrive.com/media/256490/the-guns-of-august
 By [Barbara W. Tuchman](https://en.wikipedia.org/wiki/Barbara_W._Tuchman)  (1912 – 1989)  
 
 Reading Notes: Anyone interested in [WWI](https://en.wikipedia.org/wiki/World_War_I), military history more broadly, or 19th and early 20th century Western history may find this an interesting and valuable book.  
-If you know nothing, *or very, very little* about WWI, then you might want to read a an overview first to give this book some context -- maybe [WWI on Wikipedia](https://en.wikipedia.org/wiki/World_War_I) or if you have only the most fuzzy memory of your high school history class "WWI" then the more specific "[First Battle of the Marne](https://en.wikipedia.org/wiki/First_Battle_of_the_Marne)" on Wikipedia.  
+If you know nothing, *or very, very little* about WWI, then you might want to read an overview first to give this book some context -- maybe [WWI on Wikipedia](https://en.wikipedia.org/wiki/World_War_I) or if you have only the most fuzzy memory of your high school history class "WWI" then the more specific "[First Battle of the Marne](https://en.wikipedia.org/wiki/First_Battle_of_the_Marne)" on Wikipedia.  
 In **The Guns of August** the author outlines the first month of World War I, supported by military history (*all sides plotting their war for a generation*), capsule histories of each combatant country (*only at war do some emerge from the 19th century*) along wityh social and professional relations of many key military leaders. The author seems to have read the diaries and papers of hundreds of key actors as well as hundreds or thousands of newspapers from the period. The scope is massive. And the writing, genius. For me it was a perfect fit. The author sometimes employs what I think of as an almost "*chatty*" narrative style while engaging in a masterful distillation of complex personalities and relationships with nearly impossible economy.  While this is a "*big book*," it is also a pleasure.  
 See the [Wikipedia page](https://en.wikipedia.org/wiki/The_Guns_of_August) for a more thorough summary of this book.  
 
@@ -5116,6 +5116,20 @@ The interesting biography of William Falconer was more enjoyable than the extens
 **An Universal Dictionary of the Marine.**  1769  
 https://www.gutenberg.org/ebooks/57705  
 By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769)  
+
+
+</details>
+
+
+<details><summary><a name="the_silent_baltic_by_marcus_knox"></a>The Silent Baltic or, Detained Near Kiel. by Marcus Knox. 1914  </summary>
+
+### The Silent Baltic or, Detained Near Kiel.  
+Audio:   
+eBook: https://www.gutenberg.org/ebooks/78033  
+By [Marcus Knox]()  ( – )  
+
+Reading Notes: Knox interviewed a woman about her experience in Germany at the start of [WWI](https://en.wikipedia.org/wiki/World_War_I). This short book is his re-telling of that story.  
+At the beginning of July, 1914, a British woman meets her German friends who live in the little town of [Neustadt](https://en.wikipedia.org/wiki/Neustadt_in_Holstein), near [Kiel](https://en.wikipedia.org/wiki/Kiel) in [Holstein](https://en.wikipedia.org/wiki/Holstein) for a holiday.  Later that month (28 July 1914) Austria-Hungary declared war on Serbia. Shortly after that Russia mobilised in Serbia's defence, and Germany declared war on Russia and France. The story covers her experiences as her locality evolves under pressures of a war-time environment, as well as her escape back to England.  
 
 
 </details>
