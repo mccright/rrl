@@ -1687,6 +1687,30 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="democracy_awakening_by_heather_cox_richardson"></a>Democracy Awakening -- Notes on the State of America. By Heather Cox Richardson. 2023  </summary>
+
+### Democracy Awakening -- Notes on the State of America. (9:00)  
+Audio: https://www.overdrive.com/media/9674380/democracy-awakening  
+eBook: https://www.overdrive.com/media/9580719/democracy-awakening  
+By [Heather Cox Richardson](https://en.wikipedia.org/wiki/Heather_Cox_Richardson)  (1962 – )  
+
+Reading Notes: HCR argues that we need to reclaim a democratic narrative of American history, to re-invest democracy into the language of government and governing, and to dismantle the structures and processes of Christian Nationalism and authoritarianism that have infested the Republican party and the broader Trump base.  
+The first section of the book starts with “Undermining America,” which explores the role of race, class and global events in shaping how Americans viewed their government and elected parties to lead it up to the start of the 2016 election cycle. (*Thank you [Dr. Keisha L. Hoerrner for most of this sentence](https://www.ejournalofpublicaffairs.org/book-review-democracy-awakening-notes-on-the-state-of-america/)*)  
+Part two summarizes how the Trump-45 administration was able to normalize the language and priorities of authoritarianism across its base, into the Republican party, and into many threads of its executive activities, while constructing an alternative U.S. history.  It ties that transformation to Trump's "[Big Lie](https://en.wikipedia.org/wiki/Big_lie)" [about the outcome of the 2020 presidential election](https://en.wikipedia.org/wiki/Big_lie#Donald_Trump's_false_claims_of_a_stolen_election), and builds a foundation for Trump's January 6th attempt to murder U.S. electoral democracy.  
+Part three is a fantastic short summary of American history. It is worth reading even without the first two sections.  
+It includes quotes about Hitler’s manipulation of his followers from a report "A Psychological Analysis Of Adolph Hitler His Life And Legend" [From the [CIA Reading Room](https://www.cia.gov/readingroom/) page 46, search for document number: 02571145] written in 1942/1943 by [Walter C. Langer](https://en.wikipedia.org/wiki/Walter_Charles_Langer), Henry A. Murray, Ernst Kris And Bertram D. Lewin after World War II for the [OSS](https://en.wikipedia.org/wiki/Office_of_Strategic_Services) (*think [CIA](https://en.wikipedia.org/wiki/Central_Intelligence_Agency)*):  
+>"His primary rules were: never allow the public to cool off; never admit a fault or wrong; never concede that there may be some good in your enemy; never leave room for alternatives; never accept blame; concentrate on one enemy at a time and blame him for everything that goes wrong; people will believe a big lie sooner than a little one; and if you repeat it frequently enough people will sooner or later believe it." (*page 46, search for document number: 02571145 [here](https://www.cia.gov/readingroom/) for the OSS report*).  
+...arguing that parroting the authoritarian's lie's becomes a loyalty pledge, even if -- especially if -- you don’t actually believe it... (*which seems to fit the Trump approach to authoritarian leadership*).  
+The author concludes with an argument that the principles outlined in our country's founding documents remain under attack and that we need to actively resist those attacks.  
+
+Review by Dr. Keisha L. Hoerrner: [ejournalofpublicaffairs.org/...democracy-awakening-notes-on-the-state-of-america/](https://www.ejournalofpublicaffairs.org/book-review-democracy-awakening-notes-on-the-state-of-america/)  
+Reviews on GoodReads: https://www.goodreads.com/book/show/90590139-democracy-awakening  
+Other References:  https://heathercoxrichardson.substack.com/p/december-11-2019 and https://heathercoxrichardson.substack.com/p/october-6-2024  
+
+
+</details>
+
+
 <details><summary><a name="devil_in_the_white_city"></a>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
 
 ### The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America.  
