@@ -3652,6 +3652,19 @@ Author's Summary: https://laurencebergreenauthor.com/MarcoPolo
 </details>
 
 
+<details><summary><a name="marian_mcpartlands_jazz_world_by_marian_mcpartland"></a>Marian McPartland's Jazz World --  All in Good Time. By Marian McPartland. 2006  </summary>
+
+### Marian McPartland's Jazz World --  All in Good Time. (9:00)  
+Audio: https://www.overdrive.com/media/106213/marian-mcpartlands-jazz-world  
+eBook: NA  
+By [Marian McPartland](https://en.wikipedia.org/wiki/Marian_McPartland)  ( – )  
+
+Reading Notes: Marian McPartland was an influential English and American [jazz pianist](https://en.wikipedia.org/wiki/Jazz_piano), composer, writer and music educator/champion. She was also the host of [Marian McPartland's Piano Jazz](https://en.wikipedia.org/wiki/Piano_Jazz) on [National Public Radio](https://en.wikipedia.org/wiki/National_Public_Radio) from 1978 to 2011 (*I enjoyed her broadcasts for three decades*).  This audio book is largely a compilation of her writing about [jazz](https://en.wikipedia.org/wiki/Jazz) musicians along with additional commentary/updates by the author at the time of this recording.  It is a great (*yet necessarily abbreviated*) introduction to how some jazz greats thought about music, performing and learning music and a musician's craft. If you make music or listen to music, this audio book might be a good fit.  
+
+
+</details>
+
+
 <details><summary><a name="matrix"></a>Matrix.  By Lauren Groff. 2021</summary>
 
 ### Matrix.  
