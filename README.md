@@ -3620,6 +3620,22 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
+<details><summary><a name="mans_search_for_meaning_by_viktor_e_frankl"></a>Man's Search for Meaning -- An Introduction to Logotherapy. By Viktor E. Frankl. 1959/2010  </summary>
+
+### Man's Search for Meaning -- An Introduction to Logotherapy. (5:00)  
+Audio: https://www.overdrive.com/media/63301/mans-search-for-meaning  
+eBook: https://www.overdrive.com/media/480570/mans-search-for-meaning  
+By [Viktor E. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)  (1905 – 1997)  
+
+Reading Notes: The [Wikipedia Summary of this book](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) is the right place to start -- being much more thorough than my notes below.  
+Viktor Frankl writes about his struggles to find and then hold on to hope during his years as a prisoner in [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps) (1942 through 1945).  His parents, brother, and pregnant wife were killed by Nazis in concentration camps during this period.  Frankl argues that a subset of prisoners were able to connect with a purpose in life about which they felt positive and then acted upon.  That, he went on, affected their longevity.  The first section of the book is Frankl's first person narrative about some of his experiences in Nazi concentration camps.  
+The second section elaborates on the theme of purpose or meaning in life by outlining *[logotherapy](https://en.wikipedia.org/wiki/Logotherapy)*.  The [Wikipedia summary of logotherapy](https://en.wikipedia.org/wiki/Logotherapy) is also a better place to explore that topic than anything I could assemble here.  
+Final quote from the book:  
+>"Since [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp#Selection_and_extermination_process) we know what man is capable of. Since [Hiroshima](https://en.wikipedia.org/wiki/Hiroshima#World_War_II_and_the_atomic_bombing_(1939%E2%80%931945)) we know what is at stake."  
+
+Wikipedia Summary: [wikipedia.org/wiki/Man%27s_Search_for_Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+
+
 <details><summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
 
 ### Marco Polo -- From Venice to Xanadu. (16:30)  
