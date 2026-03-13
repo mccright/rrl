@@ -3620,6 +3620,22 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
+<details><summary><a name="mans_search_for_meaning_by_viktor_e_frankl"></a>Man's Search for Meaning -- An Introduction to Logotherapy. By Viktor E. Frankl. 1959/2010  </summary>
+
+### Man's Search for Meaning -- An Introduction to Logotherapy. (5:00)  
+Audio: https://www.overdrive.com/media/63301/mans-search-for-meaning  
+eBook: https://www.overdrive.com/media/480570/mans-search-for-meaning  
+By [Viktor E. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl)  (1905 – 1997)  
+
+Reading Notes: The [Wikipedia Summary of this book](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning) is the right place to start -- being much more thorough than my notes below.  
+Viktor Frankl writes about his struggles to find and then hold on to hope during his years as a prisoner in [Nazi concentration camps](https://en.wikipedia.org/wiki/Nazi_concentration_camps) (1942 through 1945).  His parents, brother, and pregnant wife were killed by Nazis in concentration camps during this period.  Frankl argues that a subset of prisoners were able to connect with a purpose in life about which they felt positive and then acted upon.  That, he went on, affected their longevity.  The first section of the book is Frankl's first person narrative about some of his experiences in Nazi concentration camps.  
+The second section elaborates on the theme of purpose or meaning in life by outlining *[logotherapy](https://en.wikipedia.org/wiki/Logotherapy)*.  The [Wikipedia summary of logotherapy](https://en.wikipedia.org/wiki/Logotherapy) is also a better place to explore that topic than anything I could assemble here.  
+Final quote from the book:  
+>"Since [Auschwitz](https://en.wikipedia.org/wiki/Auschwitz_concentration_camp#Selection_and_extermination_process) we know what man is capable of. Since [Hiroshima](https://en.wikipedia.org/wiki/Hiroshima#World_War_II_and_the_atomic_bombing_(1939%E2%80%931945)) we know what is at stake."  
+
+Wikipedia Summary: [wikipedia.org/wiki/Man%27s_Search_for_Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
+
+
 <details><summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
 
 ### Marco Polo -- From Venice to Xanadu. (16:30)  
@@ -3647,6 +3663,19 @@ Author's Summary: https://laurencebergreenauthor.com/MarcoPolo
 [OverDrive Summary](https://www.overdrive.com/media/138750/marco-polo):  
 >As the most celebrated European to explore Asia, Marco Polo was the original global traveler and the earliest bridge between East and West. A universal icon of adventure and discovery, he has inspired six centuries of popular fascination and spurious mythology. Now, from acclaimed author Laurence Bergreen, comes the first fully authoritative biography of one of the most enchanting figures in world history. In this masterly work, Marco Polo’s incredible odyssey–along the Silk Road and through all the fantastic circumstances of his life–is chronicled in sumptuous and illuminating detail.  
 >Drawing on original sources in more than half a dozen languages, and his own travels along Polo’s route in China and Mongolia, Bergreen explores the lingering controversies surrounding Polo’s legend, settling age-old questions and testing others for significance. Synthesizing history, biography, and travelogue, this is a timely chronicle of a man who extended the boundaries of human knowledge and imagination. Destined to be the definitive account of its subject for decades to come, Marco Polo takes us on a journey to the limits of history–and beyond.  
+
+
+</details>
+
+
+<details><summary><a name="marian_mcpartlands_jazz_world_by_marian_mcpartland"></a>Marian McPartland's Jazz World --  All in Good Time. By Marian McPartland. 2006  </summary>
+
+### Marian McPartland's Jazz World --  All in Good Time. (9:00)  
+Audio: https://www.overdrive.com/media/106213/marian-mcpartlands-jazz-world  
+eBook: NA  
+By [Marian McPartland](https://en.wikipedia.org/wiki/Marian_McPartland)  ( – )  
+
+Reading Notes: Marian McPartland was an influential English and American [jazz pianist](https://en.wikipedia.org/wiki/Jazz_piano), composer, writer and music educator/champion. She was also the host of [Marian McPartland's Piano Jazz](https://en.wikipedia.org/wiki/Piano_Jazz) on [National Public Radio](https://en.wikipedia.org/wiki/National_Public_Radio) from 1978 to 2011 (*I enjoyed her broadcasts for three decades*).  This audio book is largely a compilation of her writing about [jazz](https://en.wikipedia.org/wiki/Jazz) musicians along with additional commentary/updates by the author at the time of this recording.  It is a great (*yet necessarily abbreviated*) introduction to how some jazz greats thought about music, performing and learning music and a musician's craft. If you make music or listen to music, this audio book might be a good fit.  
 
 
 </details>
