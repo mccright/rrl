@@ -3636,6 +3636,9 @@ Final quote from the book:
 Wikipedia Summary: [wikipedia.org/wiki/Man%27s_Search_for_Meaning](https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning)
 
 
+</details>
+
+
 <details><summary><a name="marco_polo_by_laurence_bergreen"></a>Marco Polo -- From Venice to Xanadu. By Laurence Bergreen. 2007  </summary>
 
 ### Marco Polo -- From Venice to Xanadu. (16:30)  
