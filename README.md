@@ -5883,6 +5883,35 @@ Wikipedia Summary: [https://en.wikipedia.org/wiki/Valis_(novel)](https://en.wiki
 </details>
 
 
+<details><summary><a name="vanderbilt_by_anderson_cooper"></a>Vanderbilt -- The Rise and Fall of an American Dynasty. By Anderson Cooper. 2021  </summary>
+
+### Vanderbilt -- The Rise and Fall of an American Dynasty. (9:00)  
+Audio: https://www.overdrive.com/media/6435021/vanderbilt  
+eBook: https://www.overdrive.com/media/5979076/vanderbilt  
+By [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  (1967 – )  
+
+Reading Notes: An interesting narrative about how generations of Vanderbilts treated each other, lived out their inherited *gifts*, and spent down the riches of the original generation(s) until it was gone.  Some of the main characters include:  
+
+* [Cornelius Vanderbilt](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt)  
+* [Vanderbilt family](https://en.wikipedia.org/wiki/Vanderbilt_family)  
+* [Caroline Schermerhorn Astor](https://en.wikipedia.org/wiki/Caroline_Schermerhorn_Astor)  
+* [Cornelius Vanderbilt II](https://en.wikipedia.org/wiki/Cornelius_Vanderbilt_II) and [The Breakers](https://en.wikipedia.org/wiki/The_Breakers)  
+* [Alice Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Alice_Claypoole_Vanderbilt)  
+* [William Henry Vanderbilt, AKA "Billy"](https://en.wikipedia.org/wiki/William_Henry_Vanderbilt)  
+* [William Kissam Vanderbilt](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt)  
+* [William Kissam Vanderbilt II](https://en.wikipedia.org/wiki/William_Kissam_Vanderbilt_II)  
+* [Harold Stirling Vanderbilt](https://en.wikipedia.org/wiki/Harold_Stirling_Vanderbilt)  
+* [Gertrude Vanderbilt Whitney](https://en.wikipedia.org/wiki/Gertrude_Vanderbilt_Whitney) sculptor, art patron and collector, and founder of the Whitney Museum of American Art, and in 1934 won custody of ten-year-old niece, Gloria Vanderbilt Gloria Vanderbilt and control over her trust fund  
+* [Reginald Claypoole Vanderbilt](https://en.wikipedia.org/wiki/Reginald_Claypoole_Vanderbilt) married [Gloria Morgan](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) when she was 18 years old and he was old enough to be her father, and then died when daughter [Gloria](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) was only 1-year-old  
+* [Gloria Morgan Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Morgan_Vanderbilt) found to be an unfit mother at a trial for custody of her 10-year-old daughter Gloria  
+* [Gloria Vanderbilt](https://en.wikipedia.org/wiki/Gloria_Vanderbilt) *millionaire toddler* and author Anderson Cooper's mother  
+* [Truman Capote](https://en.wikipedia.org/wiki/Gloria_Vanderbilt)  
+* [Anderson Cooper](https://en.wikipedia.org/wiki/Anderson_Cooper)  
+
+
+</details>
+
+
 <details><summary><a name=""></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
 
 ### Veronica Ruiz Breaks the Bank. (2:27)  
@@ -6296,23 +6325,6 @@ Reading Notes:
 
 
 
-
-
-<details>
-<summary><a name="do_i_know_you_by_sadie_dingfelder"></a>Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination. By Sadie Dingfelder 2024 </summary>
-
-### Do I Know You? -- A Faceblind Reporter's Journey into the Science of Sight, Memory, and Imagination.  
-Audio: https://www.overdrive.com/media/10180478/do-i-know-you  
-eBook: https://www.overdrive.com/media/10180708/do-i-know-you  
-By [Sadie Dingfelder](https://www.sadied.com/about)  ( – )  
-
-Reading Notes:   
-
-
-</details>
-
-
-
 <details>
 <summary><a name="last_and_first_men_by_olaf_stapledon"></a>Last and first men -- SF Masterworks,11.  By Olaf Stapledon. </summary>
 
@@ -6337,47 +6349,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men
 
 
 
-
-<details>
-<summary>Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication. By Robert W. Gehl and Sean T. Lawson.  2022 </summary>
-
-### Social Engineering -- How Crowdmasters, Phreaks, Hackers, and Trolls Created a New Form of Manipulative Communication.  
-eBook: https://direct.mit.edu/books/oa-monograph/5281/Social-EngineeringHow-Crowdmasters-Phreaks-Hackers  
-and https://www.overdrive.com/media/6271554/social-engineering  
-and https://directory.doabooks.org/handle/20.500.12854/84609  
-By [Robert W. Gehl](https://www.robertwgehl.org/?styleSheetSelection=default) and [Sean T. Lawson](https://faculty.utah.edu/u0620099-SEAN_T_LAWSON/hm/index.hml)  2022, 342 pages  
-
-Reading notes:  
-
-Summary from MIT Press:
->Manipulative communication—from early twentieth-century propaganda to today's online con artistry—examined through the lens of social engineering.  
->The United States is awash in manipulated information about everything from election results to the effectiveness of medical treatments. Corporate social media is an especially good channel for manipulative communication, with Facebook a particularly willing vehicle for it. In Social Engineering, Robert Gehl and Sean Lawson show that online misinformation has its roots in earlier techniques: mass social engineering of the early twentieth century and interpersonal hacker social engineering of the 1970s, converging today into what they call “masspersonal social engineering.” As Gehl and Lawson trace contemporary manipulative communication back to earlier forms of social engineering, possibilities for amelioration become clearer.  
->The authors show how specific manipulative communication practices are a mixture of information gathering, deception, and truth-indifferent statements, all with the instrumental goal of getting people to take actions the social engineer wants them to. Yet the term “fake news,” they claim, reduces everything to a true/false binary that fails to encompass the complexity of manipulative communication or to map onto many of its practices. They pay special attention to concepts and terms used by hacker social engineers, including the hacker concept of “bullshitting,” which the authors describe as a truth-indifferent mix of deception, accuracy, and sociability. They conclude with recommendations for how society can undermine masspersonal social engineering and move toward healthier democratic deliberation.  
-
-</details>
-
-
-
-<details>
-<summary>The Secret Agent: A Simple Tale. By Joseph Conrad. 1907 </summary>
-
-### The Secret Agent: A Simple Tale.  
-Audio: https://librivox.org/the-secret-agent-by-joseph-conrad/ (9:53)  
-Audio (version 2): https://librivox.org/the-secret-agent-by-joseph-conrad-2/ (9:49)  
-Audio (version 3): https://librivox.org/the-secret-agent-version-3-by-joseph-conrad/ (10:14)  
-eBook: https://www.gutenberg.org/ebooks/974  
-By [Joseph Conrad](https://en.wikipedia.org/wiki/Joseph_Conrad)  (1857 – 1924)  
-
-Reading Notes:  
-
-Short summary on Wikipedia:  
->Mr. Verloc, The Secret Agent (1906) of divided loyalties, attempts a bombing, to be blamed on terrorists, that accidentally kills his mentally defective brother-in-law Stevie, and Verloc himself is killed by his distraught wife, who drowns herself by jumping overboard from a channel steamer. [From this section](https://en.wikipedia.org/wiki/Joseph_Conrad#Themes_and_style)  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Secret_Agent  
-
-</details>
-
-
 <details>
 <summary>The Tourist. By Robert Dickinson. 2016 </summary>
 
@@ -6389,95 +6360,6 @@ By [Robert Dickinson](https://sf-encyclopedia.com/entry/dickinson_robert)  (1962
 Reading Notes: I couldn't persist my interest in this story and returned the book to Libby/OverDrive...  
 
 See a November 4, 2016 review by Stevie Kincade on: https://www.goodreads.com/book/show/29467314-the-tourist  
-
-</details>
-
-
-<details>
-<summary>Loving the Dead and Gone. By Judith Turner-Yamamoto. 2022 </summary>
-
-### Loving the Dead and Gone. (:)  
-Audio: https://www.overdrive.com/media/9101292/loving-the-dead-and-gone  
-eBook: https://www.overdrive.com/media/8092507/loving-the-dead-and-gone  
-By [Judith Turner-Yamamoto](https://turneryamamoto.com/about/)  ( – )  
-
-Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Magic Mountain. By Thomas Mann  1927 </summary>
-
-### The Magic Mountain. (34:56)  
-Audio: (Volume One, 16:20) https://librivox.org/the-magic-mountain-vol1-by-thomas-mann/ and  https://librivox.org/the-magic-mountain-volume-two-by-thomas-mann/ (Volume Two, 18:36)  
-eBook: https://archive.org/details/magicmountainder1946mann/page/n7/mode/2up  
-By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann)  (1875 - 1955)  
-Translated by [Helen Tracy Lowe-Porter](https://en.wikipedia.org/wiki/Helen_Tracy_Lowe-Porter) (1876 - 1963)  
-
-Reading Notes:  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/The_Magic_Mountain  
-
-</details>
-
-
-<details>
-<summary>Buddenbrooks. By Thomas Mann  1901 </summary>
-
-### Buddenbrooks.  (29:09)    
-Audio: https://librivox.org/buddenbrooks-by-thomas-mann/  
-eBook: https://babel.hathitrust.org/cgi/pt?id=mdp.39015015389532&view=1up&seq=2&skin=2021  
-By [Thomas Mann](http://en.wikipedia.org/wiki/Thomas_Mann)  (1875 - 1955)  
-Translated by [Helen Tracy Lowe-Porter](https://en.wikipedia.org/wiki/Helen_Tracy_Lowe-Porter) (1876 - 1963)  
-
-Reading Notes:  
-
-Wikipedia Summary: https://en.wikipedia.org/wiki/Buddenbrooks  
-
-</details>
-
-
-<details>
-<summary>The Exchange: After the Firm. By John Grisham. 2023 </summary>
-
-### The Exchange: After the Firm. (9:00)  
-Audio: https://www.overdrive.com/media/9703516/the-exchange  
-eBook: https://www.overdrive.com/media/9704022/the-exchange  
-By [John Grisham](https://en.wikipedia.org/wiki/John_Grisham)  (1955 – )  
-
-Reading Notes:  Sequel of ‘[The Firm](https://en.wikipedia.org/wiki/The_Firm_(novel))’ (1991). 
-
-Review by Karin Tanabe: [https://www.washingtonpost.com/...john-grisham-the-firm-sequel/](https://www.washingtonpost.com/books/2023/10/18/john-grisham-the-firm-sequel/)  
-Wikipedia summary: https://en.wikipedia.org/wiki/The_Exchange:_After_The_Firm  
-BookMarks' summary of reviews: https://bookmarks.reviews/reviews/the-exchange-after-the-firm/  
-
-</details>
-
-
-
-<details>
-<summary>Playground. By Richard Powers. 2024 </summary>
-
-### Playground. (:)  
-Audio: https://www.overdrive.com/media/10590127/playground  
-eBook: https://www.overdrive.com/media/10480327/playground  
-By [Richard Powers](https://en.wikipedia.org/wiki/Richard_Powers)  (1957 – )  
-
-Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>The Life of Oscar Wilde. By Robert Sherard.  </summary>
-
-### The Life of Oscar Wilde (11:38)  
-Audio: https://librivox.org/the-life-of-oscar-wilde-by-robert-sherard/  
-eBook: https://archive.org/details/lifeofoscarwilde00sher  
-By [Robert Sherard](http://en.wikipedia.org/wiki/Robert_Sherard)  (1861 - 1943)  
-
-Reading Notes:  
 
 </details>
 
@@ -6574,18 +6456,25 @@ Wikipedia: [https://en.wikipedia.org/wiki/Jack_Ryan_(character)](https://en.wiki
 
 </details>
 
+
+<details>
+<summary>Work through the MurderBot Diaries series. 2018 through today. </summary>
+
+### The MurderBot Diaries  
+
 See the rest of the [MurderBot Diaries series](https://en.wikipedia.org/wiki/The_Murderbot_Diaries):  
-* [Artificial Condition](https://www.overdrive.com/media/3954857/artificial-condition)   (May 8, 2018)  
-* [Rogue Protocol](https://www.overdrive.com/media/4200634/rogue-protocol)         (August 7, 2018)  
-* [Exit Strategy](https://www.overdrive.com/media/4294677/exit-strategy)          (October 2, 2018)  
+* [Artificial Condition](https://www.overdrive.com/media/3954857/artificial-condition)   (May 8, 2018) -- Done  
+* [Rogue Protocol](https://www.overdrive.com/media/4200634/rogue-protocol)         (August 7, 2018) -- Done  
+* [Exit Strategy](https://www.overdrive.com/media/4294677/exit-strategy)          (October 2, 2018) -- Done  
 * [Fugitive Telemetry](https://www.overdrive.com/media/5821063/fugitive-telemetry)     (April 27, 2021)  
 * [Network Effect](https://www.overdrive.com/media/5329911/network-effect) & *[Wikipedia](https://en.wikipedia.org/wiki/Network_Effect_(novel))*     (May 2, 2020)  
 * [System Collapse](https://www.overdrive.com/media/9765114/system-collapse)        (November 14, 2023)  
 
+</details>
 
 
 <details>
-<summary>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
+<summary><a name="making_of_the_atomic_bomb_25th_by_richard_rhodes"></a>Making of the Atomic Bomb -- 25th Anniversary Edition. By Richard Rhodes. 2016 (1986) </summary>
 
 ### Making of the Atomic Bomb.  
 Audio: https://www.overdrive.com/media/657572/making-of-the-atomic-bomb  
@@ -6613,7 +6502,7 @@ or any novel by [Anita Brookner](https://en.wikipedia.org/wiki/Anita_Brookner) (
 
 
 <details>
-<summary>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
+<summary><a name="the_re_creation_of_brian_kent_by_harold_bell_wright"></a>The Re-creation of Brian Kent. By Harold Bell Wright. 1919 </summary>
 
 ### The Re-creation of Brian Kent. (7:36)  
 Audio: https://librivox.org/the-re-creation-of-brian-kent-by-harold-bell-wright/  
@@ -6629,78 +6518,7 @@ Librivox Summary:
 
 
 <details>
-<summary>Mr. Weston's Good Wine. By T. F. Powys. 1927 </summary>
-
-### Mr. Weston's Good Wine. (7:45:16)  
-Audio: https://librivox.org/mr-westons-good-wine-by-t-f-powys/  
-eBook: https://archive.org/details/dli.ministry.17483/page/n7/mode/2up    
-By [T. F. Powys](https://en.wikipedia.org/wiki/T._F._Powys)  (1875 - 1953)  
-
-Reading Notes:  
-
-Wikipedia summary: https://en.wikipedia.org/wiki/Mr._Weston's_Good_Wine  
-Librivox summary:  
->This 1927 novel describes an evening in 1923 when Mr. Weston, who is apparently a wine merchant, but is evidently God, visits the fictional village of Folly Down in Dorset, and meets some of its individuals, whose backgrounds and lives leading up to this day are described during the course of the novel. Mr. Weston's colleague is named Michael, which is an allusion to the Archangel. For a while time stands still, and these individuals, according to their possessing qualities of good or evil, find their ultimate reward. - Summary by [Wikipedia and David Wales](https://librivox.org/mr-westons-good-wine-by-t-f-powys/).  
-
-</details>
-
-
-<details>
-<summary>One or more of the Lionel Shriver novels below: </summary>
-
-<details>
-<summary>Mania. By Lionel Shriver. 2024 </summary>
-
-### Mania. (??:??)  
-Audio: https://www.overdrive.com/media/9974774/mania  
-eBook: https://www.overdrive.com/media/9974850/mania  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-Harper. 288 pp.  
-
-Reading Notes:  
-Review by [Maureen Corrigan](https://en.wikipedia.org/wiki/Maureen_Corrigan): "[Lionel Shriver pokes fun at woke culture, again](https://wapo.st/3xrKIgU)."
-
-</details>
-
-
-<details>
-<summary>So Much for That. By Lionel Shriver. 2010 </summary>
-
-### So Much for That. (??:??)  
-eBook: https://www.overdrive.com/media/291503/so-much-for-that  
-Audio: https://www.overdrive.com/media/291355/so-much-for-that  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-Harper. 436 pp.
-OverDrive Summary: 
->... a searing, deeply humane novel about a crumbling marriage resurrected in the face of illness, and a family's struggle to come to terms with disease, dying, and the obscene cost of medical care in modern America.  
-Reading Notes:  
-Review by [Leah Hager Cohen](https://en.wikipedia.org/wiki/Leah_Hager_Cohen) (*and [here](https://www.leahhagercohen.com/about)*): "[Pre-existing Conditions](https://www.nytimes.com/2010/03/14/books/review/Cohen-t.html)."  
-Review by [Heller McAlpin](): "['So Much' For Paradise: Battered By Bad Insurance](https://www.npr.org/2010/03/18/124762885/so-much-for-paradise-battered-by-bad-insurance)."  
-
-</details>
-
-
-<details>
-<summary>The Mandibles. A Family, 2029-2047. By Lionel Shriver. 2016  </summary>
-
-### The Mandibles. A Family, 2029-2047. (??:??)  
-eBook: https://www.overdrive.com/media/2486094/the-mandibles  
-Audio: https://www.overdrive.com/media/2466085/the-mandibles  
-By [Lionel Shriver](https://en.wikipedia.org/wiki/Lionel_Shriver)  (1957 – )  
-
-OverDrive Summary:  
->In 2029, the United States is engaged in a bloodless world war that will wipe out the savings of millions of American families. Overnight, on the international currency exchange, the "almighty dollar" plummets in value, to be replaced by a new global currency, the "bancor." In retaliation, the president declares that America will default on its loans. "Deadbeat Nation" being unable to borrow, the government prints money to cover its bills. What little remains to savers is rapidly eaten away by runaway inflation.  
->The Mandibles have been counting on a sizable fortune filtering down when their ninety-seven-year-old patriarch dies. Once the inheritance turns to ash, each family member must contend with disappointment, but also—as the U.S. economy spirals into dysfunction—the challenge of sheer survival.  
->Recently affluent, Avery is petulant that she can't buy olive oil, while her sister, Florence, absorbs strays into her cramped household. An expat author, their aunt, Nollie, returns from abroad at seventy-three to a country that's unrecognizable. Her brother, Carter, fumes at caring for their demented stepmother, now that an assisted living facility isn't affordable. Only Florence's oddball teenage son, Willing, an economics autodidact, will save this formerly august American family from the streets.  
->The Mandibles is about money. Thus it is necessarily about bitterness, rivalry, and selfishness—but also about surreal generosity, sacrifice, and transformative adaptation to changing circumstances.  
-
-</details>
-
-</details>
-
-
-<details>
-<summary>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
+<summary><a name="the_hunter_by_tana_french"></a>The Hunter -- A Novel · Cal Hooper.  By Tana French. 2024 </summary>
 
 ### The Hunter -- A Novel · Cal Hooper. ()  
 Audio: https://www.overdrive.com/media/9951409/the-hunter  
@@ -6732,66 +6550,6 @@ Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://
 
 
 <details>
-<summary>Deep Freeze. By Michael C. Grumley. 2024 </summary>
-
-### Deep Freeze.  
-Audio: https://www.overdrive.com/media/9790834/deep-freeze  
-eBook: https://www.overdrive.com/media/9790977/deep-freeze  
-
-By [Michael C. Grumley](https://michaelgrumley.com/about)  ( – )  
-
-Reading Notes:  
-
-OverDrive [Summary]():  
->The accident came quickly. With no warning. In the dead of night, a precipitous plunge into a freezing river trapped everyone inside the bus. It was then that Army veteran John Reiff's life came to an end. Extinguished in the sudden rush of frigid water.  There was no expectation of survival. None. Let alone waking up beneath blinding hospital lights. Struggling to move, or see, or even breathe. But the doctors assure him that everything is normal. That things will improve. And yet, he has a strange feeling that there's something they're not telling him. As Reiff's mind and body gradually recover, he becomes certain that the doctors are lying to him. One-by-one, puzzle pieces are slowly falling into place, and he soon realizes that things are not at all what they seem. Critical information is being kept from him. Secrets. Supposedly for his own good. But who is doing this? Why? And the most important question: can he keep himself alive long enough to uncover the truth?  
-
-</details>
-
-
-
-  
-<details>
-<summary>The Midnight Library -- A Novel. By Matt Haig 2020 </summary>
-
-### The Midnight Library -- A Novel  
-Audio: https://www.overdrive.com/media/5328992/the-midnight-library  
-eBook: https://www.overdrive.com/media/5305833/the-midnight-library  
-By [Matt Haig]()  ( – )  
-
-Reading Notes:  
-
-</details>
-
-
-<details>
-<summary>Half American. By Matthew F. Delmont. 2022</summary>
-
-### Half American: The Epic Story of African Americans Fighting World War II at Home and Abroad.  
-Audio: https://www.overdrive.com/media/8720855/half-american  
-ebook: https://www.overdrive.com/media/8232090/half-american  
-By [Matthew F. Delmont](https://en.wikipedia.org/wiki/Matt_Delmont), [https://history.dartmouth.edu/people/matthew-f-delmont](https://history.dartmouth.edu/people/matthew-f-delmont), also at [https://mattdelmont.com/](https://mattdelmont.com/) and [https://next.dartmouth.edu/matt-delmont](https://next.dartmouth.edu/matt-delmont) and Twitter: [@mattdelmont](https://twitter.com/mattdelmont)  
-
-Reader notes:  
-Some of Dr. Delmont's other writing is available at: [https://www.bunkhistory.org/authors/matthew-f-delmont](https://www.bunkhistory.org/authors/matthew-f-delmont)  
-
-</details>
-
-
-
-
-<details>
-<summary>The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. By Tim Alberta 2023</summary>
-
-### The Kingdom, The Power and the Glory: American Evangelicals in An Age of Extremism. ()  
-Audio: https://www.overdrive.com/media/9597271/the-kingdom-the-power-and-the-glory  
-Ebook: https://www.overdrive.com/media/9599368/the-kingdom-the-power-and-the-glory  
-By [Tim Alberta]() ( - )  
-
-</details>
-
-
-
-<details>
 <summary>Is Shakespeare Dead? By Mark Twain.  1909</summary>
 
 ### Is Shakespeare Dead? (2:57)  
@@ -6807,26 +6565,9 @@ Librivox Summary:
 
 
 <details>
-<summary>A Magician Among the Spirits.  By Harry Houdini and C. M. Eddy, Jr.  1924</summary>
+<summary><a name="mars_series"></a>Also, look at and pick one of these SiFi novels... </summary>
 
-### A Magician Among the Spirits. (11:03)  
-https://librivox.org/magician-among-the-spirits-by-harry-houdini/  
-Text:  https://www.gutenberg.org/ebooks/66451  
-By [Harry Houdini](https://en.wikipedia.org/wiki/Harry_Houdini) (1874 - 1926) and [Clifford Martin Eddy Jr. (C. M. Eddy, Jr.)](https://en.wikipedia.org/wiki/C._M._Eddy_Jr.) (1896 - 1967)  
-
-Librivox Summary:  
->Houdini, an escape artist and illusionist, became interested later in his life in debunking spiritualists, disbelieving anyone who claimed to have supernatural powers. This was during an era where paranormal phenomena, especially seances, were extremely popular. Although skeptical of their claims, he longed to find a credible source to communicate with family members he had lost. This book chronicles his travels and the many people he spoke with and his observations of their 'powers' and along the way also reveals many of the tricks they employed to deceive their paying customers. ([Summary by Phyllis Vincelli](https://librivox.org/magician-among-the-spirits-by-harry-houdini/))  
-
-</details>
-
-
-
-<a name="mars_series"></a>
-
-<details>
-<summary>Also, look at and pick one of these SiFi novels... </summary>
-
-Mars Series by Kim Stanley Robinson  
+**Mars Series** by Kim Stanley Robinson:  
 Red Mars.  2000  
 (Mars Series, Book 1)  
 https://www.overdrive.com/media/2902090/red-mars  
@@ -6840,6 +6581,7 @@ Blue Mars. 2002
 https://www.overdrive.com/media/2674467/blue-mars  
 
 
+**The Final Architecture Series** by Adrian Tchaikovsky:  
 Shards of Earth.  By Adrian Tchaikovsky.  2021  
 (part of "The Final Architecture" series)  
 https://www.overdrive.com/media/5715429/shards-of-earth  
@@ -6851,6 +6593,8 @@ Eyes of the Void.  By Adrian Tchaikovsky.  2022
 https://www.overdrive.com/media/6663885/eyes-of-the-void  
 By Adrian Tchaikovsky  
 
+
+**The Protectorate Series** by Megan E. O'Keefe:  
 The Blighted Stars. By Megan E. O'Keefe  
 https://www.goodreads.com/book/show/58340705-the-blighted-stars  
 
@@ -6867,6 +6611,7 @@ Catalyst Gate. By Megan E. O'Keefe  2021
 (part of "The Protectorate" series)  
 https://www.overdrive.com/media/5826946/catalyst-gate  
 https://www.goodreads.com/book/show/55836835-catalyst-gate  
+
 
 Eversion.  By Alastair Reynolds  
 https://www.goodreads.com/book/show/58727132-eversion  
@@ -6885,10 +6630,12 @@ Saturn Run.  By John Sandford, Ctein.  2015
 (17:00)  
 
 Burning Paradise. By Robert Charles Wilson. 2013  
-(12:00)  
+https://www.overdrive.com/media/1425212/burning-paradise  (12:00)  
+https://www.overdrive.com/media/1330912/burning-paradise  
 
 A Murder in Time. By Julie McElwain.  2016  
-(19:00)  
+https://www.overdrive.com/media/3177108/a-murder-in-time  (19:00)  
+https://www.overdrive.com/media/2632520/a-murder-in-time  
 
 The Lost Apothecary: A Novel. By Sarah Penner. 2021  
 (10:18)  
@@ -6911,53 +6658,12 @@ By the [United States House of Representatives](https://en.wikipedia.org/wiki/Un
 Archived Jan 6th Committee web site: https://www.webharvest.gov/congress117th/20221224173221/https://january6th.house.gov  
 >This report will provide greater detail about the multi-step effort devised and driven by Donald Trump to overturn the 2020 election and block the transfer of power. Building on the information presented in our hearings earlier this year, we will present new findings about Trump’s pressure campaign on officials from the local level all the way up to his Vice President, orchestrated and designed solely to throw out the will of the voters and keep him in office past the end of his elected term  (Summary by [Bennie G Thompson](https://en.wikipedia.org/wiki/Bennie_Thompson))  
 
-</details>
+* As I write this in March 2026 Trump continues his efforts to sow chaos by claiming (*without any evidence, but with a galaxy of lies*) that the 2020 presidential election was stolen from him...  
 
-
-<details>
-<summary>The Seven Stairs.  1962 </summary>  
-
-### The Seven Stairs.  (7:13)  
-https://librivox.org/the-seven-stairs-by-stuart-brent/  
-Text: https://www.gutenberg.org/ebooks/69175  
-By [Stuart Brent](https://stuartbrent.com/pages/about-stuart-and-the-brent-family) (1912 - 2010)  
-
-Reader's Notes:  
-
-Librivox and Other 3rd Party Summaries:  
-Librivox Summary:  
->An Autobiography of Stuart Brent, who in 1946 followed his bliss and opened an independent bookstore in Chicago, which became very popular and highly regarded. Filled with stories and anecdotes of rubbing elbows with celebrities, starting a weekly TV show in which he reviewed books, along with the challenges of finding balance with raising a family. A must read for lovers and supporters of those quirky independent bookstores. - ([Summary by Phyllis Vincelli](https://librivox.org/the-seven-stairs-by-stuart-brent/)  
 
 </details>
 
 
-
-<details><summary>The Nature and Authority of Conscience. By Rufus Jones. 1920 </summary>
-
-### The Nature and Authority of Conscience. (1:48)  
-https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/  
-Text: https://archive.org/details/thenatureandauth00joneuoft/page/n5/mode/2up  
-Text#2: https://babel.hathitrust.org/cgi/pt?id=yale.39002088440970&view=1up&seq=5  
-By [Rufus Jones](https://en.wikipedia.org/wiki/Rufus_Jones_(writer))  (1863 - 1948)  
-
-Reader's Notes:  
-
-Librivox Summary:  
->Rufus Matthew Jones (January 25, 1863 – June 16, 1948) was an American religious leader, writer, magazine editor, philosopher, and college professor. He was instrumental in the establishment of the Haverford Emergency Unit (a precursor to the American Friends Service Committee). One of the most influential Quakers of the 20th century, he was a Quaker historian and theologian as well as a philosopher. In 1917 he helped found the American Friends Service Committee. This work was delivered as a Swarthmore Lecture in August 1920 and was printed by the Swarthmore Press Ltd. ([Summary by Wikipedia & John Greenman](https://librivox.org/the-nature-and-authority-of-conscience-by-rufus-jones/))  
-
-</details>
-
-
-
-<details><summary>His Name Is George Floyd. By Toluse Olorunnipa.  2022</summary>
-
-### His Name Is George Floyd: One Man's Life and the Struggle for Racial Justice  
-https://www.overdrive.com/media/7617512/his-name-is-george-floyd  
-By **[Toluse Olorunnipa](http://toluse.com/),  [Dion Graham](https://www.audible.com/search?pageSize=40&searchNarrator=Dion+Graham&sort=pubdate-desc-rank&ref=a_search_c1_sort_1&pf_rd_p=073d8370-97e5-4b7b-be04-aa06cf22d7dd&pf_rd_r=11N5W68CGTY6CPD4W58F) and [Robert Samuels](https://www.washingtonpost.com/people/robert-samuels/)**, Penguin Random House Audio Publishing Group, 2022  
-
-</details>
-
-</details>
 
 <details><summary>Recommended Books 2000 - 2010. By Francine Prose, Washington Post.  2022</summary>
 
