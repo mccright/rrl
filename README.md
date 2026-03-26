@@ -2273,6 +2273,56 @@ Reading Notes: This collection of poetry received [accolades from a range of ins
 </details>
 
 
+<details><summary><a name="frontier_ballads_by_joseph_mills_hanson"></a>Frontier Ballads. By Joseph Mills Hanson. 1910 </summary>
+
+### Frontier Ballads. (5:02)  
+Audio: [https://archive.org/.../frontier_ballads_by_joseph_mills_hanson.mp3](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3)  
+eBook: https://www.gutenberg.org/ebooks/45240  
+By [Joseph Mills Hanson](https://www.sdhspress.com/journal/south-dakota-history-44-2/dakota-images-joseph-mills-hanson/dakota-images_joseph-mills-hanson_4402.pdf) and his [papers](https://archives.usd.edu/repositories/2/resources/25)  (1876 - 1960)  
+
+Reading Notes:  This poetry was written before 1910, in a time long before the Internet and social media, and appears to target readers (*and maybe listeners*) having attention spans less common today.  In that context, though, there are some clever and sometimes unexpected rhymes and word-play which might make this useful and entertaining for some.  The poetry may also provide a unique window into late 19th century views of mid-century American culture.  
+The [audio version](https://archive.org/download/synapseml_gutenberg_frontier_ballads_by_joseph_mills_hanson/frontier_ballads_by_joseph_mills_hanson.mp3) (both the voice and editing) may diminish your experience of this collection.  It helped me to follow along with the [ebook](https://www.gutenberg.org/ebooks/45240).  
+
+"Soldier Songs" section employs a mix of heroic, romantic and *realistic* descriptive imagery as it describes soldier's experiences on the northern plains.  It often focuses on military "action" against Native Americans *rationalized* using the vocabulary of [Manifest Destiny](https://en.wikipedia.org/wiki/Manifest_destiny). It uses language and describes activities that may offend many.  
+
+#### Songs/Poetry:  
+**MY CREED**  
+**I. SOLDIER SONGS**  
+* Dakota Militia 
+* The Girl Of The Yankton Stockade  
+* The Ballad Of Sergeant Ross  
+* The Springfield Calibre Fifty  
+* A Garrison Christmas  
+* Troop Horses  
+* A Khaki Kick  
+* Sergeant Noonan Explains  
+* Laramie Trail  
+
+**II. PRAIRIE SONGS**  
+* The Call Of The Wind  
+* The Fur Traders  
+* Cowboy Song  
+* Christmas Eve At Kimball  
+* A Lament  
+* Jesus Garcia (*the engineer*)  
+* A Christmas Letter  
+* The Coyoteville Peace Meeting  
+* The Song Of The Winchester  
+* Prairie Fire  
+
+**III. RIVER SONGS**  
+* The Missouri  
+* The Old Carry  
+* Jake Dale  
+* The Engineer Of The "Golden Hind"  
+* The "Pauline"  
+* Afterglow  
+
+Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
+
+</details>
+
+
 <details><summary><a name="funny_you_dont_look_autistic_by_michael_mccreary"></a>Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. By Michael McCreary 2019 </summary>
 
 ### Funny, You Don't Look Autistic -- A Comedian's Guide to Life on the Spectrum. (4:00)  
