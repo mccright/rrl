@@ -2837,6 +2837,23 @@ Oprah Daily Review: [https://www.oprahdaily.com/entertainment/books/a40656831/ge
 </details>
 
 
+<details><summary><a name="the_housekeepers_by_alex_hay"></a>The Housekeepers.  By Alex Hay.  2023  </summary>
+
+### The Housekeepers.  (12:00)  
+Audio: https://www.overdrive.com/media/9215978/the-housekeepers  
+eBook: https://www.overdrive.com/media/9211909/the-housekeepers  
+By [Alex Hay](https://alexhaybooks.com/about/)  ( – )  
+
+Reading Notes: The summary below seems accurate.  The author starts at a *leasurely* pace of routine daily life inside a British *aristocrat's* mansion, where much about the 19th century remains intact even as the early 20th century surrounds them.  From that opening he methodically drives up the pacing until it is solidly manic in the later stages of the the story, all the while revealing critical bits of detail that add context for the actors and the action. I found it a satisfying story well written.  
+
+GoodReads Reviews: https://www.goodreads.com/book/show/62197595-the-housekeepers  
+
+OverDrive [Summary](https://www.overdrive.com/media/9211909/the-housekeepers):  
+>"Mrs. King is no ordinary housekeeper. Born into a world of con artists and thieves, she’s made herself respectable, running the grandest home in Mayfair. The place is packed with treasures, a glittering symbol of wealth and power, but dark secrets lurk in the shadows.  When Mrs. King is suddenly dismissed from her position, she recruits an eclectic group of women to join her in revenge: A black market queen out to settle her scores. An actress desperate for a magnificent part. A seamstress dreaming of a better life. And Mrs. King’s predecessor, with her own desire for vengeance.  Their plan? On the night of the house’s highly anticipated costume ball—set to be the most illustrious of the year—they will rob it of its every possession, right under the noses of the distinguished guests and their elusive heiress host. But there’s one thing Mrs. King wants even more than money: the truth. And she’ll run any risk to get it...  After all, one should never underestimate the women downstairs."  
+
+</details>
+
+
 <details><summary><a name=""></a>How High We Go In The Dark. By Sequoia Nagamatsu. 2022 </summary>
 
 ### How High We Go In The Dark  
