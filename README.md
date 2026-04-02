@@ -2541,6 +2541,24 @@ Review by [Ed Walsh](): https://educate-yourself.org/cn/walshwhitleystreibergray
 </details>
 
 
+<details><summary><a name="the_great_influenza_by_john_m_barry"></a>The Great Influenza -- The Epic Story of the Deadliest Plague in History. By John M. Barry. 2005   </summary>
+
+### The Great Influenza -- The Epic Story of the Deadliest Plague in History. (19:30)  
+Audio: https://www.overdrive.com/media/244301/the-great-influenza  
+eBook: https://www.overdrive.com/media/204479/the-great-influenza  
+By [John M. Barry](https://en.wikipedia.org/wiki/John_M._Barry)  (1947 – )  
+
+Reading Notes: This is a detailed nonfiction account of the [1918 influenza pandemic](https://en.wikipedia.org/wiki/Spanish_flu) (*with a strong emphasis on activities in the U.S.*).  Barry explains how it spread and its impacts -- killing as many as 100 million people worldwide -- zooming into close-up examples in individual homes and military bases and zooming out to city, state and national impacts.  A central theme includes the efforts of a relatively small number of medical scientists in attempts to understand the nature of the virulent pathogen(s) driving the pandemic in hopes of developing effective measures to resist it. The author also highlights roles that public health resources and activities can play in a [pandemic](https://en.wikipedia.org/wiki/Pandemic) (*and reviews impacts that can result in their absence*).  There is a lot more to this book, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Great_Influenza) for a better summary.  
+
+If you enjoy history of science or history of medicine, I recommend this book.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Great_Influenza) for more detail.  
+
+In the afterword, Barry argues that across earth we need to do more comprehensive disease surveillance, quicker, and insist on thoroughly truthful communications about disease outbreaks, and he emphasizes the criticality of exhibiting more effective leadership at all levels and in all domains of *governing*.  He recommends treating potential pandemics as potential terrorism in order to maintain effective prioritization of investments.  He argues that governments need to get involved, development of quicker, higher-volume vaccine manufacturing capabilities, development of new [antivirals](https://en.wikipedia.org/wiki/Antiviral_drug).  The author augues that the final lesson of 1918, is that top leaders **must not lie** about the nature and threats of a pandemic; that leaders must "distort nothing and make every horror that exists concrete;" and they must not elevate anyone promoting the quackery that emerges in tandum with every pandemic.  He concluded that those channeling "*every man for himself*" exhibit the worst type of ineffective "*leadership*" during a pandemic.  Having recently experienced the [COVID-19_pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) (*more than 7 million deaths*) these recommendations (*written sometime prior to 2004*) seem prophetic...  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Great_Influenza](https://en.wikipedia.org/wiki/The_Great_Influenza)  
+
+</details>
+
+
 <details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
