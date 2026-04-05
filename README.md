@@ -2541,6 +2541,24 @@ Review by [Ed Walsh](): https://educate-yourself.org/cn/walshwhitleystreibergray
 </details>
 
 
+<details><summary><a name="the_great_influenza_by_john_m_barry"></a>The Great Influenza -- The Epic Story of the Deadliest Plague in History. By John M. Barry. 2005   </summary>
+
+### The Great Influenza -- The Epic Story of the Deadliest Plague in History. (19:30)  
+Audio: https://www.overdrive.com/media/244301/the-great-influenza  
+eBook: https://www.overdrive.com/media/204479/the-great-influenza  
+By [John M. Barry](https://en.wikipedia.org/wiki/John_M._Barry)  (1947 – )  
+
+Reading Notes: This is a detailed nonfiction account of the [1918 influenza pandemic](https://en.wikipedia.org/wiki/Spanish_flu) (*with a strong emphasis on activities in the U.S.*).  Barry explains how it spread and its impacts -- killing as many as 100 million people worldwide -- zooming into close-up examples in individual homes and military bases and zooming out to city, state and national impacts.  A central theme includes the efforts of a relatively small number of medical scientists in attempts to understand the nature of the virulent pathogen(s) driving the pandemic in hopes of developing effective measures to resist it. The author also highlights roles that public health resources and activities can play in a [pandemic](https://en.wikipedia.org/wiki/Pandemic) (*and reviews impacts that can result in their absence*).  There is a lot more to this book, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Great_Influenza) for a better summary.  
+
+If you enjoy history of science or history of medicine, I recommend this book.  See the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Great_Influenza) for more detail.  
+
+In the afterword, Barry argues that across earth we need to do more comprehensive disease surveillance, quicker, and insist on thoroughly truthful communications about disease outbreaks, and he emphasizes the criticality of exhibiting more effective leadership at all levels and in all domains of *governing*.  He recommends treating potential pandemics as potential terrorism in order to maintain effective prioritization of investments.  He argues that governments need to get involved, development of quicker, higher-volume vaccine manufacturing capabilities, development of new [antivirals](https://en.wikipedia.org/wiki/Antiviral_drug).  The author augues that the final lesson of 1918, is that top leaders **must not lie** about the nature and threats of a pandemic; that leaders must "distort nothing and make every horror that exists concrete;" and they must not elevate anyone promoting the quackery that emerges in tandum with every pandemic.  He concluded that those channeling "*every man for himself*" exhibit the worst type of ineffective "*leadership*" during a pandemic.  Having recently experienced the [COVID-19_pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic) (*more than 7 million deaths*) these recommendations (*written sometime prior to 2004*) seem prophetic...  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Great_Influenza](https://en.wikipedia.org/wiki/The_Great_Influenza)  
+
+</details>
+
+
 <details><summary>Greenmantle. By John Buchan. 1916</summary>
 
 ### Greenmantle. (09:45)  
@@ -4330,6 +4348,24 @@ In general, this was an OK book for me.  A few of the threads about customer-cou
 Review by David W: https://fanfiaddict.com/review-the-one-by-john-marrs/  
 Review/Summary By Cheryl Wassenaar (with spoilers): https://culturess.com/2018/02/26/review-one-john-marrs/  
 Review/Summary By Maggie Panos: https://www.popsugar.com/entertainment/the-one-by-john-marrs-book-spoilers-ending-48213374  
+
+</details>
+
+
+<details><summary><a name="one_day_everyone_will_have_by_omar_el_akkad"></a>One Day, Everyone Will Have Always Been Against This. By Omar El Akkad. 2025 </summary>
+
+### One Day, Everyone Will Have Always Been Against This. (5:20)  
+Audio: https://www.overdrive.com/media/11042157/one-day-everyone-will-have-always-been-against-this  
+eBook: https://www.overdrive.com/media/10784991/one-day-everyone-will-have-always-been-against-this  
+By [Omar El Akkad](https://en.wikipedia.org/wiki/Omar_El_Akkad)  (1982 – )  
+
+Reading Notes:  I think this is an important book and should be widely read.  As a reminder: in December 2023, France24 reported that on 7 October 2023 Hamas terrorists killed [1,139 (*695 Israeli civilians, including 36 children, as well as 373 security forces -- soldiers, police and Shin Bet members -- and 71 foreigners*)](https://www.france24.com/en/live-news/20231215-israel-social-security-data-reveals-true-picture-of-oct-7-deaths) indiscriminately in streets, houses, kibbutz communities, at a music festival, and in/around Israeli military facilities (*that number evolved over time and in early 2026 "safe" numbers seem to be over 1,200 killed and ~5,400 injured*).  Men, women (including police and soldiers) & children were shot, *blown up*, slashed/stabbed, burned, dismembered, beaten, and subjected to "ritual humiliation," and at least [250 were taken hostage](https://www.france24.com/en/live-news/20231215-israel-social-security-data-reveals-true-picture-of-oct-7-deaths).  There was and is no justification for this slaughter.  While it is unclear how many Hamas terrorists were killed on Israeli soil on 7 October 2023, "[the (Israeli) army said on October 10](https://www.france24.com/en/live-news/20231215-israel-social-security-data-reveals-true-picture-of-oct-7-deaths) (2023) that it had found "around 1,500 bodies" of attackers, without giving further details."  In response Israel proclaimed war against Hamas members/fighters in Gaza and began war operations.  Palestinian men, women (including some Hamas) & children were shot, *blown up*, burned, buried alive, suffocated, crushed, dismembered, beaten and subjected to "ritual humiliation," and in addition it appears that material numbers were also arrested (*being required to prove they are not Hamas fighers, and some were subjected to "ritual humiliation" and organized torture*).  [According to the United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://www.unocha.org/publications/report/occupied-palestinian-territory/reported-impact-snapshot-gaza-strip-25-march-2026-1500), by 31 December 2025 the Israeli military had killed 72,265 Palestinians in Gaza along with more than 1,700 health workers, 589 aid workers, 259 reporters and media workers and 142 on-duty civil defense workers and had injured another 171,959 Palestinians -- leaving 58,000 children in Gaza without one or both of their parents, and destroyed or damaged 81% of all structures and 77% of the total road network, and 145 historical and cultural sites across Gaza. The war in Gaza has left remaining Palestinians of all ages with little food or water, little shelter, little health care, and little opportunity for formal education. The focus and scale of the killing and maiming in the context of destroying the physical manifestations of culture across Gaza appear to fit the definition of genocide -- which was [officially declared in September 2025 by the United Nations Office of the High Commissioner for Human Rights](https://www.ohchr.org/en/press-releases/2025/09/israel-has-committed-genocide-gaza-strip-un-commission-finds).  Those are just a few of the relevant facts, as accurate as I can gather...  These are emotionally charged figures. They represent deep pools of hostility, fear, desperation, suffering and grief. Almost by definition violence at scale is complex and these numbers are not static.  They represent, though, unambiguously tragic levels of killing, injury and trauma that will extend for generations.  For some partisans they are used as tools to help construct and nurse grievance -- to justify their chosen language and action(s).  Others assemble and promote fictional accounts in support of their own goals.  Omar El Akkad describes his personal/family history as immigrant from the Middle East and then describes many of the ways that Western governments, media and civilians supported Israel in the slaughter of so many Palestinians and the destruction of so much infrastructure that had been modern Gaza, along with two years of treating the Palestinian people in Gaza as non-human, and how that made him feel.  He argues, I think convincingly, that this is a stain on Western societies that will not easily fade.  Again, and in that context, I think this is an important book and should be widely read.  
+
+Wikipedia Summary: [wikipedia.org/.../One_Day,_Everyone_Will...](https://en.wikipedia.org/wiki/One_Day,_Everyone_Will_Have_Always_Been_Against_This)  
+Review by [Joe Stanek](https://thewarhorse.org/author/joe-stanek/): [chireviewofbooks.com/.../one-day-omar-el-akkad/](https://chireviewofbooks.com/2025/02/26/one-day-omar-el-akkad/)  
+Review by [Avram Alpert](https://www.avramalpert.com/): [dissentmagazine.org/.../moral-limits/](https://dissentmagazine.org/article/moral-limits/)  
+>"In (Omar El Akkad’s) youthful vision, Canada, and the West more broadly, had created a world order in which the ultimate mission was not only the safety and security of its own citizens, but the well-being of all humans—even if the global society of nations had not yet succeeded in that aim."  
+>More than the book itself, what appealed to his teenage self was the mere fact that he could ask the librarian where to find it and they didn’t even bat an eye. “I remember thinking,” he writes, “if this is all there is, it’s enough,” because the freedom to read promises a culture committed to “its own rights and freedoms and principles.”  
 
 </details>
 
