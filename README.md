@@ -4417,6 +4417,28 @@ Librivox Summary:
 </details>  
 
 
+<details><summary><a name="ordinary_men_by_christopher_r_browning"></a>Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. By Christopher R. Browning. 1992 (2017 revised, 2020 audio)   </summary>
+
+### Ordinary Men -- Reserve Police Battalion 101 and the Final Solution in Poland. (9:00)  
+Audio: https://www.overdrive.com/media/4875760/ordinary-men  
+eBook: https://www.overdrive.com/media/2726377/ordinary-men  
+By [Christopher R. Browning](https://en.wikipedia.org/wiki/Christopher_R._Browning)  (1944 – )  
+
+Reading Notes: The pace of the [Nazi](https://en.wikipedia.org/wiki/Nazi_Germany) "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" -- [genocide](https://en.wikipedia.org/wiki/Genocide) of individuals they defined as [Jews](https://en.wikipedia.org/wiki/Jews) -- accelerated in 1942. For a material portion of that effort they employed men from state and local police.  This book reviews the case of a "[German Order Police](https://en.wikipedia.org/wiki/Order_Police_battalions)" group, the "[Reserve Police Battalion 101](https://en.wikipedia.org/wiki/Reserve_Police_Battalion_101)" killing unit -- as most of their membership became professional killers and material perpetrators of the [Holocaust in occupied Poland](https://en.wikipedia.org/wiki/The_Holocaust_in_occupied_Poland) as well as participating in other large-scale [crimes against humanity](https://en.wikipedia.org/wiki/Crime_against_humanity) against civilian populations under German occupation.  There were over 200,000 legacy German Order Police by 1942, and Browning uses examples from other Order Police organizations in German occupied countries as well. The book includes two "Afterwords," one 1998 and the other from 2017 outlining some of the scholarship on this topic and the various arguments used to explain how so-called "*ordinary men*" could participate in mass murder.  
+
+How did this mass murder version of the "[Final Solution](https://en.wikipedia.org/wiki/Final_Solution)" come about?  
+>"...Hitler encouraged his subordinates to engage in turf battles with one another without deciding for one policy or another but hinting at the policy he wanted." ([Wikipedia footnote #25](https://en.wikipedia.org/wiki/Christopher_R._Browning#cite_note-25) Rees, Lawrence (1999). The Nazis: A Warning from History. London: The New Press, p. 150)  
+
+This book covers a relatively narrow slice of a tough topic -- authorian violence and antisemitism -- adding context throughout.  
+
+Wikipedia Summary: [wikipedia.org/...Browning#Ordinary_Men](https://en.wikipedia.org/wiki/Christopher_R._Browning#Ordinary_Men)  
+
+RELATED: "What History Warns Us About Authoritarianism — Laurence Rees on 'The Nazi Mind.'" [youtube.com/watch?v=xHccmmau_Ts](https://www.youtube.com/watch?v=xHccmmau_Ts)  
+
+
+</details>
+
+
 <details><summary><a name=""></a>The Original. By Brandon Sanderson and Mary Robinette Kowal. 2020 </summary>
 
 ### The Original. (3:24)  
