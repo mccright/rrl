@@ -2157,6 +2157,19 @@ Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen
 </details>
 
 
+<details><summary><a name="the_first_conspiracy_by_brad_meltzer"></a>The First Conspiracy -- The Secret Plot to Kill George Washington. By Brad Meltzer. 2019  </summary>
+
+### The First Conspiracy -- The Secret Plot to Kill George Washington.  (11:00)  
+Audio: https://www.overdrive.com/media/3980793/the-first-conspiracy  
+eBook: https://www.overdrive.com/media/4147580/the-first-conspiracy  
+By [Brad Meltzer](https://en.wikipedia.org/wiki/Brad_Meltzer)  (1970 – ) and [Josh Mensch](https://www.joshmensch.com/about) (  -  )  
+
+Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(soldier)), one of George Washington's bodyguards, was court-martialed and found guilty of mutiny and sedition. Before a crowd of 20,000 soldiers and spectators in New York he was hanged on June 28, 1776.  This is the story of the secret plot against General George Washington and how it was revealed.  It is popular non-fiction history.  It includes battles, soldiers, spies, killers, counterfeiters, traitors and it is entertaining throughout.  
+
+
+</details>
+
+
 <details><summary><a name="first_lensman_e_e_smith"></a>First Lensman. (Second book in the Lensman Series) By E. E. Smith, 1950</summary>
 
 ### First Lensman (*Second book in the Lensman Series*) (11:12)  
@@ -3030,6 +3043,24 @@ Librivox summary:
 ### Invasion  
 eBook: https://www.gutenberg.org/ebooks/29455  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
+
+
+</details>
+
+
+<details><summary><a name="invasive_procedures_by_orson_scott_card"></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
+
+### Invasive Procedures.  (11:50)  
+Audio: https://www.overdrive.com/media/145194/invasive-procedures  
+eBook: https://www.overdrive.com/media/512330/invasive-procedures  
+By [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)  (1951 – )  and [Aaron Johnson](https://en.wikipedia.org/wiki/Aaron_Johnston_(writer)) and [here](https://www.aaronwjohnston.com/about-me/)  ( – )  
+352 pages
+
+Reading Notes: This is **NOT** [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) (1985).  It is a formulaic [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) with few surprises. Evil scientist George Galen perfects human [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering) in secret, implements a carrier virus and accompanying processes to manipulate human traits and to cure genetic diseases (*each instance of individually-targeted "cure" is also deadly to everyone else*), creates a vaccine to protect against all his genetically-engineered viruses, invents and uses *micro-processor*-enabled/saliva triggered brainwashing to build a corp of "foot-soldiers" (*some he calls "healers" others are just his lackeys*) he needs to... (*rule the world?, it's not clear*).  The story's *hero* Frank Hartman created a *countervirus* for the Army and then he is *loaned* to the U.S. Biohazard Agency (BHA) where he passively follows orders to help find and neutralize the source of a *terrible* new virus (*Galen's carrier virus*) but is manipulated by BHA's leader, who is one of Galen's *tools* while concurrently being a genius/he-man leading Galen-prisoners on a daring escape and race to access his countervirus.  The story's heroine Dr. Monica Owens, a thorasic surgeon with a seven year old son is kidnapped by Galen to be his personal transplant surgeon, is saved by Hartman who, as the book ends, is starting his next journey with Dr. Owens as his love-interest.  I found the characters undeveloped, the dialog wooden, the science and technology unbelievable.  Overall the book was a disappointment -- with some of the action scenes and the hope of a satisfying end were enough to help me finish the book.  I can't recommend it -- there are so many other excellent books in which to invest your hours.  
+
+
+OverDrive Summary:  
+>George Galen is a brilliant scientist, a pioneer in gene therapy. But Galen is dangerously insane. He has created a method to alter human DNA, not just to heal diseases but also to "improve people": make them stronger, make them able to heal more quickly...and make them compliant to his will.  Frank Hartman is also a brilliant virologist, working for the government's ultra-secret biohazard agency. He has discovered how to neutralize Galen's DNA-changing virus. Now he is the one man who stands in the way of Galen's plan to "improve" the entire human race.  This taut thriller takes the listener a few years into the future and shows the promise and danger of new genetic medicine techniques.  
 
 
 </details>
