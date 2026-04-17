@@ -1579,6 +1579,21 @@ Reading Notes: An odd story about an unhappy man, Pete Miller, who discovers he 
 </details>
 
 
+<details>
+<summary><a name="daniel_boone_by_john_mack_faragher"></a>Daniel Boone -- The Life and Legend of an American Pioneer. By John Mack Faragher. 1993/2008 </summary>
+
+### Daniel Boone -- The Life and Legend of an American Pioneer. (13:00)  
+Audio: https://www.overdrive.com/media/198396/daniel-boone  
+eBook: https://www.overdrive.com/media/1572713/daniel-boone  
+By [John Mack Faragher](https://en.wikipedia.org/wiki/John_Mack_Faragher)  ( – )  
+
+Reading Notes: Raised on thin charicature of Daniel Boone as an early American folk hero in High School history books, I knew little about who he was.  This biography seems like a useful characterization of the "*real*" Daniel Boone -- at least as much as can be gleaned from records available in the 1980s & early 1990s.  I think the author does a good job adding social context to much of Boone's life -- though he consistently glosses over Boone's ownership of [enslaved Blacks](https://en.wikipedia.org/wiki/Slavery_in_the_United_States) -- usually mentioning it as an aside, suggesting something like *everybody was doing it*.  
+[Daniel Boone](https://en.wikipedia.org/wiki/Daniel_Boone) was born in 1734 to a family of Quakers who had immigrated to Pennsylvania from England and Wales. His father was a weaver and blacksmith and his mother ran the household and had 11 children.  Boone spent his early years on the Pennsylvania frontier learning to hunt from local settlers and Native Americans and by 15 years old had a reputation as one of the region's best hunters.  In 1750 his family moved to North Carolina.  In the [French and Indian War](https://en.wikipedia.org/wiki/French_and_Indian_War) (1754–1763) Boone joined a North Carolina militia company as a teamster and blacksmith.  He and [Rebecca Bryan](https://en.wikipedia.org/wiki/Rebecca_Boone), a neighbor, married in 1756. They had 10 children and to raised 8 more children of deceased relatives.  Boone served under [Captain Hugh Waddell](https://en.wikipedia.org/wiki/Hugh_Waddell_(general)) as a member of the North Carolina militia in the [Anglo-Cherokee War](https://en.wikipedia.org/wiki/Anglo-Cherokee_War), also known as the "Cherokee Uprising."  Boone worked in these years as a market hunter and trapper and would go on "long hunts," spending weeks or months at a time in the wilderness.  In one of these long hunts that doubled as a search for land aand more abundant game in [Kentucky](https://en.wikipedia.org/wiki/Kentucky), Boone and his brother-in-law and fellow longhunter John Stewart were captured by a party of [Shawnee](https://en.wikipedia.org/wiki/Shawnee) who considered them to be poachers. In 1773 Boone, his family, his brother Squire and a group of about 50 others (*including some number of [enslaved Blacks](https://en.wikipedia.org/wiki/Slavery_in_the_United_States)*), failed in their attempt to establish a settlement in Kentucky.  Later Boone founded [Boonesborough](https://en.wikipedia.org/wiki/Boonesborough,_Kentucky) along the [Kentucky River](https://en.wikipedia.org/wiki/Kentucky_River) and by 1775 had convinced his family and other settlers to resettle in there (*by 1777 Boonesborough's population included ten to 15 enslaved people*).  During the [American Revolutionary War](https://en.wikipedia.org/wiki/American_Revolutionary_War) (1775–1783) Boone was involved in repeated violent conflict with Native Americans who believed treaties seeding Kentucky to *Americans* were unfair.  At one point, Boone was captured by British-allied [Shawnee](https://en.wikipedia.org/wiki/Shawnee) led by [Chief Blackfish](https://en.wikipedia.org/wiki/Chief_Blackfish) and then persuaded the rest of the men in his group to surrender rather than put up a fight while greatly outnumbered.  Boone (*and some of the others*) were *adopted* by Shawnee families and Boone cooperated with his captors for months before escaping and returning to Boonesborough to warn of an impending attack led by Chief Blackfish. Boone helped successfully defend Boonesborough against a [10-day siege led](https://en.wikipedia.org/wiki/Siege_of_Boonesborough) by Blackfish.  His cooperation with the Shawnee (*and the French*) led to his [court-martial](https://en.wikipedia.org/wiki/Court-martial), where he was found "not guilty."  After the court heard his testimony he was promoted in rank. Boone founded the settlement of [Boone's Station](https://en.wikipedia.org/wiki/Boone_Station#Boone's_New_Station), Kentucky near Boonesborough and began earning money by locating good land for other settlers. In 1780, Boone joined [General George Rogers Clark](https://en.wikipedia.org/wiki/George_Rogers_Clark)'s invasion of the Ohio country, fighting in the [Battle of Piqua](https://en.wikipedia.org/wiki/Battle_of_Piqua) against the Shawnee on August 7. That year he was also promoted to lieutenant colonel in the [Fayette County](https://en.wikipedia.org/wiki/Fayette_County,_Kentucky) militia. In April 1781, he was elected as a representative to the [Virginia General Assembly](https://en.wikipedia.org/wiki/Virginia_General_Assembly), which was held in Richmond. In 1782, he was elected sheriff of Fayette County.  Boone returned to Kentucky and in August 1782 fought in the [Battle of Blue Licks](https://en.wikipedia.org/wiki/Battle_of_Blue_Licks) where his son Israel was killed. In November 1782, Boone took part in another Clark-led expedition into Ohio, the last major campaign of the [American Revolutionary war](https://en.wikipedia.org/wiki/American_Revolutionary_War). Boone resettled in [Limestone](https://en.wikipedia.org/wiki/Maysville,_Kentucky), Kentucky, a booming Ohio River port. He kept a tavern and worked as a surveyor, horse trader, and land speculator.  He owned seven [enslaved Blacks](https://en.wikipedia.org/wiki/Slavery_in_the_United_States) during this period.  Frustrated with the legal hassles that went with land speculation, in 1789 Boone moved upriver to [Point Pleasant](https://en.wikipedia.org/wiki/Point_Pleasant,_West_Virginia), Virginia (now [West Virginia](https://en.wikipedia.org/wiki/West_Virginia)). There he operated a trading post and occasionally worked as a surveyor's assistant, and became the lieutenant colonel of the [Kanawha County](https://en.wikipedia.org/wiki/Kanawha_County,_West_Virginia) county militia.  In 1791, he was elected to the Virginia legislature for the third time.  In the early 1790s he closed his store and returned to hunting and trapping.  In 1795, Boone and his wife moved back to Kentucky.  In 1799, he moved his extended family to what is now St. Charles County, Missouri, then part of Spanish Louisiana, where the Spanish governor appointed Boone "[syndic](https://en.wikipedia.org/wiki/Syndic)" (judge and jury) and commandant (military leader) of the Femme Osage district.  He served in those roles until 1804, when Missouri became part of the United States following the [Louisiana Purchase](https://en.wikipedia.org/wiki/Louisiana_Purchase).  Boone's land grants from the Spanish government were finally approved by [Congress](finally done in 1814) in 1814, and he sold most of this land to repay old debts in Kentucky. Boone spent his final years in Missouri, hunting and traping as much his health and strength allowed.  Boone died in 1820 and was burried near Jemima (Boone) Callaway's home on [Tuque Creek](https://en.wikipedia.org/wiki/Tuque_Creek), about two miles from present-day [Marthasville, Missouri](https://en.wikipedia.org/wiki/Marthasville,_Missouri).  The final chapter reviews many of the ways that Boone's image was used during and after his life, and might make the book worth a read for some.  
+
+
+</details>
+
+
 <details><summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
 
 ### Darwin's Ghosts: In Search of the First Evolutionists.  
@@ -2153,6 +2168,19 @@ Reading Notes:
 This is historical **fiction**.  It attempts to help us understand many of the characters that surrounded King Henry VIII.  While there may be facts upon which to base many of these characterizations, considerable effort and story-telling went into building out gaps in those facts.  With those caveats, enjoy the book.  I did.  
 Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen  
 >The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. ([Summary by Wikipedia](https://en.wikipedia.org/wiki/The_Fifth_Queen))  
+
+</details>
+
+
+<details><summary><a name="the_first_conspiracy_by_brad_meltzer"></a>The First Conspiracy -- The Secret Plot to Kill George Washington. By Brad Meltzer. 2019  </summary>
+
+### The First Conspiracy -- The Secret Plot to Kill George Washington.  (11:00)  
+Audio: https://www.overdrive.com/media/3980793/the-first-conspiracy  
+eBook: https://www.overdrive.com/media/4147580/the-first-conspiracy  
+By [Brad Meltzer](https://en.wikipedia.org/wiki/Brad_Meltzer)  (1970 – ) and [Josh Mensch](https://www.joshmensch.com/about) (  -  )  
+
+Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(soldier)), one of George Washington's bodyguards, was court-martialed and found guilty of mutiny and sedition. Before a crowd of 20,000 soldiers and spectators in New York he was hanged on June 28, 1776.  This is the story of the secret plot against General George Washington and how it was revealed.  It is popular non-fiction history.  It includes battles, soldiers, spies, killers, counterfeiters, traitors and it is entertaining throughout.  
+
 
 </details>
 
@@ -3030,6 +3058,24 @@ Librivox summary:
 ### Invasion  
 eBook: https://www.gutenberg.org/ebooks/29455  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975), published 1933  
+
+
+</details>
+
+
+<details><summary><a name="invasive_procedures_by_orson_scott_card"></a>Invasive Procedures.  By Orson Scott Card and Aaron Johnson.  2007 </summary>
+
+### Invasive Procedures.  (11:50)  
+Audio: https://www.overdrive.com/media/145194/invasive-procedures  
+eBook: https://www.overdrive.com/media/512330/invasive-procedures  
+By [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)  (1951 – )  and [Aaron Johnson](https://en.wikipedia.org/wiki/Aaron_Johnston_(writer)) and [here](https://www.aaronwjohnston.com/about-me/)  ( – )  
+352 pages
+
+Reading Notes: This is **NOT** [Ender's Game](https://en.wikipedia.org/wiki/Ender%27s_Game) (1985).  It is a formulaic [thriller](https://en.wikipedia.org/wiki/Thriller_(genre)) with few surprises. Evil scientist George Galen perfects human [genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering) in secret, implements a carrier virus and accompanying processes to manipulate human traits and to cure genetic diseases (*each instance of individually-targeted "cure" is also deadly to everyone else*), creates a vaccine to protect against all his genetically-engineered viruses, invents and uses *micro-processor*-enabled/saliva triggered brainwashing to build a corp of "foot-soldiers" (*some he calls "healers" others are just his lackeys*) he needs to... (*rule the world?, it's not clear*).  The story's *hero* Frank Hartman created a *countervirus* for the Army and then he is *loaned* to the U.S. Biohazard Agency (BHA) where he passively follows orders to help find and neutralize the source of a *terrible* new virus (*Galen's carrier virus*) but is manipulated by BHA's leader, who is one of Galen's *tools* while concurrently being a genius/he-man leading Galen-prisoners on a daring escape and race to access his countervirus.  The story's heroine Dr. Monica Owens, a thorasic surgeon with a seven year old son is kidnapped by Galen to be his personal transplant surgeon, is saved by Hartman who, as the book ends, is starting his next journey with Dr. Owens as his love-interest.  I found the characters undeveloped, the dialog wooden, the science and technology unbelievable.  Overall the book was a disappointment -- with some of the action scenes and the hope of a satisfying end were enough to help me finish the book.  I can't recommend it -- there are so many other excellent books in which to invest your hours.  
+
+
+OverDrive Summary:  
+>George Galen is a brilliant scientist, a pioneer in gene therapy. But Galen is dangerously insane. He has created a method to alter human DNA, not just to heal diseases but also to "improve people": make them stronger, make them able to heal more quickly...and make them compliant to his will.  Frank Hartman is also a brilliant virologist, working for the government's ultra-secret biohazard agency. He has discovered how to neutralize Galen's DNA-changing virus. Now he is the one man who stands in the way of Galen's plan to "improve" the entire human race.  This taut thriller takes the listener a few years into the future and shows the promise and danger of new genetic medicine techniques.  
 
 
 </details>
