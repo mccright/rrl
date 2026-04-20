@@ -3751,6 +3751,20 @@ I agree that "old-school space opera" is a good description -- in the context of
 </details>
 
 
+<details><summary><a name="the_man_who_lost_himself_by_h_de_vere_stacpoole"></a>The Man Who Lost Himself. By H. De Vere (Henry De Vere) Stacpoole. 1918  </summary>
+
+### The Man Who Lost Himself.  (8:16) 
+Audio: https://librivox.org/the-man-who-lost-himself-by-h-de-vere-stacpoole/  
+eBook: https://www.overdrive.com/media/424906/the-man-who-lost-himself  
+By [H. De Vere (Henry De Vere) Stacpoole](https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole)  (1863 - 1951)  
+
+Reading Notes: I enjoyed this early 20th century madcap critique of British aristocracy.  Failed American businessman Victor Jones found himself penniless and stranded in London when he meets his Doppelgänger, a British aristocrat, the Earl of Rochester.  Rochester "liquors him up" and Jones wakes up in a posh mansion being called the Earl of Rochester.  Meanwhile the Earl, dressed in Jones' clothes, kills himself after sending a note to Jones telling him the switch was intentional.  Jones discovers -- as Rochester -- that he has been a fool, is deeply in debt, has *fallen out* of polite society and is surrounded by a range of rogues and corrupt individuals. Jones, needing funds and hoping to recover some of "*his*" name, recovers 8,000 pounds from a trio blackmailing him, then the equivalent of one million pounds from another. Then he confesses his situation to his family. They drug him and send him to a lunatic asylum. He escapes. And he finally (re)marries Rochester's wife and lives happily ever after.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Man_Who_Lost_Himself](https://en.wikipedia.org/wiki/The_Man_Who_Lost_Himself_(novel))  
+
+</details>
+
+
 <details><summary><a name="mans_search_for_meaning_by_viktor_e_frankl"></a>Man's Search for Meaning -- An Introduction to Logotherapy. By Viktor E. Frankl. 1959/2010  </summary>
 
 ### Man's Search for Meaning -- An Introduction to Logotherapy. (5:00)  
