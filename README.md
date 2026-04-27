@@ -6235,6 +6235,19 @@ Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-
 </details>
 
 
+<details><summary><a name="what_lies_in_the_woods_by_kate_alice_marshall"></a>What Lies in the Woods.  By Kate Alice Marshall. 2023 </summary>
+
+### What Lies in the Woods.  (11:00)  
+Audio: https://www.overdrive.com/media/8916846/what-lies-in-the-woods  
+eBook: https://www.overdrive.com/media/8906377/what-lies-in-the-woods  
+By [Kate Alice Marshall](https://katemarshallbooks.com/about/)  ( – )  
+
+Reading Notes: This was not the most satisfying "*[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story for me.  Thirty three year old Naomi Shaw carried seventeen stab wounds from an attack when she was eleven.  She lived and identified her attacker -- a serial killer -- and he was convicted for attacking her and spent the last 22 years of his life in prison.  Then questions about the attack surfaced and Naomi needs to identify exactly what happened that day when she was attacked.  The rest of the story was just kind of *flat* to me.  There were a range of characters, conflicts and plot twists -- maybe it will work for you.  
+
+
+</details>
+
+
 <details><summary><a name="what_we_can_know_by_ian_mcewan"></a>What We Can Know. By Ian McEwan. 2025 </summary>
 
 ### What We Can Know.  (11:00)  
