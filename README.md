@@ -1812,7 +1812,7 @@ Audio: https://www.overdrive.com/media/11220603/the-dream-hotel
 eBook: https://www.overdrive.com/media/11154789/the-dream-hotel  
 By [Laila Lalami](https://en.wikipedia.org/wiki/Laila_Lalami)  (1968 – )  
 
-Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel).  For me, this is a highly discomforting story.  Commercial enterprises *analyze* the oceans of data about people available in the U.S. and apply a risk score to each (*loosely analogous to your FICO score, but with a different mission*).  Then corporations run detainment/observation *prisons* to observe anyone having a risk score higher than an arbitrary threshold.  Any non-compliance with ever-changing rules in these prisons increases the length of a detainee's initial 21-day imprisonment and may also increase their risk score.  At the operations level inside each *prison*, the broader societal mission and the corporate & facility missions are wildly misaligned.  The corporate owners of the facilities depend on detainees complying with their business model that assumes detainees will perform outsourced labor without pay.  Although the story is largely set in a *pre-crime* private *prison* paid for by government organizations & tax-payers (*something I've never been exposed to*), it is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  In that context there were vinettes throughout the story that I found involuntarily repulsive.  Other threads in this story also were both so awful and so *believable* that they lingered in my imagination long after I stopped reading.  For example, police already subscribe to "*propensity for committing crimes*" services (*that don't believe -- yet -- incorporate dream-reading implants, but are applied at the "neighborhood" level, or maybe lower today*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime identification, detention and analysis services* described in this story.  
+Reading Notes: Start with the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Dream_Hotel).  For me, this is a highly discomforting story.  Commercial enterprises *analyze* the oceans of data about people available in the U.S. and apply a risk score to each (*loosely analogous to your FICO score, but with a different mission*).  Then corporations run detainment/observation *prisons* to observe anyone having a risk score higher than an arbitrary threshold.  Any non-compliance with ever-changing rules in these prisons increases the length of a detainee's initial 21-day imprisonment and may also increase their risk score.  At the operations level inside each *prison*, the broader societal mission and the corporate & facility missions are wildly misaligned.  The corporate owners of the facilities depend on detainees complying with their business model that assumes detainees will perform outsourced labor without pay.  Although the story is largely set in a *pre-crime* private *prison* paid for by government organizations & tax-payers (*something I've never been exposed to*), it is full of the kinds of macro and micro corporate mismanagement and accompanying corruption that I learned about first hand over 30 years in large U.S. businesses.  In that context there were vinettes throughout the story that I found involuntarily repulsive.  Other threads in this story also were both so awful and so *believable* that they lingered in my imagination long after I stopped reading.  For example, police already subscribe to "*propensity for committing crimes*" services (*that don't, I believe -- yet -- incorporate dream-reading implants, but are applied at the "neighborhood" level, or maybe lower today*) and it does not seem unthinkable that empowered law enforcement would support government efforts to outsource the type of *pre-crime identification, detention and analysis services* described in this story.  
 
 Wikipedia Summary:  
 >Sara Hussein is a Moroccan American woman who, upon her return from a trip to the United Kingdom, is detained by a government agency tasked with determining citizens' propensity for committing crimes. She is detained in what starts as a temporary arrangement but, through bureaucratic hiccups and intentional mismanagement, begins to seem more and more permanent. https://en.wikipedia.org/wiki/The_Dream_Hotel  
@@ -3758,7 +3758,7 @@ Audio: https://librivox.org/the-man-who-lost-himself-by-h-de-vere-stacpoole/
 eBook: https://www.overdrive.com/media/424906/the-man-who-lost-himself  
 By [H. De Vere (Henry De Vere) Stacpoole](https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole)  (1863 - 1951)  
 
-Reading Notes: I enjoyed this early 20th century madcap critique of British aristocracy.  Failed American businessman Victor Jones found himself penniless and stranded in London when he meets his Doppelgänger, a British aristocrat, the Earl of Rochester.  Rochester "liquors him up" and Jones wakes up in a posh mansion being called the Earl of Rochester.  Meanwhile the Earl, dressed in Jones' clothes, kills himself after sending a note to Jones telling him the switch was intentional.  Jones discovers -- as Rochester -- that he has been a fool, is deeply in debt, has *fallen out* of polite society and is surrounded by a range of rogues and corrupt individuals. Jones, needing funds and hoping to recover some of "*his*" name, recovers 8,000 pounds from a trio blackmailing him, then the equivalent of one million pounds from another. Then he confesses his situation to his family. They drug him and send him to a lunatic asylum. He escapes. And he finally (re)marries Rochester's wife and lives happily ever after.  
+Reading Notes: I enjoyed this early 20th century critique of British aristocracy.  Failed American businessman Victor Jones found himself penniless and stranded in London when he meets his Doppelgänger, a British aristocrat, the Earl of Rochester.  Rochester "liquors him up" and Jones wakes up in a posh mansion being called the Earl of Rochester.  Meanwhile the Earl, dressed in Jones' clothes, kills himself after sending a note to Jones telling him the switch was intentional.  Jones discovers -- as Rochester -- that he has been a fool, is deeply in debt, has *fallen out* of polite society and is surrounded by a range of rogues and corrupt individuals. Jones, needing funds and hoping to recover some of "*his*" name, recovers £8,000 from a trio blackmailing him, then the equivalent of £1,000,000 from another. Then he confesses his situation to his family. They drug him and send him to a lunatic asylum. He escapes. And he finally (re)marries Rochester's wife and lives happily ever after.  
 
 Wikipedia Summary: [wikipedia.org/wiki/The_Man_Who_Lost_Himself](https://en.wikipedia.org/wiki/The_Man_Who_Lost_Himself_(novel))  
 
@@ -5669,6 +5669,24 @@ Reading Notes: Written as if it were authored in the late 1920s or early 1930s, 
 </details>
 
 
+<details><summary><a name="suder_by_percival_everett"></a>Suder -- A Novel.  By Percival Everett. 1983/2025 </summary>
+
+### Suder -- A Novel.  (9:00)  
+Audio: https://www.overdrive.com/media/12016723/suder  
+eBook: https://www.overdrive.com/media/11667027/suder  
+By [Percival Everett](https://en.wikipedia.org/wiki/Percival_Everett)  (1956 – )  
+
+Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea) describes this book well.  I listened to the audio version and it is an entertaining presentation.  One additional observation/caution, though -- I sometimes had an uncomfortable impression that mental illness was part of the humor in this writing (*I could be wrong*).  Based on your life-experience, you may have a different response to the story-telling in "Suder."  
+
+[OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
+>It's the middle of the season and the third baseman for the Seattle Mariners, Craig Suder, is in the midst of an inescapable slump. On top of that, his wife has been keeping her distance and Suder can't shake the creeping fear that he might have inherited his mother's insanity. That's when his team suggests he might enjoy a little break.  
+>What's a man to do pack up the essentials—his record player, Charlie Parker's "Ornithology," and a saxophone—and hit the road? What ensues is the adventure of a lifetime. Haunted by his past as a young black boy in the South, and soon on the run from some less-than-savory individuals, Suder soon finds himself in curious company—including a little white girl and a pet elephant. Epic, thrilling, and utterly alive, Suder takes us on a whirlwind journey through the joys, the sorrows, and the madness that make up a life.  
+>First published in 1983 by Louisianna State University Press, Suder marked the debut of an iconic American voice.  
+
+
+</details>
+
+
 <details><summary><a name="suffrage_movement_notes_ellen_carol_dubois"></a>Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  By Ellen Carol Dubois  2020</summary>
 
 ### Suffrage Movement Notes: Suffrage -- Women's Long Battle for the Vote.  
@@ -6213,6 +6231,19 @@ Text: https://www.gutenberg.org/ebooks/25166
 By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett) (1927 - 1987)  
 
 Librivox [Summary](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/): The Society For Mystical and Metaphysical Research, Inc. ..... It is possible that no more nearly perfect cover, no more misleading front for a secret organization ever existed in the history of man. It possessed two qualities which most other cover-up titles do not have. One, it was so obviously crackpot that no one paid any attention to it except crackpots, and, two, it was perfectly, literally true. The Society is now a part of the government, of course an invisible one, and it can be very useful in solving really perplexing problems. Listen to the story of how it did the impossible here. Just another day at the SMMR. - [Summary by the author and phil chenevert](https://librivox.org/what-the-left-hand-was-doing-by-randall-garrett/)  
+
+</details>
+
+
+<details><summary><a name="what_lies_in_the_woods_by_kate_alice_marshall"></a>What Lies in the Woods.  By Kate Alice Marshall. 2023 </summary>
+
+### What Lies in the Woods.  (11:00)  
+Audio: https://www.overdrive.com/media/8916846/what-lies-in-the-woods  
+eBook: https://www.overdrive.com/media/8906377/what-lies-in-the-woods  
+By [Kate Alice Marshall](https://katemarshallbooks.com/about/)  ( – )  
+
+Reading Notes: This was not the most satisfying "*[whodunnit](https://en.wikipedia.org/wiki/Whodunit)*" story for me.  Thirty three year old Naomi Shaw carried seventeen stab wounds from an attack when she was eleven.  She lived and identified her attacker -- a serial killer -- and he was convicted for attacking her and spent the last 22 years of his life in prison.  Then questions about the attack surfaced and Naomi needs to identify exactly what happened that day when she was attacked.  The rest of the story was just kind of *flat* to me.  There were a range of characters, conflicts and plot twists -- maybe it will work for you.  
+
 
 </details>
 
