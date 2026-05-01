@@ -76,6 +76,23 @@ Review By Claire Jarvis: [https://www.nytimes.com/...2034-elliot-ackerman-james-
 </details>
 
 
+<details><summary><a name="48_hours_by_william_r_forstchen"></a>48 Hours. By William R. Forstchen. 2019 </summary>
+
+### 48 Hours.  (11:00)  
+Audio: https://www.overdrive.com/media/3590191/48-hours  
+eBook: https://www.overdrive.com/media/5217523/48-hours  
+By [William R. Forstchen](https://en.wikipedia.org/wiki/William_R._Forstchen)  (1950 – )  
+
+Reading Notes: The [OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours) is accurate as far as it goes.  The apocalyptic novel is also a modern [morality play](https://en.wikipedia.org/wiki/Morality_play) (*emphasizing [Christian ethics](https://en.wikipedia.org/wiki/Christian_ethics)*).  The heroes in Missouri are a former soldier and his gun-customizing wife.  They attempt to save Springfield Missouri’s children by gathering them in a massive underground former quarry, now a warehouse, in the southwestern Missouri hills.  Another plot thread takes place in the U.S. White House centered around the President and a NASA scientist.  
+
+
+[OverDrive Summary](https://www.overdrive.com/media/3590191/48-hours):  
+>In forty-eight hours, the earth will be hit by a coronal mass ejection (CME) from the sun, a "Carrington Event" that has the power to shut down and possibly destroy the world's electrical infrastructure. To try and prevent permanent damage, everything goes dark prior to the hit: global communications are shut down; hospital emergency generators are disconnected; the entire internet, media broadcasting, and cell phone systems are turned off. Will the world's population successfully defend itself in the wake of the CME, or will mass panic lead to the breakdown of society as we know it? William R. Forstchen is at his best in 48 Hours, a tale of the resilience of American citizens when faced with a crisis.
+
+
+</details>
+
+
 <details><summary><a name="620_man_david_baldacci"></a>The 6:20 Man -- A Thriller.  By David Baldacci. 2022 </summary>
 
 ### The 6:20 Man -- A Thriller. (10:00)  
