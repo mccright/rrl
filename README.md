@@ -2033,6 +2033,30 @@ Review by Natalie Watson: [https://www.churchtimes.co.uk/...the-end-of-drum-time
 </details>
 
 
+<details><summary><a name="the_endless_vessel_by_charles_soule"></a>The Endless Vessel -- A Novel. By Charles Soule. 2023  </summary>
+
+### The Endless Vessel -- A Novel.  (13:15)  
+Audio: https://www.overdrive.com/media/9203759/the-endless-vessel  
+eBook: https://www.overdrive.com/media/9191336/the-endless-vessel  
+By [Charles Soule](https://en.wikipedia.org/wiki/Charles_Soule) and [here](https://www.charlessoule.com/about)  ( – )  
+
+Reading Notes: This story incorporates a range of themes -- Dystopia, Science Fiction, Fiction, Fantasy, **Dystopia,** Thriller and Time Travel. I think that this is a fine story, well told -- and well worth a read.  Not everyone agrees.  There are a broad range of reactions to this book on [Goodreads](https://www.goodreads.com/book/show/62080151-the-endless-vessel) if you are interested in what others thought.  
+* Materials engineer Lily Barnes  
+* Neuro-scientist Frederick Barns  
+* Adriana Barns Ramos, wife of Frederick Barns  
+* Luis Petrona, *messenger* from the Echo Forest  
+* Peter Match, famous singer  
+* Aunt Jane, leader of the Joy Joy Team  
+* Ezra Montain, the author of the Dispair Manifesto  
+
+OverDrive [Summary](https://www.overdrive.com/media/9191336/the-endless-vessel):  
+>A few years from now, in a world similar to ours, there exists a sort of "depression plague" that people refer to simply as "The Grey." No one can predict whom it will afflict, or how, but once infected, there's no coming back.  A young Hong Kong based scientist, Lily Barnes, is trying to maintain her inner light in an increasingly dark world. The human race is dwindling, and people fighting to push forward are increasingly rare. One day, Lily comes across something that seems to be addressing her directly, calling to her, asking her to follow a path to whatever lies at its end. Is this the Endless Vessel to happiness? She leaves her life behind and sets out through time and space to find out.  From its opening heart-stopping scene in the present day at the Louvre in Paris, through the earthly meetings between Lily and her loved ones past and present, to a shocking and satisfying conclusion in a truly enchanted forest, Charles Soule has channeled history, science and drama to create a story for the ages—a story of hope and love and possibility. This is a novel you will not soon forget.  
+
+Goodreads Summaries: [goodreads.com/...the-endless-vessel](https://www.goodreads.com/book/show/62080151-the-endless-vessel)  
+
+</details>
+
+
 <details><summary><a name="enemy_contact_by_mike_maden"></a>#6 Jack Ryan Jr. Series -- Enemy Contact.  By Mike Maden.  2019 </summary>
 
 ### Enemy Contact. (13:15)  
