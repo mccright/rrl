@@ -1439,7 +1439,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>Climate--Incorporated. By George O. Smith.  1948</summary>
+<details><summary><a name="climate_incorporated_by_george_o_smith"></a>Climate--Incorporated. By George O. Smith.  1948</summary>
 
 ### Climate--Incorporated (01:15)  
 https://librivox.org/climate-incorporated-by-george-o-smith/  
@@ -1453,7 +1453,7 @@ Reader's Notes:  Ever so slightly interesting juvenile/young adult science ficti
 </details>
 
 
-<details><summary>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
+<details><summary><a name="code_name_edelweiss_by_stephanie_landsem"></a>Code Name Edelweiss. By Stephanie Landsem. 2023 </summary>
 
 ### Code Name Edelweiss. (9:00)  
 Audio: https://www.overdrive.com/media/9295904/code-name-edelweiss  
@@ -1467,7 +1467,7 @@ Author's summary: https://stephanielandsem.com/what-is-coming-next-from-me-code-
 </details>
 
 
-<details><summary>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
+<details><summary><a name="code_name_sapphire_by_pam_jenoff"></a>Code Name Sapphire. By Pam Jenoff. 2023 </summary>
 
 ### Code Name Sapphire. (13:00)  
 Audio: https://www.overdrive.com/media/9015660/code-name-sapphire  
@@ -1495,7 +1495,7 @@ Reading Notes: What a cool story and excellent characters. And a fantastic perfo
 </details>
 
 
-<details><summary>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
+<details><summary><a name="collateral_damage_by_j_a_jance"></a>Collateral Damage -- An Ali Reynolds Mystery. By J.A. Jance. 2023 </summary>
 
 ### Collateral Damage -- An Ali Reynolds Mystery. (12:00)  
 Audio: https://www.overdrive.com/media/7345871/collateral-damage  
@@ -1509,7 +1509,24 @@ Reading Notes:  In this [mystery](https://en.wikipedia.org/wiki/Mystery_fiction)
 </details>
 
 
-<details><summary>The Color of a Great City. By Theodore Dreiser, 1923</summary>
+<details><summary><a name="collected_works_of_saint_patrick_by_saint_patrick"></a>Collected Works of Saint Patrick. By Saint Patrick. 5th century</summary>
+
+### Collected Works of Saint Patrick. (01:01)  
+Audio: https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/  
+Texts: https://en.wikisource.org/wiki/Author:Saint_Patrick  
+By [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick)  (c. 387 - c. 460)  
+
+Reading notes: [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick) was a fifth-century Romano-British Christian missionary and bishop in Ireland.  Early translations of 5th century writing are unfamiliar territory for me.  This was a difficult read and I am confident that my ignorance of the history of 5th century Britian, Gaul and Ireland resulted in my missing most of the context that would have provided meaning to the text of these three documents.  See the Librivox Summary below as well as the Wikipedia Page on [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick).  
+
+Wikipedia Page on [Saint Patrick](https://en.wikipedia.org/wiki/Saint_Patrick).  
+
+Librivox Summary:  
+>(1.) St. Patrick's Breastplate - This prayer is attributed to St. Patrick and his disciples. It is written with some Celtic pagan elements, but is definitely a Christian prayer asking God for protection through daily life. (2.) A Letter to the Soldiers of Coroticus - Patrick writes this letter to excommunicate the soldiers of Coroticus' army who pillaged villages in Ireland and forced many Christian converts into slavery. (3.) Confession - A short autobiography by St. Patrick who tells of being abducted into slavery and taken to Ireland, the growth of his faith, his ministry as a bishop in ordaining many priests and baptising thousands of people, and a trial where he had to defend himself against his accusers. - ([Summary by Librivox](https://librivox.org/the-collected-works-of-saint-patrick-by-saint-patrick/))  
+
+</details>
+
+
+<details><summary><a name="the_color_of_a_great_city_by_theodore_dreiser"></a>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
 https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
