@@ -4002,6 +4002,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
 </details>
 
 
+<details><summary><a name="necessary_trouble_by_drew_gilpin_faust"></a>Necessary Trouble -- Growing Up at Midcentury. By Drew Gilpin Faust. 2023  </summary>
+
+### Necessary Trouble -- Growing Up at Midcentury. (10:00)  
+Audio: https://www.overdrive.com/media/9790433/necessary-trouble  
+eBook: https://www.overdrive.com/media/9191487/necessary-trouble  
+By [Drew Gilpin Faust](https://en.wikipedia.org/wiki/Drew_Gilpin_Faust)  (1947 – )  
+
+Reading Notes: Dr. Drew Gilpin Faust has lived an influential life (*if you are not familiar with her I recommend you scan [her Wikipedia page](https://en.wikipedia.org/wiki/Drew_Gilpin_Faust)*).  In this book she reviews her early life through graduation from [Bryn Mawr College](https://en.wikipedia.org/wiki/Bryn_Mawr_College) in 1968 -- "...coming of age in a conservative Southern family in postwar America."  This was a period of tremendous social upheaval.  
+She was born in New York City and raised on a 500-acre farm a mile and a half from the town of [Millwood](https://en.wikipedia.org/wiki/Millwood,_Virginia) in [Clarke County](https://en.wikipedia.org/wiki/Clarke_County,_Virginia), [Virginia](https://en.wikipedia.org/wiki/Virginia), in the [Shenandoah Valley](https://en.wikipedia.org/wiki/Shenandoah_Valley), where her father, McGhee Gilpin, struggled as a breeder of thoroughbred horses and in other business ventures.  
+"My childhood friends—all white—lived on surrounding farms like ours."  "In Millwood itself, most African Americans lived in dwellings that lacked running water."
+Began to explore the meaning of racism and racial discrimination in [segregated Virginia](https://en.wikipedia.org/wiki/Virginia#Reconstruction_and_segregation) at around 8 years old. In 5th grade she wrote a letter in support of integration to U.S. President Eisenhower.  
+She participated in a summer program where young adults (she was 15 at the time) traveled in Eastern Europe -- *her first extended exposure to peer African Americans*.  
+She participated in activities associated with the [the Civil Rights movement](https://en.wikipedia.org/wiki/Civil_Rights_movement) confronting and denying the "morality and legitimacy of the white South’s discriminatory assumptions and practices."  In the 1950s, as the Civil War centennial approached, the 'White South' was celebrating and "memorializing a world that had never been."  
+She excelled academically, held a range of student leadership positions, and earned an undergraduate degree in history from [Bryn Mawr College](https://en.wikipedia.org/wiki/Bryn_Mawr_College) in 1968.  
+
+
+</details>
+
+
 <details><summary><a name="prayer_for_the_crown_shy_by_becky_chambers"></a>Monk & Robot (part 2) -- A Prayer for the Crown-Shy. By Becky Chambers 2022 </summary>
 
 ### A Prayer for the Crown-Shy -- Monk & Robot. (4:00)  
