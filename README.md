@@ -3923,6 +3923,27 @@ Review by [Elle Hunt](https://www.ellehunt.net/): [https://www.newscientist.com/
 </details>
 
 
+<details>
+<summary><a name="a_midwifes_tale_by_laurel_thatcher_ulrich"></a>A Midwife's Tale -- The Life of Martha Ballard, Based on Her Diary, 1785-1812. By Laurel Thatcher Ulrich. 1990/2010/2017 </summary>
+
+### A Midwife's Tale -- The Life of Martha Ballard, Based on Her Diary, 1785-1812. (15:00)  
+Audio: https://www.overdrive.com/media/3157839/a-midwifes-tale  
+eBook: https://www.overdrive.com/media/479809/a-midwifes-tale  
+By [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich)  (1938 – )  
+
+Reading Notes: Wikipedia [quotes](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) [Mary Maples Dunn](https://en.wikipedia.org/wiki/Mary_Maples_Dunn), "A Midwife's Tale examines the life of Northern New England midwife Martha Ballard, and provides a vivid examination of ordinary life in the early American republic, including the role of women in the household and local market economy, the nature of marriage and sexual relations, aspects of medical practice, and the prevalence of violence and crime. In this book, Ulrich effectively and simultaneously builds historical knowledge of the colonial world and Martha Ballard's biography."  [Martha Moore Ballard (February 9, 1735 – May 7, 1812)](https://en.wikipedia.org/wiki/Martha_Ballard) married Ephraim Ballard, a land surveyor, in 1754. The couple had nine children between 1756 and 1779.  They moved from [Oxford](https://en.wikipedia.org/wiki/Oxford,_Massachusetts), [Province of Massachusetts](https://en.wikipedia.org/wiki/Province_of_Massachusetts) to [Hallowell](https://en.wikipedia.org/wiki/Hallowell,_Maine) on the [Kennebec River](https://en.wikipedia.org/wiki/Kennebec_River), [District of Maine](https://en.wikipedia.org/wiki/District_of_Maine) in 1777 where Martha Ballard worked as a midwife and healer.  She maintained at least 10,000 entries in her more than 1,400 page diary between 1785–1812. Professor [Laurel Thatcher Ulrich](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich) used [Ballard's diary](https://en.wikipedia.org/wiki/Martha_Ballard#Diary) as a primary resource in this exploration of gender relations and wage-earning, the economic value of domestic labor, and women's work before industrialization. She [explores 10 sections of Martha Ballard's diary](https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich#Summary) by providing maticulously researched context -- providing *meaning* -- for the staccato entries in the diary.  This is a fantastic example of top-tier professional history writing that inspired a generation of historians.  
+
+It also inspired others as well, for example [Ariel Lawhon](https://www.ariellawhon.com/about/)'s historical fiction [The Frozen River](https://www.overdrive.com/media/9674513/the-frozen-river).  
+
+Wikipedia Summary:  https://en.wikipedia.org/wiki/Laurel_Thatcher_Ulrich#Summary  
+
+OverDrive Summary](https://www.overdrive.com/media/479809/a-midwifes-tale):  
+>Between 1785 and 1812 a midwife and healer named Martha Ballard kept a diary that recorded her arduous work (in 27 years she attended 816 births) as well as her domestic life in Hallowell, Maine. On the basis of that diary, Laurel Thatcher Ulrich gives us an intimate and densely imagined portrait, not only of the industrious and reticent Martha Ballard but of her society. At once lively and impeccably scholarly, A Midwife's Tale is a triumph of history on a human scale.  
+
+
+</details>
+
+
 <details><summary><a name="mimicking_of_known_successes_by_malka_older"></a>The Mimicking of Known Successes. By Malka Older. 2023 </summary>
 
 ### The Mimicking of Known Successes. (4:27)  
