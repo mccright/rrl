@@ -4337,6 +4337,24 @@ Article about the book by Gwen Strauss: https://time.com/6045666/nazi-escape-wom
 </details>
 
 
+<details><summary><a name="no_ordinary_joes_by_larry_colton"></a>No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life. By Larry Colton. 2010  </summary>
+
+### No Ordinary Joes -- The Extraordinary True Story of Four Submariners in War and Love and Life.  (13:00)  
+Audio: https://www.overdrive.com/media/467395/no-ordinary-joes  
+eBook: https://www.overdrive.com/media/467492/no-ordinary-joes  
+By [Larry Colton](https://en.wikipedia.org/wiki/Larry_Colton)  (1942 – )  
+
+Reading Notes: Colton explores the lives of four of the [USS Grenadier's (SS-210)](https://en.wikipedia.org/wiki/USS_Grenadier_(SS-210)) submariners (*a [Tambor-class](https://en.wikipedia.org/wiki/Tambor-class_submarine) [submarine](https://en.wikipedia.org/wiki/Submarine), commissioned in 1941 and was scuttled in 1943*).  The men included: Bob Palmer of Medford, Oregon; Chuck Vervalin of Dundee, New York; Tim McCoy of Dallas, Texas; and Gordy Cox of Yakima, Washington.  The author provides a short pre-military biography of each man, documenting why each enlisted, and then follows their progress to the USS Grenadier.  They were "*based*" in the Philippines and then Australia.  
+The USS Grenatier started its 6th cruise on March 20, 1943.  April 22nd, they saw two enemy freighters and their captain called for a daylight attack.  The Grenatier surfaced on April 23rd, was identified by a Japanese torpedo plane and they were struck by the explosion of a 1900 lb torpedo.  They quickly sank to the bottom at 190 feet, destroying their prop and their radio and starting electrical fires and the boat was taking on lots of water.  After 15 hours on the bottom performing emergency repairs, they got the submarine back up to the surface -- but without functional diesel drive nor radio.  They set a sail in hopes of reaching any of nearby coasts.  After seeing an enemy ship, the captain decided to abandone ship.  They destroyed all valuable documents, then destroyed all sensitive components of the submarine.  Then a Japanese dive bomber arrived, missing the submarine with two bombs and then flying off.  All hands left the ship and the captain sunk it.  
+The men were captured and taken as POWs to be held for two years, until the war ended.  
+
+Review by [C. Peter Chen](https://ww2db.com/person_bio.php?person_id=179):  [ww2db.com/read.php?read_id=228](https://ww2db.com/read.php?read_id=228)  
+Goodreads Summary and reviews: [goodreads.com/...no-ordinary-joes](https://www.goodreads.com/en/book/show/7054155-no-ordinary-joes)  
+
+
+</details>
+
+
 <details><summary><a name="non_technical_chats_by_la_verne_w_spring"></a>Non-technical chats on iron and steel and their application to modern industry. By la Verne W. Spring. 1917 </summary>
 
 ### Non-technical chats on iron and steel and their application to modern industry.  
