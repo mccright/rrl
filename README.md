@@ -847,6 +847,27 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)
 </details>
 
 
+<details><summary><a name="barons_of_the_sea_by_steven_ujifusa"></a>Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. By Steven Ujifusa. 2018  </summary>
+
+### Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. (12:25)  
+Audio: https://www.overdrive.com/media/3656595/barons-of-the-sea  
+eBook: https://www.overdrive.com/media/3717532/barons-of-the-sea  
+By [Steven Ujifusa](https://en.wikipedia.org/wiki/Steven_Ujifusa)  ( – )  
+
+Reading Notes:  I enjoyed this book. The Forbes and Delano families are at the center of this history of Americans who [smuggled opium](https://en.wikipedia.org/wiki/Clipper#Opium_clippers) into China and then (*because that generated profits and required knowledge about shipping/high seas sailing ships*) used their sailing-enabled business processes and wealth for high markup *commodities* across the globe. They amassed great generational fortunes.  Competition drove them to reduce the cycle-time of their global shipping schedules -- and helped drive technological change in mid-19th century high-speed merchant [clippers](https://en.wikipedia.org/wiki/Clipper#China_clipper). This is a business history, an economic history, a maritime history and a history of 19th century ocean sailing.  It is also a history of the Forbes and Delano families, one of them birthed the 32nd president of the United States, [Franklin Delano Roosevelt](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt).  
+Examples:  
+[Paul Delano](https://en.wikipedia.org/wiki/Paul_Delano)  
+[Franklin Hughes Delano](https://en.wikipedia.org/wiki/Franklin_Hughes_Delano)  
+
+[OverDrive Summary](https://www.overdrive.com/media/3656595/barons-of-the-sea):  
+>"A fascinating, fast-paced history...full of remarkable characters and incredible stories" about the nineteenth-century American dynasties who battled for dominance of the tea and opium trades (Nathaniel Philbrick, National Book Award–winning author of In the Heart of the Sea).  
+>There was a time, back when the United States was young and the robber barons were just starting to come into their own, when fortunes were made and lost importing luxury goods from China. It was a secretive, glamorous, often brutal business—one where teas and silks and porcelain were purchased with profits from the opium trade. But the journey by sea to New York from Canton could take six agonizing months, and so the most pressing technological challenge of the day became ensuring one's goods arrived first to market, so they might fetch the highest price.  
+>"With the verse of a natural dramatist" (The Christian Science Monitor), Steven Ujifusa tells the story of a handful of cutthroat competitors who raced to build the fastest, finest, most profitable clipper ships to carry their precious cargo to American shores. They were visionary, eccentric shipbuilders, debonair captains, and socially ambitious merchants with names like Forbes and Delano—men whose business interests took them from the cloistered confines of China's expatriate communities to the sin city decadence of Gold Rush-era San Francisco, and from the teeming hubbub of East Boston's shipyards and to the lavish sitting rooms of New York's Hudson Valley estates.  
+
+
+</details>
+
+
 <details><summary><a name="barsk_by_lawrence_m_schoen"></a>Barsk -- The Elephants' Graveyard. By Lawrence M. Schoen. 2015  </summary>
 
 ### Barsk -- The Elephants' Graveyard. (12:00)  
