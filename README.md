@@ -1903,7 +1903,7 @@ eBook: https://www.overdrive.com/media/10216867/dinosaurs-at-the-dinner-party
 By [Edward Dolnick](https://en.wikipedia.org/wiki/Edward_Dolnick) and at [edwarddolnick.net](https://edwarddolnick.net/?page_id=29)  (1952 – )  
 
 Reading Notes: Fossils and the fossil record forced humans to re-cast *time*, *history* and *God* in the 18th and 19th centuries.  Dolnick presents a series of 18th and 19th century characters who played leading roles in the "*discovery*" and popularization of dinosaurs before Darwin's 1859 "[On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)."  
-This is **not** the also-excellent "[Darwin's Ghosts: In Search of the First Evolutionists](darwins_ghosts_by_rebecca_stott)" by Rebecca Stott, which is a *deep* sweep of big ideas about "*evolution*" throughout human history.  
+This is **not** the also-excellent "[Darwin's Ghosts: In Search of the First Evolutionists](#darwins_ghosts_by_rebecca_stott)" by Rebecca Stott, which is a *deep* sweep of big ideas about "*evolution*" throughout human history.  
 * [Mary Anning](https://en.wikipedia.org/wiki/Mary_Anning) was an early 19th century English fossil collector, dealer, and amateur palaeontologist who made repeated discoveries in fossil beds in and near the cliffs at [Lyme Regis](https://en.wikipedia.org/wiki/Lyme_Regis) in the county of [Dorset](https://en.wikipedia.org/wiki/Dorset), South West England along the [English Channel](https://en.wikipedia.org/wiki/English_Channel).  "*Formal*" scientists used a her artifacts in their attempts to *explain* the natural world around them in a historical context.  
 * [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier), French naturalist and zoologist, sometimes referred to as the "founding father of paleontology." He was a major figure in natural sciences research in the early 19th century and was instrumental in establishing the fields of comparative anatomy and paleontology through his work in comparing living animals with fossils.  
 * [Jean-Baptiste Lamarck](https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck), often known simply as Lamarck, was a French naturalist, biologist, academic, and soldier. He was an early proponent of the idea that biological evolution occurred and proceeded in accordance with natural laws, though the mechanism he suggested has been thoroughly refuted.  
@@ -1921,7 +1921,7 @@ Interview with Edward Dolnick by [Sadie Stein](): [nytimes.com/.../edward-dolnic
 </details>
 
 
-<details><summary>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>
+<details><summary><a name="the_disciplinary_circuit_by_murray_leinster"></a>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>
 
 ### The Disciplinary Circuit.  (1:36)  
 https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
@@ -1937,7 +1937,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Double Agent. By William Christie. 2022</summary>
+<details><summary><a name="the_double_agent_by_william_christie"></a>The Double Agent. By William Christie. 2022</summary>
 
 ### The Double Agent. (9:24)  
 Audio: https://www.overdrive.com/media/9127507/the-double-agent  
@@ -1946,7 +1946,7 @@ By [William Christie](https://williamchristieauthor.com/contactmeandbiography) (
 
 Reader notes: If you like spy, [action](https://en.wikipedia.org/wiki/Action_fiction), WWII novels, this might be a good fit.  The author keeps the tension high throughout much of this story.  We follow a *super-spy* through roughly a year of his life as he guts through one unlucky turn after another. I especially enjoyed the author's dry humor and an excellent audio performance by Pete Cross.  
 [OverDrive Summary](https://www.overdrive.com/media/9127507/the-double-agent):  
->"Alexsi Smirnoff - a Russian orphan - was trained as an agent by the Russian Secret Service and inserted into Nazi Germany, where he rose to a position in German intelligence services. As the war grinds on, trapped between two brutal dictatorships, Alexsi betrays both sides in a desperate ploy that succeeds...and fails. His false identities burned, his life at risk, Alexsi attempts to disappear in the hills - but is caught by the British.  Recruited by the SIS, and by "C" himself, Alexsi is once again a double agent. Initially betrayed by a Soviet agent inside the SIS (Kim Philby), Alexsi is sent beyond the reach of the Soviets, into Italy with a new identity as a sergeant in the German army. Settled into the headquarters of Field Marshall Albert Kesselring, Alexsi finds himself at the nexus at a critical point in World War II, balancing between the various forces vying for control in the Vatican, the Italian resistance, and the brutal German Army determined to maintain control of Northern Italy. And Alexsi, finally forced to choose sides over his own survival.Sequel to the well-regarded A Single Spy, The Double Agent is a fast-paced, compelling novel of espionage in the most momentous and dangerous of times."  
+>"Alexsi Smirnoff - a Russian orphan - was trained as an agent by the Russian Secret Service and inserted into Nazi Germany, where he rose to a position in German intelligence services. As the war grinds on, trapped between two brutal dictatorships, Alexsi betrays both sides in a desperate ploy that succeeds...and fails. His false identities burned, his life at risk, Alexsi attempts to disappear in the hills - but is caught by the British.  Recruited by the SIS, and by "C" himself, Alexsi is once again a double agent. Initially betrayed by a Soviet agent inside the SIS (Kim Philby), Alexsi is sent beyond the reach of the Soviets, into Italy with a new identity as a sergeant in the German army. Settled into the headquarters of Field Marshall Albert Kesselring, Alexsi finds himself at the nexus at a critical point in World War II, balancing between the various forces vying for control in the Vatican, the Italian resistance, and the brutal German Army determined to maintain control of Northern Italy. And Alexsi, finally forced to choose sides over his own survival.  Sequel to the well-regarded A Single Spy, The Double Agent is a fast-paced, compelling novel of espionage in the most momentous and dangerous of times."  
 
 </details>
 
