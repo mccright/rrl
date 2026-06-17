@@ -1879,7 +1879,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Diamond_Age
 </details>
 
 
-<details><summary>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
+<details><summary><a name="dickens_and_prince_by_nick_hornby"></a>Dickens and Prince -- A Particular Kind of Genius. By Nick Hornby. 2022</summary>
 
 ### Dickens and Prince -- A Particular Kind of Genius. (3:07)  
 Audio: https://www.overdrive.com/media/8795278/dickens-and-prince  
@@ -1890,6 +1890,33 @@ Reading Notes: The author explores the lives of two prolific creative geniuses, 
 
 From the Overdrive Summary:  
 >Examining the two artists’ personal tragedies, social statuses, boundless productivity, and other parallels, both humorous and haunting, Hornby shows how these two unlikely men from different centuries “lit up the world.” In the process, he creates a lively, stimulating rumination on the creativity, flamboyance, discipline, and soul it takes to produce great art.  
+
+</details>
+
+
+<details>
+<summary><a name="dinosaurs_at_the_dinner_party_by_edward_dolnick"></a>Dinosaurs at the Dinner Party -- How an Eccentric Group of Victorians Discovered Prehistoric Creatures and Accidentally Upended the World. By Edward Dolnick. 2024 </summary>
+
+### Dinosaurs at the Dinner Party -- How an Eccentric Group of Victorians Discovered Prehistoric Creatures and Accidentally Upended the World.  (9:00)  
+Audio: https://www.overdrive.com/media/10334505/dinosaurs-at-the-dinner-party  
+eBook: https://www.overdrive.com/media/10216867/dinosaurs-at-the-dinner-party  
+By [Edward Dolnick](https://en.wikipedia.org/wiki/Edward_Dolnick) and at [edwarddolnick.net](https://edwarddolnick.net/?page_id=29)  (1952 – )  
+
+Reading Notes: Fossils and the fossil record forced humans to re-cast *time*, *history* and *God* in the 18th and 19th centuries.  Dolnick presents a series of 18th and 19th century characters who played leading roles in the "*discovery*" and popularization of dinosaurs before Darwin's 1859 "[On the Origin of Species](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)."  
+This is **not** the also-excellent "[Darwin's Ghosts: In Search of the First Evolutionists](darwins_ghosts_by_rebecca_stott)" by Rebecca Stott, which is a *deep* sweep of big ideas about "*evolution*" throughout human history.  
+* [Mary Anning](https://en.wikipedia.org/wiki/Mary_Anning) was an early 19th century English fossil collector, dealer, and amateur palaeontologist who made repeated discoveries in fossil beds in and near the cliffs at [Lyme Regis](https://en.wikipedia.org/wiki/Lyme_Regis) in the county of [Dorset](https://en.wikipedia.org/wiki/Dorset), South West England along the [English Channel](https://en.wikipedia.org/wiki/English_Channel).  "*Formal*" scientists used a her artifacts in their attempts to *explain* the natural world around them in a historical context.  
+* [Georges Cuvier](https://en.wikipedia.org/wiki/Georges_Cuvier), French naturalist and zoologist, sometimes referred to as the "founding father of paleontology." He was a major figure in natural sciences research in the early 19th century and was instrumental in establishing the fields of comparative anatomy and paleontology through his work in comparing living animals with fossils.  
+* [Jean-Baptiste Lamarck](https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck), often known simply as Lamarck, was a French naturalist, biologist, academic, and soldier. He was an early proponent of the idea that biological evolution occurred and proceeded in accordance with natural laws, though the mechanism he suggested has been thoroughly refuted.  
+* [Charles Lyell](https://en.wikipedia.org/wiki/Charles_Lyell) was a Scottish geologist who demonstrated the power of known natural causes in explaining the earth's history. He is best known today for his association with Charles Darwin and his publications detailing the idea that the earth was shaped by the same natural processes still in operation today, operating at similar intensities -- as opposed to [catastrophism](https://en.wikipedia.org/wiki/Catastrophism), which had been championed by Georges Cuvier.  
+* [William Buckland](https://en.wikipedia.org/wiki/William_Buckland)'s work in the early 1820s proved that [Kirkdale Cave](https://en.wikipedia.org/wiki/Kirkdale_Cave) in North Yorkshire had been a prehistoric hyena den, for which he was awarded the [Copley Medal](https://en.wikipedia.org/wiki/Copley_Medal). It was praised as an example of how scientific analysis could reconstruct events in the distant past. He also wrote the first full account of a fossil dinosaur, which he named [Megalosaurus](https://en.wikipedia.org/wiki/Megalosaurus) in 1824.  Buckland followed the [Gap Theory](https://en.wikipedia.org/wiki/Gap_creationism) in interpreting the [biblical account of Genesis](https://en.wikipedia.org/wiki/Deluge_myth) as two widely separated episodes of creation. It had emerged as a way to reconcile the scriptural account with discoveries in geology suggesting the earth was very old.  
+* [Gideon Mantell](https://en.wikipedia.org/wiki/Gideon_Mantell), discoverer of the [iguanodon](https://en.wikipedia.org/wiki/Iguanodon).  He was an English obstetrician, geologist and palaeontologist. His attempts to reconstruct the structure and life of Iguanodon began the scientific study of dinosaurs.  
+* [Richard Owen](https://en.wikipedia.org/wiki/Richard_Owen) coined the term "*dinosaur*" and "*[Dinosauria](https://en.wikipedia.org/wiki/Dinosauria)*."  He is [considered to have been an outstanding naturalist with a remarkable gift for interpreting fossils](https://en.wikipedia.org/wiki/Richard_Owen).  And he was influencial in establishing the Natural History Museum in London.  
+* [Benjamin Waterhouse Hawkins](https://en.wikipedia.org/wiki/Benjamin_Waterhouse_Hawkins) was an English sculptor and natural history artist renowned for his work on the life-size models of dinosaurs in the [Crystal Palace Park](https://en.wikipedia.org/wiki/Crystal_Palace_Dinosaurs) in south London. The models, accurately made using the latest scientific knowledge, created a sensation at the time. Hawkins was also a noted lecturer on zoological topics.   
+* Richard Owen and Benjamin Hawkins rebuild the Crystal Palace as a popular *dinosaur* exhibit.  
+* Benjamin Waterhouse Hawkins hosted a dinner party for 22 scientists, writers and editors on New Year's Eve 1853 held inside a huge cut open dinosaur.  
+
+Review by [Bryan Ness](https://blog.puc.edu/2018/11/02/facultyfriday-meet-bryan-ness/): [spectrummagazine.org/...dinosaurs-at-the-dinner-party-by-edward-dolnick/](https://spectrummagazine.org/culture/a-review-of-dinosaurs-at-the-dinner-party-by-edward-dolnick/)  Bryan D. Ness, Ph.D., professor, has been at PUC since 1989. His research interests include plant systematics and genetics. He advises in the areas of biology, natural science, veterinary medicine, medical radiography and occupational therapy.  
+Interview with Edward Dolnick by [Sadie Stein](): [nytimes.com/.../edward-dolnick.html](https://www.nytimes.com/2024/08/30/books/booksupdate/edward-dolnick.html)  
 
 </details>
 
