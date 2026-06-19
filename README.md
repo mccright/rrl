@@ -2106,7 +2106,7 @@ Reading Notes: See the Overdirve summary...  I listened to this short book while
 </details>
 
 
-<details><summary>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
+<details><summary><a name="eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor"></a>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
 https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
