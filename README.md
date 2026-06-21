@@ -4260,6 +4260,7 @@ Review of the audio book by [Marlene Harris](https://www.readingreality.net/abou
 Review by [Gary K. Wolfe](https://en.wikipedia.org/wiki/Gary_K._Wolfe): https://locusmag.com/2022/11/gary-k-wolfe-reviews-the-mountain-in-the-sea-by-ray-nayler/  
 A review by Zachary Houle: https://zachary-houle.medium.com/book-review-the-mountain-in-the-sea-by-ray-nayler-e3911ca111ce  
 Review by Steven Poole: [https://www.theguardian.com/...the-mountain-in-the-sea...](https://www.theguardian.com/books/2023/feb/18/the-mountain-in-the-sea-by-ray-nayler-how-to-speak-octopus) 
+Wikipedia Summary: [wikipedia.org/wiki/The_Mountain_in_the_Sea](https://en.wikipedia.org/wiki/The_Mountain_in_the_Sea)  
 
 </details>
 
