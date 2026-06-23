@@ -5396,6 +5396,24 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Rise_to_Rebellion
 </details>
 
 
+<details><summary><a name="the_road_by_cormac_mccarthy"></a>The Road.  By Cormac McCarthy. 2006 </summary>
+
+### The Road.  (7:00)  
+Audio: https://www.overdrive.com/media/239141/the-road  
+eBook: https://www.overdrive.com/media/148046/the-road  
+By [Cormac McCarthy](https://en.wikipedia.org/wiki/Cormac_McCarthy)  (1933 – 2023)  
+
+Reading Notes: This is a unique postapocalyptic novel. In a cold, dark, ashen, hungry time after an undescribed catastrophy this story follows a man and his son (*both unnamed*) on their long walk to the sea.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Road](https://en.wikipedia.org/wiki/The_Road)  
+
+Overdrive Summary: [overdrive.com/media/148046/the-road](https://www.overdrive.com/media/148046/the-road)  
+>A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don't know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food-and each other. The Road is the profoundly moving story of a journey. It boldly imagines a future in which no hope remains, but in which the father and his son, "each the other's world entire," are sustained by love. Awesome in the totality of its vision, it is an unflinching meditation on the worst and the best that we are capable of: ultimate destructiveness, desperate tenacity, and the tenderness that keeps two people alive in the face of total devastation.  
+  
+
+</details>
+
+
 <details><summary><a name="robopocalypse_daniel_h_wilson"></a>Robopocalypse -- A Novel. By Daniel H. Wilson. 2011 </summary>
 
 ### Robopocalypse. (13:00)  
