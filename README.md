@@ -5340,6 +5340,25 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)
 </details>
 
 
+<details><summary><a name="the_revenant_by_michael_punke"></a>The Revenant.  By Michael Punke.  2002/2015  </summary>
+
+### The Revenant.  (9:00)  
+Audio: https://www.overdrive.com/media/2097036/the-revenant  
+eBook: https://www.overdrive.com/media/1893958/the-revenant  
+By [Michael Punke](https://en.wikipedia.org/wiki/Michael_Punke)  (1964 – )  
+
+Reading Notes: This story is "based on a series of events in the life of American frontiersman [Hugh Glass](https://en.wikipedia.org/wiki/Hugh_Glass) in 1823 [Missouri Territory](https://en.wikipedia.org/wiki/Missouri_Territory).  I found this a gripping tale written in a manner that held my attention. The word "[revenant](https://en.wikipedia.org/wiki/Revenant)" means someone who has risen from the grave to terrorize the living."  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Revenant_(novel)) for a proper summary of this story.  
+
+If you enjoy stories about American Western frontiersmen, trappers, explorers, etc. in the 19th century you might also like: [The Big Sky](#the_big_sky_by_a_b_guthrie) by A. B. Guthrie, Jr, or the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), [Eleven Years in the Rocky Mountains and Life on the Frontier](#eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor) by Frances A. Fuller Victor.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Revenant_(novel)](https://en.wikipedia.org/wiki/The_Revenant_(novel))  
+
+Overdrive Summary: [overdrive.com/media/1893958/the-revenant](https://www.overdrive.com/media/1893958/the-revenant)  
+>The year is 1823, and the trappers of the Rocky Mountain Fur Company live a brutal frontier life. Hugh Glass is among the company's finest men, an experienced frontiersman and an expert tracker. But when a scouting mission puts him face-to-face with a grizzly bear, he is viciously mauled and not expected to survive. Two company men are dispatched to stay behind and tend to Glass before he dies. When the men abandon him instead, Glass is driven to survive by one desire: revenge. With shocking grit and determination, Glass sets out, crawling at first, across hundreds of miles of uncharted American frontier.  Based on a true story, The Revenant is a remarkable tale of obsession, the human will stretched to its limits, and the lengths that one man will go to for retribution.  
+
+</details>
+
+
 <details><summary><a name="revenge_of_the_tipping_point_by_malcolm_gladwell"></a>Revenge of the Tipping Point -- Overstories, Superspreaders, and the Rise of Social Engineering. By Malcolm Gladwell. 2024 </summary>
 
 ### Revenge of the Tipping Point -- Overstories, Superspreaders, and the Rise of Social Engineering. (8:00)  
