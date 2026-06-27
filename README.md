@@ -4410,6 +4410,35 @@ She excelled academically, held a range of student leadership positions, and ear
 </details>
 
 
+<details><summary><a name="never_by_ken_follett"></a>Never -- A Novel. By Ken Follett. 2021  </summary>
+
+### Never -- A Novel.  (24:00)  
+Audio: https://www.overdrive.com/media/6069808/never  
+eBook: https://www.overdrive.com/media/6070420/never  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: This is an engaging example of [apocalypse fiction](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction). A series of *correct* decisions lead to misunderstandings that result in small-scale, and then large-scale nuclear war. See the [Overdrive Summary](https://www.overdrive.com/media/6070420/never) or the book reviews below for more...  
+American Embassy *on Avenue Mubutu*, N'Djamena, Chad.  
+
+Some major characters:  
+* Pauline Green, the U.S. president -- responds to a constellation of escalating incidents in Chad, Sudan, the South China Sea, Japan, North Korea, Japan, South Korea and Hawaii in ways that in isolation seem measured and proportionate, but that result in the start of nuclear war.  
+* Chang Kai, a high-ranking Chinese intelligence officer (*wife, Ting, a star in TV series "Love in the Palace"*) collaborates with U.S. and North Korean peers to help deal with increasing tensions -- Chinese leadership's "*old men*" war-hawks resist his efforts.  
+* Abdul John Haddad, a Lebanese American C.I.A. agent, identifies an ISIS base in Chad and an ISIS leader in Lybia while tracking a load of ISIS cocaine across the North Africa..  
+* Tamera Levett, from Chicago, CIA agent in the N'Djamena station -- *super* spy involved in serial crises.  
+* Tab ____, born in Lebanon educated in the U.S., wealthy parents in France, Employed by French security, Tamera Levett's love interest.  
+* Kia, widow near Lake Chad with toddler son Naji risk everything in an effort to reach Europe for a new life -- her quest intersects with Abdul Haddad's cocaine tracking mission -- they become a couple.  
+
+[Overdrive Summary](https://www.overdrive.com/media/6070420/never):  
+>“Every catastrophe begins with a little problem that doesn’t get fixed.” So says Pauline Green, president of the United States, in Follett’s nerve-racking drama of international tension.  A shrinking oasis in the Sahara Desert; a stolen US Army drone; an uninhabited Japanese island; and one country’s secret stash of deadly chemical poisons: all these play roles in a relentlessly escalating crisis.  Struggling to prevent the outbreak of world war are a young woman intelligence officer; a spy working undercover with jihadists; a brilliant Chinese spymaster; and Pauline herself, beleaguered by a populist rival for the next president election.  Never is an extraordinary novel, full of heroines and villains, false prophets and elite warriors, jaded politicians and opportunistic revolutionaries. It brims with cautionary wisdom for our times, and delivers a visceral, heart-pounding read that transports readers to the brink of the unimaginable.  
+
+Wikipedia Summary: [wikipedia.org/wiki/Never_(novel)](https://en.wikipedia.org/wiki/Never_(novel))  
+
+Review by Bill Sheehan:  [washingtonpost.com/.../never-ken-follett-book-review/2021/10/28/](https://www.washingtonpost.com/entertainment/books/never-ken-follett-book-review/2021/10/28/baaa6c78-3655-11ec-9bc4-86107e7b0ab1_story.html)  
+Review by Tobias Carroll: [nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel](https://www.nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel.html)  
+
+</details>
+
+
 <details><summary><a name="new_york_2140"></a>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
 ### New York 2140 (22:35)  
