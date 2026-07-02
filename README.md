@@ -6480,7 +6480,7 @@ Reading Notes: An interesting narrative about how generations of Vanderbilts tre
 </details>
 
 
-<details><summary><a name=""></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+<details><summary><a name="veronica_ruiz_breaks_the_bank_by_elle_cosimano"></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
 
 ### Veronica Ruiz Breaks the Bank. (2:27)  
 Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
@@ -6492,8 +6492,27 @@ Reading Notes: This is a light, quick story about a young down-on-her-luck woman
 </details>
 
 
+<details><summary><a name="a_very_short_history_of_life_on_earth_by_henry_gee"></a>A (Very) Short History of Life on Earth -- 4.6 Billion Years in 12 Pithy Chapters.  By Henry Gee.  2021  </summary>
 
-<details><summary><a name=""></a>Victory.  By Lester del Rey.  1955 </summary>
+### A (Very) Short History of Life on Earth -- 4.6 Billion Years in 12 Pithy Chapters.  (8:00)  
+Audio: https://www.overdrive.com/media/6092185/a-very-short-history-of-life-on-earth  
+eBook: https://www.overdrive.com/media/6224456/a-very-short-history-of-life-on-earth  
+By [Henry Gee](https://en.wikipedia.org/wiki/Henry_Gee)  (1962 – )  
+
+Reading Notes: This seems like a set of lectures from a great college introductory course on the history of earth and life on earth.  As a result, it screams for research and reading in preparation for and review after each lecture/chapter.  Given my background and field of education, there were many chunks of this content that depended on fluency (*or at least a reasonably mature awareness*) in terms and concepts to which I have only a *misty* passing memory or sometimes no memory at all.  That said, it was an interesting survey of earth and *animal* history.  
+My only real criticism of the audio book is its near-constant background music.  It did not add value to the listening experience for me and it sometimes detracted from the narration.  
+
+
+Overdrive Summary: [overdrive.com/media/6092185/a-very-short-history-of-life-on-earth](https://www.overdrive.com/media/6092185/a-very-short-history-of-life-on-earth)  
+>In the beginning, Earth was an inhospitably alien place -- in constant chemical flux, covered with churning seas, crafting its landscape through incessant volcanic eruptions. Amid all this tumult and disaster, life began. The earliest living things were no more than membranes stretched across microscopic gaps in rocks, where boiling hot jets of mineral-rich water gushed out from cracks in the ocean floor.  
+>Although these membranes were leaky, the environment within them became different from the raging maelstrom beyond. These havens of order slowly refined the generation of energy, using it to form membrane-bound bubbles that were mostly-faithful copies of their parents -- a foamy lather of soap-bubble cells standing as tiny clenched fists, defiant against the lifeless world. Life on this planet has continued in much the same way for millennia, adapting to literally every conceivable setback that living organisms could encounter and thriving, from these humblest beginnings to the thrilling and unlikely story of ourselves.  
+>In A (Very) Short History of Life on Earth, Henry Gee zips through the last 4.6 billion years with infectious enthusiasm and intellectual rigor. Drawing on the very latest scientific understanding and writing in a clear, accessible style, he tells an enlightening tale of survival and persistence that illuminates the delicate balance within which life has always existed.  
+
+
+</details>
+
+
+<details><summary><a name="victory_by_lester_del_rey"></a>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/  
