@@ -4410,6 +4410,35 @@ She excelled academically, held a range of student leadership positions, and ear
 </details>
 
 
+<details><summary><a name="never_by_ken_follett"></a>Never -- A Novel. By Ken Follett. 2021  </summary>
+
+### Never -- A Novel.  (24:00)  
+Audio: https://www.overdrive.com/media/6069808/never  
+eBook: https://www.overdrive.com/media/6070420/never  
+By [Ken Follett](https://en.wikipedia.org/wiki/Ken_Follett)  (1949 – )  
+
+Reading Notes: This is an engaging example of [apocalypse fiction](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction). A series of *correct* decisions lead to misunderstandings that result in small-scale, and then large-scale nuclear war. See the [Overdrive Summary](https://www.overdrive.com/media/6070420/never) or the book reviews below for more...  
+American Embassy *on Avenue Mubutu*, N'Djamena, Chad.  
+
+Some major characters:  
+* Pauline Green, the U.S. president -- responds to a constellation of escalating incidents in Chad, Sudan, the South China Sea, Japan, North Korea, Japan, South Korea and Hawaii in ways that in isolation seem measured and proportionate, but that result in the start of nuclear war.  
+* Chang Kai, a high-ranking Chinese intelligence officer (*wife, Ting, a star in TV series "Love in the Palace"*) collaborates with U.S. and North Korean peers to help deal with increasing tensions -- Chinese leadership's "*old men*" war-hawks resist his efforts.  
+* Abdul John Haddad, a Lebanese American C.I.A. agent, identifies an ISIS base in Chad and an ISIS leader in Lybia while tracking a load of ISIS cocaine across the North Africa..  
+* Tamera Levett, from Chicago, CIA agent in the N'Djamena station -- *super* spy involved in serial crises.  
+* Tab ____, born in Lebanon educated in the U.S., wealthy parents in France, Employed by French security, Tamera Levett's love interest.  
+* Kia, widow near Lake Chad with toddler son Naji risk everything in an effort to reach Europe for a new life -- her quest intersects with Abdul Haddad's cocaine tracking mission -- they become a couple.  
+
+[Overdrive Summary](https://www.overdrive.com/media/6070420/never):  
+>“Every catastrophe begins with a little problem that doesn’t get fixed.” So says Pauline Green, president of the United States, in Follett’s nerve-racking drama of international tension.  A shrinking oasis in the Sahara Desert; a stolen US Army drone; an uninhabited Japanese island; and one country’s secret stash of deadly chemical poisons: all these play roles in a relentlessly escalating crisis.  Struggling to prevent the outbreak of world war are a young woman intelligence officer; a spy working undercover with jihadists; a brilliant Chinese spymaster; and Pauline herself, beleaguered by a populist rival for the next president election.  Never is an extraordinary novel, full of heroines and villains, false prophets and elite warriors, jaded politicians and opportunistic revolutionaries. It brims with cautionary wisdom for our times, and delivers a visceral, heart-pounding read that transports readers to the brink of the unimaginable.  
+
+Wikipedia Summary: [wikipedia.org/wiki/Never_(novel)](https://en.wikipedia.org/wiki/Never_(novel))  
+
+Review by Bill Sheehan:  [washingtonpost.com/.../never-ken-follett-book-review/2021/10/28/](https://www.washingtonpost.com/entertainment/books/never-ken-follett-book-review/2021/10/28/baaa6c78-3655-11ec-9bc4-86107e7b0ab1_story.html)  
+Review by Tobias Carroll: [nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel](https://www.nytimes.com/2021/11/23/books/review/follett-mccloskey-rosenstiel.html)  
+
+</details>
+
+
 <details><summary><a name="new_york_2140"></a>New York 2140, By Kim Stanley Robinson. 2017 (A "Must Read!" book about climate change)</summary>  
 
 ### New York 2140 (22:35)  
@@ -5336,6 +5365,25 @@ By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 --  )
 Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)  
+
+</details>
+
+
+<details><summary><a name="the_revenant_by_michael_punke"></a>The Revenant.  By Michael Punke.  2002/2015  </summary>
+
+### The Revenant.  (9:00)  
+Audio: https://www.overdrive.com/media/2097036/the-revenant  
+eBook: https://www.overdrive.com/media/1893958/the-revenant  
+By [Michael Punke](https://en.wikipedia.org/wiki/Michael_Punke)  (1964 – )  
+
+Reading Notes: This story is "based on a series of events in the life of American frontiersman [Hugh Glass](https://en.wikipedia.org/wiki/Hugh_Glass) in 1823 [Missouri Territory](https://en.wikipedia.org/wiki/Missouri_Territory).  I found this a gripping tale written in a manner that held my attention. The word "[revenant](https://en.wikipedia.org/wiki/Revenant)" means someone who has risen from the grave to terrorize the living."  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Revenant_(novel)) for a proper summary of this story.  
+
+If you enjoy stories about American Western frontiersmen, trappers, explorers, etc. in the 19th century you might also like: [The Big Sky](#the_big_sky_by_a_b_guthrie) by A. B. Guthrie, Jr, or the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), [Eleven Years in the Rocky Mountains and Life on the Frontier](#eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor) by Frances A. Fuller Victor.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Revenant_(novel)](https://en.wikipedia.org/wiki/The_Revenant_(novel))  
+
+Overdrive Summary: [overdrive.com/media/1893958/the-revenant](https://www.overdrive.com/media/1893958/the-revenant)  
+>The year is 1823, and the trappers of the Rocky Mountain Fur Company live a brutal frontier life. Hugh Glass is among the company's finest men, an experienced frontiersman and an expert tracker. But when a scouting mission puts him face-to-face with a grizzly bear, he is viciously mauled and not expected to survive. Two company men are dispatched to stay behind and tend to Glass before he dies. When the men abandon him instead, Glass is driven to survive by one desire: revenge. With shocking grit and determination, Glass sets out, crawling at first, across hundreds of miles of uncharted American frontier.  Based on a true story, The Revenant is a remarkable tale of obsession, the human will stretched to its limits, and the lengths that one man will go to for retribution.  
 
 </details>
 
@@ -6432,7 +6480,7 @@ Reading Notes: An interesting narrative about how generations of Vanderbilts tre
 </details>
 
 
-<details><summary><a name=""></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
+<details><summary><a name="veronica_ruiz_breaks_the_bank_by_elle_cosimano"></a>Veronica Ruiz Breaks the Bank. By Elle Cosimano. 2023 </summary>
 
 ### Veronica Ruiz Breaks the Bank. (2:27)  
 Audio: https://www.overdrive.com/media/10043384/veronica-ruiz-breaks-the-bank  
@@ -6444,8 +6492,27 @@ Reading Notes: This is a light, quick story about a young down-on-her-luck woman
 </details>
 
 
+<details><summary><a name="a_very_short_history_of_life_on_earth_by_henry_gee"></a>A (Very) Short History of Life on Earth -- 4.6 Billion Years in 12 Pithy Chapters.  By Henry Gee.  2021  </summary>
 
-<details><summary><a name=""></a>Victory.  By Lester del Rey.  1955 </summary>
+### A (Very) Short History of Life on Earth -- 4.6 Billion Years in 12 Pithy Chapters.  (8:00)  
+Audio: https://www.overdrive.com/media/6092185/a-very-short-history-of-life-on-earth  
+eBook: https://www.overdrive.com/media/6224456/a-very-short-history-of-life-on-earth  
+By [Henry Gee](https://en.wikipedia.org/wiki/Henry_Gee)  (1962 – )  
+
+Reading Notes: This seems like a set of lectures from a great college introductory course on the history of earth and life on earth.  As a result, it screams for research and reading in preparation for and review after each lecture/chapter.  Given my background and field of education, there were many chunks of this content that depended on fluency (*or at least a reasonably mature awareness*) in terms and concepts to which I have only a *misty* passing memory or sometimes no memory at all.  That said, it was an interesting survey of earth and *animal* history.  
+My only real criticism of the audio book is its near-constant background music.  It did not add value to the listening experience for me and it sometimes detracted from the narration.  
+
+
+Overdrive Summary: [overdrive.com/media/6092185/a-very-short-history-of-life-on-earth](https://www.overdrive.com/media/6092185/a-very-short-history-of-life-on-earth)  
+>In the beginning, Earth was an inhospitably alien place -- in constant chemical flux, covered with churning seas, crafting its landscape through incessant volcanic eruptions. Amid all this tumult and disaster, life began. The earliest living things were no more than membranes stretched across microscopic gaps in rocks, where boiling hot jets of mineral-rich water gushed out from cracks in the ocean floor.  
+>Although these membranes were leaky, the environment within them became different from the raging maelstrom beyond. These havens of order slowly refined the generation of energy, using it to form membrane-bound bubbles that were mostly-faithful copies of their parents -- a foamy lather of soap-bubble cells standing as tiny clenched fists, defiant against the lifeless world. Life on this planet has continued in much the same way for millennia, adapting to literally every conceivable setback that living organisms could encounter and thriving, from these humblest beginnings to the thrilling and unlikely story of ourselves.  
+>In A (Very) Short History of Life on Earth, Henry Gee zips through the last 4.6 billion years with infectious enthusiasm and intellectual rigor. Drawing on the very latest scientific understanding and writing in a clear, accessible style, he tells an enlightening tale of survival and persistence that illuminates the delicate balance within which life has always existed.  
+
+
+</details>
+
+
+<details><summary><a name="victory_by_lester_del_rey"></a>Victory.  By Lester del Rey.  1955 </summary>
 
 ### Victory.  (1:59)  
 https://librivox.org/victory-by-lester-del-rey-2/  
