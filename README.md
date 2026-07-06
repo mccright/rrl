@@ -1674,7 +1674,7 @@ Reading Notes: Raised on thin charicature of Daniel Boone as an early American f
 </details>
 
 
-<details><summary><a name="the_dark_forest_by_cixin_liu"></a>The Dark Forest -- Remembrance of Earth's Past trilogy, Book #2. By Cixin Liu. 2008/2015 </summary>
+<details><summary><a name="the_dark_forest_by_cixin_liu"></a>The Dark Forest -- Remembrance of Earth's Past trilogy, Book #2. By Cixin Liu. 2008/English translation in 2015 </summary>
 
 ### The Dark Forest -- Remembrance of Earth's Past Book #2.  (13:26)  
 Audio: https://www.overdrive.com/media/2259676/the-dark-forest  
