@@ -663,6 +663,28 @@ Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://
 </details>
 
 
+<details><summary><a name="the_art_spy_by_michelle_young"></a>The Art Spy -- The Extraordinary Untold Tale of WWII Resistance Hero Rose Valland.  By Michelle Young.  2025  </summary>
+
+### The Art Spy -- The Extraordinary Untold Tale of WWII Resistance Hero Rose Valland. (12:00)  
+Audio: https://www.overdrive.com/media/11090957/the-art-spy  
+eBook: https://www.overdrive.com/media/11091111/the-art-spy  
+By [Michelle Young](https://michelleyoungwriter.com/about)  ( – )  
+
+Reading Notes: The scale of the effort required to assemble this book from what must have been extremely challenging collections of archival documents and letters, especially because of the French Museum *'authorities'*' efforts to erase the subject of this story.  The backbone of this book is the story of how Rose Valland, an art museum professional (of various titles) in Paris who carefully recorded the Nazi pillaging of art works from across Paris and throughout France (both *occupied* and *free*) -- and in the process, documented a slice of Nazi genocide of *Jews* and others they deemed toxic to their imagined super-race -- and shared the details of those activities with French resistance groups and with the French government in exile.  Following the end of WWII, Valland became a leading authority on art stolen by Nazis and their collabortors, then a widely recognized expert sluth tracking down "*lost*" artwork across Europe and Russia.  In a manner analogous to Christopher Browning's "[Ordinary Men](#ordinary_men_by_christopher_r_browning) the author also documents some of the outermost dangers posed by *dictators*, politicians and fascist political movements animated by dehumanizing "*others*" and then challenging the resulting animus into violence.  For those reasons, this book is worth reading.  Some may, though, find the scale of the *listing* of specific Nazi thefts **sometimes** tiring (*I did*) -- there must be some art of turning catalogs of artifact *movements* into a story that this book only *mostly* achieved.  Other than that sensation, this was a rewarding read.  
+
+Author's Book Page for 'The Art Spy.' [michelleyoungwriter.com/theartspy](https://michelleyoungwriter.com/theartspy)  
+
+Overdrive Summary: [overdrive.com/media/11091111/the-art-spy](https://www.overdrive.com/media/11091111/the-art-spy)  
+>On August 25, 1944, Rose Valland, a woman of quiet daring, found herself in a desperate position. From the windows of her beloved Jeu de Paume museum, where she had worked and ultimately spied, she could see the battle to liberate Paris thundering around her. The Jeu de Paume, co-opted by Nazi leadership, was now the Germans' final line of defense. Would the museum curator be killed before she could tell the truth—a story that would mean nothing less than saving humanity's cultural inheritance?
+>Based on troves of previously undiscovered documents, The Art Spy chronicles the brave actions of the key Resistance spy in the heart of the Nazi's art looting headquarters in the French capital. A veritable female Monuments Man, Valland has, until now, been written out of the annals. While Hitler was amassing stolen art for his future Führermuseum, Valland, his undercover adversary, secretly worked to stop him. She came face to face with Reichsmarschall Hermann Göring, passed crucial information to the Resistance network, and faced death during the last hours of Liberation Day.
+>At the same time, a young Free French soldier, Alexandre Rosenberg , was fighting his way to Paris with the Allied forces battling to liberate France. Alexandre's father was the exclusive art dealer for Picasso, Matisse, George Braque, and Fernand Léger. The Nazis had taken everything from their family—their art collection, their nationality, their gallery, and their home in Paris.
+>Vivid and atmospheric, The Art Spy moves from the glittering days of pre-War Paris, home to geniuses of modern culture, including Picasso, Josephine Baker, Coco Chanel, and Frida Kahlo, through the tension-riddled cities of Europe on the eve of war, to the harrowing years of the Nazi occupation of France when brave people such as Valland and Rosenberg risked everything to fight monstrous evil.
+>In the spirit of [Hidden Figures](https://www.overdrive.com/media/2465952/hidden-figures), with the sweeping narrative of [The Rape of Europa](https://www.overdrive.com/media/306388/the-rape-of-europa), The Art Spy is an inspiration for us all—an extraordinary tale of courage in a time of violence.  
+
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
