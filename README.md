@@ -1814,6 +1814,22 @@ Overdrive Summary:
 </details>
 
 
+<details><summary><a name="deliver_us_from_evil_by_david_baldacci"></a>Deliver Us from Evil -- Shaw and Katie James #2. By David Baldacci. 2010 </summary>
+
+### Deliver Us from Evil -- Shaw and Katie James #2.  (14:00)  
+Audio: https://www.overdrive.com/media/316963/deliver-us-from-evil  
+eBook: https://www.overdrive.com/media/288745/deliver-us-from-evil  
+By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
+
+Reading Notes: Suspense thriller.  Impossibly talented, *haunted* American special agent hunts human trafficer.  So does a British *unofficial* assassin.  They cross paths.  Complications follow.  
+Some core characters:  
+Shaw, an operative from *The Whole Truth*.  
+Evan Waller, Ukrainian, ex Soviet *police*, murderer at scale. Now living in Canada running a global human trafficing business.  Trying to break into the business of selling stolen highly enhanced uranium (HEU).  
+Reggie Campion, member of a secret vigilante group based in England.  
+
+</details>
+
+
 <details><summary><a name="the_demi_gods_by_james_stephens"></a>The Demi-Gods, By James Stephens. 1914</summary>
 
 ### The Demi-Gods (4:37)  
