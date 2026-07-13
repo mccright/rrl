@@ -151,7 +151,7 @@ eBook: https://www.overdrive.com/media/8671542/act-of-oblivion
 By [Robert Harris](https://en.wikipedia.org/wiki/Robert_Harris_(novelist))  (1957 – )  
 
 Reading Notes: This story explores what it was like for many of the [Puritans](https://en.wikipedia.org/wiki/Puritans) in England and the in [the New England Colonies](https://en.wikipedia.org/wiki/Puritan_migration_to_New_England_(1620%E2%80%931640)) by the 1660s, as well as some of the political disruptions in [London, England](https://en.wikipedia.org/wiki/London) in the years immediately following the [English Civil War](https://en.wikipedia.org/wiki/English_Civil_War), including the [Great Plague](https://en.wikipedia.org/wiki/Great_Plague_of_London) (1665–1666) and the [Great Fire of London](https://en.wikipedia.org/wiki/Great_Fire_of_London) (1666).  
-After the [First English Civil War](https://en.wikipedia.org/wiki/English_Civil_War#First_English_Civil_War_(1642%E2%80%931646)), [King Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was a prisoner of the Parliamentarians. The Parliamentarians ultimately decided that they could not successfully negotiate a settlement with him and concluded that he would have to be put to death.  The [House of Commons](https://en.wikipedia.org/wiki/House_of_Commons_of_England) organized a bill charging try Charles I for high treason (*the [House of lords](https://en.wikipedia.org/wiki/House_of_Lords) refused to pass it*).  Charles was found guilty on Saturday 27 January 1649, and his death warrant was signed by [fifty-nine commissioners](https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I).  He was executed on 30 January 1649.  The "fifty-nine" were called [regicides]((https://en.wikipedia.org/wiki/Regicide)) -- the people responsible for killing a monarch.  
+After the [First English Civil War](https://en.wikipedia.org/wiki/English_Civil_War#First_English_Civil_War_(1642%E2%80%931646)), [King Charles I](https://en.wikipedia.org/wiki/Charles_I_of_England) was a prisoner of the Parliamentarians. The Parliamentarians ultimately decided that they could not successfully negotiate a settlement with him and concluded that he would have to be put to death.  The [House of Commons](https://en.wikipedia.org/wiki/House_of_Commons_of_England) organized a bill charging try Charles I for high treason (*the [House of lords](https://en.wikipedia.org/wiki/House_of_Lords) refused to pass it*).  Charles was found guilty on Saturday 27 January 1649, and his death warrant was signed by [fifty-nine commissioners](https://en.wikipedia.org/wiki/List_of_regicides_of_Charles_I).  He was executed on 30 January 1649.  The "fifty-nine" were called [regicides](https://en.wikipedia.org/wiki/Regicide) -- the people responsible for killing a monarch.  
 Set in 1660 this historical novel follows an imaginary "Richard Nayler" of the [Privy Council](https://en.wikipedia.org/wiki/Privy_Council_of_England) who is tasked with tracking down the *real* regicides, focusing with special passion on [Edward Whalley](https://en.wikipedia.org/wiki/Edward_Whalley) and his son-in-law [William Goffe](https://en.wikipedia.org/wiki/William_Goffe).  Although dead by this time [Oliver Cromwell](https://en.wikipedia.org/wiki/Oliver_Cromwell) remains *present* and influential in the lives of these core characters.  
 
 
@@ -663,6 +663,28 @@ Presentation by Rhodes on Arsenals of Folly, November 1, 2007, [C-SPAN](https://
 </details>
 
 
+<details><summary><a name="the_art_spy_by_michelle_young"></a>The Art Spy -- The Extraordinary Untold Tale of WWII Resistance Hero Rose Valland.  By Michelle Young.  2025  </summary>
+
+### The Art Spy -- The Extraordinary Untold Tale of WWII Resistance Hero Rose Valland. (12:00)  
+Audio: https://www.overdrive.com/media/11090957/the-art-spy  
+eBook: https://www.overdrive.com/media/11091111/the-art-spy  
+By [Michelle Young](https://michelleyoungwriter.com/about)  ( – )  
+
+Reading Notes: The scale of the effort required to assemble this book from what must have been extremely challenging collections of archival documents and letters, especially because of the French Museum *'authorities'*' efforts to erase the subject of this story.  The backbone of this book is the story of how Rose Valland, an art museum professional (of various titles) in Paris who carefully recorded the Nazi pillaging of art works from across Paris and throughout France (both *occupied* and *free*) -- and in the process, documented a slice of Nazi genocide of *Jews* and others they deemed toxic to their imagined super-race -- and shared the details of those activities with French resistance groups and with the French government in exile.  Following the end of WWII, Valland became a leading authority on art stolen by Nazis and their collabortors, then a widely recognized expert sluth tracking down "*lost*" artwork across Europe and Russia.  In a manner analogous to Christopher Browning's "[Ordinary Men](#ordinary_men_by_christopher_r_browning) the author also documents some of the outermost dangers posed by *dictators*, politicians and fascist political movements animated by dehumanizing "*others*" and then challenging the resulting animus into violence.  For those reasons, this book is worth reading.  Some may, though, find the scale of the *listing* of specific Nazi thefts **sometimes** tiring (*I did*) -- there must be some art of turning catalogs of artifact *movements* into a story that this book only *mostly* achieved.  Other than that sensation, this was a rewarding read.  
+
+Author's Book Page for 'The Art Spy.' [michelleyoungwriter.com/theartspy](https://michelleyoungwriter.com/theartspy)  
+
+Overdrive Summary: [overdrive.com/media/11091111/the-art-spy](https://www.overdrive.com/media/11091111/the-art-spy)  
+>On August 25, 1944, Rose Valland, a woman of quiet daring, found herself in a desperate position. From the windows of her beloved Jeu de Paume museum, where she had worked and ultimately spied, she could see the battle to liberate Paris thundering around her. The Jeu de Paume, co-opted by Nazi leadership, was now the Germans' final line of defense. Would the museum curator be killed before she could tell the truth—a story that would mean nothing less than saving humanity's cultural inheritance?
+>Based on troves of previously undiscovered documents, The Art Spy chronicles the brave actions of the key Resistance spy in the heart of the Nazi's art looting headquarters in the French capital. A veritable female Monuments Man, Valland has, until now, been written out of the annals. While Hitler was amassing stolen art for his future Führermuseum, Valland, his undercover adversary, secretly worked to stop him. She came face to face with Reichsmarschall Hermann Göring, passed crucial information to the Resistance network, and faced death during the last hours of Liberation Day.
+>At the same time, a young Free French soldier, Alexandre Rosenberg , was fighting his way to Paris with the Allied forces battling to liberate France. Alexandre's father was the exclusive art dealer for Picasso, Matisse, George Braque, and Fernand Léger. The Nazis had taken everything from their family—their art collection, their nationality, their gallery, and their home in Paris.
+>Vivid and atmospheric, The Art Spy moves from the glittering days of pre-War Paris, home to geniuses of modern culture, including Picasso, Josephine Baker, Coco Chanel, and Frida Kahlo, through the tension-riddled cities of Europe on the eve of war, to the harrowing years of the Nazi occupation of France when brave people such as Valland and Rosenberg risked everything to fight monstrous evil.
+>In the spirit of [Hidden Figures](https://www.overdrive.com/media/2465952/hidden-figures), with the sweeping narrative of [The Rape of Europa](https://www.overdrive.com/media/306388/the-rape-of-europa), The Art Spy is an inspiration for us all—an extraordinary tale of courage in a time of violence.  
+
+
+</details>
+
+
 <details><summary>At the Mountains of Madness.  By H. P. Lovecraft.  1936 </summary>
 
 ### At the Mountains of Madness. (4:13)  
@@ -987,7 +1009,7 @@ Reader notes: A classic [western](https://en.wikipedia.org/wiki/Western_(genre))
 After a fight with his father, *Boone* takes his unconscious father's rifle and runs away to *the West* and *the mountains*.  Boone starts his flight as a scared child, but as he overcomes numerous challenges facing him as a penniless runaway he gains confidence in himself and in his *plan* to head *West*.  Jim Deakins joins *Boone* along the road in Kentucky. In St. Louis they join a [keelboat](https://en.wikipedia.org/wiki/Keelboat) team that includes Dick Summers heading up the Missouri River -- headed West. After their keelboat meets with disaster, they stick together trapping and hunting in the mountains for years.  When Dick Summers *goes back East* as an *old man*, Boone and Jim continue together and spend time with the Blackfeet Piegan Indians. Then Boone travels back to Kentucky after receiving a letter from his mother.  Finally, Boone begins a journey West again, stopping to talk with Dick Summers, now farming in Missouri, and coming to a vague *understanding* that *The West* of his dreams is gone and his behavior has left him unmoored and without a sense of his future.  
 The story's central character Boone Caudill learns to be an expert trapper, hunter, and tracker -- *joining* nature and observing his environment with all his senses.  He is able to endure enormous suffering from long travel on horseback and on foot and camping in melting heat and sharp cold, from injury, and from lack of food.  As far as that goes, he is a classic, maybe even heroic "[mountain man](https://en.wikipedia.org/wiki/Mountain_man)."  But from many perspectives, Boone Caudill also seems like an anti-hero.  He steals a gun, steals a boat, steals horses, murders repeatedly without remorse.  He is often ill-tempered, unfriendly, even hostile.  He is inarticulate in speech and thought.  This combination often makes him a rough, sporatically dangerous, even malicious character.  
 A.B.Guthrie's writing is the hero of this story.  He drew me in and took me on repeated journeys through the mountains, plains and rivers of the 1830s American mountain West.  His humans seem human, and I could *see* and *feel* the world within which the story took place.  Through character's thinking and dialog, the author also presents a range of attitudes and perspectives toward the land and resource *theft*, the cultural and literal genocide of indigenous peoples that was practiced across the American West in the 19th century.  
-If you are interested in the topic of *mountain men* in the 19th century but want non-fiction, you might try the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), "[Eleven Years in the Rocky Mountains and Life on the Frontier](https://mccright.github.io/rrl/AudioBooks/)." By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor), 1870.  Audio: https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/ (13:39) and text: https://www.gutenberg.org/ebooks/39465  
+If you are interested in the topic of *mountain men* in the 19th century but want non-fiction, you might try the biography of [Joseph L. Meek](https://en.wikipedia.org/wiki/Joseph_Meek), "[Eleven Years in the Rocky Mountains and Life on the Frontier](#eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor)." By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor), 1870.  Audio: https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/ (13:39) and text: https://www.gutenberg.org/ebooks/39465  
 My copy of this book was a loan from a brother-in-law.  It was printed in 1980 and included a helpful map in the front.  This was excellent recreational reading and I recommend it to everyone having even a hint of interest in this genre!  
 This is the first book in a series that also includes: "[The Way West](#the_way_west_by_a_b_guthrie)." and "[Fair Land, Fair Land](#fair_land_fair_land_by_a_b_guthrie_jr)." (*see their entries on this page*)  
 
@@ -1162,7 +1184,7 @@ Ebook: https://www.overdrive.com/media/4492866/the-book-woman-of-troublesome-cre
 
 By [Kim Michele Richardson](https://en.wikipedia.org/wiki/Kim_Michele_Richardson)  ( -  )  
 
-Reading Notes:  This is another period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its (*mostly*) female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians). [There is another of these in this list. See [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below.]  The story follows Cussy Mary Carter, aka "Bluet," one of the "blue-skinned" people of Kentucky [see [Blue Fugates](https://en.wikipedia.org/wiki/Blue_Fugates) to learn more], whose skin appears blue due to [a rare genetic disorder - methemoglobinemia](https://en.wikipedia.org/wiki/Methemoglobinemia), as she serves her library clients in the isolated hills/mountains around Troublesome Creek.  This is complicated by the fact that she is considered "colored" and shunned by the white community and she understands that many types of *offences* could result in the [lynching](https://en.wikipedia.org/wiki/Lynching) of her or her father.  In 1936 she is 19 years old and her sick, coal miner father wants to marry her to a local (*almost any local*) before he dies.  A couple members of a large local clan end up dead in circumstances that are tied to the Carters and the local "Doc" promises to help them if Bluet will participate in some medical testing at a hospital in Lexington. Th testing leads to "treatment" for Cussy Mary which renders her skin temporarily "white." This treatment involves side-effects that interfere with Bluet's library duties, and Bluet's  experience as "white," and "normal", does not change the local's prejudice against her. The story brings us into the lives of a collection of poor, rural, isolated Eastern Kentucky resident's lives, and like [The Giver of Stars](https://mccright.github.io/rrl/AudioBooks/#the-giver-of-stars-1352) below this story evolves from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
+Reading Notes:  This is another period-piece about a small-town rural Appalachian [Kentucky coal-country](https://en.wikipedia.org/wiki/Coal_mining_in_Kentucky) and a branch of the [depression](https://en.wikipedia.org/wiki/Great_Depression_in_the_United_States) era [WPA](https://en.wikipedia.org/wiki/Works_Progress_Administration) traveling library with its (*mostly*) female staff of [Packhorse Librians](https://en.wikipedia.org/wiki/Pack_Horse_Librarians). [There is another of these in this list. See [The Giver of Stars](#giver_of_stars_jojo_moyes) below.]  The story follows Cussy Mary Carter, aka "Bluet," one of the "blue-skinned" people of Kentucky [see [Blue Fugates](https://en.wikipedia.org/wiki/Blue_Fugates) to learn more], whose skin appears blue due to [a rare genetic disorder - methemoglobinemia](https://en.wikipedia.org/wiki/Methemoglobinemia), as she serves her library clients in the isolated hills/mountains around Troublesome Creek.  This is complicated by the fact that she is considered "colored" and shunned by the white community and she understands that many types of *offences* could result in the [lynching](https://en.wikipedia.org/wiki/Lynching) of her or her father.  In 1936 she is 19 years old and her sick, coal miner father wants to marry her to a local (*almost any local*) before he dies.  A couple members of a large local clan end up dead in circumstances that are tied to the Carters and the local "Doc" promises to help them if Bluet will participate in some medical testing at a hospital in Lexington. Th testing leads to "treatment" for Cussy Mary which renders her skin temporarily "white." This treatment involves side-effects that interfere with Bluet's library duties, and Bluet's  experience as "white," and "normal", does not change the local's prejudice against her. The story brings us into the lives of a collection of poor, rural, isolated Eastern Kentucky resident's lives, and like [The Giver of Stars](#giver_of_stars_jojo_moyes) below this story evolves from an [historical drama](https://en.wikipedia.org/wiki/Historical_drama) to something like an [historical romance](https://en.wikipedia.org/wiki/Historical_romance) as the book progressed.  There is, though, plenty of conflict, friendship, loyalty, injustice and justice, and complex grit to make a good story throughout.  
 Wikipedia Summary: [https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek](https://en.wikipedia.org/wiki/The_Book_Woman_of_Troublesome_Creek)  
 
 </details>
@@ -1674,7 +1696,7 @@ Reading Notes: Raised on thin charicature of Daniel Boone as an early American f
 </details>
 
 
-<details><summary><a name="the_dark_forest_by_cixin_liu"></a>The Dark Forest -- Remembrance of Earth's Past trilogy, Book #2. By Cixin Liu. 2008/2015 </summary>
+<details><summary><a name="the_dark_forest_by_cixin_liu"></a>The Dark Forest -- Remembrance of Earth's Past trilogy, Book #2. By Cixin Liu. 2008/English translation in 2015 </summary>
 
 ### The Dark Forest -- Remembrance of Earth's Past Book #2.  (13:26)  
 Audio: https://www.overdrive.com/media/2259676/the-dark-forest  
@@ -1788,6 +1810,22 @@ Reading Notes: While this is an interesting story about one path for dealing wit
 Overdrive Summary:  
 >Yume Kitasei's The Deep Sky is an enthralling sci fi thriller debut about a mission into deep space that begins with a lethal explosion that leaves the survivors questioning the loyalty of the crew. They left Earth to save humanity. They'll have to save themselves first.  It is the eve of Earth's environmental collapse. A single ship carries humanity's last hope: eighty elite graduates of a competitive program, who will give birth to a generation of children in deep space. But halfway to a distant but livable planet, a lethal bomb kills three of the crew and knocks The Phoenix off course. Asuka, the only surviving witness, is an immediate suspect.  As the mystery unfolds on the ship, poignant flashbacks reveal how Asuka came to be picked for the mission. Despite struggling through training back on Earth, she was chosen to represent Japan, a country she only partly knows as a half-Japanese girl raised in America. But estranged from her mother back home, The Phoenix is all she has left.With the crew turning on each other, Asuka is determined to find the culprit before they all lose faith in the mission -- or worse, the bomber strikes again.  
 
+
+</details>
+
+
+<details><summary><a name="deliver_us_from_evil_by_david_baldacci"></a>Deliver Us from Evil -- Shaw and Katie James #2. By David Baldacci. 2010 </summary>
+
+### Deliver Us from Evil -- Shaw and Katie James #2.  (14:00)  
+Audio: https://www.overdrive.com/media/316963/deliver-us-from-evil  
+eBook: https://www.overdrive.com/media/288745/deliver-us-from-evil  
+By [David Baldacci](https://en.wikipedia.org/wiki/David_Baldacci)  (1960 – )  
+
+Reading Notes: Suspense thriller.  Impossibly talented, *haunted* American special agent hunts human trafficer.  So does a British *unofficial* assassin.  They cross paths.  Complications follow.  
+Some core characters:  
+Shaw, an operative from *The Whole Truth*.  
+Evan Waller, Ukrainian, ex Soviet *police*, murderer at scale. Now living in Canada running a global human trafficing business.  Trying to break into the business of selling stolen highly enhanced uranium (HEU).  
+Reggie Campion, member of a secret vigilante group based in England.  
 
 </details>
 
@@ -2841,7 +2879,7 @@ Review by Miranda France in the Literary Review: https://literaryreview.co.uk/lo
 </details>
 
 
-<details><summary><a name=""></a>Harrow -- A novel. By Joy Williams. 2021 </summary>
+<details><summary><a name="harrow_by_joy_williams"></a>Harrow -- A novel. By Joy Williams. 2021 </summary>
 
 ### Harrow -- A novel. (7:00)  
 Audio: https://www.overdrive.com/media/5978287/harrow  
@@ -2855,7 +2893,7 @@ Wikipedia Entry: https://en.wikipedia.org/wiki/Harrow_(novel)
 </details>
 
 
-<details><summary><a name=""></a>The Harvester. By Gene Stratton-Porter, 1911</summary>
+<details><summary><a name="the_harvester_by_gene_stratton_porter"></a>The Harvester. By Gene Stratton-Porter, 1911</summary>
 
 ### The Harvester (16:48)  
 https://librivox.org/the-harvester-by-gene-stratton-porter-2/  
@@ -5415,7 +5453,7 @@ eBook: https://www.overdrive.com/media/2962712/the-rise-and-fall-of-d-o-d-o
 By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson) (1959 - _) and [Nicole Galland](https://en.wikipedia.org/wiki/Nicole_Galland) and [nicolegalland.com](https://www.nicolegalland.com/about-the-author)  
 
 Reading Notes: Stephenson builds a world where "magic," "witches" and quantum physics are brought together to help fight *enemies* of the U.S. That setup might be off-putting for some, but his imagination and skills as a writer make every one of its 768 pages and every minute of the recording's 24 hours worth the investment.  The audio version is performed by a talented cast that add to the joy of experiencing this entertaining novel.  It is a complicated story and I couldn't do it justice here, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_D.O.D.O.) for a proper outline/overview.  
-The *sciencey* thread of the story depends on the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/Books/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*)  
+The *sciencey* thread of the story depends on the existance of multiple *parallel* worlds that are described by quantum physics (*if you find this last idea an interesting concept and want to read more fiction incorporating it, see Neal Stephenson's "[Anathem](https://mccright.github.io/rrl/#anathem_neal_stephenson)" and if you are intrigued by the idea(s) and want to learn more, see Neal Stephenson's [acknowledgments](https://www.nealstephenson.com/acknowledgments.html) page starting at "Philosophical and Scientific Ideas."*)  
 In 2021, Nicole Galland published a sequel named [Master of the Revels: A Return to Neal Stephenson's D.O.D.O.](https://en.wikipedia.org/wiki/Master_of_the_Revels:_A_Return_to_Neal_Stephenson%27s_D.O.D.O.).  
 
 * Dr. Melisande Stokes, Tristan Lyons, Dr. Frank Oda, Erszebet Karpathy,   
@@ -6933,7 +6971,7 @@ Audio:
 eBook: https://www.overdrive.com/media/1850679/last-and-first-men  
 By [Olaf Stapledon, AKA William Olaf Stapledon](https://en.wikipedia.org/wiki/Olaf_Stapledon)  (1886 – 1950)  
 
-Reading Notes:   
+Reading Notes: *Thank you Noah Diegel for recommending this book*.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men  
 [OverDrive Summary](https://www.overdrive.com/media/1850679/last-and-first-men):  
@@ -6941,9 +6979,6 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Last_and_First_Men
 
 
 </details>
-
-
-
 
 
 
