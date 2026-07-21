@@ -1354,8 +1354,8 @@ Audio: https://www.overdrive.com/media/5644442/caste (Updated with a 2022 epilog
 eBook: https://www.overdrive.com/media/5257052/caste  
 By [Isabel Wilkerson](https://en.wikipedia.org/wiki/Isabel_Wilkerson)  (1961 -  )  
 
-Reading Notes:  Regardless of your age, social or economic situation read this book. If you can, read it before you vote next time (*if you are allowed to vote*).  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was clearly unfair treatment of many humans that I saw around me at that age*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "caste" being the "stubbornly fixed hierarchy of human value" expressed in our behaviors, our perceptions of the world around us, in our laws and conventions, and more.  She goes on to illustrate and support her model with examples from three caste systems: India, Nazi Germany and the United States.  
-Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, Heritability, Endogamy (*sex or marriage between castes is prohibited*), Purity and pollution (*the dominant caste must be "pure"*), Occupational hierarchy, Dehumanization and stigma, Terror and cruelty, Inherent superiority and inferiority of castes.  
+Reading Notes:  Regardless of your age, social or economic situation read this book. If you can, read it before you vote next time (*if you are allowed to vote*).  It ought to be required reading for High Schools/Colleges across the globe (*I know that it would have helped me think through issues about what was [clearly unfair treatment of many humans that I saw around me at that age](https://en.wikipedia.org/wiki/Racial_segregation_in_the_United_States)*).  Wilkerson argues that a set of common features characterize caste systems across various societies -- "[caste](https://en.wikipedia.org/wiki/Caste#United_States)" being the "stubbornly fixed hierarchy of human value" expressed in our behaviors, our perceptions of the world around us, in our laws and conventions, and more.  She goes on to illustrate and support her model with examples from three caste systems: [India](https://en.wikipedia.org/wiki/Caste_system_in_India), [Nazi Germany](https://en.wikipedia.org/wiki/Nazism#Racial_theories) and the [United States](https://en.wikipedia.org/wiki/Racism_in_the_United_States).  
+Wilkerson's model involves eight "pillars of caste" (*features of caste systems in various societies*): Divine will, [Heritability](https://en.wikipedia.org/wiki/Heritability), [Endogamy](https://en.wikipedia.org/wiki/Endogamy) (*sex or marriage between castes is prohibited*), [Purity](https://en.wikipedia.org/wiki/Racial_hygiene) and [pollution](https://en.wikipedia.org/wiki/Miscegenation) (*the dominant caste must be "pure"*), Occupational hierarchy, [Dehumanization](https://en.wikipedia.org/wiki/Dehumanization) and [stigma](https://en.wikipedia.org/wiki/Social_stigma), [Terror](https://en.wikipedia.org/wiki/Terrorism#Causes_motivating_terrorism) and [cruelty](https://en.wikipedia.org/wiki/Cruelty), [Inherent superiority and inferiority](https://en.wikipedia.org/wiki/Category:White_privilege) of castes.  
 If you want to know more, read the [Wikipedia Summary](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents).  
 
 Wikipedia Summary: [https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents](https://en.wikipedia.org/wiki/Caste:_The_Origins_of_Our_Discontents)  
@@ -5403,6 +5403,33 @@ By [Nnedi Okorafor](https://en.wikipedia.org/wiki/Nnedi_Okorafor) (1974 --  )
 Reader's Notes: An alien artifact turns a young girl into Death's adopted daughter in near-future Ghana -- Sankofa.  This is a great short novel.  It was my introduction to Nnedi Okorafor's writing, and ensures that I will read more of her work.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Remote_Control_(novella)  
+
+</details>
+
+
+<details><summary><a name="revelation_space_by_alastair_reynolds"></a>Revelation Space -- #1 in Revelation Space series. By Alastair Reynolds. 2000/2009  </summary>
+
+### Revelation Space -- #1 in Revelation Space series. (22:00)  
+Audio: https://www.overdrive.com/media/216449/revelation-space  
+eBook: https://www.overdrive.com/media/222323/revelation-space  
+By [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)  (1966 – )  
+
+Reading Notes: The action in this [hard science fiction](https://en.wikipedia.org/wiki/Hard_science_fiction) [space opera](https://en.wikipedia.org/wiki/Space_opera) novel takes place in 26th century, AD 2524–2567 -- a little more than 500 years from my writing this entry.  [Interstellar space travel](https://en.wikipedia.org/wiki/Interstellar_travel) under [constant acceleration](https://en.wikipedia.org/wiki/Space_travel_under_constant_acceleration) is *practical*, but *still* dangerous, and available spacecraft are aging -- raising the risks.  More or less specialized robots are employed to perform every *possible* task.  Humans have been augmenting their bodies (*including brains*) for hundreds of years, extending their lives to centuries and adding countless new capabilities.  
+An [archaeologist](https://en.wikipedia.org/wiki/Xenoarchaeology), Dan Sylveste, working a dig "investigating the sudden and catastrophic end of an alien race," the long-dead Amarantins, more than 900,000 years ago. He searches for the beings or processes that wiped out the Amarantins.  The story is an epic journey with lots of wild technology, and aliens who have learned to manipulate space-time.  
+I enjoyed it.  The book's characters seem appropriately developed and are *human-enough* to seem like people who occupy Earth today -- complex and evolving, while understandable.  Be aware, though, that some of the technology in this book is not tightly coupled to current science.  If you like [space opera](https://en.wikipedia.org/wiki/Space_opera) novels you might enjoy it too.  
+
+Some of the key characters:  
+* **Dan Sylveste**: An [archaeologist](https://en.wikipedia.org/wiki/Xenoarchaeology) excavating the remains of the long-dead Amarantin race that lived on a planet in the [Delta Pavonis](https://en.wikipedia.org/wiki/Delta_Pavonis) system. Over the course of decades, Sylveste learns that the Amarantin may have become technologically sophisticated before their sun destroyed life on the planet Resurgam nearly a million years prior.  
+* **Ilia Volyova**: Works in *Nostalgia for Infinity*, a large *lighthugger* spacecraft capable of interstellar travel. Volyova and the other members of her skeleton crew wish to find Sylveste because they believe he can help them with their captain, who has been infected with the Melding Plague, a nanotech virus that attacks human cells and machine implants to pervert them into grotesque combinations.  
+* **Ana Khouri**, an assassin living on the planet Yellowstone (in the [Epsilon Eridani](https://en.wikipedia.org/wiki/Epsilon_Eridani) system). Khouri is hired by a mysterious figure known as the Mademoiselle to assassinate Sylveste.  
+* **Pascale Girardieau [AKA Pascale Dubois]**: Pascale Girardieau was the daughter of [Nils Girardieau](https://revelationspace.fandom.com/wiki/Nils_Girardieau) (*who became a political rival to Dan Sylveste*). "Pascale worked as a local journalist in Cuvier and elsewhere on Resurgam [*a fictional planet in this novel*]. She became a participant in her father's plan to spy on Sylveste, posing under the alias Pascale Dubois. Sylveste learned this only later, after marrying her. Dan and Pascale befriended each other professionally while Pascale was working on news coverage of Sylveste's Amarantin archaeological digs in the Mantell sector of Resurgam." [quoted from: [RevelationSpace.fandom.com](https://revelationspace.fandom.com/wiki/Pascale_Girardieau)  
+
+Wikipedia Summary: [wikipedia.org/wiki/Revelation_Space](https://en.wikipedia.org/wiki/Revelation_Space)  
+For more context see: [Revelation Space Series](https://en.wikipedia.org/wiki/Revelation_Space_series)  
+
+Overdrive Summary: [overdrive.com/media/216449/revelation-space](https://www.overdrive.com/media/216449/revelation-space)  
+>"Nine hundred thousand years ago, something annihilated the Amarantin civilization just as it was on the verge of discovering space flight. Now one scientist, Dan Sylveste, will stop at nothing to solve the Amarantin riddle before ancient history repeats itself. With no other resources at his disposal, Sylveste forges a dangerous alliance with the cyborg crew of the starship Nostalgia for Infinity. But as he closes in on the secret, a killer closes in on him because the Amarantin were destroyed for a reason. And if that reason is uncovered, the universe—and reality itself—could be irrevocably altered."  
+
 
 </details>
 
