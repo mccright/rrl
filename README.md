@@ -907,7 +907,7 @@ Lots of reviews on GoodReads: https://www.goodreads.com/book/show/28220629-the-e
 </details>
 
 
-<details><summary>Bashan And I.  By Thomas Mann.  1923</summary>
+<details><summary><a name="bashan_and_i_by_thomas_mann"></a>Bashan And I.  By Thomas Mann.  1923</summary>
 
 ### Bashan And I. (4:13)  
 https://librivox.org/bashan-and-i-by-thomas-mann/  
@@ -921,7 +921,7 @@ Librivox Summary:
 </details>
 
 
-<details><summary>The Beautiful Mystery. By Louise Penny. 2012 </summary>
+<details><summary><a name="beautiful_mystery_by_louise_penny"></a>The Beautiful Mystery. By Louise Penny. 2012 </summary>
 
 ### The Beautiful Mystery. (10:00)  
 Audio: https://www.overdrive.com/media/985444/the-beautiful-mystery  
@@ -932,6 +932,21 @@ Reading Notes:
 [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache) and Jean-Guy Beauvoir of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) investigate a murder at the remote monastery  Saint-Gilbert-Entre-les-Loups. This was a good fit for a long car ride...
 
 If you like this series or are considering starting it there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+
+</details>
+
+
+<details><summary><a name="beautiful_ugly_by_alice_feeney"></a>Beautiful Ugly -- A Novel. By Alice Feeney. 2025 </summary>
+
+### Beautiful Ugly -- A Novel.  (9:00)  
+Audio: https://www.overdrive.com/media/10714386/beautiful-ugly  
+eBook: https://www.overdrive.com/media/10649456/beautiful-ugly  
+By [Alice Feeney](https://en.wikipedia.org/wiki/Alice_Feeney)  (1978 – )  
+
+Reading Notes: This is a [psychological thriller](https://en.wikipedia.org/wiki/Psychological_thriller) about Grady Green, a once-successful author whose wife Abby disappears. Throughout the next year us is unable to write and is approaching homelessness, when his agent lets him live in a famous author Charles Whittaker's *writing cabin* on a remote Scottish island.  There he cannot sleep and is unable to find his groove in the tight island community.  He also sees a woman who looks exactly like his missing wife.  Lots of misunderstandings and people are not who they initially seem to be.  
+
+Wikipedia Summary: [wikipedia.org/wiki/Beautiful_Ugly](https://en.wikipedia.org/wiki/Beautiful_Ugly) (*lots of spoilers*)  
+
 
 </details>
 
