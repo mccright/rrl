@@ -943,7 +943,7 @@ Audio: https://www.overdrive.com/media/10714386/beautiful-ugly
 eBook: https://www.overdrive.com/media/10649456/beautiful-ugly  
 By [Alice Feeney](https://en.wikipedia.org/wiki/Alice_Feeney)  (1978 – )  
 
-Reading Notes: This is a [psychological thriller](https://en.wikipedia.org/wiki/Psychological_thriller) about Grady Green, a once-successful author whose wife Abby disappears. Throughout the next year us is unable to write and is approaching homelessness, when his agent lets him live in a famous author Charles Whittaker's *writing cabin* on a remote Scottish island.  There he cannot sleep and is unable to find his groove in the tight island community.  He also sees a woman who looks exactly like his missing wife.  Lots of misunderstandings and people are not who they initially seem to be.  
+Reading Notes: This is a [psychological thriller](https://en.wikipedia.org/wiki/Psychological_thriller) about Grady Green, a once-successful author whose wife Abby disappears. Throughout the next year he is unable to write and is approaching homelessness, when his agent lets him live in a famous author Charles Whittaker's *writing cabin* on a remote Scottish island.  There he cannot sleep and is unable to find his groove in the tight island community.  He also sees a woman who looks exactly like his missing wife.  Lots of misunderstandings and people are not who they initially seem to be.  
 
 Wikipedia Summary: [wikipedia.org/wiki/Beautiful_Ugly](https://en.wikipedia.org/wiki/Beautiful_Ugly) (*lots of spoilers*)  
 
