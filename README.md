@@ -5310,6 +5310,23 @@ Expanded Author's Note for Quantum Radio: https://www.agriddle.com/qr-facts
 </details>
 
 
+<details><summary><a name="the_quest_by_nelson_demille"></a>The Quest -- A Novel.  By Nelson DeMille. 2013 </summary>
+
+### The Quest -- A Novel.  (18:00)  (463 pages)
+Audio: https://www.overdrive.com/media/1421738/the-quest  
+eBook: https://www.overdrive.com/media/1238178/the-quest  
+By [Nelson DeMille](https://en.wikipedia.org/wiki/Nelson_DeMille) and [here](https://nelsondemille.net/about/)  (1943 – 2024)  
+
+Reading Notes: DeMille wrote an earlier, shorter version of The Quest published in paperback in 1975. In 2013, he rewrote The Quest and doubled its length.  
+My summary: Two reporters, a mercenary soldier, and a young female photographer are caught in chaos of the mid-1970s [Ethiopian civil war](https://en.wikipedia.org/wiki/Ethiopian_Civil_War) while searching for the [holy grail](https://en.wikipedia.org/wiki/Relics_associated_with_Jesus#Holy_Chalice_(Holy_Grail)).  They find it, but leave it and have a happy ending.  It is not the greatest adventure/action book I've read.  The story plods at times.  The three main characters seem to have *magic* money to spend -- *the kind that never runs out.*  And the characters remain only marginally developed -- each driven to succeed in their quest, and to service their adolescent animal urges.  If you feel this way after the first 50 or 100 pages, assume it will not change if you read more.  
+  
+[Overdrive Summary](https://www.overdrive.com/media/1238178/the-quest):  
+>A sweeping adventure that's equal parts thriller and love story, Nelson DeMille's newest novel takes the reader from the war torn jungles of Ethiopia to the magical city of Rome.  While the Ethiopian Civil War rages, a Catholic priest languishes in prison. Forty years have passed since he last saw daylight. His crime? Claiming to know the true location of Christ's cup from the Last Supper. Then the miraculous happens - a mortar strikes the prison and he is free!  Old, frail, and injured, he escapes to the jungle, where he encounters two Western journalists and a beautiful freelance photographer taking refuge from the carnage. As they tend to his wounds, he relates his incredible story.  Motivated by the sensational tale and their desire to find the location of the holiest of relics, the trio agrees to search for the Grail.  Thus begins an impossible quest that will pit them against murderous tribes, deadly assassins, fanatical monks, and the passions of their own hearts.  THE QUEST is suspenseful, romantic, and filled with heart-pounding action. Nelson DeMille is at the top of his game as he masterfully interprets one of history's greatest mysteries.  
+
+
+</details>
+
+
 <details><summary><a name="the_quick_by_lauren_owen"></a>The Quick. By Lauren Owen. 2014 </summary>
 
 ### The Quick. (19:00)  
