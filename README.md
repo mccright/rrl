@@ -972,7 +972,7 @@ https://www.harpercollins.com/products/before-the-coffee-gets-cold-a-toshikazu-k
 <details><summary><a name="Behind_a_Mask_By_Louisa_May_Alcott"></a>Behind a Mask, or a Woman's Power.  By Louisa May Alcott.  1866 </summary>
 
 ### Behind a Mask, or a Woman's Power.  (4:08)  
-https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
+Audio: https://librivox.org/behind-a-mask-by-louisa-may-alcott/  
 Text: https://www.gutenberg.org/ebooks/8677  
 By [Louisa May Alcott](https://en.wikipedia.org/wiki/Louisa_May_Alcott) (1832 - 1888)  
 Reader Notes:  First, see the [Wikipedia Summary](https://en.wikipedia.org/wiki/Behind_a_Mask).  This may be more than a simple 19th century family drama.  Jean Muir manipulates males who range from their late teens to (*maybe*) their middle sixties -- men who do her bidding in *virtually* total self-interest, the desire to "have her."  As a male reader, this all seemed a little *too easy*, *too convenient*.  Yet, Ms. Alcott may have been more successful at building (*and crushing*) widely assumed male and female archetypes.  In any case, she leaves much of the Coventry family damaged.  And left the reader wondering how these characters went about their roles in mid-19th century British society...  
@@ -986,7 +986,7 @@ Librivox Summary:
 <details><summary>Bernard Treves's Boots; A Novel Of The Secret Service. By Laurence Clarke. 1920</summary>
 
 ### Bernard Treves's Boots; A Novel Of The Secret Service. (10:08)  
-https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
+Audio: https://librivox.org/bernard-treves-boots-a-novel-of-the-secret-service-by-laurence-clarke/  
 Text: https://www.gutenberg.org/ebooks/42459  
 By [Laurence Clarke (Laurence Ayscough)](https://prabook.com/web/laurence_ayscough.clarke/744839) and [1911 census info](https://www.findmypast.co.uk/1911-census/laurence-ayscough-clarke-rg14/00597/0099/1-546d1f6b-9fd1-45be-8c7b-c0d7e4bf353c) and [family tree](https://www.ancestry.com/genealogy/records/laurence-ayscough-clarke-24-21rqnpz)  (1873 - 1942)  
 
@@ -1000,7 +1000,7 @@ Librivox Summary:
 <details><summary>The Best Church Hymns. 1898</summary>
 
 ### The Best Church Hymns. (1:38)  
-https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
+Audio: https://librivox.org/the-best-church-hymns-by-louis-fitzgerald-benson/  
 Text: https://archive.org/details/bestch00bens  
 Related: https://www.logcollegepress.com/louis-fitzgerald-benson-18551930  
 By [Louis Fitzgerald Benson](http://www.hymntime.com/tch/bio/b/e/n/s/benson_lf.htm) and [https://www.jstor.org/stable/23332603](https://www.jstor.org/stable/23332603) (1855 - 1930)  
@@ -1037,7 +1037,7 @@ Additional Resources: https://westernamericanliterature.com/a-b-guithre/
 <details><summary>Big Sur.  By Jack Kerouac.  1962</summary>
 
 ### Big Sur (6:23)  
-https://librivox.org/big-sur-by-jack-kerouac/  
+Audio: https://librivox.org/big-sur-by-jack-kerouac/  
 Text: https://babel.hathitrust.org/cgi/pt?id=uc1.31822033766825&view=1up&seq=1  
 By [Jack Kerouac](https://en.wikipedia.org/wiki/Jack_Kerouac) (1922 - 1969). Published 1962  
 See [Wikipedia Summary](https://en.wikipedia.org/wiki/Big_Sur_(novel))  
@@ -1074,7 +1074,7 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Billy_Budd
 <details><summary>Biographical Notice Of Nicolo Paganini...  By Francois-Joseph Fetis.  ~1884, 1895</summary>  
 
 ### Biographical Notice Of Nicolo Paganini With An Analysis Of His Compositions And A Sketch Of The History Of The Violin. (3:40)  
-https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
+Audio: https://librivox.org/biographical-notice-of-nicolo-paganini-with-an-analysis-of-his-compositions-and-a-sketch-of-the-history-of-the-violin-by-francois-joseph-fetis/  
 Text: https://www.gutenberg.org/ebooks/58184  
 By [Francois-Joseph Fetis](https://en.wikipedia.org/wiki/Fran%C3%A7ois-Joseph_F%C3%A9tis) (1784 - 1871)  
 
@@ -1103,8 +1103,8 @@ Wikipedia summary: https://en.wikipedia.org/wiki/Black_No_More
 <details><summary>Blake of the "Rattlesnake." By Frederick Thomas Jane, 1895</summary>
 
 ### Blake of the "Rattlesnake"  (5:21)  
-https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
-https://archive.org/details/blakerattlesnak00janegoog  
+Audio: https://librivox.org/blake-of-the-rattlesnake-by-frederick-thomas-jane/  
+Text: https://archive.org/details/blakerattlesnak00janegoog  
 By [Frederick Thomas Jane](https://en.wikipedia.org/wiki/Fred_T._Jane) (1865 - 1916)  Published 1895  
 
 Summary from Librivox:  
@@ -1116,7 +1116,8 @@ Summary from Librivox:
 <details><summary>The Blood of Flowers. By Anita Amirrezvani. 2007</summary>
 
 ### The Blood of Flowers.  (13:18)  
-https://www.overdrive.com/media/134428/the-blood-of-flowers  
+Audio: https://www.overdrive.com/media/134428/the-blood-of-flowers  
+eBook: https://www.overdrive.com/media/131863/the-blood-of-flowers
 By [Anita Amirrezvani](http://anitaamirrezvani.com/about.html)  (1961 -  )  
 Narrator [Shohreh Aghdashloo](https://en.wikipedia.org/wiki/Shohreh_Aghdashloo)  
 
@@ -1133,7 +1134,7 @@ Author's Summary: http://anitaamirrezvani.com/bloodofflowers.html
 <details><summary>The Bomb: The 1945 Test of the First Atomic Bomb. ~1984, 1995</summary>  
 
 ### The Bomb: The 1945 Test of the First Atomic Bomb. (1:01)  
-https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
+Audio: https://librivox.org/the-bomb-the-1945-test-of-the-first-atomic-bomb/  
 By [various]()  
 
 Librivox Summary:  
@@ -1177,7 +1178,7 @@ Review by By Ben Macintyre: [https://www.nytimes.com/.../book-and-dagger-elyse-g
 <details><summary>The Book of Tea.  By Kakuzō Okakura.  1906 </summary>
 
 ### The Book of Tea.  (2:09)  
-https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
+Audio: https://librivox.org/the-book-of-tea-by-kakuzo-okakura-2/  
 Text: https://www.gutenberg.org/ebooks/769  
 By [Kakuzō Okakura](https://en.wikipedia.org/wiki/Okakura_Kakuz%C5%8D) (1862 - 1913)  
 
@@ -1232,7 +1233,7 @@ If you are interested in this topic and want to read something closer to a prima
 <details><summary>The Brain.  By Edmond Hamilton.  1948 </summary>
 
 ### The Brain. (5:57)  
-https://librivox.org/the-brain-by-edmond-hamilton/  
+Audio: https://librivox.org/the-brain-by-edmond-hamilton/  
 Text: https://www.gutenberg.org/ebooks/32498/  (from '*Amazing Stories*' October 1948)  
 By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
 
@@ -1248,7 +1249,7 @@ Librivox Summary:
 <details><summary>Bransford Of Rainbow Range.  By Eugene Manlove Rhodes. 1913,1920</summary>
 
 ### Bransford Of Rainbow Range. (5:34)  
-https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/  
+Audio: https://librivox.org/bransford-of-rainbow-range-by-eugene-manlove-rhodes/  
 Text: https://www.gutenberg.org/ebooks/33498  
 By [Eugene Manlove Rhodes](https://en.wikipedia.org/wiki/Eugene_Manlove_Rhodes) (1869 - 1934)  
 
@@ -1259,22 +1260,24 @@ Librivox Summary:
 </details>
 
 
-<details><summary>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>
+<details><summary><a name="a_brief_account_of_the_destruction_of_the_indies"></a>A Brief Account of the Destruction of the Indies. By Bartolomé de las Casas. 1552</summary>
 
 ### A Brief Account of the Destruction of the Indies. (04:03)  
-https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
-https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
-Text: https://www.gutenberg.org/ebooks/20321  
+Audio: https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/  
+Text: https://gutenberg.org/ebooks/20321  
 By [Bartolomé de las Casas](http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas) (1484 - 1566)  
 
 Reading Notes: This report covers an ugly period of Western colonization and widespread genicide.  In roughly a 50-year period, the Spanish, the Catholics, and their surrogates killed millions of indigenous peoples in what is now the Americas.  From that perspective, it provides a contemporary, sometimes first-hand account of a period of which one should maintain a threshold understanding.  Written in the 16th century for delivery to the Spanish king and then translated (possibly serially), this report is constructed in a manner unfamiliar and not particularly attractive to me.  In addition, the recording was uneven and made this book a difficult slog.  
 Summary from Librivox:  
 >"A Short Account of the Destruction of the Indies (Spanish: Brevísima relación de la destrucción de las Indias) is an account written by the Spanish Dominican friar Bartolomé de las Casas in 1542 (published in 1552) about the mistreatment of the indigenous peoples of the Americas in colonial times and sent to then Prince Philip II of Spain. One of the stated purposes for writing the account is his fear of Spain coming under divine punishment and his concern for the souls of the Native Peoples. The account is one of the first attempts by a Spanish writer of the colonial era to depict examples of unfair treatment that indigenous people endured in the early stages of the Spanish conquest of the Greater Antilles, particularly the island of Hispaniola. Las Casas's point of view can be described as being heavily against some of the Spanish methods of colonization, which, as he describes, have inflicted a great loss on the indigenous occupants of the islands." - ([Summary by Wikipedia](https://librivox.org/a-brief-account-of-the-destruction-of-the-indies-by-bartolome-de-las-casas/))  
 
+Wikipedia Summary: https://en.wikipedia.org/wiki/A_Short_Account_of_the_Destruction_of_the_Indies  
+
+
 </details>
 
 
-<details><summary><a name="brotherhood_of_the_flying_coffin_by_scott_mcgaugh 2023 "></a>Brotherhood of the Flying Coffin -- The Glider Pilots of World War II.  By Scott McGaugh 2023  </summary>
+<details><summary><a name="brotherhood_of_the_flying_coffin_by_scott_mcgaugh"></a>Brotherhood of the Flying Coffin -- The Glider Pilots of World War II.  By Scott McGaugh 2023  </summary>
 
 ### Brotherhood of the Flying Coffin -- The Glider Pilots of World War II.  (9:10)  
 Audio: https://www.overdrive.com/media/9232918/brotherhood-of-the-flying-coffin  
@@ -1295,7 +1298,8 @@ Reading Notes: Every major European invasion of WWII was led by gliders deliveri
 <details><summary>Bury Your Dead.  By Louise Penny. 2010 </summary>
 
 ### Bury Your Dead. (13:00)  
-https://www.overdrive.com/media/451816/bury-your-dead  
+Audio: https://www.overdrive.com/media/451816/bury-your-dead  
+eBook: https://www.overdrive.com/media/1564902/bury-your-dead
 By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
 
 Reader's Notes:  
@@ -1319,23 +1323,24 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Call_of_the_Wild
 </details>
 
 
-<details><summary>Captains Courageous. By Rudyard Kipling, 1897</summary>
+<details><summary><a name="captains_courageous_by_rudyard_kipling"></a>Captains Courageous. By Rudyard Kipling, 1897</summary>
 
 ### Captains Courageous  (5:57)  
-https://librivox.org/captains-courageous-by-rudyard-kipling/  
-https://en.wikipedia.org/wiki/Captains_Courageous  
-https://www.gutenberg.org/etext/2186  
+Audio: https://librivox.org/captains-courageous-by-rudyard-kipling/  
+Text: https://www.gutenberg.org/etext/2186  
 By [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) (1868 - 1936), published 1897  
 Summary from Librivox:  
 >Real men don't take guff from snotty kids. Neither does Disko Troop, skipper of the "We're Here", a fishing schooner out of Gloucester, Massachusetts, when his crew fishes Harvey Cheyne out of the Atlantic. There's no place on the Grand Banks for bystanders, so Harvey is press-ganged into service as a replacement for a man lost overboard and drowned. Harvey is heir to a vast fortune, but his rescuers believe none of what he tells them of his background. Disko won't take the boat to port until it is full of fish, so Harvey must settle in for a season at sea. Hard, dangerous work and performing it alongside a grab-bag of characters in close quarters is a life-changing experience.  And when Harvey at last is reunited with his parents, who have thought him dead for months, he must face the hard decisions of how he will allow his experience to change his life.  
 
+Wikipedia Summary: https://en.wikipedia.org/wiki/Captains_Courageous  
+
 </details>
 
 
-<details><summary>The Captives. By Hugh Walpole.  1920 </summary>
+<details><summary><a name="the_captives_by_hugh_walpole"></a>The Captives. By Hugh Walpole.  1920 </summary>
 
 ### The Captives.  (17:03)  
-https://librivox.org/captives-by-hugh-walpole/  
+Audio: https://librivox.org/captives-by-hugh-walpole/  
 Text: https://www.gutenberg.org/ebooks/3601  
 By [Hugh Walpole](http://en.wikipedia.org/wiki/Hugh_Walpole) (1884 - 1941)  
 
@@ -1398,10 +1403,10 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/Catalyst:_A_Rogue_One_Novel
 </details>
 
 
-<details><summary>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
+<details><summary><a name="cato_a_tragedy_in_five_acts_by_joseph_addison"></a>Cato, a Tragedy in Five Acts. By Joseph Addison, 1712</summary>
 
 ### Cato, a Tragedy in Five Acts  (1:47)  
-https://librivox.org/cato-by-joseph-addison/  
+Audio: https://librivox.org/cato-by-joseph-addison/  
 Text: https://www.gutenberg.org/ebooks/31592  
 By [Joseph Addison](https://en.wikipedia.org/wiki/Joseph_Addison) (1672 - 1719)  published 1712  
 
@@ -1431,14 +1436,14 @@ Illustrations for Changing Planes: [https://www.ursulakleguin.com/maps-and-drawi
 Review by Kathy Weissman: https://www.bookreporter.com/reviews/changing-planes  
 Review in the NYT by Gerald Jonas: https://www.nytimes.com/2003/07/27/books/science-fiction.html  
 
+
 </details>
 
 
-<details><summary>The Chouans. By Honoré de Balzac.  1829</summary>
+<details><summary><a name="the_chouans_by_honore_de_balzac"></a>The Chouans. By Honoré de Balzac.  1829</summary>
 
 ### The Chouans (15:55)  
-https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
-https://en.wikipedia.org/wiki/Les_Chouans  
+Audio: https://librivox.org/the-chouans-version-2-by-honore-de-balzac/  
 Text: https://archive.org/details/chouansleschouan00balz/page/n7/mode/2up  
 By [Honoré de Balzac](https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac) (1799 - 1850)  
 Translated by [Ellen Marriage]() (1865 - 1946)  
@@ -1447,10 +1452,13 @@ Reading Notes: This story is one way to enhance any study of revolution and civi
 Summary on Librivox:  
 >“The Chouans” (1829) was the first novel published under Balzac's own name (rather than a pen-name). It became the first book in the great work of his lifetime  --  the novel series titled “The Human Comedy.”  Balzac was impressed by the writings of Sir Walter Scott. Scott made Scottish history come alive by creating fictions that used real history as backdrop. Balzac's novel is set in 1799  --  the year that Napoleon became First Consul of France. In the far west of France (i.e., Brittany), anti-revolutionary sentiment still simmered. The Chouans were a rustic guerrilla militia who wanted to undo the French Revolution and restore the old Bourbon monarchy. Pitted against them were the forces of the new Republic and its military (“the Blues”). Balzac researched this historical period as well as living conditions for Bretons of that time, then wove into the actual history his own fictional account of a romance between lovers from opposite factions in the dispute.  In “The Chouans,” we see an early and influential example of “historical fiction,” a genre which blossomed in popularity during the 1800s, and remains popular in today's novels and films. [Summary by Bruce Pirie](https://librivox.org/the-chouans-version-2-by-honore-de-balzac/)  
 
+Wikipedia Summary: https://en.wikipedia.org/wiki/Les_Chouans  
+
+
 </details>  
 
 
-<details><summary>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
+<details><summary><a name="church_of_marvels_by_leslie_parry"></a>Church of Marvels -- A Novel. By Leslie Parry. 2015 </summary>
 
 ### Church of Marvels (11:00)  
 Audio: https://www.overdrive.com/media/2192024/church-of-marvels  
@@ -1464,10 +1472,10 @@ Review by [Emily St. John Mandel](https://en.wikipedia.org/wiki/Emily_St._John_M
 </details>
 
 
-<details><summary>The City at World's End.  By Edmond Hamilton.  1951 </summary>
+<details><summary><a name="the_city_at_worlds_end_by_edmond_hamilton"></a>The City at World's End.  By Edmond Hamilton.  1951 </summary>
 
 ### The City at World's End.  (7:06)  
-https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
+Audio: https://librivox.org/the-city-at-worlds-end-by-edmond-hamilton/  
 Text: https://manybooks.net/titles/hamiltoneother05cityworldsend.html  
 By [Edmond Hamilton](https://en.wikipedia.org/wiki/Edmond_Hamilton) (1904 - 1977)  
 
@@ -1479,12 +1487,11 @@ Librivox Summary:
 </details>
 
 
-<details><summary>City of Endless Night. By Milo Hastings. 1920</summary>  
+<details><summary><a name="city_of_endless_night_by_milo_hastings"></a>City of Endless Night. By Milo Hastings. 1920</summary>  
 
 ### City of Endless Night. (09:40)  
-https://librivox.org/city-of-endless-night-by-milo-hastings/  
+Audio: https://librivox.org/city-of-endless-night-by-milo-hastings/  
 Text: https://www.gutenberg.org/ebooks/9862  
-https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
 By [Milo Hastings](https://en.wikipedia.org/wiki/Milo_Hastings)  (1884 - 1957)  
 
 Reading Notes: The characters are unevenly developed.  The technology is clearly linked to what was 'normal' in the early 20th century though 230 years have passed.  But the story keeps moving and it is a pleasure listening to the reader, [Kate Follis](https://librivox.org/reader/11007?primary_key=11007&search_category=reader&search_page=1&search_form=get_results).  Finally, this story ends relatively abruptly -- almost ...'and then they lived happily ever after.'  Too bad.  
@@ -1492,13 +1499,16 @@ Reading Notes: The characters are unevenly developed.  The technology is clearly
 Librivox Summary:  
 >An example of early dystopian science fiction written shortly after World War I, "City of Endless Night" imagines a future with a very different ending to the Great War. Set in 2151 and in an underground Berlin, our protagonist is Lyman De Forrest, an American chemist who enters the city to discover the hidden truths of a forbidden metropolis. The subterranean world hosts a highly-regimented society of 300,000,000 sun-starved humans. As the first outsider to enter, he's horrified by what he finds, but will he accomplish his mission and escape the living tomb? - ([Summary by Kate Follis](https://librivox.org/city-of-endless-night-by-milo-hastings/))  
 
+Wikipedia Summary: https://en.wikipedia.org/wiki/Milo_Hastings#City_of_Endless_Night  
+
+
 </details>
 
 
-<details><summary>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
+<details><summary><a name="cleek_the_man_of_the_forty_faces_by_thomas_w_hanshew"></a>Cleek: The Man of the Forty Faces. By Thomas W. Hanshew. 1912</summary>
 
 ### Cleek: The Man of the Forty Faces. (13:25)  
-https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
+Audio: https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/  
 Text: https://www.gutenberg.org/ebooks/14332  
 By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
 
@@ -1506,19 +1516,23 @@ Reading Notes: Emphasize the '*highly improbable*' from below, but that does not
 Librivox Summary:  
 >"Meet Hamilton Cleek - man of mystery, and master of disguise and derring-do.  Cleek's exploits are, to say the least, highly improbable, but the book is enormous fun. The goodies are good and the baddies are very bad indeed, but beware - things are not always what they seem. Suspend your disbelief and enjoy a rattling good yarn!  Cleek is the central figure in dozens of short stories that began to appear in 1910 and were subsequently collected in a series of books." - ([Summary by Ruth Golding](https://librivox.org/cleek-the-man-of-the-forty-faces-by-thomas-w-hanshew/))  
 
+
 </details>
 
-<details><summary>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
+
+<details><summary><a name="cleek_of_scotland_yard_by_thomas_w_hanshew"></a>Cleek of Scotland Yard. By Thomas W. Hanshew. 1912</summary>
 
 ### Cleek of Scotland Yard. (12:46)  
-https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
+Audio: https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/  
 Text: https://www.gutenberg.org/ebooks/32198  
 By [Thomas W. Hanshew](https://en.wikipedia.org/wiki/Thomas_W._Hanshew)  (1857 - 1914)  
 
 Reading Notes:  
 Some might be repulsed by how strongly the oppression of women (via the legal and cultural structures enforcing patriarchy in late 19th/early 20th England) and oppression built around the concepts of race, caste, and class are expressed throughout the "Cleek" stories. It might be easy for a 21st century reader to pass these off as extreme parodies of British society at that time, but they seem to be expressions of the author's understanding of the world and that of his readers at the time (*these were popular stories*).  As a result, they are facts -- that expressions of immoral, unethical and unprincipled, disgraceful, sometimes shocking and corrupt, even evil behaviors.  
+
 Librivox Summary:  
 >"Hamilton Cleek is back - or is he?  Margot, Queen of the Apaches (the notorious French criminal gang) has been released on bail and vanished, Mr. Narkom has a series of inexplicable murders to solve, there is talk of revolution in Mauravania.  And Cleek is missing.  Hold on to your hats for another thrilling ride as spying, murder, horse-napping, bombs and political intrigue rear their ugly heads." - ([Summary by Ruth Golding](https://librivox.org/cleek-of-scotland-yard-by-thomas-w-hanshew/))  
+
 
 </details>
 
@@ -1526,7 +1540,7 @@ Librivox Summary:
 <details><summary><a name="climate_incorporated_by_george_o_smith"></a>Climate--Incorporated. By George O. Smith.  1948</summary>
 
 ### Climate--Incorporated (01:15)  
-https://librivox.org/climate-incorporated-by-george-o-smith/  
+Audio: https://librivox.org/climate-incorporated-by-george-o-smith/  
 Text: https://gutenberg.org/ebooks/69820  
 By [George O. Smith](https://en.wikipedia.org/wiki/George_O._Smith) (1911 - 1981)  
 
@@ -1613,7 +1627,7 @@ Librivox Summary:
 <details><summary><a name="the_color_of_a_great_city_by_theodore_dreiser"></a>The Color of a Great City. By Theodore Dreiser, 1923</summary>
 
 ### The Color of a Great City  (8:36)  
-https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
+Audio: https://librivox.org/the-color-of-a-great-city-by-theodore-dreiser/  
 Text: https://www.gutenberg.org/ebooks/61043  
 By [Theodore Dreiser](http://en.wikipedia.org/wiki/Theodore_Dreiser) (1871 - 1945)  published 1923  
 
@@ -1665,7 +1679,7 @@ Review by [Laura Marsh](https://newrepublic.com/authors/laura-marsh): [https://n
 <details><summary><a name="creatures_that_time_forgot_by_ray_bradbury"></a>The Creatures That Time Forgot.  By Ray Bradbury.  1946 </summary>
 
 ### The Creatures That Time Forgot.  (1:51)  
-https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
+Audio: https://librivox.org/the-creatures-that-time-forgot-by-ray-bradbury/  
 Text: https://www.gutenberg.org/ebooks/63874  
 By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012)  
 Reader's Notes: *Stone age* struggle for life.  A singular urge for *escape*.  This is **not** just another member of the shamelessly optimistic post war U.S. science fiction club, and this early Ray Bradbury story is worth a listen.  
@@ -1754,7 +1768,7 @@ This is book #2 of the ["Remembrance of Earth's Past" trilogy](https://en.wikipe
 <details><summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
 
 ### Darwin's Ghosts: In Search of the First Evolutionists.  
-https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
+Audio: https://catalog.urbandalelibrary.org/polaris/search/title.aspx?ctx=3.1033.0.0.3&pos=4&cn=146154  
 By [Stott, Rebecca](https://en.wikipedia.org/wiki/Rebecca_Stott)  (1964 - ___)  
 
 Reader's Notes: From the highest level, "Darwin's Ghosts" is "[2,200-year history of Darwin's predecessors](https://en.wikipedia.org/wiki/Rebecca_Stott)" along with investigating how the work of those individuals on the origins of life influenced the arts and popular culture.  The author investigates the idea of "transmutation" [more thoroughly than did Darwin](https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review). Example... While Europe drug through the middle ages Viking long boats were invading Britain, in Basra and Bagdad, elites paid for the expansion and distribution of knwoledge...  Ninth century Abbasid empire scholar called [al-Jāḥiẓ](https://en.wikipedia.org/wiki/Al-Jahiz) was part of a corp of translators, translating earlier manuscripts while also creating new books.  al-Jāḥiẓ, "to fulfil his moral obligation to God, an obligation enjoined by the [Quran](https://en.wikipedia.org/wiki/Quran) to look closely and search for understanding," wrote about nature's interconnectedness, ecosystems and survival of the fittest in his unfinished, 7-volume book of "Living Beings"...  Stott moves on through contributions of [Aristotle](https://en.wikipedia.org/wiki/Aristotle), [Leonardo da Vinci](https://en.wikipedia.org/wiki/Leonardo_da_Vinci), [Benoît de Maillet (Telliamed)](https://en.wikipedia.org/wiki/Beno%C3%AEt_de_Maillet), [Bernard Palissy](https://en.wikipedia.org/wiki/Bernard_Palissy), [Abraham Tremblay](https://en.wikipedia.org/wiki/Abraham_Trembley), [Denis Diderot](https://en.wikipedia.org/wiki/Denis_Diderot), [Jean-Baptiste Lamarck](https://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck), [Constantine Samuel Rafinesque](https://en.wikipedia.org/wiki/Constantine_Samuel_Rafinesque), [Robert Edmond Grant](https://en.wikipedia.org/wiki/Robert_Edmond_Grant), [Robert Chambers](https://en.wikipedia.org/wiki/Robert_Chambers_(publisher,_born_1802)), [Alfred Wallace](https://en.wikipedia.org/wiki/Alfred_Russel_Wallace) and more.  Many of them performed their investigations and built their arguments/explanations in the context of "governing" bodies and accompanying systems which demanded conformance with the idea that "[everything was presumed to have been created perfectly by God](https://www.bookbrowse.com/reviews/index.cfm/book_number/2721/darwins-ghosts)" -- sometimes under threat of death.  
@@ -1848,7 +1862,7 @@ Reggie Campion, member of a secret vigilante group based in England.
 <details><summary><a name="the_demi_gods_by_james_stephens"></a>The Demi-Gods, By James Stephens. 1914</summary>
 
 ### The Demi-Gods (4:37)  
-https://librivox.org/the-demi-gods-by-james-stephens/  
+Audio: https://librivox.org/the-demi-gods-by-james-stephens/  
 Text: https://archive.org/details/thedemigods00steprich/page/n7/mode/2up  
 By [James Stephens](https://en.wikipedia.org/wiki/James_Stephens_(author)) (1882 - 1950). Published 1914.  
 Reader's Notes:  
@@ -1863,14 +1877,16 @@ This book is a lot of fun. And the excellent reading/acting by Joe Bergin is a h
 <details><summary><a name="democracy_an_american_novel_by_henry_brooks_adams"></a>Democracy - An American Novel. By Henry Brooks Adams. 1880</summary>
 
 ### Democracy - An American Novel. (07:16)  
-https://librivox.org/democracy-an-american-novel-by-henry-adams/  
+Audio: https://librivox.org/democracy-an-american-novel-by-henry-adams/  
 Text: https://www.gutenberg.org/ebooks/2815  
-https://en.wikipedia.org/wiki/Democracy:_An_American_Novel  
 By [Henry Brooks Adams](https://en.wikipedia.org/wiki/Henry_Adams)  (1838 - 1918)  
 
 Reading Notes: A novel about timeless characters that still seem populate the elected ranks in Washington, D.C., with an excellent reading by [Nicholas Clifford (1930-2019)](https://librivox.org/reader/4018).  
 Librivox Summary:  
 >"Not until after his death in 1918 was it revealed that Henry Adams was the anonymous author of Democracy, which had been published to great acclaim in 1880. Though the book avoids dates and the characters are fictitious, the setting is no doubt that of Washington in the 1870s, the age of Presidents Grant and Hayes. The young widow, Madeleine Lee, wealthy and independent, is the protagonist, who leaves her New York for Washington to turn her intelligence to politics and to see what makes her country tick. There she meets (among others) Senator Silas P. Ratcliffe of Illinois, one of the most powerful and influential (if somewhat uncultured) men of the capital, who is considering a run for the presidency, and who needs a wife to act as First Lady, a position that (he thinks) Mrs. Lee would admirably fill. Through the book Adams plays with the themes of political necessity, compromise, corruption -- particularly the kind of corporate domination of national politics that he saw becoming all too powerful. Should honest and intelligent men keep their integrity by avoiding politics? Or would that simply mean turning over the governance of the country to power-hungry, scheming, and none too honest hacks? For all the witty conversations in his novel, this was a theme that plagued Adams (a presidential grandson) in life as well as literature, and it is a theme that has by no means disappeared today." - ([Summary by Nicholas Clifford](https://librivox.org/democracy-an-american-novel-by-henry-adams/))  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/Democracy:_An_American_Novel  
+
 
 </details>
 
@@ -1902,7 +1918,8 @@ Other References:  https://heathercoxrichardson.substack.com/p/december-11-2019 
 <details><summary><a name="devil_in_the_white_city"></a>The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America. By Erik Larson. 2004</summary>
 
 ### The Devil in the White City: A Saga of Magic and Murder at the Fair that Changed America.  
-https://www.penguinrandomhouse.com/books/98115/the-devil-in-the-white-city-by-erik-larson/  
+Audio: https://www.overdrive.com/media/114553/the-devil-in-the-white-city  
+eBook: https://www.overdrive.com/media/461748/the-devil-in-the-white-city  
 By [Erik Larson](https://en.wikipedia.org/wiki/Erik_Larson_(author))  (1954 - ), Published 2004, Vintage, 447 pages.  
 
 Reading Notes:  An interesting investigation of the 1893 Chicago World's Fair, and the serial murderer [Herman Webster Mudgett](https://en.wikipedia.org/wiki/H._H._Holmes) (a.k.a. Dr. Henry Howard Holmes or H. H. Holmes) who took advantage of those attracted to the city during its construction and run-time. See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Devil_in_the_White_City) for a more thorough review.  
@@ -1977,7 +1994,7 @@ Interview with Edward Dolnick by [Sadie Stein](): [nytimes.com/.../edward-dolnic
 <details><summary><a name="the_disciplinary_circuit_by_murray_leinster"></a>The Disciplinary Circuit.  By Murray Leinster.  1945</summary>
 
 ### The Disciplinary Circuit.  (1:36)  
-https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
+Audio: https://librivox.org/the-disciplinary-circuit-by-murray-leinster/  
 Text: https://www.gutenberg.org/ebooks/69448  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896 - 1975)  
 
@@ -2106,11 +2123,11 @@ Reading Notes: Based on historical events when in A.D. 9, a charismatic chieftai
 </details>
 
 
-<details><summary>Edward III. By William Parsons Warburton, 1908</summary>
+<details><summary><a name="edward_iii_by_william_parsons_warburton"></a>Edward III. By William Parsons Warburton, 1908</summary>
 
 ### Edward III (9:40)  
-https://librivox.org/edward-iii-by-william-warburton/  
-https://archive.org/details/in.ernet.dli.2015.86381  
+Audio: https://librivox.org/edward-iii-by-william-warburton/  
+Text: https://archive.org/details/in.ernet.dli.2015.86381  
 By [William Parsons Warburton](https://warburton.one-name.net/clans/Garryhinch/ps01/ps01_052.html) (1826 - 1913)  Published 1908  
 
 Summary from Librivox:  
@@ -2119,7 +2136,7 @@ Summary from Librivox:
 </details>
 
 
-<details><summary>Eifelheim. By Michael Flynn. 2006 </summary>
+<details><summary><a name="eifelheim_by_michael_flynn"></a>Eifelheim. By Michael Flynn. 2006 </summary>
 
 ### Eifelheim. (17:15)  
 Audio: https://www.overdrive.com/media/137097/eifelheim  
@@ -2162,7 +2179,7 @@ Reading Notes: See the Overdirve summary...  I listened to this short book while
 <details><summary><a name="eleven_years_in_the_rocky_mountains_by_frances_a_fuller_victor"></a>Eleven Years in the Rocky Mountains and Life on the Frontier. By Frances A. Fuller Victor. 1870 </summary>
 
 ### Eleven Years in the Rocky Mountains and Life on the Frontier.  (13:39)  
-https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
+Audio: https://librivox.org/eleven-years-in-the-rocky-mountains-and-a-life-on-the-frontier-by-frances-a-fuller-victor/  
 Text: https://www.gutenberg.org/ebooks/39465  
 By [Frances A. Fuller Victor](https://en.wikipedia.org/wiki/Frances_Fuller_Victor) (1826 - 1902)  
 
@@ -2374,7 +2391,7 @@ Goodreads Reviews: https://www.goodreads.com/book/show/202032.Fair_Land_Fair_Lan
 </details>
 
 
-<details><summary>Far North -- A Novel.  By Marcel Theroux. 2009 </summary>
+<details><summary><a name="far_north_by_marcel_theroux"></a>Far North -- A Novel.  By Marcel Theroux. 2009 </summary>
 
 ### Far North.  (9:00)  
 Audio: https://www.overdrive.com/media/301444/far-north  
@@ -2385,13 +2402,14 @@ Reading Notes: *Adventures,* hardships and trials of an often-loner *Makepeace* 
 
 Author's Summary: https://thisworldofdew.com/novels/far-north/  
 
+
 </details>
 
 
-<details><summary>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
+<details><summary><a name="the_farmers_bride_by_charlotte_mew"></a>The Farmer's Bride.  By Charlotte Mew.  1921 </summary>
 
 ### The Farmer's Bride.  (1:06)  
-https://librivox.org/the-farmers-bride-by-charlotte-mew/  
+Audio: https://librivox.org/the-farmers-bride-by-charlotte-mew/  
 Text: https://www.gutenberg.org/ebooks/71305  
 By [Charlotte Mew](https://en.wikipedia.org/wiki/Charlotte_Mew) (1869 - 1928)  
 
@@ -2399,19 +2417,22 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Farmer's_Bride
 Librivox Summary:  
 >The Farmer's Bride is a collection of 28 poems by British modernist writer Charlotte Mew. The original edition was published in 1916; this edition, published in 1921, contains 11 more poems. Mew's poetry is varied in style and content, but manifests a concern with gender issues throughout. Mew's life was marked by loneliness and depression, and she eventually committed suicide. Her work earned her the admiration of her peers, including Virginia Woolf, who characterized her as "very good and quite unlike anyone else." [Summary by Elizabeth Klett](https://librivox.org/the-farmers-bride-by-charlotte-mew/)  
 
+
 </details>
 
 
-<details><summary>The Fifth Queen.  By Ford Madox Ford.  1906-1908 </summary>
+<details><summary><a name="the_fifth_queen_by_ford_madox_ford"></a>The Fifth Queen.  By Ford Madox Ford.  1906-1908 </summary>
 
 ### The Fifth Queen.  By Ford Madox Ford.  (7:36)  
-https://librivox.org/the-fifth-queen-by-ford-madox-ford/  
+Audio: https://librivox.org/the-fifth-queen-by-ford-madox-ford/  
 Text: https://www.gutenberg.org/ebooks/30188  
 By [Ford Madox Ford](https://en.wikipedia.org/wiki/Ford_Madox_Ford) (1873 - 1939)  
+
 Reading Notes:  
 This is historical **fiction**.  It attempts to help us understand many of the characters that surrounded King Henry VIII.  While there may be facts upon which to base many of these characterizations, considerable effort and story-telling went into building out gaps in those facts.  With those caveats, enjoy the book.  I did.  
 Wikipedia Summary:  https://en.wikipedia.org/wiki/The_Fifth_Queen  
 >The Fifth Queen trilogy is a series of connected historical novels by English novelist Ford Madox Ford. It consists of three novels, The Fifth Queen; And How She Came to Court (1906), Privy Seal (1907) and The Fifth Queen Crowned (1908), which present a highly fictionalized account of Katharine Howard's marriage to King Henry VIII. ([Summary by Wikipedia](https://en.wikipedia.org/wiki/The_Fifth_Queen))  
+
 
 </details>
 
@@ -2432,12 +2453,15 @@ Reading Notes: [Thomas Hickey](https://en.wikipedia.org/wiki/Thomas_Hickey_(sold
 <details><summary><a name="first_lensman_e_e_smith"></a>First Lensman. (Second book in the Lensman Series) By E. E. Smith, 1950</summary>
 
 ### First Lensman (*Second book in the Lensman Series*) (11:12)  
-https://librivox.org/first-lensman-by-e-e-smith/  
-https://en.wikipedia.org/wiki/First_Lensman  
+Audio: https://librivox.org/first-lensman-by-e-e-smith/  
 Text: https://www.gutenberg.org/ebooks/49525  
 By [E. E. Smith](https://en.wikipedia.org/wiki/E._E._Smith) (1890 - 1965)  published 1950  
+
 Reading Notes: (*see 'Triplanetary' below*)  
 >The Secret Planet. No human had ever landed on the hidden planet of Arisia. A mysterious space barrier turned back both men and ships. Then the word came to Earth, "Go to Arisia!", Virgil Samms of the Galactic Patrol went -- and came back with the Lens, the strange device that gave its wearer powers no man had ever possessed before. Samms knew the price of that power would be high. But even he had no idea of the ultimate cost, and the weird destiny waiting for the First Lensman. First Lensman is the sequel to Triplanetary, and the second book of E.E. "Doc" Smith's classic [Lensman series](https://en.wikipedia.org/wiki/Lensman_series). (from the original book cover and [Mark Nelson](https://librivox.org/triplanetary-first-in-the-lensman-series-by-e-e-doc-smith/))  
+
+Wikipedia Summary: https://en.wikipedia.org/wiki/First_Lensman  
+
 
 </details>
 
@@ -2457,10 +2481,10 @@ Review by [Laird Hunt](https://en.wikipedia.org/wiki/Laird_Hunt): [https://www.n
 </details>
 
 
-<details><summary>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
+<details><summary><a name="four_months_in_a_sneak_box_by_nathaniel_holmes_bishop"></a>Four Months in a Sneak-Box. By Nathaniel Holmes Bishop, 1878</summary>
 
 ### Four Months in a Sneak-Box (8:32)  
-https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
+Audio: https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/  
 Text: https://www.gutenberg.org/ebooks/5686  
 By [Nathaniel Holmes Bishop](https://www.geni.com/people/Nathaniel-H-Bishop-III/293450871480001329) (1837 - 1902).  
 
@@ -2468,6 +2492,7 @@ Reader Notes: Unless you are interested in first person histories of mid-19th ce
 
 [Librivox Summary](https://librivox.org/four-months-in-a-sneak-box-by-nathaniel-h-bishop/):  
 >The kind reception by the American press of the author's first journey to the great southern sea, and its republication in Great Britain and in France ... have encouraged him to give the public a companion volume, "FOUR MONTHS IN A SNEAK-BOX" ... a relation of ... a second cruise to the Gulf of Mexico ... by a different route from that followed in the "VOYAGE OF THE PAPER CANOE." This time the author procured one of the smallest and most comfortable of boats... the BARNEGAT SNEAK-BOX. This curious and stanch little craft, though only twelve feet in length, proved a most comfortable and serviceable home while the author rowed in it more than 2600 miles down the Ohio and Mississippi rivers, and along the coast of the Gulf of Mexico, until he reached the goal of his voyage  --  the mouth of the wild Suwanee River  --  which was the terminus of his "VOYAGE OF THE PAPER CANOE." Summary by Nathaniel H. Bishop.  NOTE: There are issues of race in the telling of "Four Months in a Sneak-box", particularly anti-Black stereotypes and associated derogatory terms. It is LibriVox's policy to record texts as written.  
+
 
 </details>
 
@@ -2481,9 +2506,10 @@ By [Kristin Hannah](https://en.wikipedia.org/wiki/Kristin_Hannah) and on [her si
 
 Reading Notes: This is an emotion-heavy family drama, love story, and historical fiction constructed around the 1930s depression, Southwest Dust Bowl, agricultural Calfornia and desperate poverty labor & some attempts to resist exploitation of workers.  The writing did a good job drawing me in and keeping me interested throughout.  
 
-Review by Ron Charles: [https://www.washingtonpost.com/.../four-winds-book-review/...](https://www.washingtonpost.com/entertainment/books/four-winds-book-review/2021/01/28/6c3afed8-6165-11eb-9061-07abcc1f9229_story.html)  
-Review by Elisabeth Egan: [https://www.nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html](https://www.nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html)  
+Review by Ron Charles: [washingtonpost.com/.../four-winds-book-review/...](https://www.washingtonpost.com/entertainment/books/four-winds-book-review/2021/01/28/6c3afed8-6165-11eb-9061-07abcc1f9229_story.html)  
+Review by Elisabeth Egan: [nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html](https://www.nytimes.com/2021/01/29/books/kristin-hannah-four-winds.html)  
 Review by : [https://the-bibliofile.com/the-four-winds/](https://the-bibliofile.com/the-four-winds/)  
+
 
 </details>
 
@@ -2499,13 +2525,14 @@ Reading Notes: "July 25, 2234: The crew of the Adamura discovers the Anomaly" --
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Fractal_Noise  
 
+
 </details>
 
 
-<details><summary>The Freelands. By John Galsworthy. 1914 </summary>
+<details><summary><a name="the_freelands_by_john_galsworthy"></a>The Freelands. By John Galsworthy. 1914 </summary>
 
 ### The Freelands  (9:51)  
-https://librivox.org/freelands-by-john-galsworthy/  
+Audio: https://librivox.org/freelands-by-john-galsworthy/  
 Text: https://www.gutenberg.org/ebooks/2309  
 By [John Galsworthy](https://en.wikipedia.org/wiki/John_Galsworthy) (1867 - 1933)  
 
@@ -2513,6 +2540,7 @@ Reader's Notes:  This was an enjoyable story about a range of character *types*,
 
 Librivox Summary:  
 >The Freelands family is a mixture: Tod Freeland is an uncommunicative gentle giant, his wife Kirsteen passionate and free-spoken, Felix is a literary man, Stanley the man of business, John is in politics. Their mother is a practical uncomprehending old lady while Nedda and Derek, the younger generation and cousins, fall head over heels in love.  The story revolves around the 'land question' which was the chief matter of moment when the novel was written – British agriculture was depressed as imported food (chiefly from the USA) meant that domestic farmers were struggling. The rich landowners pay scant attention to the wishes and rights of the labourers on their land. The Freelands find themselves on both sides of the divide and the ensuing struggle involves them all. There is therefore much social commentary in the book, but it is also a tender love story and an insight into how different members of one family can think differently while still bonded together. ([Summary by Simon Evers](https://librivox.org/freelands-by-john-galsworthy/))  
+
 
 </details>
 
@@ -2527,8 +2555,10 @@ Performed by [Kim Niemi](https://www.linkedin.com/in/kimmyniemi).
 
 Reader Notes: It seems obvious that C.Yandell loves France and French culture. She also seems well prepared academically and intellectually for this exploration of *being French*.  She shares her observations based on years of living in France, studying French literature & culture, and sharing time with American students on trips to France.  She is an entertaining and thoughtful writer and I am treating this book as foux travel to Paris.  The book is performed by [Kim Niemi](https://www.linkedin.com/in/kimmyniemi) in a way that enhances that travel experience.  
 "[Interview: Cathy Yandell, Author of The French Art of Living Well.](https://francetoday.com/learn/interviews/interview-cathy-yandell-author-of-the-french-art-of-living-well/)" First published: 20 May 2023. By Janet Hulstrand  
+
 [Essay by the author](https://airmail.news/books/2023/5/the-french-twist) 19 May 2023.  
-"[The French Art of Living Well: 10 Tips from Cathy Yandell’s new book.](https://thesimplyluxuriouslife.com/frenchartoflivingwell10tips/)" By Shannon Ables. 13 August 2023  
+"[The French Art of Living Well: 10 Tips from Cathy Yandell’s new book](https://thesimplyluxuriouslife.com/frenchartoflivingwell10tips/)." By Shannon Ables. 13 August 2023  
+
 
 </details>
 
@@ -2541,6 +2571,7 @@ eBook: https://www.overdrive.com/media/9613246/from-from
 By [Monica Youn](https://en.wikipedia.org/wiki/Monica_Youn)  ( – )  
 
 Reading Notes: This collection of poetry received [accolades from a range of institutions and reviewers](https://www.graywolfpress.org/books/from-from). It explores what Asian American identity means to the author, based on her lived, observed and analyzed existence.  I don't know much about poetry, but believe this short collection is worth a listen.  
+
 
 </details>
 
@@ -2591,6 +2622,7 @@ The [audio version](https://archive.org/download/synapseml_gutenberg_frontier_ba
 * Afterglow  
 
 Other J.M.Hanson books on line: https://onlinebooks.library.upenn.edu/webbin/book/lookupname?key=Hanson,%20Joseph%20Mills,%201876-  
+
 
 </details>
 
