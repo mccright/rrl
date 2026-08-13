@@ -1,5 +1,5 @@
 # My Recreational Reading Log  
-This is where I maintain a list of the books that I [have read](#completed_reading) or [are reading or are considering reading](#pending-or-currently-underway) since 25 July 2022 (*when I started tracking my reading*).  
+This is where I maintain a list of the books that I [have read](#completed_reading) or [am reading or are considering reading](#pending-or-currently-underway) since 25 July 2022 (*when I started tracking my reading*).  
 This information is also organized by [Audio Books](https://mccright.github.io/rrl_staging/AudioBooks/), [Out-of-Copyright - Open-Access eBooks](https://mccright.github.io/rrl_staging/OpenSourceTexts/) or [Commercial and "Open Access" Books](https://mccright.github.io/rrl_staging/Books/), along with some notes about [where I get reading materials on-line](https://mccright.github.io/rrl_staging/#supporting-material) in my *staging* area...  
 
 
@@ -5948,6 +5948,28 @@ Reading Notes: This is more 1950s, post-WWII [space opera](https://en.wikipedia.
 
 Librivox Summary:  
 >It was the greatest man hunt in history  --  and while this frantic rescue mission went on, the alien spaceships were watching and waiting, holding themselves ready to pounce! - Summary by [Original text](https://librivox.org/spacemen-lost-by-george-o-smith/).  
+
+</details>
+
+
+<details><summary><a name="spearhead_by_adam_makos"></a>Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II.  By Adam Makos. 2019  </summary>
+
+### Spearhead -- An American Tank Gunner, His Enemy, and a Collision of Lives in World War II. (14:00)  
+Audio: https://www.overdrive.com/media/4028754/spearhead  
+eBook: https://www.overdrive.com/media/4247725/spearhead  
+By [Adam Makos](https://en.wikipedia.org/wiki/Adam_Makos)  ( – )  
+
+Reading Notes: This is classic [military history](https://en.wikipedia.org/wiki/Military_history).  It is a biography of World War II tank gunner Clarence Smoyer -- detailing his activities in Allied forces final push to crush the Nazi forces & end the war in Europe.  It is based on multiple interviews with those involved, backed up by extensive archival research.  The author incorporates facets of [logistics](https://en.wikipedia.org/wiki/Category:Military_logistics), [leadership](https://en.wikipedia.org/wiki/Category:Military_leadership), [technology](https://en.wikipedia.org/wiki/Military_technology), [strategy](https://en.wikipedia.org/wiki/Military_strategy), and [tactics](https://en.wikipedia.org/wiki/Military_tactics) most relevant to tank forces during this period, and how these changed over time, while exploring moral dimensions of warfare for those who fought and some of the ways that [military ethics](https://en.wikipedia.org/wiki/Category:Military_ethics) drives soldier's actions.  He also details some of the destructive realities of war.  
+
+Some characters:  
+Clarence Smoyer trained as a tank "loader" and *promoted* to "gunner" in the field.  
+Bob Early, Commander of Clarence Smoyer's tank.  
+Gustav Schaefer, teenage German tanker *promoted* to "gunner" in the field.  
+
+Authors Page on this book: [www.adammakos.com/spearhead-book](https://www.adammakos.com/spearhead-book.html)  
+OverDrive Summary: [overdrive.com/media/4028754/spearhead](https://www.overdrive.com/media/4028754/spearhead)  
+>When Clarence Smoyer is assigned to the gunner’s seat of his Sherman tank, he discovers a hidden talent: He’s a natural-born shooter. At first, Clarence and his fellow crews in the legendary 3rd Armored Division—“Spearhead”—thought their tanks were invincible. Then they met the murderous German Panther and a pattern soon emerged: The lead tank always gets hit.  After Clarence sees his friends cut down at the West Wall and in the Battle of the Bulge, he and his crew are given a weapon with the power to avenge their fellow comrades—the Pershing, a state-of-the-art “super tank.” But with it comes a harrowing new responsibility: Now they will spearhead every attack.  That’s how Clarence finds himself leading the U.S. Army into its largest urban battle of the European war, the fight for Cologne, the “Fortress City” of Germany. Clarence will engage the fearsome Panther in a duel immortalized by an army cameraman. And he will square off with Gustav Schaefer, a teenager behind the trigger in a Panzer IV tank, whose crew has been sent on a suicide mission to stop the Americans.  What happens next will haunt Clarence to the modern day, drawing him back to Cologne to do the unthinkable: to face his enemy, one last time.  
+
 
 </details>
 
