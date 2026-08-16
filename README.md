@@ -541,6 +541,23 @@ See the Wikipedia Summary of [The Andromeda Evolution](https://en.wikipedia.org/
 </details>
 
 
+<details><summary><a name="annihilation_by_jeff_vandermeer"></a>Annihilation -- #1 in the Southern Reach Trilogy.  By Jeff VanderMeer. 2014  </summary>
+
+### Annihilation.  (6:00) 
+Audio: https://www.overdrive.com/media/3835721/annihilation  
+eBook: https://www.overdrive.com/media/2115061/annihilation  
+By [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)  (1968 – )  
+
+Reading Notes: A biologist, an anthropologist, a surveyor and a psychologist -- all unnamed -- are sent by the Southern Reach organization (*the government? It's not clear...*) to study Area X, a near mythic site of an unknown *catastrophe*.  I don't believe this atmospheric horror novel is for everyone.  The author constructed a story that is dark, sometimes claustrophobic, swells tension and fear of the unknown, flings scenes of killing and the remains of recent and earlier violence, and introduces barely seen creatures that together ensure a reader's unease.  
+
+Review by [Jason Sheehan](https://www.linkedin.com/in/jason-sheehan-40ab2713b/):  [npr.org/.../youll-get-lost-in-the-haunted-world-of-annihilation](https://www.npr.org/2014/02/07/270967294/youll-get-lost-in-the-haunted-world-of-annihilation)  
+Review by [Tom LeClair](https://researchdirectory.uc.edu/p/leclaite):  [nytimes.com/.../annihilation-by-jeff-vandermeer-and-more.html](https://www.nytimes.com/2014/02/16/books/review/annihilation-by-jeff-vandermeer-and-more.html)  
+Review by [Sara Sklaroff](https://www.linkedin.com/in/sara-sklaroff-b4538310a/): [washingtonpost.com/.../annihilation-by-jeff-vandermeer/2014/02/25/...](https://www.washingtonpost.com/entertainment/books/annihilation-by-jeff-vandermeer/2014/02/25/0a52a03a-9d82-11e3-b8d8-94577ff66b28_story.html?utm_term=.6cd04ac4eb96)  
+A collection of reviews at [bookmarks](https://bookmarks.reviews):  [bookmarks.reviews/reviews/all/annihilation/](https://bookmarks.reviews/reviews/all/annihilation/)  
+
+</details>
+
+
 <details><summary><a name="anomaly_by_david_kazzie"></a>Anomaly. By David Kazzie. 2019  </summary>
 
 ### Anomaly.  (10:00)  
@@ -548,7 +565,7 @@ Audio: https://www.overdrive.com/media/4871889/anomaly
 eBook:   
 By [David Kazzie](https://david-kazzie.squarespace.com/) and on LI [David Kazzie](https://www.linkedin.com/in/david-kazzie-62a57444)   ( – )  
 
-Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* first alien visitor(s).  Government conspiracy.  Conflict.  Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
+Reading Notes: Just OK. ...Scientist, Peter Abbott, disappears on research trip.  Scientist's scientist wife, Claire Hamilton, moves on, builds new family.  Twelve years later *Scientist wife* goes on mission to find first husband & *meet* the first alien visitor(s).  Government conspiracy.  Conflict.  Sciencey-stuff then alien visitor(s) disappear/leave.  Most of the story is what seems to me to be kind of *stiff* dialog between main characters and inside their heads -- main characters who are not well fleshed out characters.  
 
 Review on [errantdreams.com](https://www.errantdreams.com/): [https://www.errantdreams.com/...anomaly-david-kazzie/](https://www.errantdreams.com/2018/12/review-anomaly-david-kazzie/)  
 
