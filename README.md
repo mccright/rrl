@@ -805,6 +805,22 @@ Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/w
 </details>
 
 
+<details><summary><a name="hms_surprise_by_patrick_o_brian"></a>#3 Aubrey & Maturin Series: H. M. S. Surprise.  By Patrick O'Brian. 1973/2005 </summary>
+
+### H. M. S. Surprise.  (12:06)  
+Audio: https://www.overdrive.com/media/61428/h-m-s-surprise  
+eBook: https://www.overdrive.com/media/2313234/h-m-s-surprise-volume-book-3-aubrey-maturin-novels  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: Jack Aubrey in serious debt, Stephen Maturin arranges for some extended sea time for the Captain. Structure, risks and excitement on the cruise for Jack.  Scientific observations, rare human connection, potential romance and nearly deadly injury for Maturin. This is another great volume in Patrick O'Brian's Aubrey & Maturin Series.  See the [Wikipedia Summary] (https://en.wikipedia.org/wiki/HMS_Surprise_(novel)) if you want to know more details.  
+
+Wikipedia Summary: [wikipedia.org/wiki/HMS_Surprise_(novel)](https://en.wikipedia.org/wiki/HMS_Surprise_(novel))  
+The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction](https://en.wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fiction)  
+
+
+</details>
+
+
 <details><summary><a name="Audubons_Western_Journal_By_John_Woodhouse_Audubon"></a>Audubon's Western Journal: 1849-1850.  By John Woodhouse Audubon.  1906</summary>
 
 ### Audubon's Western Journal: 1849-1850 -- Being the MS. record of a trip from New York to Texas, and an overland journey through Mexico and Arizona to the gold-fields of California. (5:28)  
