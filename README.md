@@ -1,5 +1,6 @@
 # My Recreational Reading Log  
 This is where I maintain a list of the books that I [have read](#completed_reading) or [am reading or are considering reading](#pending-or-currently-underway) since 25 July 2022 (*when I started tracking my reading*).  
+Click or touch any of the little arrowheads to expand an entry for details about a given book.  
 This information is also organized by [Audio Books](https://mccright.github.io/rrl_staging/AudioBooks/), [Out-of-Copyright - Open-Access eBooks](https://mccright.github.io/rrl_staging/OpenSourceTexts/) or [Commercial and "Open Access" Books](https://mccright.github.io/rrl_staging/Books/), along with some notes about [where I get reading materials on-line](https://mccright.github.io/rrl_staging/#supporting-material) in my *staging* area...  
 
 
@@ -3457,6 +3458,35 @@ Everyone should know that this is an excellent reading/performance by [Bryn Robe
 
 Librivox Summary:  
 >"Jane Austen's Sailor Brothers" by Edith & John Hubback is a biography that explores the lives of Jane Austen's two sailor brothers, Francis and Charles. The book examines their naval careers, their relationships with their famous sister, and their impact on her writing. They begin with background information on the Austen family and the naval world of the late eighteenth and early nineteenth centuries. They then describe Francis's and Charles's experiences in the Royal Navy, including their participation in the Napoleonic Wars and voyages to exotic locations such as the West Indies and Australia. The Hubbacks, themselves descendants of Jane Austen, also examine the relationship between Austen and her sailor brothers, highlighting the influence they had on her writing. For example, they discuss the naval themes that appear in Austen's novels such as "Persuasion" and "Mansfield Park" and suggest that her brothers' experiences informed these works. Throughout the book, the Hubbacks use letters, journals, and other primary sources to bring the Austen brothers to life. They also provide context on the wider social and political issues of the time, including the impact of the wars on naval life and the attitudes towards sailors and their families. "Jane Austen's Sailor Brothers" offers a fascinating glimpse into the lives of two important figures in Jane Austen's world and sheds light on the naval world that inspired her writing. ([Summary by Bryn Roberts](https://librivox.org/jane-austens-sailor-brothers-by-edith-hubback-brown/))  
+
+</details>
+
+
+<details><summary><a name="the_jester_by_patterson_and_gross"></a>The Jester. By James Patterson and Andrew Gross. 2003/2005  </summary>
+
+### The Jester.  (13:00)  
+Audio: https://www.overdrive.com/media/82529/the-jester  
+eBook: https://www.overdrive.com/media/28065/the-jester  
+By [James Patterson](https://en.wikipedia.org/wiki/James_Patterson) (1947 – )  and [Andrew Gross](https://en.wikipedia.org/wiki/Andrew_Gross)  (1952 – 2025)  
+548 pages  
+
+Reading Notes:  This *historical fiction* was entertaining-enough, but expect little. There is little character development or any hint of rationality in the scenes that support the narrative. The central character is involved in one *impossible* and undeveloped situation after another (*some of the writing about battles while on Crusade might be an exception*). That said, the chapters are short and the action is heavy -- as you might expect in a Patterson-branded novel.  
+*Veille du Père* Inn keeper Hugh de Luc joins the crusaders, tramping to the Holy Land to earn his freedom, to find riches and to kill *infidels*.  Trudging East for months.  He walked through the human remains of a leading Crusader army, now dead outside [Constantinople](https://en.wikipedia.org/wiki/Constantinople).  And then he lost any faith in his mission after experiencing the repeated slaughter of a long siege of [Antioch](https://en.wikipedia.org/wiki/Antioch).  In his final hand-to-hand combat, that happened to occur in a church, he picked up a dead priest's staff and some loot from the alter *as his share of the promised riches*.  He had no religious beliefs that would support his continued participation in the Crusade and he fled home, a long and dangerous treck.  
+After the extended journey home, Hugh found his Inn burned by *dark knights* who raped and kidnapped his wife, Sophie, and killed his baby son, Philippe.  
+Hugh runs aimlessly across country to find Lord Baldwin, whom he believed ordered the attack on his inn and family.  After being attacked by a boar, he was found and taken in by *highborn* [lady-in-waiting](https://en.wikipedia.org/wiki/Lady-in-waiting) Emilie living in her cousin's court in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e).  She nurses Huch back to health and supports his search for his wife -- arranging for his training as a [jester](https://en.wikipedia.org/wiki/Jester) as a disguise to gain entry into Lord Baldwin's court in [Treille]().  After displacing the Lord's current Jester, Hugh searches for his wife. He also makes an enemy of "Norcross," one of the Lord's leading knights.  Hugh ends up killing Norcross and escaping back to Borée, where he learns that the murderous [tafurs](https://en.wikipedia.org/wiki/Tafurs) were the *dark knights* who took so much from him, and that under the direction of Emilie's cousin Anne and her husband Lord Stephen they were searching for valuable relics dating back to the Crucifixion, especially one that they assume Hugh possesses. Then the action piles on, and the story ends with a *happily ever after* epilog.  
+
+* Hugh De Luc: Central character...  Ran an inn in Veille du Père, France with his wife Sophie.  
+* Lord Baldwin: Duke of Treille, France.  
+* Sophie De Luc: Wife of Hugh De Luc. Taken by _____. Held in the dungeon of Borée.  
+* Phillipe De Luc: Son of Hugh De Luc. Born after Hugh left and died before Hugh returned.  
+* Emilie: A daughter of the King of France.  Living in [Borée](https://en.wikipedia.org/wiki/Bor%C3%A9e), France. Her husband is Duke Stephen.  
+* Lord Stephen:  His dukedom includes Borée, France.  Fought in the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade).  
+* Anne: Lord Stephen's wife and Emilie's cousin.  
+* [Tafurs](https://en.wikipedia.org/wiki/Tafurs): Emilie's cousin Anne's guards. a group of Christian participants of the [First Crusade](https://en.wikipedia.org/wiki/First_Crusade). Zealots following strict oaths of poverty, "but according to their rules, they could keep anything gained through plunder. Indeed, they regarded such spoils as validation of God's favour."  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Jester_(novel)](https://en.wikipedia.org/wiki/The_Jester_(novel))  
+Overdrive Summary: [overdrive.com/media/28065/the-jester](https://www.overdrive.com/media/28065/the-jester)  
+>"Hugh De Luc, a poor innkeeper, returns home from the First Crusade wearied from battle and disillusioned by carnage. After journeying from the Holy Land back to his own small village, he finds his nightmare is just beginning.In his absence, Hugh's son has been killed and his beloved wife, Sophie, abducted by a ruthless duke in search of a priceless relic dating back to the Crucifixion. Taking on the role of a jester, Hugh infiltrates the court where he believes Sophie is held captive. There he confronts men more evil than he ever imagined and embarks on an epic battle to restore his broken life."  
 
 </details>
 
