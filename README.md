@@ -3633,6 +3633,38 @@ By [John Wood Campbell, Jr.](https://en.wikipedia.org/wiki/John_W._Campbell) (19
 </details>
 
 
+<details>
+<summary><a name="last_of_the_vikings_by_johan_bojer"></a>The Last of the Vikings.  By Johan Bojer.  1921/English 1923</summary>
+
+### The Last of the Vikings. (9:17)  
+Audio: https://librivox.org/the-last-of-the-vikings-by-johan-bojer/  
+Text page: https://archive.org/details/BojerLastOfTheVikingsCombinedReduced/page/n1/mode/2up  
+Download Text: https://archive.org/stream/BojerLastOfTheVikingsCombinedReduced/Bojer%20Last%20of%20the%20Vikings%20Combined%20Reduced_djvu.txt  
+eBook: https://www.overdrive.com/media/8857051/the-last-of-the-vikings  
+By [Johan Bojer](https://en.wikipedia.org/wiki/Johan_Bojer) (1872 - 1959)  
+Translated from Norwegian by [Jessie Muir](https://www.ancestry.com/genealogy/records/jessie-muir-24-129g0kj)(??)
+
+Reading Notes: This is a good listen and a good read, both.  See the excellent [EBSCO Summary](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer) for an outline and analysis of this story.  
+
+Key Characters:  
+* `Kristaver Myran`: The protagonist in this story. *Owns* the heavily used, previously owned an open cod fishing boat, *Seal*, that had a history of capsizing and while it helped make money some years, it kept him in debt and ensured that he was away from home in a dangerous environment for three or more months each winter.  
+* `Marza Myran`: Kristover's wife who dreaded his leaving each fishing season and longed for a *better* life on the land.  
+* `Lars Myram`: Kristover's son who joins Kristover's fishing season for the first time -- he is a *scaurie* (first-timer) on Lofoten.  
+* `Elezeus Hylla`: Kristover's brother-in-law who often beat his wife, Berit, black and blue (*including the Sunday before leaving on this season's cod fishing journey*). With Kristover's backing, he bought nets of his own to have a whole share in the fishing.  He died on the shore of a fjiord of "inflammation of the lungs" -- fearing meeting his maker.  
+* `Berit Hylla`: Kristover's sister.  Elezeus Hylla wife, who had a child with another man who had gone away to America, before marrying Elezeus.  
+* `Henry Rabben`: sailor on Sea-fire. Offered last rights to Elezeus Hylla as he lay dying.  
+* `Kaneles Gomon`: Knocked unconscious when the Seal capsized, and after rescue by Kristaver, accidentally dropped into the sea when the rest of the crew was saved by Jacob and his Sea-Flower crew.  
+* `Arnt Awson`: fishermen with Kristaver, built a casket for Elezeus Hylla.  
+* `Peter Suzansa`: the owner of the Sea-fire.  The Sea-fire crew bunked with the crew of the Seal in a hut on [Lofoten](https://en.wikipedia.org/wiki/Lofoten). He had a "boil behind his ear that would not heal" and the Lofoten doctor told him that his fishing days were over and "now you must go home and go into the leper hospital."  
+* `Jacob "with the limp"`: "a great seaman, a great fisherman, and a great drinker; ...and he was a happy bachelor of sixty." He was the owner of the Sea-Flower, and later of five fishing boats.  
+
+**Excellent** EBSCO Summary: [ebsco.com/.../last-vikings-johan-bojer](https://www.ebsco.com/research-starters/literature-and-writing/last-vikings-johan-bojer)  
+
+[Librivox Summary](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/):  In a small village on the coast of Northern Norway lives the Myran family. Father is a fisher man and is, in the eyes of the oldest son, like a god on the sea. Mother spends every winter in fear of losing somebody she loves to the storms and waves. She longs to move inland and turn her back on the coast and all its dangers. The novel explores some of the tension between inland and coast, poor and wealthy, tradition and progress while also depicting the highs and lows of a winter of fishing in Lofoten. - (Summary by [kathrinee](https://librivox.org/the-last-of-the-vikings-by-johan-bojer/))  
+
+</details>
+
+
 <details><summary><a name="the_last_watch_j_s_dewes"></a>The Last Watch. (*first book in The Divide series*)  By J.S. Dewes.  2021 </summary>
 
 ### The Last Watch.  (17:00)  
@@ -3782,6 +3814,25 @@ Reading Notes: A story about a 71 year old introverted, retired Portland, Oregon
 
 Wikipedia Summary of The Librarianist: https://en.wikipedia.org/wiki/The_Librarianist  
 Review by [Ron Charles](https://www.washingtonpost.com/people/ron-charles/): [https://www.washingtonpost.com/.../librarianist...](https://www.washingtonpost.com/books/2023/06/27/librarianist-patrick-dewitt-review/)  
+
+</details>
+
+
+<details><summary><a name="the_library_book_by_susan_orlean"></a>The Library Book. By Susan Orlean. 2018 </summary>
+
+### The Library Book. (12:08)  
+Audio: https://www.overdrive.com/media/3923865/the-library-book  
+eBook: https://www.overdrive.com/media/3962677/the-library-book  
+By [Susan Orlean](https://en.wikipedia.org/wiki/Susan_Orlean)  (1955 – )  
+
+Reading Notes: This book was a great listen on a long drive in August 2026. See the summary from the [author's site](https://www.susanorlean.com/author/books/the-library-book/) for a better overview.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Library_Book](https://en.wikipedia.org/wiki/The_Library_Book)  
+
+Summary from the [author's site](https://www.susanorlean.com/author/books/the-library-book/):  
+>Susan Orlean re-opens the unsolved mystery of the most catastrophic library fire in American history, and delivers a dazzling homage to a beloved institution – our libraries. On the morning of April 29, 1986, a fire alarm sounded in the Los Angeles Public Library. Raging through the stacks, the fire reached 2000 degrees and burned for more than seven hours. It was the largest library fire in the history of the United States: it destroyed four hundred thousand books and damaged seven hundred thousand more, and shut the library down for seven years. The mystery remains: did someone purposefully set fire to the library—and if so, who?  
+>Weaving her life-long love of books and reading with the fascinating history of libraries and the sometimes-eccentric characters who run them, award-winning journalist and New York Times bestselling author Orlean presents a mesmerizing and uniquely compelling story. With her signature wit, insight, compassion and talent for deep research, she investigates the legendary Los Angeles Public Library fire to showcase the larger, crucial role that libraries play in our lives, and reveals how these buildings provide much more than just books and are needed now more than ever.  
+
 
 </details>
 
@@ -6600,9 +6651,45 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details>
-<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
- </summary>
+<details><summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
+
+### The Two Gentlemen of Verona.  (2:07)  
+Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/  
+eBook: https://www.gutenberg.org/ebooks/1509  (*Prepared/edited by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers - released 1998, last updated Oct 28, 2025.*)  
+By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
+
+Reading Notes: See the **excellent** [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona) for an outline.  The [audio version available on librivox.org](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/) is not easy to listen to -- quality of presentation as well as simple volume levels vary wildly among the various characters.  If you are able the [eBook from gutenberg.org](https://www.gutenberg.org/ebooks/1509) might be a more enjoyable experience.  
+
+Characters:  
+Verona:  
+* Valentine – a gentleman  
+* Proteus – Valentine's best friend  
+* Julia – Proteus' betrothed (at one point in the story she calls herself `Sebastian`)  
+* Launce – Proteus' servant  
+* Speed – Valentine's servant  
+* Antonio – Proteus' father  
+* Panthino – Antonio's servant  
+* Lucetta – Julia's servant  
+* Crab – Launce's dog  
+Milan:  
+* The Duke – Silvia's father  
+* Silvia – Valentine's beloved  
+* Thurio – a [foppish](https://en.wikipedia.org/wiki/Fop) suitor to Silvia  
+* Sir Eglamour – a knight who aids Silvia  
+The Forest:  
+* The Host – an innkeeper who helps Julia  
+* The Outlaws – banished men originally from Milan  
+
+An **excellent** Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
+
+[Librivox Summary](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/):  
+>The Two Gentlemen of Verona is the earliest comedy written by Shakespeare (and possibly his first play), probably written around 1590-91. It focuses on two friends, Valentine and Proteus, whose friendship is disrupted by their mutual passion for the lovely Silvia. Proteus jilts Julia in order to pursue Silvia; she responds by enlisting the help of her maid Lucetta to dress as a boy and go after Proteus. The play also includes some wonderfully comic supporting characters, particularly Launce and his scene-stealing dog Crab. ([Summary by Elizabeth Klett](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/))  
+
+
+</details>
+
+
+<details><summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020  </summary>
 
 ### Under the Tulip Tree. (10:00)  
 Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
