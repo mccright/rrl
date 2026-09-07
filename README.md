@@ -6651,9 +6651,45 @@ Review by [Jessica Brockmole](https://www.jessicabrockmole.com/): [https://histo
 </details>
 
 
-<details>
-<summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020 
- </summary>
+<details><summary><a name="the_two_gentlemen_of_verona_by_william_shakespeare"></a>The Two Gentlemen of Verona. By William Shakespeare. circa 1590 </summary>
+
+### The Two Gentlemen of Verona.  (2:07)  
+Audio: https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/  
+eBook: https://www.gutenberg.org/ebooks/1509  (*Prepared/edited by the PG Shakespeare Team, a team of about twenty Project Gutenberg volunteers - released 1998, last updated Oct 28, 2025.*)  
+By [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare) (1564 - 1616)  
+
+Reading Notes: See the **excellent** [Wikipedia Summary](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona) for an outline.  The [audio version available on librivox.org](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/) is not easy to listen to -- quality of presentation as well as simple volume levels vary wildly among the various characters.  If you are able the [eBook from gutenberg.org](https://www.gutenberg.org/ebooks/1509) might be a more enjoyable experience.  
+
+Characters:  
+Verona:  
+* Valentine – a gentleman  
+* Proteus – Valentine's best friend  
+* Julia – Proteus' betrothed (at one point in the story she calls herself `Sebastian`)  
+* Launce – Proteus' servant  
+* Speed – Valentine's servant  
+* Antonio – Proteus' father  
+* Panthino – Antonio's servant  
+* Lucetta – Julia's servant  
+* Crab – Launce's dog  
+Milan:  
+* The Duke – Silvia's father  
+* Silvia – Valentine's beloved  
+* Thurio – a [foppish](https://en.wikipedia.org/wiki/Fop) suitor to Silvia  
+* Sir Eglamour – a knight who aids Silvia  
+The Forest:  
+* The Host – an innkeeper who helps Julia  
+* The Outlaws – banished men originally from Milan  
+
+An **excellent** Wikipedia Summary: [wikipedia.org/wiki/The_Two_Gentlemen_of_Verona](https://en.wikipedia.org/wiki/The_Two_Gentlemen_of_Verona)  
+
+[Librivox Summary](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/):  
+>The Two Gentlemen of Verona is the earliest comedy written by Shakespeare (and possibly his first play), probably written around 1590-91. It focuses on two friends, Valentine and Proteus, whose friendship is disrupted by their mutual passion for the lovely Silvia. Proteus jilts Julia in order to pursue Silvia; she responds by enlisting the help of her maid Lucetta to dress as a boy and go after Proteus. The play also includes some wonderfully comic supporting characters, particularly Launce and his scene-stealing dog Crab. ([Summary by Elizabeth Klett](https://librivox.org/the-two-gentlemen-of-verona-by-william-shakespeare/))  
+
+
+</details>
+
+
+<details><summary><a name="under_the_tulip_tree_by_michelle_shocklee"></a>Under the Tulip Tree.  By Michelle Shocklee. 2020  </summary>
 
 ### Under the Tulip Tree. (10:00)  
 Audio: https://www.overdrive.com/media/5727288/under-the-tulip-tree  
