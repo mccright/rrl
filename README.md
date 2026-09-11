@@ -35,6 +35,29 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="the_1619_project_by_nikole_hannah_jones"></a>The 1619 Project -- A New Origin Story.  By Nikole Hannah-Jones. 2021  </summary>
+
+### The 1619 Project -- A New Origin Story.  (19:00)  
+Audio: https://www.overdrive.com/media/6104047/the-1619-project  
+eBook: https://www.overdrive.com/media/6103230/the-1619-project  
+By [Nikole Hannah-Jones](https://en.wikipedia.org/wiki/Nikole_Hannah-Jones)  (1976 – )  
+
+Reading Notes: This book focuses on slavery and its many negative influences in the history of the United States -- that history including a strong theme of oppressing African Americans (*and other non-whites*) in almost every way imaginable for centuries, and has continuing material negative consequences for African Americans today.  In my reading, Nikole Hannah-Jones and the other 1619 Project writers were not attempting to write all of American history, but to surface and explore a central role played by slavery and the legacy, the trail of often horrible impacts that imposed upon African Americans during the 400 years following 1619. That multi-faceted river of oppression was the result of innumerable individual decisions -- almost entirely by Whites -- and it is an important story to tell and retell.  
+
+[The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) has received considerable criticism from the intellectual and political Right, from *covert* and overt racists, from White Supremisists, from Academics and professional historians, and from some persons and institutions associated with professional journalism.  As much as I read of their criticism most seemed an expression of fear because [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)" book surface a lot of content and ideas that add dischord to the types of professional, academic and political story-telling and story-building into which they are so heavily invested.  
+
+The audio book has a relatively extensive cast of presenters and content.  See the [contributor's page of the 1619 Project Book site](https://1619books.com/contributors/#contributors) for that list.  
+
+[1619 Project Site Summary](https://1619books.com/):  
+>In late August 1619, a ship arrived in the British colony of Virginia bearing a cargo of twenty to thirty people stolen from Africa. Their arrival led to the barbaric and unprecedented system of American chattel slavery that would last for the next 250 years. This is sometimes referred to as the country’s original sin, but it is more than that: It is the source of so much that still defines the United States.  
+>The New York Times Magazine’s award-winning “1619 Project” issue reframed our understanding of American history by placing slavery and its continuing legacy at the center of our national narrative. This new book substantially expands on that work, weaving together eighteen essays that explore the legacy of slavery in present-day America with thirty-six poems and works of fiction that illuminate key moments of oppression, struggle, and resistance. The essays show how the inheritance of 1619 reaches into every part of contemporary American society, from politics, music, diet, traffic, and citizenship to capitalism, religion, and our democracy itself.  
+>This is a book that speaks directly to our current moment, contextualizing the systems of race and caste within which we operate today. It reveals long-glossed-over truths around our nation’s founding and construction—and the way that the legacy of slavery did not end with emancipation, but continues to shape contemporary American life.  
+
+On Wikipedia see: [The 1619 Project](https://en.wikipedia.org/wiki/The_1619_Project) and "[The 1619 Project: A New Origin Story](https://en.wikipedia.org/wiki/The_1619_Project:_A_New_Origin_Story)."  
+
+</details>
+
+
 <details><summary><a name="1939"></a>1939 -- A People's History of the Coming of the Second World War. By Frederick Taylor. 2020 </summary>
 
 ### 1939 -- A People's History of the Coming of the Second World War. (15:00)  
@@ -1944,6 +1967,25 @@ The author concludes with an argument that the principles outlined in our countr
 Review by Dr. Keisha L. Hoerrner: [ejournalofpublicaffairs.org/...democracy-awakening-notes-on-the-state-of-america/](https://www.ejournalofpublicaffairs.org/book-review-democracy-awakening-notes-on-the-state-of-america/)  
 Reviews on GoodReads: https://www.goodreads.com/book/show/90590139-democracy-awakening  
 Other References:  https://heathercoxrichardson.substack.com/p/december-11-2019 and https://heathercoxrichardson.substack.com/p/october-6-2024  
+
+
+</details>
+
+
+<details><summary><a name="destiny_of_the_republic_by_candice_millard"></a>Destiny of the Republic -- A Tale of Madness, Medicine and the Murder of a President. By Candice Millard.  2011 </summary>
+
+### Destiny of the Republic -- A Tale of Madness, Medicine and the Murder of a President. (10:00)  
+Audio: https://www.overdrive.com/media/524418/destiny-of-the-republic  
+eBook: https://www.overdrive.com/media/552223/destiny-of-the-republic  
+By [Candice Millard](https://en.wikipedia.org/wiki/Candice_Millard) (1967 -  )   
+
+Reading Notes: This is an excellent non-fiction story about the life and [assassination](https://en.wikipedia.org/wiki/Assassination_of_James_A._Garfield) of United States [President James A. Garfield](https://en.wikipedia.org/wiki/James_A._Garfield), including coverage of his assassin, [Charles J. Guiteau](https://en.wikipedia.org/wiki/Charles_J._Guiteau) along with key Washington political actors, Vice President [Chester A. Arthur](https://en.wikipedia.org/wiki/Chester_A._Arthur), Senator [Roscoe Conkling](https://en.wikipedia.org/wiki/Roscoe_Conkling) and the seriously damaged senior presiding doctor, [D. Willard Bliss](https://en.wikipedia.org/wiki/Doctor_Willard_Bliss), and a cameo by [Alexander Graham Bell](https://en.wikipedia.org/wiki/Alexander_Graham_Bell).  
+
+[Overdrive Summary](https://www.overdrive.com/media/552223/destiny-of-the-republic):  
+>"James A. Garfield was one of the most extraordinary men ever elected president. Born into abject poverty, he rose to become a wunderkind scholar, a Civil War hero, and a renowned and admired reformist congressman. Nominated for president against his will, he engaged in a fierce battle with the corrupt political establishment. But four months after his inauguration, a deranged office seeker tracked Garfield down and shot him in the back.  But the shot didn’t kill Garfield. The drama of what happened subsequently is a powerful story of a nation in turmoil. The unhinged assassin’s half-delivered strike shattered the fragile national mood of a country so recently fractured by civil war, and left the wounded president as the object of a bitter behind-the-scenes struggle for power—over his administration, over the nation’s future, and, hauntingly, over his medical care. A team of physicians administered shockingly archaic treatments, to disastrous effect. As his condition worsened, Garfield received help: Alexander Graham Bell, the inventor of the telephone, worked around the clock to invent a new device capable of finding the bullet."  
+
+Review by [By Janet Maslin]: [nytimes.com/2011/09/12/books/destiny-of-the-republic...](https://www.nytimes.com/2011/09/12/books/destiny-of-the-republic-on-garfield-by-candice-millard-review.html)  
+Review by [Del Quentin Wilber](): [washingtonpost.com/.../destiny-of-the-republic/...](https://www.washingtonpost.com/entertainment/books/destiny-of-the-republic/2011/08/25/gIQAbzC99K_story.html?noredirect=on)  
 
 
 </details>
