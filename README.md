@@ -1891,10 +1891,29 @@ Audio: https://www.overdrive.com/media/9267812/the-deep-sky
 eBook: https://www.overdrive.com/media/9174909/the-deep-sky  
 By [Yume Kitasei](https://www.yumekitasei.com/)  ( – )  
 
-Reading Notes: While this is an interesting story about one path for dealing with our near future climate/societl catastrophe -- sending ~80 young women on a voyage to a nearby star with a habital planet -- it is a little too *[young adult (YA)](https://en.wikipedia.org/wiki/Young_adult_literature)* for me.  Much of the storyline involves Asuka and some others working through relatively common human challenges for the first time during their unprecedented "escape" from earth.  Because these pioneers were the top picks from a global competitive process and extensive training, their difficulties dealing with the challenges of isolation from their families & friends on earth as well as working with their team at they meet the challenges of long term space flight seem like a mismatch. I stuck with the story through the end, but it left me with no joy for having done so.  If you are or know a 12 to 18 year old, this may be a much more positive experience.  
+Reading Notes: While this is an interesting story about one path for dealing with our near future climate/societl catastrophe -- sending ~80 young women on a voyage to a nearby star with a habitable planet -- it is a little too *[young adult (YA)](https://en.wikipedia.org/wiki/Young_adult_literature)* for me.  Much of the storyline involves Asuka and some others working through relatively common human challenges for the first time during their unprecedented "escape" from earth.  Because these pioneers were the top picks from a global competitive process and extensive training, their difficulties dealing with the challenges of isolation from their families & friends on earth as well as working with their team at they meet the challenges of long term space flight seem like a mismatch. I stuck with the story through the end, but it left me with no joy for having done so.  If you are or know a 12 to 18 year old, this may be a much more positive experience.  
 
 Overdrive Summary:  
 >Yume Kitasei's The Deep Sky is an enthralling sci fi thriller debut about a mission into deep space that begins with a lethal explosion that leaves the survivors questioning the loyalty of the crew. They left Earth to save humanity. They'll have to save themselves first.  It is the eve of Earth's environmental collapse. A single ship carries humanity's last hope: eighty elite graduates of a competitive program, who will give birth to a generation of children in deep space. But halfway to a distant but livable planet, a lethal bomb kills three of the crew and knocks The Phoenix off course. Asuka, the only surviving witness, is an immediate suspect.  As the mystery unfolds on the ship, poignant flashbacks reveal how Asuka came to be picked for the mission. Despite struggling through training back on Earth, she was chosen to represent Japan, a country she only partly knows as a half-Japanese girl raised in America. But estranged from her mother back home, The Phoenix is all she has left.With the crew turning on each other, Asuka is determined to find the culprit before they all lose faith in the mission -- or worse, the bomber strikes again.  
+
+
+</details>
+
+
+<details><summary><a name="deep_storm_by_lincoln_child"></a>Deep Storm -- #1 in Jeremy Logan series.  By Lincoln Child. 2007   </summary>
+
+### Deep Storm.  (13:00)  
+Audio: https://www.overdrive.com/media/116753/deep-storm  
+eBook: https://www.overdrive.com/media/147827/deep-storm  
+By [Lincoln Child](https://en.wikipedia.org/wiki/Lincoln_Child)  (1957 – )  
+
+Reading Notes: It was just OK.  Throughout this book, the author uses a story-telling technique of dribbling out snippits of *information* that only imply the reader will learn something material later in the text.  Under the most skillful writing the judicious use of this approach can add tension and drama to a story. In this case, it is used so often and across so many threads of activity that it drew my attention away from the core narrative.  
+Another unfortunate choice is the author's attempt to suggest *high-tech modernity* by giving all the core characters a *Palmtop* portable computer/tablet -- which suggests a connection to the real-life [Palm](https://en.wikipedia.org/wiki/Palm_(PDA)) line of portable *computers* widely popular from 1996 to the early 2000s.  While I found my [PalmPilot 1000](https://en.wikipedia.org/wiki/Pilot_1000) and [Palm III](https://en.wikipedia.org/wiki/Palm_III) valuable in the extreme, they are a loud reminder about the era in which this book was written.  
+  
+
+Wikipedia Summarp: [wikipedia.org/wiki/List_of_novels_by_Lincoln_Child#Deep_Storm_(2007)](https://en.wikipedia.org/wiki/List_of_novels_by_Lincoln_Child#Deep_Storm_(2007))  
+Overdrive Summary:  
+>Former naval doctor Peter Crane is urgently summoned to a remote oil platform in the North Atlantic to help diagnose a bizarre medical condition spreading through the rig. But when he arrives, Crane learns that the real trouble lies far below–on “Deep Storm,” a stunningly advanced science research facility built two miles beneath the surface on the ocean floor. The top-secret structure has been designed for one purpose: to excavate a recently discovered undersea site that may hold the answers to a mystery steeped in centuries of myth and speculation.  Sworn to secrecy, Dr. Crane descends to Deep Storm. A year earlier, he is told, routine drilling uncovered the remains of mankind’s most sophisticated ancient civilization: the legendary Atlantis. But now that the site is being excavated, a series of disturbing illnesses has begun to affect the operation. As Crane is indoctrinated into the strange world of Deep Storm and commences his investigation, he begins to suspect that the covert facility conceals something more complicated than a medical mystery. The discovery of Atlantis might, in fact, be a cover for something far more sinister . . . and deadly.  
 
 
 </details>
