@@ -4636,6 +4636,29 @@ Reading notes: Explores some of the core myth-making establishing a widely-accep
 </details>
 
 
+<details><summary><a name="napoleon_a_life_by_andrew_roberts"></a>Napoleon -- A Life.  By Andrew Roberts.  2014  </summary>
+
+### Napoleon -- A Life. (33:00) (*more than 900 pages*)  
+Audio: https://www.overdrive.com/media/1646652/napoleon  
+eBook: https://www.overdrive.com/media/1583645/napoleon  
+By [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia) and [his site](https://www.andrew-roberts.net/about-andrew-roberts/) (1963 – )  
+
+Reading Notes: If you want a detailed biography of [Napoleon](https://en.wikipedia.org/wiki/Napoleon) (1769/08/15 – 1821/05/05), Andrew Roberts' 2014 volume might be a good fit.  The author details all of Napoleon's major battles (*most incorporated large-scale carnage*) and many of the most material actions throughout his life.  Note, (1) that the focus of this biography is Napoleon in his lifetime, and (2) not about his place in history, the author makes no (*maybe few*) judgements about Napoleon being a hero or villain.  Napoleon lived an active and complex life and left lasting impacts across the West as well as the Middle East.  His publications and actions have been studied across most world cultures.  See the [excellent review by Duncan Kelly](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) to learn more about this highly recommended book.  
+
+"the four pillars of his rule at home — low taxes, property rights, centralized authority and national glory." 
+
+Author's book page: [andrew-roberts.net/books/napoleon-a-life/](https://www.andrew-roberts.net/books/napoleon-a-life/)  
+Wikipedia Page: [wikipedia.org/wiki/Napoleon:_A_Life](https://en.wikipedia.org/wiki/Napoleon:_A_Life)  
+
+Excellent review by [Duncan Kelly](https://www.jesus.cam.ac.uk/people/duncan-kelly) and [here](https://www.polis.cam.ac.uk/people/duncan-kelly): [nytimes.com/.../napoleon-a-life-by-andrew-roberts.html](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) (*free access*)  
+Goodreads reviews: [goodreads.com/book/show/20821092-napoleon](https://www.goodreads.com/book/show/20821092-napoleon)  
+
+The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I.  [gutenberg.org/ebooks/50750](https://www.gutenberg.org/ebooks/50750)  
+There are a [lot](https://www.gutenberg.org/ebooks/search/?query=Napoleon) of free books that are about or that reference Napoleon.  
+
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
