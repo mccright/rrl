@@ -1891,10 +1891,29 @@ Audio: https://www.overdrive.com/media/9267812/the-deep-sky
 eBook: https://www.overdrive.com/media/9174909/the-deep-sky  
 By [Yume Kitasei](https://www.yumekitasei.com/)  ( – )  
 
-Reading Notes: While this is an interesting story about one path for dealing with our near future climate/societl catastrophe -- sending ~80 young women on a voyage to a nearby star with a habital planet -- it is a little too *[young adult (YA)](https://en.wikipedia.org/wiki/Young_adult_literature)* for me.  Much of the storyline involves Asuka and some others working through relatively common human challenges for the first time during their unprecedented "escape" from earth.  Because these pioneers were the top picks from a global competitive process and extensive training, their difficulties dealing with the challenges of isolation from their families & friends on earth as well as working with their team at they meet the challenges of long term space flight seem like a mismatch. I stuck with the story through the end, but it left me with no joy for having done so.  If you are or know a 12 to 18 year old, this may be a much more positive experience.  
+Reading Notes: While this is an interesting story about one path for dealing with our near future climate/societl catastrophe -- sending ~80 young women on a voyage to a nearby star with a habitable planet -- it is a little too *[young adult (YA)](https://en.wikipedia.org/wiki/Young_adult_literature)* for me.  Much of the storyline involves Asuka and some others working through relatively common human challenges for the first time during their unprecedented "escape" from earth.  Because these pioneers were the top picks from a global competitive process and extensive training, their difficulties dealing with the challenges of isolation from their families & friends on earth as well as working with their team at they meet the challenges of long term space flight seem like a mismatch. I stuck with the story through the end, but it left me with no joy for having done so.  If you are or know a 12 to 18 year old, this may be a much more positive experience.  
 
 Overdrive Summary:  
 >Yume Kitasei's The Deep Sky is an enthralling sci fi thriller debut about a mission into deep space that begins with a lethal explosion that leaves the survivors questioning the loyalty of the crew. They left Earth to save humanity. They'll have to save themselves first.  It is the eve of Earth's environmental collapse. A single ship carries humanity's last hope: eighty elite graduates of a competitive program, who will give birth to a generation of children in deep space. But halfway to a distant but livable planet, a lethal bomb kills three of the crew and knocks The Phoenix off course. Asuka, the only surviving witness, is an immediate suspect.  As the mystery unfolds on the ship, poignant flashbacks reveal how Asuka came to be picked for the mission. Despite struggling through training back on Earth, she was chosen to represent Japan, a country she only partly knows as a half-Japanese girl raised in America. But estranged from her mother back home, The Phoenix is all she has left.With the crew turning on each other, Asuka is determined to find the culprit before they all lose faith in the mission -- or worse, the bomber strikes again.  
+
+
+</details>
+
+
+<details><summary><a name="deep_storm_by_lincoln_child"></a>Deep Storm -- #1 in Jeremy Logan series.  By Lincoln Child. 2007   </summary>
+
+### Deep Storm.  (13:00)  
+Audio: https://www.overdrive.com/media/116753/deep-storm  
+eBook: https://www.overdrive.com/media/147827/deep-storm  
+By [Lincoln Child](https://en.wikipedia.org/wiki/Lincoln_Child)  (1957 – )  
+
+Reading Notes: It was just OK.  Throughout this book, the author uses a story-telling technique of dribbling out snippits of *information* that only imply the reader will learn something material later in the text.  Under the most skillful writing the judicious use of this approach can add tension and drama to a story. In this case, it is used so often and across so many threads of activity that it drew my attention away from the core narrative.  
+Another unfortunate choice is the author's attempt to suggest *high-tech modernity* by giving all the core characters a *Palmtop* portable computer/tablet -- which suggests a connection to the real-life [Palm](https://en.wikipedia.org/wiki/Palm_(PDA)) line of portable *computers* widely popular from 1996 to the early 2000s.  While I found my [PalmPilot 1000](https://en.wikipedia.org/wiki/Pilot_1000) and [Palm III](https://en.wikipedia.org/wiki/Palm_III) valuable in the extreme, they are a loud reminder about the era in which this book was written.  
+  
+
+Wikipedia Summarp: [wikipedia.org/wiki/List_of_novels_by_Lincoln_Child#Deep_Storm_(2007)](https://en.wikipedia.org/wiki/List_of_novels_by_Lincoln_Child#Deep_Storm_(2007))  
+Overdrive Summary:  
+>Former naval doctor Peter Crane is urgently summoned to a remote oil platform in the North Atlantic to help diagnose a bizarre medical condition spreading through the rig. But when he arrives, Crane learns that the real trouble lies far below–on “Deep Storm,” a stunningly advanced science research facility built two miles beneath the surface on the ocean floor. The top-secret structure has been designed for one purpose: to excavate a recently discovered undersea site that may hold the answers to a mystery steeped in centuries of myth and speculation.  Sworn to secrecy, Dr. Crane descends to Deep Storm. A year earlier, he is told, routine drilling uncovered the remains of mankind’s most sophisticated ancient civilization: the legendary Atlantis. But now that the site is being excavated, a series of disturbing illnesses has begun to affect the operation. As Crane is indoctrinated into the strange world of Deep Storm and commences his investigation, he begins to suspect that the covert facility conceals something more complicated than a medical mystery. The discovery of Atlantis might, in fact, be a cover for something far more sinister . . . and deadly.  
 
 
 </details>
@@ -4617,6 +4636,29 @@ Reading notes: Explores some of the core myth-making establishing a widely-accep
 </details>
 
 
+<details><summary><a name="napoleon_a_life_by_andrew_roberts"></a>Napoleon -- A Life.  By Andrew Roberts.  2014  </summary>
+
+### Napoleon -- A Life. (33:00) (*more than 900 pages*)  
+Audio: https://www.overdrive.com/media/1646652/napoleon  
+eBook: https://www.overdrive.com/media/1583645/napoleon  
+By [Andrew Roberts](https://en.wikipedia.org/wiki/Andrew_Roberts,_Baron_Roberts_of_Belgravia) and [his site](https://www.andrew-roberts.net/about-andrew-roberts/) (1963 – )  
+
+Reading Notes: If you want a detailed biography of [Napoleon](https://en.wikipedia.org/wiki/Napoleon) (1769/08/15 – 1821/05/05), Andrew Roberts' 2014 volume might be a good fit.  The author details all of Napoleon's major battles (*most incorporated large-scale carnage*) and many of the most material actions throughout his life.  Note, (1) that the focus of this biography is Napoleon in his lifetime, and (2) not about his place in history, the author makes no (*maybe few*) judgements about Napoleon being a hero or villain.  Napoleon lived an active and complex life and left lasting impacts across the West as well as the Middle East.  His publications and actions have been studied across most world cultures.  See the [excellent review by Duncan Kelly](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) to learn more about this highly recommended book.  
+
+"the four pillars of his rule at home — low taxes, property rights, centralized authority and national glory." 
+
+Author's book page: [andrew-roberts.net/books/napoleon-a-life/](https://www.andrew-roberts.net/books/napoleon-a-life/)  
+Wikipedia Page: [wikipedia.org/wiki/Napoleon:_A_Life](https://en.wikipedia.org/wiki/Napoleon:_A_Life)  
+
+Excellent review by [Duncan Kelly](https://www.jesus.cam.ac.uk/people/duncan-kelly) and [here](https://www.polis.cam.ac.uk/people/duncan-kelly): [nytimes.com/.../napoleon-a-life-by-andrew-roberts.html](https://www.nytimes.com/2014/11/16/books/review/napoleon-a-life-by-andrew-roberts.html?unlocked_article_code=1.1lA.GF2e.PbX2Yvb8yciX&smid=url-share) (*free access*)  
+Goodreads reviews: [goodreads.com/book/show/20821092-napoleon](https://www.goodreads.com/book/show/20821092-napoleon)  
+
+The Officer's Manual: Napoleon's Maxims of War by Emperor of the French Napoleon I.  [gutenberg.org/ebooks/50750](https://www.gutenberg.org/ebooks/50750)  
+There are a [lot](https://www.gutenberg.org/ebooks/search/?query=Napoleon) of free books that are about or that reference Napoleon.  
+
+</details>
+
+
 <details><summary>Napoleon The First, An Intimate Biography. By Walter Geer. 1921 </summary>
 
 ### Napoleon The First, An Intimate Biography.  (12:11)  
@@ -5819,6 +5861,7 @@ Summary from Librivox:
 
 </details>  
 
+
 <details><summary><a name="sand_and_canvas_by_samuel_bevan"></a>Sand and Canvas: Narrative of adventures in Egypt.  By Samuel Bevan.  1849</summary>
 
 ### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome  
@@ -5826,6 +5869,21 @@ eBook: https://www.gutenberg.org/ebooks/68780
 By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?)  
 
 Note: This mid-19th century travel narrative (*maybe introducing some fiction as well, novel?*) includes an early usage of the term "[greasy spoon](https://en.wikipedia.org/wiki/Greasy_spoon)."  
+
+
+</details>
+
+
+<details><summary><a name="sapiens_a_brief_history_of_humankind_by_yuval_noah_harari"></a>Sapiens -- A Brief History of Humankind. By Yuval Noah Harari. (2011 Hebrew/2015 English)  </summary>
+
+### Sapiens -- A Brief History of Humankind. (15:00)  
+Audio: https://www.overdrive.com/media/2111174/sapiens  
+eBook: https://www.overdrive.com/media/1690806/sapiens  
+By [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)  (1976 – )  
+
+Reading Notes:  This book was originally published in Hebrew in 2011 based on the author's content teaching an undergraduate world history class.  Three years later it was published in English followed by [translation into 65 more languages](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind#Popular_reception).  The book surveys all human history, from early [homo sapiens](https://en.wikipedia.org/wiki/Homo_sapiens_(disambiguation)) in the [Stone Age](https://en.wikipedia.org/wiki/Stone_Age) through the 21st century.  This must have been a **great** undergraduate history course.  I strongly recommend this book for anyone wanting an interesting, maybe even challenging interpretation of world history (*it has received a range of academic and political criticism*).  
+
+Wikipedia summary: [wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind)  
 
 
 </details>
