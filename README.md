@@ -4674,6 +4674,21 @@ Librivox Summary:
 </details>
 
 
+<details><summary><a name="nature_of_the_beast_louise_penny"></a>The Nature of the Beast -- Chief Inspector Gamache Book 11 · Chief Inspector Armand Gamache. By Louise Penny. 2015 </summary>
+
+### The Nature of the Beast.  (13:00)  
+Audio: https://www.overdrive.com/media/10287151/the-nature-of-the-beast  
+eBook: https://www.overdrive.com/media/2102944/the-nature-of-the-beast  
+By [Louise Penny](https://en.wikipedia.org/wiki/Louise_Penny) (1958- )  
+
+Reading Notes: [Chief Inspector Armand Gamache](https://en.wikipedia.org/wiki/Chief_Inspector_Armand_Gamache), Jean-Guy Beauvoir, Isabelle Lacoste and young Adam Cohen of the [Sûreté du Québec](https://en.wikipedia.org/wiki/S%C3%BBret%C3%A9_du_Qu%C3%A9bec) investigate a pair of murders in Three Pines. This was a good fit for a long car ride...
+
+If you like this series or are considering starting it there is a site that has resources to help you decide *what next*, [https://www.gamacheseries.com/explore/series-re-read/](https://www.gamacheseries.com/explore/series-re-read/) -- outlining each of the volumes.  
+
+
+</details>
+
+
 <details><summary><a name="necessary_trouble_by_drew_gilpin_faust"></a>Necessary Trouble -- Growing Up at Midcentury. By Drew Gilpin Faust. 2023  </summary>
 
 ### Necessary Trouble -- Growing Up at Midcentury. (10:00)  
