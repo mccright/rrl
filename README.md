@@ -926,6 +926,19 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_Awakening_(Chopin_novel)
 </details>
 
 
+<details><summary><a name="a_backpack_a_bear_by_lev_golinkin"></a>A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. By Lev Golinkin.  2014  </summary>
+
+### A Backpack, a Bear, and Eight Crates of Vodka -- A Memoir. (9:00)  
+Audio: https://www.overdrive.com/media/2012395/a-backpack-a-bear-and-eight-crates-of-vodka  
+eBook: https://www.overdrive.com/media/1742834/a-backpack-a-bear-and-eight-crates-of-vodka  
+By [Lev Golinkin](https://njjewishnews.timesofisrael.com/i-wanted-to-be-a-part-of-something-larger/)  (1980 – )  
+
+Reading Notes: The first third of the book is a biography of the author's life in [Kharkiv, Ukraine](https://en.wikipedia.org/wiki/Kharkiv), until leaving the USSR in 1990 at nine years old.  Then a section in Vienna as a former Soviet, Jewish refugee in flight.  Then [West Lafayette Indiana](https://en.wikipedia.org/wiki/West_Lafayette,_Indiana) and [East Windsor, New Jersey](https://en.wikipedia.org/wiki/East_Windsor,_New_Jersey) as an immigrant and an American. Finally, returning as a young man to Austria and Eastern Europe to track down the strangers who made his escape possible ... and thank them.  I found this an interesting memoir about a time I remember, but only from the relatively isolation of a 30-something too focused on my career to understand much of the detail of the collapse of the former Soviet empire.  Lev Golinkin's history helped fill in a narrow but important slice of that era.  
+
+
+</details>
+
+
 <details><summary><a name="barons_of_the_sea_by_steven_ujifusa"></a>Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. By Steven Ujifusa. 2018  </summary>
 
 ### Barons of the Sea -- And their Race to Build the World's Fastest Clipper Ship. (12:25)  
