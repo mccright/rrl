@@ -276,6 +276,22 @@ Review by [Lauren Puckett-Pope](): [https://www.elle.com/...amanda-montell-the-a
 </details>
 
 
+<details><summary><a name="alexander_at_the_end_of_the_world_rachel_kousser"></a>Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great. By Rachel Kousser. 2024  </summary>
+
+### Alexander at the End of the World -- The Forgotten Final Years of Alexander the Great.  (11:00)  
+Audio: https://www.overdrive.com/media/9885518/alexander-at-the-end-of-the-world  
+eBook: https://www.overdrive.com/media/9852724/alexander-at-the-end-of-the-world  
+By [Rachel Kousser](https://rachelkousser.com/) and [wikipedia.org/wiki/Rachel_Meredith_Kousser](https://en.wikipedia.org/wiki/Rachel_Meredith_Kousser) ( – )  
+
+Reading Notes: This is an interesting exploration of *Alexander the Great's* conquest of Persia and Indian campaign during his final years, leading up to his death in 323 BC. See [Wikipedia](https://en.wikipedia.org/wiki/Alexander_the_Great#Persia) for a short summary of this period.  I highly recommend this biography by Rachel Kousser.  
+* *Alexander the Great* [Alexander III of Macedon](https://en.wikipedia.org/wiki/Alexander_the_Great)  
+
+Review by [Justin Marozzi](https://en.wikipedia.org/wiki/Justin_Marozzi): [nytimes.com/.../alexander-at-the-end-of-the-world-rachel-kousser](https://www.nytimes.com/2024/07/14/books/review/alexander-at-the-end-of-the-world-rachel-kousser.html)  
+
+
+</details>
+
+
 <details><summary><a name="the_alice_network_kate_quinn"></a>The Alice Network.  By Kate Quinn.  2017</summary>  
 
 ### The Alice Network.  
@@ -845,8 +861,7 @@ The Surprise in Fiction: [wikipedia.org/wiki/HMS_Surprise_(1796)#Surprise_in_fic
 </details>
 
 
-<details><summary><a name="mauritius_command_by_patrick_obrian"></a>#4 Aubrey & Maturin Series: The Mauritius Command.  By Patrick O'Brian. 2011/2009/1990/1977
- </summary>
+<details><summary><a name="mauritius_command_by_patrick_obrian"></a>#4 Aubrey & Maturin Series: The Mauritius Command.  By Patrick O'Brian. 2011/2009/1990/1977 </summary>
 
 ### The Mauritius Command.  By Patrick O'Brian. (11:00)  
 Audio: https://www.overdrive.com/media/61495/the-mauritius-command  
@@ -860,6 +875,26 @@ Principal characters mentioned in The Mauritius Command: [https://en.wikipedia.o
 Ships mentioned in The Mauritius Command: [https://en.wikipedia.org/wiki/The_Mauritius_Command#Ships](https://en.wikipedia.org/wiki/The_Mauritius_Command#Ships)  
 Wikipedia Summary of the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
 Recurring characters in the Aubrey–Maturin series: [https://en.wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
+
+
+</details>
+
+
+<details><summary><a name="desolation_island_by_patrick_obrian"></a>#5 Aubrey & Maturin Series: Desolation Island.  By Patrick O'Brian. 1978 </summary>
+
+### The Mauritius Command.  By Patrick O'Brian. (11:00)  
+Audio: https://www.overdrive.com/media/63284/desolation-island  
+eBook: https://www.overdrive.com/media/676902/desolation-island  
+By [Patrick O'Brian](https://en.wikipedia.org/wiki/Patrick_O%27Brian)  (1914 – 2000)  
+
+Reading Notes: If you enjoy sailing novels or [historical novels](https://en.wikipedia.org/wiki/Historical_novel) set in the earliest 19th century, or [naval histories](https://en.wikipedia.org/wiki/Nautical_fiction) I recommend this series.  Patrick O'Brian introduces a few more characters who will play core roles in the rest of the series.  "Desolation Island" (*from [Wikipedia](https://en.wikipedia.org/wiki/Desolation_Island_(novel)) is a [nautical](https://en.wikipedia.org/wiki/Nautical_fiction) [historical novel](https://en.wikipedia.org/wiki/Historical_novel) set at the turn of the 19th century.  Captain [Jack Aubrey](https://en.wikipedia.org/wiki/Jack_Aubrey) returned from [The Mauritius Command](https://en.wikipedia.org/wiki/The_Mauritius_Command) financially well off -- he feels rich and his household is expanding.  But he spends far beyond his means and is a unknowing vulnerable naive loser in business while on land.  Jack is offered command of the old [HMS Leopard](https://en.wikipedia.org/wiki/HMS_Leopard_(1790)) for a mission to Australia to restore Bligh, yes, [Captain Bligh](https://en.wikipedia.org/wiki/William_Bligh) of the [Bounty](https://en.wikipedia.org/wiki/HMS_Bounty) as the governor in New South Wales, which he accepts under enthusiastic support/pressure from his wife and his friend, [Dr. Stephen Maturin](https://en.wikipedia.org/wiki/Stephen_Maturin).  Naval high command also requires Captain Aubrey to transport a collection of condemned prisoners to Austrailia -- including Louisa Woga and accused American spy who had been travelling with [Diana Villiers](https://en.wikipedia.org/wiki/Diana_Villiers) (*Villiers fled back to America*).  
+A stowaway, disease among the prisoners and crew, a wild chase in cold rough Antarctic seas, Aubrey is wounded, shipwrecks, **crisis**, *abandenment*, spying, [counter-intelligence and counter-espionage](https://en.wikipedia.org/wiki/Counterintelligence#Defensive_counterintelligence) and more.  O'Brian writes a crisis as well as he does naval warfare -- the book would be worth reading even if it only dealt with a chase, the crises, shipwreck and resolution...  
+
+Wikipedia Summary of Desolation Island: [wikipedia.org/wiki/Desolation_Island](https://en.wikipedia.org/wiki/Desolation_Island_(novel))  
+Principal characters mentioned in Desolation Island: [hwikipedia.org/wiki/Desolation_Island_(novel)#Characters](https://en.wikipedia.org/wiki/Desolation_Island_(novel)#Characters)  
+Ships mentioned in Desolation Island: [wikipedia.org/wiki/Desolation_Island_(novel)#Ships](https://en.wikipedia.org/wiki/Desolation_Island_(novel)#Ships)  
+Wikipedia Summary of the Aubrey–Maturin series: [wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series)  
+Recurring characters in the Aubrey–Maturin series: [wikipedia.org/wiki/Recurring_characters...](https://en.wikipedia.org/wiki/Recurring_characters_in_the_Aubrey%E2%80%93Maturin_series)  
 
 
 </details>
