@@ -5864,6 +5864,44 @@ OverDrive Summary: https://www.overdrive.com/media/2985775/the-rise-and-fall-of-
 </details>
 
 
+<details><summary><a name="the_rise_of_athens_by_anthony_everitt"></a>The Rise of Athens -- The Story of the World's Greatest Civilization.  By Anthony Everitt.  2016  </summary>
+
+### The Rise of Athens -- The Story of the World's Greatest Civilization. (16:00)  
+Audio: https://www.overdrive.com/media/3049334/the-rise-of-athens  
+eBook: https://www.overdrive.com/media/2765161/the-rise-of-athens  
+By [Anthony Everitt](https://en.wikipedia.org/wiki/Anthony_Everitt)  (1940 – )  
+576 pages  
+
+Reading Notes: This book explores the history of the ancient city of Athens, its rise to political and cultural [greatness](https://en.wikipedia.org/wiki/Athens_in_the_5th_century_BC) and its withering to a small fraction of its size and influence compared to its peak.  It is dense, but the author keeps the narrative moving via *action* throughout. The main focus is the roughly three centuries between 600 BC and 200 BC. It outlines the rise and fall of Athens' experiment in radical democracy. It builds the story of Athens within the broader context of [Greece throughout this period](https://en.wikipedia.org/wiki/Greece_in_the_5th_century_BC) and its military & political rivals in the broader *world*.  It begins with an outline of Greek defeat over attacks from the [Persian Empire]().  It emphasizes the importance of the [Peloponnesian War]() -- the extended, bloody conflict between Sparta and Athens (*and their fluid collection of often unreliable allies*) for supremacy over land and sea.  All the whole, Persia lurked, interfering whenever it seemed advantageous. Eventually all three powers were diminished. Macedon’s [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) conquered them all, but his empire fell apart after his death in 323 BC.  
+
+Core Characters:  
+* [Athens](https://en.wikipedia.org/wiki/Athens_in_the_5th_century_BC)  
+* [Sparta](https://en.wikipedia.org/wiki/Sparta)  
+* The [Persian Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire)  
+* [Darius](https://en.wikipedia.org/wiki/Darius_III)  
+* [Xerxes, of Leonidas](https://en.wikipedia.org/wiki/Leonidas_I)  
+* The [Peloponnesian War](https://en.wikipedia.org/wiki/Peloponnesian_War)  
+* [Pericles](https://en.wikipedia.org/wiki/Pericles): Leading Athenian statesman  
+* [Themistocles](https://en.wikipedia.org/wiki/Themistocles): Naval strategist who led the Greeks to a decisive victory over their Persian enemies.  
+* [Miltiades](https://en.wikipedia.org/wiki/Miltiades)  
+* [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)  
+* [Herodotus](https://en.wikipedia.org/wiki/Herodotus)  
+* [Thucydides](https://en.wikipedia.org/wiki/Thucydides)  
+* [Hippocrates of Athens](https://en.wikipedia.org/wiki/Hippocrates_of_Athens)  
+* [Plato](https://en.wikipedia.org/wiki/Plato)  
+* [Socrates](https://en.wikipedia.org/wiki/Socrates)  
+* [Aeschylus](https://en.wikipedia.org/wiki/Aeschylus)  
+* [Aristophanes](https://en.wikipedia.org/wiki/Aristophanes)  
+* [Sophocles](https://en.wikipedia.org/wiki/Sophocles)  
+* [Euripides](https://en.wikipedia.org/wiki/Euripides)  
+* [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great)  
+
+Review by [Leonard Janke](): [leonardsreviews.substack.com/p/book-review-the-rise-of-athens-the](https://leonardsreviews.substack.com/p/book-review-the-rise-of-athens-the)
+
+
+</details>
+
+
 <details><summary><a name="rise_to_rebellion_jeff_shaara"></a>Rise to Rebellion -- A Novel of the American Revolution. By Jeff Shaara. 2001/2020 </summary>
 
 ### Rise to Rebellion -- A Novel of the American Revolution. (23:46)  
