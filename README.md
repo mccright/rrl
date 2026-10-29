@@ -3720,6 +3720,8 @@ We experience the story from the perspective of Klara, an AF (a solar-powered Ar
 CAUTION:  Learning story details by reading the excellent [wikipedia summary](https://en.wikipedia.org/wiki/Klara_and_the_Sun) might ruin (*maybe just "diminish"*) the reading experience for some because part of the Ishiguro's magic is in slowly, expertly, revealing new ideas and new threads of experience as the reader traverses his story.  
 
 Wikipedia Summary: https://en.wikipedia.org/wiki/Klara_and_the_Sun  
+Review by [Radhika Jones](https://en.wikipedia.org/wiki/Radhika_Jones): [nytimes.com/...klara-and-the-sun-kazuo-ishiguro](https://www.nytimes.com/2021/02/23/books/review/klara-and-the-sun-kazuo-ishiguro.html)  
+
 
 </details>
 
