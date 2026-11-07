@@ -167,6 +167,22 @@ OverDrive [Summary](https://www.overdrive.com/media/257554/abigail-adams):
 </details>
 
 
+<details><summary><a name="the_able_mclaughlins_by_margaret_wilson"></a>The Able McLaughlins. By Margaret Wilson. 1923  </summary>
+
+### The Able McLaughlins. (8:07)  
+Audio: https://librivox.org/the-able-mclaughlins-by-margaret-wilson/  
+eBook: https://www.gutenberg.org/ebooks/59845  
+By [Margaret Wilson](https://en.wikipedia.org/wiki/Margaret_Wilson_(novelist))  (1882 - 1973)  
+
+Reading Notes: This was an enjoyable, quick read.  There aren't a lot of moving parts in this prarie drama.  See the [Wikipedia summary](https://en.wikipedia.org/wiki/The_Able_McLaughlins) for more about the story.  
+
+Wikipedia Summary: [wikipedia.org/wiki/The_Able_McLaughlins](https://en.wikipedia.org/wiki/The_Able_McLaughlins)  
+[Librivox Summary](https://librivox.org/the-able-mclaughlins-by-margaret-wilson/):  
+>The Able McLaughlins won the Pulitzer Prize for a novel in 1924 in Margaret Wilson's debut work. Aptly described as "Little House on the Prairie - but for adults" the novel follows a group of Scottish families who pioneer the Iowa prairie in the 1860’s. The main storyline concerns Wully, the eldest McLaughlin son, who returns home from the Civil War to find that his sweetheart, Chirstie, has experienced an unspeakable tragedy that will profoundly affect the couple's lives. Their story is one of shame and honor, secrets and guilt, fear and loathing, revenge and forgiveness. But perhaps the stars of the novel are the strong older women such as Wully’s mother, Isobel, whose love and matriarchal strength keeps the family together as well as Chirstie’s stepmother, Barbara, who finds ways to make her good-for-nothing husband keep his promises. Interlaced with the plots are richly detailed descriptions of frontier prairie life, the love that families share, and the relationships within the Scottish immigrant community. (Warren Kati))  
+
+</details>
+
+
 <details><summary><a name="act_of_oblivion_by_robert_harris"></a>Act of Oblivion -- A Novel.  By Robert Harris.  2022  </summary>
 
 ### Act of Oblivion -- A Novel.  (16:00)  
@@ -5590,6 +5606,31 @@ Wikipedia Summary: https://en.wikipedia.org/wiki/The_President_Is_Missing_(novel
 Supersummary Summary: https://www.supersummary.com/the-president-is-missing/summary/  
 [James Patterson Summary](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/):  
 >"The President Is Missing confronts a threat so huge that it jeopardizes not just Pennsylvania Avenue and Wall Street, but all of America. Uncertainty and fear grip the nation. There are whispers of cyberterror and espionage and a traitor in the Cabinet. Even the President himself becomes a suspect, and then he disappears from public view...  Set over the course of three days, The President Is Missing sheds a stunning light upon the inner workings and vulnerabilities of our nation.  Filled with information that only a former Commander-in-Chief could know, this is the most authentic, terrifying novel to come along in many years. And a timely, historic story that will be read–and talked about–for years to come." [https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/](https://jamespattersonbooklist.com/james-patterson-the-president-is-missing/)  
+
+</details>
+
+
+<details><summary><a name="price_of_peace_by_zachary_d_carter"></a>The Price of Peace -- Money, Democracy, and the Life of John Maynard Keynes.  By Zachary D. Carter  2020  </summary>
+
+### The Price of Peace -- Money, Democracy, and the Life of John Maynard Keynes.  (23:00)  
+Audio: https://www.overdrive.com/media/4906915/the-price-of-peace  
+eBook: https://www.overdrive.com/media/5043396/the-price-of-peace  
+By [Zachary D. Carter](https://www.zacharydcarter.com/)  ( – )  
+
+Reading Notes: This is an exhaustive biography of [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)  (1883-1946), one of the most influential economists of the 20th century, and an excellent read.  Keynes was not only an economist, but an important political theorist and a distinguished figure in state affairs on an international scale. The author traces threads of Keynes' influence in (*primarily*) the United States through the Obama administration.  
+For anyone wondering *how did we get here?* or *how did this happen?* consider this book.  It provided a lot of new context for me.  
+
+[Kirkus Reviews](https://www.kirkusreviews.com/book-reviews/zachary-d-carter/the-price-of-peace-carter/):  
+>Assessing his subject’s legacy, Carter asserts that Keynesianism “is not so much a school of economic thought as a spirit of radical optimism” that “was for a time synonymous with liberal internationalism -- the idea that shrewd, humane economic management could protect democracies from the siren songs of authoritarian demagogues and spread peace and prosperity around the globe.”  
+
+...*market forces* didn't prioritize humanitarian values -- didn't prioritize "*the good*" for all.  
+
+[OverDrive Summary](https://www.overdrive.com/media/4906915/the-price-of-peace):  
+>At the dawn of World War I, a young academic named John Maynard Keynes hastily folded his long legs into the sidecar of his brother-in-law’s motorcycle for an odd, frantic journey that would change the course of history. Swept away from his placid home at Cambridge University by the currents of the conflict, Keynes found himself thrust into the halls of European treasuries to arrange emergency loans and packed off to America to negotiate the terms of economic combat. The terror and anxiety unleashed by the war would transform him from a comfortable obscurity into the most influential and controversial intellectual of his day—a man whose ideas still retain the power to shock in our own time.  
+>Keynes was not only an economist but the preeminent anti-authoritarian thinker of the twentieth century, one who devoted his life to the belief that art and ideas could conquer war and deprivation. As a moral philosopher, political theorist, and statesman, Keynes led an extraordinary life that took him from intimate turn-of-the-century parties in London’s riotous Bloomsbury art scene to the fevered negotiations in Paris that shaped the Treaty of Versailles, from stock market crashes on two continents to diplomatic breakthroughs in the mountains of New Hampshire to wartime ballet openings at London’s extravagant Covent Garden.  
+>Along the way, Keynes reinvented Enlightenment liberalism to meet the harrowing crises of the twentieth century. In the United States, his ideas became the foundation of a burgeoning economics profession, but they also became a flash point in the broader political struggle of the Cold War, as Keynesian acolytes faced off against conservatives in an intellectual battle for the future of the country—and the world. Though many Keynesian ideas survived the struggle, much of the project to which he devoted his life was lost.  
+>In this riveting biography, veteran journalist Zachary D. Carter unearths the lost legacy of one of history’s most fascinating minds. The Price of Peace revives a forgotten set of ideas about democracy, money, and the good life with transformative implications for today’s debates over inequality and the power politics that shape the global order.  
+
 
 </details>
 
