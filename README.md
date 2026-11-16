@@ -1930,6 +1930,28 @@ This is book #2 of the ["Remembrance of Earth's Past" trilogy](https://en.wikipe
 </details>
 
 
+<details><summary><a name="darkwater_by_w_e_b_du_bois"></a>Darkwater: Voices From Within the Veil. by W. E. B. Du Bois. 1920  </summary>
+
+### Darkwater: Voices From Within the Veil.  (7:13)  
+Audio: https://librivox.org/darkwater-voices-from-within-the-veil-by-w-e-b-du-bois/  
+eBook: https://www.gutenberg.org/ebooks/15210  
+eBook: https://archive.org/details/darkwatervoicesf00duborich/page/n1/mode/2up  
+By [W. E. B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (William Edward Burghardt/W. E. Burghardt Du Bois), (1868-1963)  
+
+Reading Notes: This collection of essays and poetry highlights the range of Du Bois' interests.  It is also a reminder of the scope of inhumanities that *whites* have an ongoing history of inflicting on *non-whites* in America and across the globe.  If you read no more than the opening "Credo" and "A Litany at Atlanta" it is worth the investment. If you want to know more, see the excellent collection of book reviews at Dr. [Robert W. Williams](http://www.webdubois.org/wdb-rw.html)' site on [Du Bois](http://www.webdubois.org/wdb-darkwater.html#:~:text=BOOK%20REVIEWS%20AND%20NOTICES%20OF%20DARKWATER).  
+I read this book in late 2026 while President [Donald Trump](https://en.wikipedia.org/wiki/Rhetoric_of_Donald_Trump#Analysis:~:text=Connolly%2C-,Trump's,scapegoats) and his top aide, White House chief of staff [Stephen Miller](https://en.wikipedia.org/wiki/Stephen_Miller) (*[anti-immigrationist](https://en.wikipedia.org/wiki/Anti-immigration)/[white nationalist](https://en.wikipedia.org/wiki/White_nationalist)/[white supremacist](https://en.wikipedia.org/wiki/White_supremacist)*) moved to prioritize many-faceted [racism](https://en.wikipedia.org/wiki/Donald_Trump#Race_and_gender:~:text=Many%20of%20Trump%27s%20comments%20and%20actions%20have%20been%20characterized%20as%20racist) and advancing the power of the already powerful over almost anything else. W.E.B. Du Bois' "Credo" and "A Litany at Atlanta" could both be read as a response to this [Trump](https://en.wikipedia.org/wiki/Donald_Trump#Between_presidencies_(2021%E2%80%932025):~:text=385%5D-,During,history)/Miller *mission*:  
+>...cozenage, ...lust of body and lust of blood, ...lust of power and lust of gold, ...lying of despot and of brute, ...twin Murder and Black Hate. ...And all this was to sate the greed of greedy men who hide behind the veil of vengeance!  
+
+(*"Cozenage" refers to the [practice of misleading others through lies or trickery](https://www.merriam-webster.com/thesaurus/cozenage), essentially involving [cheating, deceit or fraud](https://webstersdictionary1828.com/Dictionary/cozenage).*)  
+
+Wikipedia Summary: [wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil](https://en.wikipedia.org/wiki/Darkwater:_Voices_from_Within_the_Veil)  
+[Librivox Summary](https://librivox.org/darkwater-voices-from-within-the-veil-by-w-e-b-du-bois/):  
+>W. E. B. Du Bois, one of the greatest voices of the American experience, was born just after the end of the Civil War, was the first black American to earn a Ph.D. from Harvard, founded the NAACP in 1909, and lived to the beginnings of the modern civil rights movement in the early 1960s. In the middle of his long life, he published Darkwater: Voices from Within the Veil, a deeply thoughtful reflection on how black Americans were still struggling under the weight of Jim Crow and backlash from Reconstruction. He writes lyrically on the common bonds of working-people, the importance of education and the care of the nation’s children, and considers the future of American democracy, recently challenged by the surveillance, repression and racial discrimination of the Wilson Administration, the strains of the First World War and the widening inequality of the post-war boom. Du Bois died in 1963, and was honored by then-Vice President Lyndon Johnson during the March on Washington, the same event at which Dr. Martin Luther King delivered his “I Have a Dream” speech. The book is considered the first of Du Bois's three autobiographies and was followed by Dusk of Dawn: An Autobiography of a Race Concept, and The Autobiography of W. E. B. Du Bois: A Soliloquy on Viewing My Life from the Last Decade of its First Century. - Summary by Tom Shoesmith  
+
+
+</details>
+
+
 <details><summary><a name="darwins_ghosts_by_rebecca_stott"></a>Darwin's Ghosts: In Search of the First Evolutionists. By Rebecca Stott.  2012</summary>  
 
 ### Darwin's Ghosts: In Search of the First Evolutionists.  
