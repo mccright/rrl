@@ -326,6 +326,23 @@ Also see an [NPR Summary](https://www.npr.org/2017/06/08/530794379/the-alice-net
 </details>
 
 
+<details><summary><a name="all_quiet_on_the_western_front_by_erich_maria_remarque"></a>All Quiet on the Western Front. By Erich Maria Remarque. 1929  </summary>
+
+### All Quiet on the Western Front. (6:30)  
+Audio: https://librivox.org/all-quiet-on-the-western-front-by-erich-maria-remarque/  
+eBook: https://www.fadedpage.com/showbook.php?pid=20241107  
+By [Erich Maria Remarque](https://en.wikipedia.org/wiki/Erich_Maria_Remarque)  (1898 – 1970)  
+Translated by [Arthur Wesley Wheen](https://en.wikipedia.org/wiki/Arthur_Wheen) (1897 - 1971)  
+
+Reading Notes: What a dark book. See the excellent [plot summary](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front#Plot_summary)... At the highest level, it tells the story of enthusiastic young German recruits who suffer together in battle and waiting for the next fighting to begin, while they experience a growing isolation from non-combatants. One macro-theme might also be that war can morph into a *war for the sake of war*, rather than about any specific grievances with opposing nations.  
+
+[Plot Summary](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front#Plot_summary)  
+Wikipedia Summary: [wikipedia.org/wiki/All_Quiet_on_the_Western_Front](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front)  
+
+
+</details>
+
+
 <details>
 <summary><a name="the_alphabet_house_by_jussi_adler_olsen"></a>The Alphabet House.  By Jussi Adler-Olsen. 1997 in Danish/English translation in 2015 </summary>
 
