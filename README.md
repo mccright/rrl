@@ -131,6 +131,23 @@ Reading Notes: Travis Devine -- a financial industry "burner" (*a low-paid first
 </details>
 
 
+<details><summary><a name="813_by_maurice_leblanc"></a>813. by Maurice Leblanc. 1910  </summary>
+
+### 813.  (10:20)  
+Audio: https://librivox.org/813-by-maurice-leblanc/  
+eBook: https://www.gutenberg.org/ebooks/34758  
+By [Maurice Leblanc](https://en.wikipedia.org/wiki/Maurice_Leblanc)  (1864 - 1941)  
+Translated by [Alexander Teixeira de Mattos](https://en.wikipedia.org/wiki/Alexander_Teixeira_de_Mattos)  (1865 - 1921)  
+
+Reading Notes: I think that a reader might need to enjoy pre-WWI spy, whodunit or action novels to stick with "819."  *Arsène Lupin*, a genius, master of disguise, gentleman burglar is always the *smartest man in the room.*  He is constantly getting into and out of absurdly unlikely situations in his quest to gain power and wealth as well as to prove his innocence in a number of murders. This book is not for everyone...  
+  
+
+[Project Gutenberg Summary](https://www.gutenberg.org/ebooks/34758):  
+>"813" by Maurice Leblanc is a suspenseful detective novel written in the early 20th century. The story revolves around the enigmatic character Arsène Lupin, a gentleman burglar, as he engages in a thrilling game of cat and mouse with the authorities after committing a series of crimes, including a shocking murder. The novel introduces readers to a high-stakes world of intrigue, where Kesselbach, a wealthy man, becomes embroiled in a plot that threatens not only his life but also his ambitions. The opening of "813" sets a tense atmosphere with Mr. Kesselbach discovering that someone has invaded his hotel suite while he was away. Anxious and paranoid, he discusses strange occurrences with his secretary, Chapman, pointing out the peculiarities in their situation. When the mysterious Arsène Lupin makes his dramatic entrance, the tension escalates to a confrontation filled with twists and a daring heist, leaving readers breathless and eager to uncover the secrets surrounding Kesselbach's wealth and ambitions, as well as Lupin's true motives.  
+
+</details>
+
+
 <details><summary><a name="the_9th_man_by_steve_berry"></a>The 9th Man -- Luke Daniels. By Steve Berry. 2023 </summary>
 
 ### The 9th Man -- Luke Daniels Series. (12:00)  
